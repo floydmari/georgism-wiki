@@ -4590,3 +4590,36 @@ tenure rose more in proportional terms than owners', despite renters holding no 
 
 Lint 0 errors, 0 orphans, 1004 pages (no new pages). Queue ledger: 0 pending, 349 consumed.
 4 touched pages Ghost-synced.
+
+## 2026-09-09 — scanner back after a two-day gap; one enrichment, one keyword false positive
+
+The scanner resumed. Worth recording that it had been silent for two full days (no commits on
+7 or 8 September, the longest gap in this run — prior gaps were single days), which I'd flagged
+to Floyd on the 8th along with a session-start warning that the 1Password lookup for the Ghost
+key had stopped resolving. The Ghost key is still live in the environment from an earlier load,
+so publishing works; but a container rebuild would lose it, so that one still wants fixing.
+
+Only 2 items, so I skipped the T0 agent and the 80K corpus digest and triaged directly —
+disproportionate machinery for two URLs when a grep against existing coverage answers the
+novelty question faster. Noting the deviation here since the protocol specifies the T0 step.
+
+One was a clean keyword false positive: Catherine McKenna's memoir excerpt on Canadian consumer
+carbon pricing, matched via the substack policy-domain rule on "lvt" but containing no land-tax,
+land, or economic-rent content at all. Good article, wrong wiki.
+
+The other was TOP's land value tax as it applies to farmers. The New Zealand page already
+carried the headline design (1.75% urban / 0.5% rural, deferral, citizen's income, kingmaker
+polling), so the addition is confined to what the Dairy News interview actually adds: the
+boom-and-bust rationale for deferral, a conservation-land carve-out, a claimed tenant-farmer
+lease pass-through mitigation, and the party's projection that an average NZ$6-7m farm sees no
+significant net change once the rural rate, citizen's income and carve-out combine.
+
+The genuinely interesting bit is deputy leader Daniel Eb volunteering how far off this is:
+two election cycles plus a 10-year transition, so "2040-something" for full effect — advocates
+rarely concede that unprompted. And the transition contains "checkpoints to see how the market
+is baking in something like a land value tax," which is the transition-shock problem being
+treated as something to pace against rather than assumed away. Linked to tax-capitalization
+and lvt-transition-wealth-shock on that basis. All quotes re-extracted via curl and verified
+verbatim; one had to be split into fragments to clear the linter's 50-word quote cap.
+
+Lint 0 errors, 0 orphans, 1004 pages. Queue ledger: 0 pending, 351 consumed. 1 page Ghost-synced.
