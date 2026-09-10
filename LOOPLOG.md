@@ -4623,3 +4623,27 @@ and lvt-transition-wealth-shock on that basis. All quotes re-extracted via curl 
 verbatim; one had to be split into fragments to clear the linter's 50-word quote cap.
 
 Lint 0 errors, 0 orphans, 1004 pages. Queue ledger: 0 pending, 351 consumed. 1 page Ghost-synced.
+
+## 2026-09-10 — one item, rejected on the publisher's own instruction
+
+A single Slack-sourced item: Common Wealth Canada's new "BC Land Value Tax Explorer" hub. Again
+too small to justify the T0 agent and an 80K corpus digest, so triaged directly.
+
+This is the cleanest reject I've had to make, because the source tells you not to cite it. The
+hub is genuinely promising — five LVT design variants, from a modest split-rate shift to a full
+transition, each a run of CWC's V13C dynamic general equilibrium model of the BC economy,
+reporting construction, price, household-cashflow-by-income-and-tenure and regional effects. If
+populated, that is a real step up from the three-scenario advocacy modelling the BC page
+currently cites. But the page's own note reads: "Every figure shown is illustrative placeholder
+data... The model is structurally complete; the placeholder inputs are being replaced with the
+SFS, LAD and BC Assessment moments. Treat directions and relative magnitudes as indicative and
+do not quote any single number until this" notice lifts. Verified verbatim by curl rather than
+taken from the fetch summary, since the whole disposition turns on it.
+
+I also deliberately declined to add a "model forthcoming" note to `places/british-columbia`.
+The wiki doesn't carry watch-this-space entries, and a citation whose every number is a
+placeholder is worse than no citation. The ledger carries an explicit revisit trigger instead:
+re-check the URL once the placeholder notice comes off.
+
+No content changes — ledger only. Lint 0 errors, 1004 pages. Queue: 0 pending, 352 consumed.
+No Ghost-sync needed.
