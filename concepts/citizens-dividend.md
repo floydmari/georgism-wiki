@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, citizens-dividend, basic-income, land-rent, alaska]
 stub: false
 excerpt: "The distribution of collected land and resource rent equally to all citizens as a cash dividend — proposed by Henry George and exemplified by the Alaska Permanent Fund."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-09-11
 ---
 
 ## Definition
@@ -47,9 +47,52 @@ Barnes revives Thomas Paine's 1797 *Agrarian Justice* proposal — the ground-re
 
 Bill Raley's BIEN Congress 2018 paper [*The Citizen's Dividend*](/wiki/raley-citizens-dividend/) is a scholarly articulation of the concept's philosophical basis: it derives the entitlement to a dividend from the **Locke–Paine–George** tradition of common ownership — "every citizen, as a joint-owner of the commons, is entitled to their share of the nation's 'groundrent'" — and frames Paine's *Agrarian Justice* and George's *Progress and Poverty* as the direct ancestors of a modern basic income. Notably, Raley then *departs* from George on the instrument: he argues the dividend need not be funded by a literal land tax and proposes a 20% VAT as a proxy for the ≈20% of GDP he attributes to natural resources. That break — Georgist entitlement, non-Georgist funding — is exactly where a [land value tax](/wiki/land-value-tax/) purist should push back, since a consumption tax collects from labour and capital rather than from land [rent](/wiki/economic-rent/). (See the [research page](/wiki/raley-citizens-dividend/) for the full argument and its limits.)
 
+## Why the Funding Source Matters: Rent Absorption
+
+The pushback flagged above — that funding a dividend from consumption or payroll rather than
+from rent gives up the Georgist case — has been developed systematically by **Ibrahima Dramé**
+(PhD, International Political Economy, Tsukuba; Director of Education at the [Henry George
+School of Social Science](/wiki/henry-george-school/)) in a July 2023 policy brief.[7] Its
+central claim is that the funding source is not a detail of implementation but determines
+whether a basic income reaches its recipients at all.
+
+Dramé's target is Andrew Yang's VAT-funded "Freedom Dividend." Beyond the standard incidence
+objection (he cites evidence that VAT *decreases* are captured by businesses as profit while
+*increases* are passed to consumers), he identifies a distinctively Georgist flaw: "Another
+flaw of a VAT funded basic income, and this is true for other funding approaches save the land
+tax, is its potential for causing housing cost inflation as landlords raise prices to absorb
+the extra money as rent." The predicted result inverts the policy's purpose — rather than
+raising purchasing power, "the new money distributed as Freedom Dividend would be diverted
+into landlords' pockets in the form of higher rents." Worse, the failure compounds: such a
+scheme "would have to keep rising to match rising rents, while the landlords take a bigger
+share of the national wealth."[7]
+
+This is the [law of rent](/wiki/law-of-rent/) applied to transfer payments, and it is the
+mechanism by which a non-rent-funded dividend can be self-defeating. Dramé does not leave it
+as assertion: he points to the French housing-allowance literature — **Fack (2005)** and
+**Laferrère & Le Blanc (2002)** — finding that housing subsidies raised the rents paid by the
+families receiving them. (Those studies are cited by Dramé rather than analysed by him, and
+have not been independently verified for this wiki; they are the standard empirical reference
+for benefit capitalization into rents.) A land-funded dividend escapes the trap by
+construction: it "would not only limit the amount of income absorbed by rents, it would also
+provide a sustainable revenue stream to support it," while neither penalising production nor
+discouraging automation.[7]
+
+The brief's closing move connects the dividend to the automation debate that motivates most
+modern UBI advocacy, and does so in a way general UBI arguments cannot. Advances in AI and
+robotics, Dramé argues, will not only displace labour but "exercise an upward pressure on land
+values" — so under existing tenure the productivity gains flow to landowners as rent, and
+inequality widens through precisely the channel the dividend is meant to close. A rent-funded
+dividend rides that same wave rather than fighting it, quoting Fred Foldvary: "the way to
+implement basic income without stifling employment and growth is to tap a source that does not
+flee, shrink, or hide when paid. That source is land rent."[7] This is an advocacy brief from a
+Georgist school arguing the Georgist case, and is carried here as a well-developed statement
+of that argument rather than as independent evidence for it.
+
 ## See Also
 
 - [Raley, The Citizen's Dividend (BIEN 2018)](/wiki/raley-citizens-dividend/) — scholarly grounding of the dividend in the Locke–Paine–George tradition, with a divergent VAT funding proposal
+- [Dramé: Basic Income Guarantee — Why It Would Work Better With a Land Tax](/wiki/henry-george-school/) — the systematic case that a non-rent-funded dividend is absorbed into rents
 - [Rent dividends reduce poverty and inequality](/wiki/rent-dividends-reduce-poverty/) — what the evidence actually shows on the poverty/inequality claim
 
 - [Barnes — Who Owns the Sky? (cap-and-dividend)](/wiki/barnes-sky-trust/)
@@ -73,3 +116,4 @@ Bill Raley's BIEN Congress 2018 paper [*The Citizen's Dividend*](/wiki/raley-cit
 4. Peter Barnes, *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) — used for the commons trust dividend mechanism (C-claim). [Book page](/wiki/capitalism-3-0/)
 5. Bill Raley, "The Citizen's Dividend," 18th BIEN Congress (Tampere, 2018) — used for the Locke–Paine–George entitlement rationale and the VAT-funded proposal (attributed; grey-literature conference paper). [Research page](/wiki/raley-citizens-dividend/)
 6. Scott Santens, "Land Value Tax + Dividend = UBI," *Scott Santens* (Substack), 2026. [scottsantens.substack.com](https://scottsantens.substack.com/p/land-value-tax-dividend-ubi) — used for the "cannot be wired to the Cayman Islands" framing and the 1%/5% US LVT revenue-per-person estimates (advocacy source, attributed; D-claim for the framing, unverified back-of-envelope figures for the revenue estimates).
+7. Ibrahima Dramé, PhD, "Basic Income Guarantee — Why it Would Work Better With a Land Tax," Henry George School of Social Science, Policy Brief #2, July 2023 (20pp). [hgsss.org](https://www.hgsss.org/publications/basic-income-guarantee-why-it-would-work-better-with-a-land-tax/) · [PDF](https://www.hgsss.org/wp-content/uploads/Basic-Income-Guarantee-–-Why-it-Would-Work-Better-With-a-Land-Tax.pdf) — the landing page carries only metadata; the full PDF was fetched via curl and parsed locally 2026-09-11, and all quotations were verified verbatim against the extracted text — used for the VAT-incidence objection, the rent-absorption critique of Yang's Freedom Dividend and the "keep rising to match rising rents" compounding point, the land-tax alternative, the AI/robotics-raises-land-values conclusion, and the Foldvary quotation (§"Why the Funding Source Matters" above). Advocacy policy brief from a Georgist school, by a credentialed author, cited as an attributed statement of the argument rather than as independent evidence (C-claim). Its empirical support for benefit capitalization — Gabrielle Fack (2005), "Pourquoi les ménages pauvres paient-ils des loyers de plus en plus élevés?" and Laferrère & Le Blanc (2002), "Comment les aides au logement affectent-elles les loyers?", both *Économie et Statistique* — is cited by Dramé at footnote 38 and has NOT been independently retrieved or verified for this wiki.
