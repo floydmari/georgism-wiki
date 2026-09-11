@@ -4647,3 +4647,43 @@ re-check the URL once the placeholder notice comes off.
 
 No content changes — ledger only. Lint 0 errors, 1004 pages. Queue: 0 pending, 352 consumed.
 No Ghost-sync needed.
+
+## 2026-09-11 — a real gap filled on citizen's dividend; the CWC draft comes back, still dummy
+
+Two items, triaged directly again (two URLs doesn't justify the T0 agent plus an 80K digest).
+
+The second was the CWC "BC Land Value Tax Explorer" returning one day later as a claude.ai
+artifact link — the full-page version of the hub rejected on the 10th. The sharer's own context
+settles it: "v0.2 after 1 round of brainstorm and iteration. Still dummy data." I didn't fetch
+it; there is nothing to learn from a self-described dummy-data WIP draft of something already
+assessed. Yesterday's revisit trigger stands.
+
+The first was worth the effort. HGSSS's landing page carries only metadata, so the 20-page PDF
+had to be pulled by curl and parsed locally. It turned out to fill a real hole. The
+citizen's-dividend page had the Locke-Paine-George entitlement lineage, Barnes, Alaska, the
+targeting-efficiency counterarguments — and, on Raley's VAT-funded proposal, the observation
+that this is "exactly where an LVT purist should push back." But it never actually made that
+pushback. The single most important Georgist argument for pairing a dividend with LVT — that a
+dividend funded from anything but rent gets absorbed into rents — was absent from the page
+entirely.
+
+Dramé makes it directly, against Yang's Freedom Dividend: non-land funding means "the new money
+distributed as Freedom Dividend would be diverted into landlords' pockets in the form of higher
+rents," and the scheme then "would have to keep rising to match rising rents, while the
+landlords take a bigger share of the national wealth." That is the law of rent applied to
+transfer payments, and it is why the funding source is not an implementation detail.
+
+What lifted this above ordinary advocacy is that he doesn't leave it as assertion: footnote 38
+points to Fack (2005) and Laferrère & Le Blanc (2002) finding French housing subsidies raised
+the rents paid by the families receiving them. I've attributed those carefully — cited by
+Dramé, not retrieved or verified here — but they are the standard empirical reference for
+benefit capitalization, and their presence is what makes the argument more than a Georgist
+prior. The brief's closing move is also well-aimed at the automation debate that drives most
+modern UBI advocacy: AI and robotics push *up* land values, so under existing tenure the gains
+flow to landowners as rent and widen the very inequality a dividend is meant to close.
+
+Carried as an attributed statement of the Georgist argument, not as independent evidence for
+it — it is a Georgist school arguing the Georgist case. One self-inflicted lint hit: my own
+phrase "clearly-reasoned" tripped the banned-certainty rule, which is a fair catch.
+
+Lint 0 errors, 0 orphans, 1004 pages. Queue: 0 pending, 354 consumed. 1 page Ghost-synced.
