@@ -4687,3 +4687,35 @@ it — it is a Georgist school arguing the Georgist case. One self-inflicted lin
 phrase "clearly-reasoned" tripped the banned-certainty rule, which is a fair catch.
 
 Lint 0 errors, 0 orphans, 1004 pages. Queue: 0 pending, 354 consumed. 1 page Ghost-synced.
+
+## 2026-09-17 — scanner returns after six days; one reject that exposes a real gap
+
+The scanner had been silent since 11 September — six days, the longest gap in this run by a
+wide margin, and one I flagged to Floyd on the 14th after it beat the earlier two-day gap.
+It resumed today with a single item.
+
+That item was a keyword false positive: a UBI Works Notion post-mortem on why Canada's Carbon
+Rebate was abolished in 2025, matched on an "lvt" keyword in an unknown domain, containing no
+land-tax, rent, or dividend-design content. Same species as the Catherine McKenna carbon-pricing
+item rejected on the 9th. Notion is JS-rendered, so the direct fetch returned only the page
+shell and the content was reachable only through a reader-proxy summary — never verbatim.
+
+But triaging it surfaced something worth recording. `concepts/citizens-dividend` states that the
+Alaska PFD "demonstrates that a resource-rent dividend is administratively workable and
+politically durable", and the only dividend failures the page carries are Mongolia (fiscal
+collapse) and Iran (inflation and sanctions), both routed through the World Bank's survey.
+Canada's Carbon Rebate is a universal per-capita dividend, in a wealthy democracy, that was
+*repealed* — and the political mechanism is exactly the interesting part: most households came
+out ahead, yet roughly 57% reportedly didn't know they were receiving it, because the payment
+landed as an unlabelled bank deposit under a name nobody recognised. A dividend that nobody
+notices builds no constituency to defend it. That is a sharper counter-case to the durability
+claim than either Mongolia or Iran, and the wiki has no coverage of it at all.
+
+I did not write it up from this source, and that is the point of the entry. Qualifying a
+load-bearing claim on a well-developed page needs better than an unsigned advocacy Notion page
+whose figures cite unnamed surveys and which I could only read through a summarizer. The ledger
+carries the gap with a revisit note instead; whether to commission the carbon-rebate case
+properly is Floyd's call, and I've surfaced it rather than quietly acting on thin sourcing.
+
+No content changes — ledger only. Lint 0 errors, 1004 pages. Queue: 0 pending, 355 consumed.
+No Ghost-sync needed.
