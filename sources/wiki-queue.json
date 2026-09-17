@@ -1,6 +1,106 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://link.springer.com/article/10.1007/s11127-026-01455-w",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed (Public Choice). Rent extraction by dual-regulated municipal electric utilities at residential consumers expense — regulated monopoly rent.",
+      "context": "Dual regulation and the cost of electricity rents to households: evidence from Texas — Seth J. Carter. Public Choice, Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11293-026-09861-7",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed. Panel study of 9 MENA countries 1995-2020: rent-seeking institutions make inequality unproductive and reduce high-skilled emigration.",
+      "context": "Rent-seeking, Income Inequality and Brain Drain: An Empirical Investigation for the MENA Region — Louis Jaeck, Hajer Kratou. Atlantic Economic Journal, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.emerald.com/msar/article/doi/10.1108/MSAR-12-2025-0525/1394033/Managing-resource-rents-for-low-carbon",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed (Emerald). Natural resource rents and CO2 emissions nexus in 22 Asian countries, 2001-2022, through resource curse lens.",
+      "context": "Managing resource rents for low-carbon sustainability: the moderating roles of green finance, education and governance in Asian economies — Ishtiaq Mainuddin, Partha Acharjee, Eva Chowdhury. Management & Sustainability: An Arab Review (Emerald), Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w35676",
+      "source": "lvt-paper-scanner",
+      "reason": "NBER working paper. Dominant employers act as electoral monopsonies — local labor market power shaping political preferences and outcomes.",
+      "context": "Firms as Electoral Monopsonies — Carlos Fernando Avenancio-Leon, Adelina Barbalau, Cyndi Hou, Alessio Piccolo. NBER Working Paper w35676, Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://researchconnect.suny.edu/en/publications/optimal-patent-licensing-from-three-to-two-part-tariffs/",
+      "source": "lvt-paper-scanner",
+      "reason": "Patent licensing tariff structure in Cournot oligopoly — patent/IP rent economics; agent accepted analogous strategic-royalty paper recently.",
+      "context": "Optimal patent licensing: from three to two part tariffs — Siyu Ma, Debapriya Sen, Yair Tauman. SUNY Research Connect, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://shows.acast.com/ifs-zooms-in-coronavirus-and-the-economy/episodes/land-value-tax-the-perfect-tax",
+      "source": "lvt-paper-scanner",
+      "reason": "IFS podcast dedicated to LVT design and why it is rarely adopted — core-registry institution on directly on-topic subject.",
+      "context": "Land value tax: the perfect tax? — Stuart Adam and Ben Zaranko. IFS Zooms In podcast (Institute for Fiscal Studies), Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://share.snipd.com/episode/e2b9a44c-e1fb-4bb8-90db-ce4b8dff3ae2",
+      "source": "lvt-paper-scanner",
+      "reason": "New podcast appearance by core wiki figure Lars Doucet on LVT, speculation, valuation methods and YIMBY complementarity.",
+      "context": "Can a land value tax fix housing? — Lars Doucet on Money & Macro Talks podcast, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://thehenrygeorgefoundation.substack.com/p/is-land-undertaxed-in-britain",
+      "source": "lvt-paper-scanner",
+      "reason": "Georgist analysis of PM Andy Burnham claim that land is undertaxed in Britain, engaging Tim Leunig rebuttal — live UK policy debate.",
+      "context": "Is Land Undertaxed in Britain? — The Henry George Foundation. Substack, Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://thetyee.ca/News/2026/09/17/More-Time-Needed-Gas-Royalties/",
+      "source": "lvt-paper-scanner",
+      "reason": "BC natural gas royalty reform: West Moberly First Nation says significant accounting error undermines fair-share capture — resource rent story the BC page already tracks.",
+      "context": "More Time Needed to Get Gas Royalties Right, Nation Says — Andrew MacLeod. The Tyee, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.timesunion.com/news/article/ny-s-broken-property-tax-system-creates-22412860.php",
+      "source": "lvt-paper-scanner",
+      "reason": "Data-driven investigation of assessment disparities across NY municipalities — property tax inequity relevant to Georgist property-tax critique.",
+      "context": "How NY's 'broken' property tax system creates winners and losers — Gabe Levin, Julie Zhu. Times Union (Hearst), Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.waylandpost.org/news/wayland-weighs-costs-and-benefits-of-split-tax-rate/",
+      "source": "lvt-paper-scanner",
+      "reason": "Massachusetts town actively evaluating split-rate (two-rate) property taxation — live US policy momentum for Georgist enabling legislation.",
+      "context": "Wayland weighs costs and benefits of split tax rate — The Wayland Post (MA), Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4168,6 +4268,6 @@
       "notes": "Rejected as a source — but flags a genuine, specific content gap worth Floyd's attention. The page is a UBI Works Notion post-mortem on why Canada's Carbon Rebate (the Climate Action Incentive Payment) was abolished in 2025: an obscure name promoted too late, rebates arriving as unlabelled bank deposits, ~57% of Canadians reportedly unsure whether they had received the payment at all, the 'Axe the Tax' counter-message outcompeting the government's, and Trudeau's Oct-2023 heating-oil exemption backfiring into regional grievance. Confirmed to contain NO land-tax, economic-rent, or dividend-design content (matched on an 'lvt' keyword in an unknown domain) — same species of false positive as the Catherine McKenna carbon-pricing item rejected 2026-09-09. NOT CITABLE: unsigned advocacy-organization Notion page; app.notion.com is JS-rendered so direct fetch returned only the shell, and the content was readable only via an r.jina.ai mediated summary, never verbatim; the survey figures are attributed to unnamed surveys. THE GAP IT REVEALS: concepts/citizens-dividend.md asserts the Alaska PFD 'demonstrates that a resource-rent dividend is administratively workable and politically durable', and the only dividend failures it carries are Mongolia (fiscal) and Iran (inflation/sanctions), both via the World Bank. Canada's Carbon Rebate is a large-scale universal per-capita dividend in a wealthy democracy that was ABOLISHED — a political-durability counter-case with no representation on that page, and the wiki has no carbon-rebate page at all (existing mentions are incidental). Deliberately did not write this up from the Notion page: qualifying a load-bearing claim requires a better source than an unsigned advocacy post read through a summarizer. REVISIT: worth covering properly from mainstream reporting and academic post-mortems of the CAIP's repeal, which would let citizens-dividend's durability claim be stated with its strongest counter-example attached."
     }
   ],
-  "total": 355,
+  "total": 366,
   "last_updated": "2026-09-17"
 }
