@@ -63,6 +63,67 @@ creation. This is general corporate-finance rent-seeking theory, not land-specif
 supplies a modern mechanism — technological improvement in the *tools* of rent-seeking, not
 just in production — worth adding alongside this page's classical Tullock/Krueger framing.
 
+## Fragmented Regulation as a Rent Channel (Texas, 2026)
+
+Rent-seeking theory usually assumes a regulator that can be captured. A 2026 *Public Choice*
+paper by **Seth J. Carter** identifies a subtler channel: rents arising not from capturing
+one regulator but from the gap between **two non-coordinating** ones. In the Texas setting
+he studies, a city council sets prices for a municipal electric utility while a state public
+utility commission approves its investment — "dual regulation" over a single firm, with
+neither party holding the full information set.[13]
+
+The natural experiment is Lubbock Power & Light's 2010 acquisition of Xcel Energy's
+distribution assets, which eliminated competing service providers and consolidated the city
+under a dual-regulated municipal monopoly. Using Texas household data from 2005 to 2023,
+Carter runs a triple-differences estimation against a similarly-sized 2010 acquisition in
+Midland (not dual-regulated) and a dual-regulated environment in Denton (no acquisition),
+isolating the rent attributable to the *regulatory structure* rather than to the acquisition
+itself. Under his most conservative specification, dual regulation added an estimated
+**$20.8 million a year** to residential electric costs for LP&L customers alone — **$270
+million in additional rents from 2011 to 2023**, or roughly **13.6% higher household bills**
+than the acquisition alone would explain. Bills rose well in excess of acquisition costs and
+stayed elevated past any cost-recovery period, a pattern Carter reads as consistent with
+information asymmetry between fragmented regulators enabling rent extraction.[13]
+
+The Georgist relevance is a design lesson rather than a land finding: it is a measured case
+of rents created by the *architecture* of oversight rather than by the venality of any
+particular official, which is a different and more tractable problem than the one the
+[public-choice critique](/wiki/public-choice-critique/) usually poses to LVT proposals.
+Assessment and valuation institutions are frequently split across levels of government in
+exactly this way — a locally elected assessor, a state equalisation authority, a separate
+appeals tribunal — and Carter's result is evidence that the seams between such bodies are
+themselves places where value leaks out. It is also a caution to read alongside the wiki's
+[BC natural-gas royalty](/wiki/british-columbia/) case, where a rent-capture failure was
+discovered by an outside party rather than by the overlapping bodies nominally responsible.
+
+### Where Talent Goes When Rent-Seeking Pays
+
+A September 2026 *Atlantic Economic Journal* paper by **Louis Jaeck and Hajer Kratou**
+extends the talent-allocation strand above with a result that runs opposite to the intuitive
+direction, which is why it is worth stating carefully. Studying high-skilled emigration from
+nine Middle East and North Africa countries to twenty developed destinations over 1995–2020,
+the authors distinguish inequality by its *source*: their argument is that "unproductive
+inequalities at home driven by rent-seeking institutions are negatively related to
+high-skilled emigration" — that is, once inequality is conditioned on rent-seeking
+institutions, **higher inequality is associated with less** high-skilled emigration, not
+more.[14] Their reading is that rent-seeking institutions do not merely waste talent, they
+*retain* it: where the returns to capture are high, the most talented have reason to stay and
+compete for those returns rather than to leave for productive careers abroad. The policy
+conclusion the authors draw is that institutional reform is what reallocates talent "towards
+more productive careers, the latter being the main driver of entrepreneurship and economic
+growth."[14]
+
+That is a genuine addition to the [Baumol](/wiki/baumol-unproductive-entrepreneurship/)
+framework this page already carries: Baumol explains why the *allocation* of talent between
+productive and unproductive activity responds to the relative payoffs, and this paper suggests
+one observable consequence is that a brain-drain statistic can look reassuring for exactly
+the wrong reason. The limits are substantial. It is an abstract-level reading of an
+observational panel estimated with OLS and two-way fixed effects — no identification strategy
+that would license a causal claim — across nine countries in one region, and it leans on the
+Fraser Institute's Economic Freedom Index as its institutional measure, a source with its own
+well-known ideological priors. The finding is reported here as a hypothesis with supporting
+correlational evidence, not as an established relationship.
+
 ## A Historical Case: Dismantling an Efficiency Gain
 
 Rent-seeking is usually framed as resources diverted *toward* capturing a rent rather than
@@ -98,6 +159,10 @@ Two public-finance papers extend rent-seeking theory into optimal-tax design. [R
 - [FIRE Sector](/wiki/fire-sector/)
 
 - [Economic Rent](/wiki/economic-rent/) · [Land Monopoly](/wiki/land-monopoly/) · [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/)
+
+- [British Columbia](/wiki/british-columbia/) — a resource-rent capture failure discovered from outside the responsible institutions rather than within them
+
+- [Monopsony](/wiki/monopsony/) — the buyer-side companion channel, including 2026 work on how labour-market power converts into political power
 
 - [Desrochers & Smith: Rent-Seeking and the Meatpacking Industry](/wiki/desrochers-smith-meatpacking-rent-seeking/) — a historical case where rent-seeking dismantled, rather than merely diverted resources around, an existing efficiency and environmental gain
 
@@ -141,3 +206,5 @@ Two public-finance papers extend rent-seeking theory into optimal-tax design. [R
     activity rather than a by-product of growth (§"Connection to Georgism" above). Magazine
     interview; Drèze cites no data or studies anywhere in it, so this supports an attributed
     opinion only, not an empirical claim (C-claim).
+13. Seth J. Carter (2026), "Dual regulation and the cost of electricity rents to households: evidence from Texas," *Public Choice*, published online 19 August 2026, DOI 10.1007/s11127-026-01455-w. [link.springer.com](https://link.springer.com/article/10.1007/s11127-026-01455-w) — abstract retrieved via curl with a Googlebot user-agent (the default fetcher was blocked) and read 2026-09-17, with all figures verified verbatim against it — used for the dual-regulation setup (city council pricing, state PUC investment approval), the 2010 LP&L/Xcel acquisition natural experiment, the Midland and Denton comparison cases, the triple-differences and synthetic-control designs, and the $20.8m/year, $270m 2011–2023 and 13.6% figures under the most conservative specification (B-claim; abstract-level only, full text not retrieved this pass).
+14. Louis Jaeck & Hajer Kratou (2026), "Rent-seeking, Income Inequality and Brain Drain: An Empirical Investigation for the MENA Region," *Atlantic Economic Journal*, published online 15 September 2026, DOI 10.1007/s11293-026-09861-7. [link.springer.com](https://link.springer.com/article/10.1007/s11293-026-09861-7) — abstract retrieved via curl with a Googlebot user-agent and read 2026-09-17, with the quoted phrases verified verbatim against it — used for the nine-MENA-origin/twenty-destination 1995–2020 panel, the World Bank WDI and Fraser Institute Economic Freedom Index data sources, the OLS and two-way fixed-effects methods, the "unproductive inequalities... negatively related to high-skilled emigration" finding and its direction, and the institutional-reform/talent-allocation conclusion (B-claim; abstract-level only, and observational rather than causally identified).

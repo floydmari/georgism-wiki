@@ -1,106 +1,6 @@
 {
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "queue": [
-    {
-      "url": "https://link.springer.com/article/10.1007/s11127-026-01455-w",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed (Public Choice). Rent extraction by dual-regulated municipal electric utilities at residential consumers expense — regulated monopoly rent.",
-      "context": "Dual regulation and the cost of electricity rents to households: evidence from Texas — Seth J. Carter. Public Choice, Aug 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://link.springer.com/article/10.1007/s11293-026-09861-7",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed. Panel study of 9 MENA countries 1995-2020: rent-seeking institutions make inequality unproductive and reduce high-skilled emigration.",
-      "context": "Rent-seeking, Income Inequality and Brain Drain: An Empirical Investigation for the MENA Region — Louis Jaeck, Hajer Kratou. Atlantic Economic Journal, Sept 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.emerald.com/msar/article/doi/10.1108/MSAR-12-2025-0525/1394033/Managing-resource-rents-for-low-carbon",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed (Emerald). Natural resource rents and CO2 emissions nexus in 22 Asian countries, 2001-2022, through resource curse lens.",
-      "context": "Managing resource rents for low-carbon sustainability: the moderating roles of green finance, education and governance in Asian economies — Ishtiaq Mainuddin, Partha Acharjee, Eva Chowdhury. Management & Sustainability: An Arab Review (Emerald), Aug 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.nber.org/papers/w35676",
-      "source": "lvt-paper-scanner",
-      "reason": "NBER working paper. Dominant employers act as electoral monopsonies — local labor market power shaping political preferences and outcomes.",
-      "context": "Firms as Electoral Monopsonies — Carlos Fernando Avenancio-Leon, Adelina Barbalau, Cyndi Hou, Alessio Piccolo. NBER Working Paper w35676, Aug 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://researchconnect.suny.edu/en/publications/optimal-patent-licensing-from-three-to-two-part-tariffs/",
-      "source": "lvt-paper-scanner",
-      "reason": "Patent licensing tariff structure in Cournot oligopoly — patent/IP rent economics; agent accepted analogous strategic-royalty paper recently.",
-      "context": "Optimal patent licensing: from three to two part tariffs — Siyu Ma, Debapriya Sen, Yair Tauman. SUNY Research Connect, Sept 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://shows.acast.com/ifs-zooms-in-coronavirus-and-the-economy/episodes/land-value-tax-the-perfect-tax",
-      "source": "lvt-paper-scanner",
-      "reason": "IFS podcast dedicated to LVT design and why it is rarely adopted — core-registry institution on directly on-topic subject.",
-      "context": "Land value tax: the perfect tax? — Stuart Adam and Ben Zaranko. IFS Zooms In podcast (Institute for Fiscal Studies), Sept 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://share.snipd.com/episode/e2b9a44c-e1fb-4bb8-90db-ce4b8dff3ae2",
-      "source": "lvt-paper-scanner",
-      "reason": "New podcast appearance by core wiki figure Lars Doucet on LVT, speculation, valuation methods and YIMBY complementarity.",
-      "context": "Can a land value tax fix housing? — Lars Doucet on Money & Macro Talks podcast, Sept 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://thehenrygeorgefoundation.substack.com/p/is-land-undertaxed-in-britain",
-      "source": "lvt-paper-scanner",
-      "reason": "Georgist analysis of PM Andy Burnham claim that land is undertaxed in Britain, engaging Tim Leunig rebuttal — live UK policy debate.",
-      "context": "Is Land Undertaxed in Britain? — The Henry George Foundation. Substack, Aug 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://thetyee.ca/News/2026/09/17/More-Time-Needed-Gas-Royalties/",
-      "source": "lvt-paper-scanner",
-      "reason": "BC natural gas royalty reform: West Moberly First Nation says significant accounting error undermines fair-share capture — resource rent story the BC page already tracks.",
-      "context": "More Time Needed to Get Gas Royalties Right, Nation Says — Andrew MacLeod. The Tyee, Sept 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.timesunion.com/news/article/ny-s-broken-property-tax-system-creates-22412860.php",
-      "source": "lvt-paper-scanner",
-      "reason": "Data-driven investigation of assessment disparities across NY municipalities — property tax inequity relevant to Georgist property-tax critique.",
-      "context": "How NY's 'broken' property tax system creates winners and losers — Gabe Levin, Julie Zhu. Times Union (Hearst), Sept 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.waylandpost.org/news/wayland-weighs-costs-and-benefits-of-split-tax-rate/",
-      "source": "lvt-paper-scanner",
-      "reason": "Massachusetts town actively evaluating split-rate (two-rate) property taxation — live US policy momentum for Georgist enabling legislation.",
-      "context": "Wayland weighs costs and benefits of split tax rate — The Wayland Post (MA), Aug 2026.",
-      "author": null,
-      "queued_at": "2026-09-17T11:11:03.199189+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4266,6 +4166,144 @@
       "wiki_page": null,
       "triage_date": "2026-09-17",
       "notes": "Rejected as a source — but flags a genuine, specific content gap worth Floyd's attention. The page is a UBI Works Notion post-mortem on why Canada's Carbon Rebate (the Climate Action Incentive Payment) was abolished in 2025: an obscure name promoted too late, rebates arriving as unlabelled bank deposits, ~57% of Canadians reportedly unsure whether they had received the payment at all, the 'Axe the Tax' counter-message outcompeting the government's, and Trudeau's Oct-2023 heating-oil exemption backfiring into regional grievance. Confirmed to contain NO land-tax, economic-rent, or dividend-design content (matched on an 'lvt' keyword in an unknown domain) — same species of false positive as the Catherine McKenna carbon-pricing item rejected 2026-09-09. NOT CITABLE: unsigned advocacy-organization Notion page; app.notion.com is JS-rendered so direct fetch returned only the shell, and the content was readable only via an r.jina.ai mediated summary, never verbatim; the survey figures are attributed to unnamed surveys. THE GAP IT REVEALS: concepts/citizens-dividend.md asserts the Alaska PFD 'demonstrates that a resource-rent dividend is administratively workable and politically durable', and the only dividend failures it carries are Mongolia (fiscal) and Iran (inflation/sanctions), both via the World Bank. Canada's Carbon Rebate is a large-scale universal per-capita dividend in a wealthy democracy that was ABOLISHED — a political-durability counter-case with no representation on that page, and the wiki has no carbon-rebate page at all (existing mentions are incidental). Deliberately did not write this up from the Notion page: qualifying a load-bearing claim requires a better source than an unsigned advocacy post read through a summarizer. REVISIT: worth covering properly from mainstream reporting and academic post-mortems of the CAIP's repeal, which would let citizens-dividend's durability claim be stated with its strongest counter-example attached."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11127-026-01455-w",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed (Public Choice). Rent extraction by dual-regulated municipal electric utilities at residential consumers expense — regulated monopoly rent.",
+      "context": "Dual regulation and the cost of electricity rents to households: evidence from Texas — Seth J. Carter. Public Choice, Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "used",
+      "triage_date": "2026-09-17",
+      "notes": "Carter (Public Choice, Aug 2026), dual regulation and electricity rents in Texas. Abstract via Googlebot UA (default fetcher blocked); figures verified verbatim. Added a 'Fragmented Regulation as a Rent Channel' section: LP&L/Xcel 2010 acquisition natural experiment, triple-differences vs Midland and Denton, $20.8m/yr and $270m 2011-2023, ~13.6% higher bills. Value is the mechanism — rents from the seam between two non-coordinating regulators, not from capturing one — which transfers to split assessment/equalisation/appeals institutions. B-claim, abstract-level.",
+      "wiki_page": "rent-seeking"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11293-026-09861-7",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed. Panel study of 9 MENA countries 1995-2020: rent-seeking institutions make inequality unproductive and reduce high-skilled emigration.",
+      "context": "Rent-seeking, Income Inequality and Brain Drain: An Empirical Investigation for the MENA Region — Louis Jaeck, Hajer Kratou. Atlantic Economic Journal, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "used",
+      "triage_date": "2026-09-17",
+      "notes": "Jaeck & Kratou (Atlantic Economic Journal, Sept 2026), MENA rent-seeking and high-skilled emigration. Abstract via Googlebot UA. Added as a subsection to the talent-allocation material: the counterintuitive direction — inequality conditioned on rent-seeking institutions is NEGATIVELY related to high-skilled emigration, i.e. rent-seeking retains talent rather than exporting it — which extends Baumol. Stated as a hypothesis with correlational support: OLS/two-way FE on an observational nine-country panel with Fraser Institute EFI as the institutional measure, no causal identification. B-claim.",
+      "wiki_page": "rent-seeking"
+    },
+    {
+      "url": "https://www.emerald.com/msar/article/doi/10.1108/MSAR-12-2025-0525/1394033/Managing-resource-rents-for-low-carbon",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed (Emerald). Natural resource rents and CO2 emissions nexus in 22 Asian countries, 2001-2022, through resource curse lens.",
+      "context": "Managing resource rents for low-carbon sustainability: the moderating roles of green finance, education and governance in Asian economies — Ishtiaq Mainuddin, Partha Acharjee, Eva Chowdhury. Management & Sustainability: An Arab Review (Emerald), Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-09-17",
+      "notes": "Emerald host blocked to this session by every method tried, as in prior passes. Even on a recovered abstract the genre — cross-country panel of resource rents moderated by green finance / education / governance indices — is one the wiki already covers at better sourcing depth (Isgandarov & Mustafayev on Azerbaijan, Mintz & Chen, the Australia PRRT page). Rejected for sourcing, not for topic; if a readable version surfaces the Asian-economies angle would still be worth a look."
+    },
+    {
+      "url": "https://www.nber.org/papers/w35676",
+      "source": "lvt-paper-scanner",
+      "reason": "NBER working paper. Dominant employers act as electoral monopsonies — local labor market power shaping political preferences and outcomes.",
+      "context": "Firms as Electoral Monopsonies — Carlos Fernando Avenancio-Leon, Adelina Barbalau, Cyndi Hou, Alessio Piccolo. NBER Working Paper w35676, Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "used",
+      "triage_date": "2026-09-17",
+      "notes": "Avenancio-Leon, Barbalau, Hou & Piccolo, NBER w35676 (Aug 2026), 'Firms as Electoral Monopsonies'. Abstract page fetched directly (r.jina.ai returned 429); quotations verified verbatim. Added a new section to monopsony.md: the passive/active channel distinction, the shift-share design, the Republican-turnout result and the 2016/2024 counterfactual — with the identification and extrapolation caveats stated on the page rather than the headline. Linked to homevoters as the land-side analogue of the same political-entrenchment structure, and noted the lead author's assessment-gap work. B-claim, abstract-level.",
+      "wiki_page": "monopsony"
+    },
+    {
+      "url": "https://researchconnect.suny.edu/en/publications/optimal-patent-licensing-from-three-to-two-part-tariffs/",
+      "source": "lvt-paper-scanner",
+      "reason": "Patent licensing tariff structure in Cournot oligopoly — patent/IP rent economics; agent accepted analogous strategic-royalty paper recently.",
+      "context": "Optimal patent licensing: from three to two part tariffs — Siyu Ma, Debapriya Sen, Yair Tauman. SUNY Research Connect, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-09-17",
+      "notes": "Rejected on two grounds, both verified directly against the SUNY record this pass. (1) The queue's 'Sept 2026' is a repository-record date, not a publication date: the paper appeared in Economic Theory, Dec 2024, pp. 1233-1273, DOI 10.1007/s00199-024-01580-x. (2) Scope — it optimises a licensor's revenue across upfront fees, per-unit and ad valorem royalties in a Cournot oligopoly. That is tariff design for extracting the most from an innovation, not the hold-up/rent-protection question the ip-rents page treats via Choi, so it would not extend that page's argument. Carrying the date correction here since the queue metadata was wrong."
+    },
+    {
+      "url": "https://shows.acast.com/ifs-zooms-in-coronavirus-and-the-economy/episodes/land-value-tax-the-perfect-tax",
+      "source": "lvt-paper-scanner",
+      "reason": "IFS podcast dedicated to LVT design and why it is rarely adopted — core-registry institution on directly on-topic subject.",
+      "context": "Land value tax: the perfect tax? — Stuart Adam and Ben Zaranko. IFS Zooms In podcast (Institute for Fiscal Studies), Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-09-17",
+      "notes": "IFS Zooms In episode on LVT (Adam & Zaranko, Sept 2026). No transcript available, and the wiki's standing practice is not to build pages from audio it cannot quote and verify. The substance is very likely to be covered by IFS written output the wiki already cites (Mirrlees Review, the IFS taxation-of-land-and-property chapter) — worth revisiting only if IFS publishes a transcript or an accompanying written piece."
+    },
+    {
+      "url": "https://share.snipd.com/episode/e2b9a44c-e1fb-4bb8-90db-ce4b8dff3ae2",
+      "source": "lvt-paper-scanner",
+      "reason": "New podcast appearance by core wiki figure Lars Doucet on LVT, speculation, valuation methods and YIMBY complementarity.",
+      "context": "Can a land value tax fix housing? — Lars Doucet on Money & Macro Talks podcast, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-09-17",
+      "notes": "Lars Doucet on Money & Macro Talks. share.snipd.com remains fully blocked to this session by every method tried, consistent with prior passes. Doucet's written work is already covered extensively (Land Is a Big Deal, DALT, Does Georgism Work), so the marginal loss is small; noting the persistent block so the domain is not retried repeatedly."
+    },
+    {
+      "url": "https://thehenrygeorgefoundation.substack.com/p/is-land-undertaxed-in-britain",
+      "source": "lvt-paper-scanner",
+      "reason": "Georgist analysis of PM Andy Burnham claim that land is undertaxed in Britain, engaging Tim Leunig rebuttal — live UK policy debate.",
+      "context": "Is Land Undertaxed in Britain? — The Henry George Foundation. Substack, Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "used",
+      "triage_date": "2026-09-17",
+      "notes": "Henry George Foundation, 'Is Land Undertaxed in Britain?' (24 Aug 2026). Full text via r.jina.ai; quotations verified verbatim. Added a new section to places/united-kingdom.md on the Burnham-Leunig exchange. Homed here rather than on andy-burnham.md because the durable content is the analytic argument, not the politics: that OECD property-tax-revenue-to-GDP comparisons cannot settle whether land is undertaxed, since they omit how land returns are treated elsewhere in the code (CGT/IHT/VAT exemptions, untaxed imputed rent) — demonstrated via the US case where high property taxes coexist with heavy pro-owner-occupier bias. Flagged on the page as advocacy with its own policy preferences, A-claim for the essay's argument and quoted figures only.",
+      "wiki_page": "united-kingdom"
+    },
+    {
+      "url": "https://thetyee.ca/News/2026/09/17/More-Time-Needed-Gas-Royalties/",
+      "source": "lvt-paper-scanner",
+      "reason": "BC natural gas royalty reform: West Moberly First Nation says significant accounting error undermines fair-share capture — resource rent story the BC page already tracks.",
+      "context": "More Time Needed to Get Gas Royalties Right, Nation Says — Andrew MacLeod. The Tyee, Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "used",
+      "triage_date": "2026-09-17",
+      "notes": "MacLeod, The Tyee, 17 Sept 2026. Full text via browser-UA curl; every figure and quotation verified verbatim. This revises a caveat written on 2026-09-06, and the revision is deliberately not a simple upgrade to 'confirmed': the province admitted an error of roughly the alleged magnitude ($300m/yr, in Osborne's quarterly update, alongside $225m from prices, into a record $13.8bn deficit) but ministry staff say the specific transportation/processing omission alleged by BIV WAS included, and found four OTHER errors averaging ~$292m/yr instead. The page now states that distinction explicitly, because it is the difference between a forecasting apparatus that made the mistake critics identified and one that made several nobody had. Also added: Eby's reversal from 'not familiar with any error' to an Auditor General referral, Treaty 8's 11-14% net-profit capture estimate against the 50% design target, the 192 industry meetings, Willson's call to halt, Jennifer Winter as Olewiler's co-author, unchanged Jan 2027 start. A-claim.",
+      "wiki_page": "british-columbia"
+    },
+    {
+      "url": "https://www.timesunion.com/news/article/ny-s-broken-property-tax-system-creates-22412860.php",
+      "source": "lvt-paper-scanner",
+      "reason": "Data-driven investigation of assessment disparities across NY municipalities — property tax inequity relevant to Georgist property-tax critique.",
+      "context": "How NY's 'broken' property tax system creates winners and losers — Gabe Levin, Julie Zhu. Times Union (Hearst), Sept 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "used",
+      "triage_date": "2026-09-17",
+      "notes": "Levin & Zhu, Times Union, 6 Sept 2026. Full text via browser-UA curl; figures and quotations verified verbatim. Added a section arguing the practical failure mode is not model quality but roll staleness: ~55% of NY residential rolls fail the state's own uniformity test, nearly half of municipalities have not fully reassessed in a decade, 61 predate 1974, and no reassessment cycle is mandated. Three findings worth having: uniformity can be faked via the equalisation-ratio workaround (so ~55% is a floor), 'welcome stranger' selective reassessment persists though illegal, and appeals redistribute burden onto non-filers at statewide scale — the same asymmetry as Memphis and Dallas. Closed on the political economy (Albany's 49/51 split, 1,700 grievances, the stalled eight-year bill) and the LVT-specific implication that assessment FREQUENCY is a first-order design parameter. A-claim.",
+      "wiki_page": "mass-appraisal-methods"
+    },
+    {
+      "url": "https://www.waylandpost.org/news/wayland-weighs-costs-and-benefits-of-split-tax-rate/",
+      "source": "lvt-paper-scanner",
+      "reason": "Massachusetts town actively evaluating split-rate (two-rate) property taxation — live US policy momentum for Georgist enabling legislation.",
+      "context": "Wayland weighs costs and benefits of split tax rate — The Wayland Post (MA), Aug 2026.",
+      "author": null,
+      "queued_at": "2026-09-17T11:11:03.199189+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-09-17",
+      "notes": "Verified directly this pass: Wayland's 'split tax rate' is the Massachusetts classification split — shifting a fixed levy between residential and commercial/industrial/personal-property classes (~$3 per $1,000 on ~$160m of commercial value, about $480,000 shifted, explicitly no new revenue). That is not the land/building split-rate the wiki means by the term; it is precisely the confusion split-rate-taxation.md already exists to guard against. Rejected as off-concept rather than under-sourced."
     }
   ],
   "total": 366,

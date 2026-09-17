@@ -4719,3 +4719,64 @@ properly is Floyd's call, and I've surfaced it rather than quietly acting on thi
 
 No content changes — ledger only. Lint 0 errors, 1004 pages. Queue: 0 pending, 355 consumed.
 No Ghost-sync needed.
+
+## 2026-09-17 (evening) — eleven items, five published, and one caveat I had to take back carefully
+
+Main had moved to `6b499b8` with eleven new scanner items; fast-forwarded, cleaned the
+queue, no open PRs or Issues. Built the corpus digest (1005 pages, ~80K tokens) and sent one
+T0 agent at the batch. Six proposed enrichments came back, five proposed rejects. I published
+five and rejected six — the one T0 wanted that I dropped was the Emerald Asian resource-rents
+paper, where I agreed with its reasoning rather than its verdict slot, and the arithmetic
+works out the same either way.
+
+The item I went at hardest was the one that touched my own prior work. On 6 September I wrote
+on `british-columbia.md` that the *Business in Vancouver* gas-royalty allegation "rests on one
+economist's verification as reported by a single publication, with no government audit or
+independent corroboration located as of this writing." The Tyee piece is the follow-up. The
+tempting move was to strike that caveat and write "confirmed" — the province did admit an
+error, of roughly the alleged size, and referred it to the Auditor General. But the 1 September
+briefing says the specific channel alleged, the omission of transportation and processing costs
+from the plant inlet price, *was* included after all; ministry staff found four different errors
+averaging ~$292m/yr while checking. So the outside estimate of magnitude was about right and the
+diagnosis was wrong. Those are not the same result, and flattening them would have quietly
+converted a lucky hit into a vindicated method. The page now states the distinction in its own
+subsection and the source note says explicitly that source 12 contradicts the allegation's
+mechanism while confirming its scale. The larger under-capture question is untouched by any of
+it: Treaty 8's own analysis puts capture at 11–14% of net profits against a stated 50% design
+target, and the framework still starts 1 January 2027.
+
+The Times Union investigation of New York was the most useful thing in the batch for the wiki's
+assessment coverage, and it reframes something. `mass-appraisal-methods.md` has spent most of its
+length on whether assessors *can* value land accurately — CAMA, ratio studies, Gloudemans, CODs.
+New York's answer is that the question rarely gets that far: nearly half its municipalities have
+not fully reassessed in a decade, 61 last did so before 1974, and ~55% of residential rolls fail
+the state's own uniformity test. And that 55% is a floor, because assessors can pass a uniformity
+test by applying the state equalisation ratio uniformly to last year's numbers — a method state
+lawyers call improper and one assessor described to the paper as simply not making it harder than
+it needs to be. The implication I drew for LVT is the honest one in both directions: a land tax
+does not escape stale-roll misallocation, but land value is the component that moves fastest and
+least evenly between revaluations, so *frequency* belongs alongside *method* as a design
+parameter. The appeals findings also line up with Memphis and Dallas — every reduction won shifts
+burden onto whoever did not file — which is now a three-jurisdiction pattern rather than two
+studies.
+
+The Henry George Foundation essay I homed on `united-kingdom.md` rather than `andy-burnham.md`,
+which was T0's suggestion, because the durable part is not the politics. Leunig and Burnham can
+both be describing the UK tax system accurately and still disagree, and the essay shows why:
+property-tax revenue as a share of GDP cannot settle whether land is undertaxed, because it omits
+how land returns are treated everywhere else in the code. Its US comparison is the cleanest
+version of that argument I have seen — the US has among the highest residential property taxes in
+the OECD and a tax system heavily biased toward owner-occupation, simultaneously, without
+contradiction. It is advocacy, and I said so on the page, but the argumentative core survives
+being read skeptically.
+
+Two rejects are worth recording for the ledger rather than the wiki. The SUNY patent-licensing
+item was dated Sept 2026 in the queue; it is actually *Economic Theory*, December 2024, and its
+subject is a licensor optimising tariff structure, not the hold-up problem `ip-rents.md` covers —
+so it failed on both date and scope, and I verified both directly rather than take T0's word.
+And the Wayland Post piece is a Massachusetts classification split, shifting a fixed levy between
+residential and commercial classes with explicitly no new revenue. That is the exact thing
+`split-rate-taxation.md` exists to distinguish from split-rate land taxation. Both are the kind of
+near-miss that would look plausible in an inventory and be wrong in substance.
+
+Ledger: 0 pending, 366 consumed. Lint 0 errors, inventory 1004 pages, 0 orphans.

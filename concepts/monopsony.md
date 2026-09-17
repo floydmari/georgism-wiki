@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, monopsony, labor-market, market-power, rent-gradient]
 stub: false
 excerpt: "Buyer-side market power — most commonly an employer's power to hold wages below the competitive level — that lets firms extract a rent from workers, extending rent analysis from sellers (land, monopoly) to a channel on the buying side of a market."
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-17
 ---
 
 ## Overview
@@ -84,6 +84,49 @@ dominant data platforms hold monopsony power over the data individual users gene
 motivating the [data as labor](/wiki/data-as-labor/) proposal to pay users for that
 input rather than let platforms capture it for free.
 
+## A Political Extension: Electoral Monopsony (2026)
+
+An August 2026 NBER working paper by **Carlos Fernando Avenancio-León, Adelina Barbalau,
+Cyndi Hou and Alessio Piccolo** proposes that labour-market power converts into political
+power, coining the term ***electoral monopsonies***: dominant local employers "using local
+labor market power to shape political preferences and electoral outcomes."[5] The paper
+opens with original survey evidence that workers at major local employers are more likely
+to experience employer political communication and to report that their employers influence
+their voting behaviour and career expectations, then models the mechanism as operating
+through workers' expectations about how wages and employment depend on who wins.[5]
+
+The modelling distinction is the analytically useful part. A **passive channel** has workers
+simply internalising their employer's economic interests — a rational response to genuine
+exposure. An **active channel** has the dominant employer strategically shaping those
+expectations. Under the active channel, the authors argue, labour-market power "can generate
+political failures by inducing voters to oppose policies they would otherwise support," and
+can also contribute to polarisation, constrain the platforms parties are able to offer, and
+substitute for campaign spending.[5] Empirically, using US individual-level voting data and
+a shift-share design built on national industry-concentration shocks interacted with
+predetermined local employment shares, they find greater electoral monopsony power increases
+Republican voter turnout, with counterfactual estimates implying that reducing it "could have
+narrowly changed the outcomes of the 2016 and 2024 presidential elections."[5]
+
+Two reasons this belongs on the wiki rather than only in a labour-economics reading list.
+First, it is a mechanism by which concentrated economic power *reproduces the political
+conditions that sustain it* — the structural analogue, on the labour side, of the
+[homevoter](/wiki/homevoters-will-block-lvt/) dynamic on the land side, where those holding
+an asset vote to protect its value. Second, the lead author is the co-author of
+[the assessment-gap literature](/wiki/land-and-the-black-white-wealth-gap/) on racial
+inequality in property taxation, and the two findings share a structure: a market
+institution that looks technical produces a distributional outcome that then entrenches
+itself politically.
+
+The caveats are real and this page states them rather than the paper's headline. This is an
+unpublished working paper summarised here from its abstract, not a full read; the
+shift-share identification rests on the usual exclusion assumption that national
+industry-concentration shocks affect local voting only through local labour-market exposure;
+and a counterfactual that "narrowly" flips two presidential elections is, by construction,
+an extrapolation at the margin of the estimated effect rather than a robust finding about
+electoral outcomes. The turnout result is also directional in a specific partisan direction,
+which invites the usual caution about a single design carrying a politically loaded
+conclusion.
+
 ## See Also
 
 - [Data as Labor](/wiki/data-as-labor/) — the Radical Markets Ch. 5 proposal built directly on platforms' monopsony power over user data
@@ -91,6 +134,8 @@ input rather than let platforms capture it for free.
 - [De Loecker, Eeckhout & Unger — markups](/wiki/de-loecker-eeckhout-unger-markups/) — the parallel seller-side rent evidence
 - [Radical Markets (book page)](/wiki/posner-weyl-radical-markets/) — the discovery source for this page
 - [Rent-Seeking](/wiki/rent-seeking/) — the general concept of capturing rather than creating wealth
+- [Objection: homevoters will block LVT](/wiki/homevoters-will-block-lvt/) — the land-side analogue of the political-entrenchment mechanism electoral monopsony describes
+- [Narrative: Land and the Black-White Wealth Gap](/wiki/land-and-the-black-white-wealth-gap/) — the assessment-gap work by the same lead author
 
 ## Sources
 
@@ -117,3 +162,4 @@ input rather than let platforms capture it for free.
    interaction, and the antitrust/labor-regulation/immigration/macro policy scope. Scan
    depth: abstract only (B-claim); the full survey was not independently obtained this
    session.
+5. Carlos Fernando Avenancio-León, Adelina Barbalau, Cyndi Hou & Alessio Piccolo (2026), "Firms as Electoral Monopsonies," NBER Working Paper 35676, August 2026, DOI 10.3386/w35676. [nber.org/papers/w35676](https://www.nber.org/papers/w35676) — abstract page fetched and read 2026-09-17, with all quoted phrases verified verbatim against it — used for the "electoral monopsonies" coinage, the survey evidence on employer political communication, the passive/active channel distinction, the polarisation/platform-constraint/campaign-spending-substitution claims, the shift-share design and the Republican-turnout result, and the 2016/2024 counterfactual (B-claim; abstract-level only, the full working paper was not retrieved this pass, and no figures beyond those the abstract itself states are reported here).
