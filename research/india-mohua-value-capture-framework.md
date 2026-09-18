@@ -128,6 +128,7 @@ municipal tax base cannot.
 - [World Bank: Determinants of Property Tax Revenue](/wiki/world-bank-property-tax-determinants/)
 - [Hong Kong](/wiki/hong-kong/) · [Singapore](/wiki/singapore/) — the wiki's other major Asian land-value-capture case studies
 - [Danandjojo, Ramezani & Woltjer (2026): Layered Land Rights and LVC in Jakarta](/wiki/danandjojo-jakarta-lvc-governance/) — a comparable developing-Asia LVC-implementation case study, with a different (decentralized-governance) primary obstacle
+- [Telangana's CURE Bill (2026)](/wiki/telangana-cure-bill-hyderabad/) — a 2026 Indian proposal to shift a major metropolitan property tax from annual rental value onto a land-value base, against the weak national property-tax capacity this page documents
 
 ## Sources
 

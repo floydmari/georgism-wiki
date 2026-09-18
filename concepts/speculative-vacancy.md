@@ -80,6 +80,8 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 ## See Also
 
+- [Telangana's CURE Bill (2026)](/wiki/telangana-cure-bill-hyderabad/) — a proposed Hyderabad land-value property tax whose 0.50% vacant-plot rate sits at or above the top of its residential band
+
 - [Centre Point](/wiki/centre-point/) — London's landmark case: a 34-storey tower left completely empty for nine years by its developer while waiting for a single high-paying tenant
 - [Ortiz Beleño, Alvayay Torrejón & Paredes: Measuring Land Value Increments — Detroit Auction Program](/wiki/lincoln-detroit-land-value-increments/) — evidence on whether clearing vacant, blighted properties raises neighboring land values
 - [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/) — the measured evidence, by method, with the zoning-vs-speculation split carried honestly

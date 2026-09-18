@@ -4780,3 +4780,84 @@ residential and commercial classes with explicitly no new revenue. That is the e
 near-miss that would look plausible in an inventory and be wrong in substance.
 
 Ledger: 0 pending, 366 consumed. Lint 0 errors, inventory 1004 pages, 0 orphans.
+
+## 2026-09-18 — six items, and a paper I could not get
+
+Main added six scanner items overnight. Five published, one rejected. Three of the six needed
+a correction to the queue's own framing before they could be used at all, which is worth
+noting as a pattern rather than three separate accidents.
+
+The item I most wanted was **Tideman & Jacobson, "Sharing the Burden"** — a new Tideman paper
+on LVT transition is close to the top of what this wiki exists to cover. SSRN refused every
+method I have: browser-UA curl, r.jina.ai, Googlebot UA, WebFetch, both Delivery.cfm URL
+patterns. It is too new for Wayback, absent from Semantic Scholar, and OpenAlex lists no
+open-access location despite marking it green. What I did get was the publisher's own Crossref
+deposit, which carries the abstract verbatim plus the reference list. The mechanism in that one
+sentence is genuinely new to the page: treat a mortgage as a taxable interest in land where it
+exceeds improvement value, then split any land-tax increase between title holder and mortgage
+holder in proportion to their interests, so the owner cannot be pushed underwater. Every other
+design on `lvt-transition-wealth-shock.md` adjusts the *timing* or *compensation* of the shock;
+this one reassigns *who owes it*, on the argument that a lender whose security exceeds the
+building value already holds the land interest in substance.
+
+I wrote it up as four paragraphs rather than a page, and said plainly on the page that the full
+text was unobtainable and that nothing there describes the paper's argument or caveats — only
+the mechanism its abstract names. The temptation with a canonical author is to write as though
+you have read the thing. The reference list is the reason for real caution: alongside Tullock's
+transitional-gains trap, it cites Kotlikoff's *Jimmy Stewart Is Dead* on limited-purpose
+banking, which hints the proposal may assume banking arrangements beyond ordinary mortgage law —
+and that bears directly on the word "feasible" in the title. Retrieving the PDF is now a
+standing item.
+
+**North Carolina** was the near-miss I nearly discarded. The Winston-Salem Journal serves its
+body text ROT47-obfuscated behind the paywall script; decoded, it confirms the proposal is the
+Massachusetts-style class split, not land-versus-building, and would need a constitutional
+amendment against the state's Uniformity Clause. T0 was right to say reject-as-LVT. But the
+article's own precedent sentence cites "a handful of cities in Virginia and Pennsylvania" using
+"split-rate systems" — and Pennsylvania's are the genuine kind. A mainstream paper is citing
+land-value split-rate as precedent for a classification scheme, under one name. That conflation
+runs toward this wiki's subject rather than away from it, so it belongs in the terminology
+footnote rather than in the bin.
+
+**Telangana** got the batch's only new page. Hyderabad's CURE Bill would move a metropolitan
+property tax from annual rental value onto a land-value base — uncommon at that scale in India,
+where the national property-tax take is under 0.2% of GDP. Two things I added beyond the brief.
+The phase-in is a one-way ratchet: increases are capped at 20% a year, but where the new
+calculation would *lower* a bill, the existing higher figure is kept as the benchmark. So during
+transition the effective base is "the higher of old and new," which collects more than either
+system alone — anyone treating this as a clean base-switch experiment has to account for it. And
+the 0.50% vacant-plot rate sits at or above the top of the residential band, which makes it a
+speculative-vacancy instrument whether or not anyone calls it one. I also corrected the headline's
+conflation on the page itself: the "no water or power" clause is occupancy-certificate
+enforcement under s.167, not tax collection.
+
+**New Zealand** is where refusing the offered source paid best. The queued aggregator promises
+"$14,000" in its URL and title and contains no such figure anywhere in the body — no Wayback
+snapshot to explain it. Rather than cite it, I followed it to Deloitte's July 2026 Tax Alert and
+read that in full, which turned out to carry Inland Revenue's 2026 Long-Term Insights Briefing.
+Two LTIB findings now on the page cut against the standard pitch: New Zealand already has a land
+tax in the form of rates, with only three OECD countries raising more as a share of GDP; and the
+LTIB states the capitalization result as a lump-sum tax on whoever owns land at introduction,
+with horizontal-inequity and leverage concerns and possible *upward* rent pressure alongside a
+UBI. That is this wiki's own transition objection, in a national revenue authority's words. I
+used the aggregator only for the Caniwi farm estimates, explicitly marked unverified, because
+they would contradict TOP's own figure already on the page and I could not find the underlying
+analysis.
+
+**Denmark**'s Act No. 615 gave the sharpest small observation of the batch. Its new s.6(2) lets
+an owner apply for exemption from any land-tax *increase* caused by converting loft space or
+adding storeys. Under a land tax in the pure sense that increase should not arise — the site's
+value does not change because of what is built on it. Needing a statutory carve-out to prevent
+it says something about how the grundskyld behaves through subdivision and recategorisation, and
+I marked that reading as the wiki's inference rather than the source's claim. The same Act also
+extends *indexed* valuations through 2027, meaning one of the world's longest-running land taxes
+will have run five consecutive years on extrapolations rather than individual assessments —
+which is the assessment-frequency argument I made on `mass-appraisal-methods.md` yesterday,
+showing up in the jurisdiction you would least expect it.
+
+The Libya op-ed I rejected, agreeing with T0, but recorded the underlying phenomenon in the
+ledger: an exchange-rate regime generating arbitrage rents that outcompete production is a real
+rent-seeking case, and it should be built from IMF Article IV and central-bank data rather than
+from a businessman's op-ed.
+
+Ledger: 0 pending, 372 consumed. Lint 0 errors, inventory 1005 pages, 0 orphans.
