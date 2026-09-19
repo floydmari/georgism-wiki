@@ -97,5 +97,5 @@ household.
    adults," IFS Briefing Note BN224, Institute for Fiscal Studies.
    [Landing page](https://ifs.org.uk/publications/decline-homeownership-among-young-adults) ·
    [PDF](https://ifs.org.uk/sites/default/files/output_url_files/BN224.pdf) (executive summary
-   fetched and read this session) — used for the age-27 cohort ownership rates (25% / 33% / 43%),
+   read 2026-07-11) — used for the age-27 cohort ownership rates (25% / 33% / 43%),
    the middle-income 65%→27% collapse, and the house-prices-up-152% vs incomes-up-22% driver.

@@ -310,27 +310,21 @@ extrapolation, attributed rather than treated as demonstrated fact.
    Economics and Sociology* 31(3): 241–258 — used for the definition of
    rent, the tripartite rent-sources typology, the rent-as-rationing (not
    eliciting) argument, and the informal capitalization ("conservation of
-   economic energy") statement. Text extracted this session from the source
-   PDF's embedded text layer (`pdftotext -layout`; no OCR needed, though the
-   text layer itself carries scanning-era typographic noise — e.g., "GPNEY"
-   for "Gaffney," "dassical" for "classical" — consistent with an
-   OCR-derived layer rather than a clean digital original; quotations were
-   checked against surrounding context before use), saved to
+   economic energy") statement. Read in full, 2026-07-18; the scan's text layer
+   carries typographic noise (e.g., "GPNEY" for "Gaffney," "dassical" for
+   "classical"), so quotations were checked against surrounding context before
+   use, and a working text copy is held at
    `sources/gaffney/text/E11-SourcesUrbanLandRent.txt`. [Free PDF
    (masongaffney.org, ampersand percent-encoded as
-   `%26`)](https://masongaffney.org/publications/E11-LandRentTaxation%26PublicPolicy-SourcesUrbanLandRent.CV.pdf).
-   The site's own directory listing and the local mirror cache both carry
-   this file under a literal-ampersand filename
-   (`E11-LandRentTaxation&PublicPolicy-SourcesUrbanLandRent.CV.pdf`), which
-   the mirror fetch tooling could not retrieve (cached 404 HTML, 236 bytes);
-   fetched directly from masongaffney.org with the ampersand percent-encoded
-   in the request URL instead.
+   `%26`)](https://masongaffney.org/publications/E11-LandRentTaxation%26PublicPolicy-SourcesUrbanLandRent.CV.pdf)
+   — the filename contains a literal ampersand, so only the percent-encoded
+   form of the URL resolves.
 2. Mason Gaffney (1973), "Land Rent, Taxation, and Public Policy: Taxation
    and the Functions of Urban Land Rent," *American Journal of Economics and
    Sociology* 32(1): 17–34 — used for the five taxation mechanisms (credit
    discrimination, land appreciation, recourse to other taxes, logrolling,
    market imperfections), the Milwaukee density statistic, the congestion
    "five confusions" argument, and the explicit tax-capitalization
-   arithmetic. Text extracted the same way, saved to
+   arithmetic. Read in full the same day, with a working text copy at
    `sources/gaffney/text/E12-TaxationUrbanLandRent.txt`. [Free PDF
    (masongaffney.org, ampersand percent-encoded)](https://masongaffney.org/publications/E12-LandRentTaxation%26PublicPolicy-TaxationUrbanLandRent.CV.pdf).

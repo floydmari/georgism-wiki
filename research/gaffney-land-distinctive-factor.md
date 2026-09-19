@@ -31,10 +31,9 @@ C-3).
 
 This page substantially expands the wiki's earlier treatment of this essay, which
 had been sourced only to Gaffney's own later (2004) web-published expansion hosted
-by cooperative-individualism.org. The 1994 book-chapter text itself — recovered this
-session from masongaffney.org's scanned PDF, which has a clean embedded text layer
-(`pdftotext` extraction verified against the source, no OCR needed) — is the primary
-source cited throughout below.
+by cooperative-individualism.org. The 1994 book-chapter text itself — read in full
+from the freely available scan at masongaffney.org — is the primary source cited
+throughout below.
 
 ## Ten Primary Distinctions Between Land and Capital (Part A)
 
@@ -109,15 +108,11 @@ and compounds the original distribution across generations.[1] He turns this
 directly against a Georgist-adjacent Proposition 13 argument: Howard Jarvis's slogan
 "Property should pay only for services to property, not services to people"
 rested on the contract theory of the state, which Gaffney charges with skirting the
-question of how the property came to be owned in the first place.[1] `[VERIFY: this
-is Gaffney's own polemical framing of Jarvis's argument, not independently checked
-against Jarvis's own writing this session. **Attempted** (2026-07-18): general web
-search for the verbatim slogan found no primary Jarvis source; Jarvis's own book,
-*I'm Mad As Hell* (1979), exists on Internet Archive only as a borrow-restricted
-scan (no full-text search available without a loan), and a previously indexed
-third-party full-text mirror (members.tripod.com) no longer resolves. Book/
-archival access is needed — a library loan of *I'm Mad As Hell* or contemporaneous
-Prop. 13 campaign literature — not another web search.]`
+question of how the property came to be owned in the first place.[1] The slogan and
+the reasoning behind it are given here as Gaffney reports them; no primary Jarvis
+source for the wording has been traced, and the characterisation is his own
+polemical framing rather than a checked quotation from Jarvis (whose *I'm Mad As
+Hell* (1979) is available only as a borrow-restricted scan).
 
 **B-4/B-5: land rent does not evoke production, and is therefore a taxable
 surplus.** "Land rent, however high, does not raise the rate of return on investment
@@ -145,8 +140,8 @@ than on productive intent. Gaffney quotes agricultural economist Rainer Schikele
 "The basis of credit is not marginal productivity, but collateral security," and
 concludes that "landownership is highly concentrated" because "control over front
 money... is a factor separate from the ability to use land productively."[1] The
-2026-07-18 companion page mined this session, [Gaffney (1992): Rising Inequality and
-Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/),
+companion page [Gaffney (1992): Rising Inequality and
+Falling Property Tax Rates](/wiki/gaffney-rising-inequality-farm-property-tax/)
 supplies Gaffney's own quantitative test of the resulting concentration claim, using
 US Census of Agriculture data.
 
@@ -211,11 +206,11 @@ within it: the claim that "heavy land taxation... motivates subdivision" (B-9b)
 cites Gaffney's own prior writings (footnote 31) rather than an independent study,
 and the essay's account of why neoclassical economists behaved as they did (footnote
 2's "deep lobbying" account, citing journalist William Greider) is attributed
-narrative, not verified against primary correspondence in this session. `[VERIFY:
-the footnote 31 concentration citations (Gaffney's own "Who Owns Southern
-California?", "Falling Property Tax Rates and Rising Concentration," etc.) were not
-independently retrieved and read this session — only the D1 companion piece
-("Rising Inequality and Falling Property Tax Rates," 1992) was]` Readers using this
+narrative, not checked against primary correspondence. The footnote 31
+concentration citations (Gaffney's own "Who Owns Southern California?", "Falling
+Property Tax Rates and Rising Concentration," and others) have not themselves been
+read; of that group only the companion piece "Rising Inequality and Falling Property
+Tax Rates" (1992) has. Readers using this
 essay as ammunition should lean on the ten primary distinctions (A) and the B-8/B-9
 credit-concentration mechanism, which are argued from first principles and largely
 uncontested; the historical-motive material should be attributed to Gaffney and
@@ -258,11 +253,9 @@ read alongside the wiki's own honest-limits treatment of that dispute.
    entire page: the ten primary distinctions (A-1 through A-10), the major economic
    consequences (B-1 through B-15, especially the credit/concentration mechanism at
    B-8/B-9 and the market-power argument at B-11), and the booms-and-busts section
-   (C-1 through C-3). Text extracted this session directly from the source PDF's
-   embedded text layer (`pdftotext -layout`; no OCR needed — the scan carries a
-   clean text layer), saved to
-   `sources/gaffney/text/C9Land_Distinctive_Factor.txt`; all quotations verified
-   against that extraction. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf) ·
+   (C-1 through C-3). Read in full from the source PDF (2026-08-10); all quotations
+   verified against that text, a working copy of which is held at
+   `sources/gaffney/text/C9Land_Distinctive_Factor.txt`. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/C9Land_Distinctive_Factor.CV.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/C9Land_Distinctive_Factor.CV.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/C9Land_Distinctive_Factor.CV.pdf`.

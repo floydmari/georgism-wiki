@@ -87,11 +87,11 @@ counter-position rather than dismissed.
 
 ## Nuances and Limits
 
-- **Full text not accessible to this session.** The paper is behind a SAGE/RRPE
-  institutional paywall; this page is built from abstract-level detail and search-engine-
-  indexed summaries of conference presentations of the same work (the authors presented
-  related material at ASSA 2026 and Historical Materialism 2025), not a direct read of the
-  published article. Graded C-claim throughout; no verbatim quotation is offered.
+- **The full text is not publicly accessible.** The paper sits behind a SAGE/RRPE
+  institutional paywall; the account above rests on abstract-level detail and on summaries
+  of conference presentations of the same work (the authors presented related material at
+  ASSA 2026 and Historical Materialism 2025) rather than on the published article, and no
+  verbatim quotation is offered.
 - **A Marxian intervention in an internal Marxist debate, not a neutral adjudication.** The
   paper's target is specifically the Marxist "technofeudalism" and "knowledge-commodity"
   literature (Varoufakis, Durand, and the Mandel-derived "technological rent" tradition) —
@@ -123,9 +123,9 @@ counter-position rather than dismissed.
    Knowledge-Commodity Theories: Toward a Theory of Surplus Profits," *Review of Radical
    Political Economics*, published online 5 August 2026, DOI
    10.1177/04866134261452322. [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/04866134261452322) —
-   fetch blocked (403) to this session; summary built from search-engine-indexed abstract
-   synthesis and coverage of the authors' related ASSA 2026 / Historical Materialism 2025
-   conference presentations, fetched 2026-08-24 — used for the three-appearances-of-knowledge
+   full text not accessible at last review (2026-08-24); summary rests on the published
+   abstract and on secondary coverage of the authors' related ASSA 2026 / Historical
+   Materialism 2025 conference presentations — used for the three-appearances-of-knowledge
    framework, the labor-theory-of-value counter-argument, and the direct engagement with
    Marx's ground-rent category and its extension by Mandel and others to "technological
-   rents" (C-claim; full text not independently verified, no verbatim quotation offered).
+   rents" (C-claim; abstract-level, no verbatim quotation offered).

@@ -193,9 +193,9 @@ rather than a claim that no defense spending is a public good.[1]
 
 ## Standing and Limits
 
-- **Claim class.** This is a D-claim (historical-narrative and motive-attributing
-  argument) resting on documented B-claims (specific contracts, CIA documents,
-  cost figures) selectively assembled to support the thesis. The paper does not
+- **Claim class.** This is an interpretive, motive-attributing historical narrative,
+  resting on documented particulars (specific contracts, CIA documents, cost
+  figures) selectively assembled to support the thesis. The paper does not
   attempt a counterfactual (what fraction of 20th-century U.S. military
   interventions had *no* identifiable corporate beneficiary) or weigh its cases
   against the standard security-based historical accounts of the same events; it

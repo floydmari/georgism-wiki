@@ -64,14 +64,14 @@ industry HHI alone.
 
 ## Nuances and Limits
 
-- **Abstract/summary-level sourcing.** This page is built from the paper's abstract and a
-  secondary summary rather than a full read of the working paper text; specific quantitative
+- **Abstract/summary-level sourcing.** This entry rests on the paper's abstract and a
+  secondary summary rather than the full working-paper text; specific quantitative
   results (e.g. the magnitude of the post-2013 markup increase, sector-level concentration
-  figures) are not independently verified here. Graded B-claim.
-- **Working paper, not yet peer-reviewed** as of this writing.
+  figures) are reported at abstract level and remain unconfirmed against the paper itself.
+- **Working paper, not yet peer-reviewed** as of 2026-08-22.
 - **No explicit land-rent framing in the original.** The connection to the wiki's broader
-  rent-seeking and market-power literature is this wiki's own synthesis (D-claim,
-  interpretive), not an argument the authors make.
+  rent-seeking and market-power literature is an interpretation made here, not an argument
+  the authors make.
 
 ## Bears On
 
@@ -91,7 +91,7 @@ industry HHI alone.
 1. Simon Commander, Saul Estrin, Naveen Joseph Thomas & Varun Lingineni (2026), "Business
    Groups, Concentration and Market Power in India," LSE Research Online Documents on
    Economics 138970. [ideas.repec.org](https://ideas.repec.org/p/ehl/lserod/138970.html) —
-   fetched and read (abstract/summary level) 2026-08-22 — used for the falling-concentration
+   read at abstract/summary level, 2026-08-22 — used for the falling-concentration
    /rising-markup finding, the post-2013 markup shift, the business-group diversification
    pattern, and the entrenchment/monopoly-power headline conclusion (B-claim; abstract-level
-   scan, full working paper not independently retrieved).
+   — the full working paper was not consulted).

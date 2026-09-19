@@ -54,12 +54,11 @@ administratively routine rather than exotic — the practitioner's answer to the
   advocate-aligned on *how well it suffices for full rent capture*, where the
   [search-theoretic critique](/wiki/search-theoretic-critique/) and
   Bentick–Mills assessment-basis issues live.
-- **Verification note (resolved on direct read).** The full essay was read
-  directly at henrygeorge.org. Its byline is "Ted Gwartney, MAI, Assessor,
+- **What the essay itself sets out.** Its byline is "Ted Gwartney, MAI, Assessor,
   Greenwich, Connecticut," and the text states "For 12 years, the author was the
-  Assessment Commissioner for the Province of British Columbia, Canada" —
-  confirming the practitioner biography. The procedural claims are confirmed
-  verbatim: an eight-step assessment procedure (defining the assignment,
+  Assessment Commissioner for the Province of British Columbia, Canada" — the
+  basis for the practitioner biography above. The essay lays out, in order: an
+  eight-step assessment procedure (defining the assignment,
   determining/collecting/verifying/analyzing data, estimating market values,
   public examination, and *periodic — annual — updating of assessments*); the
   three classical approaches (sales comparison, cost, income); and specific
@@ -84,11 +83,12 @@ administratively routine rather than exotic — the practitioner's answer to the
 ## Sources
 
 1. Ted Gwartney, "Estimating Land Values," c. 1999.
-   [henrygeorge.org](https://www.henrygeorge.org/ted.htm) — full text read directly
-   in this pass; used for the essay's content, the eight-step assessment procedure,
+   [henrygeorge.org](https://www.henrygeorge.org/ted.htm) — full text read in full,
+   2026-07-12; used for the essay's content, the eight-step assessment procedure,
    the three approaches and specific land-valuation methods, and the
    practitioner-biography claims (byline "Assessor, Greenwich, Connecticut"; "12
    years… Assessment Commissioner for the Province of British Columbia").
 2. Lars Doucet, "Does Georgism Work? Part 3," Astral Codex Ten, December 2021.
    [Article](https://www.astralcodexten.com/p/does-georgism-work-part-3-can-unimproved)
-   — used for the consultation attribution (A-claim; snippet-corroborated).
+   — used for the consultation attribution (A-claim; corroborated from a published
+   excerpt rather than the full article).

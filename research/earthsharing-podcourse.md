@@ -33,4 +33,4 @@ Unlike a conversational podcast, the Podcourse is **pedagogical** — a sequence
 
 ## Sources
 
-1. Karl Fitzgerald, "The Georgist Podcourse," Earthsharing Australia blog, 3 May 2019 — used for the 12-part course format (page fetched and read this session), the 3CR monthly broadcast slot ("the last Wednesday of the month from 6 – 6.30pm"), the 11-years-weekly history of *Renegade Economists*, the Prosper Australia show-notes arrangement, and the first two episode titles (an advocacy/education source, cited as such). [earthsharing.org.au](http://www.earthsharing.org.au/2019/05/the-georgist-podcourse/)
+1. Karl Fitzgerald, "The Georgist Podcourse," Earthsharing Australia blog, 3 May 2019 — used for the 12-part course format (page read in full), the 3CR monthly broadcast slot ("the last Wednesday of the month from 6 – 6.30pm"), the 11-years-weekly history of *Renegade Economists*, the Prosper Australia show-notes arrangement, and the first two episode titles (an advocacy/education source, cited as such). [earthsharing.org.au](http://www.earthsharing.org.au/2019/05/the-georgist-podcourse/)

@@ -195,8 +195,7 @@ a case-by-case design question, not a settled verdict for prizes.
    used for the Daguerreotype precedent, the auction-plus-markup buyout mechanism,
    the "markup of at least twice" and social-value-2.7×-monopoly-profit figures, the
    public-good premise, the Wright/Scotchmer expropriation caveat, and the
-   bribe-the-auction manipulation risk. Full text fetched and read this session
-   (2026-07-11).
+   bribe-the-auction manipulation risk. Read in full, 2026-07-11.
 2. Michael Kremer, Jonathan D. Levin & Christopher M. Snyder (2020), "Advance Market
    Commitments: Insights from Theory and Experience," *AEA Papers and Proceedings*
    110, 269–273; NBER Working Paper 26775.
@@ -205,21 +204,21 @@ a case-by-case design question, not a settled verdict for prizes.
    time-consistency rationale, the GSK/Pfizer/Serum Institute supply commitments and
    price path, the "150 million children immunized / 700,000 lives saved" figures,
    the ~5-year-faster-than-rotavirus coverage comparison, and the "we lack a valid
-   counterfactual" caveat. Full text fetched and read this session (2026-07-11).
+   counterfactual" caveat. Read in full, 2026-07-11.
 3. Nancy Gallini & Suzanne Scotchmer (2002), "Intellectual Property: When Is It the
    Best Incentive System?," in *Innovation Policy and the Economy*, Vol. 2 (Jaffe,
    Lerner & Stern, eds.), MIT Press.
    [NBER chapter PDF](https://www.nber.org/system/files/chapters/c10785/c10785.pdf) —
    used for the authoritative characterization of Wright (1983) as the first formal
    treatment of mechanism choice under asymmetric information, and the
-   patent-vs-prize observability/value-definition tradeoff. Fetched and read this
-   session; stands in for Wright's own 1983 AER paper, whose free scan
+   patent-vs-prize observability/value-definition tradeoff. Read in full,
+   2026-07-11; stands in for Wright's own 1983 AER paper, whose free scan
    ([KEI copy](https://www.keionline.org/misc-docs/Prizes/wright-prizepaper.pdf)) is
    image-only and not machine-readable.
 4. Brian D. Wright (1983), "The Economics of Invention Incentives: Patents, Prizes,
    and Research Contracts," *American Economic Review* 73(4), 691–707.
    [KEI scan](https://www.keionline.org/misc-docs/Prizes/wright-prizepaper.pdf) ·
    [RePEc](https://ideas.repec.org/a/aea/aecrev/v73y1983i4p691-707.html) — the
-   founding paper; citation and pagination verified this session, argument
+   founding paper; citation and pagination verified (2026-07-11), argument
    characterized via Gallini & Scotchmer (source 3) and Kremer (source 1) because the
    only free copy is a non-OCR'd scan.

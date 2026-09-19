@@ -121,14 +121,14 @@ more cities, arguing the NYC pattern was not unique:
   reversed his practice.[1]
 - **San Diego, 1920–26**: assessor Harris Moody converted the property tax toward a
   land-value basis until a court stopped him — after which, per Gaffney (citing Robert
-  Andelson), "the city skyline froze for the next 75 years."[1] **[VERIFY: this specific
-  claim is Gaffney's citation of an unpublished Andelson conference address; the wiki
-  has not independently traced San Diego building data to confirm the 75-year figure.]**
+  Andelson), "the city skyline froze for the next 75 years."[1] That claim reaches this
+  page through Gaffney's citation of an unpublished Andelson conference address; the
+  75-year figure has not been checked against San Diego building data.
 - **Vancouver, 1895–1909** (population quintupled): 8-term Mayor Louis Denison
   "Single-tax" Taylor progressively exempted first half, then all, of building value
   from the property tax — which Gaffney calls "the fastest growth rate on record."[1]
-  **[VERIFY: superlative claim, not benchmarked against an independent global
-  cross-city dataset in this pass.]**
+  That superlative is Gaffney's own; it has not been benchmarked against an
+  independent cross-city dataset.
 
 ## The Pittsburgh Anomaly
 
@@ -148,12 +148,12 @@ or NYC, the city did not control its own assessments — the Allegheny County as
 "systematically" undervalued land, which by 2000 was reportedly only **10% of
 Pittsburgh's property tax base**, a figure Gaffney attributes to a contract assessor
 (George Donatello of Sabre Systems) and a city councilman (Daniel Cohen) quoted in
-local news coverage.[1] **Resolved 2026-07-18:** independently corroborated via Mark
-Alan Hughes's Lincoln Institute working paper (source 7 below), which cites the same
+local news coverage.[1] The figure is independently corroborated by Mark
+Alan Hughes's Lincoln Institute working paper, which cites the same
 figure and attribution — "City Council [member] Dan Cohen claimed that land accounted
 for 10 percent of total property value in the city in 2000" — to a specific,
 identifiable article: Christopher Snowbeck, "Murphy: Land Tax Values Illogical,"
-*Pittsburgh Post-Gazette*, January 15, 2001. The claim is now traced to a named,
+*Pittsburgh Post-Gazette*, January 15, 2001. The claim therefore traces to a named,
 dated newspaper article via an independent academic secondary source, rather than
 resting solely on Gaffney's own citation.[2] (4) Pittsburgh's construction gains were
 commercial/industrial, which can compete with residential land use rather than
@@ -196,7 +196,8 @@ everywhere else," penalized active builders and spared idle speculative
 holders. The essay's separate discussion of Mississippi-flood-control
 politics (the 1927 dynamiting of the St. Bernard/Plaquemines levee to save
 New Orleans, which helped elect Huey Long governor the following year) is
-background context, not independently verified here. Gaffney offers no
+background context, reported as Gaffney gives it and not checked against other
+sources. Gaffney offers no
 tax-policy prescription unique to disaster recovery beyond the wiki's
 existing land-value-tax case; the essay's distinctive contribution is the
 comparative framing itself — speculative absentee holding as the specific
@@ -210,8 +211,8 @@ vacancy](/wiki/speculative-vacancy-wastes-cities/).
 economist, not a peer-reviewed paper: it was self-published on masongaffney.org, not
 submitted to a journal, and Gaffney states plainly that "published literature on this
 episode, either popular or scholarly, is sparse."[1] The **population figures
-themselves are A-claims** — they are US Census data, checkable in principle — but the
-**causal attribution to Georgist tax policy is a D-claim** (interpretive/argumentative):
+themselves are US Census data**, checkable in principle — but the **causal
+attribution to Georgist tax policy is interpretive argument**:
 no city-pair in the essay is matched on other growth determinants the way, say, Oates &
 Schwab's 15-city Pittsburgh panel is, and Gaffney's own hedge ("a sequence is not always a consequence") should travel with every city case cited from this source. The essay's
 strongest evidentiary contribution is not any single city, but the **breadth of the
@@ -266,8 +267,8 @@ undermined by other policies (a wage tax), or subverted by assessment practice.
    (verified against the PDF directly for all direct quotations on this page).
 2. Mark Alan Hughes, "Why So Little Georgism in America: Using the Pennsylvania Case
    Files to Understand the Slow, Uneven Progress of Land Value Taxation," Lincoln
-   Institute of Land Policy Working Paper WP06ZK1, 2006 — fetched and read this
-   session; used to independently corroborate the Pittsburgh 10%-of-base land-value
+   Institute of Land Policy Working Paper WP06ZK1, 2006 — read in full, 2026-07-18;
+   used to independently corroborate the Pittsburgh 10%-of-base land-value
    figure and its attribution to city councilman Dan Cohen (p. 14 of the working
    paper, its own endnote 42), and to trace that claim to its underlying newspaper
    article: Christopher Snowbeck, "Murphy: Land Tax Values Illogical," *Pittsburgh

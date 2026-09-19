@@ -194,7 +194,7 @@ I's claim that the AVC does not meaningfully bias extraction speed.[6] Appendix 
 biases the optimal extraction schedule toward slower, longer production, and closes
 by reprinting a formal proof — headed "Appendix II" and credited to **William
 Vickrey** and Michèle Consigny — that an income tax computed on true economic
-depreciation is intertemporally neutral. **Resolved 2026-07-18:** the reprint is
+depreciation is intertemporally neutral. That reprint is
 itself Appendix II of Gaffney's own five-part AJES series "Tax-Induced Slow
 Turnover of Capital" (running head "Tax-Induced Slow Turnover of Capital, V,"
 *American Journal of Economics and Sociology* 30(1), 1971, pp. 105–111) — verified
@@ -206,8 +206,8 @@ and proved the theorem. Professor Vickrey greatly shortened and generalized the
 proof and brought it to its present form. A third proof by Matthew P. Gaffney,
 Jr., might equally well have been presented" — so the joint Vickrey/Consigny
 credit is accurate, and the proof sits within Gaffney's own AJES article rather
-than a separate Vickrey–Consigny paper.[6][7] **Follow-on (2026-07-18):** the full
-five-part series is now read and mined on its own dedicated page,
+than a separate Vickrey–Consigny paper.[6][7] The full
+five-part series has its own dedicated page,
 [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/),
 which also covers a second, previously uncited proof from the same series —
 Appendix I, credited to Vickrey, Matthew Gaffney Jr., and Joseph Holzinger, proving
@@ -312,10 +312,9 @@ together, the contributed appendices supply independent support for Part I's low
 ranking of bonus bidding (Norgaard's regression) and profit sharing (Rooney's
 administrability critique) without ever taking an explicit position for or against
 Gaffney's top recommendation. This page reports that absence rather than treating
-silence as agreement. `[VERIFY: checked only against these appendices as OCR'd from
-the archived PDF, not against any transmittal letter, legislative testimony, or
-correspondence that might record a contributor's view of the AVC proposal
-directly]`
+silence as agreement; the comparison rests on the appendices themselves, and not on
+any transmittal letter, legislative testimony, or correspondence that might record a
+contributor's view of the AVC proposal directly.
 
 ## Standing and Limits
 
@@ -325,14 +324,10 @@ tentatively-worded policy recommendations. It sits at the honest boundary betwee
 formal state economic advice and the kind of unpublished working-paper material the
 wiki carries elsewhere in Gaffney's corpus: unlike a working paper, it was
 commissioned and delivered to name officials for a live legislative process, but
-like a working paper, it was never submitted to peer review or, so far as this
-session established, formally published. `[VERIFY: publication/circulation history
-of the report beyond delivery to the Alaska Legislature and DNR — not established
-this session. **Attempted** (2026-07-18): a WorldCat catalog search returned
-HTTP 403/blocked in this environment on every access pattern tried; no citing
-paper, Alaska State Library catalog record, or contemporaneous reception item
-surfaced via general web search. Direct WorldCat access or an Alaska State
-Library/legislative-archives catalog lookup is needed, not another web search.]`
+like a working paper, it was never submitted to peer review, and no record of its
+formal publication has been found: its publication and circulation history beyond
+delivery to the Alaska Legislature and DNR remains unestablished, with no citing
+paper, library catalogue record, or contemporaneous notice of it identified.
 Its empirical claims (the 1965 Prudhoe Bay sale price, the leaseholder
 concentration data, the cost-inflation figures) are Gaffney's own citations of
 contemporary Alaska sources (DNR staff, industry survey data) rather than
@@ -353,15 +348,13 @@ landlord, not to how a fund should later distribute that rent to citizens — th
 distribution question the wiki covers on
 [resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 via the PFD's actual operating record from 1982 onward (Guettabi, Jones &
-Marinescu, Goldsmith).[5] This page is wired to the **capture** side of that split,
-not the **dividend** side, and no change is made to the dividend page this session:
-its supporting literature (four decades of PFD operating data) already covers the
-distribution question directly, and Gaffney's 1977 report — written before any
+Marinescu, Goldsmith).[5] This report bears on the **capture** side of that split,
+not the **dividend** side: the distribution question is already covered directly by
+four decades of PFD operating data, and Gaffney's 1977 report — written before any
 dividend existed — has nothing to add there beyond the historical-context sentence
 carried on [places/Alaska](/wiki/alaska/). A related, later Gaffney paper,
 "Alaska's Proposed Tax on Oil Reserves in Situ" (1981, WP053), appears to extend the
-AVC proposal specifically for Alaska's actual post-Prudhoe-Bay tax debate; it is not
-yet mined by the wiki and is noted here as a discovery candidate for a future wave.
+AVC proposal specifically for Alaska's actual post-Prudhoe-Bay tax debate.
 
 ## Bears On
 
@@ -384,7 +377,7 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/) — the distribution-side claim this report predates
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/) — the later essay documenting the same ad valorem/in-situ property-tax design in California, and its loss to Proposition 13
-- [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — the source of Appendix J's reprinted Vickrey/Consigny neutral-depreciation proof, now read and mined in full
+- [Gaffney (1970-71), Tax-Induced Slow Turnover of Capital](/wiki/gaffney-tax-induced-slow-turnover/) — the source of Appendix J's reprinted Vickrey/Consigny neutral-depreciation proof
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — this report reuses that essay's timing theory (Figure C.4) as an appendix
 - [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — the tax-code-side companion to this report's leasing-instrument design
 - [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — Gaffney's contemporaneous resource-leasing design work for a different state, same year
@@ -401,10 +394,8 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
    Taxation and Leasing Policy (Chancy Croft, Chairman), February 1, 1977 — used for
    the entire page: the Prudhoe Bay 1965 sale, the DCF/equity/waste objectives, the
    ad valorem charge design and its ranking among alternatives, the ripeness/timing
-   criterion, and the Recommendations. Text (Part I only) mirrored and OCR'd from
-   the site's scanned PDF this session (2026-07-17); all direct quotations verified
-   against the source PDF directly (`pdftotext` cross-check against
-   `scratchpad/cache/gaffney-mirror/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf`).
+   criterion, and the Recommendations. Part I read in full from the scanned PDF
+   (2026-07-17); all direct quotations verified against that source.
    [Free PDF (masongaffney.org)](https://www.masongaffney.org/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/B03_OIL_AND_GAS_LEASING_POLICY_FOR_ALASKA_1977_Part_I.pdf);
    local mirror at `sources/gaffney/`. Part II (Appendices A–L) is a separate
@@ -434,20 +425,17 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
    Crommelin's international leasing survey (Appendix D), Norgaard's Cook Inlet
    bonus-bid regression (Appendix E), and Rooney's royalty, exploration-expenditure,
    and profit-share papers (Appendices F, G, L). This is an **image-scan PDF with no
-   usable embedded text layer** (`pdftotext` extracted essentially nothing —
-   confirmed against page-by-page tests this session); the full 155 pages were
-   rendered to PNG at 200 DPI (`pdftoppm -r 200 -png`) and OCR'd page-by-page with
-   Tesseract 5.3.4 (`--psm 6 -l eng`) this session (2026-07-18), then concatenated
-   with page markers to
-   `sources/gaffney/text/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.txt`.
-   All quotations above were checked against that OCR text and spot-checked against
-   the rendered page images. `[VERIFY: OCR quality is poor on several image-heavy
-   pages — the bar-chart pages under Appendix C (raw acreage-by-year charts) and the
-   Moody's bond-yield table under Appendix K are visibly garbled; this page avoids
-   quoting numbers from those specific pages and relies instead on the cleanly-OCR'd
-   summary tables (C-1/C-2/C-3 rankings, Appendix K's net-worth-per-employee
-   ranking, and Rooney's royalty-schedule tables) and prose passages, each
-   spot-checked against the source image.]`
+   usable embedded text layer**; all 155 pages were transcribed by OCR and read in
+   full (2026-07-18), with the transcription held at
+   `sources/gaffney/text/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.txt`, and
+   all quotations above were checked against that transcription and spot-checked
+   against the page images. OCR quality is poor on several image-heavy pages — the
+   bar-chart pages under Appendix C (raw acreage-by-year charts) and the Moody's
+   bond-yield table under Appendix K are visibly garbled — so this page avoids
+   quoting numbers from those specific pages and relies instead on the cleanly
+   transcribed summary tables (C-1/C-2/C-3 rankings, Appendix K's
+   net-worth-per-employee ranking, and Rooney's royalty-schedule tables) and prose
+   passages, each spot-checked against the source image.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/B03_OIL_AND_GAS_ALASKA_1977_PART_II_APPENDICES_A-L.pdf);
    local mirror at
@@ -459,7 +447,6 @@ yet mined by the wiki and is noted here as a discovery candidate for a future wa
    against Gaffney's own posted unabridged full text (free, no paywall), the exact
    heading, authorship footnote, and journal page numbers (107–108) of the proof
    reprinted as Appendix J of the Alaska report's Part II, resolving the prior
-   verification gap on that citation. Fetched and OCR'd this session (`pdftotext -layout`
-   recovered an embedded text layer directly, no image OCR needed) — text matches
+   verification gap on that citation. Read in full (2026-07-18) — the text matches
    the Alaska-report reprint word for word modulo scan noise.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I11-TaxInducedSlowTurnoverofCapital.CV.CV.pdf)

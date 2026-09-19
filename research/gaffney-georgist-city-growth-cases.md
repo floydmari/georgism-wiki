@@ -307,10 +307,10 @@ cited statute or valuation roll.
 **Claim class.** All four pieces are historical-narrative advocacy by a committed Georgist
 economist, self-published (three as undated internal workpapers, one in a Georgist newsletter),
 not peer-reviewed, and not independently replicated. Population and assessment figures are
-generally **A/B-claims** — traceable to named secondary sources (Bremner, Russell, Cramer, Hoyt,
-Holli, Catlin, Lovett, Smith, Andelson, Fine, Hines) or to US Census data, and checkable in
-principle — but the **causal attribution of city growth or decline to Georgist tax policy is a
-D-claim** (interpretive/argumentative) in every case. None of the four is a matched-control or
+generally **checkable in principle** — traceable to named secondary sources (Bremner, Russell,
+Cramer, Hoyt, Holli, Catlin, Lovett, Smith, Andelson, Fine, Hines) or to US Census data — but the
+**causal attribution of city growth or decline to Georgist tax policy is interpretive argument**
+in every case. None of the four is a matched-control or
 panel study; all rely on hand-picked comparison cases (a growing city vs. an implied
 counterfactual, or one city vs. one neighbor) rather than a comparison group designed to isolate
 the tax variable from confounders.

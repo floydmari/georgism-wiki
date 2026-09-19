@@ -170,15 +170,15 @@ than a narrative claim.
   zoning and assessment practice) are Gaffney's own interpretation,
   presented candidly as his personal belief ("It may be hard to prove
   regressive or racist motives... although I personally believe they are an
-  influence") rather than as documented causal history — carried here as an
-  attributed D-claim, consistent with the wiki's handling of similar
+  influence") rather than as documented causal history — carried here as his
+  own attributed argument, consistent with the wiki's handling of similar
   passages on [gaffney-property-tax-progressive](/wiki/gaffney-property-tax-progressive/).
   Some illustrative examples (Seagrams Building assessment, the Milwaukee
   regressive-assessment citation) are drawn from Gaffney's own prior work or
   press accounts of the era, not independently re-verified here.
-- **Native text, no OCR needed** — a clean, standard PDF extraction; unlike
-  several other Gaffney items in this triage wave, no legacy-scan artifact
-  correction was required.
+- **Provenance.** The paper was read in full (2026-07-18) from the freely
+  available copy at masongaffney.org, a clean digital original rather than a
+  noisy scan.
 
 ## Bears On
 
@@ -219,7 +219,7 @@ than a narrative claim.
 1. Mason Gaffney (1973), "Tax Reform to Release Land," in Marion Clawson
    (ed.), *Modernizing Urban Land Policy* (Baltimore: The Johns Hopkins
    University Press for Resources for the Future, Inc.), pp. 115–151 — used
-   for all claims, figures, and derivations on this page; read in full from
-   the source PDF (native text, no OCR needed). Delivered at an RFF Forum,
+   for all claims, figures, and derivations on this page; read in full,
+   2026-07-18. Delivered at an RFF Forum,
    Washington, D.C., 13–14 April 1972. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/E4-TaxReformtoReleaseLand.CV.pdf);
    local mirror at `sources/gaffney/text/E4-TaxReformtoReleaseLand.CV.txt`.

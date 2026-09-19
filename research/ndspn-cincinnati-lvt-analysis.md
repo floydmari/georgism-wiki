@@ -278,7 +278,7 @@ new independent evidence.
    Analysis of Land Value Tax in Cincinnati, Ohio." [PDF](https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf)
    — used for all Cincinnati parcel-level findings, methodology, and figures 1-8 (including
    chart/table images not captured by the PDF's text layer) and the Pittsburgh/Allentown/Sydney
-   case summaries; fetched and read in full (25 pages) this session.
+   case summaries; read in full (25 pages), 2026-07-26.
 2. Wallace E. Oates & Robert M. Schwab (1997), "The Impact of Urban Land Taxation: The
    Pittsburgh Experience," *National Tax Journal* 50(1) — [wiki summary](/wiki/oates-schwab-pittsburgh/)
    — used to check the report's Pittsburgh account against the wiki's existing, more precise
@@ -296,4 +296,4 @@ new independent evidence.
    station). [wvxu.org](https://www.wvxu.org/politics/2026-07-20/land-value-tax-cincinnati) —
    used for the Reception section: Council member Mark Jeffreys's reaction, Greg Miller's
    general-audience framing, and Sen. Bill Blessing's update on Ohio SJR 7's legislative
-   status; fetched and read in full this session.
+   status; read in full, 2026-07-26.

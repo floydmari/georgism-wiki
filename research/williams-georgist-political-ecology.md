@@ -57,9 +57,9 @@ contemporary critical human geography, not only within economics and public fina
 
 - **A programmatic/theoretical essay, not an empirical study.** The paper outlines a
   framework and its applicability rather than presenting new data or a case study.
-- **Abstract-level source (B-claim).** The publisher page yielded only site-template
-  content; this page is built from the verbatim abstract obtained via the Crossref API, not
-  the paper's full development of the "Georgist political ecology" principles.
+- **Abstract-level source.** Only the abstract is publicly available; this summary rests on
+  it verbatim, and not on the paper's full development of the "Georgist political ecology"
+  principles.
 - **Journal/date metadata is slightly inconsistent across bibliographic sources** (variously
   listed as 2025 or 2026 volume year) — worth confirming final pagination in a future pass.
 
@@ -81,8 +81,8 @@ contemporary critical human geography, not only within economics and public fina
 1. Joe Williams (2026), "Nature, rent and the persistence of inequality: A Georgist political
    ecology," *Human Geography*, DOI 10.1177/19427786251390972.
    [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/19427786251390972) —
-   publisher page returned only template content to this session 2026-08-30; verbatim
-   abstract obtained via the Crossref API — used for the rent-inequality diagnosis, the
+   full text not accessible at last review (2026-08-30); the abstract was read verbatim
+   — used for the rent-inequality diagnosis, the
    equal-rights-to-nature/environmental-justice connection, and the application to
    financialization-of-nature, decolonization, and antiracism debates, all quoted directly
-   from the abstract above (B-claim; abstract-level, full text not read).
+   from the abstract above (B-claim; abstract-level — full text not accessible at last review).

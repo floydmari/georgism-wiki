@@ -187,8 +187,7 @@ economic rent.
   necessarily guarantee market dominance" and can even favor lagging firms if returns to
   additional data diminish quickly enough[1] — a serious economist's dissent from the
   natural-monopoly reading, reported here as Korinek and Vipra's own characterization of
-  Gans's argument rather than independently verified against Gans's paper, which this
-  page has not read.
+  Gans's argument rather than as a reading of Gans's paper itself.
 - **Quality-adjusted price declines cut the other way from a pure rent story.** The paper
   reports that OpenAI's model updates over roughly 20 months increased benchmark
   quality, tripled speed, expanded context length 16-fold, and cut the cost of a given
@@ -219,11 +218,10 @@ economic rent.
   sacrificing "maximizing consumer welfare by keeping the market competitive... in order
   to keep humanity safe."[1] This is a genuine tension in the authors' own policy menu, not
   a gap this page can resolve.
-- **Provenance.** All quotations, figures, and section summaries above were taken from
-  the NBER working-paper PDF of w33139 (November 2024 revision), fetched directly
-  from nber.org and read in full this session. The subsequently published *Economic
-  Policy* version (vol. 40, issue 121, January 2025, pp. 225–256) was not independently
-  obtained or checked against this working-paper text for wording or content differences;
+- **Provenance.** All quotations, figures, and section summaries above are taken from
+  the NBER working-paper PDF of w33139 (November 2024 revision). The subsequently
+  published *Economic Policy* version (vol. 40, issue 121, January 2025, pp. 225–256)
+  has not been checked against this working-paper text for wording or content differences;
   claims here should be understood as sourced to the NBER working paper specifically.
 
 ## See Also
@@ -257,5 +255,5 @@ economic rent.
    review, public-utility non-discrimination, the essential facilities doctrine, and the
    safety/competition trade-off); the compute cost-growth and CHIPS Act/EU Chips Act
    figures; and all verbatim quotes (C/D-claims — an unrefereed working paper's
-   market-structure taxonomy and forward-looking policy analysis; fetched and read in
-   full this session).
+   market-structure taxonomy and forward-looking policy analysis; read in full,
+   2026-07-17).

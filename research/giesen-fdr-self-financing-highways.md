@@ -81,9 +81,9 @@ did not translate into a workable 1930s-era implementation.
   historical vignette rather than a deep quantitative analysis; rated Supplementary tier
   accordingly.
 - **Author identity not fully confirmed.** A David Giesen active in Georgist education (Henry
-  George School programming, San Francisco Bay Area) shares this name; this session could not
-  confirm whether the AJES author is the same person.
-- **Abstract-level source, corroborated by independent archival history (B-claim).** The
+  George School programming, San Francisco Bay Area) shares this name; whether the AJES
+  author is the same person has not been established.
+- **Abstract-level source, corroborated by independent archival history.** The
   paper's own abstract was accessible; its full analytical argument was not. The excess-
   condemnation mechanism and the "Toll Roads and Free Roads" → 1944 Act → 1956 Act outcome
   chain were confirmed independently via FHWA official history and a directly-quoted 1951

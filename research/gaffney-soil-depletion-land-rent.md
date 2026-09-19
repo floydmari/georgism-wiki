@@ -168,25 +168,18 @@ addresses this wiki covers, though a law review rather than an economics
 journal, and its theoretical apparatus (the four-category taxonomy, the
 discounted-remote-liquidation depletion rule) is Gaffney's own proposed
 framework, not an empirically estimated or independently replicated result — a
-C-claim (theoretical), not a B-claim (empirical). **Citation count established
-(2026-07-18):** Semantic Scholar's paper-search API records **21 citations**
-for Gaffney's "Soil Depletion and Land Rent" — a modest but real independent
-reception history for a 1965 law-journal paper, corroborating (not merely
+theoretical contribution rather than an empirical one. Semantic Scholar records
+**21 citations** for Gaffney's "Soil Depletion and Land Rent" (as of 2026-07-18)
+— a modest but real independent reception history for a 1965 law-journal paper, corroborating (not merely
 inferring from venue) the standing already noted from its explicit citation in
 later Georgist-adjacent scholarship (Dwyer 2014, AJES).[3][4]
 
-**Archive-mirror gap.** The masongaffney.org filename contains a literal
-ampersand ("B5Soil_Depletion_&_Land_Rent.CV.pdf"), which broke the automated
-mirror to archive.progress.org — that mirror currently 404s under every URL
-encoding tried this session. The live masongaffney.org PDF (percent-encoded
-ampersand, `%26`) was verified reachable and is this page's primary citation;
-a University of New Mexico Digital Repository copy (the original journal's own
-open-access host) is a second free, legal, working mirror.[1] `[VERIFY: the
-archive.progress.org mirror for this file should be re-run with the correct
-source filename; the R2 manifest's ampersand-containing entries for this and
-several other Gaffney files
-(sources/gaffney-r2-manifest.csv) all fetched as identical-sized 404 error
-pages rather than the real PDFs.]`
+**Access.** The masongaffney.org filename contains a literal ampersand
+("B5Soil_Depletion_&_Land_Rent.CV.pdf"), so only the percent-encoded (`%26`)
+form of that URL resolves; that copy is this page's primary citation. A
+University of New Mexico Digital Repository copy (the original journal's own
+open-access host) is a second free, legal mirror. The archive.progress.org
+mirror of this file is not currently working.[1]
 
 ## Bears On
 
@@ -229,17 +222,12 @@ pages rather than the real PDFs.]`
    4(3): 537-557 (January 1965) — used for the entire page: the four-category
    soil taxonomy, the expendable-surplus depletion-allowance derivation, the
    conservation-vs-maintenance argument, the Ricardo defense, and the oil/mineral
-   extension. Text OCR'd and mirrored to
-   `sources/gaffney/text/B5Soil_Depletion_and_Land_Rent.CV.txt` this session
-   (OCR quality good; page-break artifacts from the original journal's running
-   headers/footers are visible in the raw text but do not affect the quoted
-   passages); all direct quotations verified against the OCR text and
-   cross-checked against the source PDF directly (`pdftotext`).
+   extension. Read in full, 2026-07-18; all direct quotations were verified
+   against the source PDF, and a working text copy is held at
+   `sources/gaffney/text/B5Soil_Depletion_and_Land_Rent.CV.txt`.
    [Free PDF (masongaffney.org, percent-encoded ampersand)](https://masongaffney.org/publications/B5Soil_Depletion_%26_Land_Rent.CV.pdf) ·
-   [University of New Mexico Digital Repository (open-access journal host)](https://digitalrepository.unm.edu/nrj/vol4/iss3/7/)
-   (both verified reachable this session); `archive.progress.org` mirror not
-   currently working for this file, see `[VERIFY]` note above; local mirror at
-   `sources/gaffney/`.
+   [University of New Mexico Digital Repository (open-access journal host)](https://digitalrepository.unm.edu/nrj/vol4/iss3/7/);
+   the `archive.progress.org` mirror of this file is not currently working.
 2. [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/)
    — used for the cross-reference showing this 1965 paper's ad-valorem-to-
    severance-tax-as-exhaustion-nears principle anticipates Gaffney's later,
@@ -247,7 +235,7 @@ pages rather than the real PDFs.]`
 3. William T. Dwyer (2014), "Taxation: The Lost History," *American Journal of
    Economics and Sociology* 73(4) — used only to corroborate that this paper
    remains cited in later Georgist-adjacent scholarship; not itself mined for
-   content this session. [Wiley (paywalled)](https://onlinelibrary.wiley.com/doi/10.1111/ajes.12082_3)
+   content. [Wiley (paywalled)](https://onlinelibrary.wiley.com/doi/10.1111/ajes.12082_3)
 4. Semantic Scholar, paper-search API record for "Soil Depletion and Land Rent"
-   (Gaffney) — used for the 21-citation count (accessed via API 2026-07-18).
+   (Gaffney) — used for the 21-citation count (accessed 2026-07-18).
    [Semantic Scholar](https://www.semanticscholar.org/search?q=Soil%20Depletion%20and%20Land%20Rent%20Gaffney)

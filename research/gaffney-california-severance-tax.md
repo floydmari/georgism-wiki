@@ -141,8 +141,8 @@ may be remedied by modifying the tax to allow reasonable cost deductions."[1]
 for a live legislative and ballot-measure debate, not a peer-reviewed paper — Gaffney
 says so implicitly by describing the piece as written "for" a legislative committee
 and pegged to a specific initiative. The **incidence theory (who bears a severance
-tax)** is standard public-finance reasoning and can be read as a C-claim (theoretical,
-citing accepted tax-incidence conditions); the **empirical claims about California's
+tax)** is standard public-finance reasoning, theoretical and resting on accepted
+tax-incidence conditions; the **empirical claims about California's
 supply elasticity and the profit-per-employee rent signature** are asserted rather than
 formally estimated in the essay — Gaffney himself flags uncertainty in a footnote on
 the Fortune 500 profit-share figures ("these figures are only roughly correct; check

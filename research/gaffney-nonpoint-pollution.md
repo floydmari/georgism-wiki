@@ -39,15 +39,15 @@ Administration 18(1 & 2), 1988/89 (Special Issue: Future Directions for
 Economics), pp. 133-54" — matching this page's volume, issue, year, and
 pagination exactly[3]), Vol. 18, Nos. 1 and 2 (1988/89), Special Issue
 "Future Directions for Economics," pp. 133–154, while Gaffney was
-at the University of California, Riverside.[1] This session did not
-independently confirm the journal's publishing institution. An acknowledgement note dates
+at the University of California, Riverside.[1] The journal's publishing
+institution remains unconfirmed. An acknowledgement note dates
 an earlier version to a conference on "Political, Institutional and Fiscal
 Alternatives to Accelerate Nonpoint Pollution Programs," Milwaukee, December
 9, 1987.[1] The masongaffney.org mirror carries two scanned copies of the
 identical article — `F7Nonpoint_Pollution.CV.pdf` and
-`F8-NonpointPollution.CV.CV.pdf` — from different source scans; F7's OCR
-text layer is markedly cleaner and is the version read and re-OCR'd for this
-page (see Provenance below). F8 is not separately mined.
+`F8-NonpointPollution.CV.CV.pdf` — from different source scans; F7's text
+layer is markedly cleaner and is the version this page was read from (see
+Provenance below). F8 is not separately mined.
 
 The essay fills a genuine, previously undeveloped gap in the wiki's coverage
 of environmental economics: [concepts/pigouvian-taxation](/wiki/pigouvian-taxation/)
@@ -198,21 +198,20 @@ technique]... the proper watchword."
 - **A Gaffney-authored policy essay in a lower-profile venue, not a
   peer-reviewed empirical study.** The essay's factual claims (the pesticide
   windfall-compensation pattern, the Milwaukee CBD figures, the Menominee
-  River loading data) are drawn from secondary sources Gaffney cites but
-  this wiki has not independently verified; treat the argument as Gaffney's
-  own synthesis (C/D-claim) rather than as newly established fact.
+  River loading data) are drawn from secondary sources Gaffney cites that
+  have not been checked against the originals; the argument is best read as
+  Gaffney's own synthesis rather than as newly established fact.
 - **The seven surrogate-tax failure modes are argued, not modeled.** No
   formal welfare-loss calculation is offered for any of the seven; they are
   worked examples and citations to others' findings (Hall & Norgaard 1973;
   Lipsey & Lancaster 1956–57 for the second-best point), not a Gaffney
   original econometric contribution.
-- **The venue's full name was confirmed independently this session (2026-08-10).**
-  The masongaffney.org scan gives only the abbreviation "JBA" and "Vol. 18,
-  No. 1 and 2, 1988/89," but an independent transcription (wealthandwant.com)
-  expands this to *Journal of Business Administration*, Special Issue "Future
-  Directions for Economics," matching volume/issue/year/pagination exactly.
-  This wiki has not independently confirmed the journal's publishing
-  institution.
+- **The venue's full name rests on a second source.** The masongaffney.org
+  scan gives only the abbreviation "JBA" and "Vol. 18, No. 1 and 2, 1988/89,"
+  but an independent transcription (wealthandwant.com) expands this to
+  *Journal of Business Administration*, Special Issue "Future Directions for
+  Economics," matching volume/issue/year/pagination exactly (checked
+  2026-08-10). The journal's publishing institution remains unconfirmed.
 - **The land-value-tax solution is asserted, not tested against nonpoint
   pollution outcomes specifically.** No study cited in the essay (or found
   independently for this page) measures runoff or water-quality outcomes
@@ -222,8 +221,8 @@ technique]... the proper watchword."
   from the LVT-anti-sprawl mechanism already documented (with its own
   caveats) on the containment-policies and synergistic-city pages, not an
   independent empirical result of this essay.
-- **F2Q, a related but distinct 1966 item, was read and declined a page
-  this wave.** "Welfare Economics and Environmental Quality" (Gaffney's
+- **A related but distinct 1966 item adds nothing the wiki does not already
+  carry.** "Welfare Economics and Environmental Quality" (Gaffney's
   comments on Allen Kneese at the 1966 Resources for the Future Forum on
   Quality of the Environment) is a witty discussant response, not an
   original research contribution — its one durable point, that "increments
@@ -234,7 +233,7 @@ technique]... the proper watchword."
   [tax capitalization](/wiki/tax-capitalization/) and
   [Oates (1969)](/wiki/oates-1969-capitalization/), predating both by three
   years but adding no new mechanism beyond what those pages already
-  establish. Zero-addition verdict; no registry row (C2/E15 precedent).
+  establish.
 
 ## Bears On
 
@@ -262,17 +261,13 @@ technique]... the proper watchword."
 
 ## Provenance
 
-Scanned PDF with a legacy OCR text layer (unembedded WinAnsi-encoded
-base-14 fonts, the same pattern documented on the K-series and H3 pages)
-producing minor errors (e.g., "regUar" for "regular," "Un-disposed" for
-"undisposed"). Re-OCR'd this session at 250dpi with Tesseract 5.3.4
-(`pdftoppm -r 250` + `tesseract --psm 3`), which corrected these and other
-misreadings; canonical text mirrored to
-`sources/gaffney/text/F7-NonpointPollution.CV.txt`. F8
+The article was read in full (2026-08-10) from the freely available F7 scan
+at masongaffney.org. That scan's legacy text layer carries minor errors
+(e.g., "regUar" for "regular," "Un-disposed" for "undisposed"), so the text
+was re-recognised at higher resolution before quoting; the corrected text is
+held at `sources/gaffney/text/F7-NonpointPollution.CV.txt`. F8
 (`F8-NonpointPollution.CV.CV.pdf`) is a second scan of the identical
-article with a visibly worse OCR layer; not separately re-OCR'd or mirrored
-since it adds no content (F7/F8 duplicate precedent, cf. H20's
-abridged/unabridged pair).
+article with a visibly worse text layer and adds no content.
 
 ## See Also
 
@@ -290,19 +285,20 @@ abridged/unabridged pair).
 1. Mason Gaffney, "Nonpoint Pollution: Tractable Solutions to Intractable
    Problems," *Journal of Business Administration*, Vol. 18, Nos. 1 and 2
    (1988/89), Special Issue "Future Directions for Economics," pp. 133–154 —
-   used for the entire page. Scanned PDF, legacy OCR text layer; re-OCR'd
-   this session at 250dpi with Tesseract 5.3.4. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf);
+   used for the entire page. Read in full, 2026-08-10; the scan's legacy text
+   layer was re-recognised before quoting (see Provenance). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/F7Nonpoint_Pollution.CV.pdf);
    duplicate scan (not separately used): [F8](https://masongaffney.org/publications/F8-NonpointPollution.CV.CV.pdf);
    local mirror at `sources/gaffney/text/F7-NonpointPollution.CV.txt`.
 2. Mason Gaffney, "Welfare Economics and Environmental Quality: Comments on
    Allen V. Kneese," 1966 Resources for the Future Forum on Quality of the
    Environment, The Carnegie Institution, Washington, D.C., March 8–9, 1966
-   — read and declined a dedicated page this session (see Standing and
-   Limits); cited only for the land-rent-as-pollution-benefit-measure point.
+   — read in full (2026-08-10) and judged not to warrant a dedicated page
+   (see Standing and Limits); cited only for the
+   land-rent-as-pollution-benefit-measure point.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/F2QWelfareEconomics_and_Environmental_Quality.CV.pdf)
 3. wealthandwant.com, transcription of Mason Gaffney, "Nonpoint Pollution:
-   Tractable Solutions to Intractable Problems" — used this session (2026-08-10)
-   only to independently confirm the source's full journal title (item 1
-   above expands the masongaffney.org scan's bare "JBA" abbreviation); not
+   Tractable Solutions to Intractable Problems" — used only to confirm the
+   source's full journal title at last review (2026-08-10), expanding the
+   masongaffney.org scan's bare "JBA" abbreviation in item 1 above; not
    used as a content source for this page's claims. [Free HTML
    (wealthandwant.com)](https://wealthandwant.com/docs/Gaffney_Nonpoint.html)

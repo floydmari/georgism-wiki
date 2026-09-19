@@ -54,9 +54,9 @@ not several.
   is [Banzhaf & Lavery's Pennsylvania decomposition](/wiki/banzhaf-lavery-pa-sprawl/).
 - **Nashville-specific calibration** — described in the companion paper as the
   most sprawling large US metro, which may bound the upper estimate.
-- **Verification note.** Proxy-blocked fetches; bibliographic details and
-  magnitudes corroborated across multiple independent snippets. Scan depth
-  **Light**.
+- **Full text not consulted directly.** The bibliographic details and the
+  magnitudes reported here are corroborated across multiple independent
+  secondary descriptions of the paper. Scan depth **Light**.
 
 ## Bears On
 

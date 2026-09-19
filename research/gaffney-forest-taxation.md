@@ -37,8 +37,8 @@ taxed or captured — from opposite institutional settings: **private** forest
 taxation and **public** (National Forest) management.
 
 **"Alternative Ways of Taxing Forests"** (March 1980) is a systematic tax-design
-survey. **Resolved 2026-07-18:** "Number 43" is Gaffney's UC Riverside working-paper
-number, not a lecture/proceedings series — the document itself carries no venue
+survey. "Number 43" is Gaffney's UC Riverside working-paper
+number, not a lecture or proceedings series — the document itself carries no venue
 statement, but masongaffney.org's own publication catalog identifies the print
 venue as Will Knedlick (ed.), *State Taxation of Forest and Land Resources*,
 Lincoln Institute of Land Policy, 1980, pp. 5–16.[1] Gaffney opens by noting that Henry Aaron's and Dick Netzer's
@@ -289,42 +289,42 @@ resembling Gaffney's proposed reforms is covered by this page.
    stated in the document itself) —
    used for the entire "Taxing Private Forests" section: the four-base survey,
    the 38%-equivalent-yield-tax-rate calculation, and Gaffney's stated ranking.
-   Text OCR'd and mirrored to
-   `sources/gaffney/text/A3-AlternativeWaysofTaxingForests.CV.txt` this session;
-   all direct quotations verified against the OCR text and cross-checked against
-   the source PDF directly (`pdftotext`).
+   Read in full (2026-07-18) from a transcription held at
+   `sources/gaffney/text/A3-AlternativeWaysofTaxingForests.CV.txt`; all direct
+   quotations verified against that transcription and cross-checked against the
+   source PDF.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/A3-AlternativeWaysofTaxingForests.CV.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/A3-AlternativeWaysofTaxingForests.CV.pdf)
-   (both verified reachable this session); local mirror at `sources/gaffney/`.
+   (both reachable at last review); local mirror at `sources/gaffney/`.
 2. Mason Gaffney, "Greater Social Benefits From our National Forests," an
    address to the Western Timber Association, San Francisco, March 4, 1977,
    reproduced by the Western Timber Association, 1977, pp. 1-20 — used for the
    entire "National Forests" section: the Clawson $42-billion figure, the ACE
    critique, the CMAI-as-zero-interest-rule argument, and the property-tax-
-   rationale-applied-to-public-land argument. Text OCR'd and mirrored to
-   `sources/gaffney/text/A5-1977_Greater_Social_Benefits_from_our_National_Forests.txt`
-   this session; all direct quotations verified against the OCR text and
-   cross-checked against the source PDF directly.
+   rationale-applied-to-public-land argument. Read in full (2026-07-18) from a
+   transcription held at
+   `sources/gaffney/text/A5-1977_Greater_Social_Benefits_from_our_National_Forests.txt`;
+   all direct quotations verified against that transcription and cross-checked
+   against the source PDF.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/A5-1977_Greater_Social_Benefits_from_our_National_Forests.pdf)
-   (both verified reachable this session); local mirror at `sources/gaffney/`.
+   (both reachable at last review); local mirror at `sources/gaffney/`.
 3. Marion Clawson, "The National Forests," *Science* 191(4228): 762–767 (Feb. 20,
-   1976) — independently identified this session (2026-07-18) as Gaffney's likely
+   1976) — independently identified (2026-07-18) as Gaffney's likely
    source for the $42-billion National Forest asset valuation: the article's own
    abstract states the Forest Service held "approximately $42 billion in assets"
    generating "$400-500 million annually" in cash revenue, matching Gaffney's
    figures and 1974 timeframe closely enough to confirm the figure traces to a
    real, findable Clawson publication rather than an unverifiable Gaffney
    citation. Confirmed via the article's PubMed record (abstract only; the
-   *Science* article itself is paywalled — not independently read in full this
-   session, so Gaffney's specific $486 million 1974 cash-receipts/outlay split
-   remains his own citation, not independently re-derived from Clawson's text).
+   *Science* article itself is paywalled and has not been read in full, so
+   Gaffney's specific $486 million 1974 cash-receipts/outlay split remains his own
+   citation rather than a figure re-derived from Clawson's text).
    [PubMed record](https://pubmed.ncbi.nlm.nih.gov/17754173/) ·
    [DOI: 10.1126/science.191.4228.762](https://doi.org/10.1126/science.191.4228.762)
 3. Mason Gaffney, "Token Timber Taxation: Case of Mendocino County, CA,"
    working paper WP061, 2000 — used for the Mendocino County TPZ case study:
    the 2.9% yield-tax rate, the $3.9m/$45m revenue comparison, the $136-vs-$2,100
    assessed-vs-true site value figures, and the Georgia-Pacific/Louisiana-Pacific
-   ownership-concentration detail. Read in full this session; no prior wiki
-   coverage of this county-level case. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP061%20Token_Timber_Taxation_Mendocino_County_2000.pdf);
+   ownership-concentration detail. Read in full, 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP061%20Token_Timber_Taxation_Mendocino_County_2000.pdf);
    local mirror at `sources/gaffney/text/WP061-TokenTimberTaxationMendocino.txt`.

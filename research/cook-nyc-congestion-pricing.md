@@ -108,4 +108,4 @@ peer-reviewed), authored by a Stanford/Yale/Google-Research team.
    increase, the metro-wide spillover to unpriced trips, the ≥$14.3 million/week
    driver-welfare gain (at $40/hour VOTT, before revenue/environmental benefits), and the
    break-even-VOTT framing; abstract quotations verified verbatim against the NBER and
-   author-hosted PDFs this session.
+   author-hosted PDFs (2026-07-12).

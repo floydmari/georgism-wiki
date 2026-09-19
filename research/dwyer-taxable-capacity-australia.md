@@ -62,8 +62,8 @@ is recaptured in land values, so land income tends to keep pace with tax revenue
 
 1. Terry (Terence) Dwyer, "The Taxable Capacity of Australian Land and Resources,"
    *Australian Tax Forum* 18(1), 2003.
-   [PDF (Prosper mirror)](https://www.prosper.org.au/wp-content/uploads/2020/02/Dwyer_TaxableCapacityOfAustralianLand.pdf)
-   (returned HTTP 403 in this pass) · [PDF (EarthSharing mirror, full text read)](http://www.earthsharing.org.au/wp-content/uploads/dwyer%20tax%20resources.pdf)
+   [PDF (Prosper mirror)](https://www.prosper.org.au/wp-content/uploads/2020/02/Dwyer_TaxableCapacityOfAustralianLand.pdf) ·
+   [PDF (EarthSharing mirror, full text read)](http://www.earthsharing.org.au/wp-content/uploads/dwyer%20tax%20resources.pdf)
    — used for thesis, venue, methodology (5% current yield + accrual yield), the
    land-income-vs-tax-revenue series (400.4% in 1951–52 → 138.3% in 1994–95), and
    the paper's three core conclusions.

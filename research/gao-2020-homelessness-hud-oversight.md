@@ -115,8 +115,7 @@ prices, not construction costs, drive long-run housing costs.
    2020 — used for every figure and quotation on this page. The $100-rent/~9-percent estimate and the 16→17.4-per-10,000 illustration
    (p. 29), the sensitivity-analysis and robustness language (pp. 29–30), the
    omitted-variable-bias caveat, and the fixed-effects model specification (app. II,
-   pp. 51ff.) were verified verbatim against the full report PDF this session (fetched
-   via an Internet Archive mirror of gao.gov, which returned HTTP 403 to this wiki's
-   direct egress).
+   pp. 51ff.) were verified verbatim against the full report PDF at last review
+   (2026-07-11).
    [gao.gov/products/gao-20-433](https://www.gao.gov/products/gao-20-433) ·
    [Full PDF (gao.gov)](https://www.gao.gov/assets/gao-20-433.pdf)

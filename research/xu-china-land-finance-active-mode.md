@@ -72,15 +72,14 @@ value-capture theory, by name, that the wiki's China cluster currently has.
   entanglement with local-government debt (much of it off-balance-sheet, via urban
   investment vehicles) and its dependence on continuously rising land values, a dependence
   that has come under severe strain amid China's post-2021 property-sector downturn. This
-  page does not independently assess how the author's "active mode" framing engages that
-  downturn, since the paper's abstract-level content does not cover it in the material
-  reviewed.
+  page does not assess how the author's "active mode" framing engages that downturn, since
+  the abstract does not cover it.
 - **"Active" vs. "passive" is the author's own typology**, not a standard term in the land-value-capture
   literature the wiki otherwise cites (Lincoln Institute, Andelson) — worth flagging as
   this paper's own framing device.
-- **Full text not independently verified beyond the abstract.** Specific case evidence,
-  data, and the paper's treatment of land finance's debt and volatility risks are not
-  covered by this page (B-claim).
+- **Only the abstract is publicly available; this summary rests on it.** Specific case
+  evidence, data, and the paper's treatment of land finance's debt and volatility risks are
+  not covered by this page.
 
 ## Bears On
 
@@ -103,7 +102,7 @@ value-capture theory, by name, that the wiki's China cluster currently has.
    Infrastructure Delivery: Reality, History and Prospects," *International Journal of
    Urban and Regional Research* 50: 191–220, published online 5 October 2025, DOI
    10.1111/1468-2427.70024. [doi.org](https://doi.org/10.1111/1468-2427.70024) —
-   fetched and read (abstract/full-text-metadata level) 2026-08-26; used for the
+   read at abstract level (2026-08-26); used for the
    active/passive land-development typology, the central-government-policy-design
    attribution, the land-leasing revenue mechanism, and the recommendation to extend
    value capture to resale/redevelopment gains and social spending (B-claim).

@@ -106,8 +106,8 @@ municipal tax base cannot.
 
 - **Single secondary source.** This page is drawn from one 2026 policy-analysis article,
   not the MoHUA framework document itself or independent academic assessment; the
-  framework's own text and any government evaluation of its nine-year track record were
-  not independently obtained this session.
+  framework's own text and any government evaluation of its nine-year track record have
+  not been consulted here.
 - **Scope note.** This page is scoped narrowly to the VCF Framework and its
   implementation record, not a full India country profile — the wiki has no general
   places/ page for India yet; a future, more comprehensive country profile (covering
@@ -135,7 +135,7 @@ municipal tax base cannot.
 1. "Value Capture Financing Framework (MoHUA) 2017: Can Land Value Capture Finally
    Transform Urban Infrastructure Financing in India?", IMPRI (Impact and Policy Research
    Institute), 2026. [impriindia.com](https://www.impriindia.com/insights/policy-update/value-capture-financing-framework-mohua-2017-can-land-value-capture-finally-transform-urban-infrastructure-financing-in-india/) —
-   article fetched and read 2026-08-16 — used for the six-instrument taxonomy, the
+   article read 2026-08-16 — used for the six-instrument taxonomy, the
    Bandra-Kurla Complex, Gujarat Town Planning Scheme, and Delhi Metro examples, the three
    implementation barriers, and the property-tax/GDP, ULB-revenue, and World Bank
    infrastructure-deficit figures. Policy-analysis-institute source, not a peer-reviewed

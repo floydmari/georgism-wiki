@@ -1,4 +1,179 @@
 {
+ "objections/land-cannot-be-assessed.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "Part 3* (2022), [Lars Doucet](/wiki/doucet-does-georgism-work/) makes the key counter-intuitive point: land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Career assessor Ted Gwartney's [practitioner account of estimating land values](/wiki/gwartney-estimating-land-values/) — the expert Doucet consulted — describes exactly these location-based methods as routine professional practice."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "The attempt to formalize land valuation shows up worldwide, not just in a few rich, English-speaking jurisdictions.** A [synthesis of six single-country case studies](/wiki/mass-appraisal-international-cases/) — Croatia, Turkey, Lithuania, Spain, China, and Quebec — drawn from Doucet's own citation list shows regression, fuzzy-logic, multi-criteria, and machine-learning valuation methods being app"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Errors are bounded and contestable.** Because land is immobile and visible, gross mis-assessment is easy to challenge; assessment quality improves with investment (the focus of the Center for Land Economics, co-founded by Doucet)."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Where the split remains politically or legally blocked, some designs avoid needing it at all.** Doucet's 2026 [DALT proposal](/wiki/dalt-depreciation-assisted-lvt/) keeps a single, conventional property-tax rate but fully exempts new-construction improvement value for roughly the first half of a building's expected lifetime — approximating a pure LVT's incentives in fast-depreciating markets witho"
+  },
+  {
+   "name": "Ted Gwartney",
+   "lead": false,
+   "sentence": "Career assessor Ted Gwartney's [practitioner account of estimating land values](/wiki/gwartney-estimating-land-values/) — the expert Doucet consulted — describes exactly these location-based methods as routine professional practice."
+  }
+ ],
+ "objections/land-is-just-capital.md": [
+  {
+   "name": "Phillip J. Anderson",
+   "lead": false,
+   "sentence": "[Phillip Anderson's](/wiki/phillip-j-anderson/)\n  account of the banking-and-land cycle rests on exactly this: banks lend\n  against land as collateral the same way they lend against any other\n  capitalized asset, and the mechanics of that capitalization do not\n  visibly distinguish land from machinery or securities.\n- **Land can be improved, and can degrade.** Drainage, clearing, irrigation,\n  and"
+  }
+ ],
+ "objections/land-no-longer-matters.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "This is arguably the single most consequential empirical crux for the whole wiki: [land value tax](/wiki/land-value-tax/) advocacy depends on land being large enough, and concentrated enough, to be worth the political cost of building a new tax base and rewriting a large share of public finance around it.\n\n## The Response\n\nLars Doucet's *[Land Is a Big Deal](/wiki/land-is-a-big-deal/)* (2022) was "
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Krugman's own narrower, revenue-specific version of the objection — whether land rent alone can fund a full modern welfare state — is addressed at length on this wiki's companion page, [LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/), which finds the claim partly right but concedes far more fiscal capacity than the blanket dismissal implies.\n\n## Limits and Caveats\n\n- Krugman's own s"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "EXCERPT: Paul Krugman's influential dismissal that land is 'just not a big enough thing' to matter much in a modern, services-and-technology economy — an objection Lars Doucet's Land Is a Big Deal was substantially written to answer."
+  }
+ ],
+ "objections/lvt-austrian-critique.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "On the practical side, no serious proposal is a literal 100% tax: [Lars Doucet](/wiki/lars-doucet/)'s rebuttal captures roughly 85% and adds explicit discovery subsidies (a Norway-style exploration incentive) where search matters, so the margin survives."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Foldvary contests that any quasi-rent is created at all; Doucet concedes some must stay private — two distinct answers, both on the record.\n\n## Limits and Caveats\n\nThe Austrian critique is not uniformly weak, and the honest reading concedes two points:\n\n- **The calculation objection has genuine force at the margin.** Land assessment is imperfect, and separating site value from improvements is hard"
+  }
+ ],
+ "objections/lvt-destroys-its-own-tax-base.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "Fred Harrison's *[Power in the Land](/wiki/harrison-power-in-the-land/)* attributes this argument to the British land economist Graham Hallett, then teaching at University College Cardiff: Hallett contended that a land tax pushed toward 100% would destroy land's selling price and, with it, the market evidence needed to value and administer the tax (Ch. 16, p. 211).[1] On this view, a full-rate LVT"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "It is a physical and economic fact about the site's productivity, independent of who captures the return.[1][2]\n\nHarrison's own rebuttal to Hallett makes this same point: the rental value of land persists under full taxation even as its exchange (capital) value collapses, so the tax base is the rent, not the price (Ch. 16, p. 211).[1] Property-tax scholarship confirms rental value and capital valu"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "In the modern public-finance literature it has no real formal proponent: its one named academic statement in this wiki's corpus is Graham Hallett's, reported second-hand by Harrison, and the standard catalogues of LVT's genuine weaknesses by its academic critics do not raise it."
+  }
+ ],
+ "objections/lvt-hurts-asset-rich-cash-poor.md": [
+  {
+   "name": "Stephen Hoskins",
+   "lead": true,
+   "sentence": "The scale is not trivial: even in Georgist advocates' own revenue-neutral shift simulations, a substantial share of owner-occupied homes pay more — 4,724 of 7,135 residential parcels in Princeton, NJ, and 52.5% of homesteads in South Bend, IN ([Miller & Hoskins college-town studies](/wiki/miller-hoskins-college-town-lvt/)) — so the population exposed to the liquidity question is real, whatever the"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "The concrete modelling bears this out — [Common Wealth Canada's distributional analysis](/wiki/cwc-distributional-impacts-lvt/) finds retired, land-rich but income-poor homeowners are the hardest-hit group, with modelled income declines up to roughly 43% before offsetting reforms — and [England & Zhao](/wiki/england-zhao-lvt-distribution/) show an LVT can be regressive against *current* income, ex"
+  }
+ ],
+ "objections/lvt-invites-assessment-corruption.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "In Cook County, Illinois, federal prosecutors charged multiple current and former Assessor's Office and Board of Review employees between 2021 and 2023 with accepting bribes — cash, golf outings, sports tickets, jewelry — in exchange for reducing individual property assessments, in schemes reportedly running for years.[1] A separate ProPublica investigation found that under a previous Cook County "
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "**Land assessment is public and mapped, unlike most tax avoidance.** The chief way to game a land value tax, Doucet writes, is to cozy up to your local assessor and get them to say your land is near-worthless — but \"you have to do this kind of corruption in the open."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "**Transparency infrastructure narrows the opening.** Doucet's own policy recommendation is to \"commoditize open source mass appraisal systems and push for public real estate transaction records everywhere, so that organizations and educated members of the public can do their own land value audits at scale\" — treating the risk as an argument for open [mass appraisal methods](/wiki/mass-appraisal-me"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "The comparative claim — that a fixed, mapped, un-hideable base is *harder* to game than income, sales, or capital taxes with more concealment options — is plausible and consistent with Doucet's framing, but it is a comparative judgment, not a proof, and its force depends on transparency and oversight infrastructure that must be built and maintained rather than assumed."
+  }
+ ],
+ "objections/lvt-is-socialism.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "In *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)*\n(1994), economist Kris Feder's postscript documents a concrete instance:\nduring South Africa's 1994 tax-reform debate, the free-market Free Market\nFoundation commissioned researcher Richard Grant to attack a proposed\nsite-value tax using arguments Grant drew substantially from economist\nFrank Knight's earlier essay"
+  }
+ ],
+ "objections/lvt-needs-zoning-reform-first.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "A tax designed to discourage speculative land-banking ([speculative vacancy](/wiki/speculative-vacancy/)) does little good if the owner is legally prevented from developing the site regardless of tax pressure.\n\n## The Response\n\nLars Doucet's *[Land Is a Big Deal](/wiki/land-is-a-big-deal/)* addresses this directly in its closing chapters, arguing that LVT and zoning reform are **complementary, not"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "No peer-reviewed study directly comparing LVT-and-upzoning sequencing or timing effects has been located, and this wiki does not claim one exists; the complementarity case therefore rests on Georgist-aligned reasoning rather than an independent empirical test of the sequencing question specifically.\n- Doucet's own book concedes elsewhere that even partial LVT reform yields only partial benefits, w"
+  }
+ ],
+ "objections/lvt-not-enough-revenue.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "It's just not a big enough thing\" (2017, as carried in\n[Doucet's book, Ch. 11](/wiki/land-is-a-big-deal/)).[1] **Mark Blaug**, in the\ndiscipline's standard history of thought: \"Provided there is no deception that such\na tax would raise much revenue except in rapidly growing cities, there would seem\nto be nothing wrong with the principle of site value taxation\" — endorsement of the\nprinciple, wrapp"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "**The modern estimates are not small.** [Doucet's twelve-method synthesis](/wiki/land-is-a-big-deal/)\n   puts US land value at $24–44T (2020), or roughly $1.2–3.5T/yr in rent at 5–8%\n   cap rates — defense-plus-Social-Security at the low end, up to ~80% of all\n   government revenue at the high end (Chs. 14–15);[3] the wiki's\n   [full evidence page](/wiki/land-rent-could-fund-government/) carries t"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "I) — a\n   prediction, not a finding, cited here as the claim's historical root rather than\n   as independent evidence for its size.[7] (ATCOR is itself a hypothesis needing empirical\n   testing, as [Doucet's own exposition concedes](/wiki/land-is-a-big-deal/).)\n4."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Even partial replacement\n   captures most of the efficiency gains, since the\n   [deadweight loss](/wiki/deadweight-loss/) avoided is largest for the most\n   distortionary taxes replaced first — Doucet's direct reply to Krugman.[1]\n\n## Limits and Caveats\n\n- The high-end estimates lean on advocacy sources\n  ([Fitzgerald's TRRA](/wiki/land-rent-could-fund-government/), Tideman's private\n  estimate vi"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "That figure sits toward the low end of the\n  ranges already surveyed above (Doucet's $1.2–3.5T, Larson's $23T land-value\n  total), so it does not by itself resolve the dispute, but it is a useful\n  independently-derived middle figure from a source arguing LVT is efficient and\n  ethically sound (endorsing Friedman's \"least bad tax\" line) while still doubting\n  it can fund government alone."
+  },
+  {
+   "name": "Karl Fitzgerald",
+   "lead": false,
+   "sentence": "Even partial replacement\n   captures most of the efficiency gains, since the\n   [deadweight loss](/wiki/deadweight-loss/) avoided is largest for the most\n   distortionary taxes replaced first — Doucet's direct reply to Krugman.[1]\n\n## Limits and Caveats\n\n- The high-end estimates lean on advocacy sources\n  ([Fitzgerald's TRRA](/wiki/land-rent-could-fund-government/), Tideman's private\n  estimate vi"
+  },
+  {
+   "name": "Prosper Australia",
+   "lead": false,
+   "sentence": "Hard national land-value totals\n   reinforce the point: the US Bureau of Economic Analysis's\n   [Larson estimate](/wiki/larson-us-land-value/) puts American land at roughly\n   $23 trillion (2009), Albouy, Ehrlich & Shin find\n   [urban land alone worth over twice GDP](/wiki/albouy-ehrlich-shin-metro-land/),\n   and Prosper Australia's line-by-line\n   [Total Resource Rents of Australia](/wiki/total-r"
+  }
+ ],
  "objections/lvt-transition-wealth-shock.md": [
   {
    "name": "Common Wealth Canada",
@@ -152,220 +327,6 @@
    "name": "Phillip J. Anderson",
    "lead": false,
    "sentence": "Anderson's land-cycle account has not displaced this consensus, and this wiki has not yet reconciled the two frameworks in detail.\n- **The claim that an \"on schedule\" 1926 land-boom peak drove the 1929–33 collapse is a timing argument**, not a formal counterfactual isolating how much of the Depression is attributable to real estate versus the stock market versus Federal Reserve policy failures.\n- "
-  }
- ],
- "organizations/bc-assessment-authority.md": [
-  {
-   "name": "Ted Gwartney",
-   "lead": false,
-   "sentence": "Georgist assessor\n[Ted Gwartney](/wiki/ted-gwartney/) worked within the BC assessment system\n(described in earlier sources as the \"British Columbia Assessment Authority\")\nduring part of his career, experience he later drew on in his widely cited\npractitioner's essay on land valuation.[4]\n\n## Nuances and Limits\n\n- **A neutral valuation body, not an advocate.** BC Assessment values property\n  under "
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": true,
-   "sentence": "It was created in **1974**\nfollowing a unanimous recommendation from a provincial all-party committee that\nan independent assessment agency replace the previous system of separate\nmunicipal assessments, under legislation (the Assessment Authority Act) giving it\nthe mandate to \"establish and maintain assessments that are uniform in the whole\nof British Columbia.\"[1][2] It produced the province's fi"
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": false,
-   "sentence": "The LVT-readiness argument above is\n  Common Wealth Canada's own advocacy case, not BC Assessment's.\n- **Thin on independent institutional detail.** This page currently covers BC\n  Assessment's founding, mandate, and scale from its own materials and secondary\n  accounts; a fuller institutional history (governance evolution, funding model,\n  relationship to municipal tax rates) is not yet compiled "
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": true,
-   "sentence": "EXCERPT: British Columbia's provincial Crown corporation, created in 1974, that independently values every property in the province for property-tax purposes — cited by Common Wealth Canada as ready-made administrative infrastructure for a modern land value tax."
-  }
- ],
- "organizations/center-for-land-economics.md": [
-  {
-   "name": "Lars Doucet",
-   "lead": true,
-   "sentence": "## Overview\n\nThe **Center for Land Economics** (CLE) is a US nonprofit research and education organisation launched in **February 2025** by **Greg Miller** and [Lars Doucet](/wiki/lars-doucet/), which \"conducts research and provides education to promote equitable assessments and foster sustainable development for the benefit of communities.\"[1][2] Its core thesis is \"the value of land returned to "
-  },
-  {
-   "name": "Lars Doucet",
-   "lead": true,
-   "sentence": "Co-founder Greg Miller previously worked as a Program Analyst in the Office of Policy Development and Research at the US Department of Housing and Urban Development (HUD); Doucet is the author of the *Progress and Poverty* Substack and a longtime writer on Georgist economics.[3]\n\n## Focus\n\nThe Center's central concern is **land assessment** — building better methods and data to value land separate"
-  },
-  {
-   "name": "Lars Doucet",
-   "lead": false,
-   "sentence": "Paul, and Cincinnati) and the open-source, MIT-licensed **\"Put It On A Map\"** suite (a parcel explorer, data fetcher, and GIS format converters), pitched by co-founder Lars Doucet as a persuasion tool because most people underestimate how sharply land value concentrates in city centers.[8] The Center has also published empirical studies of assessment failures — including analyses of the systematic"
-  },
-  {
-   "name": "Greg Miller / P&P newsletter",
-   "lead": true,
-   "sentence": "## Overview\n\nThe **Center for Land Economics** (CLE) is a US nonprofit research and education organisation launched in **February 2025** by **Greg Miller** and [Lars Doucet](/wiki/lars-doucet/), which \"conducts research and provides education to promote equitable assessments and foster sustainable development for the benefit of communities.\"[1][2] Its core thesis is \"the value of land returned to "
-  },
-  {
-   "name": "Greg Miller / P&P newsletter",
-   "lead": true,
-   "sentence": "Co-founder Greg Miller previously worked as a Program Analyst in the Office of Policy Development and Research at the US Department of Housing and Urban Development (HUD); Doucet is the author of the *Progress and Poverty* Substack and a longtime writer on Georgist economics.[3]\n\n## Focus\n\nThe Center's central concern is **land assessment** — building better methods and data to value land separate"
-  },
-  {
-   "name": "Lars Doucet",
-   "lead": true,
-   "sentence": "EXCERPT: A US nonprofit research and education organisation launched in 2025 by Greg Miller and Lars Doucet, focused on equitable land assessment and open-source tools for modelling land value tax shifts."
-  },
-  {
-   "name": "Greg Miller / P&P newsletter",
-   "lead": true,
-   "sentence": "EXCERPT: A US nonprofit research and education organisation launched in 2025 by Greg Miller and Lars Doucet, focused on equitable land assessment and open-source tools for modelling land value tax shifts."
-  }
- ],
- "organizations/coalition-for-economic-justice.md": [
-  {
-   "name": "Dave Wetzel",
-   "lead": false,
-   "sentence": "Following the Greater London Authority Planning Committee's February 2016 report \"Tax Trial: A\nLand Value Tax for London?\", then-Mayor Sadiq Khan responded positively in January 2017,\nexpressing interest in an LVT pilot through the OPDC though noting primary legislation would be\nrequired; the London Finance Committee's \"Devolution: a capital idea\" (January 2017)\nrecommended trialing an LVT pilot o"
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": false,
-   "sentence": "Following the Greater London Authority Planning Committee's February 2016 report \"Tax Trial: A\nLand Value Tax for London?\", then-Mayor Sadiq Khan responded positively in January 2017,\nexpressing interest in an LVT pilot through the OPDC though noting primary legislation would be\nrequired; the London Finance Committee's \"Devolution: a capital idea\" (January 2017)\nrecommended trialing an LVT pilot o"
-  }
- ],
- "organizations/common-wealth-canada.md": [
-  {
-   "name": "Common Wealth Canada",
-   "lead": true,
-   "sentence": "## Overview\n\n**Common Wealth Canada** is a Canadian think tank that advocates capturing [economic rent](/wiki/resource-rents/) — the unearned value of land and natural resources — through a national [land value tax](/wiki/land-value-tax/), and channelling the proceeds into a sovereign wealth fund that would pay dividends to Canadians."
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": false,
-   "sentence": "His site bio also identifies him as CEO and co-founder of C4Media (InfoQ, QCon), an angel investor, and the founder of UBI Works; in 2018 he organized over 120 Canadian CEOs to endorse basic income.[3]\n- **Liam Wilkinson** — Research and Policy; author of the organisation's 2024 distributional-impacts study and a co-author of its flagship 2023 economic-rent report.[3][4][5]\n- **Ken Yang** — Direct"
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": false,
-   "sentence": "It argues that [BC Assessment](/wiki/bc-assessment-authority/), created in 1974 to provide independent province-wide assessment, \"helped build the administrative infrastructure that any serious land-value policy would require\" — leaving British Columbia unusually well-positioned among Canadian provinces to reintroduce land value taxation, a case developed further in **\"B.C.'s Big Fix: Land Value T"
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": false,
-   "sentence": "At scale, it could generate $60 to $90 billion per year to fund citizen dividends, finance public investments, reduce debt,\" assuming \"either a conservative 6% or optimistic 9% annual return with half re-invested.\"[8] These are the organisation's own projections and should be read as advocacy-stage estimates rather than independently verified forecasts.\n\n## Role in the Canadian Georgist Landscape\n"
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": false,
-   "sentence": "His site bio also identifies him as CEO and co-founder of C4Media (InfoQ, QCon), an angel investor, and the founder of UBI Works; in 2018 he organized over 120 Canadian CEOs to endorse basic income.[3]\n- **Liam Wilkinson** — Research and Policy; author of the organisation's 2024 distributional-impacts study and a co-author of its flagship 2023 economic-rent report.[3][4][5]\n- **Ken Yang** — Direct"
-  }
- ],
- "organizations/commonwealth-land-party.md": [
-  {
-   "name": "Fred Harrison",
-   "lead": true,
-   "sentence": "Lincoln**, a Cleveland industrialist, for vice president in the 1924 election, polling only 1,532 votes.[1] Gaffney and Harrison's *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* names Lincoln among the figures touched by the single-tax movement's reach into American public life.[2]\n\nThe party's 1924 platform called for a single tax on land to replace all other met"
-  }
- ],
- "organizations/earthsharing-australia.md": [
-  {
-   "name": "Karl Fitzgerald",
-   "lead": true,
-   "sentence": "## Overview\n\n**Earthsharing Australia** is a Georgist organisation providing free education services in economics, operating as the educational and environmental outreach arm of, and a sister organisation to, [Prosper Australia](/wiki/prosper-australia/) — the Melbourne-based reform body whose lineage in the Victorian single-tax movement reaches back to 1890.[1][2] It describes its mission as demo"
-  },
-  {
-   "name": "Prosper Australia",
-   "lead": true,
-   "sentence": "## Overview\n\n**Earthsharing Australia** is a Georgist organisation providing free education services in economics, operating as the educational and environmental outreach arm of, and a sister organisation to, [Prosper Australia](/wiki/prosper-australia/) — the Melbourne-based reform body whose lineage in the Victorian single-tax movement reaches back to 1890.[1][2] It describes its mission as demo"
-  },
-  {
-   "name": "Prosper Australia",
-   "lead": true,
-   "sentence": "EXCERPT: The educational and environmental outreach arm of Prosper Australia, providing free economics education that frames land value taxation and resource-rent capture through an ecological lens."
-  }
- ],
- "organizations/henry-george-foundation-canada.md": [
-  {
-   "name": "Common Wealth Canada",
-   "lead": false,
-   "sentence": "Peddle's November 2024 review of Patrick Condon's *Broken City*) and hosts movement documents such as the Green Party of Ontario's 2010 \"Proposed Government of Canada Budget Based on Rent Recovery.\"[1][4]\n\n## Significance\n\nThe Foundation's practical importance to recent Canadian rent-capture research is as a **source of definitions and benchmarks**: [Common Wealth Canada](/wiki/common-wealth-canad"
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": false,
-   "sentence": "The Foundation has in turn covered Common Wealth Canada's proposal on its news pages.[6]"
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": true,
-   "sentence": "## Overview\n\nThe **Henry George Foundation of Canada** is Canada's long-standing Georgist organization, based in Ottawa and operating online as **earthsharing.ca**."
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": true,
-   "sentence": "It describes itself as \"part of an international network of organizations that work to popularize the thought of 19th century American economist, Henry George,\" with three stated goals — \"a just society, a green society and a prosperous society\" — and frames that network as \"an interconnected think tank advocating financing governments by capturing 'economic rent' in lieu of taxes on jobs, busines"
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": false,
-   "sentence": "Peddle's November 2024 review of Patrick Condon's *Broken City*) and hosts movement documents such as the Green Party of Ontario's 2010 \"Proposed Government of Canada Budget Based on Rent Recovery.\"[1][4]\n\n## Significance\n\nThe Foundation's practical importance to recent Canadian rent-capture research is as a **source of definitions and benchmarks**: [Common Wealth Canada](/wiki/common-wealth-canad"
-  },
-  {
-   "name": "Common Wealth Canada",
-   "lead": true,
-   "sentence": "EXCERPT: Ottawa-based Canadian Georgist organization (online as earthsharing.ca), part of the international network popularizing Henry George's economics. Its plain-language economic-rent article and its proposed 24% mining-royalty rate are both cited in Common Wealth Canada's Natural Common Wealth paper."
-  }
- ],
- "organizations/henry-george-foundation-uk.md": [
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": true,
-   "sentence": "## Overview\n\nThe **Henry George Foundation** (styling itself \"The Henry George Foundation of Great Britain\") is the leading British organisation dedicated to advancing Henry George's ideas."
-  }
- ],
- "organizations/international-union-lvt.md": [
-  {
-   "name": "Alanna Hartzok",
-   "lead": true,
-   "sentence": "It links national groups — from the UK and Australia to the Americas and beyond — into a coordinated international movement, and describes itself as \"an international umbrella organisation for land value tax reformers\" with \"members in countries around the world — activists, politicians, professionals and academics.\"[3]\n\nThe IU was **formed in July 1926**, originally as the *International Union fo"
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": false,
-   "sentence": "It serves as the connective tissue among the many national bodies — [Prosper Australia](/wiki/prosper-australia/), [Common Ground USA](/wiki/common-ground-usa/), the [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/), the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) tradition, and others — sustaining Georgism as a global rather than purely national project.\n\n## S"
-  },
-  {
-   "name": "Prosper Australia",
-   "lead": false,
-   "sentence": "It serves as the connective tissue among the many national bodies — [Prosper Australia](/wiki/prosper-australia/), [Common Ground USA](/wiki/common-ground-usa/), the [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/), the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) tradition, and others — sustaining Georgism as a global rather than purely national project.\n\n## S"
-  }
- ],
- "organizations/labour-land-campaign.md": [
-  {
-   "name": "Dave Wetzel",
-   "lead": true,
-   "sentence": "## Overview\n\nThe **Labour Land Campaign** (LLC) is a broad-left, voluntary organisation that \"campaigns within the UK labour movement for the collection of land rent for public benefit.\"[1][2] It was founded in **1983** by a group drawn from architecture, land economics, farming, town planning, trade unions, and academia, brought together by a shared concern for the use of land, and it advocates ["
-  }
- ],
- "organizations/new-economics-foundation.md": [
-  {
-   "name": "Positive Money",
-   "lead": true,
-   "sentence": "A Guide to the UK Monetary and Banking System](https://neweconomics.org/2012/12/where-does-money-come-from)* (2011), by NEF researchers Josh Ryan-Collins and Tony Greenham together with Richard Werner and Andrew Jackson, set out how commercial banks — not central banks — create most of the money supply as a byproduct of lending, feeding directly into this wiki's [bank money creation](/wiki/bank-mo"
-  }
- ],
- "organizations/positive-money.md": [
-  {
-   "name": "Lars Doucet",
-   "lead": false,
-   "sentence": "Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* cites Positive Money, alongside Jordà, Schularick & Taylor's data, for the estimate that real estate makes up roughly **45–60% of bank lending** in advanced economies, in a chapter that also notes Michael Hudson's related argument that much of the rent paid on land ultimately flows to banks as mortgage interest.[2]"
-  },
-  {
-   "name": "Positive Money",
-   "lead": true,
-   "sentence": "## Overview\n\n**Positive Money** is a not-for-profit research and campaigning organisation founded in London in 2010 by **Ben Dyson**, in the wake of the 2008 financial crisis, to advocate reform of how money and credit are created.[1] Its central argument is that commercial banks — not central banks — create the great majority of the money supply each time they issue a loan, and that this system c"
-  },
-  {
-   "name": "Positive Money",
-   "lead": true,
-   "sentence": "Positive Money's research on the composition of bank lending has been cited by Georgist writers as independent, non-Georgist corroboration that modern banking has become substantially a land-lending system."
-  },
-  {
-   "name": "Positive Money",
-   "lead": false,
-   "sentence": "Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* cites Positive Money, alongside Jordà, Schularick & Taylor's data, for the estimate that real estate makes up roughly **45–60% of bank lending** in advanced economies, in a chapter that also notes Michael Hudson's related argument that much of the rent paid on land ultimately flows to banks as mortgage interest.[2]"
   }
  ]
 }

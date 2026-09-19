@@ -172,10 +172,9 @@ is a pure-dissolve diagnosis paper, structurally the AI-market analogue of the F
   releases) before this page's "not yet tipped" reading is treated as current.
 - **Does not itself evaluate tax instruments.** This page covers the diagnosis only; for the
   authors' own view on how to *tax* AI rents if and when they materialize, see the companion
-  paper [Korinek & Lockwood, "Public Finance in the Age of AI"](/wiki/korinek-lockwood-ai-public-finance/),
-  read separately for this wiki.
-- **Provenance.** Findings and quotations verified against the INET working-paper PDF (No. 228,
-  October 2, 2024 revision), fetched and read in full this session; the published citation
+  paper [Korinek & Lockwood, "Public Finance in the Age of AI"](/wiki/korinek-lockwood-ai-public-finance/).
+- **Provenance.** Findings and quotations are verified against the INET working-paper PDF
+  (No. 228, October 2, 2024 revision); the published citation
   (*Economic Policy* 40(121), 225–256, 2025) is taken from the paper's own reference list in the
   companion Korinek & Lockwood (2026) manuscript, which cites it as published.
 
@@ -206,4 +205,4 @@ is a pure-dissolve diagnosis paper, structurally the AI-market analogue of the F
    the July 2024 four-authority joint antitrust statement; the Bertrand-competition observation
    and LMSYS clustering evidence; and the full policy-remedy menu (B/C-claims — a peer-reviewed
    working paper offering diagnosis and policy analysis, not a randomized or quasi-experimental
-   empirical estimate; fetched and read in full this session).
+   empirical estimate; read in full, 2026-07-18).

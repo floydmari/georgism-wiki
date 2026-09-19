@@ -65,7 +65,7 @@ methodological fork later disputed by critics (see Nuances and Limits below).
 about 1980, then began a sustained rise. The exact endpoint values differ between the working-paper
 and published versions, and the distinction matters:
 
-- The **2017 NBER working paper** (fetched and read directly) states: "In 1980, average markups
+- The **2017 NBER working paper** states: "In 1980, average markups
   start to rise from 18% above marginal cost to 67% now," with "average markups reaching **1.67**
   in 2014" — i.e. a rise from a markup ratio of about **1.18 (1980) to 1.67 (2014)**.[1]
 
@@ -112,7 +112,7 @@ variability, secular markup growth can enhance a central bank's ability to stabi
 without large output movements; it also notes higher markups correlate with reduced firm-level
 investment at the extremes. For this wiki's purposes its value is as a **non-advocacy,
 central-bank confirmation** that the concentrated markup rise appears in a second economy on
-independent data (B-claim; landing-page summary read directly, not a full-text scan).[9]
+independent data — drawn from the paper's published summary rather than its full text.[9]
 
 ## Relation to the Georgist Case
 
@@ -254,10 +254,8 @@ have roughly tripled since 1980" as settled fact.
   concentrated in housing; this paper shows a *micro* firm-level markup rise concentrated in a
   shrinking set of dominant firms. Neither directly tests the other.
 
-- *(Once created)* an outcome page on corporate profits and rents — e.g.
-  `outcomes/corporate-profits-increasingly-rents` — would be the natural home for this paper's
-  headline finding as supporting evidence; no such outcome page exists in the wiki yet as of this
-  writing, so `supports_outcomes` is left empty here rather than pointed at a non-existent slug.
+- **[Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)** —
+  the claim page this paper's headline finding is carried on as supporting evidence.
 
 ## See Also
 
@@ -275,51 +273,51 @@ have roughly tripled since 1980" as settled fact.
 1. Jan De Loecker, Jan Eeckhout & Gabriel Unger (2020), "The Rise of Market Power and the
    Macroeconomic Implications," *Quarterly Journal of Economics* 135(2), 561–644.
    [DOI: 10.1093/qje/qjz041](https://doi.org/10.1093/qje/qjz041) ·
-   Open full text: [NBER Working Paper 23687 (2017 version)](https://www.nber.org/system/files/working_papers/w23687/w23687.pdf) — **the working paper was fetched and read (2026-07-09)**; used for and verified verbatim against: the production-function markup method, the finding that markups "start to rise from 18% above marginal cost to 67% now" (a ratio of ~1.18 in 1980 to 1.67 in 2014), the services-share fact ("from 21 to 40%"), and the distributional/upper-tail shape of the rise. **Version note:** the published 2020 QJE re-estimation reports the widely-cited ~1.21 (1980) → 1.61 (2016) figures and the ~1%→8% profit-rate rise; the QJE version of record is paywalled (403), but the **authors' final copy of the published version** (dated November 15, 2019) is freely hosted at [janeeckhout.com/wp-content/uploads/RMP.pdf](https://janeeckhout.com/wp-content/uploads/RMP.pdf) and **was fetched and read (2026-07-10)**, verifying verbatim the published endpoints ("from 21% above marginal cost to 61% now"; "there has been a steady increase to 1.61"), the profit-rate rise ("from close to 1% in 1980 to around 8% in 2016"), the profit-rate definition (all-cost profit as a share of sales), the overhead fact (overhead rose "from 15% to 21% of total cost" with markups rising in excess of it), and the unchanged median / upper-tail distributional shape.
+   Open full text: [NBER Working Paper 23687 (2017 version)](https://www.nber.org/system/files/working_papers/w23687/w23687.pdf) — **the working paper was read in full (2026-07-09)**; used for and verified verbatim against: the production-function markup method, the finding that markups "start to rise from 18% above marginal cost to 67% now" (a ratio of ~1.18 in 1980 to 1.67 in 2014), the services-share fact ("from 21 to 40%"), and the distributional/upper-tail shape of the rise. **Version note:** the published 2020 QJE re-estimation reports the widely-cited ~1.21 (1980) → 1.61 (2016) figures and the ~1%→8% profit-rate rise; the QJE version of record is paywalled, but the **authors' final copy of the published version** (dated November 15, 2019) is freely hosted at [janeeckhout.com/wp-content/uploads/RMP.pdf](https://janeeckhout.com/wp-content/uploads/RMP.pdf) and **was read in full (2026-07-10)**, verifying verbatim the published endpoints ("from 21% above marginal cost to 61% now"; "there has been a steady increase to 1.61"), the profit-rate rise ("from close to 1% in 1980 to around 8% in 2016"), the profit-rate definition (all-cost profit as a share of sales), the overhead fact (overhead rose "from 15% to 21% of total cost" with markups rising in excess of it), and the unchanged median / upper-tail distributional shape.
 
 2. Jan De Loecker & Frederic Warzynski (2012), "Markups and Firm-Level Export Status," *American
    Economic Review* 102(6), 2437–2471. — used for the origin of the production-approach markup
-   estimator this paper applies to the full U.S. economy (not independently re-verified this
-   session; cited via secondary methodological summaries).
+   estimator this paper applies to the full U.S. economy (not independently re-verified;
+   cited via secondary methodological summaries).
 
 3. James Traina (2018), "Is Aggregate Market Power Increasing? Production Trends Using Financial
    Statements," Stigler Center for the Study of the Economy and the State, Working Paper.
    [PDF (ProMarket/Stigler Center)](https://www.promarket.org/wp-content/uploads/2018/03/Traina-WITH-COVER.pdf) ·
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3120849) — used for the SG&A
-   critique and the "modest, within historical range" alternative finding (direct fetch of the
-   PDF also returned HTTP 403 this session; summarized from search-engine snippets describing the
-   paper's abstract and findings).
+   critique and the "modest, within historical range" alternative finding (the PDF was not
+   accessible at last review; summarized from secondary descriptions of the paper's abstract
+   and findings).
 
 4. Susanto Basu (2019), "Are Price-Cost Markups Rising in the United States? A Discussion of the
    Evidence," NBER Working Paper 26057; published in *Journal of Economic Perspectives* 33(3),
    3–22. [NBER](https://www.nber.org/papers/w26057) ·
    [AEA/JEP](https://www.aeaweb.org/articles?id=10.1257/jep.33.3.3) — used for the methodological
    survey critique and the "cannot yet determine" conclusion (same access caveat; summarized from
-   search snippets, not a first-hand read).
+   secondary descriptions, not a first-hand read).
 
 5. Chad Syverson (2019), "Macroeconomics and Market Power: Context, Implications, and Open
    Questions," *Journal of Economic Perspectives* 33(3), 23–43. [AEA](https://ideas.repec.org/a/aea/jecper/v33y2019i3p23-43.html) —
-   used only to identify the companion papers in the same JEP symposium; not independently scanned
-   this session.
+   used only to identify the companion papers in the same JEP symposium; not independently
+   scanned.
 
 6. Steven Berry, Martin Gaynor & Fiona Scott Morton (2019), "Do Increasing Markups Matter?
    Lessons from Empirical Industrial Organization," *Journal of Economic Perspectives* 33(3),
    44–68. [AEA](https://pubs.aeaweb.org/doi/10.1257/jep.33.3.44) — used only to identify the third
-   companion paper in the same JEP symposium; not independently scanned this session.
+   companion paper in the same JEP symposium; not independently scanned.
 
 7. C. Lanier Benkard, Nathan H. Miller & Ali Yurukoglu (2025), "The Rise of Market Power and the
    Macroeconomic Implications: Comment," NBER Working Paper 34513 (November 2025).
    [NBER](https://www.nber.org/papers/w34513) ·
    [NBER PDF](https://www.nber.org/system/files/working_papers/w34513/w34513.pdf) ·
    [Stanford mirror (October 22, 2025 version)](https://web.stanford.edu/~ayurukog/Compustat_Markups_2025_10.pdf) —
-   **both the NBER and Stanford versions were fetched and read (2026-07-10)**; used for the
+   **both the NBER and Stanford versions were read (2026-07-10)**; used for the
    27%-of-observations sample-restriction claim, the Finance-and-Insurance-driven full-sample
    result, and the "just below 1.30 ... to about 1.35 in 2016" ex-F&I figure. Jan De Loecker,
    Jan Eeckhout & Gabriel Unger (2025), "The Rise of Market Power and the Macroeconomic
    Implications: Reply to Benkard, Miller, and Yurukoglu (2025)," October 13, 2025.
    [Reply PDF (janeeckhout.com)](https://www.janeeckhout.com/wp-content/uploads/Reply.pdf) —
-   **fetched and read (2026-07-10)**; used for the NAICS 3254 (pharmaceutical/biotech outlier)
-   counter-argument. As of this writing both documents are working papers (the Comment an NBER
+   **read in full (2026-07-10)**; used for the NAICS 3254 (pharmaceutical/biotech outlier)
+   counter-argument. As of 2026-07-10 both documents are working papers (the Comment an NBER
    working paper, the Reply an authors' note), not yet published in a peer-reviewed journal.
 
 8. [Wiki: Autor, Dorn, Katz, Patterson & Van Reenen — superstar firms](/wiki/autor-superstar-firms/) —
@@ -332,13 +330,5 @@ have roughly tripled since 1980" as settled fact.
    [bankofengland.co.uk](https://www.bankofengland.co.uk/working-paper/2019/market-power-and-monetary-policy) —
    used for the UK companion evidence: rising, top-firm-concentrated UK markups without a broad
    concentration trend, the globally-oriented-firms finding, the Phillips-curve and
-   inflation-stabilisation implications, and the markup–investment correlation (landing-page
-   summary fetched and read 2026-08-14; not a full-text scan, B-claims only).
-
-The **2017 NBER working paper** (source 1) and the **authors' final copy of the published 2020
-QJE version** (janeeckhout.com, dated November 15, 2019) have both been fetched and read
-directly, verifying the method, the working-paper 1.18→1.67 figures, the published 1.21→1.61
-(1980–2016) endpoints, the ~1%→8% profit-rate rise, and the distributional shape. The
-Benkard–Miller–Yurukoglu comment (NBER WP 34513) and the authors' October 2025 reply (source 7)
-have likewise now been fetched and read first-hand. Only the QJE version of record itself
-remains behind the publisher paywall.
+   inflation-stabilisation implications, and the markup–investment correlation (published
+   summary read 2026-08-14; not a full-text scan, B-claims only).

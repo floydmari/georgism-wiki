@@ -84,13 +84,13 @@ runs the other way.
   rather than rent-seeking-captured; this page reports the paper's argument, not a wiki
   endorsement of it as the dominant account of 1920s meat-industry antitrust action.
 - **Author affiliation note.** Pierre Desrochers is also affiliated with the Fraser Institute,
-  a free-market think tank; this does not bear on the historical facts reported (independently
-  corroborated via a second extraction below) but is worth noting for readers weighing the
+  a free-market think tank; this does not bear on the historical facts reported (which are
+  independently corroborated, as noted below) but is worth noting for readers weighing the
   paper's normative framing.
-- **A-claim with a caveat.** The specific facts on this page (consent-decree date and
+- **Facts cross-checked.** The specific facts on this page (consent-decree date and
   signatory, the *Swift & Co.* Supreme Court enforcement, the BNPA's role, and the 30-40%
-  price-decline figure) were independently confirmed via a second, separate fetch of the
-  article text; the verbatim abstract is confirmed directly against Crossref's CC-BY licence
+  price-decline figure) come from the article text and were confirmed against a second,
+  independent copy of it; the verbatim abstract matches Crossref's CC-BY licence
   metadata.
 
 ## Bears On
@@ -113,11 +113,9 @@ runs the other way.
    environment? Historical insights from the US meatpacking industry," *Small Business
    Economics*, published online 4 July 2026, open access (CC-BY 4.0).
    [link.springer.com](https://link.springer.com/article/10.1007/s11187-026-01241-4) — full
-   article text fetched via reader-proxy route 2026-08-31 (direct publisher fetch redirected
-   to an authentication wall despite confirmed open-access status), cross-checked against a
-   second independent extraction and against Crossref's CC-BY 4.0 licence metadata — used for
+   text read, 2026-08-31, and cross-checked against a second independent copy of the article
+   and against Crossref's CC-BY 4.0 licence metadata — used for
    the by-product-innovation history, the 30-40% price-decline figure, the Butchers National
    Protective Association's role, the 1920 consent decree and A. Mitchell Palmer's involvement,
    the 1932 *United States v. Swift & Co.* enforcement, and the paper's core causal argument
-   (A-claim; full text read via reader-proxy extraction and independently cross-checked, not a
-   direct PDF read).
+   (A-claim).

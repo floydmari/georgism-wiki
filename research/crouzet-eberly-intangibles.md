@@ -207,9 +207,9 @@ supports, that claim.
   general story: "H-EFS therefore cannot explain these facts." He also cautions that some of the
   paper's firm-level results (on market shares and productivity) "are sensitive to excluding
   goodwill or using the PT measure for intangible[s]." Philippon thus reads the same evidence as
-  tilting further toward the market-power side than the authors' agnostic sector split — a named,
-  first-hand-verified critique a reader should weigh against the efficiency reading this page
-  steelmans.[7]
+  tilting further toward the market-power side than the authors' agnostic sector split — a named
+  critique from the paper's own discussant, which a reader should weigh against the efficiency
+  reading this page steelmans.[7]
 - **The paper predates and does not address subsequent critiques of the underlying markup
   measures it cites** (e.g., the Traina and Basu critiques of the De Loecker-Eeckhout markup
   methodology, discussed on [that paper's wiki page](/wiki/de-loecker-eeckhout-unger-markups/));
@@ -257,7 +257,7 @@ supports, that claim.
    [NBER working paper PDF](https://www.nber.org/system/files/working_papers/w25869/w25869.pdf)
    — used for the abstract, the investment-gap/intangibles methodology, the sector-by-sector
    productivity/markup decomposition, all quoted passages, and the policy-implications section;
-   this session directly retrieved and read the full text of both PDF versions.
+   both PDF versions read in full (2026-07-10).
 2. Federal Reserve Bank of Kansas City, "Changing Market Structures and Implications for Monetary
    Policy," Jackson Hole Economic Policy Symposium program, August 23–25, 2018.
    [Symposium page](https://www.kansascityfed.org/research/jackson-hole-economic-symposium/changing-market-structures-and-implications-for-monetary-policy/) —
@@ -279,7 +279,6 @@ supports, that claim.
    Kansas City, pp. 151–169.
    [Kansas City Fed PDF](https://www.kansascityfed.org/documents/6978/philippon_JH2018.pdf) ·
    [Internet Archive copy](https://web.archive.org/web/20230401173836/https://www.kansascityfed.org/documents/6978/philippon_JH2018.pdf) —
-   **the full commentary was retrieved and read (2026-07-10)** via the Internet Archive copy
-   (direct fetches from kansascityfed.org timed out this session); used for the
+   **the full commentary was read (2026-07-10)** in the Internet Archive copy; used for the
    discussant-pushback bullet in Nuances and Limits, the three-hypothesis framing, and all
    verbatim quotations from the commentary.

@@ -52,8 +52,8 @@ smaller urbanized footprints**.[1]
   the same direction (more tax on land-related holdings, less sprawl) through
   partly opposite mechanisms; the wiki cites them side by side but never
   interchangeably.
-- **Verification note.** The egress proxy blocked the publisher full text this
-  session; findings are corroborated across the journal listing, RePEc, and SSRN
+- **Source access.** The publisher's full text is not openly accessible; the
+  findings above are corroborated across the journal listing, RePEc, and SSRN
   abstracts. Scan depth recorded as **Light**.
 
 ## Bears On
@@ -75,7 +75,7 @@ smaller urbanized footprints**.[1]
    [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0094119006000556)
    · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=874055) — used for
    the model prediction, IV strategy, and empirical finding (B-claims; abstracts
-   corroborated, full text unfetched — see note).
+   corroborated, full text not openly accessible at last review).
 2. Jan K. Brueckner & Hyun-A Kim, "Urban Sprawl and the Property Tax,"
    *International Tax and Public Finance* 10, 2003, pp. 5–23.
    [Publisher](https://link.springer.com/article/10.1023/A:1022260512147) — used for

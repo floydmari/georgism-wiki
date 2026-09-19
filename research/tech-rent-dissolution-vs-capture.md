@@ -108,10 +108,10 @@ found Apple's technical and business terms continued to obstruct this. **Meta wa
 million** for breaching **Article 5(2)**: its "consent-or-pay" model — pay a subscription or
 consent to combining personal data across services for ads — did not give users the "genuine
 choice" the DMA requires between a less-personalized-but-free service and a fully consented one;
-Meta's revised November 2024 model was, as of this page's research, still under separate
+Meta's revised November 2024 model remained, as of August 2026, under separate
 Commission assessment.[4][5] Both companies appealed to the EU **General Court** in mid-2025 —
 Apple's appeal was formally filed 7 July 2025 — putting the fines' legal validity, not merely
-their size, still in dispute as of this writing.[6]
+their size, still in dispute as of August 2026.[6]
 
 **Technical compliance is arriving, but on a multi-year clock.** WhatsApp's headline DMA
 obligation — Article 7 messaging interoperability — began rolling out in November 2025, nearly
@@ -179,7 +179,7 @@ structural relief: divestiture of Google's ad exchange (AdX), with publisher ad 
 divestiture as a fallback if AdX alone turns out to be insufficient, plus open-sourcing the ad-auction
 algorithm and mandated interoperability APIs so rival ad servers and exchanges can plug in.[13]
 The remedies trial ran September–November 2025 with closing arguments on 21 November 2025; as of
-this research pass **no ruling has issued**, with observers expecting a decision sometime in
+August 2026 **no ruling has issued**, with observers expecting a decision sometime in
 2026.[13] This is the live case to watch for whether a US court will order actual structural
 dissolution rather than the data-access remedy chosen in the search case — an open question this
 page cannot resolve and should be re-checked before being cited as settled.
@@ -293,19 +293,19 @@ after this update; unproven has simply acquired two more years of specific, chec
   divestiture means the strongest available real-world test of "does breakup destroy genuine scale
   efficiencies" has not happened; the Schumpeterian and ICLE counter-cases here are theoretical and
   cross-market inference, not a measured before/after on an actual platform breakup. The Google
-  ad-tech case (still undecided as of this page) is the nearest live test and should be revisited
+  ad-tech case (still undecided as of August 2026) is the nearest live test and should be revisited
   once Judge Brinkema rules.
-- **Browser-choice figures are vendor-reported, not independently verified.** Mozilla's 6-million-
-  selection and DAU-growth figures are Mozilla's own claims; this page did not locate an independent
-  dataset (e.g., StatCounter) confirming Safari's EU share loss at a comparable level of precision,
-  and none is cited here as a fact rather than an attributed vendor claim.
+- **Browser-choice figures are vendor-reported and unaudited.** Mozilla's 6-million-
+  selection and DAU-growth figures are Mozilla's own claims; no independent
+  dataset (e.g., StatCounter) confirming Safari's EU share loss at a comparable level of precision
+  has been located, and none is cited here as a fact rather than an attributed vendor claim.
 - **The Epic Games Store adoption shortfall has two live, unresolved explanations** (Apple friction
   vs. genuine consumer preference) and the Commission's own investigation into Apple's "user choice
-  obligations" was ongoing as of this page's research — its outcome should be checked before this
+  obligations" was ongoing as of August 2026 — its outcome should be checked before this
   section is treated as final.
 - **Both major DMA fines are under active appeal** to the EU General Court; this page reports the
   Commission's findings and the fact of appeal, not a final adjudicated outcome.
-- **The Google ad-tech remedies ruling had not issued** as of this research pass; whether the US
+- **The Google ad-tech remedies ruling had not issued** as of August 2026; whether the US
   produces its first real platform-breakup order in that case is unresolved and should be checked
   before citing this page for a US "no breakups" pattern.
 - **FTC v. Meta is on appeal**, and this page's "no durable moat found" reading is one district
@@ -339,8 +339,8 @@ after this update; unproven has simply acquired two more years of specific, chec
    [Chicago Booth](https://www.chicagobooth.edu/research/stigler/news-and-media/committee-on-digital-platforms-final-report) ·
    summarized via [ProMarket](https://www.promarket.org/2019/09/17/how-to-rein-in-big-tech-stigler-committee-digital-platforms/)
    — used for the interoperability/data-portability/Digital Authority recommendations and the
-   "impose interoperability... as a way of weakening network effects" formulation (report PDF was
-   not machine-extractable this session; content corroborated via the committee's own press
+   "impose interoperability... as a way of weakening network effects" formulation (report PDF text
+   not accessible at last review (2026-08-10); content corroborated via the committee's own press
    materials and ProMarket's summary of the report, both institutionally affiliated with the
    Stigler Center; C/D-claims).
 3. European Commission, DMA gatekeepers portal (designation history). [Digital Markets Act](https://digital-markets-act.ec.europa.eu/gatekeepers-portal_en);
@@ -348,37 +348,35 @@ after this update; unproven has simply acquired two more years of specific, chec
    Markets Act," 6 September 2023, [TechCrunch](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/),
    and Library of Congress Global Legal Monitor coverage of the same designation — used for the
    six-gatekeeper roster, the Booking.com and iPadOS additions (2024), and the Facebook
-   Marketplace un-designation (23 April 2025) (A-claims; fetched via search synthesis this
-   session).
+   Marketplace un-designation (23 April 2025) (A-claims; consulted through secondary summaries, 2026-08-10).
 4. European Commission, "Commission finds Apple and Meta in breach of the Digital Markets Act"
    (press release, IP/25/1085), 23 April 2025. [Digital Markets Act](https://digital-markets-act.ec.europa.eu/commission-finds-apple-and-meta-breach-digital-markets-act-2025-04-23_en)
    — used for the fine amounts (€500m Apple, €200m Meta), the anti-steering and consent-or-pay
    findings, and confirmation that Meta's revised November 2024 model remained under separate
-   assessment (A-claim; primary Commission statement; press-release HTML fetched this session,
+   assessment (A-claim; primary Commission statement; press-release HTML read 2026-08-10,
    full legal decision text not independently retrieved).
 5. Goodwin Procter, "10 Key Takeaways From the European Commission's Recent DMA Decisions Against
    Apple and Meta," June 2025. [Goodwin](https://www.goodwinlaw.com/en/insights/publications/2025/06/insights-practices-antc-10-key-takeaways-from-the-european)
    — used for the specific DMA articles breached (Apple: Art. 5(4) anti-steering; Meta: Art. 5(2)
    consent-or-pay) (A-claim; major law firm's client-alert analysis of the Commission decisions;
-   fetched this session).
+   read 2026-08-10).
 6. 9to5Mac, "Apple formally appeals €500 million DMA fine in the EU," 7 July 2025.
    [9to5Mac](https://9to5mac.com/2025/07/07/apple-formally-appeals-e500-million-dma-fine-in-the-eu/);
    Verdict, "Apple appeals EC's €500m fine over App Store restrictions" — used for Apple's General
    Court appeal date; Meta's appeal (reported as filed 4 July 2025 across multiple secondary
-   sources consulted this session) is corroborated across search results but not independently
+   sources) is corroborated across those reports but not independently
    confirmed against a single primary filing record, so its exact date should be re-verified
-   before precise reuse (A/B-claims; journalistic sources; fetched via search synthesis this
-   session).
+   before precise reuse (A/B-claims; journalistic sources; consulted through secondary summaries, 2026-08-10).
 7. Meta, "Messaging Interoperability: WhatsApp enables third-party chats for users in Europe"
    (Meta Newsroom), 14 November 2025. [about.fb.com](https://about.fb.com/news/2025/11/messaging-interoperability-whatsapp-enables-third-party-chats-for-users-in-europe/)
    — used for the BirdyChat/Haiket launch, the "three-year collaboration" framing, and the
    preserved end-to-end-encryption claim (A-claim; primary company statement, self-interested
-   party reporting its own compliance; fetched via search synthesis this session).
+   party reporting its own compliance; consulted through secondary summaries, 2026-08-10).
 8. Mozilla, "Browser choice? Here's how EU's DMA is helping make it real" (Mozilla Blog).
    [blog.mozilla.org](https://blog.mozilla.org/en/firefox/eu-digital-markets-act/) — used for the
    "every 10 seconds," 6-million-selections, and Germany (+99%)/France (+111%) iOS DAU figures
    (B-claim; vendor-reported outcome data, not independently audited; flagged in Honest Limits;
-   fetched this session).
+   read 2026-08-10).
 9. AppleInsider, "Epic Games shifts strategies in EU after missing app store goal by 71 million
    users," 23 January 2025. [AppleInsider](https://appleinsider.com/articles/25/01/23/epic-games-shifts-eu-app-store-strategy-after-missing-target-by-71-million-users);
    Epic Games, "App Store Economy is Far From Open" (Epic Games news). [Epic Games](https://www.epicgames.com/site/en-US/news/app-store-economy-is-far-from-open-despite-efforts-by-epic-developers-and-regulators-in-the-eu)
@@ -386,28 +384,26 @@ after this update; unproven has simply acquired two more years of specific, chec
    and Eligibility Requirements friction, and the 5-million-blocked-installs figure (B-claim;
    Epic is an interested party in active litigation and business competition with Apple, so its
    own framing of *why* adoption stalled is presented as Epic's claim, not adopted as fact;
-   fetched via search synthesis this session).
+   consulted through secondary summaries, 2026-08-10).
 10. Amit P. Mehta, U.S. District Judge, *United States v. Google LLC*, Memorandum Opinion on
     Remedies, D.D.C., 2 September 2025 (further detail 5 December 2025) — used for the rejection
     of Chrome/Android divestiture, the "cannot find that Google's market dominance is sufficiently
     attributable to its illegal conduct" and "incredibly messy and highly risky" language, and the
     AI-competition rationale (A-claim; primary opinion; text corroborated via CNBC, DLA Piper, and
-    California Lawyers Association case commentary rather than independently machine-extracted
-    from the opinion itself this session).
+    California Lawyers Association case commentary rather than read from the opinion itself).
     [DLA Piper summary](https://www.dlapiper.com/en/insights/publications/2025/09/federal-court-orders-remedies-in-google-antitrust-case) ·
     [CNBC](https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html)
 11. U.S. Department of Justice, "Department of Justice Wins Significant Remedies Against Google"
     (press release). [justice.gov](https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google)
     — used for the exclusivity ban on default-placement contracts (≤1-year term), and the
     search-index/user-interaction data-sharing and syndication remedy for "Qualified Competitors"
-    (five-year license, 40%-of-queries year-one cap) (A-claim; primary DOJ statement; fetched this
-    session).
+    (five-year license, 40%-of-queries year-one cap) (A-claim; primary DOJ statement; read 2026-08-10).
 12. Leonie Brinkema, U.S. District Judge, *United States v. Google LLC* (ad tech), E.D. Va.,
     liability opinion, 17 April 2025 — used for the finding of unlawful monopolization of the
     publisher ad-server and ad-exchange markets and the dismissal of the advertiser-ad-network
     claim (A-claim; primary opinion; corroborated via Simpson Thacher's client summary,
     [stblaw.com](https://www.stblaw.com/about-us/publications/view/2025/04/25/district-court-rules-google-is-a-monopolist-in-ad-tech),
-    rather than independently machine-extracted from the opinion this session).
+    rather than read from the opinion itself).
 13. MarketingBrew, "Google returns to court for remedy phase of DOJ ad-tech antitrust trial," 18
     September 2025, [MarketingBrew](https://www.marketingbrew.com/stories/2025/09/18/google-remedy-adtech-antitrust-trial);
     Norton Rose Fulbright, "What you need to know from closing arguments in US v. Google"
@@ -415,44 +411,41 @@ after this update; unproven has simply acquired two more years of specific, chec
     — used for the AdX/DFP divestiture and open-source-algorithm/interoperability-API remedy
     proposals, the September–November 2025 remedies trial and 21 November 2025 closing-arguments
     date, and confirmation that no ruling had issued as of this research pass (A/B-claims;
-    journalistic and law-firm sources; fetched via search synthesis this session).
+    journalistic and law-firm sources; consulted through secondary summaries, 2026-08-10).
 14. James E. Boasberg, U.S. District Judge, *FTC v. Meta Platforms, Inc.*, D.D.C., opinion, 18
     November 2025 — used for the finding that the FTC failed to prove current monopoly power in
     personal social networking and the market-definition ruling including TikTok and YouTube
     (A-claim; primary opinion; corroborated via NPR, Sullivan & Cromwell, and ITIF commentary
-    rather than independently machine-extracted from the opinion this session).
+    rather than read from the opinion itself).
     [NPR](https://www.npr.org/2025/11/18/nx-s1-5495626/meta-ftc-instagram-whatsapp-antitrust-ruling) ·
     [Sullivan & Cromwell](https://www.sullcrom.com/insights/memo/2025/December/Meta-Prevails-FTC-Monopolization-Case)
 15. Federal Trade Commission, "FTC Appeals Ruling in Meta Monopolization Case" (press release,
     January 2026). [FTC](https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-appeals-ruling-meta-monopolization-case)
-    — used for the notice-of-appeal fact and date (A-claim; primary agency statement; fetched via
-    search synthesis this session).
+    — used for the notice-of-appeal fact and date (A-claim; primary agency statement; consulted through secondary summaries, 2026-08-10).
 16. ITIF, "Schumpeter's Vindication: The Enduring Link Between Scale and Innovation," 16 October
     2025. [ITIF](https://itif.org/publications/2025/10/16/schumpeters-vindication-the-enduring-link-between-scale-and-innovation/)
     — used for the 95-studies/655-estimates meta-analysis finding a positive average firm-size/
     innovation relationship, the inverted-U concentration pattern, and the R&D-spending-scale
     argument (D-claim; policy-institute analysis broadly sympathetic to large-firm innovation
-    capacity, presented as that institute's argued position, not adopted as settled fact; fetched
-    this session).
+    capacity, presented as that institute's argued position, not adopted as settled fact; read 2026-08-10).
 17. International Center for Law & Economics (ICLE), "Network Effects and Interoperability."
     [laweconcenter.org](https://laweconcenter.org/resources/network-effects-and-interoperability/)
     — used for the "mandates have tended to focus on markets that already have low switching
     costs" critique and the competition-for-the-market substitute-mechanism argument (D-claim;
     ICLE is a law-and-economics research center whose funding and output skew toward lighter-touch
     antitrust positions; presented as an attributed critical position, not adopted as settled
-    fact; fetched this session).
+    fact; read 2026-08-10).
 18. Jenny Blessing & Ross Anderson (2023, rev. 2023), "One Protocol to Rule Them All? On Securing
     Interoperable Messaging," arXiv:2303.14178 (Cambridge University). [arXiv](https://arxiv.org/abs/2303.14178)
     — used for the specific technical security/privacy complications of mandated cross-platform
     messaging (content moderation, authentication, key management, metadata leakage across
     provider boundaries) (C-claim; academic preprint by established security researchers, not
-    formally peer-reviewed as fetched; fetched this session).
+    formally peer-reviewed as fetched; read 2026-08-10).
 19. Cybernews, "Signal CEO criticizes WhatsApp — Metadata is deadly," and TechCrunch, "To comply
     with DMA, WhatsApp and Messenger will become interoperable via Signal protocol" — used for
     Signal President Meredith Whittaker's stated conditions for interoperability (no security
     compromise "on the backend"; will not lower its own privacy/security standards) and Meta's
     choice to build its DMA-compliant bridge on the Signal protocol (B/D-claims; journalistic
-    sources reporting direct statements from an interested party; fetched via search synthesis
-    this session).
+    sources reporting direct statements from an interested party; consulted through secondary summaries, 2026-08-10).
     [Cybernews](https://cybernews.com/privacy/signal-ceo-criticizes-whatsapp/) ·
     [TechCrunch](https://techcrunch.com/2024/03/06/to-comply-with-dma-whatsapp-and-messenger-will-become-interoperable-via-signal/)

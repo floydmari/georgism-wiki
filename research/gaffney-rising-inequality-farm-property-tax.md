@@ -132,19 +132,18 @@ government statistics, not Gaffney's own collection. The analysis is **observati
 and cross-sectional**, not a natural experiment or instrumented causal design: Gaffney
 himself acknowledges the direction-of-causation question is open (efficient large
 farms bearing heavier taxes vs. inefficient large farms being induced to subdivide by
-heavier taxes) and does not claim to resolve it statistically. `[VERIFY: no formal
-regression coefficients, standard errors, or significance tests are reported in the
-chapter — the cross-sectional "evidence" is presented as ranked-state comparisons and
-scatter description (Figure 10.1), not an econometric model with reported
-statistics]` The scope is **US farmland specifically**, spanning 1900–1987 — it says
+heavier taxes) and does not claim to resolve it statistically. No formal regression
+coefficients, standard errors, or significance tests are reported in the chapter: the
+cross-sectional evidence is presented as ranked-state comparisons and scatter
+description (Figure 10.1) rather than as an econometric model with reported
+statistics. The scope is **US farmland specifically**, spanning 1900–1987 — it says
 nothing directly about urban or commercial split-rate taxation, though the mechanism
 Gaffney describes (untaxed land value function as a store-of-value asset that crowds
 out productive use) parallels the urban split-rate literature the wiki already covers
 extensively at
 [benefits/split-rate-increases-construction](/wiki/split-rate-increases-construction/).
-The paper is 34 years old as of this wiki's writing; the wiki has not located a more
-recent replication using post-1987 Census of Agriculture data, and notes this as an
-open discovery item for a future wave.
+The paper dates from 1992, and no more recent replication using post-1987 Census of
+Agriculture data is known; that gap remains open.
 
 ## Bears On
 
@@ -177,18 +176,13 @@ open discovery item for a future wave.
    (Boulder: Westview Press), pp. 119–137 — used for the entire page: the 1930–1987
    tax-rate and Gini-ratio time series, the land-share/building-share findings, the
    Wisconsin-vs-Florida cross-state comparison, and Gaffney's own interpretation and
-   caveats. Text extracted this session directly from the source PDF's embedded text
-   layer (`pdftotext -layout`; clean text layer, no OCR needed), saved to
-   `sources/gaffney/text/D1Rising_Inequality_Falling_Prop_Tax_Rates.txt`; all
-   quotations verified against that extraction. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf) —
-   note: the ampersand in the filename breaks the plain-`&` URL and the
-   archive.progress.org mirror (both 404); the working URL percent-encodes the
-   ampersand as `%26`, and the R2 local-mirror copy at
-   `scratchpad/cache/gaffney-mirror/publications/` is itself a cached 404 page, not
-   the PDF — a future editor re-running the mirror should re-fetch this file with the
-   percent-encoded URL. This session fetched the working copy directly from
-   masongaffney.org and stored it only in the session scratchpad, not the repository
-   mirror.
+   caveats. Read in full, 2026-08-10; all quotations verified against the source PDF,
+   a working text copy of which is held at
+   `sources/gaffney/text/D1Rising_Inequality_Falling_Prop_Tax_Rates.txt`.
+   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/D1Rising_Inequality_%26_Falling_Prop_Tax_Rates.CV.pdf) —
+   note: the filename contains a literal ampersand, so only the percent-encoded
+   (`%26`) form of the URL resolves; the archive.progress.org mirror of this file
+   does not.
 2. [Gaffney (1994): Land as a Distinctive Factor of Production](/wiki/gaffney-land-distinctive-factor/)
    — used for the cross-reference identifying this paper as Gaffney's own cited
    evidence for that essay's land-concentration claim (footnote 31 there cites this

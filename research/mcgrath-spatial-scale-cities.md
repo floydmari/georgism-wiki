@@ -112,4 +112,4 @@ case.[1]
    explanatory-power figure, the negative and significant agricultural-land-rent
    coefficient (Table 3), the monocentric sign pattern, the quoted "orderly market
    process" conclusion, and the 2.3%-per-year unexplained excess-sprawl trend
-   (B/C-claims); directly fetched and read this pass.
+   (B/C-claims); read in full, 2026-07-12.

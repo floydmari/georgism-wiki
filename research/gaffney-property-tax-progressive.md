@@ -206,8 +206,8 @@ current rent, exactly reversing the picture a rent-based measure implies.
   of methodological rigor; treat the table as illustrative of concentration
   patterns across many independent measurements, not as a single coherent
   dataset. Several rows are Gaffney's own unpublished mass-appraisal
-  research (marked "preliminary, subject to adjustment" in the original),
-  not independently verified here.
+  research (marked "preliminary, subject to adjustment" in the original)
+  and have not been independently checked.
 - **The paper predates, and cannot address, the "new view"/"benefit view"
   literature** that now frames mainstream property-tax-incidence debate;
   this wiki's [Mieszkowski page](/wiki/mieszkowski-property-tax-incidence/)
@@ -232,7 +232,7 @@ current rent, exactly reversing the picture a rent-based measure implies.
   franchise-restriction argument in the Overview is presented by Gaffney as
   circumstantial evidence for a thesis about elite intent, not as a
   documented causal history; this wiki carries it as Gaffney's own
-  argument, attributed (D-claim), not as settled fact.
+  argument, attributed to him, not as settled fact.
 
 ## Bears On
 
@@ -266,11 +266,10 @@ current rent, exactly reversing the picture a rent-based measure implies.
 
 ## Provenance
 
-Scanned PDF with a legacy OCR text layer (unembedded WinAnsi-encoded
-base-14 fonts, the same pattern documented on the K-series, H3, and F7
-pages). Re-OCR'd this session at 250dpi with Tesseract 5.3.4
-(`pdftoppm -r 250` + `tesseract --psm 3`); canonical text mirrored to
-`sources/gaffney/text/G17-PropertyTaxProgressiveTax.CV.txt`.
+The paper was read in full (2026-07-18) from the freely available scan at
+masongaffney.org. That scan's legacy text layer is noisy, so the text was
+re-recognised at higher resolution before quoting; the corrected text is held
+at `sources/gaffney/text/G17-PropertyTaxProgressiveTax.CV.txt`.
 
 ## See Also
 
@@ -286,8 +285,8 @@ pages). Re-OCR'd this session at 250dpi with Tesseract 5.3.4
 1. Mason Gaffney, "The Property Tax Is A Progressive Tax," *Proceedings of
    the Sixty-Fourth Annual Conference on Taxation*, National Tax
    Association—Tax Institute of America (1971), pp. 408–426 — used for the
-   entire page. Scanned PDF, legacy OCR text layer; re-OCR'd this session at
-   250dpi with Tesseract 5.3.4. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf);
+   entire page. Read in full, 2026-07-18; the scan's legacy text layer was
+   re-recognised before quoting (see Provenance). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/G17Property_Tax_Progressive_Tax.CV.pdf);
    local mirror at `sources/gaffney/text/G17-PropertyTaxProgressiveTax.CV.txt`.
 2. Peter Mieszkowski (1972), "The Property Tax: An Excise Tax or a Profits
    Tax?", *Journal of Public Economics* 1(1): 73–96 — used for the

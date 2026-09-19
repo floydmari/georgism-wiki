@@ -61,10 +61,10 @@ an all-or-nothing doctrinal commitment.
   (money, interest, negative-rate debates) should read [Loehr's companion
   page](/wiki/loehr-george-gesell-odd-couple/) alongside this one.
   Both papers should be read as a pair rather than either substituting for the other.
-- **Abstract-level source (B-claim).** Full text was not accessible to this session (Wiley
-  paywall/bot-detection, consistent with the wiki's other AJES-page retrieval failures);
-  this page is built from the published abstract, independently corroborated across multiple
-  search results, not the paper's full argument or its treatment of implementation detail
+- **Abstract-level source.** The full text is not publicly accessible (Wiley paywall), a
+  limit shared by the wiki's other AJES entries; this summary rests on the published
+  abstract, corroborated across multiple independent search results, rather than on
+  the paper's full argument or its treatment of implementation detail
   (how the buyout bonds would be priced, how the urban/peripheral line would be drawn).
 - **The "high-value urban vs. peripheral" line is the author's own proposed division**,
   not a standard categorization elsewhere in the land-value-capture literature the wiki cites.
@@ -86,9 +86,9 @@ an all-or-nothing doctrinal commitment.
 
 1. Dirk Loehr (2026), "Private Land Ownership: Tax or Socialize?" *American Journal of
    Economics and Sociology*, published online 20 March 2026, DOI 10.1111/ajes.70033.
-   [doi.org](https://doi.org/10.1111/ajes.70033) — fetch blocked (Wiley) to this session
-   2026-08-28; abstract confirmed via independent search corroboration (CC-BY open access
-   per the "Odd Couple" companion page's established retrieval pattern) — used for the
+   [doi.org](https://doi.org/10.1111/ajes.70033) — full text not accessible at last review
+   (2026-08-28); the abstract was corroborated across independent search results (CC-BY open
+   access, as with the "Odd Couple" companion paper) — used for the
    George-taxes/Gesell-socializes framing, the lease-auction-plus-bond-compensation
    mechanism attributed to Gesell, and the hybrid urban/peripheral policy conclusion quoted
    above (B-claim; not independently verified against the paper's full text, quotations

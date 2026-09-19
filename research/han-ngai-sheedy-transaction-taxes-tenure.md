@@ -93,9 +93,10 @@ close analogue under LVT.
 - **Toronto-specific institutional setting.** The LTT is layered on Ontario's existing
   provincial transfer tax, and Toronto's rental/ownership market structure (condo-heavy,
   investor-heavy) may not generalize cleanly to other cities' stamp-duty regimes.
-- **Full text read (A-claim).** The working-paper PDF (Kevin Sheedy's LSE page, dated August
-  2025) was read directly, including the abstract, natural-experiment results, model
-  mechanism, and welfare-cost breakdown quoted above.
+- **The detail here comes from the working paper.** The natural-experiment results, model
+  mechanism, and welfare-cost breakdown quoted above are taken from the working-paper PDF
+  on Kevin Sheedy's LSE page, dated August 2025, rather than from the published journal
+  text.
 - One author (Lu Han) conducted the underlying Toronto MLS data work while previously at
   the University of Toronto's Rotman School; her current affiliation on the August 2025
   draft is University of Wisconsin–Madison.

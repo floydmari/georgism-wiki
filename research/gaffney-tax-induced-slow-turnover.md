@@ -46,8 +46,7 @@ collaborators (Michèle Consigny, William Vickrey, Matthew P. Gaffney Jr., Ralph
 Krause, and Joseph Holzinger), reflecting seminar circulation at RFF, UCLA, UC Santa
 Barbara, and UC Berkeley in the late 1960s.[1] A 1971 rejoinder, "Time, Taxes,
 Turnover, and Intensity" (AJES, catalogued in the wiki's Gaffney corpus triage as
-O11), responds point-by-point to a critique by Thomson and Goldstein; it was fetched
-for context on this wave and confirms the triage's characterization — it is a
+O11), responds point-by-point to a critique by Thomson and Goldstein; it is a
 technical priority-and-terminology dispute (a mislabelled "income tax" that is
 actually a land tax; credit for the Faustmann-formula rediscovery; "yield" vs.
 "excise" vs. "gross" tax terminology) that restates rather than extends the parent
@@ -149,8 +148,8 @@ true-depreciation definition of taxable income makes an income tax "much like th
 property tax," he suggests the 16th Amendment's authorization of taxes on "incomes
 from whatever source derived" might let Congress tax property directly, free of the
 apportionment-among-states rule, if the *Eisner v. Macomber* (1920) realization
-doctrine were revisited — a speculative legal argument (a D-claim, Gaffney's own,
-not independently checked here) rather than an economic result.[1]
+doctrine were revisited — a speculative legal argument, Gaffney's own and not
+independently checked here, rather than an economic result.[1]
 
 The series closes with two distinct mathematical proofs, both already partly on the
 wiki's radar via the Alaska report, now placed in their original context:
@@ -200,7 +199,7 @@ wiki's radar via the Alaska report, now placed in their original context:
   citation apparatus, since the 2008 paper remains the fuller treatment of Wicksell
   specifically.
 - **Research:** [Gaffney (2016), Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/)
-  — added 2026-07-18: Gaffney's 2011 "Sales-Tax Bias against Turnover and Jobs"
+  — Gaffney's 2011 "Sales-Tax Bias against Turnover and Jobs"
   essay (the fuller, earlier statement of that page's "Mill Effect" argument)
   cites this series' Vickrey mathematical appendix directly, applying the same
   sales/capital-ratio turnover identity to VAT and retail sales taxes rather
@@ -208,7 +207,7 @@ wiki's radar via the Alaska report, now placed in their original context:
 
 ## Standing and Limits
 
-This is Type-C theoretical material — formal derivations from stated assumptions,
+This is theoretical material — formal derivations from stated assumptions,
 not empirical findings — and is kept out of every `supported_by` array on
 problems/benefits pages, consistent with the wiki's convention for Gaffney's other
 capital-theory derivations (see the [Full Employment](/wiki/gaffney-full-employment-limited-land/)
@@ -217,12 +216,10 @@ None of the series' claims are tested against data anywhere in the five parts; t
 numerical tables (e.g. Table 2) use assumed interest and tax rates to illustrate the
 algebra, not estimated parameters. The series is still under U.S. copyright (1970-71,
 well inside the wiki's public-domain cutoff), so this page paraphrases with only
-short quotations rather than reproducing text; the full unabridged series was OCR'd
-from Gaffney's own posted PDF and is not currently mirrored to the wiki as a `texts/`
-page. O11, the 1971 rejoinder to Thomson and Goldstein, was fetched and read for
-context only (confirming the triage's "technical rejoinder" characterization) and is
-not separately mined; if it later turns out to contain content beyond restating the
-parent series, that is future-wave work, not resolved here.
+short quotations rather than reproducing text; the full unabridged series is
+available from Gaffney's own posted PDF and is not reproduced on the wiki as a
+`texts/` page. The 1971 rejoinder to Thomson and Goldstein was read for context only,
+as a technical rejoinder, and is not separately mined here.
 
 ## Sources
 
@@ -230,7 +227,7 @@ parent series, that is future-wave work, not resolved here.
    unabridged, including mathematical Appendices I and II), *American Journal of
    Economics and Sociology* 29-30 — used for every claim and quotation on this page
    except the ATCOR/marginal-productivity cross-references and the Alaska-report
-   note; read in full (all five parts) this session via Gaffney's own posted
+   note; read in full (all five parts), 2026-08-10, from Gaffney's own posted
    unabridged text (free, no paywall). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I11-TaxInducedSlowTurnoverofCapital.CV.CV.pdf);
    extracted text at `sources/gaffney/text/I11-TaxInducedSlowTurnoverofCapital.CV.txt`.
 2. Mason Gaffney (1976), "Toward Full Employment with Limited Land and Capital," in
@@ -239,8 +236,8 @@ parent series, that is future-wave work, not resolved here.
    detail and the AJES 29(3): 409-24 land-income citation. See
    [wiki summary](/wiki/gaffney-full-employment-limited-land/).
 3. Mason Gaffney (1971), "Time, Taxes, Turnover, and Intensity" (rejoinder to
-   Thomson and Goldstein), *American Journal of Economics and Sociology* — fetched
-   and read for context this session, not separately mined. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/O11Time_Taxes_Turnover.CV.pdf);
+   Thomson and Goldstein), *American Journal of Economics and Sociology* — read
+   for context (2026-08-10), not separately mined. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/O11Time_Taxes_Turnover.CV.pdf);
    extracted text at `sources/gaffney/text/O11Time_Taxes_Turnover.CV.txt`.
 4. Mason Gaffney (1977), "Oil and Gas Leasing Policy: Alternatives for Alaska in
    1977" — Appendix J reprints this series' Appendix II. See

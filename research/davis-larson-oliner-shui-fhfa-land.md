@@ -58,8 +58,8 @@ in the U.S."[2] — and the modern data backbone under
   strongest institutional counter-exhibit on file — stronger than any advocacy
   claim, because assessment feasibility is incidental to the authors' purpose.
 - It is cited in both the data and assessment installments of
-  [Doucet's ACX series](/wiki/doucet-does-georgism-work/); per the wiki's
-  de-referencing rule, the wiki now carries it directly.
+  [Doucet's ACX series](/wiki/doucet-does-georgism-work/); the wiki cites it
+  directly rather than at second hand.
 
 ## Nuances and Limits
 
@@ -67,7 +67,7 @@ in the U.S."[2] — and the modern data backbone under
   agricultural, and public land require other sources.
 - **Appraisal-derived** — estimates inherit appraisal-industry conventions;
   the authors' methods mitigate but cannot eliminate this.
-- **Headline magnitudes (direct read of WP 19-01).** The authors put land's share
+- **Headline magnitudes (WP 19-01).** The authors put land's share
   of house value at **about 40% "for the aggregate United States over 2012–2019"**
   (used in their §4.3 measurement-error calibration). Land shares vary enormously
   across geography — from 7.7% at the 1st percentile of counties to 54.3% at the
@@ -76,8 +76,7 @@ in the U.S."[2] — and the modern data backbone under
   and near CBDs, while land shares *fell* in the smallest metros. The average price
   of residential land was about $152k/acre (median $53k/acre), with a right-skewed
   distribution. The dataset covers 960 counties, 7,742 ZIP codes, and 10,515
-  census tracts in the annual panel (more in the pooled cross-section). Scan depth
-  now **Full** for these figures.
+  census tracts in the annual panel (more in the pooled cross-section).
 
 ## Bears On
 
@@ -101,7 +100,7 @@ in the U.S."[2] — and the modern data backbone under
    [FHFA](https://www.fhfa.gov/research/papers/wp1901) ·
    [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0304393220301379) ·
    [full-text PDF](https://www.fhfa.gov/document/wp1901.pdf)
-   — full text read directly in this pass; used for scope, data, method, and the
+   — read in full, 2026-07-12; used for scope, data, method, and the
    headline magnitudes (≈40% aggregate US land share 2012–2019; 7.7–54.3% county
    percentile range; $152k/acre average land price; panel coverage counts).
 2. Morris A. Davis & Michael G. Palumbo, "The price of residential land in

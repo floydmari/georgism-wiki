@@ -37,7 +37,7 @@ School of Policy Studies, Georgia State University) appeared in ***Land Economic
 91(3), August 2015, pp. 536–555 (JEL H21, H71).[1] It is a member of the wiki's
 [computable general-equilibrium site-value-tax cluster](/wiki/site-value-ge-simulations/)
 — this page is the dedicated deep-dive for that cluster's most recent and most
-elaborated member, obtained and read in full (2026-07-18), not summarized from the
+elaborated member, and is based on the full published article rather than the
 abstract alone.
 
 The paper builds an urban CGE model of a monocentric city (a central business
@@ -70,14 +70,14 @@ Sullivan's models omit.[1]
   opposite result to Boston's substantially higher property tax rate.[1] For Atlanta,
   the required revenue-neutral land tax rate is **66.8%** with endogenous CBD/urban
   boundaries, lower than the fixed-boundary case because the urban area spatially
-  contracts.[1] **[VERIFY: internal inconsistency in the source]** — the paper
-  states the fixed-boundary revenue-neutral rate as **82.9%** in one passage ("a tax
+  contracts.[1] **The paper is internally inconsistent about the fixed-boundary
+  rate.** It states that rate as **82.9%** in one passage ("a tax
   on just land rent must be 82.9%... in the case of fixed boundaries (Table 6)," p.
   544) and as **89.2%** in another, three pages later, when the endogenous-boundary
   rate is compared back to it ("66.8%, which is lower than the 89.2% in the case of
-  fixed CBD and urban boundaries," p. 546) — both verified verbatim against the
-  primary PDF text at their respective locations; this page reports the discrepancy
-  rather than silently picking one.
+  fixed CBD and urban boundaries," p. 546) — both quoted verbatim from the paper at
+  their respective locations. The discrepancy is in the source itself; this page
+  reports it rather than silently picking one.
 - **Large welfare gain — roughly triple DiMasi's estimate.** The switch to a
   revenue-neutral LVT raises money-metric welfare (equivalent variation) by **19.2%
   of tax revenue with fixed boundaries and 18.2% with endogenous boundaries** — "somewhat
@@ -169,8 +169,7 @@ housing-capital mobility in a single model.[1]
   Group 2's land and capital) and the labor-leisure margin, not from observed
   Atlanta household data on actual land ownership by income.
 - **Doucet's *Land Is a Big Deal* (Ch. 21) cites this paper for its full-capitalization
-  conclusion** but not for its progressivity or welfare-magnitude findings, which
-  were not previously on the wiki and are new content from this direct read.
+  conclusion** but not for its progressivity or welfare-magnitude findings.
 
 ## See Also
 

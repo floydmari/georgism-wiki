@@ -61,7 +61,7 @@ address rather than the school itself.
 1. Stephen Gibbons & Stephen Machin (2006), "Paying for Primary Schools: Admission Constraints,
    School Popularity or Congestion?," *The Economic Journal* 116(510): C77–C92. [DOI](https://doi.org/10.1111/j.1468-0297.2006.01077.x) —
    used for authorship, venue, and the £61,000 / 26%-of-mean-price and 3%-per-10-points findings.
-   The figures were verified verbatim this session against the freely available CEE/LSE working-paper
+   The figures were verified verbatim (2026-07-11) against the freely available CEE/LSE working-paper
    version (CEE Discussion Paper 42, December 2004, identical content): "A ten-percentage point
    improvement in the 'league-table' performance (at age 11, Key Stage 2) adds at least 3 per cent
    to the price of properties located next to the school," and "parents can expect a move from an

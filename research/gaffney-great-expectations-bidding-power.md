@@ -68,8 +68,8 @@ government to build up a rival producer (Reynolds).[1] Gaffney's point is
 that all of these — quite different industries and mechanisms — share the
 same underlying logic as land speculation: a resource is withheld from full
 use because withholding, not intensive use, is what maximizes the holder's
-return. (A-claim, historical illustration; D-claim, the unifying "cartel
-logic" interpretation is Gaffney's own argument.)
+return. (The individual episodes are historical illustration; the unifying
+"cartel logic" interpretation is Gaffney's own argument.)
 
 ## The Two-Part Capitalization Model
 
@@ -140,10 +140,10 @@ bad credit records) as a view "from the side of the lender class, who
 butter their bread," arguing that from Cratchit's side the same disparity
 is simply a penalty for being poor, most acute precisely when trying to buy
 land from speculators who "preempt more than they need, or will ever
-need."[1] (C-claim, theoretical model — the algebra is Gaffney's own,
-internally consistent, and independently checked against the source PDF for
-this page; D-claim, the closing distributional framing is Gaffney's own
-argument, attributed.)
+need."[1] (A theoretical model — the algebra is Gaffney's own,
+internally consistent, and checked against the source PDF for this page; the
+closing distributional framing is likewise Gaffney's own argument,
+attributed.)
 
 ## Standing and Limits
 

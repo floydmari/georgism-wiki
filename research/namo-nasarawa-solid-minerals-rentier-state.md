@@ -73,9 +73,9 @@ receiving a windfall.
   mechanism (federal licensing + oil-transfer dependence) is specific to Nigeria's federal
   structure and may not generalize to other federal systems without similar
   revenue-transfer arrangements.
-- **Full text not independently verified beyond the abstract and journal metadata.** This
-  page is built from the paper's own abstract and methodology description; specific
-  regression results or interview quotations are not independently confirmed (B/C-claim).
+- **Only the abstract and journal metadata are publicly available.** The account above
+  rests on the paper's own abstract and methodology description; specific regression
+  results and interview quotations have not been checked against the full text.
 - **Published in a non-mainstream engineering/applied-science journal** rather than a
   political-science or economics venue specializing in rentier-state theory — worth noting
   for readers calibrating the paper's disciplinary standing.
@@ -100,7 +100,7 @@ receiving a windfall.
    State Analysis (1999-2020)," *International Journal of Latest Technology in Engineering,
    Management & Applied Science* 15(6): 2344–2354, published 18 July 2026, DOI
    10.51583/ijltemas.2026.150600171. [doi.org](https://doi.org/10.51583/ijltemas.2026.150600171) —
-   fetched and read (abstract/methodology level) 2026-08-26; used for the 400-respondent
+   read at abstract and methodology level, 2026-08-26 — used for the 400-respondent
    survey design (376 usable responses, 13 LGAs), the federal-licensing/oil-transfer
    mechanism, and the "corporate actor and revenue collector, not a regulator"
    characterization (B-claim).

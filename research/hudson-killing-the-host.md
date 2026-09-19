@@ -20,8 +20,8 @@ supports_outcomes: []
 by Islet and as an e-book by CounterPunch Books (ISBN 978-0-9897637-5-2). It is a polemical,
 essay-based synthesis — Hudson himself compiled much of it from prior columns and lectures —
 rather than a work of original econometric research, and the wiki treats its central claims
-accordingly: as Hudson's argument, not as settled empirical fact (EDITORIAL taxonomy
-C/D — theoretical and interpretive claims). The book's core target is what Hudson calls the
+accordingly: as Hudson's argument, not as settled empirical fact — they are theoretical and
+interpretive claims. The book's core target is what Hudson calls the
 [**FIRE sector**](/wiki/fire-sector/) (finance, insurance, and real estate), which he argues has
 displaced industrial capitalism as the dominant force in the modern economy by extracting
 **economic rent** rather than funding production.
@@ -46,8 +46,7 @@ up on bank credit." On the national-accounts point, he argues that "about half o
 report as 'industrial profits' are FIRE-sector rents … and most of the remaining 'profits' are
 monopoly rents," so that "rents are conflated with profit." [Source: Hudson, *Killing the Host*,
 Introduction.] This is Hudson's interpretive framework for connecting classical land-rent theory
-to modern banking
-(C/D-claim); it parallels, and is likely one of the sources for, the land-credit feedback loop
+to modern banking; it parallels, and is likely one of the sources for, the land-credit feedback loop
 described independently by [Ryan-Collins, Lloyd, and Macfarlane](/wiki/ryan-collins-rethinking-land-housing/)
 and the boom-bust dynamics of the [18-year land cycle](/wiki/18-year-land-cycle/).
 
@@ -75,8 +74,8 @@ Studies* (Summer 2016), Hudson "reviews the long history of the insight that a s
 of wealth accrues to its owners as a windfall" — an insight the reviewer notes "is often
 attributed to the nineteenth century economist [Henry George](/wiki/henry-george/), but actually
 goes back to include such luminaries as the French Physiocrats, Adam Smith, David Ricardo and
-John Stuart Mill."[1] Hudson's broader claim — argued at length in the book but
-not something this page can verify independently from context gathered so far — is that this
+John Stuart Mill."[1] Hudson's broader claim — argued at length in the book, and beyond what
+this page can independently assess — is that this
 classical distinction between earned income and unearned rent was progressively erased from
 mainstream ("neoclassical") economics from the late nineteenth century onward, in part because
 it was analytically inconvenient for a finance sector whose income increasingly took a rentier
@@ -88,7 +87,7 @@ parasitic." He specifically indicts the marginalist turn: "The Marginalist Revol
 nearsightedly at small changes, taking the existing environment for granted and depicting any
 adverse 'disturbance' as being self-correcting," with the effect that "there is no need to
 regulate and tax the rentiers." [Source: Hudson, *Killing the Host*, Introduction.] This remains
-a historiographic and interpretive claim (A/D) about the discipline's development — it should be
+a historiographic and interpretive claim about the discipline's development — it should be
 read as "Hudson argues," not as an established consensus account of the history of economic
 thought — but the wording is now confirmed against the primary text rather than only the
 secondary review.
@@ -209,8 +208,9 @@ The strongest sourced criticisms of the book fall into three categories:
    [Wayback Machine copy](https://web.archive.org/web/20231206000918/http://rocksalted.com/2016/07/michael-hudson-killing-the-host/) —
    a blog source (lower source-quality tier), used for its criticism of the book's unexamined
    ideological premises and for its direct assessment of the book's evidentiary basis, neither
-   of which is otherwise sourced on this page. The live site blocks automated fetching, but the
-   full post was read directly via the December 2023 Wayback Machine snapshot; all quotations
+   of which is otherwise sourced on this page. The live post was not accessible at last review
+   (2026-07-12); the full post was read via the December 2023 Internet Archive snapshot linked
+   above, and all quotations
    ("So long as Hudson dodges the questions of political ideology…"; "As much as he rails
    against bankers and their political allies as ideologues, Hudson is one too!"; the
    minimal-data and secondary-sources passages) are confirmed verbatim against that copy.
@@ -218,8 +218,8 @@ The strongest sourced criticisms of the book fall into three categories:
    the Global Economy*, Islet (print) / CounterPunch Books (e-book), ISBN 978-0-9897637-5-2.
    [Internet Archive](https://archive.org/details/isbn_9780989763752) (borrowable digital copy,
    confirmed to exist) · [Free PDF, CounterPunch](https://www.counterpunch.org/wp-content/uploads/2015/08/Killing-The-Host_PDF_V7.pdf)
-   — the primary text. The open-access CounterPunch e-book PDF was successfully fetched and
-   converted to text for this review; all quotations attributed to "the primary text" in "The
+   — the primary text. The open-access CounterPunch e-book PDF was read in full for this
+   entry; all quotations attributed to "the primary text" in "The
    Argument" section above (the parasite/host/brain metaphor, the marginalist-elision passage,
    the "Debts that can't be paid, won't be" principle, the Clean Slate / Jubilee framing, and
    the FIRE-rent and land-credit passages) are verbatim from the book's Introduction and named

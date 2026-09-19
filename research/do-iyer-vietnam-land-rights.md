@@ -62,11 +62,10 @@ LVT does not touch the return to improvements).
 
 ## Nuances and Limits
 
-- **Old paper, abstract-level sourcing.** Circulated in 2003; this page is built from the
-  paper's abstract and a RePEc/IDEAS summary rather than a full read of the working paper
-  text (the World Bank's hosted PDF link returned an error page to this session, and the
-  modern openknowledge.worldbank.org listing page is JavaScript-rendered and returned no
-  retrievable text to automated fetch). Graded B-claim; no below-abstract claim is made.
+- **Old paper, abstract-level sourcing.** Circulated in 2003; the account here rests on the
+  paper's abstract and a RePEc/IDEAS summary rather than on a full read of the working-paper
+  text, which was not publicly accessible at last review (2026-08-22). No claim below the
+  abstract level is made.
 - **Not about land value taxation.** As emphasized above, this is a tenure-security study,
   not a fiscal-policy study — it should not be cited as direct evidence for or against LVT's
   investment effects, only for the tenure-security mechanism specifically.
@@ -95,5 +94,5 @@ LVT does not touch the return to improvements).
    abstract and RePEc summary read 2026-08-22 — used for the 1993 Land Law's land-use-rights
    provisions, the provincial-variation identification strategy, the multi-year-crop and
    irrigation-investment findings, and the earlier-reform-stronger-effect result (B-claim;
-   the World Bank's hosted PDF and the modern listing page were not retrievable to automated
-   fetch in this session, so no claim below the abstract/summary level is made).
+   abstract-level — the full working-paper text was not accessible at last review
+   (2026-08-22), so no claim below the abstract/summary level is made).

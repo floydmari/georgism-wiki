@@ -32,12 +32,11 @@ year: 1991
 "'Capital' Gains and the Future of Free Enterprise" is a chapter Mason Gaffney
 originally wrote in mid-1991 (revised December 1991) for Richard Noyes's edited
 volume *Now the Synthesis*, with the text on masongaffney.org noting it was "being
-expanded for Shepheard-Walwyn, London." **Resolved 2026-07-18:** the volume did
-complete publication as noted — Richard Noyes (ed.), *Now the Synthesis:
-Capitalism, Socialism, and the New Social Contract* (London: Shepheard-Walwyn;
-New York: Holmes & Meier, 1991) — already independently verified elsewhere on this
-wiki against the full primary text (see [books/Now the Synthesis](/wiki/now-the-synthesis/),
-Scan Depth: Heavy).[1][4] Its target is the 1989–90 U.S. political fight over President George H.
+expanded for Shepheard-Walwyn, London." The volume did complete publication —
+Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism, and the New Social
+Contract* (London: Shepheard-Walwyn; New York: Holmes & Meier, 1991) — as the
+wiki's page on the book records from the full primary text (see
+[books/Now the Synthesis](/wiki/now-the-synthesis/)).[1][4] Its target is the 1989–90 U.S. political fight over President George H.
 W. Bush's proposal to cut the capital-gains tax rate, which Gaffney reads through a
 single interpretive lens: **most of what U.S. tax law calls "capital gains" are not
 gains to capital at all, but unearned gains to land** — and the tax code contains a
@@ -103,7 +102,7 @@ This history is presented as Gaffney's own synthesis of primary and secondary
 sources (Brownlee's *Proceedings of the American Philosophical Society* article,
 Commons's *Institutional Economics*, Groves's *Financing Government*), attributed
 throughout with citations rather than asserted as settled consensus historiography.
-(A/D-claim mix: the 1894/1913 legislative facts are checkable historical record; the
+(The 1894/1913 legislative facts are checkable historical record; the
 causal reading — that Georgists "midwifed" the income tax and that 1960s
 depreciation policy was an unrecognized continuation of Commons's program — is
 Gaffney's own interpretive argument.)
@@ -180,10 +179,10 @@ had seen made this symmetric adjustment.[1] He closes by pointing to Taiwan's la
 value increment tax, which he reports raised roughly four times the revenue of
 Taiwan's annual land tax during a period of rapid economic growth, as evidence
 that heavy, un-indexed taxation of land gains is compatible with strong development
-outcomes.[1][3] (C/D-claim: the phantom-income asymmetry argument is Gaffney's own
+outcomes.[1][3] (The phantom-income asymmetry argument is Gaffney's own
 theoretical contribution, built on the standard Haig-Simons framework; the Taiwan
-figures are drawn from a single conference paper he cites, not independently
-verified here.)
+figures are drawn from a single conference paper he cites, and are not checked
+here against other sources.)
 
 ## Standing and Limits
 
@@ -208,8 +207,8 @@ verified here.)
   repeatedly since 1991. The mechanisms described (deferral, step-up of basis at
   death, like-kind exchange) remain structurally similar in current U.S. law, but
   readers citing specific rates or dollar thresholds from this essay should treat
-  them as historical, not current. `[VERIFY: current status of each cited
-  provision — out of scope for this page]`
+  them as historical, not current; the present status of each cited provision is
+  outside this page's scope.
 - **No independent estimate of "how much" of capital gains is land.** Gaffney
   relies on Poterba's ~1%-is-venture-capital figure and general reasoning about
   what else "capital assets" comprises (corporate shares backed partly by land,
@@ -249,8 +248,8 @@ verified here.)
    Enterprise," a chapter originally accepted in Richard Noyes (ed.), *Now the
    Synthesis*, noted on the source document as being expanded for Shepheard-Walwyn,
    London — used for all claims, figures, and quotations on this page unless
-   otherwise cited; OCR'd from the site's scanned PDF and quotations spot-checked
-   against the source PDF directly this session (2026-07-18).
+   otherwise cited; read in full from the scanned PDF, with all quotations
+   spot-checked against it (2026-07-18).
    [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf) ·
    [archived](https://archive.progress.org/gaffney/workpapers/Capital_Gains_and_Future_of_Free_Enterprise.pdf);
    local mirror at `sources/gaffney/`.
@@ -267,8 +266,7 @@ verified here.)
 4. Richard Noyes (ed.), *Now the Synthesis: Capitalism, Socialism, and the New
    Social Contract* (London: Shepheard-Walwyn; New York: Holmes & Meier, 1991) —
    used only to confirm this chapter's host volume completed publication as the
-   source document's own note anticipated; this page does not re-read the volume,
-   which the wiki has separately verified in full (Scan Depth: Heavy) at
-   [books/Now the Synthesis](/wiki/now-the-synthesis/) via the [full chapter
+   source document's own note anticipated; the volume itself is covered at
+   [books/Now the Synthesis](/wiki/now-the-synthesis/) from the [full chapter
    scans](https://cooperative-individualism.org/noyes-richard_now-the-synthesis-1991.htm)
    hosted by the School of Cooperative Individualism.

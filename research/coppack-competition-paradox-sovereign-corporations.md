@@ -25,9 +25,7 @@ year: 2026
 "The Competition Paradox: Markets, Rent, and Sovereign Corporations Through the Lens of
 Smith, Ricardo, and Rawls," by **Philip Coppack** (Professor, Department of Geography and
 Urban Sustainability, Toronto Metropolitan University), is a self-published report (posted 17
-June 2026 to TMU's RShare repository, CC BY 4.0) — not a peer-reviewed journal article. Note:
-the queue item's own metadata mislabeled the title's third theorist as "Marx"; the paper's
-actual title names **Rawls**, and this page cites it correctly.
+June 2026 to TMU's RShare repository, CC BY 4.0) — not a peer-reviewed journal article.
 
 ## The Argument
 
@@ -63,16 +61,15 @@ rent-theory and monopoly-power context, not as a land-specific finding.
 ## Nuances and Limits
 
 - **Self-published, not peer-reviewed.** This is explicitly a "report" (per RShare's own
-  metadata, not a "thesis" despite the scanner's mislabeling), one of several self-archived
+  metadata, not a "thesis"), one of several self-archived
   political-economy essays by the same author on the same repository, none of which appear
   to be peer-reviewed journal publications. Rated Supplementary tier accordingly.
 - **General monopoly-power theory, not Georgist or land-specific.** The paper never engages
   Henry George, land value taxation, or the wiki's land-rent framework directly; its
   relevance here is as background context for the broader rent-vs-profit and market-power
   literature this wiki also tracks in non-land domains.
-- **Full text read directly (A-claim).** The complete 50-page report was obtained and read in
-  full via Figshare's public API (the RShare web interface itself was inaccessible to this
-  session).
+- **Based on the complete text.** The full 50-page report is publicly available, and this
+  entry rests on a reading of it in full rather than on the abstract.
 
 ## Bears On
 
@@ -92,9 +89,8 @@ rent-theory and monopoly-power context, not as a land-specific finding.
 1. Philip Coppack (2026), "The Competition Paradox: Markets, Rent, and Sovereign
    Corporations Through the Lens of Smith, Ricardo, and Rawls," self-published report,
    Toronto Metropolitan University RShare repository, DOI 10.32920/32717289.v1, posted 17
-   June 2026, CC BY 4.0. Full text read directly 2026-08-29 via Figshare's public API
-   (`api.figshare.com`, item ID 32717289) after the RShare web interface itself proved
-   inaccessible to this session; direct file: [ndownloader.figshare.com, file ID
+   June 2026, CC BY 4.0. Read in full, 2026-08-29 (repository item ID 32717289); direct
+   file: [ndownloader.figshare.com, file ID
    65647782](https://rshare.library.torontomu.ca/ndownloader/files/65647782) — used for the
    Competition Paradox thesis, the Smith/Ricardo/Rawls throughline, the "sovereign
    corporations" concept, the Amazon/Alphabet examples, and the cited literature (Piketty,

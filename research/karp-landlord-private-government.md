@@ -74,10 +74,10 @@ independent of any specific policy fight.
   normative and conceptual; it does not present new quantitative data on landlord practices.
 - **US-focused**, reflecting the specific institutional and legal context (the near-total
   private delegation of housing provision) the argument is built on.
-- **Abstract-level for the peer-reviewed article itself (A-claim for the verbatim abstract;
-  B-claim for supporting mechanism detail).** The publisher page returned only template
-  content; the verbatim published abstract was obtained via the Crossref API (matching an
-  independently cached Semantic Scholar copy word-for-word), and additional structural/
+- **Abstract-level for the peer-reviewed article itself.** The publisher page carries no
+  abstract; the verbatim published abstract is taken from the journal's registered
+  bibliographic record (matching an independently cached copy word-for-word), and
+  additional structural/
   interpersonal mechanism detail and the tenant-union policy proposal were drawn from the
   author's own companion public writing on the same argument (a LPE Project blog post), not
   the peer-reviewed article's own body text, which remains paywalled with no open-access copy
@@ -101,12 +101,13 @@ independent of any specific policy fight.
 1. Shai Karp (2024), "Private Government at Home: Landlord Power and Rental Residential
    Domination in the United States," *Politics & Society*, DOI 10.1177/00323292241285289.
    [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/00323292241285289) —
-   publisher page returned only template content to this session 2026-08-31; verbatim
-   abstract obtained via the Crossref API (cross-checked against an independently cached
-   Semantic Scholar copy, word-for-word match) — used for the private-government/domination
+   full text not accessible at last review (2026-08-31) and the publisher page carries no
+   abstract; the verbatim abstract is taken from the journal's registered bibliographic
+   record, cross-checked word-for-word against an independently cached copy — used for the
+   private-government/domination
    framing and the structural/interpersonal distinction (A-claim for the quoted abstract
    text). Additional mechanism detail (specific forms of interpersonal domination, the
    tenant-union/NLRA-modeled policy proposal) drawn from Karp's own companion public essay,
    "Landlords as Petty Tyrants," LPE Project blog — used for concrete illustrative detail not
    present in the abstract alone (B-claim; author's own secondary elaboration, not the
-   peer-reviewed article's body text, which was not independently read).
+   peer-reviewed article's body text, which was not read directly).

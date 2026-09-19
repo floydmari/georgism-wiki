@@ -130,4 +130,4 @@ the effect is real and repeated across schemes, and it is modest.
    — used for the 483-effect-sizes / 80-evaluations / 21-schemes evidence base, the
    "immediate and substantial … for at least 17 of these policies, despite the low level
    of prices" finding, and the –5% to –21% (–4% to –15% bias-corrected) reduction range;
-   abstract quotations verified verbatim against the open-access article this session.
+   abstract quotations verified verbatim against the open-access article (2026-07-12).

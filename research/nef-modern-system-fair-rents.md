@@ -27,7 +27,7 @@ last_reviewed: 2026-08-12
 
 ## Summary
 
-**"A modern system for fair rents: How to make private renting affordable"** (May 2026) is a working paper by **George Bangham, Grace Brown, Molly Harris, and Jaya Sood** of the [New Economics Foundation](/wiki/new-economics-foundation/) (NEF), hosted publicly on thinkhouse.org.uk.[1] It analyses why England's private rented sector (PRS) has become structurally unaffordable and proposes a "fair rents" system of national rent controls, alongside tenure-security, enforcement, and tax reforms. The wiki fetched and read the full 50-page PDF directly.
+**"A modern system for fair rents: How to make private renting affordable"** (May 2026) is a working paper by **George Bangham, Grace Brown, Molly Harris, and Jaya Sood** of the [New Economics Foundation](/wiki/new-economics-foundation/) (NEF), hosted publicly on thinkhouse.org.uk.[1] It analyses why England's private rented sector (PRS) has become structurally unaffordable and proposes a "fair rents" system of national rent controls, alongside tenure-security, enforcement, and tax reforms. The full 50-page paper is publicly available, and the account below rests on it rather than on a summary.
 
 The paper's core historical argument sits squarely within this wiki's rentier-economics territory even though its policy prescription — rent controls — is a price-regulation approach rather than a land-value-capture one (see Limits below): it argues that the Housing Act 1988's removal of tenure security and rent-price controls, combined with the 1996 introduction of buy-to-let mortgages, created "an investable asset class for landlords" that has since let them "extract scarcity rents" from tenants, i.e. monopoly returns arising from local housing scarcity rather than from any productive contribution by the landlord.
 
@@ -62,8 +62,8 @@ This report corroborates, with fresh UK data, the account already carried on thi
 
 1. George Bangham, Grace Brown, Molly Harris & Jaya Sood (2026), "A modern system for fair
    rents: How to make private renting affordable," New Economics Foundation, published May
-   2026 — used for all historical claims, figures, and policy proposals above; fetched and
-   read in full (50 pages) from the hosted PDF.
+   2026 — used for all historical claims, figures, and policy proposals above; read in full
+   (50 pages), 2026-08-12.
    [thinkhouse.org.uk/site/assets/files/3393/nef0526.pdf](https://thinkhouse.org.uk/site/assets/files/3393/nef0526.pdf).
 2. David H. Autor, Christopher J. Palmer & Parag A. Pathak (2014), "Housing Market
    Spillovers: Evidence from the End of Rent Control in Cambridge, Massachusetts," *Journal

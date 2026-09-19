@@ -97,7 +97,7 @@ centuries of assessment and taxation practice to draw on).
 - **No land- or resource-rent framing in the original.** Gans's paper is entirely silent
   on land, location, or the Georgist rent tradition — the connection drawn in this page's
   "Relation to the Georgist Case" section is this wiki's own synthesis, not Gans's
-  argument, and should be read as such (D-claim, interpretive).
+  argument, and should be read as such — it is interpretation, not a finding of the paper.
 - **Author disclosures.** Gans discloses paid speaking, consulting (including antitrust
   and IP consulting via Charles River Associates), book royalties on the AI-economics
   trilogy this paper builds on, and equity/advisory relationships with AI startups — noted
@@ -126,8 +126,7 @@ centuries of assessment and taxation practice to draw on).
    Intelligence," *Annual Review of Economics* 18. [NBER PDF](https://www.nber.org/system/files/working_papers/w32270/w32270.pdf) ·
    [Annual Reviews (paywalled)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051624-061832) —
    the NBER working-paper PDF (the free, open-access version; the Annual Reviews version
-   of record is paywalled and returned a 403 to direct fetch) was downloaded and read in
-   full 2026-08-16 — used for the abstract, the three-market framework (training data,
+   of record is paywalled) was read in full, 2026-08-16 — used for the abstract, the three-market framework (training data,
    input data, predictions) and its entry-vs-competitiveness distinction, the
    non-rival-but-withheld characterization of training data, the data-trading-markets
    headline finding, the multi-market-integration complication, and the verbatim

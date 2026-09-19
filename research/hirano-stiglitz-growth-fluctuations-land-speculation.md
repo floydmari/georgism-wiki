@@ -79,8 +79,8 @@ mechanism) contributes to macro instability.
 
 ## Nuances and Limits
 
-- **Abstract-level scan.** The full NBER PDF returned a 403 on every fetch method tried
-  this session; this page is built entirely from the published abstract. No claim below
+- **Abstract-level scan.** The full working paper is not publicly accessible; this entry
+  rests entirely on the published abstract. No claim below
   the abstract level (specific parameter conditions, proofs, or numerical magnitudes) is
   made.
 - **Working paper.** Not yet peer-reviewed.
@@ -102,8 +102,8 @@ mechanism) contributes to macro instability.
 
 1. Tomohiro Hirano & Joseph E. Stiglitz (2025), "Growth and Fluctuations Economies with
    Land Speculation," NBER Working Paper 33589 (March 2025).
-   [nber.org/papers/w33589](https://www.nber.org/papers/w33589) — abstract fetched and
-   read 2026-08-18; full PDF blocked (403) on every fetch method tried — used for the
+   [nber.org/papers/w33589](https://www.nber.org/papers/w33589) — abstract read
+   2026-08-18; full text not accessible at that review — used for the
    model's combination of rational expectations, land, credit constraints, and endogenous
    technology, the multiple-equilibria finding, the technology-can-destabilize result, the
    land-widens-fluctuations finding, and the accommodative-policy-can-reduce-growth result

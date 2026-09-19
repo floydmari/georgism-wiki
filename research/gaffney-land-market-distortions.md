@@ -36,16 +36,10 @@ sit in Gaffney's own numbering immediately after WP039 (1993) and WP040 ("Chicag
 boom and bust"), and WP042 references events from 1993 — Canary Wharf's unfilled
 office space and British Prime Minister John Major's May 1993 opening of the
 Limehouse Link tunnel — as current news, so this page treats **circa 1993** as the
-best-supported estimate, not a confirmed date.[2] `[VERIFY: exact publication date
-of WP041/WP042 — not stated on masongaffney.org; inferred from internal references.
-**Attempted again** (2026-07-18): masongaffney.org's workpapers listing and vita/CV
-page still show no date for either entry; a search for other papers citing WP041/
-WP042 found only one, formatted with no year given (consistent with no dated
-citing source existing); Gaffney's own later, freely-available papers that might
-cite these working papers by date ("Keeping Land in Capital Theory," 2007; "The
-Role of Land Markets in Economic Crises," 2009) could not be searched reliably in
-this environment (PDF text extraction failed on both). Circa-1993 remains the
-best-supported estimate; a genuinely dated citing source still hasn't been found.]`
+best-supported estimate, not a confirmed date.[2] Neither masongaffney.org's
+workpapers listing nor Gaffney's vita gives a date for either entry, and no dated
+citing source for them is known, so the circa-1993 attribution rests on the papers'
+internal references alone.
 
 The two papers do not carry equal weight for the wiki. **WP041 restates a mechanism
 the wiki already covers in full**: its "cash cow," Capital Consumption Allowance
@@ -200,8 +194,8 @@ than a new theory.
    1993) — used for the CCA/"cash cow" restatement and the "vampire in the night"
    quotation, noted as a near-duplicate of material fully covered on
    [Gaffney: How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/).
-   Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-17);
-   quotations verified against the source PDF directly.
+   Read from the scanned PDF at masongaffney.org (2026-07-17); quotations verified
+   against that PDF.
    [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf) ·
    [archived](https://archive.progress.org/gaffney/workpapers/Factitious_Locational_Obsolescence_in_Land_Booms_WP041%20.pdf);
    local mirror at `sources/gaffney/`.
@@ -209,8 +203,8 @@ than a new theory.
    paper WP042, undated (internal evidence suggests circa 1993) — used for the
    five-fold capital taxonomy, the Type A/Type B buyer typology, the Chicago
    1835/Canary Wharf 1993 illustrations, and the Ponzi-finance/rubber-band credit
-   section. Text mirrored and OCR'd from the site's scanned PDF this session
-   (2026-07-17); quotations verified against the source PDF directly.
+   section. Read from the scanned PDF at masongaffney.org (2026-07-17); quotations
+   verified against that PDF.
    [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/Land_Markets_Lead_to_Misallocating_Capital_WP042%20.pdf) ·
    [archived](https://archive.progress.org/gaffney/workpapers/Land_Markets_Lead_to_Misallocating_Capital_WP042%20.pdf);
    local mirror at `sources/gaffney/`.

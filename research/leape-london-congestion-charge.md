@@ -93,14 +93,14 @@ road pricing and the broader case for charging for scarce, commonly-owned assets
 - **Distribution.** A flat daily charge is regressive per trip; London's answer is to
   exempt buses and cyclists, discount residents, and earmark revenue for transit —
   which shifts, but does not erase, the incidence question.
-- **Provenance note.** Leape's *abstract* and framing quotations here were verified
-  verbatim against the AEA and RePEc article records this session; the full text on
-  aeaweb.org returned HTTP 403 to this wiki's egress. The internal effect sizes
+- **Provenance note.** Leape's *abstract* and framing quotations here are verified
+  verbatim against the AEA and RePEc article records; the article's full text is not
+  publicly accessible. The internal effect sizes
   (34% car-distance, ~12% overall, ~30% congestion delay) are quoted from a
   peer-reviewed working paper that cites Leape 2006 directly and are independently
   corroborated by Transport for London's *Impacts Monitoring* report already cited on
-  the concept page; they should be read as well-established figures, not as this
-  wiki's direct transcription of Leape's tables.
+  the concept page; they should be read as well-established figures rather than as a
+  direct transcription of Leape's own tables.
 
 ## Bears On
 
@@ -123,19 +123,19 @@ road pricing and the broader case for charging for scarce, commonly-owned assets
    [10.1257/jep.20.4.157](https://doi.org/10.1257/jep.20.4.157) — used for the abstract
    and the framing quotations ("triumph of economics"; "traffic congestion has declined
    substantially, and the program is largely popular"; the average-speed opening),
-   verified verbatim against the AEA article page and RePEc/IDEAS record this session;
-   the aeaweb full-text PDF returned HTTP 403 to this wiki's egress.
+   verified verbatim against the AEA article page and RePEc/IDEAS record (2026-07-11);
+   the aeaweb full-text PDF is not publicly accessible.
    [AEA](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.157) ·
    [RePEc](https://ideas.repec.org/a/aea/jecper/v20y2006i4p157-176.html)
 2. Lancaster University working paper — used for design details and effect sizes attributed to Leape 2006 (£5→£8→£10 charge; 8-sq-mi
    zone; resident and vehicle exemptions; 34% car-distance and ~12% overall-distance
    reductions; ~30% congestion-delay reduction; £97m net + £70m penalty revenue), a
-   peer-reviewed working paper drawing on Leape 2006, verified this session. [Lancaster University Economics WP (London Congestion Charge)](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/economics/working-papers/LondonCongestionCharge.pdf)
+   peer-reviewed working paper drawing on Leape 2006, verified 2026-07-11. [Lancaster University Economics WP (London Congestion Charge)](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/lums/economics/working-papers/LondonCongestionCharge.pdf)
 3. Transport for London, *Central London Congestion Charging: Impacts Monitoring —
    Second Annual Report* (April 2004) — primary monitoring source for the 30%
    congestion / 18% fewer entering figures, cross-cited on the concept page.
    [TfL PDF](https://content.tfl.gov.uk/impacts-monitoring-report-2.pdf)
 4. "Crawling traffic," *The Economist*, 10 February 2005 — contemporary corroboration
    of journey times down ~a third, air pollution down ~12%, bus use up >a third, and
-   ~80% payer satisfaction (verified this session).
+   ~80% payer satisfaction (verified 2026-07-11).
    [Economist](https://www.economist.com/britain/2005/02/10/crawling-traffic)

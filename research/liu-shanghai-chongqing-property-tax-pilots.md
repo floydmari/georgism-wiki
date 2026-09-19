@@ -81,9 +81,9 @@ supplies a rare non-Western, non-common-law data point for that claim.
   fiscal-federalism system (land finance, hukou-linked property markets, capital controls)
   that differs sharply from most jurisdictions the wiki otherwise covers; generalizing the
   magnitude of the effect elsewhere should be done cautiously.
-- **Full text not independently verified beyond the abstract.** Specific synthetic-control
-  weights, the exact pre-treatment fit quality, and full placebo-test results are not
-  covered by this page (B-claim).
+- **Abstract-level summary.** This entry rests on the article's abstract; specific
+  synthetic-control weights, the exact pre-treatment fit quality, and full placebo-test
+  results are not covered here.
 
 ## Bears On
 
@@ -104,7 +104,7 @@ supplies a rare non-Western, non-common-law data point for that claim.
    Affordability: Evaluation Based on the Synthetic Control Method of Real Estate Tax
    Pilot," *Journal of Applied Economics and Social Dynamics* 2(5), Issue 4, published 19
    August 2026, DOI 10.66393/j7q8n338. [doi.org](https://doi.org/10.66393/j7q8n338) —
-   fetched and read (abstract level) 2026-08-27; used for the 2011 Shanghai/Chongqing
+   used for the 2011 Shanghai/Chongqing
    pilot dates, the 2008–2023 panel, the synthetic-control methodology, the improved
    price-to-income-ratio finding, Shanghai's growing gains, and the placebo-test
-   robustness check (B-claim).
+   robustness check (B-claim; read at abstract level, 2026-08-27).

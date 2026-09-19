@@ -75,10 +75,10 @@ this specifically against Dick Netzer's contemporaneous claim (in Netzer's
 1968 Joint Economic Committee report) that property taxes are a regressive
 "consumption tax" on housing that should be cut — arguing this treats the
 property tax as uniform when its *land* component behaves entirely
-differently from its *building* component. (B-claim; Gaffney's own
+differently from its *building* component. This is Gaffney's own
 theoretical derivation, illustrated numerically and with then-current
-national-accounts tax-burden data, not an independent empirical test of
-housing-market outcomes.)
+national-accounts tax-burden data, rather than an independent empirical test
+of housing-market outcomes.
 
 ## Assessment Practices That Undercut the Mechanism
 
@@ -110,9 +110,9 @@ implementation, not just legislative intent:
   delinquent during a downturn, redeeming cheaply if it appreciates —
   "heads they win, tails the county loses."
 
-(C-claim; Gaffney's own catalogue of institutional and administrative
+This is Gaffney's own catalogue of institutional and administrative
 practices, illustrated with the author's own Milwaukee data and period
-sources, not a systematic cross-jurisdiction study.)
+sources, rather than a systematic cross-jurisdiction study.
 
 ## The Federal Income Tax Catalogue
 
@@ -155,12 +155,12 @@ is probably scope for legitimate reduction of housing costs, without
 subsidy, via review and revision of the income tax features discussed" —
 while explicitly declining to propose a specific reform package, on the
 grounds that "nothing short of a sweeping reform of the entire system may
-suffice." (C-claim; Gaffney's own catalogue and worked illustrations from
+suffice." This is Gaffney's own catalogue and worked illustrations from
 1960s tax law, not independently tested against housing-price outcomes; the
 specific provisions cited — 1968 capital-gains rates, Section 1031, the
 realization doctrine — have since been repeatedly amended, so the *examples*
 are dated even where the underlying "realization doctrine rewards holding"
-mechanism persists in current US tax law.)
+mechanism persists in current US tax law.
 
 ## Standing and Limits
 
@@ -177,11 +177,12 @@ mechanism persists in current US tax law.)
   that non-depreciable, non-taxed-until-realized land is a uniquely
   tax-favored holding vehicle — is the durable claim, not the specific
   numbers in Table 4.
-- **Provenance.** Native, `pdftotext -layout`-extractable text (no OCR
-  needed). Local mirror: `sources/gaffney/text/E22-LandasanElementofHousingCosts.CV.txt`.
-  Only Gaffney's paper (pp. 1–37 of the bound volume) was reviewed; Richard
-  F. Muth's companion paper on housing demand, bound in the same PDF, was
-  not read for this page.
+- **Provenance.** The paper was read in full from the freely available scan
+  at masongaffney.org (2026-07-18); a working text copy is held at
+  `sources/gaffney/text/E22-LandasanElementofHousingCosts.CV.txt`. Only
+  Gaffney's paper (pp. 1–37 of the
+  bound volume) was reviewed; Richard F. Muth's companion paper on housing
+  demand, bound in the same PDF, was not read for this page.
 
 ## Bears On
 
@@ -214,6 +215,6 @@ mechanism persists in current US tax law.)
    (Arlington, VA: Institute for Defense Analyses, Program Analysis
    Division, October 1968; also circulated as HUD H-931) — used for the
    entire page (pp. 1–37 of the bound volume; Muth's companion paper not
-   reviewed). Native, `pdftotext`-extractable text (no OCR needed). [Free PDF
+   reviewed). Read in full, 2026-07-18. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/E22-LandasanElementofHousingCosts.CV.pdf);
    local mirror at `sources/gaffney/text/E22-LandasanElementofHousingCosts.CV.txt`.

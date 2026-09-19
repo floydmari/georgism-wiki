@@ -56,11 +56,10 @@ from a specific national case into a general conceptual framework.
 
 - **A taxonomic/theoretical review, not new empirical data.** The paper's contribution is
   conceptual clarification and categorization, not a new dataset or case study.
-- **Abstract-level source (B-claim, upgraded from a fully verbatim abstract).** The publisher
-  page was blocked to this session; this page is built from the paper's verbatim abstract
-  obtained via the Semantic Scholar API, not the paper's full development of the taxonomy.
-- **Publication year note.** The scanner's original metadata listed 2025; Semantic Scholar
-  and Crossref both confirm 2024 as the actual publication year, corrected here.
+- **Abstract-level source.** The published full text is not publicly accessible; this entry
+  rests on the paper's verbatim abstract rather than its full development of the taxonomy.
+- **Publication year note.** Some metadata records list this article as 2025; Semantic Scholar
+  and Crossref both give 2024 as the publication year, which this page follows.
 
 ## Bears On
 
@@ -81,7 +80,7 @@ from a specific national case into a general conceptual framework.
 1. Owiti A. K'Akumu (2024), "The principles of land value capture in the perspective of
    Georgist political economy," *Planning Perspectives* 40(2): 265–282, DOI
    10.1080/02665433.2024.2386685. [doi.org](https://doi.org/10.1080/02665433.2024.2386685) —
-   fetch blocked (403) to this session 2026-08-30; verbatim abstract obtained via the
-   Semantic Scholar API — used for the taxonomic-review framing, the Georgist/non-Georgist
+   full text not accessible at last review (2026-08-30); verbatim abstract obtained from
+   the Semantic Scholar record — used for the taxonomic-review framing, the Georgist/non-Georgist
    unearned-increment typology, and the site-value-tax-vs-betterment distinction, all quoted
    directly from the abstract above (B-claim; abstract-level, full text not read).

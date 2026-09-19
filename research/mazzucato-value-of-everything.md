@@ -27,12 +27,11 @@ year: 2018
 
 *The Value of Everything: Making and Taking in the Global Economy* (2018) is a book by
 University College London economist [Mariana Mazzucato](/wiki/mariana-mazzucato/), published
-in the UK by Allen Lane/Penguin and in the US by PublicAffairs. This page was originally built
-from the publisher's own description, independent reviews, and Mazzucato's later articles and
-papers that restate the same argument; a full-text copy of the book has since been located (a
-PDF hosted by the University of Warsaw) and every book-level claim below that was previously
-flagged for verification has been checked directly against the book's own text.[16] General
-characterizations of the book's reception remain sourced to the cited reviews.
+in the UK by Allen Lane/Penguin and in the US by PublicAffairs. Book-level claims below are
+checked against the book's own text (a full-text PDF hosted by the University of Warsaw);[16]
+the account is supplemented by the publisher's own description, independent reviews, and
+Mazzucato's later articles and papers that restate the same argument. General
+characterizations of the book's reception are sourced to the cited reviews.
 
 The book's project, restated consistently across reviewers, is to revive a classical question
 that mainstream economics stopped asking: which economic activities genuinely **create** value,
@@ -42,8 +41,8 @@ paid for, and that the practical consequence is a system of national accounts, c
 governance, and public policy that cannot tell "makers" from "takers" — the book's own framing,
 echoed in its subtitle.[1][2][3]
 
-This is presented on the wiki as **Mazzucato's argument** (EDITORIAL taxonomy D — interpretive/
-theoretical), attributed throughout rather than asserted as settled economic fact, consistent
+This is presented on the wiki as **Mazzucato's argument** — interpretive and theoretical —
+attributed throughout rather than asserted as settled economic fact, consistent
 with the mixed reception described in [Criticisms and Limits](#criticisms-and-limits) below.
 
 ## The Framework
@@ -68,7 +67,7 @@ to whatever price a good or service commands in exchange.[1][3][4] Under that la
 "comprehensive" production boundary, Mazzucato argues, almost any priced transaction counts as
 value creation by definition, which she holds erases the classical distinction she wants to
 restore.[3] This historical narrative is Mazzucato's own interpretive argument about the
-history of economic thought (taxonomy C/D), not an uncontested account — see the Aspromourgos
+history of economic thought, not an uncontested account — see the Aspromourgos
 critique below, which specifically disputes her handling of Marx's productive/unproductive
 distinction.
 
@@ -81,8 +80,7 @@ resources and output rather than adding to them.[3][4] The book's Introduction d
 pair directly: "By 'value creation' I mean the ways in which different types of resources
 (human, physical and intangible) are established and interact to produce new goods and
 services. By 'value extraction' I mean activities focused on moving around existing resources
-and outputs, and gaining disproportionately from the ensuing trade."[16] (The phrasing
-previously attributed here to a secondary review is in fact Mazzucato's own, verbatim.)
+and outputs, and gaining disproportionately from the ensuing trade."[16]
 
 Mazzucato applies this distinction to several sectors reviewers describe as case studies in the
 book, including finance, pharmaceuticals, and Big Tech, arguing in each case that activity now
@@ -90,7 +88,7 @@ recorded as value creation in GDP and corporate accounts is better understood, a
 part, as extraction — capturing value produced elsewhere (often, she argues, including public
 investment) rather than generating it.[2][3][4] Because this argument rests on a contestable
 normative judgment about which activities "really" create value, the wiki treats it throughout
-as her interpretive position (D-class), not as an agreed technical finding.
+as her interpretive position, not as an agreed technical finding.
 
 ### Government and the production boundary
 
@@ -185,7 +183,7 @@ works.[10]
 
 The book was widely reviewed and provoked substantive pushback from several directions, not
 only from economists sympathetic to Georgist or heterodox positions. Presented here as the
-strongest available versions of each objection (EDITORIAL taxonomy E):
+strongest available versions of each objection:
 
 - **Historians of economic thought dispute her reading of the classical tradition.** Tony
   Aspromourgos, in a review for the *History of Economics Review* (2018), specifically
@@ -239,7 +237,7 @@ strongest available versions of each objection (EDITORIAL taxonomy E):
    extraction as if it were creation — is argued through historical and institutional analysis
    (the history of national accounting conventions, sector case studies) rather than through a
    formal empirical decomposition of GDP or profit into "created" and "extracted" components.
-   No reviewer consulted for this page reports such a decomposition in the book itself.
+   None of the reviews cited here reports such a decomposition in the book itself.
 2. **The land-rent content is secondary to the book's main argument.** Unlike Ricardo's or
    George's treatment of rent, or Mazzucato's own 2023 paper, land is not this book's central
    case study. Confirmed against the full table of contents: none of the book's nine chapters

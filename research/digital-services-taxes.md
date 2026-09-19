@@ -139,14 +139,14 @@ platforms. Amazon's own 2019 announcement that it would raise French marketplace
 seller fees by 3% to cover the tax is documented on that sibling page and not
 repeated here.
 
-**France then tried, twice, to raise the rate — and as of this session, failed
+**France then tried, twice, to raise the rate — and failed
 both times.** A November 2024 budget amendment proposed raising the rate to 5%
 from January 2025; a further National Assembly vote on 24 November 2025 would have
 raised it to 6% from January 2026; a Finance Committee proposal reportedly went as
 high as 15% with a higher revenue threshold. According to the Tax Foundation
 Europe's dedicated 2026 tracker, the **National Assembly voted against** the 2026
 Finance Bill provision that would have raised the DST to 6%, so **France's DST rate
-remains 3%** as of this fetch.[5] Given how contested and fast-moving this budget
+remains 3%** following that vote.[5] Given how contested and fast-moving this budget
 fight has been — and that it is intertwined with the tariff-threat dynamic
 described below — this figure should be re-checked before being relied on for a
 future date.
@@ -179,10 +179,10 @@ alignment in general "two-pillar" terms without consistently specifying whether
 Pillar One or Pillar Two was the operative link, so the wiki does not adjudicate
 which pillar India's own reasoning cited.[7][8] **Revenue effect:** one tax-practice
 source estimates the 2% levy's discontinuation cost India "a short-term revenue loss
-of over ₹3,000 crore" (roughly US $360 million at mid-2020s exchange rates); the
-wiki could not independently verify a full time series of annual equalisation-levy
-collections against a primary CBDT dataset in this session, so only this
-withdrawal-year estimate is carried here.[7]
+of over ₹3,000 crore" (roughly US $360 million at mid-2020s exchange rates); no
+full time series of annual equalisation-levy collections from a primary CBDT
+dataset has been located, so only this withdrawal-year estimate is carried
+here.[7]
 
 ## The Pillar One Bargain: Designed to Retire DSTs, Never Closed
 
@@ -298,19 +298,19 @@ the [rent gradient](/wiki/geoism/) demands: the DST record is evidence about a b
 - **Independent, ex-post incidence evidence exists only for the UK (Amazon).** The
   France figure carried here (55%/40%/5%) is a pre-implementation, industry-
   commissioned prediction, not a measured outcome; no comparably rigorous ex-post
-  incidence study for France or India was found or fetched in this research pass.
+  incidence study for France or India has been located.
   The reader should weight the UK finding far more heavily than the French estimate.
-- **India's full revenue history is not independently verified here.** Only the
-  ₹3,000-crore withdrawal-year revenue-loss estimate is sourced to a direct fetch;
-  broader multi-year collection totals reported elsewhere were not confirmed
-  against a primary Indian government dataset and are omitted rather than
-  presented as fact.
-- **France's current DST rate is a fast-moving fact.** As of this session's fetch
-  (mid-2026), the rate remains 3% after a 6% increase was voted down on 24 November
+- **India's full revenue history is unverified here.** Only the
+  ₹3,000-crore withdrawal-year revenue-loss estimate is carried, and it rests on a
+  single tax-practice source; broader multi-year collection totals reported
+  elsewhere lack confirmation against a primary Indian government dataset and are
+  omitted rather than presented as fact.
+- **France's current DST rate is a fast-moving fact.** As of mid-2026,
+  the rate remains 3% after a 6% increase was voted down on 24 November
   2025, but the same budget process had already produced two prior rate-hike
   attempts within roughly a year. This figure should be re-verified before reuse.
 - **Whether India's withdrawal reflects Pillar One or Pillar Two alignment is
-  unclear from the sources fetched**, and the wiki does not resolve the
+  unclear from the available sources**, and the wiki does not resolve the
   discrepancy rather than guess.
 - **This page does not re-derive the UK incidence finding** — see the
   [DST incidence page](/wiki/digital-services-tax-incidence/) for the Cui &
@@ -319,8 +319,8 @@ the [rent gradient](/wiki/geoism/) demands: the DST record is evidence about a b
   peer-reviewed figures should be re-checked).
 - **The Trump tariff threat (26 June 2026) is very recent news, not settled
   policy** — it is a threat and a live political dynamic, not yet a concluded
-  trade action, and its ultimate effect on any of the DSTs discussed here is
-  unknown at the time of writing.
+  trade action, and its ultimate effect on any of the DSTs discussed here
+  remains unknown.
 
 ## See Also
 
@@ -341,48 +341,46 @@ the [rent gradient](/wiki/geoism/) demands: the DST record is evidence about a b
    £275m), the five-groups/90% concentration figure, the £6.3m implementation cost,
    the March 2022 cumulative-to-2024-25 forecast (>£3bn), and Amazon/Google/Apple's
    public statements that they would pass the DST's cost to customers (A/B-claims;
-   fetched and read via PDF text extraction this session).
+   read in full).
 2. HM Treasury (November 2025), *Digital Services Tax Review Report*, presented to
    Parliament under the Finance Act 2020. [GOV.UK PDF](https://assets.publishing.service.gov.uk/media/6925dfd647904590c9da2d36/Digital_Services_Tax_Review_.pdf)
    — used for the 2021-22 through 2024-25 revenue table, the government's own
    statements on pass-through risk and the absence of measured market-impact data,
-   and confirmation of the £6.3m implementation cost (A/B-claims; fetched and read
-   via PDF text extraction this session).
+   and confirmation of the £6.3m implementation cost (A/B-claims; read in full).
 3. Assemblée nationale (question n°2974, réponse publiée 14 February 2023, sourced
    to the DGFiP), "Rendement de la taxe sur les services numériques."
    [Assemblée nationale](https://questions.assemblee-nationale.fr/q16/16-2974QE.htm)
    — used for France's DST revenue by year (2019: €277m/27 payers; 2020: €375m/28
    payers; 2021: €474m/36 payers, with the French/European/extra-European payer
-   breakdown for 2021) (A-claim; fetched this session).
+   breakdown for 2021) (A-claim; read directly).
 4. Julien Pellefigue (Taj/Deloitte, commissioned by the Computer & Communications
    Industry Association) (22 March 2019), *The French Digital Service Tax: An
    Economic Impact Assessment*. [Deloitte PDF](https://blog.avocats.deloitte.fr/content/uploads/2020/03/dst-impact-assessment-march-2019.pdf)
    — used for the €400m 2019 revenue forecast, the ~€570m modeled total economic
    burden, and the ~55%/40%/5% (consumers/business-users/platforms) ex-ante
    incidence split; industry-commissioned, flagged as such (D-claim, attributed
-   estimate, not adopted as fact; fetched and read via PDF text extraction this
-   session).
+   estimate, not adopted as fact; read in full).
 5. Tax Foundation Europe (2026), "Digital Services Taxes in Europe" tracker.
    [Tax Foundation](https://taxfoundation.org/data/all/eu/digital-services-taxes-europe/)
    — used for the current country-by-country DST rate table and the confirmation
    that the National Assembly voted against France's proposed 6% rate increase on
-   24 November 2025, leaving the rate at 3% (A-claim; fetched this session).
+   24 November 2025, leaving the rate at 3% (A-claim; read directly).
 6. Income Tax Department, Government of India, "Equalisation Levy" (official
    guidance page). [incometaxindia.gov.in](https://www.incometaxindia.gov.in/equalisation-levy3)
    — used for the design of both levies (6% online advertising, 2016; 2%
    e-commerce, 2020), their thresholds and exemptions, and confirmation that
    equalisation-levy provisions ceased to apply from 1 April 2025 (A/F-claims;
-   fetched this session).
+   read directly).
 7. TaxGuru, "Equalisation Levy: Journey From Inception to Abolition & New Tax
    Regime." [TaxGuru](https://taxguru.in/income-tax/equalisation-levy-complete-journey-inception-abolition-new-tax-regime.html)
    — used for the exact withdrawal dates (2% levy: 1 August 2024; 6% levy: 1 April
    2025), the government's stated "ambiguous"/compliance-burden rationale, the
    IP-address tracking compliance problem, and the ₹3,000-crore short-term
-   revenue-loss estimate (A/B-claims; practitioner source; fetched this session).
+   revenue-loss estimate (A/B-claims; practitioner source; read directly).
 8. India Briefing (2024), "India to End 2% Equalisation Levy on Foreign Digital
    Companies." [India Briefing](https://www.india-briefing.com/news/india-to-abolish-2-percent-equalisation-levy-on-foreign-digital-companies-from-august-1-2024-33736.html/)
    — used for the US Section 301/trade-friction context and the general OECD
-   two-pillar alignment framing (fetched this session; the wiki does not treat
+   two-pillar alignment framing (read directly; the wiki does not treat
    this source's Pillar One/Two attribution as resolved — see Honest Limits).
 9. OECD/G20 Inclusive Framework on BEPS, Co-Chairs (13 January 2025), "Pillar One
    Update from the Co-Chairs of the Inclusive Framework on BEPS."
@@ -390,21 +388,20 @@ the [rent gradient](/wiki/geoism/) demands: the DST record is evidence about a b
    — used for the Amount A withdrawal-and-standstill design language (verbatim
    quote), the October 2021/October 2023/June 2024 negotiation timeline, the
    "adoption is not signature" distinction, and the outstanding Amount B blockers
-   (A/C-claims; primary institutional statement; fetched and read via PDF text
-   extraction this session).
+   (A/C-claims; primary institutional statement; read in full).
 10. Al Jazeera (30 June 2025), "Canada rescinds digital services tax after Trump
     suspends trade talks." [Al Jazeera](https://www.aljazeera.com/news/2025/6/30/canada-rescinds-digital-services-tax-after-trump-suspends-trade-talks)
     — used for the design of Canada's Digital Services Tax Act (3%, CAD $20m
     threshold, retroactive to 2022) and the 27-30 June 2025 timeline (A-claim;
-    journalistic source; fetched this session).
+    journalistic source; read directly).
 11. Government of Canada, Department of Finance (29 June 2025), "Canada rescinds
     Digital Services Tax to advance broader trade negotiations with the United
     States" (news release). [Canada.ca](https://www.canada.ca/en/department-finance/news/2025/06/canada-rescinds-digital-services-tax-to-advance-broader-trade-negotiations-with-the-united-states.html)
     — used for the primary-source rescission announcement and its verbatim
-    rationale (A-claim; primary government source; fetched this session).
+    rationale (A-claim; primary government source; read directly).
 12. CBS News (26 June 2026), "Trump vows immediate 100% tariff if countries levy
     digital services tax." [CBS News](https://www.cbsnews.com/news/trump-digital-services-tax-tariff-europe/)
     — used for the verbatim tariff-threat quote, the countries named, and the note
     that the EU-US tariff-cap agreement does not address DSTs (A-claim;
-    journalistic source reporting a direct quote; fetched this session; flagged in
+    journalistic source reporting a direct quote; read directly; flagged in
     Honest Limits as very recent, unresolved news).

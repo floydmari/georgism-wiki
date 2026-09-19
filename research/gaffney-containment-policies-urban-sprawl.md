@@ -55,8 +55,8 @@ Angeles and San Francisco sprawl) but rejects their reasoning: America has
 vast reserves of substitute cropland and "no danger of running out of
 cropland" — the real damage of sprawl to agriculture is that it sends "shock
 waves into the countryside" of premature, capital-taxed intensification driven
-by speculative capital-gains-motivated buying, not soil loss as such. (C-claim;
-Gaffney's own diagnostic argument, illustrated with contemporary examples, not
+by speculative capital-gains-motivated buying, not soil loss as such. (Gaffney's
+own diagnostic argument, illustrated with contemporary examples, not
 tested econometrically.)
 
 **Distinguishing "artificial scarcity" from "efficiency" containment.**
@@ -76,8 +76,8 @@ overzoning, and jurisdictions compete for growth. Gaffney draws a deliberately
 provocative historical parallel: greenbelts and low-density zones "bear a
 family resemblance to King George's Proclamation Line" restricting colonial
 settlement west of the Appalachians — a fence the American frontier simply
-went around, leaving "an uneconomic scatter and sprawl" rather than order. (D-claim;
-rhetorical/historical analogy, not an empirical test of zoning outcomes.)
+went around, leaving "an uneconomic scatter and sprawl" rather than order. (A
+rhetorical and historical analogy, not an empirical test of zoning outcomes.)
 
 **"Neutral containment" — stop subsidizing sprawl.** The chapter's most
 concrete and quantifiable argument is that utility and street financing
@@ -95,8 +95,8 @@ serve the fringes") the wiki's [lvt-reduces-sprawl](/wiki/lvt-reduces-sprawl/)
 page currently documents only from the later, more abstract 1978 Synergistic
 City restatement — this 1964 chapter is the earlier, more concretely
 worked-out version, with the water-pipe engineering example spelled out.
-(C-claim; Gaffney's own theoretical/engineering argument, not independently
-tested.)
+(Gaffney's own theoretical and engineering argument, not tested
+empirically.)
 
 **"Positive containment" — the site-value tax.** Gaffney's constructive
 proposal is a heavy tax on land value alone: "we can keep down the selling
@@ -112,8 +112,8 @@ predestined choice propel / Me outwards, then impute my sprawl to
 rather than fiscal bias. A **site-capacity tax** would hit the city center
 hardest, he argues, "because that is where the land values are" — the same
 logic, he notes, that exclusive agricultural zoning already applies to force
-farmers to intensify rather than sprawl. (C-claim; Gaffney's own theoretical
-mechanism and normative proposal, not independently tested in this chapter.)
+farmers to intensify rather than sprawl. (Gaffney's own theoretical
+mechanism and normative proposal, not tested empirically in this chapter.)
 
 ## Standing and Limits
 
@@ -122,16 +122,15 @@ mechanism and normative proposal, not independently tested in this chapter.)
   Gaffney's earlier work — no data, no citations to his own later empirical
   studies (which postdate it), no peer review in the economics-journal sense.
   All of its central claims are Gaffney's own theoretical and normative
-  argument, not independently tested findings; graded C/D-claim throughout per
-  the wiki's convention and cited here for historical priority and mechanism
-  detail, not as additional empirical evidence.
+  argument rather than tested findings, and are cited here for historical
+  priority and mechanism detail, not as additional empirical evidence.
 - **Dated context.** Written against a specific 1960s backdrop (postwar
   suburbanization, the "urban renewal" era, and Malthusian farmland-loss
   advocacy of the period) — some framing (e.g., the confident dismissal of
   cropland scarcity) reads as period-specific and should not be read as a
   general claim about agricultural land economics today.
-- **Provenance.** Native, `pdftotext -layout`-extractable text (no OCR
-  needed). Local mirror: `sources/gaffney/text/E3Containment_policies.CV.txt`.
+- **Provenance.** The scanned PDF carries a machine-readable text layer. Local
+  mirror: `sources/gaffney/text/E3Containment_policies.CV.txt`.
 
 ## Bears On
 
@@ -157,6 +156,6 @@ mechanism and normative proposal, not independently tested in this chapter.)
 1. Mason Gaffney, "Containment Policies for Urban Sprawl," Chapter X in
    Richard L. Stauber (ed.), *Approaches to the Study of Urbanization*
    (Lawrence: Governmental Research Center, University of Kansas, 1964),
-   pp. 115–133 — used for the entire page. Native, `pdftotext`-extractable
-   text (no OCR needed). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/E3Containment_policies.CV.pdf);
+   pp. 115–133 — used for the entire page; read in full from the scanned PDF's
+   machine-readable text layer. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/E3Containment_policies.CV.pdf);
    local mirror at `sources/gaffney/text/E3Containment_policies.CV.txt`.

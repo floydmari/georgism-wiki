@@ -60,12 +60,11 @@ real fiscal consequences.
 - **A single Chinese city case study (Zhongshan).** The specific dynamic of implicit,
   contested inter-tier rent allocation may not generalize identically to other Chinese
   cities' land-finance systems, let alone other countries'.
-- **Abstract-level source (B+-claim).** The publisher page was blocked to this session,
-  including via a reader-proxy route, despite the paper's confirmed CC-BY open-access
-  status (no independent PDF mirror was indexed anywhere at the time of this session);
-  specific policy instruments, the precise trigger of the "developmental crisis," and the
-  concrete before/after authority allocation between government tiers were not independently
-  obtained.
+- **Abstract-level source.** The publisher's full text was not publicly accessible at last
+  review (2026-08-31) despite the paper's CC-BY open-access status, and no other copy was
+  available; specific policy instruments, the precise trigger of the "developmental
+  crisis," and the concrete before/after authority allocation between government tiers are
+  not covered here.
 - **Funded by University Research Committee HKU and NSFC grant 52208086.**
 
 ## Bears On
@@ -87,10 +86,10 @@ real fiscal consequences.
    dissipation and redistribution under scalar politics in China," *Land Use Policy* 157,
    article 107692, published 15 July 2025, DOI 10.1016/j.landusepol.2025.107692, CC-BY.
    [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0264837725002261) —
-   fetch blocked (403) to this session 2026-08-31, including via a reader-proxy route,
-   despite confirmed CC-BY open-access status (no independent PDF mirror indexed anywhere
-   at time of access); summary built from a WebSearch/RePEc-mirror reconstruction
-   corroborated across independent extractions — used for the Zhongshan case, the
+   full text not accessible at last review (2026-08-31) despite the paper's CC-BY
+   open-access status, with no other copy available; summary rests on secondary
+   descriptions of the paper, corroborated across independent renderings — used for the
+   Zhongshan case, the
    implicit-rent-distribution/rent-seeking/dissipation/scalar-restructuring sequence, and the
-   mixed-methods design (B+-claim; secondary description, full text and specific
-   quantitative/policy detail not independently obtained).
+   mixed-methods design (B+-claim; secondary description — the full text and its specific
+   quantitative and policy detail were not obtained).

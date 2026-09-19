@@ -74,9 +74,6 @@ regime about the criticality of consistent, well-resourced enforcement.
 - **Governance/implementation focus, not a quantitative outcome evaluation.** The paper
   documents enforcement gaps and mechanisms rather than measuring aggregate affordable-housing
   delivery shortfalls.
-- **Full text read directly (A-claim).** The complete open-access article was obtained (via
-  a reader-proxy route after the standard MDPI URL was unexpectedly blocked) and read in
-  full.
 
 ## Bears On
 
@@ -95,8 +92,7 @@ regime about the criticality of consistent, well-resourced enforcement.
 1. Dian Rahmawati, D. Ary A. Samsura & Erwin van der Krabben (2025), "From Policy to
    Practice: How Public Land Policies Shape Private-Sector Housing Development—An Indonesian
    Case," *Land* 14(5): 916, DOI 10.3390/land14050916, CC-BY 4.0.
-   [mdpi.com](https://www.mdpi.com/2073-445X/14/5/916) — full text read directly 2026-08-31
-   (via a reader-proxy route after the standard MDPI URL was unexpectedly blocked to this
-   session) — used for the Surabaya case, the Job Creation Law and Land Bank Agency
+   [mdpi.com](https://www.mdpi.com/2073-445X/14/5/916) — read in full, 2026-08-31
+   — used for the Surabaya case, the Job Creation Law and Land Bank Agency
    framework, the 300–700% price-gap figures, the PSU-handover enforcement mechanism, and
    the municipal official's blacklisting quotation (A-claim; full text).

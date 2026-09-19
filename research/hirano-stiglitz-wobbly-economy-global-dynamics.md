@@ -118,4 +118,4 @@ Speculation](/wiki/hirano-stiglitz-growth-fluctuations-land-speculation/)).
    the abstract, the phase-transition and state-transition/hysteresis mechanism, and the
    explicit confirmation that the model is the standard Diamond life-cycle model without
    land (A-claim for the abstract/intro material read; full technical sections not read
-   in depth this session).
+   in depth at that review).

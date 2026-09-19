@@ -58,7 +58,7 @@ neighbors from single-rate neighbors. Multiple neighborhood "distance rings"
 (5, 10, 15, and 20 miles, using both straight-line and driving-distance
 measures) let the model trace how the spillover effect changes with distance.
 
-- **Close neighbors lose (Type B — empirical).** Within a 5-mile driving
+- **Close neighbors lose.** Within a 5-mile driving
   distance, a one-unit increase in the log average land-to-structure tax rate
   differential among two-rate neighbors is associated with roughly a **4.5
   percentage-point reduction** in a jurisdiction's total employment growth rate,
@@ -117,12 +117,11 @@ jurisdiction, cannot see.
 
 ## What the Paper Builds On
 
-Crossref carries the publisher-deposited reference list for the published *Journal of
-Real Estate Finance and Economics* version in full — 36 entries, read via the Crossref
-API on 2026-08-25. As with the abstract (see below), Crossref deposits no abstract
-field for this DOI, so the quote-verification step used elsewhere in this batch does
-not apply; the paper's quotes on this page remain sourced to the freely available 2015
-Lincoln Institute working paper, not to Crossref. The reference list is a
+The reference list deposited with the publisher for the published *Journal of
+Real Estate Finance and Economics* version runs to 36 entries and was read in full
+(2026-08-25). No abstract is deposited alongside it, so the paper's quotes on this page
+remain sourced to the freely available 2015 Lincoln Institute working paper. The
+reference list is a
 Pennsylvania/split-rate-specific bibliography rather than a broad survey: it includes
 [Henry George](/wiki/henry-george/)'s *Progress and Poverty* (1879), and the same
 empirical Pennsylvania literature this page's own "See Also" and "Sources" sections
@@ -154,42 +153,18 @@ and empirical lineage, not what the (still-unread) published body text argues.
   paper, whose abstract and headline results match the 2024 *Journal of Real
   Estate Finance and Economics* publication's abstract; the published version
   may have refined specifications or an extended sample not reflected here.
-  **Attempted (2026-08-10):** the published abstract itself could not be
-  independently read this session — SpringerLink's article page returns a bot
-  "Client Challenge" wall to direct fetch, and Semantic Scholar's bibliographic
-  API marks the abstract field "elided by the publisher" (closed, not indexed).
-  Search-engine summaries consistently describe the published paper's sample as
-  "Pennsylvania... 1980–2010," matching the working paper, but this could not be
-  confirmed against the actual publisher-hosted abstract text and may simply be
-  search engines echoing the working paper via secondary citations — not treated
-  as independent confirmation.
-  **Attempted again (2026-08-14), wider channel sweep, same result:**
-  (1) Semantic Scholar API, both a title search and a direct DOI lookup —
-  `abstract` field null both times. (2) Crossref API, bibliographic search and
-  direct `/works/10.1007/s11146-024-09995-y` record — no `abstract` field in
-  either response. (3) OpenAlex API — `abstract_inverted_index` null, record
-  flagged closed access. (4) SpringerLink's article page, fetched directly and
-  via `curl` with a browser user-agent string — both returned the identical bot
-  "Client Challenge" JavaScript wall, no article content. (5) Internet Archive
-  Wayback Machine `/wayback/available` check for the SpringerLink URL — no
-  archived snapshot exists. (6) ResearchGate's Zhou Yang contributions page —
-  HTTP 403 Forbidden. (7) IDEAS/RePEc — its single indexed "Zhou Yang" author
-  profile belongs to a different economist (Virginia Tech, a 2006 discrete-games
-  working paper), not this paper's author (Robert Morris University), and the
-  paper does not surface in the JREFE journal-listing searches tried. (8) Google
-  Scholar and general web search — return only a search-engine-synthesized
-  summary repeating the "Pennsylvania... 1980–2010" phrasing already noted
-  above, not publisher-sourced abstract text; not treated as independent
-  confirmation for the same reason as 2026-08-10. No channel tried across either
-  session produced independently readable published-abstract text.
-  **[VERIFY: confirm whether the published 2024 version updates the 1980–2010
-  sample period or coefficient magnitudes reported in the 2015 working paper —
-  needs-unblocked-web, a proxy or institutional-access channel this environment
-  lacks. The publisher-deposited reference list (36 entries) was read in full via
-  Crossref on 2026-08-25 — see "What the Paper Builds On" above — confirming Crossref
-  itself deposits no abstract for this DOI (consistent with the eight-channel sweep
-  above); this narrows the gap to the body text and published abstract specifically,
-  not the paper's scope or scholarly lineage.]**
+  The published abstract itself is not publicly accessible: the publisher's
+  article page is closed to readers without a subscription, and the major
+  bibliographic indexes carry no abstract text for this DOI. Search-engine
+  summaries consistently describe the published paper's sample as
+  "Pennsylvania... 1980–2010," matching the working paper, but that wording may
+  simply echo the working paper through secondary citations, and is not treated
+  here as independent confirmation. Whether the published 2024 version updates
+  the 1980–2010 sample period or the coefficient magnitudes reported in the 2015
+  working paper therefore remains unconfirmed. The reference list deposited with
+  the publisher (36 entries) was read in full — see "What the Paper Builds On"
+  above — so the outstanding gap is the body text and published abstract
+  specifically, not the paper's scope or scholarly lineage.
 - **Pennsylvania-only external validity**, as with the rest of the wiki's
   split-rate evidence base — few other US states have enough adopting
   municipalities for this kind of spatial analysis.

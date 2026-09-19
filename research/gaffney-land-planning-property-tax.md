@@ -76,8 +76,8 @@ identical whether the site carries an old ("defender") building or a new
 ("challenger") one — while the conventional building tax specifically
 worsens the credit position of the challenger relative to the defender at
 the precise moment (early years, tightest cash squeeze) when financing
-matters most. (C-claim; Gaffney's own theoretical mechanism, illustrated
-numerically, not econometrically tested in this paper.)
+matters most. This is Gaffney's own theoretical mechanism, illustrated
+numerically rather than econometrically tested in this paper.
 
 ## Planning Power Under a Land-Value Tax Base
 
@@ -130,9 +130,9 @@ Gaffney frames this explicitly as an answer to planners "concerned that the
 proposal to unleash the full force of the free market is also a proposal to
 substitute the market for planners" — his position is that land-value
 taxation and planning are complements: "effective public land planning
-presupposes a well-oiled land market."[1] (D-claim; Gaffney's own normative
-and institutional argument, addressed to a professional-planning audience;
-not empirically tested.)
+presupposes a well-oiled land market."[1] The seven-point case is Gaffney's own
+normative and institutional argument, addressed to a professional-planning
+audience, and is not empirically tested.
 
 ## Standing and Limits
 
@@ -149,13 +149,10 @@ not empirically tested.)
   via its 1998 restatement; this page's Standing and Limits inherits that
   page's caveat that the underlying sales dataset was never published for
   independent replication.
-- **OCR provenance.** The mirrored PDF is a scanned academic reprint
-  (Taylor & Francis, "Downloaded by [Mary Cleveland]" watermarks on each
-  page) with a native, `pdftotext -layout`-extractable text layer; column
-  order in the two-column original occasionally interleaves in extraction,
-  checked against context before quoting. Local mirror:
-  `scratchpad/cache/gaffney-mirror/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf`;
-  extracted text: `sources/gaffney/text/E10-Land_Planning_and_the_Property_Tax_AIP.txt`.
+- **Provenance.** The article was read in full (2026-07-18) from the freely
+  available scan at masongaffney.org, a scanned academic reprint carrying
+  "Downloaded by [Mary Cleveland]" watermarks; a working text copy is held at
+  `sources/gaffney/text/E10-Land_Planning_and_the_Property_Tax_AIP.txt`.
 
 ## Bears On
 
@@ -182,8 +179,6 @@ not empirically tested.)
 1. Mason Gaffney, "Land Planning and the Property Tax," *AIP Journal*
    (American Institute of Planners), May 1969, pp. 178–183 — used for the
    entire page: the financing-mechanics argument and the seven-point
-   planner-empowerment case. Native, `pdftotext`-extractable text (no OCR
-   needed). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf`;
-   extracted text at `sources/gaffney/text/E10-Land_Planning_and_the_Property_Tax_AIP.txt`.
+   planner-empowerment case. Read in full, 2026-07-18.
+   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/E10-Land_Planning_and_the_Property_Tax_AIP.pdf);
+   working text copy at `sources/gaffney/text/E10-Land_Planning_and_the_Property_Tax_AIP.txt`.

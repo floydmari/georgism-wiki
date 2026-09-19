@@ -221,12 +221,11 @@ exclude, via their persistence analysis).
 
 ## Bears On
 
-- This paper will support the forthcoming outcome page on corporate profits and rents
-  (`outcomes/corporate-profits-increasingly-rents`, not yet created as of this writing) once that
-  page exists — its firm-level ROIC dispersion, between-firm wage-inequality, and industry-
-  concentration findings are directly relevant evidence for that outcome, alongside [De Loecker,
-  Eeckhout & Unger](/wiki/de-loecker-eeckhout-unger-markups/) and the Barkai/Furman evidence
-  referenced in the wiki's backlog for that page.
+- **Problem:** [Corporate profits increasingly reflect economic
+  rents](/wiki/corporate-profits-increasingly-rents/) — this paper's firm-level ROIC dispersion,
+  between-firm wage-inequality, and industry-concentration findings are directly relevant
+  evidence for that claim, alongside [De Loecker, Eeckhout &
+  Unger](/wiki/de-loecker-eeckhout-unger-markups/) and Barkai's declining-shares evidence.
 - **Outcome:** [Most of the modern rise in the capital share is land, not
   capital](/wiki/capital-share-rise-is-land/) — the paper's own decomposition (housing capital
   +2.8 points vs. non-housing capital +0.3 points, 1970–1999 average vs. 2014) independently
@@ -263,8 +262,8 @@ exclude, via their persistence analysis).
    in Inequality," presentation at "A Just Society: A Centennial Event in Honor of Joseph
    Stiglitz," Columbia University, October 16, 2015. [PDF (Obama White House
    Archive)](https://obamawhitehouse.archives.gov/sites/default/files/page/files/20151016_firm_level_perspective_on_role_of_rents_in_inequality.pdf) —
-   used for all findings, figures, data sources, and quotations above; fetched and read directly
-   in full this session (24 pages).
+   used for all findings, figures, data sources, and quotations above; read in full,
+   2026-07-10 (24 pages).
 2. Jason Furman & Peter Orszag, "A Firm-Level Perspective on the Role of Rents in the Rise in
    Inequality," in Martin Guzman (ed.), *Toward a Just Society: Joseph Stiglitz and Twenty-First
    Century Economics* (Columbia University Press, 2018), pp. 19–47.
@@ -272,7 +271,7 @@ exclude, via their persistence analysis).
    [Publisher page](https://cup.columbia.edu/book/toward-a-just-society/9780231186728/) ·
    [Furman's HKS publications page](https://www.hks.harvard.edu/publications/firm-level-perspective-role-rents-rise-inequality) —
    used to confirm the paper's later publication as Chapter 1 of the Stiglitz festschrift volume.
-   Crossref's metadata record for the chapter DOI (fetched this session) confirms the title,
+   Crossref's metadata record for the chapter DOI confirms the title,
    authors, pages 19–47, publisher, and December 2018 publication date, and Furman's own Harvard
    Kennedy School page carries the matching citation. The chapter text itself remains behind De
    Gruyter's subscription wall, so the wiki's summary is based on the freely available 2015
@@ -297,16 +296,16 @@ exclude, via their persistence analysis).
    Increases in Earnings Dispersion across Establishments and Individuals in the U.S.," NBER
    Working Paper No. 20447. — used for the finding that between-establishment inequality explains
    more than two-thirds of the 1992–2007 rise in U.S. earnings inequality; cited via Furman &
-   Orszag's discussion, not independently re-verified against the primary text this session.
+   Orszag's discussion, not re-checked against the primary text.
 7. Jae Song, David J. Price, Fatih Guvenen, Nicholas Bloom & Till von Wachter (2015), "Firming Up
    Inequality," NBER Working Paper No. 21199. — used for the finding that essentially all of the
    1978–2012 rise in U.S. wage inequality stems from between-firm rather than within-firm pay
-   disparities; cited via Furman & Orszag's discussion, not independently re-verified against the
-   primary text this session.
+   disparities; cited via Furman & Orszag's discussion, not re-checked against the
+   primary text.
 8. Morris M. Kleiner & Alan B. Krueger (2013), "Analyzing the Extent and Influence of Occupational
    Licensing on the Labor Market," *Journal of Labor Economics* 31(2), S173–S202. — used for the
    occupational-licensing growth statistics in Box 2; cited via Furman & Orszag's discussion, not
-   independently re-verified against the primary text this session.
+   re-checked against the primary text.
 9. Joseph E. Stiglitz (2012), *The Price of Inequality: How Today's Divided Society Endangers Our
    Future*, W. W. Norton & Company — the aggregate rents-and-inequality hypothesis this paper sets
    out to test and ultimately qualifies; cited via Furman & Orszag's own reference list.

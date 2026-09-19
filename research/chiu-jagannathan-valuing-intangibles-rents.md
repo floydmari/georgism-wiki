@@ -180,7 +180,7 @@ matters more here than the headline number. Three points:
    Valuing Intangibles and Rents," NBER Working Paper No. 30829 (January 2023, revised
    February 2025; JEL G0, G00, G12; an earlier version circulated as "Franchise Value,
    Intangibles, and Tobin's Q"). [NBER](https://www.nber.org/papers/w30829) — read in
-   full this session (PDF, incl. Online Appendix) — used for the four-part market-value
+   full, 2026-07-21 (PDF, incl. Online Appendix) — used for the four-part market-value
    decomposition and the definition of the valuation residual (eq. 1, pp. 1, 6); the
    aggregate residual share (45% of market value by 2020) and dollar figures ($45tn
    market value, $21tn residual, ~$4tn capitalized intangibles, 2020; p. 18); the

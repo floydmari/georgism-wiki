@@ -103,9 +103,9 @@ the Alaska evidence is.
 1. Mouhcine Guettabi (2019), "What do we know about the effects of the Alaska Permanent Fund
    Dividend?," Institute of Social and Economic Research, University of Alaska Anchorage
    (2019-05-20). ScholarWorks handle 11122/10581 (the live item was removed in the
-   ScholarWorks migration); full-text PDF read via [Wayback copy](http://web.archive.org/web/20260331013108/https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf)
-   and read — used for the "Main findings" quotes on poverty (substantial reductions for rural
+   ScholarWorks migration; the full-text PDF remains available in an [archived
+   copy](http://web.archive.org/web/20260331013108/https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf),
+   read in full at last review, 2026-07-12) — used for the "Main findings" quotes on poverty (substantial reductions for rural
    Alaska Natives; declining over time), employment (no negative effect, small positive demand),
    health (birth weight, obesity), and income inequality (increases inequality in short and long
-   run). Live ScholarWorks bitstream returned 404 this session; the Wayback capture supplied the
-   verified text.
+   run).

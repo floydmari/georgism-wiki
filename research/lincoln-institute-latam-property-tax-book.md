@@ -68,7 +68,7 @@ thirteen countries this broader survey covers.
 ## Nuances and Limits
 
 - **Announcement-level source.** This page is based on the Lincoln Institute's own
-  announcement of the book, not the book itself, which the wiki has not obtained or read
+  announcement of the book rather than on the book itself, which has not been read
   directly. The GDP-share figures and country list are reported as stated in the
   announcement; any finer detail (country-by-country breakdowns, specific policy
   recommendations by country) would require the book itself.
@@ -95,10 +95,9 @@ thirteen countries this broader survey covers.
 
 1. Luis Quintanilla & Cláudia De Cesare (eds.), *Sistemas del impuesto predial en América
    Latina y el Caribe*, 2nd edition, Lincoln Institute of Land Policy, 2026 — announcement
-   fetched and read 2026-08-14. [lincolninst.edu](https://www.lincolninst.edu/land-wise/new-book-edition-analyzes-current-state-property-taxes-latin-america-and-caribbean/) —
+   read 2026-08-14. [lincolninst.edu](https://www.lincolninst.edu/land-wise/new-book-edition-analyzes-current-state-property-taxes-latin-america-and-caribbean/) —
    used for the book's title, editors, 13-country coverage (original nine plus Bolivia,
    Mexico, Panama, Paraguay), the 2000/2018/2022 GDP-share figures, the OECD 2012–2021
    comparison, the COVID-19 revenue-decline finding, and the book's standardization/
    transparency recommendations. Publisher-announcement level source, not the book itself
-   (B-claim for the reported statistics; the underlying book was not independently read
-   this session).
+   (B-claim for the reported statistics; the underlying book was not read directly).

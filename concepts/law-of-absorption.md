@@ -3,13 +3,13 @@ title: "Law of Absorption"
 category: concepts
 tags: [concepts, law-of-absorption, law-of-rent, land-rent, akhil-patel, stub]
 stub: true
-excerpt: "Akhil Patel's name for the principle that land absorbs the gains of economic progress — infrastructure and growth raise land values while leaving landowners' costs unchanged, the mechanism behind capitalization and the 18-year land cycle."
+excerpt: "The practitioner-author Akhil Patel's name for the principle that land absorbs the gains of economic progress — infrastructure and growth raise land values while leaving landowners' costs unchanged, the mechanism behind capitalization and the 18-year land cycle."
 last_reviewed: 2026-07-12
 ---
 
 ## Overview
 
-The **law of absorption** is the term Akhil Patel uses in *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* (2023) for the principle that land, being fixed in supply and locational, "absorbs" the gains of economic progress — infrastructure investment, agglomeration, and growth raise land values and rents rather than proportionately raising wages or returns to capital, and landowners capture this uplift at no cost to themselves (pp. 64–68).[1] Patel treats it as the modern, applied counterpart to Ricardo's [law of rent](/wiki/law-of-rent/): where the law of rent explains *why* land commands a differential surplus, the law of absorption describes what happens to *new* value created in the economy — it tends to flow into land rent rather than into wages or profits.
+The **law of absorption** is the term the practitioner-author and investment writer Akhil Patel uses in *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* (2023) for the principle that land, being fixed in supply and locational, "absorbs" the gains of economic progress — infrastructure investment, agglomeration, and growth raise land values and rents rather than proportionately raising wages or returns to capital, and landowners capture this uplift at no cost to themselves (pp. 64–68).[1] Patel treats it as the modern, applied counterpart to Ricardo's [law of rent](/wiki/law-of-rent/): where the law of rent explains *why* land commands a differential surplus, the law of absorption describes what happens to *new* value created in the economy — it tends to flow into land rent rather than into wages or profits.
 
 As his central illustration, Patel cites Don Riley's study of London's Jubilee Line Extension, which found that the rail extension raised nearby land values by an estimated £13 billion — "almost four times the cost of the entire project" (p. 66) — while the public body that funded the line captured none of that uplift.[1] Patel uses the law of absorption to explain the upswing phase of his [18-year land cycle](/wiki/18-year-land-cycle/): as an economy grows, the gains are progressively absorbed into land prices, fuelling speculation until rising land costs squeeze production and trigger a downturn.
 

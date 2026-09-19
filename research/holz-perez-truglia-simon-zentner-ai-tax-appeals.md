@@ -85,8 +85,6 @@ equalize who actually uses them.
 - **A single US county and tax system.** Texas property-tax appeals (protests) are a specific
   administrative process; the finding that AI assistance can widen access disparities may or
   may not generalize to other appeals systems or other AI-assisted government processes.
-- **A-claim.** Full text (introduction, experimental design, headline results, and mechanism
-  sections) read directly from the NBER working paper PDF, not reconstructed from an abstract.
 
 ## Bears On
 

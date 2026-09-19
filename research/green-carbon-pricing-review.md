@@ -88,4 +88,4 @@ levels by 2030 to hold warming to 1.5 °C.[1]
    [10.1088/1748-9326/abdae9](https://doi.org/10.1088/1748-9326/abdae9) — used for the
    37-studies count and Europe skew, the 0–2%/yr aggregate-reduction range, the
    carbon-tax-beats-ETS finding, the EU-ETS 0–1.5%/yr range, and the "limited impact"
-   verdict; all quotations verified verbatim against the open-access article this session.
+   verdict; all quotations verified verbatim against the open-access article (2026-07-12).

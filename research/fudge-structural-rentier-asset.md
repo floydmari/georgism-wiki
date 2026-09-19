@@ -74,11 +74,11 @@ redistributive intervention.
   Housing Theory of Everything"). This does not itself invalidate the formal argument, but
   readers should weight it as an independent researcher's working paper, not a
   peer-reviewed academic contribution.
-- **Full text not independently verified.** This page is built from search-indexed
-  abstract/summary detail rather than a direct read of the SSRN paper, which returned a
-  Cloudflare challenge to both WebFetch and curl this session. Graded C-claim throughout; no
-  verbatim quotation is offered, and the "six numbered propositions" structure referenced in
-  preliminary research notes is not independently confirmed.
+- **Only abstract-level material is publicly available.** The SSRN full text is not
+  openly accessible, so this summary rests on the published abstract and secondary
+  descriptions rather than on a direct reading of the paper. No verbatim quotation is
+  offered, and the "six numbered propositions" structure sometimes attributed to the paper
+  remains unconfirmed.
 - **A theoretical/formal model, not an empirical test.** The paper's contribution (as
   currently understood) is a proof-style argument about the logical structure of a
   rentier-asset economy, not a quantitative estimate of how close any actual housing market
@@ -102,9 +102,9 @@ redistributive intervention.
 
 1. Henry Fudge (2026), "The Structural Rentier Asset," SSRN Electronic Journal, DOI
    10.2139/ssrn.7179858. [ssrn.com/abstract=7179858](https://www.ssrn.com/abstract=7179858) —
-   fetch blocked (Cloudflare) to this session 2026-08-25; summary built from search-indexed
-   abstract/summary detail — used for the three-property (fixed supply, collateral,
+   full text not accessible at last review (2026-08-25); summary rests on the published
+   abstract and secondary descriptions — used for the three-property (fixed supply, collateral,
    tax-preferential) definition of a "structural rentier asset," the no-interior-steady-state
    argument, the policy-intervention-or-Minsky-crash terminus, and the GDP-mismeasurement
-   consequence (C-claim; not independently verified against the paper's own text, no
+   consequence (C-claim; abstract-level — not checked against the paper's own text, no
    verbatim quotation offered).

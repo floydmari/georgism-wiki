@@ -1,117 +1,4 @@
 {
- "research/hefferan-boyd-mass-appraisal-australia.md": [
-  {
-   "name": "Lars Doucet",
-   "lead": true,
-   "sentence": "Australia is an unusually clean case for the wiki because its state land taxes and local rates are assessed on **land value** (largely unimproved value), so the paper speaks directly to land assessment rather than whole-property assessment.[1]\n\nThe paper is the source of the objection-rate benchmark Doucet relays in *[Does Georgism Work?](/wiki/doucet-does-georgism-work/)* — the empirical signal t"
-  },
-  {
-   "name": "Lars Doucet",
-   "lead": false,
-   "sentence": "It is also the practitioner benchmark behind the [mass-appraisal-methods](/wiki/mass-appraisal-methods/) page's point that land-assessment errors are \"bounded and contestable.\"\n\n**A note on the retelling.** Doucet's *[Does Georgism Work?](/wiki/doucet-does-georgism-work/)* Part 3 describes this as a \"<1%-objection and <2%-complaint\" pair of benchmarks."
-  }
- ],
- "research/henry-george-foundation-hybrid-lvt-proposal.md": [
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": true,
-   "sentence": "## Summary\n\nIn July 2026, the **[Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/)**\npublished \"Land Value Tax in Practice — Grounds for Cautious Optimism?\" — a substantive,\nsympathetic-but-critical response to [Dan Neidle's Tax Policy Associates\n(TPA) modelling of a UK residential land value tax](/wiki/tpa-what-would-lvt-do/), the\nreport already covered on this wiki via its coverag"
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": true,
-   "sentence": "## Summary\n\nIn July 2026, the **[Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/)**\npublished \"Land Value Tax in Practice — Grounds for Cautious Optimism?\" — a substantive,\nsympathetic-but-critical response to [Dan Neidle's Tax Policy Associates\n(TPA) modelling of a UK residential land value tax](/wiki/tpa-what-would-lvt-do/), the\nreport already covered on this wiki via its coverag"
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": true,
-   "sentence": "Where Neidle's report models a specific, revenue-neutral\nLVT replacing council tax and stamp duty and finds sharp regional winners and losers, the\nFoundation's response accepts much of Neidle's diagnosis but argues his design choices —\nparticularly strict revenue neutrality and a pure land-only base — make the transition\nharder than it needs to be, and proposes an alternative design.\n\n## Points of"
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": false,
-   "sentence": "**Neidle's account of what's broken about council tax is incomplete.** The Foundation\n   contends the most economically damaging feature of the current system is not simply that\n   it is regressive or based on stale 1991 valuations, but that it leaves the **bulk of\n   land value in private hands** rather than capturing it for public benefit — the core\n   [unearned increment](/wiki/unearned-increme"
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": false,
-   "sentence": "The Foundation argues this hybrid moderates the regional disparities a pure land value\ntax produces — the same north-south capitalization swing Neidle's modelling finds (sharp\nfalls in London-area property values, rises in cheaper regions) — while eliminating the\nsubjective building-valuation step that is the weakest link in a pure LVT's\nadministrability."
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": false,
-   "sentence": "Its own framing is candid about the tradeoff: \"proponents of LVT should\nremain flexible on the question of the precise form of tax that is to be introduced,\"\npreferring \"a gradual, but steady and, above all, *patient*, roll-out\" over the cleanest\ntheoretical design.\n\n## Relation to the Georgist Case\n\nThis is a useful counterpoint to keep alongside the TPA/Neidle model already on the wiki:\nit comes"
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": false,
-   "sentence": "Whether\na \"statutory building charge\" retains LVT's efficiency properties depends on how closely\nthe formula tracks actual building value — a question the Foundation's piece raises but\ndoes not resolve empirically.\n\n## Bears On\n\n- **Research:** [Tax Policy Associates: What Would a Land Value Tax Actually Do?](/wiki/tpa-what-would-lvt-do/) — the model this piece directly responds to; read together "
-  },
-  {
-   "name": "Henry George Foundation (essays)",
-   "lead": true,
-   "sentence": "EXCERPT: The Henry George Foundation (UK)'s critical response to Dan Neidle's Tax Policy Associates LVT model, proposing a hybrid land-value-plus-building-charge design intended to solve the valuation and geographic-burden problems Neidle's revenue-neutral, pure-LVT model runs into."
-  },
-  {
-   "name": "Dan Neidle / TPA",
-   "lead": true,
-   "sentence": "EXCERPT: The Henry George Foundation (UK)'s critical response to Dan Neidle's Tax Policy Associates LVT model, proposing a hybrid land-value-plus-building-charge design intended to solve the valuation and geographic-burden problems Neidle's revenue-neutral, pure-LVT model runs into."
-  }
- ],
- "research/hou-kumhof-shao-china-lvt-simulation.md": [
-  {
-   "name": "Fred Harrison",
-   "lead": false,
-   "sentence": "The paper's Section II, \"Land Taxation in the History of\nEconomic Thought,\" discusses [Henry George](/wiki/henry-george/) directly, citing *Progress\nand Poverty*, and states that land taxation \"was highly recommended in the late-19th century\nby thinkers including Henry George as an efficient and powerful tax for economic\ndevelopment.\" It also cites [Mason Gaffney](/wiki/mason-gaffney/) and Gaffney"
-  }
- ],
- "research/hoyt-chicago-land-values.md": [
-  {
-   "name": "Akhil Patel",
-   "lead": false,
-   "sentence": "No change needed.\n\n## Relation to the Georgist Case\n\nHoyt's book is a **historical-empirical source for the premise that land markets exhibit a\nrecurring speculative boom-bust cycle** — the phenomenon that the Georgist land-cycle\ntradition (Harrison, [Fred Foldvary](/wiki/fred-foldvary/), Phillip Anderson, [Akhil\nPatel](/wiki/akhil-patel/)) built on and that the wiki's [18-Year Land\nCycle](/wiki/1"
-  },
-  {
-   "name": "Akhil Patel",
-   "lead": false,
-   "sentence": "On p. 417 he writes: \"The exceptional speculative\n  movements in land, commodities, and stocks are separated by long intervals of time, and\n  **there is no definite period of years between one boom and the next.** Chicago land booms\n  have occurred less frequently since 1873 than before, until thirty-five years elapsed from\n  the hectic land market of 1890 to that of 1925.\"[1] Earlier (p. 219) he "
-  },
-  {
-   "name": "Phillip J. Anderson",
-   "lead": false,
-   "sentence": "No change needed.\n\n## Relation to the Georgist Case\n\nHoyt's book is a **historical-empirical source for the premise that land markets exhibit a\nrecurring speculative boom-bust cycle** — the phenomenon that the Georgist land-cycle\ntradition (Harrison, [Fred Foldvary](/wiki/fred-foldvary/), Phillip Anderson, [Akhil\nPatel](/wiki/akhil-patel/)) built on and that the wiki's [18-Year Land\nCycle](/wiki/1"
-  },
-  {
-   "name": "Fred Harrison",
-   "lead": true,
-   "sentence": "## Summary\n\n*One Hundred Years of Land Values in Chicago: The Relationship of the Growth of Chicago to\nthe Rise in Its Land Values, 1830–1933* is the doctoral dissertation of **Homer Hoyt**\n(1895–1984), submitted for his Ph.D. in economics at the **University of Chicago** and\npublished by the University of Chicago Press in 1933 (xxxii + 519 pp., with 103 maps and\n103 data tables).[1][2] It is a pu"
-  },
-  {
-   "name": "Fred Harrison",
-   "lead": false,
-   "sentence": "No change needed.\n\n## Relation to the Georgist Case\n\nHoyt's book is a **historical-empirical source for the premise that land markets exhibit a\nrecurring speculative boom-bust cycle** — the phenomenon that the Georgist land-cycle\ntradition (Harrison, [Fred Foldvary](/wiki/fred-foldvary/), Phillip Anderson, [Akhil\nPatel](/wiki/akhil-patel/)) built on and that the wiki's [18-Year Land\nCycle](/wiki/1"
-  },
-  {
-   "name": "Fred Harrison",
-   "lead": false,
-   "sentence": "On p. 417 he writes: \"The exceptional speculative\n  movements in land, commodities, and stocks are separated by long intervals of time, and\n  **there is no definite period of years between one boom and the next.** Chicago land booms\n  have occurred less frequently since 1873 than before, until thirty-five years elapsed from\n  the hectic land market of 1890 to that of 1925.\"[1] Earlier (p. 219) he "
-  },
-  {
-   "name": "Fred Harrison",
-   "lead": false,
-   "sentence": "**Hoyt's own text does not support a fixed ~18-year period\n  and should not be cited as if it did.**\n- **Hoyt later disavowed the cycle's continued operation entirely — and the cycle\n  literature is built *against* that disavowal.** The 1933 book itself anticipates its own\n  obsolescence: Hoyt writes the events described \"may in the future be of interest only to\n  historians… and the knowledge of "
-  },
-  {
-   "name": "Fred Harrison",
-   "lead": false,
-   "sentence": "He reaffirmed the disavowal in\n  correspondence with Fred Harrison in 1976 and in a 1978 interview at his Washington home,\n  aged 83.[10] Harrison's chapter \"The Hoyt Heist\" (*The Power in the Land*, 1983) is precisely\n  a **rebuttal of Hoyt's disavowal** — Harrison collates appraiser interviews and post-war data\n  to argue the cycle continued despite its discoverer's denial.[10] So the honest seq"
-  },
-  {
-   "name": "Fred Harrison",
-   "lead": false,
-   "sentence": "Notably, this dissertation itself contains an\n  explicit ranking of \"races and nationalities with respect to their beneficial effect upon\n  land values\" (pp. 314–316), placing \"English, Germans, Scotch, Irish, Scandinavians\" first\n  and \"Negroes\" and \"Mexicans\" last — the same land-value-succession thinking Hoyt later\n  carried into FHA appraisal doctrine.[1] The wiki's dedicated\n  [Homer Hoyt](/w"
-  }
- ],
  "research/hudson-lies-of-the-land.md": [
   {
    "name": "Lars Doucet",
@@ -366,6 +253,60 @@
    "name": "Fred Harrison",
    "lead": true,
    "sentence": "EXCERPT: A health-inequality study by epidemiologist George J. Miller that Fred Harrison cites as calculating roughly 50,000 premature deaths a year in England and Wales linked to tax-induced inequality — the strongest quantified mortality claim in the Georgist literature."
+  }
+ ],
+ "research/miller-hoskins-college-town-lvt.md": [
+  {
+   "name": "Stephen Hoskins",
+   "lead": true,
+   "sentence": "**Stephen Hoskins**, a PPI researcher, authored *A Land Value Tax Shift for Princeton, NJ*, splitting Princeton's 2024 municipal rate of $0.578/$100 of total value into **$0.860/$100 of land value plus $0.291/$100 of improvement value**."
+  },
+  {
+   "name": "Stephen Hoskins",
+   "lead": false,
+   "sentence": "Hoskins's stated rule of thumb: \"homeowners whose house is worth more than half of their total property value will enjoy a tax cut, whereas those for whom land is the majority of property value will see their taxes rise.\" One named example: a permitted-but-unbuilt redevelopment site (12% building share) rises 37%, to $15,288 — the largest single-property dollar increase in the dataset."
+  },
+  {
+   "name": "Stephen Hoskins",
+   "lead": false,
+   "sentence": "Unlike Bowman & Bell, a National Tax Journal replication designed to test whether a prior finding generalized, Miller and Hoskins work for the advocacy organizations commissioning the reports and wrote them to demonstrate that a shift benefits development and (in South Bend) lower-income areas."
+  },
+  {
+   "name": "Greg Miller / P&P newsletter",
+   "lead": true,
+   "sentence": "## Summary\n\nThis entry covers two linked, revenue-neutral parcel-level tax-shift simulations, jointly announced on the [Progress and Poverty Institute](/wiki/progress-and-poverty-institute/) (PPI) blog: \"New Reports: Land Value Taxes in College Towns.\" **Greg Miller**, president of the **Center for Land Economics** (CLE), led *Toward Smarter Taxation* (dated April 25, 2025), a South Bend, Indiana "
+  }
+ ],
+ "research/miller-on-fairness-and-efficiency.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "The wiki's book-discovery process\nsurfaced a work referred to as **\"Miller (2000), *On Fairness and\nEfficiency*\"** inside two of Fred Harrison's books — *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (reported\nat Ch. 8.1) and *[Boom Bust](/wiki/harrison-boom-bust/)* (reported at Ch. 5\n§2) — used there, per the discovery locator, to support (1) an\nepidemiological-style argument connecting the priv"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Miller whose related study *[Dying for Justice](/wiki/miller-dying-for-justice/)*\nHarrison also cites."
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "What remains open is not the book's existence but the\n**claim-level** accuracy of Harrison's characterization of it: this session\nconfirmed the bibliographic record but did not read Miller's text directly, so\nthe specific health/class-gradient argument attributed to it below should be\nchecked against the book itself before being cited as established."
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "The **5%-interest / ~14-year mechanism** is\nindependently and directly documented from Harrison's own text: *Boom Bust*\nCh. 5 §2 (pp. 75–76, Table 5.3) derives the growth-phase length from the\nhistorical ~5% long-run interest rate and adult working-life expectancy,\nciting period sources (Weber's Glasgow data, Clay's 17th–18th century land\nprice data) that the wiki's [Boom Bust book page](/wiki/har"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "It must still be read directly\nbefore its specific findings are asserted as fact, since the account above\nrests on Harrison's secondary characterization rather than on Miller's text."
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "EXCERPT: George Miller's 2000 Policy Press book arguing that the privatisation of publicly-created income — chiefly land rent — over the past millennium underlies class gradients in health and life expectancy; cited by Fred Harrison and now located and bibliographically verified."
   }
  ]
 }

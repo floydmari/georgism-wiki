@@ -15,7 +15,7 @@ last_reviewed: 2026-08-10
 
 ## Overview
 
-"Site Value Taxation Policy in Kenya: Unravelling the African Legacy of Georgist Political Economy" is a 2026 article by **Owiti A. K'Akumu** (Department of Real Estate, University of Nairobi; ORCID [0000-0002-0419-5437](https://orcid.org/0000-0002-0419-5437)) in the *Journal of Asian and African Studies*, vol. 61, issue 2, pp. 1171–1186 (first published online 23 January 2025, print issue March 2026), doi:[10.1177/00219096251313544](https://doi.org/10.1177/00219096251313544).[1] Re-checked 2026-08-10: no open-access copy was located — Unpaywall confirms `is_oa: false`, direct SAGE fetch returns a paywall, and the author's own Academia.edu profile page (uonbi.academia.edu/OAKAkumu) returned an access error rather than a paper listing. K'Akumu has an earlier, related 1999 paper, "Land Taxation Policy in Kenya" (*Journal of Property Tax Assessment & Administration*), archived in the University of Nairobi's institutional repository, but its record page is a JavaScript-rendered catalogue entry the wiki could not extract text from either, and it is a distinct, earlier work rather than a preprint of the 2026 paper — it is not used as a substitute source here.[3] This page is built from the published abstract, which is unusually detailed and substantive. Claims beyond the abstract are marked `[VERIFY]`.
+"Site Value Taxation Policy in Kenya: Unravelling the African Legacy of Georgist Political Economy" is a 2026 article by **Owiti A. K'Akumu** (Department of Real Estate, University of Nairobi; ORCID [0000-0002-0419-5437](https://orcid.org/0000-0002-0419-5437)) in the *Journal of Asian and African Studies*, vol. 61, issue 2, pp. 1171–1186 (first published online 23 January 2025, print issue March 2026), doi:[10.1177/00219096251313544](https://doi.org/10.1177/00219096251313544).[1] The article is closed access: no open-access copy has been located as of 2026-08-10, and no self-archived copy appears on the author's Academia.edu profile. K'Akumu has an earlier, related 1999 paper, "Land Taxation Policy in Kenya" (*Journal of Property Tax Assessment & Administration*), archived in the University of Nairobi's institutional repository, but it is a distinct, earlier work rather than a preprint of the 2026 paper, and is not used as a substitute source here.[3] This entry therefore rests on the published abstract — which is unusually detailed and substantive — together with the paper's publisher-deposited reference list; where it goes beyond what those support, it says so.
 
 ## Findings (per abstract)
 
@@ -27,8 +27,8 @@ The wiki's most substantial existing Africa source is [Franzsen & McCluskey's *P
 
 ## What the Paper Builds On
 
-Crossref carries the publisher-deposited reference list for this article in full — 87
-entries, read via the Crossref API on 2026-08-25. Its bibliography spans three broad
+The publisher-deposited reference list for this article — 87 entries — is available in
+full through Crossref, and has been read in full. Its bibliography spans three broad
 clusters. First, primary Georgist sources: [Henry George](/wiki/henry-george/)'s
 *Progress and Poverty* (cited in a 1957 edition) and his 1890 pamphlet *The Single Tax:
 What It Is and Why We Urge It*, alongside [David Ricardo](/wiki/david-ricardo/)'s
@@ -51,9 +51,9 @@ question raised just below.
 
 ## Standing and Limits
 
-- **Abstract-only scan; closed access.** [VERIFY: full text unread. Re-confirmed closed on 2026-08-10 via Unpaywall (`is_oa: false`), a direct SAGE fetch (paywalled), and the author's own Academia.edu profile (access error, no self-archived copy found). The publisher-deposited reference list (87 entries) was read in full via Crossref on 2026-08-25 — see "What the Paper Builds On" above — which narrows the gap to the body text specifically, not the paper's scope or scholarly context.] The mechanism of transmission (how, specifically, "the British Liberal Party" carried the idea from South Africa to Kenya; what documents or officials mediated it) is asserted in the abstract but not detailed there — the paper's body presumably supplies the archival evidence.
+- **Abstract-only scan; closed access.** The full text sits behind a paywall and has not been read; the abstract and the deposited reference list (see "What the Paper Builds On" above) are the basis for this entry, which leaves the body text specifically — rather than the paper's scope or scholarly context — unexamined. The mechanism of transmission (how, specifically, "the British Liberal Party" carried the idea from South Africa to Kenya; what documents or officials mediated it) is asserted in the abstract but not detailed there — the paper's body presumably supplies the archival evidence.
 - **Single-country case study.** Like the wiki's other place-based case studies (see the wiki's categorization convention), this is one jurisdiction's history, not a comparative African survey — Franzsen & McCluskey remains the wiki's broader African source.
-- **Rated Supplementary / Light scan depth** given closed access; a `[DEEPEN-SCAN tier:T2]` candidate if institutional access to the *Journal of Asian and African Studies* becomes available.
+- **Rated Supplementary, at a light scan depth** given closed access; the paper warrants a fuller reading if institutional access to the *Journal of Asian and African Studies* becomes available.
 
 ## Bears On
 
@@ -68,7 +68,7 @@ question raised just below.
 
 ## Sources
 
-1. Owiti A. K'Akumu, "Site Value Taxation Policy in Kenya: Unravelling the African Legacy of Georgist Political Economy," *Journal of Asian and African Studies*, 61(2), 2026, 1171–1186, doi:[10.1177/00219096251313544](https://doi.org/10.1177/00219096251313544) — used for all findings on this page (SAGE abstract page read in full, including keywords and author affiliation; confirmed closed-access via Unpaywall, OpenAlex, and a direct SAGE fetch, no OA copy located as of 2026-08-10). [Crossref record](https://api.crossref.org/works/10.1177/00219096251313544) · [SAGE abstract](https://journals.sagepub.com/doi/abs/10.1177/00219096251313544)
+1. Owiti A. K'Akumu, "Site Value Taxation Policy in Kenya: Unravelling the African Legacy of Georgist Political Economy," *Journal of Asian and African Studies*, 61(2), 2026, 1171–1186, doi:[10.1177/00219096251313544](https://doi.org/10.1177/00219096251313544) — used for all findings on this page (abstract page read in full, including keywords and author affiliation; closed access, with no open-access copy located as of 2026-08-10). [Crossref record](https://api.crossref.org/works/10.1177/00219096251313544) · [SAGE abstract](https://journals.sagepub.com/doi/abs/10.1177/00219096251313544)
 2. Riël Franzsen & William McCluskey, eds., *Property Tax in Africa: Status, Challenges, and Prospects*, Lincoln Institute of Land Policy, 2017 — used for the present-day administrative context of Kenyan and other African land/property taxation. [wiki summary](/wiki/franzsen-mccluskey-property-tax-africa/)
-3. Owiti A. K'Akumu, "Land Taxation Policy in Kenya," *Journal of Property Tax Assessment & Administration*, 1999 — the author's earlier, distinct work on the same general topic, located via the University of Nairobi institutional repository; citation-only (record page could not be text-extracted; not used as a source of claims on this page). [erepository.uonbi.ac.ke/handle/11295/54898](http://erepository.uonbi.ac.ke/handle/11295/54898)
-4. Crossref API record for doi:10.1177/00219096251313544, queried 2026-08-25 — used for the deposited reference list (87 entries), read 2026-08-25. [https://api.crossref.org/works/10.1177/00219096251313544](https://api.crossref.org/works/10.1177/00219096251313544)
+3. Owiti A. K'Akumu, "Land Taxation Policy in Kenya," *Journal of Property Tax Assessment & Administration*, 1999 — the author's earlier, distinct work on the same general topic, located via the University of Nairobi institutional repository; citation-only (not used as a source of claims on this page). [erepository.uonbi.ac.ke/handle/11295/54898](http://erepository.uonbi.ac.ke/handle/11295/54898)
+4. Crossref record for doi:10.1177/00219096251313544 — used for the deposited reference list (87 entries), read 2026-08-25. [https://api.crossref.org/works/10.1177/00219096251313544](https://api.crossref.org/works/10.1177/00219096251313544)

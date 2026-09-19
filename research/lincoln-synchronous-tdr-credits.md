@@ -61,9 +61,9 @@ compensation for the environmental cost of the development that windfall enables
 - **A design/implementation study, not an outcome evaluation.** The paper documents how the
   synchronous TDR/PES mechanism was designed and implemented; it does not report longer-term
   results on revenue raised, conservation outcomes, or market uptake.
-- **Full landing-page content read directly (B-claim).** The paper's working-paper page (not
-  paywalled) was read directly for its methodology and headline findings; the full 27-page
-  paper's detailed valuation methodology was not independently extracted.
+- **This entry rests on the paper's public working-paper page, not the full PDF.** That page
+  (not paywalled) supplies the methodology and headline findings; the full 27-page paper's
+  detailed valuation methodology is not covered here.
 
 ## Bears On
 
@@ -83,8 +83,8 @@ compensation for the environmental cost of the development that windfall enables
 1. Benamy Turkienicz (2026), "Synchronous TDR Credits," Lincoln Institute of Land Policy
    Working Paper, 27 pp., published June 2026.
    [lincolninst.edu](https://www.lincolninst.edu/publications/working-papers/synchronous-tdr-credits/) —
-   fetched and read directly 2026-08-30 (not paywalled) — used for the Gramado, Brazil
+   read 2026-08-30 (not paywalled) — used for the Gramado, Brazil
    masterplan case, the TDR/PES synchronous-implementation design, the Floor Area Ratio
    0.7→2.8 increase, and the "Equivalent Biodiversity Area" valuation concept (B-claim;
-   working-paper landing page and summary read, full 27-page methodology not independently
-   extracted).
+   based on the working-paper landing page and summary — the full 27-page methodology was
+   not extracted).

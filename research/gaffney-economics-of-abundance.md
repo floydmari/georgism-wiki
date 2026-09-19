@@ -97,7 +97,7 @@ reframe of the real policy question.[1] Selected resolutions, condensed:
 
 ## Standing and Limits
 
-**Claim class.** This is a **D-claim (interpretive/argumentative) essay**, and should
+**Claim class.** This is an **interpretive, argumentative essay**, and should
 be presented on the wiki as "Gaffney argues," never as settled research. It is
 essay-register advocacy writing — informal, aphoristic, self-citing — not a
 peer-reviewed or data-driven paper; its empirical backing lives in the separate Gaffney

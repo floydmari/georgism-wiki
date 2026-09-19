@@ -57,11 +57,10 @@ incidence literature (Mieszkowski, Song & Zenou), most of which is US/UK-anchore
 
 ## Nuances and Limits
 
-- **Full text not independently verified.** Both WebFetch and curl returned bot-blocked
-  responses (Cloudflare "Client Challenge") for the Springer-hosted article this session;
-  this page is built from third-party search-result summaries of the paper's findings, not
-  a direct read. Graded C-claim throughout; **[VERIFY]** flag retained for a future session
-  with different network egress to re-attempt the primary source.
+- **Full text not directly consulted.** The publisher-hosted article was not publicly
+  available at last review; this entry rests on third-party summaries of the paper's
+  findings rather than a direct reading, and its account of the paper remains
+  unconfirmed against the primary source.
 - **A DSGE model, not a natural experiment.** The finding is a calibrated theoretical
   model's prediction, not a reduced-form causal estimate from observed pre/post variation —
   it should be read as a structural mechanism claim consistent with, but not equivalent to,
@@ -89,9 +88,9 @@ incidence literature (Mieszkowski, Song & Zenou), most of which is US/UK-anchore
 
 1. Shiou-Yen Chu (2026), "Property tax incidence and housing market in Taiwan,"
    *International Tax and Public Finance*, DOI 10.1007/s10797-026-09991-3.
-   [doi.org](https://doi.org/10.1007/s10797-026-09991-3) — fetch blocked (Cloudflare
-   "Client Challenge") to both WebFetch and curl this session 2026-08-25; summary drawn
-   from third-party search-result descriptions of the paper — used for the DSGE model's
-   2011–2015 Taiwan calibration, the owner-occupier/speculator distinction, and the
-   recurring-tax-durable-vs-transfer-tax-transient central finding (C-claim; **[VERIFY]**
-   against primary source when accessible, no verbatim quotation offered).
+   [doi.org](https://doi.org/10.1007/s10797-026-09991-3) — full text not accessible at
+   last review (2026-08-25); summary rests on third-party descriptions of the paper
+   — used for the DSGE model's 2011–2015 Taiwan calibration, the
+   owner-occupier/speculator distinction, and the
+   recurring-tax-durable-vs-transfer-tax-transient central finding (C-claim;
+   unconfirmed against the primary source, no verbatim quotation offered).

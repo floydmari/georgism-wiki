@@ -75,10 +75,9 @@ wiki's citation of those papers can point to the general theorem underneath them
 - **No land in this paper.** Included in the wiki's Hirano-Stiglitz coverage for
   completeness and because it is the direct theoretical foundation the land papers build
   on, not because it makes a land-specific claim itself.
-- **Abstract-level scan.** Both the NBER PDF and the Oxford Academic PDF were blocked
-  (403/Cloudflare challenge) on every fetch method tried this session; this page is built
-  from the published abstract and search-result characterizations of the paper's three
-  results.
+- **Abstract-level scan.** Neither the working-paper PDF nor the journal PDF is publicly
+  accessible; this entry rests on the published abstract and secondary descriptions of
+  the paper's three results.
 - **Highly technical, general-equilibrium theory.** This is pure mathematical economics;
   it makes no empirical or policy claim on its own.
 
@@ -99,9 +98,9 @@ wiki's citation of those papers can point to the general theorem underneath them
    multiplicity of steady states and momentary equilibria, and economic fluctuations,"
    *Oxford Review of Economic Policy* 41(2): 260–290. [DOI:
    10.1093/oxrep/graf026](https://doi.org/10.1093/oxrep/graf026) · also [NBER Working
-   Paper 34193](https://www.nber.org/papers/w34193) — abstract and search-result
-   characterization retrieved 2026-08-18; both the NBER PDF and the Oxford Academic PDF
-   were blocked on every fetch method tried — used for the three-result structure
+   Paper 34193](https://www.nber.org/papers/w34193) — abstract read 2026-08-18; neither
+   the NBER nor the Oxford Academic full text was accessible at that review, so the
+   account rests on the abstract and secondary descriptions — used for the three-result structure
    (multiple steady states; multiple momentary equilibria; complex-but-bounded
    fluctuations), the "quite general conditions... general utility and production
    functions" framing, and the paper's role as the mathematical foundation for the wider

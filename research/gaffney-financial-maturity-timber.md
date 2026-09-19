@@ -31,14 +31,14 @@ year: 1957
 "Concepts of Financial Maturity of Timber and Other Assets" is a September 1957
 monograph by Mason Gaffney, published as **A.E. Information Series No. 62** of the
 Department of Agricultural Economics, North Carolina State College, Raleigh, NC,
-where Gaffney was then junior faculty in the Department of Economics.[1] `[VERIFY:
-this page corrects a common characterization — the monograph is sometimes loosely
-described as Gaffney's "Duke dissertation-era" work; the document itself states no
-Duke affiliation, and Gaffney's actual PhD dissertation, "Land Speculation as an
-Obstacle to Ideal Allocation of Land" (UC Berkeley, 1956), is a separate work. This
-monograph was written the year after that dissertation, while Gaffney held his
-first faculty post at NC State — "dissertation-era" in the loose sense of timing,
-not in the sense of being the dissertation itself or a Duke production.]`[2] It
+where Gaffney was then junior faculty in the Department of Economics.[1] The
+monograph is sometimes loosely described as Gaffney's "Duke dissertation-era"
+work; the document itself states no Duke affiliation, and Gaffney's actual PhD
+dissertation, "Land Speculation as an Obstacle to Ideal Allocation of Land" (UC
+Berkeley, 1956), is a separate work. The monograph was written the year after that
+dissertation, while Gaffney held his first faculty post at NC State —
+"dissertation-era" in the loose sense of timing, not in the sense of being the
+dissertation itself or a Duke production.[2] It
 carries no explicit Georgist framing and does not mention Henry George — it is a
 technical contribution to forest economics and capital theory, addressed to
 economists and foresters, not a piece of Georgist advocacy.[1]
@@ -187,11 +187,11 @@ Gaffney or this wiki:
   (Amacher 2012), the single most influential article in modern forest
   economics; it takes up and validates the Faustmann/site-rent solution Gaffney's
   1957 monograph had already worked out independently, citing Gaffney among the
-  economists who anticipated the correct formulation.[8][3] `[VERIFY: this page
-  was unable to access the full text of Samuelson (1976) directly — paywalled —
-  to quote his citation of Gaffney verbatim; the claim rests on secondary sources
-  (Newman 2002, Amacher 2012 abstracts, and Gaffney's own 2008 account) rather
-  than a direct read of Samuelson's text.]`
+  economists who anticipated the correct formulation.[8][3] Samuelson's full text
+  is paywalled and his citation of Gaffney is therefore not quoted verbatim here;
+  the claim rests on secondary sources (Newman 2002, Amacher 2012 abstracts, and
+  Gaffney's own 2008 account) rather than on a direct reading of Samuelson's
+  text.
 
 **Honest caveat on scope.** The monograph's academic importance is squarely
 within forest/capital economics, not within the Georgist policy literature per se
@@ -249,16 +249,16 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
    A.E. Information Series No. 62, Department of Agricultural Economics, North
    Carolina State College, Raleigh, NC, September 1957 — used for the entire
    page's description of the monograph's argument, the tax-effects analysis, and
-   the too-long-rotations argument. Text OCR'd and mirrored to
-   `sources/gaffney/text/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.txt`
-   this session; all direct quotations verified against the OCR text, which was
-   itself spot-checked against the source PDF. `[VERIFY: OCR quality is imperfect
-   in the mathematical/formula passages — this page avoids quoting or restating
-   the equations themselves and relies only on prose passages, which OCR'd
-   cleanly.]`
+   the too-long-rotations argument. Read in full (2026-07-18) from a transcription
+   held at
+   `sources/gaffney/text/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.txt`;
+   all direct quotations verified against that transcription, which was itself
+   spot-checked against the source PDF. Transcription quality is imperfect in the
+   mathematical and formula passages, so this page avoids quoting or restating the
+   equations themselves and relies only on the cleanly transcribed prose.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf) ·
    [archived](https://archive.progress.org/gaffney/publications/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.pdf)
-   (both verified reachable this session); local mirror at `sources/gaffney/`.
+   (both reachable at last review); local mirror at `sources/gaffney/`.
 2. Mason Gaffney's website, dissertation page — used for the PhD dissertation
    title ("Land Speculation as an Obstacle to Ideal Allocation of Land," UC
    Berkeley, 1956) that this page distinguishes from the 1957 timber monograph.
@@ -266,16 +266,16 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
 3. Paul A. Samuelson (1976), "Economics of Forestry in an Evolving Society,"
    *Economic Inquiry* 14(4): 466-492 — used for the landmark 1976 paper that
    endorsed the Faustmann/site-rent solution Gaffney's monograph anticipated;
-   accessed only via secondary-source summaries (see the `[VERIFY]` note above).
+   accessed only via secondary-source summaries (see the caveat above).
    [Wiley (paywalled)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.1976.tb00437.x)
 4. Mason Gaffney (2008), "Keeping Land in Capital Theory: Ricardo, Faustmann,
    Wicksell, and George," *American Journal of Economics and Sociology* 67(1):
    119–142 — used for Gaffney's own retrospective account of the 1957-76 "flurry of
    interest" in reviving Faustmann, the Hirshleifer/Samuelson reception, and the
-   explicit George connection. Corrected issue number (previously miscited as
-   67(2)) and quotation re-verified this session directly against the
-   masongaffney.org PDF — image-only scan, no embedded text layer; read via a full
-   250dpi Tesseract 5.3.4 re-OCR (`sources/gaffney/text/K2008_Keeping_Land_in_Capital_Theory.txt`).
+   explicit George connection. Issue number and quotation verified (2026-07-18)
+   against the masongaffney.org PDF, an image-only scan read in full via the
+   transcription at
+   `sources/gaffney/text/K2008_Keeping_Land_in_Capital_Theory.txt`.
    The Clark/Knight-vs-Austrians "period of production" material and Wicksell's
    three capital-theory contributions from this same paper are folded into
    [concepts/marginal-productivity](/wiki/marginal-productivity/) rather than here, to
@@ -284,8 +284,8 @@ Economics*, *Two Centuries of Economic Thought on Taxation of Land Rents*, or
    [Full PDF (masongaffney.org)](https://masongaffney.org/publications/K2008_Keeping_Land_in_Capital_Theory.pdf) ·
    [AJES (paywalled)](https://onlinelibrary.wiley.com/doi/10.1111/j.1536-7150.2007.00562.x)
 5. Semantic Scholar, paper record for "Concepts of financial maturity of timber
-   and other assets" (Gaffney) — used for the 81-citation count (accessed via API
-   this session; Semantic Scholar dates the record 1960, likely a later
+   and other assets" (Gaffney) — used for the 81-citation count (consulted
+   2026-07-18; Semantic Scholar dates the record 1960, likely a later
    reprint/second-printing entry rather than the original 1957 first printing).
    [Semantic Scholar API record, CorpusId 151069476]
 6. Robert O. McMahon & Donald F. Flora (1963), "Concepts of Financial Maturity of

@@ -97,7 +97,7 @@ manager's value-added, leaving investors with only the ordinary market return. *
 wiki notes, without adopting Cochrane's framing, that this is structurally close to
 a description of rent flowing to a scarce factor (managerial skill) rather than
 being competed away to customers** — the same quasi-rent-to-scarce-talent pattern
-[EDITORIAL's rent gradient](/wiki/geoism/) flags as the Schumpeterian, harder-to-tax
+the wiki's [rent gradient](/wiki/geoism/) flags as the Schumpeterian, harder-to-tax
 frontier case. Cochrane and a rent-extraction reading can agree on the mechanism and
 disagree only about whether "rent to scarce skill in a competitive market for that
 skill" counts as the kind of rent geoist policy should target.
@@ -194,6 +194,6 @@ other.
    fishing ground" concession on regulation/subsidy/capture; the regulatory-arbitrage
    characterization of some mortgage-backed-security innovation; the high-frequency-trading
    skepticism and Flash Crash discussion; and the Lucas (2000) "1 percent of GDP too
-   big" citation (B- and D-claims; verified against the full PDF this session).
+   big" citation (B- and D-claims; all quotations verified against the full text).
    [Author PDF](https://johnhcochrane.com/s/Cochrane_jep_function_size_final.pdf) ·
    [AEA (open access)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.29)

@@ -74,10 +74,10 @@ implementation can fail, worth keeping distinct in the wiki's growing catalogue 
   analysis around one transit project in one city; its conclusions are about mechanism and
   process, not a quantifiable estimate of how much LVC revenue Jakarta actually lost to
   the coordination failures it documents.
-- **Abstract-level scan.** This page is built from the publisher's abstract (fetched via
-  the University of Groningen research repository); the paper's full case evidence,
-  interview quotations, and specific instrument-by-rights-holder mapping were not
-  independently obtained this session.
+- **Abstract-level sourcing.** This entry rests on the publisher's abstract, as posted in
+  the University of Groningen research repository; the paper's full case evidence,
+  interview quotations, and specific instrument-by-rights-holder mapping have not been
+  consulted.
 
 ## Bears On
 
@@ -98,8 +98,8 @@ implementation can fail, worth keeping distinct in the wiki's growing catalogue 
    land rights under government-led decentralization: Implications for land value capture
    implementation in Jakarta, Indonesia," *Land Use Policy* (December 2026).
    [research.rug.nl](https://research.rug.nl/en/publications/layered-land-rights-under-government-led-decentralization-implica/) —
-   abstract fetched and read 2026-08-17 — used for the paper's method (qualitative,
+   abstract read 2026-08-17 — used for the paper's method (qualitative,
    interviews and regulatory-document analysis), the Jakarta MRT case, the
    layered-rights/fragmented-coordination argument, the instrument-to-rights-holder
    mapping contribution, and the three practical recommendations. Scan depth: abstract
-   only (B-claim); the full paper was not independently obtained this session.
+   only (B-claim); the full paper was not consulted.

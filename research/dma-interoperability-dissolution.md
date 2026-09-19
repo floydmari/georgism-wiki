@@ -169,10 +169,10 @@ quality) is the empirical question the next few years will answer.
   it. The analysis is nonetheless the standard reference for the interoperability-as-remedy
   case.
 - **Provenance.** All regulatory quotations (subject matter, gatekeeper criteria, thresholds,
-  Recital 13, and Articles 6(4), 6(7) and 7) were taken verbatim from the consolidated
-  EUR-Lex HTML of CELEX 32022R1925 (fetched and parsed this session). The Kades & Scott Morton
-  abstract and cost passages were taken from the Washington Center for Equitable Growth
-  working paper (via its published abstract and PDF, fetched this session).
+  Recital 13, and Articles 6(4), 6(7) and 7) are taken verbatim from the consolidated
+  EUR-Lex text of CELEX 32022R1925. The Kades & Scott Morton
+  abstract and cost passages are taken from the Washington Center for Equitable Growth
+  working paper.
 
 ## See Also
 
@@ -200,7 +200,7 @@ quality) is the empirical question the next few years will answer.
    (Recital 13); and the interoperability obligations — third-party app stores (Art. 6(4)),
    hardware/OS features (Art. 6(7)), and number-independent messaging with its phased
    text/group/voice/video functionalities (Art. 7) — and all verbatim quotes (A-claims;
-   primary legislative text, fetched and parsed this session).
+   primary legislative text, read in full).
 2. Michael Kades & Fiona Scott Morton (2020), "Interoperability as a competition remedy for
    digital networks," Washington Center for Equitable Growth Working Paper, September 2020.
    [Equitable Growth](https://equitablegrowth.org/working-papers/interoperability-as-a-competition-remedy-for-digital-networks/) ·
@@ -208,4 +208,4 @@ quality) is the empirical question the next few years will answer.
    — used for the analytical case that mandatory interoperability can "overcome the network
    effects that protect the incumbent," the low-incremental-cost point, and the
    "necessary but not sufficient" qualifier (C/D-claims; working paper; Scott Morton's
-   antitrust-consulting disclosure noted; fetched this session).
+   antitrust-consulting disclosure noted; read directly).

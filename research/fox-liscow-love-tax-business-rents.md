@@ -93,12 +93,12 @@ all.
 - **Scoped recommendation, not a general pass-through-vs-corporate verdict.** The paper
   targets partnerships above a complexity threshold specifically; it should not be cited as a
   blanket argument for taxing all business income at the entity level.
-- **Working paper, not yet peer-reviewed.** Posted to SSRN February 2026; not confirmed as
-  accepted at a journal as of this session.
-- **No PDF read directly (B+-claim).** This page is built from a professional tax-law
-  reviewer's direct quotations of the paper (TaxProf Blog, February 2026) and the authors'
-  own plain-language policy summary, cross-checked across multiple independent sources for
-  consistency, but the paper's own PDF was not read directly (SSRN paywall/bot-block).
+- **Working paper, not yet peer-reviewed.** Posted to SSRN February 2026; it has not been
+  confirmed as accepted at a journal.
+- **The paper's own PDF is not publicly accessible.** This summary draws on a professional
+  tax-law reviewer's direct quotations of the paper (TaxProf Blog, February 2026) and the
+  authors' own plain-language policy summary, cross-checked across multiple independent
+  sources for consistency, rather than on a direct reading of the SSRN full text.
 
 ## Bears On
 
@@ -118,7 +118,8 @@ all.
 1. Edward G. Fox, Zachary D. Liscow & Michael Love (2026), "How to Tax Business? Economic
    Rents, Legibility, and the Corporate-Pass-Through Divide," SSRN Working Paper, posted 18
    February 2026, revised 3 March 2026. [papers.ssrn.com/sol3/papers.cfm?abstract_id=6206239](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206239) —
-   fetch blocked (403) to this session 2026-08-28.
+   full text not accessible at last review (2026-08-28) — used for the paper's
+   bibliographic details.
 2. David Elkins, "SSRN Review & Roundup: Elkins Reviews Fox, Liscow & Love's How to Tax
    Business?," *TaxProf Blog*, 20 February 2026 — read in full 2026-08-28 — used for direct
    quotations of the paper's own text on the rent-base/legibility argument, the 670,000-
@@ -126,5 +127,5 @@ all.
    audit-rate gap, the "circuit breaker" phrase, and the scoped "partnerships above a certain
    level of complexity" recommendation (B+-claim; a professional reviewer's direct
    quotations of the primary source, cross-checked against the authors' own TaxVox policy
-   summary and SSRN-abstract-level search snippets recurring identically across independent
-   searches, but the underlying PDF itself was not read).
+   summary and abstract-level descriptions recurring identically across independent
+   sources, though the underlying PDF itself was not read).

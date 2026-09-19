@@ -106,5 +106,4 @@ directly rather than through the synthesis.
    [full-text PDF](https://dors.dk/files/media/publikationer/arbejdspapirer/2017/02_arbejdspapir_land_tax.pdf)
    — used for authorship, the design (2007 reform variation), the
    full-capitalization finding, and the point estimates (2004–07 coefficients,
-   implied 2.3% discount rate, Table 2 price differences); full text read directly
-   in this pass.
+   implied 2.3% discount rate, Table 2 price differences); full text read directly (2026-07-12).

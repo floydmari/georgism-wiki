@@ -85,4 +85,4 @@ large Chinese city and a rent-based (not just price-based) measure.
    [free accepted manuscript, White Rose Research Online](https://eprints.whiterose.ac.uk/id/eprint/239610/) —
    used for the natural-experiment design, the DID rent and price results, the
    distance-gradient finding, and the value-capture conclusion; all quotations verified
-   verbatim against the published abstract this session (2026-07-13).
+   verbatim against the published abstract (2026-07-13).

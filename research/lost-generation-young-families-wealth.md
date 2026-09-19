@@ -103,6 +103,6 @@ is the sharpest single US figure for the scale of the gap.
 2. William R. Emmons, Ana H. Kent & Lowell R. Ricketts, "Why Were Young Families Hit So Hard by the
    Recession?," St. Louis Fed *On the Economy* (31 July 2018).
    [Article](https://www.stlouisfed.org/on-the-economy/2018/july/why-young-families-hit-hard-recession)
-   (fetched and read this session) — used for the verbatim cohort deficit figures (11% / 18% / 34%
+   (read in full, 2026-07-11) — used for the verbatim cohort deficit figures (11% / 18% / 34%
    below expected for the 1964 / 1974 / 1984 cohorts) and the "income and saving ... relatively
    unimportant, while ... debt and homeownership ... loom large" quotation.

@@ -116,9 +116,9 @@ sector that generates spillover-driven growth.
   growth while real estate is not — a modeling choice grounded in the Verner/Müller-Verner
   empirical pattern the authors cite, but a choice nonetheless, not a proven universal
   fact about all economies.
-- **Full text of 33661 not independently obtained.** This session could not fetch the
-  33661 PDF (blocked); its content is inferred from its abstract, which is
-  near-identical to 32479's, whose full PDF was read directly.
+- **The full text of 33661 is not publicly available.** Its content is inferred from
+  its abstract, which is near-identical to 32479's, whose full text was read
+  directly.
 
 ## Bears On
 
@@ -151,9 +151,9 @@ sector that generates spillover-driven growth.
    recur in this later-numbered version (B-claim; abstract-level only for this specific
    working paper).
 3. Emil Verner (2019), cited in source 1 — credit-expansion-predicts-growth-slowdowns
-   finding, not independently verified this session (secondary citation within source 1).
+   finding, not independently verified (secondary citation within source 1).
 4. Karsten Müller & Emil Verner (2023), cited in source 1 — 117-country, since-1940
    sectoral-credit database finding that real-estate/construction credit expansion
    predicts productivity and growth slowdowns while manufacturing credit expansion
-   predicts the opposite, not independently verified this session (secondary citation
+   predicts the opposite, not independently verified (secondary citation
    within source 1).

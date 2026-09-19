@@ -97,7 +97,7 @@ emerge from contested political history rather than being available off the shel
    *Scandinavian Journal of History* 43(2). [DOI](https://doi.org/10.1080/03468755.2018.1430657);
    earlier working draft (2013) full text at
    [eml.berkeley.edu/~webfac/cromer/Lie.pdf](https://eml.berkeley.edu/~webfac/cromer/Lie.pdf)
-   (fetched and read this session) ·
+   (read in full, 2026-07-12) ·
    [University of Oslo DUO record](https://www.duo.uio.no/handle/10852/73945) — used for the
    fund's architecture (revenue channelled to the fund and invested abroad, only the return
    spendable, principal protected), the anti-Dutch-disease purpose and the "well thought-out

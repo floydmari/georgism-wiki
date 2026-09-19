@@ -72,9 +72,8 @@ but not sufficient condition for the "paradox of plenty" to be solved.
 - **Descriptive rather than causal.** The methodology (literature review plus descriptive
   indicator analysis) supports a diagnosis of *what correlates with* better outcomes, not a
   causal estimate of institutional-quality reforms' effect size.
-- **B-claim.** Read via a fetched summary of the paper rather than the full underlying text;
-  specific figures and the complete indicator set were not independently extracted this
-  session.
+- **Summary-level reading.** This entry rests on a summary of the paper rather than its full
+  underlying text; specific figures and the complete indicator set are not reproduced here.
 
 ## Bears On
 
@@ -94,6 +93,6 @@ but not sufficient condition for the "paradox of plenty" to be solved.
    Goods in Azerbaijan," Cambridge Open Engage working paper, posted 24 August 2026 (Climate
    Change and Sustainability community).
    [cambridge.org](https://www.cambridge.org/engage/coe/article-details/6a858048d1922e37d57f58e1) —
-   fetched and read 2026-09-03 — used for the SOFAZ fiscal-capacity finding, the
+   read 2026-09-03 — used for the SOFAZ fiscal-capacity finding, the
    institutional-quality diagnosis, and the transboundary/infrastructure findings (B-claim;
-   summary extraction, not the full working paper text).
+   summary-level, not the full working paper text).

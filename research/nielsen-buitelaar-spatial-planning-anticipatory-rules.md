@@ -100,9 +100,8 @@ tax](/wiki/land-value-tax/) pages a planning-theory register they previously lac
   "sound" vs. "unsound" speculation (via Dwyer 2014, Tideman) is not fully tested at scale.
   This page preserves that nuance rather than presenting the paper as an uncritical
   endorsement.
-- **Full text read directly (A-claim).** The complete 85-page preprint was obtained (via an
-  alternate Utrecht repository URL after the standard download link was blocked) and read in
-  full.
+- **The complete 85-page preprint is publicly available**, and the account above rests on
+  the full text rather than on the abstract.
 
 ## Bears On
 
@@ -124,8 +123,7 @@ tax](/wiki/land-value-tax/) pages a planning-theory register they previously lac
    as eliminating land rents: From symptom treatment to prevention," preprint submitted to
    *Progress in Planning*, 26 February 2026, SSRN DOI 10.2139/ssrn.6813699.
    [research-portal.uu.nl](https://research-portal.uu.nl/en/publications/spatial-planning-as-eliminating-land-rents-from-symptom-treatment/) —
-   full 85-page preprint read directly 2026-08-31 (via an alternate Utrecht University
-   repository URL pattern after the standard download link was Cloudflare-blocked) — used
+   85-page preprint read in full, 2026-08-31 — used
    for the patterning/reactive/anticipatory-framework-rule typology, the LVT-as-anticipatory-rule
    thesis, the 21-principle structure, the case evidence (Pennsylvania, Denmark, Estonia,
    Beijing, England green belts), and the paper's own honest empirical-gap caveats

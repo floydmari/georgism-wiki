@@ -36,18 +36,14 @@ Sociology*, based on a paper delivered at the American Farm Economics
 Association's annual meeting, Stillwater, Oklahoma, August 1965.[1] Both
 parts carry the *AJES* running header directly ("The American Journal of
 Economics and Sociology," pp. 237–250 and 417–424), confirming the venue.
-**Resolved 2026-08-10, with a correction:** the exact volume/issue number
-was not recoverable from the extracted text, so this page previously
-inferred **1966** publication from the 1965 delivery date. The Internet
-Archive's digitized index for *AJES* Volume 26 (1967) confirms Part I
-("The Benefits of Farm Programs: Incidence, Shifting, and Dissipation,"
-Mason Gaffney, p. 237) ran in **No. 3 (July 1967)** and Part II ("...II:
-Incidence, Shifting, and Dissipation," p. 417) ran in **No. 4 (October
+The volume and issue numbers do not appear in the scanned text itself,
+but the Internet Archive's digitized index for *AJES* Volume 26 (1967)
+places Part I ("The Benefits of Farm Programs: Incidence, Shifting, and
+Dissipation," Mason Gaffney, p. 237) in **No. 3 (July 1967)** and Part II
+("...II: Incidence, Shifting, and Dissipation," p. 417) in **No. 4 (October
 1967)** — both page numbers matching this page's citation exactly. The
-correct publication year is therefore **1967**, not 1966 (a two-year gap
-from the 1965 conference delivery, longer than this page previously
-assumed); the year has been corrected throughout this page's frontmatter
-and citations.
+publication year is therefore **1967**, two years after the 1965 conference
+delivery.
 
 Gaffney applies classical Ricardian rent theory to a subject rarely analyzed
 that way at the time: US federal agricultural policy. His central claim,
@@ -77,7 +73,7 @@ argues the reason land specifically is the input restricted — rather than
 labor, or capital equipment — is precisely that land-idling payments are the
 only cartel-restriction mechanism where the party bearing the output cut is
 *paid* for it: "the oil man idles his well at his own expense. The farm
-landowner gets paid for idling land."[1] (D-claim; Gaffney's own
+landowner gets paid for idling land."[1] (Gaffney's own
 Ricardian-incidence argument, attributed.)
 
 ## Rural Public Works as Land-Value Capitalization — A Pre-1970s Case
@@ -95,7 +91,7 @@ submarginal rural extensions from a dense urban rate base; disproportionate
 per-capita federal highway mileage in sparsely populated states (quoting
 Senator Albert Beveridge's phrase, "the free coinage of western senators");
 Rural Free Delivery mail service; and Agricultural Conservation Program
-cost-sharing for erosion control and land improvement.[1] "The proximate beneficiaries of submarginal extensions are clearly those whose lands they serve... to enjoy the benefit, one must locate where it is to be had, and of course pay the price in rent or land value."[1] (B-claim; Gaffney's own
+cost-sharing for erosion control and land improvement.[1] "The proximate beneficiaries of submarginal extensions are clearly those whose lands they serve... to enjoy the benefit, one must locate where it is to be had, and of course pay the price in rent or land value."[1] (Gaffney's own
 descriptive survey of federal program design, not econometrically tested in
 this paper.)
 
@@ -114,7 +110,7 @@ than improve it) directly raises the land value derived from a given rent
 stream. He also notes agricultural land eligible for mineral rights sees
 farm real-estate values dominated by oil-royalty and lease-bonus
 expectations, running "$2 to $3 billions yearly" nationally at the time of
-writing. (C-claim; Gaffney's own mechanism argument, attributed — no
+writing. (Gaffney's own mechanism argument, attributed — no
 econometric estimate of the subsidized-credit effect's magnitude is offered
 in this paper.)
 
@@ -151,7 +147,7 @@ the leverage structure of marginal-asset returns — a novel contribution to
 the wiki's political-economy-of-rent-seeking coverage, distinct from the
 general talent-allocation and institutional-capture arguments already
 anchoring [problems/rent-seeking-drags-growth](/wiki/rent-seeking-drags-growth/).
-(C-claim; Gaffney's own original theoretical concept, with a worked
+(Gaffney's own original theoretical concept, with a worked
 numerical illustration; not independently tested.)
 
 ## Dissipation: Why the Benefits Do Not Actually Accrue
@@ -174,7 +170,7 @@ what would have prevailed absent the programs at all — "the landowners'
 deferred retribution."[1] His summary judgment: "the aggregate loss exceeds
 the gain by a wide margin... we deny ourselves full advantage of our landed
 heritage... We produce at real human cost what nature wants to yield freely
-above our efforts."[1] (D-claim; Gaffney's own political-economy synthesis,
+above our efforts."[1] (Gaffney's own political-economy synthesis,
 attributed — not a formal cost-benefit estimate.)
 
 ## Standing and Limits
@@ -187,15 +183,15 @@ attributed — not a formal cost-benefit estimate.)
   qualitative survey, not an econometric decomposition. He does cite
   contemporaneous quantitative work (Boxley & Gibson on peanut allotments,
   Hedrick on tobacco-allotment sale values) for the underlying
-  capitalization-into-quota-value finding, but the wiki has not
-  independently verified those cited studies.
+  capitalization-into-quota-value finding, but those cited studies are not
+  re-examined here.
 - **Historical specificity.** The specific programs discussed (1960s
   commodity price supports, reclamation-era acreage caps, 1960s rural
   electrification and credit agencies) are historical US policy, not a
   general theory of subsidy incidence tested across countries or eras — cite
   it as a period case study of the capitalization-and-dissipation mechanism,
   not as evidence the pattern holds universally.
-- **OCR provenance.** Native, `pdftotext`-extractable text layer with
+- **Provenance.** The scanned PDF carries a machine-readable text layer with
   scanning-era OCR noise (e.g. "MAsoN WnNEY" for "Mason Gaffney" on the
   byline, "Maccia don" for "Association"); quotations checked against
   surrounding context before use. Local mirror:
@@ -232,10 +228,10 @@ attributed — not a formal cost-benefit estimate.)
    Association annual meeting, Stillwater, Oklahoma, August 1965 — used for
    the entire page: the landowner-incidence argument, the rural-public-works
    capitalization catalogue, the subsidized-credit mechanism, the
-   "intensity quotient" concept, and the dissipation analysis. Native,
-   `pdftotext`-extractable text (no OCR needed); volume/issue/date resolved
-   2026-08-10 against the Internet Archive's digitized index for *AJES*
-   Volume 26 (1967) — a correction from this page's earlier 1966 estimate.
+   "intensity quotient" concept, and the dissipation analysis. Read in full
+   from the machine-readable text layer of the scanned PDF; volume, issue
+   and date established 2026-08-10 against the Internet Archive's digitized
+   index for *AJES* Volume 26 (1967).
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/D3-BenefitsofFarmPrograms.CV.CV.pdf`;

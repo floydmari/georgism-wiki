@@ -39,7 +39,7 @@ The essay is a *synthesis and popularization*, not original research — its emp
    Game of Rent — used for the modern popular restatement of George's argument (a
    synthesis/navigation source; its primary claims are cited to their own sources on
    the pages they support) and for the quoted passages in "What the Review Argues"
-   (the review's full text was fetched and the quotes verified verbatim this session).
+   (full text read and the quotes verified verbatim, 2026-07-12).
    Published as contest finalist [on ACX, 16 Apr 2021](https://www.astralcodexten.com/p/your-book-review-progress-and-poverty); republished at [Game of Rent](https://gameofrent.com/content/progress-and-poverty-review).
 2. Scott Alexander, "Book Review Contest: Winners," *Astral Codex Ten*, 10 Jul 2021. [astralcodexten.com](https://www.astralcodexten.com/p/book-review-contest-winners) — used for Doucet's review taking **first place** and the biographical framing ("Norwegian-Texan game designer... a pretty serious Georgist").
 3. Lars Doucet, "Does Georgism Work? Part 1: Is Land Really A Big Deal?" *Astral Codex Ten*, 9 Dec 2021. [astralcodexten.com](https://www.astralcodexten.com/p/does-georgism-work-is-land-really) — used for the review win leading directly to the guest-authored [*Does Georgism Work?*](/wiki/doucet-does-georgism-work/) series beginning December 2021.

@@ -107,7 +107,7 @@ about stock-market valuations, not location rent.
    activities" composition finding, the asset-management figures ($341.9bn / 2.43% of
    GDP in 2007), the household-credit growth (48%→99% of GDP, "most … residential
    mortgages"), and the authors' own "economic rents" characterization of
-   asset-management pricing (B- and D-claims; verified against the paper this session).
+   asset-management pricing (B- and D-claims; verified against the free HBS full text).
    [Free PDF (HBS)](https://www.hbs.edu/ris/Publication%20Files/Growth%20of%20Finance_6ec86a21-8e68-4abc-bb09-45abaacd7be5.pdf) ·
    [Harvard DASH](https://dash.harvard.edu/entities/publication/6e700e35-ca2f-4393-89d6-2a9b87f526a1) ·
    [AEA (paywalled abstract)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.3)

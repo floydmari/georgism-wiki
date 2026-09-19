@@ -103,8 +103,8 @@ firms entirely.
   Behaghel, Crépon & Gurgand (2014) on job-placement services, but caution this is one domain,
   not a general claim that government assessors reliably outperform private contractors — the paper's
   own diagnosis is procurement-design-specific, not an argument against outsourcing per se.
-- **A-claim.** Full text (introduction, experimental design, results and mechanism sections)
-  read directly from the NBER working paper PDF, not reconstructed from an abstract.
+- **Sourcing.** This entry rests on the full text of the working paper (introduction,
+  experimental design, results and mechanism sections), not on its abstract alone.
 
 ## Bears On
 
@@ -133,4 +133,4 @@ firms entirely.
    PDF, 2026-09-02 — used for the Chennai experimental design, the 84%/54% valuation-increase
    finding, the 87% revenue-per-property gap, the independent third-party accuracy check, the
    worker-experience/education comparison, and the procurement-rigidity mechanism (A-claim;
-   full text read and cross-checked against a second independent extraction of the same PDF).
+   full text read and cross-checked against a second independent copy of the same PDF).

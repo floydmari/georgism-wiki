@@ -88,10 +88,10 @@ ownership rather than by simply asserting a competing value judgment.
 
 ## Nuances and Limits
 
-- **Full text not independently verified beyond the abstract**, which was obtained via
-  search-indexed summary rather than the paywalled Springer article itself; specific textual
-  arguments, objections Forrester considers and rejects, and any formal argument structure
-  are not covered by this page (B-claim; abstract-level).
+- **Only the abstract is publicly available**; the full article sits behind a Springer
+  paywall, and this summary rests on the abstract. Specific textual arguments, objections
+  Forrester considers and rejects, and any formal argument structure are therefore outside
+  the scope of this page.
 - **A philosophical argument, not an empirical claim** — this paper contributes to
   distributive-justice theory, not to any empirical question about land markets or tax
   incidence.
@@ -119,9 +119,9 @@ ownership rather than by simply asserting a competing value judgment.
 1. Paul Forrester (2026), "Property Rights and Natural Resources," *Law and Philosophy*,
    published 20 May 2026, DOI 10.1007/s10982-026-09566-7.
    [link.springer.com](https://link.springer.com/article/10.1007/s10982-026-09566-7) — full
-   text behind a Springer paywall/authentication wall, blocked to this session 2026-08-27;
-   summary drawn from the paper's published abstract, obtained via search-indexed source
-   2026-08-27. Used for the Locke value-conflation diagnosis, the community-entitlement
+   text not accessible at last review (2026-08-27), behind a Springer
+   paywall/authentication wall; summary rests on the paper's published abstract
+   — used for the Locke value-conflation diagnosis, the community-entitlement
    argument following George, the self-ownership/Nozick-forced-labor argument, and the
    distinction from left-libertarianism (B-claim; abstract-level, no verbatim quotation
    from the full text offered).

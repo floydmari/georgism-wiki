@@ -1,0 +1,277 @@
+{
+ "research/aei-land-price-indicators.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "## Summary\n\nThe **AEI Land Price and Land Share Indicators** are a US dataset published by the [American Enterprise Institute](https://www.aei.org/housing/land-price-indicators/) Housing Center that estimate, for the residential stock, what share of a home's value is **land** rather than **structure**, down to the census-tract, ZIP-code, county and metro level.[1] [Lars Doucet](/wiki/doucet-does-g"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "The land share ratio may now be calculated.\"[2] Structure value is assumed to grow with inflation (\"we assume that the structure value increases at the rate of inflation as the physical structure does not change much\"), and depreciation/obsolescence is \"presumed to be small and therefore not taken into consideration.\"[2] AEI motivates the focus on land by noting land is \"the much more volatile com"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "This is the same residual-method limitation the [mass-appraisal-methods](/wiki/mass-appraisal-methods/) page flags for assessors.\n- **Not independently re-verified here.** The specific **70.9% San Francisco County** figure comes from the AEI *interactive* tool as Doucet read it; it is a live-dataset value, not a static quotation, and is recorded here as Doucet's cited number rather than one this p"
+  }
+ ],
+ "research/ahmadi-ghenis-uk-council-tax-lvt-microsimulation.md": [
+  {
+   "name": "PolicyEngine",
+   "lead": true,
+   "sentence": "## Summary\n\n\"Replacing Council Tax With a Land Value Tax: A Household-Level Microsimulation for the UK,\"\nby **Vahid Ahmadi** (Research Associate, PolicyEngine; LSE) and **Max Ghenis** (Founder/CEO,\nPolicyEngine), is an SSRN working paper built on **PolicyEngine UK**, an open-source tax-benefit\nmicrosimulation model, run against the **Enhanced Family Resources Survey (FRS) 2023–24**."
+  },
+  {
+   "name": "PolicyEngine",
+   "lead": true,
+   "sentence": "The paper reports that \"two thirds of\nhouseholds gain under the central incidence treatment (63 to 76 per cent across defensible\nalternatives), and incidence is organised by wealth rather than income.\"\n\nA companion blog analysis by the same PolicyEngine team, published on the *Progress and\nPoverty* Substack, works through a related single-scenario dashboard using the same\nunderlying model and data"
+  },
+  {
+   "name": "PolicyEngine",
+   "lead": false,
+   "sentence": "Income inequality is barely affected (Gini rises 0.11%), because — as the analysis frames\nit — the tax tracks **wealth** (Gini 0.70) far more than **income** (Gini 0.37).\n\n## Two Related but Distinct Figures\n\nThe SSRN paper's own headline numbers (0.79% rate, £58.5bn, 63–76% of households gaining\nacross scenarios) differ modestly from the blog's single-scenario figures (0.77%, £57.6bn,\n68% gaining"
+  },
+  {
+   "name": "PolicyEngine",
+   "lead": true,
+   "sentence": "EXCERPT: A PolicyEngine microsimulation replacing UK council tax — still assessed on 1991 valuations — with a flat land value tax finds roughly two-thirds of households gain, with losses concentrated in the top wealth deciles; the burden tracks wealth (Gini 0.70) far more than income (Gini 0.37), and absolut"
+  }
+ ],
+ "research/almy-oecd-valuation-assessment.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "And who values?\"[1]\n\nFor the wiki it matters as the source behind two numbers Doucet cites second-hand — the per-property cost of a mass-appraisal system, and the typical accuracy of such systems — and as the authoritative statement that mass valuation is routine international practice, not a Georgist aspiration.\n\n## What It Establishes\n\n- **Cost per property (~EUR 20).** In a discussion of when a"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "**A precision correction to the retelling.** Doucet's *[Does Georgism Work?](/wiki/doucet-does-georgism-work/)* summarises this as \"~EUR 20 per property (≈1% of receipts).\" The EUR 20 is verbatim correct."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "The EUR 20 is an absolute per-property figure and does not itself translate to a fixed revenue share — that depends on the tax rate and property values (Almy's Table 3 shows a high-quality system is \"completely uneconomic\" at effective rates around 0.01% and \"easily justifiable only when effective tax rates reach at least 1 per cent\").[1] For context, Doucet's *Land Is a Big Deal* (Ch. 24) sets th"
+  }
+ ],
+ "research/anderson-kyoto-cultural-monopoly-rent.md": [
+  {
+   "name": "Phillip J. Anderson",
+   "lead": true,
+   "sentence": "It extends [class monopoly rent](/wiki/ground-rent/) theory —\nAnderson's own prior work applies the concept to Portland's Pearl District (2019) and\nSeattle's South Lake Union (2022) — to a case where the rent-generating asset is not simply\nlocation but a city's *historic character itself*.\n\n## Cultural Monopoly Rent and the Commodification Gap\n\nPer the article's abstract, the paper \"examines how h"
+  },
+  {
+   "name": "Phillip J. Anderson",
+   "lead": false,
+   "sentence": "It is a genuinely novel case study for the wiki's [land\nmonopoly](/wiki/land-monopoly/) and [rentier](/wiki/rentier/) coverage, distinct from the\nplatform/data-rent and financialization cases already documented, and pairs naturally with a\ncompanion study by the same author on Copenhagen's public land development (see Bears On).\n\n## Nuances and Limits\n\n- **Full article body remains paywalled.** The"
+  }
+ ],
+ "research/anderson-landlord-rent-control-class-monopoly.md": [
+  {
+   "name": "Phillip J. Anderson",
+   "lead": true,
+   "sentence": "It is the third entry the wiki now covers in Anderson's\n\"class monopoly rent\" series — after [Kyoto's cultural monopoly\nrent](/wiki/anderson-kyoto-cultural-monopoly-rent/) and [Copenhagen's state monopoly\nrent](/wiki/anderson-dascher-copenhagen-land-rent/) — but with a distinct empirical focus:\nUS landlord political mobilization rather than an urban-development case study.\n\n## The Argument\n\nThe pa"
+  }
+ ],
+ "research/barker-review-housing-supply.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "## Summary\n\nThe **Barker Review of Housing Supply** (interim 2003, final 2004), commissioned\nby the UK Treasury from Bank of England MPC member **Kate Barker**, is the\nofficial diagnosis of Britain's housing shortage as a **land supply and planning**\nproblem: chronically unresponsive housebuilding, and agricultural-to-residential\nland value gaps so large they measure the planning system's scarcity"
+  }
+ ],
+ "research/barnes-sky-trust.md": [
+  {
+   "name": "Peter Barnes",
+   "lead": true,
+   "sentence": "Our Common Assets and the Future of Capitalism* (Island Press, 2001; ISBN 978-1-55963-854-8, hardcover; paperback reprint 2003, ISBN 978-1-55963-855-5) is a book-length policy proposal by **Peter Barnes**, an American entrepreneur and writer who co-founded the socially-responsible financial firm Working Assets (later CREDO) and served on the boards of organizations including Greenpeace Internation"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": true,
+   "sentence": "Barnes is not a professional economist, and the book is not peer-reviewed academic research — it is a policy/advocacy book from a respected environmental-economy press."
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": true,
+   "sentence": "Barnes later elaborated the same commons framework across other shared assets in *Capitalism 3.0: A Guide to Reclaiming the Commons* (Berrett-Koehler, 2006) and *With Liberty and Dividends for All* (Berrett-Koehler, 2014).\n\n## The Core Argument\n\nBarnes's central claim is that the atmosphere's capacity to safely absorb carbon dioxide is a scarce, commonly-owned asset — like land, no one produced it"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "According to a contemporary review of the book, Barnes's own illustrative numbers put the initial per-citizen dividend at \"about $644 a year, for starters, assuming the Kyoto targets and carbon emission permits priced at $25 a ton,\" with 75% of revenue cut immediately into dividend checks and 25% initially reserved for the transition fund; the review quotes the book's page 65 for the fund's schedu"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "The book did not introduce the idea from scratch: the sky-trust proposal was first published in 1998 by the **Corporation for Enterprise Development** (CFED), and Barnes was, in his own words, \"the architect of that proposal\"; by February 2001 he and economist Marc Breslow could already write that \"an effort is now underway to enact these proposals into law.\"[10] The proposal was later rebranded *"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "Where Henry George applied this to the rental value of land, Barnes applies the identical logic to the atmosphere's waste-absorption capacity: it is fixed (or capped) in supply, not the product of anyone's labor, and increasingly scarce and valuable as climate limits bind — so its scarcity rent (the market-clearing price of an emission permit) is a rent in the technical economic sense, and Barnes'"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "The book is best read as a program/advocacy source that supplies the institutional design for [ecological Georgism](/wiki/ecological-georgism/), rather than as an empirical study establishing a specific outcome; accordingly no `supports_outcomes` entries are claimed here.\n\n## Nuances and Limits\n\n- **Not a Georgist work and not framed as one.** Barnes does not cite Henry George or the Georgist trad"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "Readers should not infer that Barnes considered himself part of the Georgist tradition.\n- **Not peer-reviewed economics.** The book is a policy proposal aimed at a general and legislative audience, published by an environmental-policy press (Island Press), not an academic monograph; its dividend estimates and revenue projections should be read as illustrative advocacy figures rather than validated"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "No sky-trust or cap-and-dividend bill was enacted into U.S. federal law; the 2009 Waxman-Markey cap-and-trade bill that did pass the House (H.R. 2454) instead allocated the bulk of emission allowances to sectoral beneficiaries — e.g., 43.75% of 2012–2013 allowances \"for the benefit of electricity consumers,\" distributed via local distribution companies (sec. 782) — rather than paying a universal d"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "No sky-trust or cap-and-dividend bill was enacted into U.S. federal law; the 2009 Waxman-Markey cap-and-trade bill that did pass the House (H.R. 2454) instead allocated the bulk of emission allowances to sectoral beneficiaries — e.g., 43.75% of 2012–2013 allowances \"for the benefit of electricity consumers,\" distributed via local distribution companies (sec. 782) — rather than paying a universal d"
+  },
+  {
+   "name": "Peter Barnes",
+   "lead": true,
+   "sentence": "EXCERPT: Barnes's 2001 book proposes a 'sky trust' that charges polluters for use of the atmospheric commons and returns the proceeds as an equal per-capita dividend — cap-and-dividend, modeled on the Alaska Permanent Fund."
+  }
+ ],
+ "research/barr-smith-kulkarni-manhattan-land.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "[Lars Doucet](/wiki/doucet-does-georgism-work/) cites the study in *Does Georgism Work?"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Land tracks the market but swings harder — collapsing in the 1970s, then climbing relentlessly from 1980 — the century-scale appreciation behind the paper's estimate that Manhattan's land alone was worth about $1.74&nbsp;trillion by 2014. <span class=\"figure-credit\">Source: Barr, Smith &amp; Kulkarni, <em>What's Manhattan Worth?</em> (working paper, 2015), Figure 4; published in <em>Regional Scien"
+  }
+ ],
+ "research/bayer-aklin-eu-ets.md": [
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "It generalises the carbon-tax results (Sweden, BC) to a permit-market\n  design.\n- **[Ecological Georgism](/wiki/ecological-georgism/)** — empirical support that charging\n  for use of the atmospheric commons (here via auctioned/allocated permits) measurably\n  curbs its overuse.\n\n## What It Cuts Against / Honest Limits\n\n- **Modest in aggregate.** 3.8% of EU-wide emissions over eight years is real bu"
+  }
+ ],
+ "research/bencure-ilvm-baybay-philippines.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "Bencure, Nitin Kumar Tripathi, Hiroyuki Miyazaki, Sarawut Ninsawat and Sohee Minsun Kim** (Asian Institute of Technology), was published open-access in ***Sustainability*** (MDPI), Vol. 11, Issue 13, article 3731 (2019).[1] It is the single **developing-country** mass-appraisal case [Lars Doucet](/wiki/doucet-does-georgism-work/) cites in *Does Georgism Work?"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Based on the results, the iLVM (RMSE = 0.526) outperformed MRA (RMSE = 1.953).\"[1]\n- **The ~67% figure Doucet relays.** The paper reports that the iLVM's \"statistics summary… low RMSE, Adj.R² = 0.673 and zero average residuals, indicates good fits without bias, and that around 67% of the variability is explained in the model.\"[1] This is the \"~67% of variance\" number Doucet cites.\n- **Honest limit"
+  }
+ ],
+ "research/bezemer-no-one-saw-this-coming.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "The MPRA text\napplies four selection criteria: the analyst had to\n(1) give \"some account on how they arrived at their conclusions\"; (2) go beyond\npredicting a real-estate crisis to also \"making the link to real-sector\nrecessionary implications, including an analytical account of those links\";\n(3) have made the prediction personally and in the public domain, \"rather than\nbeing asserted by others\"; "
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Harrison's\nTable 1 entry quotes his 2005 call that \"the next property market tipping point is due at end of 2007 or early 2008 … The only way prices can be brought back to affordable levels is a slump or recession.\"[1]"
+  }
+ ],
+ "research/bourassa-pittsburgh-lvt-housing.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Bourassa reports that the 5 percent improvement-tax cut effective at the start of 1983 implies \"about an 11.8 percent increase in the dollar value of new housing construction,\" equivalently roughly a 14 percent rise in the number of units (about 4.5 additional units per month against a mean of ~32.7).[1] When the average cost of new units is the dependent variable, neither tax rate is significant "
+  }
+ ],
+ "research/bowman-bell-lvt-distribution.md": [
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "Read together, the two studies establish that whether a shift to LVT helps or hurts lower-income/lower-value-property households by this local-incidence method depends on the specific relationship between land value, improvement value, and income in the jurisdiction being taxed — a genuine complication for any unqualified claim that \"LVT is progressive.\"\n\nThis sits alongside [Common Wealth Canada'"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "The 2008 NTJ article summarizes that earlier three-locality work (p. 595, citing Bowman and Bell 2004, pp. 45–6): simulated aggregate residential tax reductions of 20 percent in Roanoke, 11 percent for urban single-family homes in Chesterfield, and 72 percent in Highland's county seat of Monterey; the full Chesterfield/Highland analysis is in the 2004 working paper, not the 2008 article.\n- **Incid"
+  }
+ ],
+ "research/buterin-on-radical-markets.md": [
+  {
+   "name": "Vitalik Buterin",
+   "lead": true,
+   "sentence": "## Summary\n\nIn this 2018 essay, Ethereum co-founder Vitalik Buterin reviewed [*Radical Markets*](/wiki/radical-markets/) by Posner and Weyl and enthusiastically endorsed its central proposal — the [Harberger tax / COST](/wiki/harberger-tax/) — as an extension of Georgist principles to all property.\n\n## Why It Matters\n\nButerin's endorsement was pivotal in spreading land-value and self-assessment id"
+  },
+  {
+   "name": "Vitalik Buterin",
+   "lead": true,
+   "sentence": "The essay helped make Georgist-adjacent ideas a live topic among technologists and is part of why the modern revival has strong roots in that world.\n\n## Where Buterin Draws the Line\n\nThe endorsement is not unqualified."
+  },
+  {
+   "name": "Vitalik Buterin",
+   "lead": true,
+   "sentence": "Buterin distinguishes sharply between land — where the [Harberger tax / COST](/wiki/harberger-tax/) trade-off is favourable because \"there's no point in building a house in the first\" place is not the issue for a fixed factor — and ordinary consumer property, where he thinks a universal self-assessment tax would fail on **mental transaction costs**."
+  }
+ ],
+ "research/calomiris-mason-bank-distress.md": [
+  {
+   "name": "Phillip J. Anderson",
+   "lead": false,
+   "sentence": "Anderson's *[The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* (2008, Ch. 12) cites this paper as evidence that contraction in bank credit tied to real estate exposure deepened the Depression's income losses — part of Anderson's broader argument that land-collateralized bank lending is the mechanism driving real-estate boom-bust cycles.[2] It is worth noting pre"
+  }
+ ],
+ "research/charlier-tideman-clarks-paradigm.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "The evidence assembled includes:\n\n- **Contemporary testimony from an unfriendly witness.** Frank Fetter (1927) — himself an\n  opponent of George and a Clark ally, which the authors note makes his testimony more\n  credible, not less — wrote that the \"probable source from which immediate stimulation came\n  to Clark was the contemporary single tax discussion,\" adding that one can \"hardly fail to\n  se"
+  }
+ ],
+ "research/choi-sjoquist-atlanta-lvt-cge.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "The wiki's evidence ladder\n  ranks this tier below the quasi-experimental capitalization studies\n  ([DØRS](/wiki/dors-land-taxes-housing-prices/), [Borge & Rattsø](/wiki/borge-rattso-norway-capitalization/)).\n- **The required LVT rates (66.8–89.2%) are Atlanta-specific and reflect a low\n  starting property-tax burden**, not a universal statement about how high an LVT\n  \"has to be.\" England's (2007"
+  }
+ ],
+ "research/churchill-peoples-rights.md": [
+  {
+   "name": "Phillip J. Anderson",
+   "lead": false,
+   "sentence": "All those people who used the\n  bridge were saved 6d. a week… Within a very short period from that time the rents on the south\n  side of the river were found to have advanced by about 6d. a week, or the amount of the toll\n  which had been remitted.\"[2] The anecdote is the capitalization mechanism\n  ([ATCOR](/wiki/atcor/)-family) in miniature: remove a cost borne by a location's users, and the\n  sa"
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": false,
+   "sentence": "Page numbers for individual sections, and exactly which 1909 speeches each section draws on,\n  remain unsettled and would require a facsimile of the whole book (Churchill gave several\n  relevant speeches: Commons 4 May, Edinburgh 17 July, the December Lancashire tour); the\n  campaign material also circulated as the\n  pamphlet later reprinted by the Henry George Foundation as *The Menace of Land Mo"
+  }
+ ],
+ "research/cmhc-housing-market-assessment-2021.md": [
+  {
+   "name": "Prosper Australia",
+   "lead": false,
+   "sentence": "The speculation finding is scoped to one city (Montreal) and one channel (quick resales within a year); it does not address land-banking, foreign-buyer activity, or investor-owned vacancy, covered by other wiki sources (e.g., [Prosper Australia](/wiki/prosper-speculative-vacancies/), [Vancouver's Empty Homes Tax](/wiki/vancouver-empty-homes-tax/)).\n\n## Bears On\n\n- **Problem:** [Housing unaffordabi"
+  }
+ ],
+ "research/common-wealth-fund.md": [
+  {
+   "name": "Peter Barnes",
+   "lead": false,
+   "sentence": "It builds intellectually on [resource-rent dividends](/wiki/resource-rent-dividends-work/), Peter Barnes's cap-and-dividend, [Guy Standing](/wiki/guy-standing/)'s basic income, and [Joseph Stiglitz's](/wiki/joseph-stiglitz/) argument that broad ownership generates *\"buy-in to the economic system.\"* It updates [Milton Friedman's](/wiki/milton-friedman/) \"helicopter money\" and James Meade's [propert"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": true,
+   "sentence": "## Summary\n\n*The Common Wealth Fund* is [Common Wealth Canada's](/wiki/common-wealth-canada/) proposal for a permanent, professionally-managed Canadian **sovereign wealth fund** that captures the country's [resource and publicly-created rents](/wiki/resource-rents/), invests them, and distributes the returns to every citizen as a universal [dividend](/wiki/citizens-dividend/)."
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "It builds intellectually on [resource-rent dividends](/wiki/resource-rent-dividends-work/), Peter Barnes's cap-and-dividend, [Guy Standing](/wiki/guy-standing/)'s basic income, and [Joseph Stiglitz's](/wiki/joseph-stiglitz/) argument that broad ownership generates *\"buy-in to the economic system.\"* It updates [Milton Friedman's](/wiki/milton-friedman/) \"helicopter money\" and James Meade's [propert"
+  }
+ ]
+}

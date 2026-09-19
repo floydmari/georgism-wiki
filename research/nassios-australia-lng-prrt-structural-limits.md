@@ -77,8 +77,8 @@ rent-capture literature already documents.
   specific to PRRT's design; the general lesson (base design matters more than the rate)
   generalizes, but the specific figures do not automatically transfer to other resource-tax
   regimes.
-- **Full text read directly, independently confirmed by two separate readings (A-claim).**
-  The complete 33-page working paper was read in full.
+- **The complete 33-page working paper is publicly available**, and the summary above
+  rests on the full text rather than the abstract.
 
 ## Bears On
 
@@ -97,9 +97,9 @@ rent-capture literature already documents.
 
 1. Jason Nassios (2026), "Structural Limits to Resource Rent Taxation: Evidence from
    Australia's LNG Industry," Centre of Policy Studies Working Paper No. G-372, Victoria
-   University. Full text read directly at
+   University.
    [copsmodels.com/ftp/workpapr/g-372.pdf](https://www.copsmodels.com/ftp/workpapr/g-372.pdf)
-   2026-08-29 (independently confirmed via two separate full readings) — used for the
+   — read in full, 2026-08-29 — used for the
    transfer-pricing and deduction-deferral mechanisms, the A$1.5bn→A$2.3bn PRRT revenue and
    A$4.6bn→A$18.1bn rent-proxy figures, the stylized A$10bn/A$25.9bn uplift example, the
    Norway comparison (22%/56%/~78% rates, Equinor state equity), and the five-option reform

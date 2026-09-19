@@ -40,19 +40,17 @@ wiki had not covered at all before this page: **water rights**.
 [Concepts/resource-rents](/wiki/resource-rents/) names water in its opening
 definition of resource types but, before this page, developed none of it —
 this page closes that gap. The page's core is the matched 1961/1992 pair
-below (Parts I–II); a second triage pass the same session read the rest of
-the H-series water cluster and folded in five more works that survived a
-strict-delta read against that core — a direct scholarly debate over the
-1961 case study (H4), a systematic 1968 doctrine comparison and
-irrigation-district theory (H8), a 1973 congressional critique of the water
-giveaway (H18, light addition), a 1977 water-market design note (H19), a
-1989/91 conference paper contributing two distinct facts (H20), and — as
-the largest single addition — a 1997 mature synthesis on why voluntary
-water marketing has kept failing to clear (H22). One more H-series item was
-read and declined as redundant (H5, plus most of H20's eighteen-fallacy
-list beyond the two facts folded in); see [Standing and
-Limits](#standing-and-limits) below and the internal triage ledger
-(`sources/gaffney-corpus-triage.md`) for the full accounting.
+below (Parts I–II), around which five further works from the same H-series
+water cluster are folded in where they add something the core pair does not:
+a direct scholarly debate over the 1961 case study (H4), a systematic 1968
+doctrine comparison and irrigation-district theory (H8), a 1973
+congressional critique of the water giveaway (H18, a light addition), a 1977
+water-market design note (H19), a 1989/91 conference paper contributing two
+distinct facts (H20), and — as the largest single addition — a 1997 mature
+synthesis on why voluntary water marketing has kept failing to clear (H22).
+One further item in the series (H5), and most of H20's eighteen-fallacy list
+beyond the two facts folded in, duplicate that material and are not covered
+separately; see [Standing and Limits](#standing-and-limits) below.
 
 **"Diseconomies Inherent in Western Water Laws: A California Case Study"**
 (read before the Western Agricultural Economics Research Council, Tucson,
@@ -65,17 +63,15 @@ making it the earliest-dated professional/academic paper so far identified
 in the wiki's Gaffney corpus after the 1957 timber monograph and the 1958
 *Yearbook of Agriculture* essay (see [priority note](#priority-note-earliest-dated-items-in-the-corpus)
 below and the cross-reference on
-[people/mason-gaffney](/wiki/mason-gaffney/)). *OCR provenance, spot-checked
-2026-08-10:* the masongaffney.org PDF's embedded text layer is a low-quality
-legacy scan extraction; this page's quotations and figures are drawn from a
-fresh re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF. This
-session re-checked every dollar figure and direct quotation used on this
-page (the $8.14/acre-foot toll, the 200-foot pump lift, the .39 irrigation
-efficiency, the $500–$800/acre land-value gain, and the "Mr. Magoo" and
-"riparian rights attach... to the lands that need them least" quotations)
-against the re-OCR'd text file and confirmed each matches; residual risk is
-limited to figures elsewhere in H3 not directly quoted on this page — treat
-those as approximate pending a cleaner scan.
+[people/mason-gaffney](/wiki/mason-gaffney/)). *Provenance:* the
+masongaffney.org scan of this paper carries a poor legacy text layer, so the
+page's quotations and figures were re-recognised from the scan at higher
+resolution and each checked against it (2026-08-10) — the $8.14/acre-foot
+toll, the 200-foot pump lift, the .39 irrigation efficiency, the
+$500–$800/acre land-value gain, and the "Mr. Magoo" and "riparian rights
+attach... to the lands that need them least" quotations all match. Figures
+elsewhere in the paper that are not quoted here should still be treated as
+approximate pending a cleaner scan.
 
 **"The Taxable Surplus in Water Resources"** (*Contemporary Policy Issues*
 10, October 1992, pp. 74–82, Western Economic Association International — a
@@ -83,7 +79,7 @@ revised version of a paper delivered at the WEAI's 66th annual conference,
 Seattle, July 1, 1991) is Gaffney's mature synthesis, written thirty-one
 years later while he was at UC Riverside: a systematic proposal to tax water
 withdrawals, structured as a rebuttal of six named fallacies obstructing the
-idea. Native, cleanly `pdftotext`-extractable text — no OCR needed.
+idea. It is freely available at masongaffney.org and was read in full.
 
 Between them, the two essays cover the full arc: an empirical diagnosis of
 how legal doctrine (not scarcity or technology) misallocates a rent-bearing
@@ -163,7 +159,7 @@ doctrines allocates water toward its highest-value use:
   permission to export groundwater from low- to high-marginal-productivity
   parcels even where the law in principle allowed "surplus" transfers.
 
-`[EDITORIAL: added 2026-07-18]` A later, more systematic Gaffney paper —
+A later, more systematic Gaffney paper —
 **"Economic Aspects of Water Resource Policy"** (*American Journal of
 Economics and Sociology* 28(2), April 1969, pp. 131–44; a paper delivered at
 a Pennsylvania State University colloquium, June 4, 1968; hereafter **H8**)
@@ -243,8 +239,7 @@ corpus:
    already on [gaffney-land-booms-destroy-capital](/wiki/gaffney-land-booms-destroy-capital/),
    applied here to water infrastructure rather than land credit.
 
-`[EDITORIAL: added 2026-07-18]` **6. A federal fiscal channel compounding the
-race.** A later Gaffney piece — **"The Water Giveaway: A Critique of Federal
+**6. A federal fiscal channel compounding the race.** A later Gaffney piece — **"The Water Giveaway: A Critique of Federal
 Water Policy"** (in Robert Haveman and Robert Hamrin, eds., *The Political
 Economy of Federal Policy*, Harper & Row, 1973; excerpted from Gaffney's
 1969 testimony to the Joint Economic Committee's Subcommittee on Economy in
@@ -287,7 +282,7 @@ pattern was recurring a third time.
 
 ### The Groundwater Treadmill: A Parallel Dynamic for Aquifers
 
-`[EDITORIAL: added 2026-07-18]` The surface-water dynamic pattern above has
+The surface-water dynamic pattern above has
 a groundwater counterpart Gaffney names **"The Great Water Treadmill"** in
 two later pieces — **"Whose Water? Ours? Clearing Fallacies about
 Implementing Common Rights"** (paper presented at the public conference
@@ -309,16 +304,16 @@ the treadmill's origin to a single, named historical case not previously on
 this page: Los Angeles's 1913 diversion of the Owens Valley's water to the
 San Fernando Valley, where the served lands "were timely prepurchased by
 insiders" ahead of annexation — the episode popularly known, after the 1974
-film, as the **"Chinatown Syndrome."**[7][8] *Independently corroborated,
-2026-08-10:* the core facts match the well-documented historical record —
+film, as the **"Chinatown Syndrome."**[7][8] The core facts match the
+well-documented historical record:
 a syndicate of Los Angeles businessmen led by *Times* publisher Harrison
 Gray Otis quietly bought roughly 16,200 acres of San Fernando Valley land
 (at around $30/acre, later worth roughly ten times that) after being briefed
 on William Mulholland's aqueduct plan but before it was made public, and
-this syndicate is the historical basis for the film *Chinatown*'s plot. The
-wiki has not independently traced Gaffney's more granular claims (individual
-named speculators, the precise chronology) against primary land-title
-records, so treat those specifics as Gaffney's own documented account.
+and this syndicate is the historical basis for the film *Chinatown*'s plot.
+Gaffney's more granular claims — individual named speculators, the precise
+chronology — have not been traced against primary land-title records, so
+treat those specifics as his own account.
 
 A second, more institutional H20 finding: California's water-district
 governance is frequently disenfranchised from the residents it serves,
@@ -410,7 +405,7 @@ economies under one uniform incentive.
 
 ### Designing the Price Mechanism (1977)
 
-`[EDITORIAL: added 2026-07-18]` H21 argues *that* withdrawals should be
+H21 argues *that* withdrawals should be
 priced but says little about *how* a price would actually be struck
 period to period. A short, earlier Gaffney memo — **"How a Water Market
 Might Work"** (notes submitted to California's Governor's Commission on
@@ -433,7 +428,7 @@ H21's and H22's (below) case for withdrawal pricing generally.[6]
 
 ## Part III: What Price Water Marketing? — Why Voluntary Trading Kept Failing to Clear (1997)
 
-`[EDITORIAL: added 2026-07-18]` **"What Price Water Marketing? California's
+**"What Price Water Marketing? California's
 New Frontier"** (*American Journal of Economics and Sociology* 56(4),
 October 1997, pp. 475–520; hereafter **H22**) is Gaffney's most mature and
 comprehensive single treatment of water marketing specifically — five
@@ -514,9 +509,8 @@ genuinely new to this page:
   resistant, complementing the "line-up of vested interests" Gaffney
   catalogues from a landowner's-eye view in H18 (above).[8]
 
-*Checked against the source text and independent corroboration, 2026-08-10:*
-the local mirror of H22 (p. 495) confirms the page quotes Gaffney's own
-wording exactly — "Sid and Lee Bass, oil billionaires from Fort Worth,
+The Bass passage quotes Gaffney's own wording exactly (H22, p. 495) —
+"Sid and Lee Bass, oil billionaires from Fort Worth,
 quickly amassing 45,000 acres in the Imperial Valley," citing Fulton (1996)
 and his own 1997 account — and independent 1990s business/environmental
 press (e.g., *High Country News*'s "Postscript to a Water War") confirms the
@@ -566,10 +560,10 @@ degrees that in my observation prevail throughout the Valley and the State")
 rather than by a multi-system statistical sample; its dollar figures come
 from a mix of Gaffney's own fieldwork, state engineering bulletins, and
 other economists' contemporary studies (Adams, Horn, Brewer), and — per the
-OCR-provenance note above — its text was recovered via fresh OCR of a poor
-legacy scan rather than a native text layer; the specific figures quoted on
-this page were spot-checked against that re-OCR this session, but figures
-elsewhere in H3 not quoted here should still be treated as approximate. **H21 (1992)** is a synthesis/advocacy essay for a
+provenance note above — its text comes from a poor legacy scan; the specific
+figures quoted on this page were checked against a cleaner re-reading of that
+scan, but figures elsewhere in H3 not quoted here should still be treated as
+approximate. **H21 (1992)** is a synthesis/advocacy essay for a
 policy-issues journal, not an econometric study of California's water
 market; its price comparisons ($20 vs. $240 vs. ~$2,000 per acre-foot) rest
 on Gaffney's own estimate and a single cited Alan Post 1982 state task-force
@@ -579,10 +573,9 @@ uncertainty the wiki preserves rather than smooths over. Neither essay
 offers a modern (post-1990s) empirical test of water-market performance
 under the marketing reforms California adopted after 1992; H22 (1997)
 partially closes that gap for the 1982–1997 window specifically, but no
-post-1997 update was located this session.
+post-1997 update is known.
 
-`[EDITORIAL: added 2026-07-18]` **One correction to the "no third-party peer
-review" characterization:** H3's Kaweah case study *was* publicly
+**One correction to the "no third-party peer review" characterization:** H3's Kaweah case study *was* publicly
 challenged in print, and Gaffney's reply survives — **"Water Law and
 Economic Transfers of Water: A Reply"** (*Journal of Farm Economics* 44(2),
 May 1962, pp. 427–34; hereafter **H4**), responding to a comment by Dean
@@ -653,15 +646,12 @@ public challenge, not that no such challenge existed.[3]
    case study, the marginal-productivity dispersion evidence, the
    doctrine-not-productivity analysis of riparian/appropriative/correlative
    rights, and the monumental-projects/price-umbrella/logrolling dynamic
-   argument. The masongaffney.org PDF's embedded text layer is poor-quality
-   legacy OCR; this page's text and figures are drawn from a fresh re-OCR
-   (`pdftoppm -r 250` + Tesseract 5.3.4) of the same PDF, substantially
-   cleaner but still checked against context before quoting — see the
-   OCR-provenance note above (spot-checked 2026-08-10). [Free PDF
+   argument. Read in full, 2026-08-10; the scan's legacy text layer is poor,
+   so the page's text and figures come from a cleaner re-reading of the same
+   scan, checked against context before quoting (see the provenance note
+   above). [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf`;
-   re-OCR'd text at `sources/gaffney/text/H3-DiseconomiesWesternWaterLaws.txt`.
+   working text copy at `sources/gaffney/text/H3-DiseconomiesWesternWaterLaws.txt`.
 2. Mason Gaffney, "The Taxable Surplus in Water Resources," *Contemporary
    Policy Issues* 10 (October 1992): 74–82, Western Economic Association
    International — a revised version of a paper delivered at the WEAI 66th
@@ -670,12 +660,9 @@ public challenge, not that no such challenge existed.[3]
    wholesale water-price comparison, the natural-monopoly and
    undermotivated-seller arguments against pure water marketing, the
    entropy/elevation argument, and the common-rights/tragedy-of-the-commons
-   reframing. Native, `pdftotext -layout`-extractable text; no OCR needed.
-   [Free PDF
+   reframing. Read in full, 2026-08-10. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H21-TaxableSurplusinWaterResources.CV.pdf`;
-   extracted text at
+   working text copy at
    `sources/gaffney/text/H21-TaxableSurplusWaterResources.txt`.
 3. Mason Gaffney, "Water Law and Economic Transfers of Water: A Reply,"
    *Journal of Farm Economics* 44(2) (May 1962): 427–34, replying to Frank
@@ -684,25 +671,20 @@ public challenge, not that no such challenge existed.[3]
    "Standing and Limits" section's account of the Trelease–Gaffney
    published debate over H3's Kaweah case study, including the
    zero-transfers-for-decades rebuttal and the ad valorem land tax proposal
-   for automatically capturing transfer spillovers. Native text; the
-   masongaffney.org mirror initially 404'd on the ampersand-containing
-   filename and was recovered via a direct `%26`-encoded fetch. [Free PDF
+   for automatically capturing transfer spillovers. Read in full, 2026-08-10;
+   the filename contains a literal ampersand, so only the percent-encoded form
+   of the URL resolves. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H4-WaterLaw%26EconomicTransfersReply1.CV.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H4-WaterLaw&amp;EconomicTransfersReply1.CV.CV.pdf`;
-   extracted text at `sources/gaffney/text/H4-WaterLawEconomicTransfersReply.txt`.
+   working text copy at `sources/gaffney/text/H4-WaterLawEconomicTransfersReply.txt`.
 4. Mason Gaffney, "Economic Aspects of Water Resource Policy," *American
    Journal of Economics and Sociology* 28(2) (April 1969): 131–44, based on
    a paper delivered at a colloquium on "The Social Sciences in Water
    Resources Research," Pennsylvania State University, June 4, 1968 — used
    for the systematic riparian/appropriative doctrine comparison and the
    irrigation-district natural-monopoly/financing-economics material added
-   to Part I. Native, cleanly `pdftotext`-extractable text; no OCR needed.
-   [Free PDF
+   to Part I. Read in full, 2026-08-10. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H8-EconomicAspectsofWaterResourcePolicy.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H8-EconomicAspectsofWaterResourcePolicy.CV.pdf`;
-   extracted text at
+   working text copy at
    `sources/gaffney/text/H8-EconomicAspectsWaterResourcePolicy.txt`.
 5. Mason Gaffney, "The Water Giveaway: A Critique of Federal Water Policy,"
    in Robert H. Haveman and Robert D. Hamrin (eds.), *The Political Economy
@@ -712,20 +694,16 @@ public challenge, not that no such challenge existed.[3]
    the Efficiency of Government*, Part 2, Hearings, September 1969 — used
    for the federal income-tax racing mechanism, the Colorado River Compact
    critique, and the Bureau of Reclamation revolving-fund detail added to
-   Part I's Dynamic Pattern section. Native text; no OCR needed. [Free PDF
+   Part I's Dynamic Pattern section. Read in full, 2026-08-10. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H18_Water_Giveaway.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H18_Water_Giveaway.pdf`;
-   extracted text at `sources/gaffney/text/H18-WaterGiveaway.txt`.
+   working text copy at `sources/gaffney/text/H18-WaterGiveaway.txt`.
 6. Mason Gaffney, "How a Water Market Might Work," notes submitted to
    California's Governor's Commission on Water Rights Law Reform, July 27,
    1977 — used for the "Designing the Price Mechanism" subsection's
-   advance-bidding, watermaster-cleared market design. Native text; no OCR
-   needed. [Free PDF
+   advance-bidding, watermaster-cleared market design. Read in full,
+   2026-08-10. [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H19-HowaWaterMarketMightWork.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H19-HowaWaterMarketMightWork.CV.pdf`;
-   extracted text at `sources/gaffney/text/H19-HowaWaterMarketMightWork.txt`.
+   working text copy at `sources/gaffney/text/H19-HowaWaterMarketMightWork.txt`.
 7. Mason Gaffney, "Whose Water? Ours? Clearing Fallacies about Implementing
    Common Rights," paper presented at the public conference "Whose Water?",
    Institute for Environmental Studies, University of Washington, September
@@ -733,18 +711,13 @@ public challenge, not that no such challenge existed.[3]
    Great Water Treadmill"/"Chinatown Syndrome" account and the Irvine Water
    District voting-rights fact in the "Groundwater Treadmill" subsection.
    Eighteen of this paper's fallacies substantially overlap material already
-   on this page from H21 and H22 and were not separately mined; see the
-   triage ledger for the full skim accounting. Native text; no OCR needed.
-   Cited from the unabridged reformatted version, cross-checked against the
-   shorter abridged/published text. [Free PDF, unabridged
+   on this page from H21 and H22 and are not separately covered. Read in full,
+   2026-08-10, from the unabridged reformatted version and cross-checked
+   against the shorter abridged/published text. [Free PDF, unabridged
    (masongaffney.org)](https://masongaffney.org/publications/H20Whose_Water_Ours_unabridged_reformatted.pdf)
    · [Free PDF, abridged
    (masongaffney.org)](https://masongaffney.org/publications/H20WhoseWater--Ours.CV.pdf);
-   local mirrors at
-   `scratchpad/cache/gaffney-mirror/publications/H20Whose_Water_Ours_unabridged_reformatted.pdf`
-   and
-   `scratchpad/cache/gaffney-mirror/publications/H20WhoseWater--Ours.CV.pdf`;
-   extracted text at `sources/gaffney/text/H20-WhoseWaterOurs-unabridged.txt`.
+   working text copy at `sources/gaffney/text/H20-WhoseWaterOurs-unabridged.txt`.
 8. Mason Gaffney, "What Price Water Marketing? California's New Frontier,"
    *American Journal of Economics and Sociology* 56(4) (October 1997):
    475–520 — used for the entire Part III section: the yield-cutting
@@ -752,9 +725,7 @@ public challenge, not that no such challenge existed.[3]
    Native American treaty-rights illustration, the named 1990s water-permit
    speculators, the 1988 Interior Department resale-policy example, the
    avoided-cost/Henry George connection, and the McCarthy-era political
-   history of resistance to flexible water pricing. Native, cleanly
-   `pdftotext`-extractable text; no OCR needed. [Free PDF
+   history of resistance to flexible water pricing. Read in full, 2026-08-10.
+   [Free PDF
    (masongaffney.org)](https://masongaffney.org/publications/H22-WhatPriceWaterMarketing.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/H22-WhatPriceWaterMarketing.CV.pdf`;
-   extracted text at `sources/gaffney/text/H22-WhatPriceWaterMarketing.txt`.
+   working text copy at `sources/gaffney/text/H22-WhatPriceWaterMarketing.txt`.

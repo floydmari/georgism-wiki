@@ -60,11 +60,11 @@ programs specifically.
   particular features (auction-plus-rehab-commitment structure, the scale of Detroit's
   vacant-property stock) that may not generalize to other cities' vacant-land programs.
 - **The public summary does not report specific magnitude figures or name which
-  neighborhoods saw declines** — those details live in the full 51-page working paper body,
-  not independently extracted for this page.
-- **Full landing-page content read directly, not the complete paper body (B-claim).** The
-  paper's own working-paper page (not paywalled) was read directly for its methodology and
-  headline findings, but the full PDF's detailed results tables were not extracted.
+  neighborhoods saw declines** — those details sit in the full 51-page working paper body,
+  which this summary does not cover.
+- **This entry rests on the paper's public landing page, not the complete paper body.** The
+  working-paper page (not paywalled) supplies the methodology and headline findings; the
+  full PDF's detailed results tables are not covered here.
 
 ## Bears On
 
@@ -84,8 +84,7 @@ programs specifically.
    Increments from Public Action: The Case of the Detroit Auction Program," Lincoln Institute
    of Land Policy Working Paper, 51 pp., published August 2026.
    [lincolninst.edu](https://www.lincolninst.edu/publication/working-papers/measuring-land-value-increments-public-action/) —
-   fetched and read directly 2026-08-30 (not paywalled; independently confirmed via a
-   verification pass) — used for the synthetic-control methodology, the positive-average/
-   spatially-heterogeneous finding, and the significant-price-decline caveat in some treated
-   neighborhoods (B-claim; working-paper landing page and summary read, full PDF results
-   tables not independently extracted).
+   read in full, 2026-08-30 (not paywalled) — used for the synthetic-control methodology,
+   the positive-average/spatially-heterogeneous finding, and the significant-price-decline
+   caveat in some treated neighborhoods (B-claim; based on the working-paper landing page
+   and summary — the full PDF's results tables were not extracted).

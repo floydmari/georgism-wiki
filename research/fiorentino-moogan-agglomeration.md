@@ -32,12 +32,11 @@ form, grow, and allocate people and firms across space. It was posted as an SSRN
 paper in 2025 by **Stefania Fiorentino** and **Adam Moogan**, both of the University of
 Cambridge's Department of Land Economy, and is now published, peer-reviewed, in *Cities*
 144 (2026), DOI [10.1016/j.cities.2026.107294](https://doi.org/10.1016/j.cities.2026.107294)
-— an upgrade from preprint to journal publication that this update records; the tier is
+— an upgrade from preprint to journal publication; the tier is
 raised from Supplementary to Important accordingly. The published version carries a hybrid
-CC BY licence, though the wiki could not retrieve its full text directly (ScienceDirect's
-bot-protection blocked automated access); this entry is built from the working-paper's
-reference apparatus and abstract-level characterization, not a full read of the published
-argument.
+CC BY licence, but its full text was not publicly accessible at last review
+(2026-08-10); this entry rests on the working paper's reference apparatus and an
+abstract-level characterization rather than on a full read of the published argument.
 
 ## Key Finding
 
@@ -67,11 +66,10 @@ model and results themselves.
 ## What the Paper Builds On
 
 Crossref carries the publisher-deposited reference list for the published *Cities*
-version in full — 184 entries, read via the Crossref API on 2026-08-25 (a larger list
+version in full — 184 entries (a larger list
 than the 174-source working-paper apparatus described above, consistent with normal
-expansion through peer review). No abstract is deposited at Crossref for this DOI, so
-the quote-verification step used elsewhere in this batch does not apply here; the "Key
-Finding" section's quotations remain sourced to the Cambridge Land Economy department's
+expansion through peer review). No abstract is deposited at Crossref for this DOI; the
+"Key Finding" section's quotations are sourced to the Cambridge Land Economy department's
 news announcement, not to Crossref. The reference list groups into three broad themes.
 First, mainstream urban-agglomeration economics: Edward Glaeser, Gilles Duranton, Paul
 Krugman ("Increasing Returns and Economic Geography," 1991), Masahisa Fujita, Stuart
@@ -97,23 +95,19 @@ argues.
 
 ## Honest Limits
 
-- The wiki has not read the paper's full model or results section — only its working-paper
-  framing (via SSRN's bibliographic metadata), the abstract-level description
-  corroborated by search-engine indexing, and (added this session) a direct quotation from
-  the Cambridge Land Economy department's own news announcement. The "Key Finding" above
-  should be read as a characterization of the paper's stated contribution, not a verified
-  summary of its formal results. **Attempted (2026-08-10):** Unpaywall confirms the
-  published *Cities* article is genuinely hybrid open-access (CC-BY), but the publisher
-  page itself (ScienceDirect) returned a bot/CAPTCHA challenge to every fetch method tried
-  this session (direct fetch, curl with a browser user-agent, and a text-extraction proxy),
-  and no independent aggregator (CORE.ac.uk) has indexed a copy. The publisher-deposited
-  reference list (184 entries) was read in full via Crossref on 2026-08-25 — see "What the
-  Paper Builds On" above — which narrows the gap to the body text and formal results
-  specifically, not the paper's scope or scholarly context; Crossref deposits no abstract
-  for this DOI, so even the abstract-level text remains unread from that channel.
-  [VERIFY: exact modelling
-  approach, calibration, and any quantitative results once full text is accessible —
-  needs-unblocked-web.]
+- The paper's full model and results sections remain unread here; this entry rests on its
+  working-paper framing (via SSRN's bibliographic metadata), an abstract-level description,
+  and a direct quotation from the Cambridge Land Economy department's own news
+  announcement. The "Key Finding" above should be read as a characterization of the paper's
+  stated contribution, not a verified summary of its formal results. Unpaywall records the
+  published *Cities* article as genuinely hybrid open-access (CC-BY), but the publisher's
+  page was not publicly accessible at last review (2026-08-10) and no independent
+  aggregator has indexed a copy. The publisher-deposited reference list (184 entries) has
+  been read in full — see "What the Paper Builds On" above — which narrows the gap to the
+  body text and formal results specifically, not the paper's scope or scholarly context;
+  Crossref deposits no abstract for this DOI, so even the abstract-level text remains
+  unread from that channel. The paper's exact modelling approach, calibration and any
+  quantitative results are therefore not documented on this page.
 - This is a **theoretical/modelling paper**, not an empirical estimate — its `supports_outcomes`
   wiring should be read as theoretical support, alongside the empirical evidence already
   carried on those outcome pages.
@@ -122,13 +116,13 @@ argues.
 
 1. Stefania Fiorentino & Adam Moogan (2026), "The implications of a land value tax on
    urban agglomeration dynamics: efficiency and equity," *Cities* 144: 107294. [DOI](https://doi.org/10.1016/j.cities.2026.107294) —
-   the published, peer-reviewed version; full text not accessed this session (ScienceDirect
-   bot-protected).
+   the published, peer-reviewed version; full text not publicly accessible at last review
+   (2026-08-10).
 2. Stefania Fiorentino & Adam Moogan (2025), "The Implications of a Land Value Tax on
    Urban Agglomeration Dynamics: efficiency and equity," SSRN Working Paper, DOI
    10.2139/ssrn.5588585 — the preprint this wiki entry originally cited — used for the
    authors' affiliation (University of Cambridge, Department of Land Economy) and the
    reference-list characterization above. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5588585)
-3. Crossref API record for doi:10.1016/j.cities.2026.107294, queried 2026-08-25 —
+3. Crossref record for doi:10.1016/j.cities.2026.107294 —
    used for the published version's deposited reference list (184 entries), read
    2026-08-25; no abstract is deposited at this DOI. [https://api.crossref.org/works/10.1016/j.cities.2026.107294](https://api.crossref.org/works/10.1016/j.cities.2026.107294)

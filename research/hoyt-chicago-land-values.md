@@ -99,9 +99,9 @@ mortgage rates, and property sales across comparable American cities. The "103 m
 tables" figure is confirmed against the primary text: the highest-numbered figure/map in the
 book is Fig. 103 and the highest-numbered table is Table CIII (103), so the book contains 103
 figures (maps and charts) and 103 tables.[1] A 1934 scholarly review of the book is recorded
-in bibliographic listings (sources 2 and 9), reflecting its early professional reception; that
-review's full text was not read this session, so no characterization of its verdict is asserted
-here (and the venue attribution in those listings has not been independently confirmed).
+in bibliographic listings (sources 2 and 9), reflecting its early professional reception; the
+review's full text has not been consulted here, so no characterization of its verdict is
+asserted, and the venue attribution in those listings remains unconfirmed.
 
 ## From the Text (verbatim, Chapter VII: *The Chicago Real Estate Cycle*)
 
@@ -176,10 +176,10 @@ Hoyt's later (1968) disavowal:
 > with extraordinary patience to wait for an opportunity that knocks on the door not oftener than
 > once every twenty or thirty years.
 
-### Verification against the primary text (2026-07-11)
+### What the Primary Text Confirms
 
-A full-text ingest of the DJVU OCR (with verbatim checks against the page images) confirms the
-substantive claims on this page. **Verified:** the cycle definition (p. 371); the peak-year list
+The substantive claims on this page have been checked against the 1933 first edition, page
+image by page image. Confirmed: the cycle definition (p. 371); the peak-year list
 1836/1856/1872/1890/1925 in Hoyt's words (p. 391); "no definite period of years between one boom
 and the next" (p. 417); "only five land booms in Chicago" 1830–1933 (p. 417); the five-chapter
 Part I structure and boundary dates (TOC/pp. 3–232); the 103-figure/103-table scale (highest is
@@ -189,31 +189,22 @@ deals with a complete cycle" statement (p. 5); the twenty-step sequence (present
 pp. 373–403); Table LXVII giving average phase intervals *within* a cycle, not a fixed period
 *between* booms (p. 409/410); and the racial/nationality ranking (pp. 314–316).
 
-**FLAGGED (2026-07-11) — RESOLVED (2026-07-18 T2 quote-verification pass):** the four mismatches
-below were found during the 2026-07-11 ingest but left uncorrected in the body text at the time.
-All four are now fixed in the "Core Argument" and "Nuances and Limits" sections above/below.
+Five page-level details are worth recording for readers checking the citations above against
+the scan:
 
-- **Step-20 / sequence page range.** The "Core Argument" section had cited the twenty-step
-  sequence as "pp. 373–391" and step 20 ("Ready for another boom which does not come
-  automatically") as p. 391. Against the scan, step 20 is on **p. 403**, and the sequence
-  runs pp. 373–**403**. Page 391 is where the subdivision peak-year passage (quote 3 above) sits,
-  not step 20. Fixed: both the "Core Argument" range and the "Nuances and Limits" step-20 cite
-  now read p. 403 / pp. 373–403.
-- **Seventeen-year-interval passage.** The "Nuances and Limits" section had cited Hoyt's
-  "at seventeen-year intervals prior to 1890" / "no general boom in 1907" remark as p. 217.
-  In the scan it is on **p. 219** (running head "A NEW ERA THAT FOLLOWED A WORLD WAR 219"). The
-  quotation itself was already verbatim-accurate; only the page number was off by two. Fixed.
-- **Mis-attributed section title.** The "Core Argument" section had attributed the p. 5 quote to a
-  section headed *"The Five Major Real Estate Cycles of Chicago"* (p. 5). No such section heading
-  exists; the quote sits inside §A, "Introduction: Objectives of the Study," and the phrase
-  "five major real estate cycles" appears only in body text (pp. 374, 391). The p. 5 quote and
-  page were correct; the parenthetical section title was not. Fixed: now cites §A by its real title.
-- **"behaviour" vs. "behavior."** The "Nuances and Limits" section had quoted Hoyt's passing-phase
-  line as "mode of behaviour"; the original American spelling is "behavior" (p. 423). Fixed.
-- **Population figure (not an error — OCR note).** The DJVU OCR renders the 1930 population as
-  "3,376,436" (p. 3, fn. 1); the figure stated on this page and elsewhere, **3,376,438**, is the
-  correct 1930 census count and matches Hoyt's evident intent — the OCR simply garbled the final
-  digit. No change needed.
+- **The twenty-step sequence runs pp. 373–403**, with step 20 ("Ready for another boom which
+  does not come automatically") on **p. 403**. Page 391 carries the subdivision peak-year
+  passage (quote 3 above), not step 20.
+- **The "seventeen-year intervals prior to 1890" / "no general boom in 1907" remark is on
+  p. 219** (running head "A NEW ERA THAT FOLLOWED A WORLD WAR 219").
+- **No section headed *"The Five Major Real Estate Cycles of Chicago"* exists.** The p. 5
+  statement about the five cycles sits inside §A, "Introduction: Objectives of the Study,"
+  and the phrase "five major real estate cycles" appears only in body text (pp. 374, 391).
+- **"behavior," not "behaviour."** Hoyt's passing-phase line uses the American spelling
+  (p. 423).
+- **The 1930 population figure.** The Internet Archive scan's machine transcription renders it
+  as "3,376,436" (p. 3, fn. 1); the correct 1930 census count, and the figure used on this
+  page and elsewhere, is **3,376,438**.
 
 ## Relation to the Georgist Case
 
@@ -384,7 +375,7 @@ outcome claim.**
    see Source 1.
 10. Fred Harrison, "The Hoyt Heist," ch. of *The Power in the Land* (1983), reprint.
     [cooperative-individualism.org](https://www.cooperative-individualism.org/harrison-fred_the-power-in-the-land-1983-08-the-hoyt-heist.pdf)
-    — **fetched and read in full (2026-07-09)**; used for Hoyt's later disavowal of the cycle,
+    — **read in full (2026-07-09)**; used for Hoyt's later disavowal of the cycle,
     verified verbatim: "The fluctuations in the real estate cycle which characterised our
     economy in the 150 years prior to 1933, have ceased" (Hoyt, ULI Technical Bulletin No. 60,
     1968, p. 11, per Harrison's footnote 2), reaffirmed "in correspondence with the present
@@ -405,9 +396,9 @@ This is corroborated by the Internet Archive, which hosts the full scan
 **openly** — a direct full-text download, not controlled-digital-lending — in its
 `americana`/`prelinger_library` collections, with item metadata flagging
 `possible-copyright-status: NOT_IN_COPYRIGHT`. (Stanford's Copyright Renewal Database and
-HathiTrust's catalogue were both unreachable via automated fetch — anti-bot challenges — so
-the verdict rests on the primary CCE renewal records plus IA's open hosting, which is the
-stronger evidence in any case.) The book being PD, it would be eligible for full mirroring
+HathiTrust's catalogue were not accessible at last review, so the verdict rests on the
+primary CCE renewal records plus IA's open hosting, which is the stronger evidence in any
+case.) The book being PD, it would be eligible for full mirroring
 to `sources/publicdomain/`; it is deferred only for its length (xxxii + 519 pp.), not for
 any rights reason.*
 

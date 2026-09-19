@@ -40,8 +40,8 @@ age not by preservation, but by perpetual reproduction" — that recurs, attribu
 to Mill, on Gaffney's shorter [land-boom capital-destruction notes](/wiki/gaffney-land-booms-destroy-capital/)
 decades later. A companion piece, Chapter 6 of an edited volume on environmental
 policy ("Environmental Policies and Full Employment," c. mid-1970s, 24pp), explicitly
-calls itself a "condensed, non-technical version" of this chapter and is not
-separately mined here (see "I16: A Condensed Restatement," below).[2]
+calls itself a "condensed, non-technical version" of this chapter (see "A
+Condensed Restatement," below).[2]
 
 This is, on current evidence, **the fullest and most technically developed
 statement of Gaffney's employment theory in the wiki's corpus** — fuller than the
@@ -115,7 +115,7 @@ income-creating expenditure while burying and ignoring turnover, when in fact
 "replacement anticipates liquidation" and it is *replacement* spending, not gross
 "investment" as conventionally measured, that generates most income: "Turnover has
 its own set of determinants, including the tax biases we have surveyed... It is
-the pacer, not the paced."[1] (C-claim; Gaffney's own theoretical framework,
+the pacer, not the paced."[1] (Gaffney's own theoretical framework,
 attributed — not an empirical test of the K·T identity against national accounts
 data.)
 
@@ -166,7 +166,7 @@ holding period before it is recovered and reinvested).[1]
   common at the time (1976, amid double-digit U.S. inflation) that inflation
   burdens long investments more.
 
-(C-claim throughout; original theoretical derivations, illustrated with assumed
+(Original theoretical derivations throughout, illustrated with assumed
 numerical parameters rather than estimated from data — Gaffney does not fit the
 model to observed factor shares in this paper.)
 
@@ -201,7 +201,7 @@ are benefits to labor." He argues this is a half-truth neo-Georgists have
 "overlooked... in their zeal to untax capital" — because a great deal of the cash
 flow from long-lived capital "imputes to capital as such, as interest," not labor,
 so untaxing capital while continuing to tax payrolls "stacks the cards against
-labor."[1] (D-claim; Gaffney's own polemical framing, attributed — a position
+labor."[1] (Gaffney's own polemical framing, attributed — a position
 within Georgist debate, not adjudicated here against contemporary Georgist replies.)
 
 ## Standing and Limits
@@ -227,44 +227,38 @@ within Georgist debate, not adjudicated here against contemporary Georgist repli
   1970s U.S. economy was in fact driven by the tax-bias mechanism described, as
   opposed to the demand-management failures conventional macroeconomics blamed at
   the time.
-- **Native text, no OCR.** The masongaffney.org copy (recovered this wave from a
-  previously 404 stub in the mirror cache) carries a clean, `pdftotext`-extractable
-  text layer (CVISION-processed scan, 2004/2005); no re-OCR was needed. Read in
-  full, all 68 pages, this wave.
+- **Provenance.** The masongaffney.org copy carries a clean machine-readable text
+  layer (CVISION-processed scan, 2004/2005) and was read in full, all 68 pages.
 
-## I2012: Fold Check — Reverberations Between Land-Price and Banking Cycles
+## A Related 2012 Lecture: Land-Price and Banking Cycles
 
 A separate 2012 Gaffney lecture, "Reverberations Between Immoderate Land-Price
 Cycles and Banking Cycles" (AFEE, Chicago, Jan. 8, 2012, heavily footnoted by Polly
-Cleveland and John Tepper Marlin), was read in full for this wave's fold-check
-against [concepts/18-year-land-cycle](/wiki/18-year-land-cycle/). Its content —
-Pecora-hearings history, a peace-treaty-driven "overlay" cycle distinct from
-Hoyt's endogenous 18-year rhythm, and an explicit forecast of a crash "in about
-2026" — is genuinely new to that page and has been folded there directly (see the
-concept page's new "Gaffney (2012)" subsection), not duplicated here.[4] It shares
-no content with the present 1976 paper beyond the general Georgist land-cycle
-premise.
+Cleveland and John Tepper Marlin), covers Pecora-hearings history, a
+peace-treaty-driven "overlay" cycle distinct from Hoyt's endogenous 18-year rhythm,
+and an explicit forecast of a crash "in about 2026"; that material is treated on
+[concepts/18-year-land-cycle](/wiki/18-year-land-cycle/) rather than here.[4] It
+shares no content with the present 1976 paper beyond the general Georgist
+land-cycle premise.
 
-## I16: A Condensed Restatement
+## A Condensed Restatement: "Environmental Policies and Full Employment"
 
 "Environmental Policies and Full Employment," Chapter 6 of an edited volume on the
 income-distribution and allocative effects of environmental policy (undated in the
 text itself; Gaffney's byline credits him as "Executive Director at the British
 Columbia Institute for Economic Policy Analysis," consistent with the mid-1970s),
-was skimmed in full for this fold-check.[2] Its own opening footnote identifies it
-as explicitly derivative: "A more technical expansion of the ideas in this chapter
+is an explicitly derivative condensation.[2] Its own opening footnote says so: "A more technical expansion of the ideas in this chapter
 is in the writer's 'Toward Full Employment with Limited Land and Capital'... in
 Arthur Lynn, Jr. (ed) *Property Taxes, Land Use and Public Policy*."[2] A
-section-by-section comparison confirms the claim: I16's argument, examples (the
+section-by-section comparison confirms the claim: its argument, examples (the
 same California crop table, the same Fortune 500 profits-per-employee table and
 appendix, the same Wicksell "Great Revolving Fund" passage, the same Mill epigraph)
 and even its closing paragraph are close paraphrases or verbatim reproductions of
 material in this 1976 chapter, with a light environmental-policy gloss added (e.g.
 recasting "the compulsion to grow and expand" as "the compulsion to grow and expand
 and pollute") and the mathematical appendices, the tax-code itemization of section
-B, and most of the historical illustration cut for a popular audience. **Verdict:
-declined, no fold** — I16 adds nothing this page or the wiki does not already carry
-from the fuller 1976 original.
+B, and most of the historical illustration cut for a popular audience. It adds
+nothing the fuller 1976 original does not already carry.
 
 ## Bears On
 
@@ -302,7 +296,7 @@ from the fuller 1976 original.
 - [Gaffney (2015), A Real-Assets Model of Economic Crises: Will China Crash in 2015?](/wiki/gaffney-real-assets-model-china/) — the later paper using the same K·T=F turnover identity in a business-cycle application
 - [Gaffney: How Land Markets Misallocate Capital](/wiki/gaffney-land-market-distortions/) — the later, micro-level five-fold taxonomy of land-substituting capital, distinct from this paper's macro-level "monuments/frontiers/war" framing
 - [Gaffney (1982), Causes of Downturns](/wiki/gaffney-causes-of-downturns/) — the related but distinct argument that overpriced land drives circulating-to-fixed capital substitution, feeding a credit-collapse cycle rather than chronic unemployment
-- [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept page carrying this wave's separate I2012 fold
+- [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the concept page carrying Gaffney's separate 2012 lecture
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 
@@ -311,14 +305,14 @@ from the fuller 1976 original.
 1. Mason Gaffney (1976), "Toward Full Employment with Limited Land and Capital," in
    Arthur D. Lynn Jr. (ed.), *Property Taxes, Land Use and Public Policy* (Madison:
    University of Wisconsin Press), pp. 99–166 — used for every claim and quotation
-   on this page except the I2012 fold-check note; read in full (all 68 pages) this
-   session. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I1Full_Employment_Limited_Land_&Capital.CV.pdf);
+   on this page except the note on the 2012 lecture; read in full (all 68 pages),
+   2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I1Full_Employment_Limited_Land_&Capital.CV.pdf);
    local mirror at `scratchpad/cache/gaffney-mirror/publications/I1Full_Employment_Limited_Land_&Capital.CV.pdf`;
    extracted text at `sources/gaffney/text/I1Full_Employment_Limited_Land_and_Capital.CV.txt`.
 2. Mason Gaffney, "Environmental Policies and Full Employment," Chapter 6 in an
    edited volume on the income-distribution and allocative effects of environmental
-   policy (undated; internal evidence places it mid-1970s) — used for the I16
-   fold-check verdict above; skimmed in full this session, not separately mined.
+   policy (undated; internal evidence places it mid-1970s) — used for the
+   condensed-restatement comparison above; read in full, 2026-07-18.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I16Environmental_Policies_and_Full_Employment.CV.pdf);
    local mirror at `scratchpad/cache/gaffney-mirror/publications/I16Environmental_Policies_and_Full_Employment.CV.pdf`.
 3. Mason Gaffney (2015), "A Real-Assets Model of Economic Crises: Will China Crash
@@ -326,8 +320,8 @@ from the fuller 1976 original.
    [wiki summary](/wiki/gaffney-real-assets-model-china/) — used for the priority-note
    comparison of the K·T = F identity.
 4. Mason Gaffney (2012), "Reverberations Between Immoderate Land-Price Cycles and
-   Banking Cycles," AFEE annual meeting, Chicago, Jan. 8, 2012 — used for the I2012
-   fold-check note above; read in full this session, folded into
+   Banking Cycles," AFEE annual meeting, Chicago, Jan. 8, 2012 — used for the note
+   on that lecture above; read in full, 2026-07-18, and treated at
    [concepts/18-year-land-cycle](/wiki/18-year-land-cycle/). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf);
    local mirror at `scratchpad/cache/gaffney-mirror/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf`;
    extracted text at `sources/gaffney/text/I2012Gaffney_Reverberations_AFEE_lecture_2012.txt`.

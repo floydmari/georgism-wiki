@@ -25,7 +25,7 @@ In two companion 2001 essays — "Where Did All the Land Go? The Fed's New Balan
 
 ## Limits and Caveats
 
-The 2001 essays are published on Hudson's own site/professional archive rather than in a peer-reviewed journal, and the $4.5 trillion revaluation figure is Hudson's own estimate rather than an independently replicated econometric result, and no independent replication of that figure was located this session; it should be read as Hudson's estimate, not a confirmed result. The core empirical claim — that the Fed's land-residual method produced a negative $4 billion land value for non-financial corporate land in 1993, and that the Fed subsequently narrowed its published real-estate statistics — is corroborated by Hudson's own detailed walk-through of Federal Reserve flow-of-funds data and is cited independently in Doucet's book.[1][2]
+The 2001 essays are published on Hudson's own site/professional archive rather than in a peer-reviewed journal, and the $4.5 trillion revaluation figure is Hudson's own estimate rather than an independently replicated econometric result, and no independent replication of that figure has been located; it should be read as Hudson's estimate, not a confirmed result. The core empirical claim — that the Fed's land-residual method produced a negative $4 billion land value for non-financial corporate land in 1993, and that the Fed subsequently narrowed its published real-estate statistics — is corroborated by Hudson's own detailed walk-through of Federal Reserve flow-of-funds data and is cited independently in Doucet's book.[1][2]
 
 ## See Also
 

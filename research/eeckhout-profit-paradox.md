@@ -260,11 +260,11 @@ in a different domain by a mainstream economist working entirely outside the Geo
    book's actual figure of more than thirty thousand employees (ch. 12).
 5. ProMarket, "The Profit Paradox: A New Approach to Competition and Market Power," 19 August 2021.
    [ProMarket](https://www.promarket.org/2021/08/19/profit-paradox-competition-market-power-review/) —
-   used as a secondary corroborating discussion of the book's competition-policy argument (not
-   independently fetched in full this session; referenced via search summary).
+   used as a secondary corroborating discussion of the book's competition-policy argument
+   (read at summary level only, not in full).
 6. Kirkus Reviews, "The Profit Paradox" (review). [Kirkus](https://www.kirkusreviews.com/book-reviews/jan-eeckhout/the-profit-paradox/) —
-   used for corroboration of the book's central thesis and critical reception (summarized via
-   search snippet; not independently fetched in full this session).
+   used for corroboration of the book's central thesis and critical reception (read at
+   summary level only, not in full).
 7. [Wiki: Superstar Firms](/wiki/superstar-firms/) and [Wiki: Autor, Dorn, Katz, Patterson & Van
    Reenen — superstar firms](/wiki/autor-superstar-firms/) — internal navigation only (not used as
    external evidentiary support); record the efficiency-side rival reading of the same
@@ -272,5 +272,5 @@ in a different domain by a mainstream economist working entirely outside the Geo
 8. Haishan Yuan, review of *The Profit Paradox*, *Economic Record* 99(324), 2023.
    [DOI: 10.1111/1475-4932.12732](https://doi.org/10.1111/1475-4932.12732) — peer-reviewed
    journal book review; used for the "convincing case... detrimental to workers" assessment
-   quoted in Nuances and Limits (publisher page blocks automated fetches; the quoted passage was
-   obtained first-hand via a search-API copy of the review's text).
+   quoted in Nuances and Limits (the publisher's page was not accessible at last review
+   (2026-07-12); the quoted passage was read in a full copy of the review's text).

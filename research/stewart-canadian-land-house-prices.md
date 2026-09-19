@@ -80,4 +80,4 @@ it a supporter of the scoped land-problem claim rather than the unscoped one.
    [RePEc/IDEAS listing](https://ideas.repec.org/a/wly/canjec/v55y2022i1p249-271.html) —
    used for the growth-accounting decomposition, the directly-observed-land-price data
    advantage, and the "varies greatly by city" heterogeneity result; abstract quotations
-   verified verbatim against the published CJE abstract this session (2026-07-13).
+   verified verbatim against the published CJE abstract (2026-07-13).

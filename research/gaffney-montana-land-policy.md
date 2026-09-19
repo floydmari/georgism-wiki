@@ -88,8 +88,9 @@ his account.
 coal: "In 1970 ten energy firms held 50 percent of 773,000 acres of federal coal
 leases written by the U.S. Department of the Interior," a figure he attributes to
 an unpublished working paper reported in the *Milwaukee Journal*, 29 August
-1971.[1] `[VERIFY: primary source not independently located — this page reports
-Gaffney's own citation of a secondary press report]` Against this, he assesses
+1971.[1] The underlying working paper is unpublished, so the figure reaches this
+page only through Gaffney's citation of a press report and remains unverified
+against a primary source. Against this, he assesses
 Montana's newly adopted 30% coal yield (severance) tax as poorly designed — "one of
 the least efficient tax instruments known to man" — because a tax levied only at
 extraction gives lessees and absentee owners full control over the pace of
@@ -152,9 +153,10 @@ quantified natural experiments.
 - **No independent verification of the coal-lease figure or the New Westminster
   homeownership claim.** Both rest on secondary sources Gaffney cites (a Milwaukee
   Journal report of an unpublished working paper; Gaffney's own qualitative
-  characterization of New Westminster's tax history) that this page has not
-  independently traced. (D-claims throughout: design and incidence arguments and
-  historical illustrations in an advocacy address, not econometric estimates.)
+  characterization of New Westminster's tax history) that have not been
+  independently traced. Throughout, the essay offers design and incidence
+  arguments and historical illustrations in an advocacy address, not econometric
+  estimates.
 
 ## Bears On
 
@@ -183,9 +185,9 @@ quantified natural experiments.
 
 1. Mason Gaffney (1977), "Counter-colonial Land Policy for Montana," *Western
    Wildlands: A Natural Resource Journal*, Winter 1977, pp. 16–25 — used for all
-   claims, figures, and quotations on this page unless otherwise noted; OCR'd from
-   the site's scanned PDF and quotations spot-checked against the source PDF
-   directly this session (2026-07-18). Also mirrored on masongaffney.org under a
+   claims, figures, and quotations on this page unless otherwise noted; read from
+   the scanned PDF at masongaffney.org, with quotations spot-checked against that
+   PDF (2026-07-18). Also mirrored on masongaffney.org under a
    second filename, `C6-Counter-ColonialLandPolicyforMontana.CV.pdf` (same title,
    different scan/file size — not separately reviewed; treated as the same essay).
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/1977_Counter-colonial_Land_Policy_for_Montana.pdf) ·

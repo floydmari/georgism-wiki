@@ -37,27 +37,26 @@ in eight or nine towns in Lancashire in December, 1909"), defending David Lloyd 
 public.[6] It is not an economics treatise: Churchill was a
 sitting Cabinet minister making a mass-electoral case for a Liberal government policy, and the
 book should be read as **political advocacy**, not as independent evidence for the claims it
-makes (claims below are classified accordingly — mostly type D "interpretive/argumentative" or
-E "objection/advocacy," not B "empirical").
+makes; the material below is treated accordingly, as argument and advocacy rather than as
+empirical finding.
 
 The wiki already cites one passage from this book — the "landlord sits still" quotation from
 Churchill's speech at the King's Theatre, Edinburgh, 17 July 1909 — on
 [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/).[1] That speech is the
-principal source for the quotations below, and a **full transcription of it has now been read
-directly** (cooperative-individualism.org, "The Mother of all Monopolies," headed "From a Speech
+principal source for the quotations below, and a **full transcription of it is publicly
+available** (cooperative-individualism.org, "The Mother of all Monopolies," headed "From a Speech
 Delivered at King's Theatre in Edinburgh on 17 July 1909"): every land-argument and framing
-quotation attributed to the Edinburgh speech on this page has been **checked verbatim against
-that transcription** (2026-07-07) and the source notes updated accordingly. In a further pass
-(2026-07-10), the book's six-section structure and the full text of its land section were read
-directly (note 6), and Churchill's later cooling on land taxation was pinned to a dated
+quotation attributed to the Edinburgh speech on this page **matches that transcription
+verbatim**. The book's six-section structure and the full text of its land section are
+documented in note 6, and Churchill's later cooling on land taxation rests on a dated
 primary statement — his Commons speech of 5 June 1928 (note 4; see Limits).
 
 ## The Land Argument
 
 Churchill's core claim, made repeatedly across the 1909 speeches collected in the book, is that
 land is a **monopoly good** whose value rises through the action of the surrounding community
-rather than the owner, which is why he treats it as a legitimate and distinctive tax base (a
-D-claim — this is Churchill's argument, not a demonstrated economic finding):
+rather than the owner, which is why he treats it as a legitimate and distinctive tax base —
+this is Churchill's argument, not a demonstrated economic finding:
 
 - **Land monopoly as the "mother" of monopoly.** In the Edinburgh speech he argued: "Land monopoly is not the only monopoly, but it is by far the greatest of monopolies — it is a perpetual monopoly, and it is the mother of all other forms of monopoly."[2] The claim that
   land monopoly generates other monopolies is asserted, not argued from evidence: in the
@@ -94,8 +93,9 @@ D-claim — this is Churchill's argument, not a demonstrated economic finding):
 
 ## How Churchill Framed It
 
-Two framing moves recur across the sources this session could verify, both aimed at a mass
-electorate rather than an expert audience (D-claims about rhetorical strategy, not economics):
+Two framing moves recur across the verified sources, both aimed at a mass
+electorate rather than an expert audience — these are observations about rhetorical strategy,
+not economics:
 
 1. **Land is categorically different from other property.** Churchill argued: "Land, which is a
    necessity of human existence, which is the original source of all wealth, … which is strictly
@@ -136,9 +136,8 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
 - **It is advocacy by an interested politician**, not a scholarly or empirical work: Churchill
   was a Cabinet minister defending his own government's budget, and the book's purpose was
   persuasion in a live political and constitutional fight (the Lords' rejection of the 1909
-  Budget), not disinterested analysis. Claims drawn from it should be classified D (interpretive/
-  argumentative) or, where they represent the "case for," E (advocacy), never B (empirical) or C
-  (theoretical), per the wiki's [claim taxonomy](/wiki/EDITORIAL/).
+  Budget), not disinterested analysis. Claims drawn from it are interpretive or advocacy
+  claims, never empirical or theoretical ones.
 - **Churchill later cooled — a qualified retreat, not a repudiation of the logic.** By the late
   1920s, as Chancellor of the Exchequer, Churchill argued the Georgist case had been overtaken by
   events. In his Commons speech on rating relief of 5 June 1928 he called the idea of using "the
@@ -156,19 +155,21 @@ a leading Edwardian politician argued for land taxation to a mass electorate. Sp
   fact already documented on [the People's Budget event page](/wiki/1909-peoples-budget/) and
   [the unearned increment narrative](/wiki/unearned-increment-narrative/).[5] The book's political
   case for the duties should not be read as vindicated by their administrative record.
-- **Verification status (updated 2026-07-10).** The full text of Churchill's Edinburgh speech of
-  17 July 1909 — the principal source for this page's quotations — has been read directly
-  (cooperative-individualism.org transcription), and every land-argument and framing quotation
-  attributed to it above is verified verbatim. The book's **six-section structure** and the full
-  text of its land section ("The People's Land") have now also been read directly (note 6): the
+- **Provenance of the quotations.** The full text of Churchill's Edinburgh speech of
+  17 July 1909 — the principal source for this page's quotations — survives in a public
+  transcription (cooperative-individualism.org), and every land-argument and framing quotation
+  attributed to it above matches that transcription verbatim. The book's **six-section
+  structure** and the full
+  text of its land section ("The People's Land") are likewise available (note 6): the
   section reprints the same campaign material as the Edinburgh speech in near-identical wording
   (e.g., the book reads "railway services are improved" where the Edinburgh transcription has
   "services are improved"), consistent with the book's origin in the December 1909 Lancashire
   tour, on which Churchill re-delivered the summer's material. Churchill's **later cooling on
-  land taxation** now rests on a dated primary statement (5 June 1928 — see above and note 4).
-  A future editor with a facsimile of the whole book can still add page numbers and confirm
-  exactly which 1909 speeches each section draws on (Churchill gave several: Commons 4 May,
-  Edinburgh 17 July, the December Lancashire tour); the campaign material also circulated as the
+  land taxation** rests on a dated primary statement (5 June 1928 — see above and note 4).
+  Page numbers for individual sections, and exactly which 1909 speeches each section draws on,
+  remain unsettled and would require a facsimile of the whole book (Churchill gave several
+  relevant speeches: Commons 4 May, Edinburgh 17 July, the December Lancashire tour); the
+  campaign material also circulated as the
   pamphlet later reprinted by the Henry George Foundation as *The Menace of Land Monopoly*. The
   archive.org scans of the book are lending-restricted 1970/1971 reprints; the 1910 text itself
   is public domain in the United States, and the land section is freely available in full

@@ -126,5 +126,6 @@ the limit.
    quotations and point estimates above; the CEP working-paper full text was read directly for
    this page (the 9.3 percentage-point difference-in-difference, the 1.5–5.5% per-km
    gradients, the 2 km cutoff, the 8.9%/km cross-sectional benchmark, and the school-quality
-   comparison); the published ScienceDirect version was paywalled this session, so the published
-   tables were not compared line-by-line against the working paper (see Nuances and Limits).
+   comparison); the published ScienceDirect version was paywalled at last review (2026-07-10),
+   so the published tables were not compared line-by-line against the working paper (see
+   Nuances and Limits).

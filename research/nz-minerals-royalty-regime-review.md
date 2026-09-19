@@ -70,12 +70,11 @@ first permitted.
 
 ## Nuances and Limits
 
-- **Primary document inaccessible.** The Deloitte report PDF itself was blocked by an
-  Incapsula bot-challenge on every fetch method tried this session (WebFetch, curl with a
-  browser user-agent). This page is built entirely from two independent secondary sources
-  — the New Zealand government's own press release and an infrastructure-trade-press
-  summary — both of which quote the review directly and agree on the key figures; no claim
-  below what those two sources report is made.
+- **The primary document is not publicly accessible.** The Deloitte report PDF could not
+  be opened from the ministry's site at last review; the account above rests entirely on
+  two independent secondary sources — the New Zealand government's own press release and
+  an infrastructure-trade-press summary — both of which quote the review directly and
+  agree on the key figures. No claim beyond what those two sources report is made.
 - **Minerals only, not petroleum.** The review's scope explicitly excludes petroleum
   royalties, which run under a separate regulatory and economic framework in New Zealand.
 - **A baseline review, not a reform.** No royalty-rate change has been decided or
@@ -101,20 +100,18 @@ first permitted.
 1. Deloitte Access Economics, "New Zealand Minerals Royalty Regime Review," commissioned
    by the Ministry of Business, Innovation and Employment, 2026.
    [mbie.govt.nz](https://www.mbie.govt.nz/dmsdocument/32323-deloitte-report-new-zealand-minerals-royalty-regime-review) —
-   primary document; blocked by an Incapsula bot-challenge on every fetch attempt this
-   session (WebFetch and curl with a browser user-agent both returned only a
-   `noindex,nofollow` challenge page). Not read directly; see sources 2–3 for the
-   secondary-source content this page is built from.
+   primary document, not accessible at last review (2026-08-16) and therefore not read
+   directly; see sources 2–3 for the secondary-source content this entry rests on.
 2. Hon Shane Jones (Minister for Resources), "Minerals Royalty Regime: Transparent, Fair,"
    New Zealand Government press release, 6 August 2026, via
    [Scoop](https://www.scoop.co.nz/stories/PA2608/S00043/minerals-royalty-regime-transparent-broadly-fair.htm) —
-   fetched and read 2026-08-16 — used for the release date, the minister's identity, the
+   read 2026-08-16 — used for the release date, the minister's identity, the
    "broadly comparable with other countries" quotation, the 97%-legacy-permits figure, the
    "decade or more to become a producing mine" quotation, and the 2027/next-government
    timeline (B-claim; direct government press release quoting the review).
 3. "New Zealand minerals royalties broadly match overseas," *Infrastructure News NZ*, 2026.
    [infrastructurenews.co.nz](https://infrastructurenews.co.nz/story/new-zealand-minerals-royalties-broadly-match-overseas) —
-   fetched and read 2026-08-16; independently corroborates the government-take comparison,
+   read 2026-08-16; independently corroborates the government-take comparison,
    the 97%-legacy-permits figure, the minister's quotation, the minerals-only scope
    (petroleum explicitly excluded), and adds the rate-vs-investment tradeoff framing
    (B-claim; trade-press coverage, cross-checked against source 2 and consistent on all

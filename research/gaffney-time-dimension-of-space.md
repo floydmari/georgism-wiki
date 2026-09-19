@@ -54,8 +54,8 @@ piece a claim to its services over its full span of years."[1] He calls this
 infinite income stream, so a buyer must finance not just this year's use but
 a claim running "from now to doomsday" — "longer than he is likely to need
 it, and costs more money... than many hard-pressed entrepreneurs can
-conveniently raise at one time."[1] (C-claim; Gaffney's own theoretical
-framing.)
+conveniently raise at one time."[1] This is Gaffney's own theoretical
+framing.
 
 Gaffney then argues, at some length, that the market's usual answers to this
 problem — leasing and lending — are poor substitutes for direct ownership,
@@ -72,8 +72,8 @@ places where it is ample."[1] This leasing/lending-as-imperfect-time-dividers
 argument is genuinely new territory for the wiki's Gaffney corpus — it is not
 restated in the later essays already covered, which take the credit-access
 gap as a starting premise rather than deriving it from an institutional
-critique of leasing and lending markets. (C-claim; theoretical/institutional
-argument, attributed.)
+critique of leasing and lending markets. The argument is theoretical and
+institutional, and is attributed to Gaffney throughout.
 
 ## The Dynamic Equilibrium Equation
 
@@ -104,7 +104,7 @@ capital depreciates (so its holding cost is dominated by depreciation, which
 does not vary by owner) while land does not, Gaffney concludes
 time-indivisibility "little perverts" the allocation of ordinary capital but
 "seriously perverts" the allocation of land — "immortal land, and especially
-appreciating land."[1] (C-claim; original theoretical derivation.)
+appreciating land."[1] This is an original theoretical derivation.
 
 ## Relationship to the Wiki's Existing "Strong Hands" Coverage
 
@@ -141,8 +141,8 @@ economic power."[1] Written in 1961, this anticipates by decades the modern
 capital-share-and-land literature the wiki covers on
 [problems/capital-share-rise-is-land](/wiki/capital-share-rise-is-land/), though
 Gaffney offers no empirical test of the claim here — it is asserted as a
-theoretical implication of the model, not measured. (D-claim; interpretive,
-attributed.)
+theoretical implication of the model, not measured. The reading is
+interpretive, and attributed to Gaffney.
 
 ## Standing and Limits
 
@@ -157,14 +157,12 @@ attributed.)
   conclusions as theoretical predictions, consistent with (but not proof of)
   the credit-concentration mechanism documented empirically elsewhere on the
   wiki (e.g., [gaffney-rising-inequality-farm-property-tax](/wiki/gaffney-rising-inequality-farm-property-tax/)).
-- **OCR provenance.** The source PDF carries a native, `pdftotext`-extractable
-  text layer with scanning-era OCR noise typical of this 1961 issue (e.g.
-  "GPNEY" and similar character-substitution errors do not appear here, but
-  minor character-recognition errors are present throughout the equations,
-  which were reconstructed from context and cross-checked against the prose
-  description of each numerical example rather than trusted as rendered).
-  Local mirror: `scratchpad/cache/gaffney-mirror/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf`;
-  extracted text: `sources/gaffney/text/C4-UnwieldyTime-DimensionofSpace.CV.txt`.
+- **Provenance.** The paper was read in full (2026-07-18) from the freely
+  available scan at masongaffney.org. That scan's text layer carries
+  character-recognition errors through the equations, so each equation was
+  reconstructed from context and checked against the prose description of the
+  corresponding numerical example rather than taken as rendered; a working text
+  copy is held at `sources/gaffney/text/C4-UnwieldyTime-DimensionofSpace.CV.txt`.
 
 ## Bears On
 
@@ -196,8 +194,6 @@ attributed.)
    for the entire page: the time-indivisibility concept, the
    leasing/lending institutional critique, the dynamic equilibrium equation
    and its numerical examples, and the closing land-concentration-of-power
-   claim. Native, `pdftotext`-extractable text (no OCR needed).
-   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf);
-   local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf`;
-   extracted text at `sources/gaffney/text/C4-UnwieldyTime-DimensionofSpace.CV.txt`.
+   claim. Read in full, 2026-07-18 (see Provenance for the scan's equation
+   errors). [Free PDF (masongaffney.org)](https://masongaffney.org/publications/C4-UnwieldyTime-DimensionofSpace.CV.pdf);
+   working text copy at `sources/gaffney/text/C4-UnwieldyTime-DimensionofSpace.CV.txt`.

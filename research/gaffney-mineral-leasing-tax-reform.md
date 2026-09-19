@@ -51,25 +51,18 @@ constitutional question of provincial versus federal taxing power over Crown
 lands under section 125 of the British North America Act.[1] Internal
 references to a 1974 royalty-deductibility fight and 1975 British Columbia
 gas-pricing data place it in the mid-1970s; masongaffney.org does not date it
-more precisely. **Channels exhausted, 2026-08-10:** exact publication year
-and venue remain unconfirmed despite this session's search (library-catalog-
-style searches and Fraser Institute/Canadian Tax Foundation/IRPP searches
-all came up empty). One point is now confirmed rather than inferred,
-though: the essay's own text states "[t]he positive art of securing rent
+more precisely, and its exact publication year and venue remain unconfirmed
+(as of 2026-08-10). One point rests on internal evidence rather than
+inference: the essay's own text states "[t]he positive art of securing rent
 from minerals is the subject of *other articles in this volume*" (emphasis
-added) — direct internal evidence this is a chapter in a multi-author
-edited volume, not a solo report, tightening (without fully resolving) the
-earlier "reads as a book chapter or commissioned report" guess. The
-volume's editor and publisher were not identified this session.
+added) — indicating this is a chapter in a multi-author edited volume rather
+than a solo report, though the volume's editor and publisher remain
+unidentified.
 
 **"Oil and Gas: The Unfinished Tax Reform"** is a US federal tax-policy essay
 citing 1981 tax-law changes and *Business Week*/*Los Angeles Times* reporting
-through early 1982, internally dating it to **1982**.[2] Its filename on
-masongaffney.org contains a literal ampersand
-(`B13-Oil&GasUnfinishedTaxReform.CV.pdf`) that broke the local mirror — the
-same problem the wiki has now hit repeatedly with D1, E11, E12, and B5 —
-resolved the same way, by fetching directly from masongaffney.org with the
-ampersand percent-encoded (`%26`).
+through early 1982, internally dating it to **1982**.[2] It is freely available on
+masongaffney.org.
 
 ## Part I: Objectives of Government Policy in Leasing Mineral Lands
 
@@ -294,7 +287,7 @@ side, examined here from the tax-code side instead.
 
 Both essays are **advocacy/policy pieces**, not peer-reviewed articles — B4
 is undated on masongaffney.org and this page's publication year is an
-estimate from internal evidence (see the channels-exhausted note above);
+estimate from internal evidence (see the Overview);
 B13's factual claims (the
 12.4% average tax rate, the 188-million-acre figure, the Getty reserve
 data) rest on Gaffney's own citations of 1980–82 trade press (*Business
@@ -340,10 +333,9 @@ corpus already on the wiki.
 1. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands"
    — used for the entire Part I section: the eight named leasing errors, the
    rent/profit accounting identity, and the British North America Act
-   section 125 constitutional discussion. Native, `pdftotext`-extractable
-   text (no OCR needed); publication venue and precise year remain
-   unconfirmed (channels exhausted 2026-08-10 — see Overview and Standing
-   and Limits). Fetched this session from the local mirror.
+   section 125 constitutional discussion. Read in full, 2026-08-10;
+   publication venue and precise year remain unconfirmed at that review —
+   see Overview and Standing and Limits.
    [Free PDF (masongaffney.org)](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf);
    local mirror at
    `scratchpad/cache/gaffney-mirror/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf`;
@@ -354,17 +346,9 @@ corpus already on the wiki.
    mechanics, the three "invisible" loopholes (abandonment, scouting,
    imputed income), the cost-depletion double-dip on resale, and the
    distributional findings. Internal citations to 1981–82 sources date the
-   essay to **1982**. The masongaffney.org filename contains a literal
-   ampersand (`B13-Oil&GasUnfinishedTaxReform.CV.pdf`); the local mirror at
-   `scratchpad/cache/gaffney-mirror/publications/` held only a cached 404
-   stub (236 bytes) under that filename — resolved by fetching directly
-   from masongaffney.org with the ampersand percent-encoded (`%26`), the
-   same fix already documented for D1, E11, E12, and B5. The fetched PDF (54
-   pages) carries a native but noisy OCR-era text layer (e.g. "MD" for
-   "AND," "Cat fney" for "Gaffney"); quotations checked against surrounding
-   context.
-   [Free PDF (masongaffney.org, %26-encoded)](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf);
-   local mirror saved as
-   `scratchpad/cache/gaffney-mirror/publications/B13-OilGasUnfinishedTaxReform.CV.pdf`
-   (ampersand-free filename); extracted text at
+   essay to **1982**. Read in full, 2026-08-10; the 54-page scan carries a
+   noisy OCR-era text layer (e.g. "MD" for "AND," "Cat fney" for "Gaffney"),
+   so quotations were checked against surrounding context.
+   [Free PDF (masongaffney.org)](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf);
+   working text copy at
    `sources/gaffney/text/B13_OilGasUnfinishedTaxReform.txt`.

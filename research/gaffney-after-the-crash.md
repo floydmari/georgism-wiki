@@ -25,7 +25,7 @@ A central piece of Gaffney's evidence is that other Georgist-tradition economist
 
 ## Priority Note: A Real-Time Essay Predates This Paper by 14 Months
 
-**2026-07-18.** Before this October 2009 special issue, Gaffney had already
+Before this October 2009 special issue, Gaffney had already
 published substantially the same argument in real time: "The Great Crash of
 2008" (*Progress*, Melbourne, August 2008; also *The Georgist Journal*
 #110-111, 2008), written 17 August 2008 as the crisis was still unfolding.[3]
@@ -43,8 +43,8 @@ for the fuller treatment of the 2008 essay's distinctive content.
 
 ## Standing and Limits
 
-- **Claim class.** Gaffney was a credentialed economist writing openly as a committed Georgist for a specialist Georgist-adjacent journal; the historical Hoyt-cycle documentation is a B/C-claim (checkable, sourced), while the "18-year" periodicity and the recommendation that land-focused property tax alone can prevent future crashes lean on the contested [18-year land cycle](/wiki/18-year-land-cycle/) thesis rather than settled consensus macroeconomics.
-- **Discovery context.** This paper surfaced via Akhil Patel's *The Secret Wealth Advantage* (2023), which situates Gaffney within the Hoyt–Harrison–Foldvary–Anderson–Patel land-cycle lineage and cites Gaffney's separate collaboration with Harrison, *The Corruption of Economics* (1994), as the key reference for how land was excluded from mainstream economic theory.[2]
+- **Claim class.** Gaffney was a credentialed economist writing openly as a committed Georgist for a specialist Georgist-adjacent journal; the historical Hoyt-cycle documentation is checkable and sourced, while the "18-year" periodicity and the recommendation that land-focused property tax alone can prevent future crashes lean on the contested [18-year land cycle](/wiki/18-year-land-cycle/) thesis rather than settled consensus macroeconomics.
+- **In the land-cycle literature.** The practitioner-author Akhil Patel's *The Secret Wealth Advantage* (2023) situates Gaffney within the Hoyt–Harrison–Foldvary–Anderson–Patel land-cycle lineage and cites Gaffney's separate collaboration with Harrison, *The Corruption of Economics* (1994), as the key reference for how land was excluded from mainstream economic theory.[2]
 
 ## See Also
 
@@ -57,5 +57,5 @@ for the fuller treatment of the 2008 essay's distinctive content.
 ## Sources
 
 1. Mason Gaffney (2009), "The Role of Land Markets in Economic Crises," Ch. 1 of *After the Crash: Designing a Depression-Free Economy*, special issue of *American Journal of Economics and Sociology* 68(4), pp. 855–888 (also published as a standalone book, Wiley-Blackwell, 2009) — used for the abstract's central claim, the Hoyt-derived "elements" of the cycle, and the Harrison (1997) and Foldvary (1997) prediction quotes. [Free PDF](https://cooperative-individualism.org/gaffney-mason_the-role-of-land-markets-in-economic-crises-2009-oct.pdf) · [Publisher listing](https://www.wiley.com/en-us/After+the+Crash:+Designing+a+Depression-free+Economy-p-9781444333589) · [Internet Archive (book)](https://archive.org/details/aftercrashdesign0000gaff)
-2. Akhil Patel (2023), *The Secret Wealth Advantage* — used for discovery context situating Gaffney within the land-cycle lineage (via the wiki's [book page](/wiki/patel-secret-wealth-advantage/); note: the book page notes do not independently corroborate every specific claim above, which are drawn primarily from direct reading of Gaffney's 2009 paper).
+2. Akhil Patel (2023), *The Secret Wealth Advantage* — used for the placement of Gaffney within the land-cycle lineage (see the wiki's [book page](/wiki/patel-secret-wealth-advantage/); the book does not corroborate every specific claim above, which rest primarily on a direct reading of Gaffney's 2009 paper).
 3. Mason Gaffney (2008), "The Great Crash of 2008," *Progress* (Melbourne), August 2008 — used for the priority note above. Read in full 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Great_Crash_of_2008.pdf); local mirror at `sources/gaffney/text/GreatCrashOf2008.txt`.

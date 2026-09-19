@@ -64,9 +64,9 @@ pure land-rent framing does not resolve on its own.
 - **São Paulo-specific institutional context.** The Outorga Onerosa instrument and Brazilian
   construction-market structure are specific to this setting; the 45% markup figure should
   not be read as a general estimate of builder market power elsewhere.
-- **Full landing-page content read directly (B-claim).** The paper's working-paper page (not
-  paywalled) was read directly for its methodology and headline findings; the full general
-  equilibrium model and welfare results were not independently extracted.
+- **This entry rests on the paper's public working-paper page, not the full PDF.** That page
+  (not paywalled) supplies the methodology and headline findings; the full general
+  equilibrium model and welfare results are not covered here.
 
 ## Bears On
 
@@ -87,7 +87,7 @@ pure land-rent framing does not resolve on its own.
    from a Tax on Construction Density," Lincoln Institute of Land Policy Working Paper, 32
    pp., published August 2026.
    [lincolninst.edu](https://www.lincolninst.edu/publication/working-papers/market-power-housing-markets/) —
-   fetched and read directly 2026-08-30 (not paywalled) — used for the Outorga Onerosa
+   read 2026-08-30 (not paywalled) — used for the Outorga Onerosa
    kink-based identification strategy, the 45%-markup finding, and the central-vs-suburban
-   markup comparison (B-claim; working-paper landing page and summary read, full model and
-   welfare results not independently extracted).
+   markup comparison (B-claim; based on the working-paper landing page and summary — the
+   full model and welfare results were not extracted).

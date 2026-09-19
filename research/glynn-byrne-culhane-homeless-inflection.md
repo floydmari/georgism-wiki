@@ -118,10 +118,10 @@ homelessness.
    1037–1053. DOI [10.1214/20-AOAS1414](https://doi.org/10.1214/20-AOAS1414) — used
    for the abstract, the three-finding summary (32% ZRI inflection point; six clusters;
    unobserved-factor contribution), and the San Diego worked example, all verified
-   verbatim against the full-text author copy this session.
+   verbatim against the full-text author copy (2026-07-11).
    [Author full-text PDF (g-lynn.github.io)](https://g-lynn.github.io/files/GlynnByrneCulhane_2019+.pdf) ·
    [Project Euclid record](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Inflection-points-in-community-level-homeless-rates/10.1214/20-AOAS1414.full)
 2. Published-version abstract — used for the phrasing "the expected homeless rate in a
    community begins to quickly increase once median rental costs exceed 30% of median
-   income," verified against the Project Euclid article record this session.
+   income," verified against the Project Euclid article record (2026-07-11).
    [Project Euclid](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Inflection-points-in-community-level-homeless-rates/10.1214/20-AOAS1414.full)

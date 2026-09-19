@@ -186,16 +186,16 @@ market before the public ever priced it by auction.[1] Gaffney frames this
 explicitly through the "strong hands" concentration lens the wiki's
 [Land Monopoly](/wiki/land-monopoly/) page already documents for land: "[l]ike
 other untaxed natural resources, spectrum is being concentrated in a few
-strong hands." (D-claim: an advocacy essay's contemporaneous business-press
-citations. *Independently confirmed, 2026-08-10:* both headline dollar
+strong hands." These are an advocacy essay's citations of contemporaneous
+business-press reporting. Both headline dollar
 figures check out against contemporary wire and business-press reporting —
 AT&T's agreement to acquire McCaw Cellular in an all-stock deal "valued at
 $12.6 billion" was announced August 16, 1993 (UPI, *Seattle Times*, *Deseret
 News*), and Disney's acquisition of Capital Cities/ABC for $19 billion
 closed in 1995 (contemporary business press) — matching Gaffney's figures
 exactly. The Buffett "$2 billion unearned increment" figure and the
-Cohen 1995 cellular-turnover statistic were not independently re-checked
-this session.)
+Cohen 1995 cellular-turnover statistic have not been re-checked against
+other sources.
 
 ### "Falsified Land Values" — A 23-Point Measurement Taxonomy
 
@@ -215,32 +215,27 @@ argument](/wiki/gaffney-hidden-taxable-capacity/).
 
 ## Standing and Limits
 
-- **Claim class.** Part 1 is a B-claim (empirical, cross-sectional,
-  correlational) argued by committed Georgist advocates without formal
-  statistical controls; Part 2 is a mix of C-claims (taxonomy/definition)
-  and specific, individually citable B-claims (the spectrum transaction
-  data).
+- **Claim class.** Part 1 is an empirical, cross-sectional and correlational
+  argument made by committed Georgist advocates without formal statistical
+  controls; Part 2 mixes taxonomy and definition with specific, individually
+  citable empirical data points (the spectrum transaction data).
 - **Not independent of its subject.** Co-author Richard Noyes was a
   long-serving New Hampshire state representative and newspaper publisher
   in the state the chapter's central case study praises; this is disclosed
   nowhere in the text itself and is noted here as an honest limit on the
   New Hampshire narrative's objectivity, not a reason to discount the
   underlying ACIR data.
-- **OCR/extraction note.** The source PDF (28pp, CVISION-processed scan)
-  carries a legacy machine-generated text layer; body prose extracts
-  cleanly, but several of the chapter's statistical tables (8:III and 8:IV
-  especially) show column misalignment and dropped digits under
-  `pdftotext -layout` extraction. This page relies on the chapter's own
-  prose summaries of the table findings (which restate the headline
-  figures cleanly in running text) rather than the raw table cells where
-  the two diverge; readers checking exact state-by-state figures should
-  consult the source PDF directly. **Channels exhausted, 2026-08-10:** *The
-  Losses of Nations* has no free digitized copy (Internet Archive, Google
-  Books, and JSTOR-style searches all came up empty this session; it is
-  sold only as a print/commercial book), so the exact Table 8:III/8:IV cell
-  values cannot currently be independently verified beyond the
-  masongaffney.org scan already used. Left as a standing limit rather than
-  resolved.
+- **Provenance.** The chapter was read in full (2026-08-10) from the freely
+  available 28-page scan at masongaffney.org. Its body prose is clean, but
+  several of the chapter's statistical tables (8:III and 8:IV especially)
+  show column misalignment and dropped digits in the scan's text layer. This
+  page therefore relies on the chapter's own prose summaries of the table
+  findings (which restate the headline figures cleanly in running text)
+  rather than the raw table cells where the two diverge; readers checking
+  exact state-by-state figures should consult the source PDF directly. *The
+  Losses of Nations* has no free digitized copy — it is sold only as a print
+  book — so the exact Table 8:III/8:IV cell values remain unverified beyond
+  that scan. This is a standing limit of the page.
 
 ## Bears On
 

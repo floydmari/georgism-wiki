@@ -197,17 +197,16 @@ currently carry for any tech-rent instrument.[1]
   Acemoglu's 0.07%/year growth estimate) without adjudicating between them.
 - **Does not itself supply new evidence that AI profit is currently rent** — for that, see the
   companion diagnosis paper
-  [Korinek & Vipra, "Concentrating Intelligence"](/wiki/korinek-vipra-ai-concentration/), read
-  separately for this wiki; this page covers only the tax-design theory, which is agnostic to
+  [Korinek & Vipra, "Concentrating Intelligence"](/wiki/korinek-vipra-ai-concentration/); this
+  page covers only the tax-design theory, which is agnostic to
   how large any actual AI rent turns out to be.
 - **A primer, explicitly.** The authors describe the paper as providing "a primer for
   economists and policymakers," not a fully worked policy proposal; specific parameter values
   (the 11% illustrative AGI capital tax rate under one calibration; the 4% discount-rate
   benchmark) are worked examples, not recommendations.
-- **Provenance.** All quotations, table content, and results verified against the NBER Working
-  Paper 34873 PDF (February 2026), fetched and read in substantial part (sections 1, 2, 5, and
-  the conclusion) this session; sections 3 and 4's full formal derivations were not exhaustively
-  read and are not relied on here beyond the authors' own prose summaries of their results.
+- **Provenance.** All quotations, table content, and results are verified against the NBER
+  Working Paper 34873 PDF (February 2026); sections 3 and 4's full formal derivations are not
+  relied on here beyond the authors' own prose summaries of their results.
 
 ## See Also
 
@@ -237,5 +236,5 @@ currently carry for any tech-rent instrument.[1]
    of compute/token/robot/digital-services taxes onto capital/consumption tax instruments; and
    the sovereign-wealth-fund, windfall-clause, and Universal Basic Capital discussion (B/C-claims
    — an unrefereed NBER working paper offering formal theory and policy-instrument mapping, not
-   an empirical estimate; fetched and read in substantial part — sections 1, 2, 5, and the
-   conclusion — this session).
+   an empirical estimate; read in substantial part — sections 1, 2, 5, and the
+   conclusion — 2026-07-18).

@@ -61,12 +61,12 @@ obstacle is domestic organized labor rather than elite capture or external corru
 
 ## Nuances and Limits
 
-- **Abstract-level source (B-claim).** The paper's full text remained paywalled to this
-  session despite its confirmed CC-BY status (the publisher's own page and an institutional
-  repository copy were both inaccessible during this session); this page is built from a
-  well-corroborated abstract (matched across OpenAlex/Crossref metadata and an independently
-  located Uppsala University repository record), not the paper's full empirical detail. No
-  specific tax rates, revenue figures, or export volumes were independently confirmed.
+- **Abstract-level source.** The paper's full text was not publicly accessible at last
+  review (2026-08-29) despite its confirmed CC-BY status — neither the publisher's own page
+  nor an institutional repository copy. The account here rests on a well-corroborated
+  abstract (matched across publisher-supplied bibliographic metadata and an Uppsala
+  University repository record), not on the paper's full empirical detail. No specific tax
+  rates, revenue figures, or export volumes have been independently confirmed.
 - **Bolivia-specific institutional context.** The "well-organized cooperative miners" dynamic
   reflects Bolivia's particular mining-cooperative political structure and should not be
   read as a general claim about small-scale mining rent capture elsewhere.
@@ -89,9 +89,9 @@ obstacle is domestic organized labor rather than elite capture or external corru
 1. Håkan Tarras-Wahlberg & Fredrik Uggla (2026), "A golden limit to neo-extractivism:
    policies and patterns of resource rent capture in Bolivia," *Third World Quarterly*,
    published online 9 May 2026, DOI 10.1080/01436597.2026.2661233, CC-BY 4.0.
-   [doi.org](https://doi.org/10.1080/01436597.2026.2661233) — fetch blocked (403) to this
-   session 2026-08-29 despite confirmed open-access status; abstract obtained via OpenAlex's
-   abstract reconstruction (sourced from publisher metadata) and independently corroborated
+   [doi.org](https://doi.org/10.1080/01436597.2026.2661233) — full text not accessible at
+   last review (2026-08-29) despite confirmed open-access status; the abstract was read from
+   publisher-supplied bibliographic metadata and corroborated
    against an Uppsala University DiVA repository record confirming Uggla's institutional
    affiliation — used for the neo-extractivism reversal finding, the "rent capture from
    below" framing, the light-taxation/minimal-oversight description, and the domestic-

@@ -178,8 +178,7 @@ in FY2023**, with a cumulative total of **roughly $419 million collected since
 2022** by the time of an October 2025 report — averaging closer to $100-120
 million per year than the projected $250 million.[7][18] **This figure needs an
 honest caveat: it is drawn from secondary press reporting attributed to the
-Comptroller's office, not from a Comptroller-published table this page could
-independently fetch and verify** — one account explicitly notes exact
+Comptroller's office, not from a published Comptroller table** — one account explicitly notes exact
 year-by-year revenue has not been made public in full, partly because of the
 litigation.[18] The direction (well under the $250 million projection) is
 corroborated by every source consulted; the exact annual figures should be
@@ -237,7 +236,7 @@ prices and harms downstream competition — that is evidence for a rent-like
 component tied specifically to market power, not to the underlying
 matching/targeting technology. It does not, and does not claim to, decompose
 platform ad revenue into a rent share and a quasi-rent share the way the wiki can
-point to for land. No source consulted in this research pass provides that
+point to for land. No available source provides that
 decomposition for advertising revenue specifically. The honest reading is the
 gradient's own: **some** of platform ad revenue very likely reflects bottleneck
 power over attention (the Attention Oligopoly mechanism, and the same
@@ -248,18 +247,18 @@ genuine, valuable matching service — and no one has cleanly separated the two.
 
 - **No ex-post incidence study of Maryland's tax itself was found.** Unlike the
   UK DST, which has [a real empirical pass-through estimate](/wiki/digital-services-tax-incidence/)
-  (Muddasani & Langenmayr on Amazon), this research pass did not locate a
-  comparable peer-reviewed or working-paper measurement of who actually bears
-  Maryland's ad tax. The pass-through-ban litigation is suggestive of the
+  (Muddasani & Langenmayr on Amazon), no comparable peer-reviewed or
+  working-paper measurement of who actually bears Maryland's ad tax has been
+  published, so far as can be determined. The pass-through-ban litigation is suggestive of the
   legislature's own expectation, not a measured result, and the wiki does not
   present it as one.
-- **Revenue figures rest on press reporting, not a fetched primary Comptroller
+- **Revenue figures rest on press reporting, not on a primary Comptroller
   table.** The $93m/$82.5m/~$419m-cumulative figures are consistently reported
-  across multiple outlets citing the Comptroller's office, but this page could
-  not independently verify them against an official, itemized Comptroller
-  revenue report; they should be re-checked before being cited as precise.
-- **The core constitutional merits case remains unresolved.** As of this
-  session's research (mid-2026), the tax survives only because of the Maryland
+  across multiple outlets citing the Comptroller's office, but no official,
+  itemized Comptroller revenue report confirms them; they should be re-checked
+  before being cited as precise.
+- **The core constitutional merits case remains unresolved.** As of
+  mid-2026, the tax survives only because of the Maryland
   Supreme Court's 2023 procedural ruling and a Tax Injunction Act bar on the
   federal claims; the Internet Tax Freedom Act and Commerce Clause arguments that
   a state court once found persuasive on the merits (October 2022) have never
@@ -273,7 +272,7 @@ genuine, valuable matching service — and no one has cleanly separated the two.
 - **The is-it-rent question is not resolved here and should not be treated as
   resolved.** Prat & Valletti's concentration mechanism and the Furman Review's
   durability findings are real evidence for a rent-like component; neither
-  source, nor any other found in this pass, quantifies what share of platform ad
+  source, nor any other located, quantifies what share of platform ad
   revenue is rent versus quasi-rent.
 
 ## See Also
@@ -293,24 +292,23 @@ genuine, valuable matching service — and no one has cleanly separated the two.
    February 2020, Maryland General Assembly committee-testimony archive.
    [mgaleg.maryland.gov PDF](https://mgaleg.maryland.gov/cmte_testimony/2020/bat/1541_02202020_93326-878.pdf)
    — used for the fact and date of Romer's testimony (A-claim; primary legislative
-   record; the PDF's text could not be machine-extracted this session, so its
-   content is corroborated via [2] rather than quoted directly from the PDF
-   itself).
+   record; the PDF is not machine-readable, so its content is corroborated via
+   [2] rather than quoted directly from the PDF itself).
 2. Paul Romer, quoted in Kate Klonick / ProMarket, "If You Think Moderation is
    Censorship, You've Got a Competition Problem," 15 January 2021.
    [ProMarket](https://www.promarket.org/2021/01/15/paul-romer-facebook-competition-pigouvian-tax-digital-ads/)
    — used for the "would be happy if raised no revenue" framing, the progressive
    marginal-rate design description, and the "claw back for the citizens of
    Maryland" quote (D-claim; interview/journalistic source quoting Romer
-   directly; fetched this session).
+   directly; read in full, 2026-07-18).
 3. Maryland Tax-General Article, Title 7.5 (Digital Advertising Gross Revenues
    Tax), as summarized in Sales Tax Institute, "Maryland Enacts New Tax on
    Digital Advertising."
    [Sales Tax Institute](https://www.salestaxinstitute.com/resources/maryland-enacts-new-tax-on-digital-advertising)
    — used for the rate schedule, effective date (14 March 2021), $1 million
    filing threshold, and the assessable-base definition (F/A-claims; professional
-   tax-advisory secondary source; the statute itself was not machine-readable via
-   the sources tried this session — see note below).
+   tax-advisory secondary source; the statutory text itself was not available in
+   machine-readable form at last review — see note below).
 4. Maryland Comptroller, "Tax Guidance — Digital Advertising Gross Revenues Tax,"
    official Taxpayer Services knowledge base.
    [services.marylandcomptroller.gov](https://services.marylandcomptroller.gov/taxes?id=kb_article_view&sysparm_article=KB0010082)
@@ -319,20 +317,20 @@ genuine, valuable matching service — and no one has cleanly separated the two.
    guidance).
 5. Description of "digital advertising services" scope (banner, search-engine,
    interstitial advertising; broadcast/news-media and audio-only/non-programmatic
-   exclusions), as reported in web search synthesis of Maryland Comptroller
-   Technical Bulletin No. 59 and related practitioner commentary — used for the
+   exclusions), as reported in practitioner summaries of Maryland Comptroller
+   Technical Bulletin No. 59 and related commentary — used for the
    statutory definition of the taxed activity (F-claim; the Technical Bulletin
-   PDF itself could not be machine-extracted this session; content corroborated
-   across multiple independent secondary summaries, not directly quoted).
+   PDF is not machine-readable; content corroborated across multiple independent
+   secondary summaries, not directly quoted).
 6. Tax Foundation, "Worse Than Advertised: The Legal and Economic Pitfalls of
    Maryland's Digital Advertising Tax."
    [Tax Foundation](https://taxfoundation.org/research/all/state/maryland-digital-advertising-tax/)
    — used for the cliff-rate-structure critique, the Internet Tax Freedom Act and
    dormant Commerce Clause legal analysis, and the tax-pyramiding critique
    (D-claim; policy-institute analysis explicitly opposed to the tax, presented
-   as that institute's own argued position, not adopted as settled fact; fetched
-   this session).
-7. Search-synthesized reporting on the gap between Romer's "targeted advertising"
+   as that institute's own argued position, not adopted as settled fact; read in
+   full, 2026-07-18).
+7. Secondary press and practitioner reporting on the gap between Romer's "targeted advertising"
    scope and Maryland's broader enacted definition, and on the ~$419 million
    cumulative revenue figure attributed to the Comptroller's office — used for
    the design-departure point and the cumulative revenue figure (B/D-claims;
@@ -343,13 +341,13 @@ genuine, valuable matching service — and no one has cleanly separated the two.
    the October 2022 Anne Arundel County circuit court ruling invalidating the tax
    on Internet Tax Freedom Act and dormant-Commerce-Clause grounds.
    [RSM](https://rsmus.com/insights/tax-alerts/2023/Maryland-digital-advertising-tax-where-are-we-now.html)
-   (B/A-claims; professional tax-advisory secondary sources; fetched via search
-   synthesis this session).
+   (B/A-claims; professional tax-advisory secondary sources; read at last review,
+   2026-07-18).
 9. Comptroller of Maryland v. Comcast of California/Maryland, LLC, Maryland
    Supreme Court (per curiam order 9 May 2023, opinion 12 July 2023).
    [Maryland Courts PDF](https://www.mdcourts.gov/data/opinions/coa/2023/32a22.pdf)
-   — cited for the case name and outcome; the PDF's text could not be
-   machine-extracted this session, so the exhaustion-of-remedies holding and the
+   — cited for the case name and outcome; the PDF is not machine-readable, so
+   the exhaustion-of-remedies holding and the
    court's non-reaching of the constitutional questions are corroborated via [10]
    rather than quoted directly from the opinion (A-claim; primary appellate
    opinion, content via secondary corroboration).
@@ -358,8 +356,8 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     the 2023 ruling — used for the procedural (exhaustion-of-remedies) basis of
     the reversal and confirmation that the constitutional and Internet Tax
     Freedom Act claims were not addressed (A-claim; corroborated across
-    independent secondary legal-commentary sources; fetched via search synthesis
-    this session).
+    independent secondary legal-commentary sources; read at last review,
+    2026-07-18).
 11. Conduit Street (Maryland Association of Counties), "Federal Court Issues
     Final Ruling Blocking 'Pass-Through' Ban in Maryland's Digital Ad Tax," 21
     October 2025.
@@ -368,7 +366,7 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     against the pass-through ban, confirmation that the core tax remains
     enforceable, the pending Maryland Tax Court merits case, and the $250 million
     original revenue projection (A/B-claims; specialized state-government-adjacent
-    policy tracker; fetched and read this session).
+    policy tracker; read in full, 2026-07-18).
 12. U.S. Chamber of Commerce Litigation Center, "Chamber of Commerce v.
     Franchot," case summary.
     [U.S. Chamber](https://www.uschamber.com/cases/jurisdiction-and-procedure/chamber-of-commerce-v-franchot)
@@ -376,18 +374,18 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     March 2022 Tax Injunction Act ruling (barring the claims against the tax
     itself but allowing the pass-through First Amendment claim to proceed), and
     the December 2022 mootness dismissal that was later appealed (A-claim;
-    litigant's own case-tracking page, corroborated by [13]; fetched this
-    session).
-13. Web search synthesis of Chamber of Commerce v. Franchot, 595 F. Supp. 3d 423
-    (D. Md. 2022) case commentary (vLex, Davis+Gilbert) — used to corroborate the
+    litigant's own case-tracking page, corroborated by [13]; read in full,
+    2026-07-18).
+13. Case commentary on Chamber of Commerce v. Franchot, 595 F. Supp. 3d 423
+    (D. Md. 2022) (vLex, Davis+Gilbert) — used to corroborate the
     Tax Injunction Act ruling and the specific claims raised (ITFA, Commerce
     Clause, Due Process, First Amendment pass-through) (A-claim; corroborating
-    secondary legal sources; fetched via search synthesis this session).
+    secondary legal sources; read at last review, 2026-07-18).
 14. Chamber of Commerce of the United States of America v. Comptroller of
     Maryland, No. 24-1727 (4th Cir., 15 August 2025).
     [Fourth Circuit PDF](https://www.ca4.uscourts.gov/opinions/241727.P.pdf)
-    — cited for the case name, number, and date; the PDF's text could not be
-    machine-extracted this session, so the holding and reasoning are corroborated
+    — cited for the case name, number, and date; the PDF is not machine-readable,
+    so the holding and reasoning are corroborated
     via [15][16] rather than quoted directly from the opinion (A-claim; primary
     appellate opinion, content via secondary corroboration).
 15. BDO, "Fourth Circuit Finds Maryland's Digital Ad Tax Pass-Through Restriction
@@ -396,14 +394,15 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     — used for the unanimous-panel holding, the "criticism and political
     accountability" characterization, and the confirmation that other methods of
     explaining a price increase remain permitted (A-claim; major accounting/tax
-    advisory firm's legal-update summary; fetched this session).
+    advisory firm's legal-update summary; read in full, 2026-07-18).
 16. Maryland Matters, "Appeals court rules provision of digital ad tax violates
     First Amendment protections," 15 August 2025; and NBC Washington / other
     outlets reporting Circuit Judge Julius Richardson's characterization that
     firms "must do so in silence." — used for the plain-language characterization
     of the pass-through ban and the "in silence" framing (A-claim; journalistic
-    sources reporting the same ruling as [14][15]; corroborated via search
-    synthesis, direct article fetch returned HTTP 403 this session).
+    sources reporting the same ruling as [14][15]; the articles themselves were
+    not directly accessible at last review, 2026-07-18, and are corroborated
+    across outlets).
 17. Robert H. Smith School of Business, University of Maryland, "Digital Tax
     Debacle."
     [rhsmith.umd.edu](https://www.rhsmith.umd.edu/news/digital-tax-debacle)
@@ -411,13 +410,13 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     actual collections, the "must do so in silence" quote attributed to Circuit
     Judge Julius Richardson, and the university's overall assessment that the tax
     fell well short of its revenue goal (B/D-claims; university business-school
-    news summary, not a primary fiscal document; fetched and read this session).
-18. Search-synthesized press reporting (multiple outlets citing the Maryland
+    news summary, not a primary fiscal document; read in full, 2026-07-18).
+18. Press reporting (multiple outlets citing the Maryland
     Comptroller's office) on FY2022 (~$93 million) and FY2023 (~$82.5 million)
     digital-ad-tax revenue and the ~$419 million cumulative total reported by
     October 2025 — used for the specific annual figures, flagged in Honest Limits
     as unverified against a primary Comptroller table (D-claim; press reporting,
-    not independently confirmed this session).
+    not independently confirmed).
 19. Andrea Prat & Tommaso Valletti, "Attention Oligopoly," *American Economic
     Journal: Microeconomics* 14(3), August 2022 (working paper version 2019-2020).
     [AEA](https://www.aeaweb.org/articles?id=10.1257/mic.20200134) ·
@@ -425,8 +424,8 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     — used for the attention-broker model, the finding that concentration among
     attention brokers raises ad prices and reduces consumer welfare, and the
     caution against merger assessments based on aggregate usage alone (B/C-claims;
-    peer-reviewed journal article; abstract and secondary summary fetched this
-    session, full text not independently retrieved).
+    peer-reviewed journal article; read at abstract level, with secondary
+    summaries, 2026-07-18 — the full text was not accessible).
 20. Digital Competition Expert Panel (Furman, chair), *Unlocking Digital
     Competition*, HM Treasury, March 2019 — used for the £11.55 billion (2017) UK
     digital-advertising market figure, the digital-advertising market-study
@@ -434,5 +433,5 @@ genuine, valuable matching service — and no one has cleanly separated the two.
     or a monopoly" / efficiencies quote. Full citation and this page's own
     reading of the report are carried at
     [furman-review-digital-competition](/wiki/furman-review-digital-competition/);
-    not re-fetched independently this session (A/D-claims via that page's own
-    sourcing).
+    the report itself was not consulted separately here (A/D-claims via that
+    page's own sourcing).

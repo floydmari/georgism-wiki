@@ -189,13 +189,13 @@ the opposite of the land case the wiki treats as clean.
    working paper (18 Nov 2019).
    [Allard PDF](https://researchers.allard.ubc.ca/ws/portalfiles/portal/39709750/The%20Digital%20Services%20Tax%20as%20a%20Tax%20on%20Location-Specific%20Rent.pdf)
    — used for the location-specific-rent rationale, the resource-royalty analogy, and the
-   verbatim rationalisation quote (C/D-claims; fetched and read this session).
+   verbatim rationalisation quote (C/D-claims; read in full).
 3. Rohit Reddy Muddasani & Dominika Langenmayr (2025), "Navigating the Amazon: The Incidence
    of Digital Service Taxes," WU Vienna / KU Eichstätt-Ingolstadt / CESifo (12 June 2025).
    [WU PDF](https://research.wu.ac.at/ws/portalfiles/portal/76680012/2025_05_DST_2_.pdf)
    — used for the empirical incidence finding (Amazon raised fees ~half the DST; sellers
    largely passed the increase to consumers; large firms bear a small share) and the
-   verbatim abstract quote (B-claims; fetched and read this session; a working paper —
+   verbatim abstract quote (B-claims; read in full; a working paper —
    re-verify the final published version before hardening figures).
 4. Wei Cui (2019), "The Digital Services Tax: A Conceptual Defense," prepared for the NYU
    Tax Policy and Public Finance Colloquium (later published, *Virginia Tax Review*).

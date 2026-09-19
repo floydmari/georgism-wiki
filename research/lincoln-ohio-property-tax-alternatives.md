@@ -68,9 +68,9 @@ into a paper that never tested one.
 - **Does not model an LVT alternative** — see above. This page should not be cited as
   evidence that LVT would avoid the income/sales-tax rate increases this paper documents;
   that comparison was never made in this paper.
-- **Full landing-page content read directly, independently confirmed (A-claim).** The
-  paper's working-paper page (not paywalled) was read directly and its key figures
-  independently re-verified in a second pass.
+- **This entry rests on the paper's public working-paper page, not the full 40-page PDF.**
+  That page (not paywalled) supplies the headline figures quoted here, which were checked
+  against it twice.
 
 ## Bears On
 
@@ -91,9 +91,9 @@ into a paper that never tested one.
    Ohio Property Taxes," Lincoln Institute of Land Policy Working Paper, 40 pp., published
    June 2026.
    [lincolninst.edu](https://www.lincolninst.edu/publication/working-papers/replacing-irreplaceable-analyzing-revenue-alternatives-ohio-property-taxes/) —
-   fetched and read directly 2026-08-30, figures independently re-verified in a second pass
-   (not paywalled) — used for the $21.1bn revenue-at-stake figure, the 8.24%/10.29% flat
+   read 2026-08-30, with the figures verified twice against that page (not paywalled)
+   — used for the $21.1bn revenue-at-stake figure, the 8.24%/10.29% flat
    income-tax figures, the 13.36%/14.53% sales-tax figures, the graduated-income-tax
    above-12%-top-rate finding, the distributional-divergence conclusion, and the confirmed
-   absence of any land-value-tax alternative modeled in the paper (A-claim; full working-paper
-   page read and independently re-confirmed).
+   absence of any land-value-tax alternative modeled in the paper (A-claim; the full
+   working-paper page was read and its figures re-confirmed).

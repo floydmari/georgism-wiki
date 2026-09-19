@@ -80,11 +80,10 @@ platform rhetoric obscuring rather than resisting rent extraction.
   measuring the scale of agrarian platform rent extraction.
 - **US-centric case selection** (Bayer/Syngenta/BASF/Corteva, FBN/ADM, IBM Food Trust/FDA are
   all primarily US-market examples); international generalizability is not established here.
-- **Abstract-level and secondary-source-level (B-claim).** The publisher page was blocked to
-  this session; this page is built from a detailed author-published plain-language summary
-  of the paper (an "abbreviated version... originally published in Antipode," per the source
-  itself), not the peer-reviewed article's own full text, which has no open-access copy
-  anywhere per Unpaywall.
+- **Based on a secondary summary rather than the full article.** The peer-reviewed text is
+  not publicly available and has no open-access copy; this account rests on a detailed
+  author-published plain-language summary of the paper (an "abbreviated version...
+  originally published in Antipode," per that summary itself).
 
 ## Bears On
 
@@ -103,9 +102,9 @@ platform rhetoric obscuring rather than resisting rent extraction.
 
 1. Emily Reisman, Madeleine Fairbairn & Zenia Kish (2025), "Agrarian Platform Capitalism:
    Digital Rentiership Comes to Farming," *Antipode* 57: 412–432, published online November
-   2024, DOI 10.1111/anti.13107. [doi.org](https://doi.org/10.1111/anti.13107) — fetch
-   blocked (403) to this session 2026-08-31, including via a reader-proxy route; no
-   open-access copy exists anywhere per Unpaywall — summary built from a detailed
+   2024, DOI 10.1111/anti.13107. [doi.org](https://doi.org/10.1111/anti.13107) — full text
+   not accessible at last review (2026-08-31), and no open-access copy has been located;
+   summary rests on a detailed
    author-published plain-language summary of the article (institutionallandscapes.org,
    explicitly labeled "an abbreviated version... originally published in Antipode") — used
    for the three-platform-category typology, the named companies and mechanisms, the

@@ -62,24 +62,19 @@ The combined effect, he argues, is a rent base "enough and to spare" to replace 
 
 ## Provenance
 
-**2026-07-18 update.** This page previously cited only a UCR working-paper mirror
-(`economics.ucr.edu/papers/papers08/08-12old.pdf`) and summarized the paper from a
-partial read. A separate 84-page scanned copy circulating on masongaffney.org
-(`G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf`, flagged in the corpus triage log as
-an un-OCR'd file possibly representing a distinct "2009 expansion") was OCR'd in full
-this session (`pdftoppm -r 250` + Tesseract 5.3.4, 84 pages, ~47,100 words extracted)
-and read completely. The two are **the same paper**, not a distinct or expanded
-edition: the masongaffney.org scan carries the *Emerald/International Journal of
+Two copies of the paper circulate: a UC Riverside working-paper mirror
+(`economics.ucr.edu/papers/papers08/08-12old.pdf`) and an 84-page scanned copy on
+masongaffney.org (`G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf`, sometimes
+described as a distinct "2009 expansion"), which runs to roughly 47,100 words. The
+two are **the same paper**, not a distinct or expanded edition: the masongaffney.org scan carries the *Emerald/International Journal of
 Social Economics* cover page and structured abstract (Vol. 36 No. 4, 2009,
 pp. 328–411) — i.e. it is the **peer-reviewed published version** of the paper the
 UCR working-paper mirror also carries, confirmed by an identical 16-Element/4-Group
 structure, identical section headings, and identical illustrative material (Kahn,
-Davidson, Goldsmith, Krugman and Wells, Sinai and Gyourko) in both. This upgrades the
-paper's citable standing from "working paper" to "peer-reviewed journal article," and
-lets this page's Key Argument section state the 16-element structure precisely rather
-than summarizing loosely. Canonical OCR text mirrored to
-`sources/gaffney/text/G2009-Hidden_Taxable_Capacity_of_Land_2009.txt`. Registry Scan
-Depth upgraded Medium → Heavy accordingly.
+Davidson, Goldsmith, Krugman and Wells, Sinai and Gyourko) in both. The paper is
+therefore citable as a peer-reviewed journal article rather than as a working paper.
+A transcription of the published scan is held at
+`sources/gaffney/text/G2009-Hidden_Taxable_Capacity_of_Land_2009.txt`.
 
 ## Bears On
 
@@ -102,7 +97,7 @@ Depth upgraded Medium → Heavy accordingly.
    *International Journal of Social Economics* 36(4): 328–411 — used for the
    hidden-rent enumeration (16 Elements/4 Groups), the ATCOR/EBCOR-based conclusion,
    and the illustrative data points above (C/D-claims, advocate-economist writing in a
-   peer-reviewed journal, attributed). Read in full this session from the published
+   peer-reviewed journal, attributed). Read in full, 2026-07-18, from the published
    version. [Working-paper mirror PDF](https://economics.ucr.edu/papers/papers08/08-12old.pdf) ·
    [Published-version scan PDF (masongaffney.org)](https://masongaffney.org/publications/G2009-Hidden_Taxable_Capacity_of_Land_2009.pdf) ·
    [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/gaffney-hidden-taxable-capacity.pdf) ·

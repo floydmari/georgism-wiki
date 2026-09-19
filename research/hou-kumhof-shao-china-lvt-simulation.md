@@ -80,8 +80,6 @@ China land-policy cluster.
   making a "land value tax" here closer to adjusting the terms of existing state land-lease
   revenue than introducing a wholly new private-property tax, a structural difference from
   most of the wiki's other LVT simulations.
-- **Full text read directly (A-claim).** The complete 61-page working paper was read,
-  including the model structure, calibration, and results tables.
 
 ## Bears On
 
@@ -101,8 +99,8 @@ China land-policy cluster.
 
 1. Yilin Hou, Michael Kumhof & Lei Shao (2026), "The Potential and Utility of Land Value
    Taxation: A Theoretical Framework and Simulation for China," CESifo Working Paper No.
-   12476. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223168) (blocked to
-   this session) · full text read directly at
+   12476. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223168) · full text
+   read directly at
    [ifo.de/DocDL/cesifo1_wp12476.pdf](https://www.ifo.de/DocDL/cesifo1_wp12476.pdf) 2026-08-29
    — used for the model structure, the 45%/55% land-share calibration, the 3.72%→13.72% LVT
    rate path, the PIT-vs-LVT GDP and welfare comparisons, the land/real-estate price effects,

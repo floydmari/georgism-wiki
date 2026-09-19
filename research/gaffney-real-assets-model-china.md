@@ -164,10 +164,10 @@ one downstream symptom.
 
 ## Standing and Limits
 
-- **Claim class.** The four-element model and turnover mechanism are B/C-claims
-  (a theoretical framework illustrated with descriptive statistics, not an
+- **Claim class.** The four-element model and turnover mechanism form a
+  theoretical framework illustrated with descriptive statistics, not an
   econometric test with standard errors or a formal out-of-sample forecast
-  evaluation). The China section is the paper's strongest evidentiary case
+  evaluation. The China section is the paper's strongest evidentiary case
   precisely because it is a genuine ex-ante prediction, but it is a single case,
   not a panel test.
 - **Peer-reviewed but not independently replicated.** This is the most
@@ -181,9 +181,9 @@ one downstream symptom.
   are now a decade old; readers using this page for a current view of Chinese
   property markets should treat the specific figures as historical, not
   current, per the wiki's standing dated-data convention.
-- **Native text, no OCR.** The masongaffney.org copy and the Wiley-hosted
-  published version were both consulted; the working text mirror is drawn from
-  a cleanly `pdftotext`-extractable copy, no OCR needed.
+- **Provenance.** The paper was read in full (2026-07-18); both the
+  masongaffney.org copy and the Wiley-hosted published version were consulted,
+  and the working text copy is drawn from a clean digital original.
 - **Priority note (2026-07-18).** The K·T = F capital-turnover identity this
   paper states and attributes, without novelty claims, to "Smith, Ricardo,
   Wicksell, and Turgot" is not new to Gaffney's own corpus either: he derives

@@ -59,12 +59,14 @@ earned/unearned distinction Johnson dismissed has since acquired an empirical
 literature ([capitalization](/wiki/public-investment-capitalizes-into-land/);
 [capital-share](/wiki/capital-share-rise-is-land/)).
 
-## Verification note
+## Publication Details and Limits
 
-Both items verified by title/author/date/venue via multi-snippet corroboration;
-neither full text was retrieved this session (proxy-blocked) — Foldvary's
-specific counterarguments are characterized only at the level his title and
-snippets support. Scan depth **Light**. Confirmed: *The Atlantic Monthly*, Vol. 113, No. 1 (January 1914), pp. 27–37 — [full text on this wiki](/wiki/johnson-case-against-single-tax-1914/)
+Johnson's article appeared in *The Atlantic Monthly*, Vol. 113, No. 1 (January
+1914), pp. 27–37; its [full text is held on this
+wiki](/wiki/johnson-case-against-single-tax-1914/). Both items are confirmed by
+title, author, date, and venue. Foldvary's rebuttal has not been read in full
+here, so his specific counterarguments are characterized only at the level his
+title and published excerpts support.
 
 ## Bears On
 
@@ -84,7 +86,7 @@ snippets support. Scan depth **Light**. Confirmed: *The Atlantic Monthly*, Vol. 
 1. Alvin S. Johnson, "The Case against the Single Tax," *The Atlantic Monthly*,
    January 1914. — used for the critique's existence, venue, author, and the
    "confiscation" characterization (A/E-claims; quotation under 50 words,
-   snippet-corroborated — see verification note).
+   corroborated across multiple published excerpts; Scan Depth: Light).
 2. Fred Foldvary, "The Case Against the Case Against the Single Tax,"
    progress.org, 17 December 2017.
    [Article](https://www.progress.org/articles/the-case-against-the-case-against-the-single-tax/)

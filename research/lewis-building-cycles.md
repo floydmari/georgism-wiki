@@ -28,49 +28,32 @@ Fred Harrison's *Boom Bust* draws directly on Lewis's data, citing Table 5.1 of
 the book (p.74) for an **average cycle duration of 17.4 years** across the
 building cycles Lewis identifies — figures Harrison uses as UK corroboration for
 the same roughly-18-year periodicity that Hoyt's Chicago data documents for the
-US.[2] Lewis's book is cited as this wiki's discovery source for the claim, and
-secondary summaries describe the cycle as tracing back at least to the early
+US.[2] Secondary summaries describe the cycle as tracing back at least to the early
 1700s, with reported cycle lengths in the literature ranging narrowly around
 17–21 years.[3]
 
-This page is drafted from secondary and discovery-source summaries, a book-listing
-page, and the peer-reviewed reception record (Cairncross's 1967 *Economic Journal*
-review and Barras's 2009 synthesis, cited below), not from a direct read of Lewis's
-primary text, which this wiki has not obtained. The exact peak/trough dates, the
-precise definition of "building cycle" Lewis uses, and his own stated conclusions
-about periodicity should accordingly be treated as second-hand — the 17.4-year
-average in particular is Harrison's reading of Lewis's Table 5.1, not a figure
-independently confirmed against the original — and could be checked against the
-primary source or a full academic review should a future editor gain access.
-**Checked again 2026-07-14:** the book's one Internet Archive copy
-(item `buildingcyclesbr0000unse`) is lending-restricted, and its search-inside
-API returns an access error without a library loan; Google Books' search-within-book
-index confirms the digit string "17.4" occurs exactly once in the scanned text
-(a weak sign the figure is not fabricated) but the record has no preview tier, so
-no snippet or page number is visible. This narrows but does not close the gap: the
-figure's existence in the book is now corroborated by an independent index, but its
-context, table, and exact page still are not.
+This page draws on secondary summaries, a book-listing record, and the peer-reviewed
+reception record (Cairncross's 1967 *Economic Journal* review and Barras's 2009
+synthesis, cited below) rather than on Lewis's primary text, whose digitized copies
+are under controlled-digital-lending or search-only restrictions. The exact
+peak/trough dates, the precise definition of "building cycle" Lewis uses, and his own
+stated conclusions about periodicity should accordingly be treated as second-hand —
+the 17.4-year average in particular is Harrison's reading of Lewis's Table 5.1 rather
+than a figure checked against the original.
 
-**Checked again 2026-07-17 — page now pinned, context still unread.** Two
-independently digitized HathiTrust library scans of the book (University of
-Michigan copies, search-only tier: items `mdp.39015007186649` and
-`mdp.39015030457421`) each report exactly one occurrence of "17.4" in the full
-text, and both place it at **printed page 314** of Lewis's book. That triples the
-independent-index corroboration (Google Books plus two HathiTrust scans) and, for
-the first time, gives the figure a location in the primary text. What it does not
-give is context: the search-only tier shows no snippet, so whether p. 314 states
-the 17.4-year average as Lewis's own summary figure (p. 314 falls late in the
-book, where a recap table is plausible) or in some other role remains unread.
-Note the page number is not in tension with Harrison — his "Table 5.1, p. 74"
-citation locates his own table in *Boom Bust*, not a page of Lewis. Two further
-probes this pass: Barras's 2009 synthesis (searchable preview) contains no "17.4"
-anywhere and quotes Lewis only for methodology (its preface quotes Lewis 1965,
-p. 1, on the building cycle presenting "a problem of method as well as of
-theory"); and a second Internet Archive copy surfaced
-(`buildingcyclesbr0000unse_b5o0`, University of Victoria), under the same
-controlled-digital-lending restriction. The cheapest remaining unblock is a free
-archive.org account plus a one-hour lending loan of either copy, turning to
-p. 314 directly.
+Three independent full-text indexes of the book — Google Books' search-within-book
+index and two separately digitized HathiTrust library scans (University of Michigan
+copies, items `mdp.39015007186649` and `mdp.39015030457421`) — each report exactly one
+occurrence of the string "17.4" in the scanned text, and the two HathiTrust scans place
+it at **printed page 314**. That corroborates the figure's presence in Lewis's book and
+gives it a location, but not its context: these indexes are search-only and display no
+snippet, so whether p. 314 states the 17.4-year average as Lewis's own summary figure
+(p. 314 falls late in the book, where a recap table is plausible) or in some other role
+is unknown. The page number is not in tension with Harrison, whose "Table 5.1, p. 74"
+citation locates his own table in *Boom Bust*, not a page of Lewis. Barras's 2009
+synthesis contains no "17.4" anywhere and quotes Lewis only for methodology (its
+preface quotes Lewis 1965, p. 1, on the building cycle presenting "a problem of method
+as well as of theory").
 
 ## Relation to the Georgist Case
 
@@ -92,9 +75,8 @@ long-run historical pattern in more than one country.
   descriptive statistics and narrative periodization — rather than modern
   time-series econometrics.
 - **Secondary sourcing.** The specific figures cited here (17.4-year average,
-  Table 5.1) come from Harrison's *Boom Bust*, not from an independent read of
-  Lewis's original tables; this wiki has not yet independently verified them
-  against the primary text.
+  Table 5.1) come from Harrison's *Boom Bust*, not from Lewis's original tables;
+  they have not been checked against the primary text.
 - **No LVT variation to test.** Britain in this period had no land value tax
   regime distinct from ordinary property taxation, so — exactly as with
   Hoyt — the book cannot speak directly to how a taxed-land counterfactual would
@@ -112,13 +94,12 @@ long-run historical pattern in more than one country.
 
 1. J. Parry Lewis, *Building Cycles and Britain's Growth* (Macmillan, 1965), 384
    pp. — used for the book's title, author, publisher, year, and scope
-   (1700–1950 British building-cycle history, with forecasts to 2000) (search-indexed
-   listing; direct fetch of a full-text or table-of-contents source was not completed
-   in this research pass). [Google Books listing](https://books.google.co.uk/books/about/Building_cycles_and_Britain_s_growth.html?id=WoEkAAAAMAAJ&redir_esc=y)
+   (1700–1950 British building-cycle history, with forecasts to 2000) (bibliographic
+   listing; no full text or table of contents is publicly accessible). [Google Books listing](https://books.google.co.uk/books/about/Building_cycles_and_Britain_s_growth.html?id=WoEkAAAAMAAJ&redir_esc=y)
 2. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*
-   (Shepheard-Walwyn, 2005), Ch. 5 §1, p.74, Table 5.1, as cited in this wiki's
-   [book page for *Boom Bust*](/wiki/harrison-boom-bust/) and its underlying
-   discovery report — used for the 17.4-year average cycle duration figure Harrison
+   (Shepheard-Walwyn, 2005), Ch. 5 §1, p.74, Table 5.1, as cited on the wiki's
+   [book page for *Boom Bust*](/wiki/harrison-boom-bust/)
+   — used for the 17.4-year average cycle duration figure Harrison
    attributes to Lewis (B-claim; empirical, secondhand via Harrison's citation, not
    independently confirmed against Lewis's primary tables).
 3. Alec Cairncross (1967), review of J. P. Lewis, *Building Cycles and Britain's
@@ -126,9 +107,9 @@ long-run historical pattern in more than one country.
    DOI: [10.2307/2229317](https://doi.org/10.2307/2229317) — a peer-reviewed academic
    review of Lewis's book by the economic historian Alec Cairncross; used as the
    citable scholarly anchor (replacing the earlier search-indexed summaries) for the
-   book's standing and reception in the building-cycle literature. The review's
-   bibliographic record was fetched this session; its full text sits behind the EJ
-   paywall, so it anchors the book's scholarly standing rather than the specific
+   book's standing and reception in the building-cycle literature. The review's full
+   text sits behind the EJ paywall, so it anchors the book's scholarly standing
+   rather than the specific
    17.4-year figure, which remains sourced to Harrison.
 4. M. C. Fleming (1966), review of J. P. Lewis, *Building Cycles and Britain's
    Growth*, *The Economic History Review*, New Series 19(2), pp. 435–436. DOI:

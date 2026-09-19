@@ -155,9 +155,9 @@ durable, and a strong reminder that on the digital frontier the right instrument
 - **Successor evidence exists.** The UK Competition and Markets Authority's later digital
   advertising market study (2020) and the U.S. House Judiciary and Stigler Center reports
   develop the same diagnosis in more detail; this page covers the Furman Review specifically.
-- **Provenance.** All findings, figures, panel roster and quotations here were verified
-  against the official gov.uk PDF (Crown copyright, ISBN 978-1-912809-44-8), fetched and read
-  this session.
+- **Provenance.** All findings, figures, panel roster and quotations here were checked
+  against the official gov.uk PDF (Crown copyright, ISBN 978-1-912809-44-8), which was read
+  in full.
 
 ## See Also
 
@@ -186,5 +186,5 @@ durable, and a strong reminder that on the digital frontier the right instrument
    returns to scale of data" diagnosis and verbatim quotes; the Google >90% UK search share
    (Dec 2018) and £11.55bn (2017) UK digital-advertising figures; the strategic-market-status
    / digital-markets-unit / data-mobility / merger-and-antitrust recommendations; and the
-   digital-advertising market-study recommendation (A/B/D-claims; fetched and read in full
-   this session).
+   digital-advertising market-study recommendation (A/B/D-claims; read in full,
+   2026-07-18).

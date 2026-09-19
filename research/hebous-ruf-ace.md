@@ -45,8 +45,7 @@ the authors test what ACE adoption actually changed.[1]
    regressions find "an ACE reduces the total debt ratio in ACE countries by
    about 3 to 5 percentage points on average" — ~3.5pp in the baseline
    specification, and ~5pp for "hard" (full-stock) ACE regimes such as Belgium's,
-   versus ~2.5pp for "soft" (incremental) versions (verified against the
-   working-paper text this session).
+   versus ~2.5pp for "soft" (incremental) versions.
 2. **Passive investment rose; real investment did not.** ACE regimes increased
    intra-group lending and passive financial positions of affiliates, but had
    **no detectable effect on production (real) investment**.[1]
@@ -84,6 +83,6 @@ the [ACE page](/wiki/allowance-for-corporate-equity/).
    multinational debt financing and investment," *Journal of Public Economics*
    156, 131–149 (working-paper version: Victoria Univ. of Wellington/CESifo,
    Jan. 2017) — used for all findings above; debt-ratio magnitudes (3–5pp; 3.5pp
-   baseline, ~5pp hard-ACE) verified against the working-paper text this session.
+   baseline, ~5pp hard-ACE) verified against the working-paper text (2026-07-12).
    [DOI](https://doi.org/10.1016/j.jpubeco.2017.02.011) ·
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2613819)

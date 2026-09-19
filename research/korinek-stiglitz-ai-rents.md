@@ -162,8 +162,8 @@ honest reading keeps both edges.
   spread the weight across rent taxes, antitrust, IP reform, public research and even giving
   workers equity shares. Read as a Georgist source it is a strong ally on the principle, not
   a design for a single-tax instrument on AI.
-- **Provenance.** All quotations and observation labels here were taken from the NBER PDF of
-  w24174 (fetched and read in full this session); page references are to that PDF.
+- **Provenance.** All quotations and observation labels here are taken from the NBER PDF of
+  w24174; page references are to that PDF.
 
 ## See Also
 
@@ -196,4 +196,4 @@ honest reading keeps both edges.
    land/urban-rentier passages; the "growth of rents"/high-rent-tax and antitrust/IP/public-
    research remedy menu; the land-augmenting long-run growth conclusion; the second-best
    patent-length-vs-capital-tax model; and all verbatim quotes (C/D-claims — theoretical
-   taxonomy in an unrefereed working paper; fetched and read in full this session).
+   taxonomy in an unrefereed working paper; read in full, 2026-07-12).
