@@ -1,0 +1,418 @@
+{
+ "people/eric-goldman.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "abor politics, and the tensions between single-taxers and Populists. (A-claim; factual)  ## Key Ideas/Contributions  - **George as pivotal reform f"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "the labor movement of to-day as Henry George\" (Goldman 1952, p. 47). (A-claim; factual)  - **The \"steel chain of ideas.\"** Goldman's most distincti"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "orgist critiques of classical economics as serving landed interests. (D-claim; interpretive)  - **The 1886 campaign as high-water mark.** Goldman d"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "g liberal named Theodore Roosevelt ran third\" (Goldman 1952, p. 47). (A-claim; factual)  - **Single-tax vs. Populist tensions.** Goldman documented"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "iring any further governmental interferences\" (Goldman 1952, p. 59). (D-claim; interpretive)  - **The depression of 1873 as context.** Goldman desc"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "rld\" to \"repeat the Old World's dismal story\" (Goldman 1952, p. 39). (D-claim; interpretive)  ## Key Works  - *Rendezvous with Destiny: A History o"
+  }
+ ],
+ "people/florenz-plassmann.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " environmental economics; voting methods and public choice). Verified this session via his Ohio University / Binghamton faculty listings and research pr"
+  }
+ ],
+ "people/floyd-marinescu.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "(2002) and    *Domain-Driven Design Quickly* (2006). Directly fetched this pass. 4. \"Floyd Marinescu,\" InfoQ contributor profile. [infoq.com](https:/"
+  }
+ ],
+ "people/frank-knight.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " in the Single Tax\" (1953) was not confirmed against a primary source this session; the essay's existence and content are reported here via Gaffney's se"
+  }
+ ],
+ "people/fred-harrison.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "rgument rather than a peer-reviewed empirical claim, and the wiki has not independently verified its case studies.  ## See Also  - [Shepheard-Walwyn Publishers](/wiki"
+  }
+ ],
+ "people/friedrich-hayek.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's discovery",
+   "context": "]  **Verification note.** Some secondary Georgist sources — including this wiki's discovery-source summary of *Land is a Big Deal* — state that Hayek numbered am"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "nt of George's land tax (the Common Ownership Self-Assessed Tax).[3]  **Verification note.** Some secondary Georgist sources — including this wiki's discovery-"
+  }
+ ],
+ "people/gary-flomenhoft.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "llion of state funds to local investment. [Per his own UVM biography; not independently verified against the legislation.]  ## See Also  - [Valuing Common Assets for "
+  }
+ ],
+ "people/guy-standing.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "arter of the Forest / charter-for-commoning framing (fetched directly this session). 6. Guy Standing, \"Current Projects\" (personal site). [guystanding.c"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "-exhaustible commons) are quoted verbatim from the book text, checked this session. Corroborated by Standing's own summary at [guystanding.com/current-p"
+  }
+ ],
+ "people/harry-gunnison-brown.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "ul Samuelson's \"American saints in economics\" remark was not obtained this pass; the characterization is drawn from Wikipedia, which lists Brown alon"
+  }
+ ],
+ "people/henry-george-jr.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "larly assessment of the book's reception or influence. Channels tried this session and their results — Google/web search (surfaced only bookseller listi"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 429",
+   "context": " book, only unrelated George-family citations); Semantic Scholar API (HTTP 429, rate-limited, not completed); Internet Archive Scholar (returned a s"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": "scarded as unreliable rather than used); HathiTrust full-text search (HTTP 403, blocked). The book does not appear to be discussed in the corpus wor"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Channels tried",
+   "context": "post-1950) scholarly assessment of the book's reception or influence. Channels tried this session and their results — Google/web search (surfaced only boo"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Semantic Scholar API",
+   "context": "ically discussing this book, only unrelated George-family citations); Semantic Scholar API (HTTP 429, rate-limited, not completed); Internet Archive Scholar (re"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "l public highway functions into public hands\" (Preface).[5] This is a D-claim as far as the wiki treats it evidentially — the book is a polemic mak"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[CITATION NEEDED: a modern (post-1950) scholarly assessment of the book's reception or influence. Channels tried this session and their results — Google/web search (surfaced only bookseller listings and the two 1906 reviews above); Google Scholar via search (returned no results specifically discussing this book, only unrelated George-family citations); Semantic Scholar API (HTTP 429, rate-limited, not completed); Internet Archive Scholar (returned a summary that could not be corroborated against the underlying search results and was discarded as unreliable rather than used); HathiTrust full-text search (HTTP 403, blocked). The book does not appear to be discussed in the corpus works already mined for this page (Barker 1955, England 2023, Bryson 2011 as cited on other wiki pages). A future pass with working HathiTrust/Semantic Scholar access, or JSTOR search for citing articles, should retry.]",
+   "context": "ofound questions in the spirit of partisan prejudice and passion.\"[9] [CITATION NEEDED: a modern (post-1950) scholarly assessment of the book's reception or influence. Channels tried this session and their results — Google/web search (surfaced only bookseller listings and the two 1906 reviews above); Google Scholar via search (returned no results specifically discussing this book, only unrelated George-family citations); Semantic Scholar API (HTTP 429, rate-limited, not completed); Internet Archive Scholar (returned a summary that could not be corroborated against the underlying search results and was discarded as unreliable rather than used); HathiTrust full-text search (HTTP 403, blocked). The book does not appear to be discussed in the corpus works already mined for this page (Barker 1955, England 2023, Bryson 2011 as cited on other wiki pages). A future pass with working HathiTrust/Semantic Scholar access, or JSTOR search for citing articles, should retry.]  ## *Life of Henry George* (1900)  After his father's fatal 1897 mayo"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[CITATION NEEDED]",
+   "context": "o modern scholarly assessment of the book has been located — see the `[CITATION NEEDED]` note above. - **Do not conflate father and son.** *Progress and Pove"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "l U.S. House biography; cited in this wiki's registry, not re-fetched this session — see the district-number `[VERIFY]` note above). 2. U.S. Congress, B"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "ki's registry, not re-fetched this session — see the district-number `[VERIFY]` note above). 2. U.S. Congress, Biographical Directory of the United "
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "source/sn85066387/1897-12-03/ed-1/?sp=3) — used to resolve the prior `[VERIFY]` on the December 2, 1897 marriage: all three, filed from Chicago, agr"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[CITATION NEEDED]",
+   "context": "reface and table of contents only, not the full 421-page text) — see `[CITATION NEEDED]` above for reception/influence coverage still missing. 6. @unitedstat"
+  }
+ ],
+ "people/henry-george.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "erican between Lincoln and Franklin Roosevelt\" (Barker 1955, p. 14). (D-claim; interpretive)  Barker emphasizes that the California experience was "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ak for the people of the world's great cities\" (Barker 1955, p. 26). (D-claim; interpretive)  ### Goldman: Political Context and the 1886 Campaign "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "7). See [Rendezvous with Destiny](/wiki/rendezvous-with-destiny/). (A/D-claim; factual/interpretive)  ### Henry George Jr.: The \"Flash of Insight\" "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "d 1868 *Overland Monthly* article \"What the Railroad Will Bring Us.\" (A-claim; direct quotation of George's own account, corroborated against his e"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "Book Was Written](/wiki/progress-and-poverty/) for the full episode. (A-claim; letter quoted verbatim by the biographer)  ### Bryson: Rehabilitatio"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": ", p. 5). See [Bryson's book page](/wiki/economics-of-henry-george/). (D-claim; interpretive)  ## See Also  - [Karl Marx](/wiki/karl-marx/) — George"
+  }
+ ],
+ "people/henry-miller-cattle-king.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "for the firm's land and water empire; publisher's abstract (confirmed this session) describes how Miller and Lux \"consolidated the West's most extensive"
+  }
+ ],
+ "people/herbert-spencer.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "same equal-rights end Spencer's early *Social Statics* had endorsed. (A-claim; direct quotation, verified verbatim against the repository's hosted "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "t — dating the reversal's public, textual expression to that window. (A-claim; direct quotation, verified verbatim against the repository's hosted "
+  }
+ ],
+ "people/herman-daly.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "y, the University of Maryland, and was a research associate at Yale. (A-claim; factual)  ## Key Ideas/Contributions  - **Steady-state economics.** "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "nges the growth paradigm of both mainstream and Keynesian economics. (C-claim; theoretical)  - **Throughput.** Daly defined the economy in terms of"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "economics as a biophysical process rather than a system of exchange. (C-claim; theoretical)  - **Uneconomic growth.** Daly coined the term \"unecono"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "tput. He argued that wealthy economies had likely entered this zone. (C-claim; theoretical)  - **Critique of neoclassical production functions.** D"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "r international trade but not for the deregulation of capital flows. (D-claim; interpretive)  - **Connection to Georgism.** While Daly's work does "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " three-factor framework (land, labor, capital) that George defended. (D-claim; interpretive)  ## Key Works  - *Steady-State Economics* (1977; 2nd e"
+  }
+ ],
+ "people/homer-hoyt.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "g scholarship    (abstract-level; full text not independently read in this pass). Full-text    confirmation of the sector-model details beyond the ab"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "Institute. Direct fetch of the *Post* page again returned an error in this pass (HTTP 403/    connection failure), but the obituary's citation and it"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "tute](https://hoytgroup.org/hoyt-institute/) — fetched directly in    this pass (via the April 2026 Wayback capture); confirms the institute is \"an i"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": " verified verbatim     against the Internet Archive DJVU full text in this pass. The ranking begins on p. 314 and     the numbered list of ten groups"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "n and a Fellow of the     institute's Weimer School), read in full in this pass. Used to corroborate Hoyt's FHA role     (Principal Housing Economist"
+  }
+ ],
+ "people/james-harrington.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "George (B-claim,    locator given; not independently page-verified in this session).    [Book page](/wiki/harrison-ricardos-law/) "
+  }
+ ],
+ "people/james-meade.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ual payment as of right (A/C-claims;    verified via multiple sources this session).    [Semantic Scholar](https://www.semanticscholar.org/paper/aa268f3"
+  }
+ ],
+ "people/james-mill.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "ndent confirmation of the priority claim beyond Blaug was not located this pass — but is well attested in the standard history-of-thought literature "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "was not located this pass",
+   "context": " (2000) — independent confirmation of the priority claim beyond Blaug was not located this pass — but is well attested in the standard history-of-thought literature "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " (\"Taxes on Rent\"), pp. 198–203 — **primary source, verified verbatim this session against the Internet Archive scan of the 1821 first edition.** Confir"
+  }
+ ],
+ "people/jan-eeckhout.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "sted among the supporting research.  4. Biographical details verified this session via Eeckhout's CV and the Wikipedia/CEPR/UPF profiles: he is a **Belg"
+  }
+ ],
+ "people/jaron-lanier.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "pt and the original data-as-labor argument; not independently re-read this session, cited via the wiki's [Data as Labor](/wiki/data-as-labor/) page and "
+  }
+ ],
+ "people/jm-neeson.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "at the University of Warwick under the supervision of E.P. Thompson. (A-claim; factual)  ## Key Ideas/Contributions  - **Common rights as lived pra"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ference between subsistence and destitution for many rural families. (B-claim; empirical)  - **The social cost of enclosure.** Neeson documents how"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "es lost access to resources that had sustained them for generations. (B-claim; empirical)  - **Northamptonshire case study.** Neeson's detailed arc"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ike West Haddon and Burton Latimer serve as detailed case studies. (A/B-claim; empirical)  - **Counter to productivity arguments.** Neeson engages "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ins accrued to large landowners while the costs fell on the poorest. (D-claim; interpretive)  - **Georgist relevance.** Neeson's documentation of h"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " the gift of nature and its privatization is the root of inequality. (D-claim; interpretive)  ## Key Works  - *Commoners: Common Right, Enclosure a"
+  }
+ ],
+ "people/johann-heinrich-von-thunen.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e Volume 2    marginal-productivity wage analysis (A-claims; verified this session).    [Britannica](https://www.britannica.com/biography/Johann-Heinric"
+  }
+ ]
+}

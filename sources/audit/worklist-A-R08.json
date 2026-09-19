@@ -1,0 +1,322 @@
+{
+ "research/hebous-ruf-ace.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "t\" (incremental) versions (verified against the    working-paper text this session). 2. **Passive investment rose; real investment did not.** ACE regime"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "p    baseline, ~5pp hard-ACE) verified against the working-paper text this session.    [DOI](https://doi.org/10.1016/j.jpubeco.2017.02.011) ·    [SSRN]("
+  }
+ ],
+ "research/herkenhoff-ohanian-prescott-tarnishing.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "iles/working_papers/w23790/w23790.pdf) — directly fetched and read in this session; used for the working-paper circulation history, the abstract quotati"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ments/Herkenhoff_Ohanian_Prescott.pdf) — directly fetched and read in this session; used for the verbatim abstract, author affiliations, model descripti"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "iles/working_papers/w23609/w23609.pdf) — directly fetched and read in this session; used for confirming this related paper's actual scope (income conver"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "papers/Tonetti_HOPComment.pdf) — directly fetched and read in full in this session; used for the substance of the published comment folded into the Nuan"
+  }
+ ],
+ "research/hernandi-salad-indonesia-lvt.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ax notices were cited as a persistent source of public confusion.[1] (B-claim; survey-based empirical finding, single-regency scope.)  ## Policy Re"
+  }
+ ],
+ "research/hirano-stiglitz-credit-land-speculation-growth.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "sion-predicts-growth-slowdowns    finding, not independently verified this session (secondary citation within source 1). 4. Karsten Müller & Emil Verner"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "credit expansion    predicts the opposite, not independently verified this session (secondary citation    within source 1). "
+  }
+ ],
+ "research/hirano-stiglitz-growth-fluctuations-land-speculation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "can.** The full NBER PDF returned a 403 on every fetch method tried   this session; this page is built entirely from the published abstract. No claim be"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "a 403",
+   "context": "ces and Limits  - **Abstract-level scan.** The full NBER PDF returned a 403 on every fetch method tried   this session; this page is built entire"
+  }
+ ],
+ "research/hirano-stiglitz-olg-multiplicity-fluctuations.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "were blocked   (403/Cloudflare challenge) on every fetch method tried this session; this page is built   from the published abstract and search-result c"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": ".** Both the NBER PDF and the Oxford Academic PDF were blocked   (403/Cloudflare challenge) on every fetch method tried this session; this page is bui"
+  }
+ ],
+ "research/hirano-stiglitz-wobbly-economy-global-dynamics.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "act/intro material read; full technical sections not read    in depth this session). "
+  }
+ ],
+ "research/holz-perez-truglia-simon-zentner-ai-tax-appeals.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " other appeals systems or other AI-assisted government processes. - **A-claim.** Full text (introduction, experimental design, headline results, an"
+  }
+ ],
+ "research/hou-kumhof-shao-china-lvt-simulation.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ost of the wiki's other LVT simulations. - **Full text read directly (A-claim).** The complete 61-page working paper was read,   including the mode"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "//papers.ssrn.com/sol3/papers.cfm?abstract_id=6223168) (blocked to    this session) · full text read directly at    [ifo.de/DocDL/cesifo1_wp12476.pdf](h"
+  }
+ ],
+ "research/hoyt-chicago-land-values.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ts early professional reception; that review's full text was not read this session, so no characterization of its verdict is asserted here (and the venu"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "has not been independently confirmed",
+   "context": "verdict is asserted here (and the venue attribution in those listings has not been independently confirmed).  ## From the Text (verbatim, Chapter VII: *The Chicago Real Estate "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "FLAGGED (2026-07-11",
+   "context": "ms (p. 409/410); and the racial/nationality ranking (pp. 314–316).  **FLAGGED (2026-07-11) — RESOLVED (2026-07-18 T2 quote-verification pass):** the four misma"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "RESOLVED (2026-07-18",
+   "context": "e racial/nationality ranking (pp. 314–316).  **FLAGGED (2026-07-11) — RESOLVED (2026-07-18 T2 quote-verification pass):** the four mismatches below were found d"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "T2 quote-verification",
+   "context": "ranking (pp. 314–316).  **FLAGGED (2026-07-11) — RESOLVED (2026-07-18 T2 quote-verification pass):** the four mismatches below were found during the 2026-07-11 i"
+  }
+ ],
+ "research/hsieh-moretti-spatial-misallocation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "aspects of the original approach, and Greaney has issued a rejoinder; as of this writing the dispute is **live and unresolved** in the published record, not a"
+  }
+ ],
+ "research/hudson-killing-the-host.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "EDITORIAL taxonomy",
+   "context": "ims accordingly: as Hudson's argument, not as settled empirical fact (EDITORIAL taxonomy C/D — theoretical and interpretive claims). The book's core target is"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "mework for connecting classical land-rent theory to modern banking (C/D-claim); it parallels, and is likely one of the sources for, the land-credit"
+  }
+ ],
+ "research/hudson-lies-of-the-land.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ric result, and no independent replication of that figure was located this session; it should be read as Hudson's estimate, not a confirmed result. The "
+  }
+ ],
+ "research/iaao-standards.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "r how a property tax system should be designed and run.[2]  Both were fetched and read in full (not summarized secondhand) for this page (2026-07-18).  ## W"
+  }
+ ],
+ "research/imf-building-tax-capacity.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": ".** The imf.org PDF and eLibrary pages block direct automated access (HTTP 403/405), but the full primary PDF has since been read directly via an In"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ncial Times) since the primary IMF Blog URL returned an HTTP error in this session. 3. International Monetary Fund, \"Building Tax Capacity in Developing"
+  }
+ ],
+ "research/imf-gen-ai-future-of-work.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "ication but not the weight of an official IMF policy position. It was fetched and read in full (all 42 pages) for this entry.  The note builds a cross-count"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ons; the landing page (imf.org/en/Publications/SDN) returned a 403 in this session's network environment, but the direct SDN PDF was fetched and read in"
+  }
+ ],
+ "research/india-mohua-value-capture-framework.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ation of its nine-year track record were   not independently obtained this session. - **Scope note.** This page is scoped narrowly to the VCF Framework "
+  }
+ ],
+ "research/isgandarov-mustafayev-azerbaijan-public-goods.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "were not independently extracted this\n  session",
+   "context": "ll underlying text;   specific figures and the complete indicator set were not independently extracted this   session.  ## Bears On  - **Concept:** [Sovereign Wealth Fund](/wiki/sovereign"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "independently extracted ",
+   "context": "ying text;   specific figures and the complete indicator set were not independently extracted this   session.  ## Bears On  - **Concept:** [Sovereign Wealth Fund](/"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "   causal estimate of institutional-quality reforms' effect size. - **B-claim.** Read via a fetched summary of the paper rather than the full under"
+  }
+ ],
+ "research/johnson-1914-single-tax-critique.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "enue via multi-snippet corroboration; neither full text was retrieved this session (proxy-blocked) — Foldvary's specific counterarguments are characteri"
+  }
+ ],
+ "research/jones-chaos-makers.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "r forecasting precedent. The original 1997 text was not directly read this session, so its specific data tables and methodology are reported only as tho"
+  }
+ ],
+ "research/kakumu-kenya-site-value-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "ed reference list for this article in full — 87 entries, read via the Crossref API on 2026-08-25. Its bibliography spans three broad clusters. First, pr"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY]",
+   "context": "ally detailed and substantive. Claims beyond the abstract are marked `[VERIFY]`.  ## Findings (per abstract)  Henry George's site-value-tax idea — c"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: full text unread. Re-confirmed closed on 2026-08-10 via Unpaywall (`is_oa: false`), a direct SAGE fetch (paywalled), and the author's own Academia.edu profile (access error, no self-archived copy found). The publisher-deposited reference list (87 entries) was read in full via Crossref on 2026-08-25 — see \"What the Paper Builds On\" above — which narrows the gap to the body text specifically, not the paper's scope or scholarly context.]",
+   "context": "ow.  ## Standing and Limits  - **Abstract-only scan; closed access.** [VERIFY: full text unread. Re-confirmed closed on 2026-08-10 via Unpaywall (`is_oa: false`), a direct SAGE fetch (paywalled), and the author's own Academia.edu profile (access error, no self-archived copy found). The publisher-deposited reference list (87 entries) was read in full via Crossref on 2026-08-25 — see \"What the Paper Builds On\" above — which narrows the gap to the body text specifically, not the paper's scope or scholarly context.] The mechanism of transmission (how, specifically, \"the British Libera"
+  }
+ ],
+ "research/kakumu-lvc-georgist-political-economy.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "rom a fully verbatim abstract).** The publisher   page was blocked to this session; this page is built from the paper's verbatim abstract   obtained via"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "rbatim abstract).** The publisher   page was blocked to this session; this page is built from the paper's verbatim abstract   obtained via the Semantic Scholar API"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Semantic Scholar API",
+   "context": "s page is built from the paper's verbatim abstract   obtained via the Semantic Scholar API, not the paper's full development of the taxonomy. - **Publication ye"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "rization, not a new dataset or case study. - **Abstract-level source (B-claim, upgraded from a fully verbatim abstract).** The publisher   page was"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "://doi.org/10.1080/02665433.2024.2386685) —    fetch blocked (403) to this session 2026-08-30; verbatim abstract obtained via the    Semantic Scholar AP"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "tps://doi.org/10.1080/02665433.2024.2386685) —    fetch blocked (403) to this session 2026-08-30; verbatim abstract obtained via the    Semantic Scholar AP"
+  }
+ ]
+}

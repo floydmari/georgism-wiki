@@ -1,0 +1,466 @@
+{
+ "research/kanemoto-ohkawara-suzuki-optimal-city-size.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " the pre-publication working-paper text; fetched and read directly in this session. Used for the abstract, introduction, methodology (the Integrated Met"
+  }
+ ],
+ "research/kaplow-market-power.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "78/w25578.pdf) — used for the model setup (full text fetched and read this session), the proportional-markup neutrality result, the weighted-average mar"
+  }
+ ],
+ "research/karp-landlord-private-government.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "plate   content; the verbatim published abstract was obtained via the Crossref API (matching an   independently cached Semantic Scholar copy word-for-wo"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "is built on. - **Abstract-level for the peer-reviewed article itself (A-claim for the verbatim abstract;   B-claim for supporting mechanism detail)"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "he peer-reviewed article itself (A-claim for the verbatim abstract;   B-claim for supporting mechanism detail).** The publisher page returned only "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "23292241285289) —    publisher page returned only template content to this session 2026-08-31; verbatim    abstract obtained via the Crossref API (cross"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "00323292241285289) —    publisher page returned only template content to this session 2026-08-31; verbatim    abstract obtained via the Crossref API (cross"
+  }
+ ],
+ "research/kindleberger-manias-panics-crashes.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "nces to Kindleberger in Chs. 10 and 15 was not independently verified this session.  ## See Also  - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the wiki"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "was not independently verified this session",
+   "context": "level content of Patel's references to Kindleberger in Chs. 10 and 15 was not independently verified this session.  ## See Also  - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the wiki"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's discovery",
+   "context": "not assert.[1][3] Kindleberger and Aliber's taxonomy is referenced in this wiki's discovery source, Akhil Patel's *[The Secret Wealth Advantage](/wiki/patel-secr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's discovery",
+   "context": " The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/) — this wiki's discovery source citing Kindleberger's framework "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "verified this session",
+   "context": "'s references to Kindleberger in Chs. 10 and 15 was not independently verified this session.  ## See Also  - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — the wiki"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "atel's discussion at these chapters was not independently re-verified this session. "
+  }
+ ],
+ "research/knoll-schularick-steger-house-prices.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "(EDITORIAL taxonomy B)",
+   "context": "y and into the 2000s. This is a purely empirical, descriptive finding (EDITORIAL taxonomy B) drawn directly from the constructed price series, not a theoretical p"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "EDITORIAL taxonomy",
+   "context": " and into the 2000s. This is a purely empirical, descriptive finding (EDITORIAL taxonomy B) drawn directly from the constructed price series, not a theoretica"
+  }
+ ],
+ "research/korinek-lockwood-ai-public-finance.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "and read in substantial part (sections 1, 2, 5, and   the conclusion) this session; sections 3 and 4's full formal derivations were not exhaustively   r"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": " verified against the NBER Working   Paper 34873 PDF (February 2026), fetched and read in substantial part (sections 1, 2, 5, and   the conclusion) this ses"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " read in substantial part — sections 1, 2, 5, and the    conclusion — this session)."
+  }
+ ],
+ "research/korinek-stiglitz-ai-rents.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "re were taken from the NBER PDF of   w24174 (fetched and read in full this session); page references are to that PDF.  ## See Also   - [Korinek & Vipra:"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "and observation labels here were taken from the NBER PDF of   w24174 (fetched and read in full this session); page references are to that PDF.  ## See Also "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "    taxonomy in an unrefereed working paper; fetched and read in full this session)."
+  }
+ ],
+ "research/korinek-vipra-ai-concentration.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "r PDF (No. 228,   October 2, 2024 revision), fetched and read in full this session; the published citation   (*Economic Policy* 40(121), 225–256, 2025) "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "nst the INET working-paper PDF (No. 228,   October 2, 2024 revision), fetched and read in full this session; the published citation   (*Economic Policy* 40("
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "or quasi-experimental    empirical estimate; fetched and read in full this session)."
+  }
+ ],
+ "research/korinek-vipra-concentrating-intelligence.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ber 2024 revision), fetched directly   from nber.org and read in full this session. The subsequently published *Economic   Policy* version (vol. 40, iss"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nomy and forward-looking policy analysis; fetched and read in    full this session)."
+  }
+ ],
+ "research/kozminski-baek-alaska-inequality.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nd the quoted finding verified against the publisher record and RePEc this session. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pi"
+  }
+ ],
+ "research/la-cava-housing-capital-share.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "a employs as his cross-sectional identification device.  [Re-verified this session: the methodological detail is no longer single-sourced. The [BIS Work"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "html) (the live RBA page returned \"Access Denied\" to a scripted fetch this session), reconfirming the state-fixed-effects specification and the interest"
+  }
+ ],
+ "research/lapavitsas-financialization.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this environment",
+   "context": "'s own PDF (Taylor & Francis) still returns a Cloudflare challenge in this environment, and direct fetches from ResearchGate, academia.edu, SOAS's repositor"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "domain does not resolve). The full text was instead obtained and read this session (2026-07-17) via the Internet Archive Wayback Machine's cached snapsh"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "Hans Despain's review of the book *Profiting Without Producing* (read this session) cites the book's own pages for the same apparatus — \"financial expro"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "-rents](/wiki/corporate-profits-increasingly-rents/) page. **Resolved this session:** direct reading of the 2013 *City* article confirms it names and de"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": " obtained and read this session (2026-07-17) via the Internet Archive Wayback Machine's cached snapshot of the identical publisher PDF (archived 20"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "so, 2013). The publisher's own PDF (Taylor & Francis) still returns a Cloudflare challenge in this environment, and direct fetches from ResearchGate, "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "(EDITORIAL taxonomy D)",
+   "context": "uances and Limits  Lapavitsas's framework is theoretical/interpretive (EDITORIAL taxonomy D) rather than a quasi-experimental empirical result: \"financial expropr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "EDITORIAL taxonomy",
+   "context": "ances and Limits  Lapavitsas's framework is theoretical/interpretive (EDITORIAL taxonomy D) rather than a quasi-experimental empirical result: \"financial expr"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": "om/doi/pdf/10.1080/13604813.2013.853865) (still Cloudflare-blocked in this environment — returns HTTP 403; ResearchGate, academia.edu, and SOAS's own reposi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ved 2023-04-22 — the identical official typeset article, read in full this session (2026-07-17). Used for the verbatim abstract, the opening mortgage-cr"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " earlier attempt; re-fetched successfully (HTTP 200) and read in full this session (2026-07-17). Used as secondary corroboration for the book's own page"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ithout Producing*, Verso 2013) was not independently obtained in full this session — no free/legal full-text copy was found (Perlego and Everand require"
+  }
+ ],
+ "research/leape-london-congestion-charge.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "re were verified   verbatim against the AEA and RePEc article records this session; the full text on   aeaweb.org returned HTTP 403 to this wiki's egres"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": " article records this session; the full text on   aeaweb.org returned HTTP 403 to this wiki's egress. The internal effect sizes   (34% car-distance,"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's egress",
+   "context": "ords this session; the full text on   aeaweb.org returned HTTP 403 to this wiki's egress. The internal effect sizes   (34% car-distance, ~12% overall, ~30% co"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "verified verbatim against the AEA article page and RePEc/IDEAS record this session;    the aeaweb full-text PDF returned HTTP 403 to this wiki's egress."
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ue), a    peer-reviewed working paper drawing on Leape 2006, verified this session. [Lancaster University Economics WP (London Congestion Charge)](https"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "n ~12%, bus use up >a third, and    ~80% payer satisfaction (verified this session).    [Economist](https://www.economist.com/britain/2005/02/10/crawlin"
+  }
+ ],
+ "research/lewis-building-cycles.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "his own table in *Boom Bust*, not a page of Lewis. Two further probes this pass: Barras's 2009 synthesis (searchable preview) contains no \"17.4\" anyw"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not obtained",
+   "context": ", not from a direct read of Lewis's primary text, which this wiki has not obtained. The exact peak/trough dates, the precise definition of \"building cyc"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Checked again 2026-07-14",
+   "context": "ource or a full academic review should a future editor gain access. **Checked again 2026-07-14:** the book's one Internet Archive copy (item `buildingcyclesbr0000un"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Checked again 2026-07-17",
+   "context": "ndent index, but its context, table, and exact page still are not.  **Checked again 2026-07-17 — page now pinned, context still unread.** Two independently digitize"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's discovery",
+   "context": "Hoyt's Chicago data documents for the US.[2] Lewis's book is cited as this wiki's discovery source for the claim, and secondary summaries describe the cycle as t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ng-cycle literature. The review's    bibliographic record was fetched this session; its full text sits behind the EJ    paywall, so it anchors the book'"
+  }
+ ],
+ "research/lie-norwegian-oil-fund.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "https://eml.berkeley.edu/~webfac/cromer/Lie.pdf)    (fetched and read this session) ·    [University of Oslo DUO record](https://www.duo.uio.no/handle/1"
+  }
+ ],
+ "research/lincoln-detroit-land-value-increments.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently extracted",
+   "context": "ines** — those details live in the full 51-page working paper body,   not independently extracted for this page. - **Full landing-page content read directly, not the c"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "independently extracted ",
+   "context": "** — those details live in the full 51-page working paper body,   not independently extracted for this page. - **Full landing-page content read directly, not the co"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "Full landing-page content read directly, not the complete paper body (B-claim).** The   paper's own working-paper page (not paywalled) was read dir"
+  }
+ ],
+ "research/lincoln-institute-latam-property-tax-book.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not obtained",
+   "context": "n   announcement of the book, not the book itself, which the wiki has not obtained or read   directly. The GDP-share figures and country list are report"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "eported statistics; the underlying book was not independently read    this session). "
+  }
+ ],
+ "research/lincoln-ohio-property-tax-alternatives.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "- **Full landing-page content read directly, independently confirmed (A-claim).** The   paper's working-paper page (not paywalled) was read directl"
+  }
+ ],
+ "research/lincoln-sao-paulo-market-power-housing.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "were not independently extracted",
+   "context": "ne findings; the full general   equilibrium model and welfare results were not independently extracted.  ## Bears On  - **Concept:** [Land Value Capture](/wiki/land-value-c"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " market power elsewhere. - **Full landing-page content read directly (B-claim).** The paper's working-paper page (not   paywalled) was read directl"
+  }
+ ],
+ "research/lincoln-synchronous-tdr-credits.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "was not independently extracted",
+   "context": "e findings; the full 27-page   paper's detailed valuation methodology was not independently extracted.  ## Bears On  - **Concept:** [Land Value Capture](/wiki/land-value-c"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "comes, or market uptake. - **Full landing-page content read directly (B-claim).** The paper's working-paper page (not   paywalled) was read directl"
+  }
+ ],
+ "research/liu-shanghai-chongqing-property-tax-pilots.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "tude of the effect elsewhere should be done cautiously. - **Full text not independently verified beyond the abstract.** Specific synthetic-control   weights, the exac"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "uality, and full placebo-test results are not   covered by this page (B-claim).  ## Bears On  - **Objection:** [LVT Doesn't Raise Enough Revenue](/"
+  }
+ ],
+ "research/liu-zhu-china-scalar-rent-politics.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "Abstract-level source (B+-claim).** The publisher page was blocked to this session,   including via a reader-proxy route, despite the paper's confirmed "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "status (no independent PDF mirror was indexed anywhere at the time of this session);   specific policy instruments, the precise trigger of the \"developm"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "om/science/article/pii/S0264837725002261) —    fetch blocked (403) to this session 2026-08-31, including via a reader-proxy route,    despite confirmed "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "t.com/science/article/pii/S0264837725002261) —    fetch blocked (403) to this session 2026-08-31, including via a reader-proxy route,    despite confirmed "
+  }
+ ]
+}

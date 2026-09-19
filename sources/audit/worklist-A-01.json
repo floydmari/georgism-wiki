@@ -1,0 +1,508 @@
+{
+ "benefits/carbon-pricing-cuts-emissions.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "rily, or let the atmosphere change it for us?\" (Barnes 2006, Ch. 1). (C-claim; theoretical)  The sky trust model connects directly to the carbon-pr"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "Columbia carbon tax demonstrates that pricing emissions reduces them (B-claim), while Barnes's design adds the dividend mechanism that makes the ch"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ence of the idea's persistence and of its political ceiling to date. (D-claim; interpretive)  ## See Also  - [Ecological Georgism](/wiki/ecological"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " 5–15% emissions estimate    (B-claims; verified via multiple sources this session).    [ResearchGate](https://www.researchgate.net/publication/26593841"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e    three-times-price-elasticity salience finding (B-claim; verified this session, see the    dedicated [research page](/wiki/andersson-sweden-carbon-t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "% to –21% (–4% to –15% bias-corrected)    (B-claim; verified verbatim this session, see the dedicated    [research page](/wiki/dobbeling-carbon-pricing-"
+  }
+ ],
+ "benefits/congestion-pricing-reduces-traffic.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " all built on measured 2006 trial data (verified against    the paper this session).    [PDF](https://f.hubspotusercontent30.net/hubfs/4056033/A%20cost%"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " the    charge to fund the rail tunnel (verified via multiple sources this session).    [PDF](https://www.transportportal.se/swopec/CTS2014-25.pdf) 4. C"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "efits) from    the first US cordon scheme (B-claim; verified verbatim this session, see the dedicated    [research page](/wiki/cook-nyc-congestion-prici"
+  }
+ ],
+ "benefits/land-value-tax-can-be-progressive.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "th flips the same data progressive. This is Gaffney's own argument (C/D-claim; a 1971 conference paper responding to the literature of its moment, "
+  }
+ ],
+ "benefits/lvt-can-replace-capital-taxes-without-efficiency-loss.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "asymmetric* tax treatment this page's efficiency argument calls for. (D-claim: historical interpretation and institutional lineage in an advocacy e"
+  }
+ ],
+ "benefits/lvt-reduces-sprawl.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "r low substitution, can *increase* sprawl). Directly fetched and read this pass from the free full-text PDF (matthewturner.org); the earlier citation"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "itan land area with no tax variable tested. Directly fetched and read this pass. 4. Wallace E. Oates & Robert M. Schwab (1997), \"The Impact of Urban "
+  }
+ ],
+ "benefits/rent-dividends-reduce-poverty.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Access note",
+   "context": "t is gaming/monopoly rent, not land rent, and the transfer is modest. **Access note:** the Costello (2003) *JAMA* paper is paywalled beyond its structure"
+  }
+ ],
+ "benefits/resource-rent-capture-works.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "8% combined marginal rate and the 2022 cash-flow conversion (verified this session;    details and quotes on the [cash-flow tax](/wiki/cash-flow-tax/) p"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "reduction from 4%    to 3% of expected real return (A-claim; verified this session).    [regjeringen.no](https://www.regjeringen.no/en/topics/the-econom"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "d via fresh OCR of a poor legacy scan — see the     dedicated page's `[VERIFY]` note; corroborating, not load-bearing). 17. Mason Gaffney (1992), \"T"
+  }
+ ],
+ "benefits/resource-rent-dividends-work.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "framing is attributed, not independent corroboration of that record. (D-claim; attributed)  Barnes argues that the Alaska model can be extended bey"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": " these two corroborating summaries rather than direct page citation. (C-claim; theoretical)  Barnes's cautionary tale (Ch. 8) examines carbon cappi"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ransparency and political durability that makes Alaska's model work. (D-claim; interpretive)  ## See Also  - [Maricá, Brazil: an oil-royalty-funded"
+  }
+ ],
+ "benefits/split-rate-increases-construction.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "stralian SVR-vs-NAV dwelling-growth and building-permit data above (a C-claim: empirical data reported in an advocacy book, not peer-reviewed; corr"
+  }
+ ],
+ "benefits/taxing-land-raises-productivity.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "of, and Smith drew only a suitability conclusion, not a Georgist one (D-claim for the lineage; quotations verified against the [repo-hosted text](/"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "escape assessment. This is George's own advocacy for the tax shift (a D-claim, attributed to George, not the wiki's own empirical finding), and it "
+  }
+ ],
+ "books/barker-henry-george-biography.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "he single-tax movement, and Ch. XX, \"The Triple Legacy of Georgism\"  (A-claim; factual — the part boundary and both part titles were read off the b"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "despite becoming the \"philosopher of the land\" (Barker 1955, Ch. I). (D-claim; interpretive)  ### The California Experience  Barker devotes more th"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " telegraph lines and other public utilities\" (Barker 1955, Preface). (D-claim; interpretive)  ### George's Global Influence  Barker documents that "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " Tolstoy, Hamlin Garland, and Brand Whitlock (Barker 1955, Preface). (A-claim; factual)  ### The 1886 New York Mayoral Campaign  Ch. XV covers Geor"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "resented the high-water mark of George's direct political influence. (A-claim; factual)  ### George's Political Complexity  Barker emphasizes Georg"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ut he fought socialists and their doctrines\" (Barker 1955, Preface). (D-claim; interpretive)  ### The Triple Legacy  Ch. XX, \"The Triple Legacy of "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ican between Lincoln and Franklin Roosevelt\" (Barker 1955, Preface). (D-claim; interpretive)  ### George and Wilson  Barker notes that Woodrow Wils"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "a, and for the world, of the industrial age\" (Barker 1955, Preface). (D-claim; interpretive)  ## Policy Recommendations  As a biography, the book d"
+  }
+ ],
+ "books/bird-the-land-trap.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "–36% while discouraging entrepreneurship. The 12–36% range was traced this session to Harald Hau and Difei Ouyang, \"Capital Scarcity and Industrial Decl"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "The \"12–36%\" figure attributed to China's real-estate boom was traced this session (2026-08-14) to a primary source — Hau & Ouyang (2019), read in full "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "footnote cites this paper, since Bird's footnotes were not accessible this session. Second, the range as popularly restated is imprecise: its endpoints "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "iographic details and author bio; primary text not independently read this session (page built from publisher materials and secondary reviews — Scan Dep"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "as-real-estate-booms) — the SSRN and VoxEU versions were **not** read this session, so the verbatim figures above are cited to the UIBE-hosted PDF speci"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "Bird's own footnote cites, since Bird's footnotes were not accessible this session. 9. Lixing Li & Xiaoyu Wu, \"Housing price and entrepreneurship in Chi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": "rship-china));    the ScienceDirect article page returned HTTP 403 to this environment, and Crossref holds    no deposited abstract for the DOI — used for t"
+  }
+ ],
+ "books/capitalism-3-0.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": " Gates does: you upgrade the operating system\" (Barnes 2006, Ch. 1). (C-claim; theoretical)  ### Capitalism 1.0 and 2.0  Barnes periodizes capitali"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " rise of large corporations and the financialization of the economy. (D-claim; interpretive)  ### The Tragedy of the Commons Reframed  Barnes refra"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "re powerful and future generations don't vote\" (Barnes 2006, Ch. 1). (C-claim; theoretical)  ### The Sky Trust Proposal  Barnes's earlier \"sky trus"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "eenth-century American economist Henry George\" (Barnes 2006, Ch. 1). (A-claim; factual)  ### The Commons Trust Model  Barnes proposes commons trust"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": " property rights assignment, without ongoing government intervention (C-claim; theoretical)  ### The Schumacher Influence  Barnes cites E.F. Schuma"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ng Assets tested whether business could serve multiple bottom lines. (D-claim; interpretive)  ## Policy Recommendations  Barnes proposes a suite of"
+  }
+ ],
+ "books/condon-broken-city.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " review; a full independent read of the book itself was not conducted this session. - **Fainstein's supply-side criticism is a live tension**, not resol"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "   — publication details (publisher, ISBN) not independently verified this session; cited    via the Fainstein review above. "
+  }
+ ],
+ "books/critics-of-henry-george.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ot, plus an introductory chapter by Andelson and Dr. Louis Wasserman (A-claim; factual) - **Part II**: Nineteenth-century British and continental c"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "all, Longe and Wrightson, Mallock, Moffat, Cathrein, Huxley, and Rae (A-claim; factual) - **Part III**: Nineteenth-century American critics: Dixwel"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ord, Ingalls/Hanson/Tucker, Atkinson, Clark and Patten, and Seligman (A-claim; factual) - **Part IV**: Twentieth-century critics: Davenport, Carver"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ard, and Oser, plus a concluding chapter by Andelson on Neo-Georgism (A-claim; factual)  ### The Conspiracy of Silence  Andelson cites Tolstoy's 19"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "George in his *History of Economic Analysis* (Andelson 1979, p. 20). (D-claim; interpretive)  ### George as Self-Taught Economist  Andelson places "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "buted to his marginalization as an \"amateur\" (Andelson 1979, p. 19). (D-claim; interpretive)  ### Key Critics Examined  **Alfred Marshall** is trea"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "onomics\" up to and including Mill's treatise (Andelson 1979, p. 20). (D-claim; interpretive)  ## Policy Recommendations  Most of the volume is anal"
+  }
+ ],
+ "books/deportations-delirium.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "pass is queued",
+   "context": "may be merged, and scattered OCR artifacts remain. An image-proofread pass is queued.  ## Why It Matters Here  - It is the primary record of a **Georgist "
+  }
+ ],
+ "books/dispossession-daniel.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "0 left, per William C. Payne Jr.'s calculation (Daniel 2013, p. 27). (B-claim; empirical)  ### The USDA's Structure and Power  Daniel documents the"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " were white, all supervisors were white males\" (Daniel 2013, p. 25). (A-claim; factual)  ### Passive Nullification  Daniel's key concept is \"passiv"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "icans, Native Americans, Hispanics, and women\" (Daniel 2013, p. 23). (D-claim; interpretive)  ### The 1965 Commission on Civil Rights Report  Danie"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "crimination policies, but the directive failed (Daniel 2013, p. 23). (A-claim; factual)  ### The Pigford v. Glickman Decision  Daniel connects the "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "of the litigants had lost their farms or died\" (Daniel 2013, p. 26). (A-claim; factual)  ### USDA Agencies Examined  Daniel focuses on three agenci"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ration): disbursed loans, with systematic discrimination in lending  (A-claim; factual)  ### Farm Failure Statistics  Daniel documents that farm fa"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "d, including nearly 600,000 African Americans\" (Daniel 2013, p. 28). (B-claim; empirical)  ## Policy Recommendations  The book is primarily histori"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "antify the relative weight of structural vs. discriminatory factors. (D-claim; interpretive)  ### Temporal Focus  The book \"seldom widens from farm"
+  }
+ ],
+ "books/ecological-economics-daly.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "Part VI**: On Money (Ch. 17) - **Part VII**: On Purpose (Ch. 18–20)  (A-claim; factual)  ### Uneconomic Growth  Daly's central concept is \"uneconom"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ct, in history, and in relation to globalization\" (Daly 1999, p. 7). (C-claim; theoretical)  ### The Throughput Concept  Daly distinguishes the eco"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "d energy as infinitely substitutable, calling it \"alchemy\" (Ch. 10). (C-claim; theoretical)  ### The Farewell Lecture to the World Bank  Daly's far"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "conomics as practiced in development institutions (Daly 1999, p. 7). (D-claim; interpretive)  ### Critique of Julian Simon  Ch. 3, \"Ultimate confus"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "Dani Rodrik's *Has Globalization Gone Too Far?*) (Daly 1999, p. 10). (D-claim; interpretive)  ### Free Trade Critique  Ch. 15, \"Free trade, sustain"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "rade conflicts with sustainable development goals (Daly 1999, p. 9). (C-claim; theoretical)  ## Policy Recommendations  Daly advocates (throughout,"
+  }
+ ],
+ "books/economic-theory-in-retrospect.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[BLOCKED — legal provenance attestation pending: the delivering agent named a prohibited acquisition source for this specific electronic copy, so per the free/legal-sources rule the owner must confirm a legitimately owned or licensed copy before any deeper scan or re-extraction from this file is reused. This flag concerns copy *licensing only, not content accuracy*: the page's substantive Blaug quotations (the Ch. 3 §11 site-value-taxation passages) are independently corroborated verbatim against a legal public reproduction — Mary M. Cleveland, \"Blaug Edging Toward Full Appreciation of Henry George,\" *American Journal of Economics and Sociology* (2004), which quotes *Economic Theory in Retrospect* directly. Only the owner can clear the licensing attestation.]",
+   "context": "copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [BLOCKED — legal provenance attestation pending: the delivering agent named a prohibited acquisition source for this specific electronic copy, so per the free/legal-sources rule the owner must confirm a legitimately owned or licensed copy before any deeper scan or re-extraction from this file is reused. This flag concerns copy *licensing only, not content accuracy*: the page's substantive Blaug quotations (the Ch. 3 §11 site-value-taxation passages) are independently corroborated verbatim against a legal public reproduction — Mary M. Cleveland, \"Blaug Edging Toward Full Appreciation of Henry George,\" *American Journal of Economics and Sociology* (2004), which quotes *Economic Theory in Retrospect* directly. Only the owner can clear the licensing attestation.]  ## Overview  *Economic Theory in Retrospect* is a history of economi"
+  }
+ ],
+ "books/from-wasteland-to-promised-land.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "t that biblical land law supports Georgist economics is interpretive (C-claim) and has been debated by biblical scholars. - The book was published "
+  }
+ ],
+ "books/fundamentals-of-mass-appraisal.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "eparately produced land-value-tax-specific evidence. Both papers were fetched and read in full, with their quantitative accuracy findings, the \"no or few va"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "was not independently confirmed",
+   "context": " comes from a 2024 Kindle relisting of the same title and authors; it was not independently confirmed against the original paperback.  ## See Also  - [IAAO Standards: Rati"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "a 2022 Idaho course listing) with no free full text available online; this page is built from IAAO's own course materials and professional standards that describe "
+  }
+ ],
+ "books/genovese-earth-for-all.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "s full text was Cloudflare-   blocked to every fetch method attempted this session, so this page does not draw on the   review's specific assessment or "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "eties* 44(1), published online 2 October 2025 — but its full text was Cloudflare-   blocked to every fetch method attempted this session, so this page"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "du/communalsocieties/vol44/iss1/7) —    fetch blocked (Cloudflare) to this session 2026-08-26; existence, reviewer, venue, and    date confirmed via the"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "u.edu/communalsocieties/vol44/iss1/7) —    fetch blocked (Cloudflare) to this session 2026-08-26; existence, reviewer, venue, and    date confirmed via the"
+  }
+ ]
+}

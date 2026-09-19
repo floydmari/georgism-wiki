@@ -1,0 +1,371 @@
+{
+ "objections/lvt-transition-wealth-shock.md": [
+  {
+   "name": "Common Wealth Canada",
+   "lead": true,
+   "sentence": "Common Wealth Canada's [price-reaction model](/wiki/cwc-lvt-price-reaction-model/) quantifies the lever directly — the depth of the land-price fall is governed mainly by the *speed* of rollout, so a slow phase-in shrinks the shock.\n2."
+  }
+ ],
+ "objections/marxist-critique-of-georgism.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "**A different villain, not a denial of exploitation.** Fred Harrison's\n   *[Ricardo's Law](/wiki/harrison-ricardos-law/)* engages the Marxist\n   framing head-on: \"The ogre of the Marxist narrative is the capitalist."
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Our\n   competing explanation identifies the state as the villain\" — Harrison's\n   claim being that privileged land tenure, sustained by state-backed\n   property law and untaxed land rent, is a more fundamental driver of\n   inequality than the capital-labour wage bargain itself.[2]\n3."
+  }
+ ],
+ "objections/nationalization-solves-the-land-problem.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "It is also a politically potent alternative: \"just make land public\" sounds more direct than \"tax land at its rental value,\" and has attracted socialist and municipalist movements independently of Georgism.\n\n## The Response\n\n**George's own historical comparative case (1879).** Before Harrison's 20th-century evidence, [Henry George](/wiki/henry-george/) himself weighed this objection — in a broader"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "This is George's own attributed argument rather than a settled finding, made a century before the Yugoslav, Israeli, and Swedish cases below, but it previews the same conclusion Harrison's later evidence arrives at empirically: ownership form is not the load-bearing variable."
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "[Fred Harrison](/wiki/fred-harrison/), in [*The Power in the Land*](/wiki/harrison-power-in-the-land/) (1983), examines several 20th-century cases where land was taken out of ordinary private-title markets and finds that removing formal private ownership did not, on its own, remove the land-price dynamics Georgists attribute to land monopoly:\n\n- **Yugoslavia.** Despite a constitutional ban on priv"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Formal ownership had changed; the economic pressure to pay for access to well-located land had not.\n- **Israel.** Citing Haim Darin-Drabkin's *Land Policy and Urban Growth* (1977), Harrison notes that Tel Aviv land prices continued rising sharply even under a system of extensive state and quasi-public land ownership (Ch. 14, pp. 186–187).\n- **Sweden.** Stockholm operated one of Western Europe's la"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Harrison, drawing on Ann Strong's 1979 study of European land banking, argues the program still failed to neutralize the land-value cycle (Ch. 14, pp. 187–190)."
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Ratzka's 1981 evaluation of Stockholm's municipal leasehold system, covering 1910–1970, found that while the city's land bank earned a positive return overall, ground rents were set below market rates and land-value increments \"mainly benefit[ed]\" private leaseholders rather than the public purse — public title to the land did not by itself capture the rent it generated.[2]\n\n## George's Own Argume"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "This is the primary-source root of the modern Georgist\nposition this page defends: the operative variable is whether rent is priced and\ncollected, not whether the state holds formal title — the same conclusion Harrison's\nYugoslavia, Israel, and Sweden cases reach empirically over a century later.\n\n## Limits and Caveats\n\n- Harrison's comparison is a small set of cases (three, plus a fourth partial "
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "The exact Ch. 13–14 figures remain unconfirmed against the book itself and are attributed to Harrison accordingly; the Stockholm strand, by contrast, carries independent corroboration from Ratzka (1981) below.\n- The Stockholm corroborating source (Ratzka 1981) evaluates a specific leasehold instrument over 1910–1970; it does not itself address Yugoslavia or Israel, and its \"who captured the increm"
+  }
+ ],
+ "objections/oil-shocks-cause-recessions.md": [
+  {
+   "name": "Akhil Patel",
+   "lead": false,
+   "sentence": "Harrison's model dates a land-value/building-cycle peak around 1973, with the postwar cycle \"dead on target, 18 years\" after the mid-1950s trough — a recession the model would have predicted independent of OPEC (Harrison, *The Power in the Land*, Ch. 18).[2] Harrison contends oil prices \"rose after the economic downturn began,\" making OPEC's embargo a coincident amplifier rather than the root caus"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "## The Objection\n\nThe standard economic-history account of the 1973–75 recession is that the Arab oil embargo, launched in October 1973 after the Yom Kippur War, quadrupled crude oil prices (from under $3 to over $11 per barrel) and triggered a global recession that the US National Bureau of Economic Research dates from November 1973 to March 1975.[1] On this view, the oil shock — an external, geo"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "Harrison's model dates a land-value/building-cycle peak around 1973, with the postwar cycle \"dead on target, 18 years\" after the mid-1950s trough — a recession the model would have predicted independent of OPEC (Harrison, *The Power in the Land*, Ch. 18).[2] Harrison contends oil prices \"rose after the economic downturn began,\" making OPEC's embargo a coincident amplifier rather than the root caus"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "The empirical anchor Harrison offers for a mid-1970s land-market peak is official US data: the Federal Reserve economist Emanuel Melichar's [study of farm income and asset values, 1950–77](/wiki/melichar-farm-income-asset-values/), whose series on the residual return to US farm production assets Harrison reads as a cycle in the return to farmland peaking in the mid-1970s — corroboration drawn from"
+  }
+ ],
+ "objections/overpopulation-causes-poverty.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "George attributed poverty instead to **land monopoly**: the concentration of land ownership that lets rent absorb the gains of production before they reach labor, regardless of how many or few mouths there are to feed.[2]\n\nFred Harrison's *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (2006) restates this Georgist line in its historical-political register, describing Malthusian population theory "
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* (2022) situates George's critique in its historical context and notes that 20th-century agricultural productivity gains — the Green Revolution — falsified the specific Malthusian prediction that food production could not keep pace with population growth (Ch. 5)."
+  }
+ ],
+ "objections/planning-restrictions-cause-high-prices.md": [
+  {
+   "name": "Michael Wiebe",
+   "lead": false,
+   "sentence": "**Land values move with what zoning *allows*, not with land scarcity as such — which is itself an argument against reading high land values as evidence against the Georgist mechanism.** Economist Michael Wiebe makes the point with a simple contrast (2026)."
+  },
+  {
+   "name": "Michael Wiebe",
+   "lead": false,
+   "sentence": "But where a parcel is upzoned, the land-price rise that follows is not new scarcity — it is the anticipated *capitalization of a larger use* into the land: Wiebe's illustrative example has a bungalow lot worth $2M zoned for one house become worth $3M once upzoned for 12 units, because the parcel now supports twelve times the building value on the same physical footprint."
+  },
+  {
+   "name": "Michael Wiebe",
+   "lead": false,
+   "sentence": "Using Vancouver house prices (which he reports rising from roughly $400,000 in 2000 to over $3,000,000 today) as his running example, Wiebe's conclusion is that \"high land values are caused by high housing demand,\" not the reverse, and that the fix for expensive land is to \"economize on it, by densifying and using less land per home\" rather than to treat the land-price signal itself as the problem"
+  }
+ ],
+ "objections/progress-and-poverty-outdated.md": [
+  {
+   "name": "Steven Cord",
+   "lead": false,
+   "sentence": "[Steven Cord](/wiki/steven-cord/)'s [*Henry George: Dreamer or Realist?*](/wiki/cord-george-dreamer-or-realist/) (1965) documents that American economists and historians engaged George seriously — not as a superseded curiosity — from 1879 onward, a mixed but substantive academic reception at odds with the amateur-outsider caricature."
+  }
+ ],
+ "objections/rent-revenue-breeds-corruption.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "In China, where urban land remains formally state-owned and is monetized through local-government land sales, corruption has been extensively documented in the sale-mechanism choice itself — officials favoring less transparent, two-stage \"listing\" sales over competitive auctions in exchange for bribes, and in the most extreme reported cases a single parcel resold multiple times to inflate a locali"
+  },
+  {
+   "name": "Fred Harrison",
+   "lead": false,
+   "sentence": "The positive cases point the same way: where rent capture runs through strong, transparent institutions it produces the opposite of a curse — [Botswana channelled diamond rents into the fastest per-capita growth on earth](/wiki/acemoglu-johnson-robinson-botswana/) over 1965–98, and [Norway's oil fund](/wiki/lie-norwegian-oil-fund/) was purpose-built to keep petroleum rent transparent and insulated"
+  }
+ ],
+ "objections/search-theoretic-critique.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "[Lars Doucet](/wiki/lars-doucet/)'s\n   practical rebuttal runs on exactly this line: capture ~85% and the discovery\n   margin survives; add explicit **discovery incentives** — a Norway-style\n   exploration subsidy — where search matters most.[2]\n2."
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "His thesis — \"entrepreneurship and investment create human capital\n   and capital goods, not natural resources\" — denies that any quasi-rent is\n   created by search at all, so taxing revealed land value does not tax a produced\n   good.[3] Where Doucet concedes some quasi-rent must stay private, Foldvary\n   contests the premise. (The reply's body is paywalled; the [research\n   page](/wiki/foldvary-"
+  }
+ ],
+ "objections/stock-crash-caused-great-depression.md": [
+  {
+   "name": "Phillip J. Anderson",
+   "lead": true,
+   "sentence": "Anderson, in *The Secret Life of Real Estate and Banking* (2008), argues the stock crash was a symptom rather than the root cause: the deeper problem was a US real-estate boom — the Florida land mania of the mid-1920s and a broader construction boom peaking around 1926, roughly on schedule with Anderson's ~18-year US land-cycle dating — the recurring land-price rhythm that Homer Hoyt's [century of"
+  },
+  {
+   "name": "Phillip J. Anderson",
+   "lead": false,
+   "sentence": "Anderson's land-cycle account has not displaced this consensus, and this wiki has not yet reconciled the two frameworks in detail.\n- **The claim that an \"on schedule\" 1926 land-boom peak drove the 1929–33 collapse is a timing argument**, not a formal counterfactual isolating how much of the Depression is attributable to real estate versus the stock market versus Federal Reserve policy failures.\n- "
+  }
+ ],
+ "organizations/bc-assessment-authority.md": [
+  {
+   "name": "Ted Gwartney",
+   "lead": false,
+   "sentence": "Georgist assessor\n[Ted Gwartney](/wiki/ted-gwartney/) worked within the BC assessment system\n(described in earlier sources as the \"British Columbia Assessment Authority\")\nduring part of his career, experience he later drew on in his widely cited\npractitioner's essay on land valuation.[4]\n\n## Nuances and Limits\n\n- **A neutral valuation body, not an advocate.** BC Assessment values property\n  under "
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": true,
+   "sentence": "It was created in **1974**\nfollowing a unanimous recommendation from a provincial all-party committee that\nan independent assessment agency replace the previous system of separate\nmunicipal assessments, under legislation (the Assessment Authority Act) giving it\nthe mandate to \"establish and maintain assessments that are uniform in the whole\nof British Columbia.\"[1][2] It produced the province's fi"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "The LVT-readiness argument above is\n  Common Wealth Canada's own advocacy case, not BC Assessment's.\n- **Thin on independent institutional detail.** This page currently covers BC\n  Assessment's founding, mandate, and scale from its own materials and secondary\n  accounts; a fuller institutional history (governance evolution, funding model,\n  relationship to municipal tax rates) is not yet compiled "
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": true,
+   "sentence": "EXCERPT: British Columbia's provincial Crown corporation, created in 1974, that independently values every property in the province for property-tax purposes — cited by Common Wealth Canada as ready-made administrative infrastructure for a modern land value tax."
+  }
+ ],
+ "organizations/center-for-land-economics.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "## Overview\n\nThe **Center for Land Economics** (CLE) is a US nonprofit research and education organisation launched in **February 2025** by **Greg Miller** and [Lars Doucet](/wiki/lars-doucet/), which \"conducts research and provides education to promote equitable assessments and foster sustainable development for the benefit of communities.\"[1][2] Its core thesis is \"the value of land returned to "
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "Co-founder Greg Miller previously worked as a Program Analyst in the Office of Policy Development and Research at the US Department of Housing and Urban Development (HUD); Doucet is the author of the *Progress and Poverty* Substack and a longtime writer on Georgist economics.[3]\n\n## Focus\n\nThe Center's central concern is **land assessment** — building better methods and data to value land separate"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Paul, and Cincinnati) and the open-source, MIT-licensed **\"Put It On A Map\"** suite (a parcel explorer, data fetcher, and GIS format converters), pitched by co-founder Lars Doucet as a persuasion tool because most people underestimate how sharply land value concentrates in city centers.[8] The Center has also published empirical studies of assessment failures — including analyses of the systematic"
+  },
+  {
+   "name": "Greg Miller / P&P newsletter",
+   "lead": true,
+   "sentence": "## Overview\n\nThe **Center for Land Economics** (CLE) is a US nonprofit research and education organisation launched in **February 2025** by **Greg Miller** and [Lars Doucet](/wiki/lars-doucet/), which \"conducts research and provides education to promote equitable assessments and foster sustainable development for the benefit of communities.\"[1][2] Its core thesis is \"the value of land returned to "
+  },
+  {
+   "name": "Greg Miller / P&P newsletter",
+   "lead": true,
+   "sentence": "Co-founder Greg Miller previously worked as a Program Analyst in the Office of Policy Development and Research at the US Department of Housing and Urban Development (HUD); Doucet is the author of the *Progress and Poverty* Substack and a longtime writer on Georgist economics.[3]\n\n## Focus\n\nThe Center's central concern is **land assessment** — building better methods and data to value land separate"
+  },
+  {
+   "name": "Lars Doucet",
+   "lead": true,
+   "sentence": "EXCERPT: A US nonprofit research and education organisation launched in 2025 by Greg Miller and Lars Doucet, focused on equitable land assessment and open-source tools for modelling land value tax shifts."
+  },
+  {
+   "name": "Greg Miller / P&P newsletter",
+   "lead": true,
+   "sentence": "EXCERPT: A US nonprofit research and education organisation launched in 2025 by Greg Miller and Lars Doucet, focused on equitable land assessment and open-source tools for modelling land value tax shifts."
+  }
+ ],
+ "organizations/coalition-for-economic-justice.md": [
+  {
+   "name": "Dave Wetzel",
+   "lead": false,
+   "sentence": "Following the Greater London Authority Planning Committee's February 2016 report \"Tax Trial: A\nLand Value Tax for London?\", then-Mayor Sadiq Khan responded positively in January 2017,\nexpressing interest in an LVT pilot through the OPDC though noting primary legislation would be\nrequired; the London Finance Committee's \"Devolution: a capital idea\" (January 2017)\nrecommended trialing an LVT pilot o"
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": false,
+   "sentence": "Following the Greater London Authority Planning Committee's February 2016 report \"Tax Trial: A\nLand Value Tax for London?\", then-Mayor Sadiq Khan responded positively in January 2017,\nexpressing interest in an LVT pilot through the OPDC though noting primary legislation would be\nrequired; the London Finance Committee's \"Devolution: a capital idea\" (January 2017)\nrecommended trialing an LVT pilot o"
+  }
+ ],
+ "organizations/common-wealth-canada.md": [
+  {
+   "name": "Common Wealth Canada",
+   "lead": true,
+   "sentence": "## Overview\n\n**Common Wealth Canada** is a Canadian think tank that advocates capturing [economic rent](/wiki/resource-rents/) — the unearned value of land and natural resources — through a national [land value tax](/wiki/land-value-tax/), and channelling the proceeds into a sovereign wealth fund that would pay dividends to Canadians."
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "His site bio also identifies him as CEO and co-founder of C4Media (InfoQ, QCon), an angel investor, and the founder of UBI Works; in 2018 he organized over 120 Canadian CEOs to endorse basic income.[3]\n- **Liam Wilkinson** — Research and Policy; author of the organisation's 2024 distributional-impacts study and a co-author of its flagship 2023 economic-rent report.[3][4][5]\n- **Ken Yang** — Direct"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "It argues that [BC Assessment](/wiki/bc-assessment-authority/), created in 1974 to provide independent province-wide assessment, \"helped build the administrative infrastructure that any serious land-value policy would require\" — leaving British Columbia unusually well-positioned among Canadian provinces to reintroduce land value taxation, a case developed further in **\"B.C.'s Big Fix: Land Value T"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "At scale, it could generate $60 to $90 billion per year to fund citizen dividends, finance public investments, reduce debt,\" assuming \"either a conservative 6% or optimistic 9% annual return with half re-invested.\"[8] These are the organisation's own projections and should be read as advocacy-stage estimates rather than independently verified forecasts.\n\n## Role in the Canadian Georgist Landscape\n"
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": false,
+   "sentence": "His site bio also identifies him as CEO and co-founder of C4Media (InfoQ, QCon), an angel investor, and the founder of UBI Works; in 2018 he organized over 120 Canadian CEOs to endorse basic income.[3]\n- **Liam Wilkinson** — Research and Policy; author of the organisation's 2024 distributional-impacts study and a co-author of its flagship 2023 economic-rent report.[3][4][5]\n- **Ken Yang** — Direct"
+  }
+ ],
+ "organizations/commonwealth-land-party.md": [
+  {
+   "name": "Fred Harrison",
+   "lead": true,
+   "sentence": "Lincoln**, a Cleveland industrialist, for vice president in the 1924 election, polling only 1,532 votes.[1] Gaffney and Harrison's *[The Corruption of Economics](/wiki/gaffney-harrison-corruption-of-economics/)* names Lincoln among the figures touched by the single-tax movement's reach into American public life.[2]\n\nThe party's 1924 platform called for a single tax on land to replace all other met"
+  }
+ ],
+ "organizations/earthsharing-australia.md": [
+  {
+   "name": "Karl Fitzgerald",
+   "lead": true,
+   "sentence": "## Overview\n\n**Earthsharing Australia** is a Georgist organisation providing free education services in economics, operating as the educational and environmental outreach arm of, and a sister organisation to, [Prosper Australia](/wiki/prosper-australia/) — the Melbourne-based reform body whose lineage in the Victorian single-tax movement reaches back to 1890.[1][2] It describes its mission as demo"
+  },
+  {
+   "name": "Prosper Australia",
+   "lead": true,
+   "sentence": "## Overview\n\n**Earthsharing Australia** is a Georgist organisation providing free education services in economics, operating as the educational and environmental outreach arm of, and a sister organisation to, [Prosper Australia](/wiki/prosper-australia/) — the Melbourne-based reform body whose lineage in the Victorian single-tax movement reaches back to 1890.[1][2] It describes its mission as demo"
+  },
+  {
+   "name": "Prosper Australia",
+   "lead": true,
+   "sentence": "EXCERPT: The educational and environmental outreach arm of Prosper Australia, providing free economics education that frames land value taxation and resource-rent capture through an ecological lens."
+  }
+ ],
+ "organizations/henry-george-foundation-canada.md": [
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "Peddle's November 2024 review of Patrick Condon's *Broken City*) and hosts movement documents such as the Green Party of Ontario's 2010 \"Proposed Government of Canada Budget Based on Rent Recovery.\"[1][4]\n\n## Significance\n\nThe Foundation's practical importance to recent Canadian rent-capture research is as a **source of definitions and benchmarks**: [Common Wealth Canada](/wiki/common-wealth-canad"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": false,
+   "sentence": "The Foundation has in turn covered Common Wealth Canada's proposal on its news pages.[6]"
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": true,
+   "sentence": "## Overview\n\nThe **Henry George Foundation of Canada** is Canada's long-standing Georgist organization, based in Ottawa and operating online as **earthsharing.ca**."
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": true,
+   "sentence": "It describes itself as \"part of an international network of organizations that work to popularize the thought of 19th century American economist, Henry George,\" with three stated goals — \"a just society, a green society and a prosperous society\" — and frames that network as \"an interconnected think tank advocating financing governments by capturing 'economic rent' in lieu of taxes on jobs, busines"
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": false,
+   "sentence": "Peddle's November 2024 review of Patrick Condon's *Broken City*) and hosts movement documents such as the Green Party of Ontario's 2010 \"Proposed Government of Canada Budget Based on Rent Recovery.\"[1][4]\n\n## Significance\n\nThe Foundation's practical importance to recent Canadian rent-capture research is as a **source of definitions and benchmarks**: [Common Wealth Canada](/wiki/common-wealth-canad"
+  },
+  {
+   "name": "Common Wealth Canada",
+   "lead": true,
+   "sentence": "EXCERPT: Ottawa-based Canadian Georgist organization (online as earthsharing.ca), part of the international network popularizing Henry George's economics. Its plain-language economic-rent article and its proposed 24% mining-royalty rate are both cited in Common Wealth Canada's Natural Common Wealth paper."
+  }
+ ],
+ "organizations/henry-george-foundation-uk.md": [
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": true,
+   "sentence": "## Overview\n\nThe **Henry George Foundation** (styling itself \"The Henry George Foundation of Great Britain\") is the leading British organisation dedicated to advancing Henry George's ideas."
+  }
+ ],
+ "organizations/international-union-lvt.md": [
+  {
+   "name": "Alanna Hartzok",
+   "lead": true,
+   "sentence": "It links national groups — from the UK and Australia to the Americas and beyond — into a coordinated international movement, and describes itself as \"an international umbrella organisation for land value tax reformers\" with \"members in countries around the world — activists, politicians, professionals and academics.\"[3]\n\nThe IU was **formed in July 1926**, originally as the *International Union fo"
+  },
+  {
+   "name": "Henry George Foundation (essays)",
+   "lead": false,
+   "sentence": "It serves as the connective tissue among the many national bodies — [Prosper Australia](/wiki/prosper-australia/), [Common Ground USA](/wiki/common-ground-usa/), the [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/), the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) tradition, and others — sustaining Georgism as a global rather than purely national project.\n\n## S"
+  },
+  {
+   "name": "Prosper Australia",
+   "lead": false,
+   "sentence": "It serves as the connective tissue among the many national bodies — [Prosper Australia](/wiki/prosper-australia/), [Common Ground USA](/wiki/common-ground-usa/), the [Henry George Foundation (UK)](/wiki/henry-george-foundation-uk/), the [Robert Schalkenbach Foundation](/wiki/schalkenbach-foundation/) tradition, and others — sustaining Georgism as a global rather than purely national project.\n\n## S"
+  }
+ ],
+ "organizations/labour-land-campaign.md": [
+  {
+   "name": "Dave Wetzel",
+   "lead": true,
+   "sentence": "## Overview\n\nThe **Labour Land Campaign** (LLC) is a broad-left, voluntary organisation that \"campaigns within the UK labour movement for the collection of land rent for public benefit.\"[1][2] It was founded in **1983** by a group drawn from architecture, land economics, farming, town planning, trade unions, and academia, brought together by a shared concern for the use of land, and it advocates ["
+  }
+ ],
+ "organizations/new-economics-foundation.md": [
+  {
+   "name": "Positive Money",
+   "lead": true,
+   "sentence": "A Guide to the UK Monetary and Banking System](https://neweconomics.org/2012/12/where-does-money-come-from)* (2011), by NEF researchers Josh Ryan-Collins and Tony Greenham together with Richard Werner and Andrew Jackson, set out how commercial banks — not central banks — create most of the money supply as a byproduct of lending, feeding directly into this wiki's [bank money creation](/wiki/bank-mo"
+  }
+ ],
+ "organizations/positive-money.md": [
+  {
+   "name": "Lars Doucet",
+   "lead": false,
+   "sentence": "Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* cites Positive Money, alongside Jordà, Schularick & Taylor's data, for the estimate that real estate makes up roughly **45–60% of bank lending** in advanced economies, in a chapter that also notes Michael Hudson's related argument that much of the rent paid on land ultimately flows to banks as mortgage interest.[2]"
+  },
+  {
+   "name": "Positive Money",
+   "lead": true,
+   "sentence": "## Overview\n\n**Positive Money** is a not-for-profit research and campaigning organisation founded in London in 2010 by **Ben Dyson**, in the wake of the 2008 financial crisis, to advocate reform of how money and credit are created.[1] Its central argument is that commercial banks — not central banks — create the great majority of the money supply each time they issue a loan, and that this system c"
+  },
+  {
+   "name": "Positive Money",
+   "lead": true,
+   "sentence": "Positive Money's research on the composition of bank lending has been cited by Georgist writers as independent, non-Georgist corroboration that modern banking has become substantially a land-lending system."
+  },
+  {
+   "name": "Positive Money",
+   "lead": false,
+   "sentence": "Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* cites Positive Money, alongside Jordà, Schularick & Taylor's data, for the estimate that real estate makes up roughly **45–60% of bank lending** in advanced economies, in a chapter that also notes Michael Hudson's related argument that much of the rent paid on land ultimately flows to banks as mortgage interest.[2]"
+  }
+ ]
+}

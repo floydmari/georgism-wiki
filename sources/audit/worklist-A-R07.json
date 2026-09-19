@@ -1,0 +1,280 @@
+{
+ "research/gans-market-power-in-ai.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "i's own synthesis, not Gans's   argument, and should be read as such (D-claim, interpretive). - **Author disclosures.** Gans discloses paid speakin"
+  }
+ ],
+ "research/gao-2020-homelessness-hud-oversight.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " II,    pp. 51ff.) were verified verbatim against the full report PDF this session (fetched    via an Internet Archive mirror of gao.gov, which returned"
+  }
+ ],
+ "research/gemmell-grimes-skidmore-nz.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e Motu summary it lists all three authors including Skidmore. Fetched this session to verify the specification, sample size, and alteration effect sizes"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "y resolved: the free VUW Working Paper 08/2016 (source 5) was fetched this session and confirms the substance directly. The design is an Area-Unit-level"
+  }
+ ],
+ "research/gibbons-machin-rail-access.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ity    comparison); the published ScienceDirect version was paywalled this session, so the published    tables were not compared line-by-line against th"
+  }
+ ],
+ "research/gibbons-machin-school-premiums.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " and 3%-per-10-points findings.    The figures were verified verbatim this session against the freely available CEE/LSE working-paper    version (CEE Di"
+  }
+ ],
+ "research/gibson-carnovale-road-pricing-pollution.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "/10.1016/j.jue.2015.06.005) — used for    (full text fetched and read this session, author-hosted copy, Williams College) the    2012 court injunction a"
+  }
+ ],
+ "research/giesen-fdr-self-financing-highways.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " George School programming, San Francisco Bay Area) shares this name; this session could not   confirm whether the AJES author is the same person. - **A"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "*Abstract-level source, corroborated by independent archival history (B-claim).** The   paper's own abstract was accessible; its full analytical ar"
+  }
+ ],
+ "research/giovannoni-labor-share-decomposition.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "804, cover theory and empirical evidence; this entry covers Part III, fetched and read in full — 44 pages — directly from the Levy Institute's publication s"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: whether the financial-sector compensation gains documented here are substantially rent (e.g., from land-collateralized lending) versus a return to scarce financial skill is a separate, contested question this paper does not adjudicate.]",
+   "context": "extraction, and attributing that framing to it would be an overreach. [VERIFY: whether the financial-sector compensation gains documented here are substantially rent (e.g., from land-collateralized lending) versus a return to scarce financial skill is a separate, contested question this paper does not adjudicate.] The top-1%/property-share finding is more directly rent-adjacent — th"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s, and all direct quotations; fetched and read in full (all 44 pages) this session. 2. Same paper, also released as University of Texas Inequality Proje"
+  }
+ ],
+ "research/glaeser-gyourko-housing-supply.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "_papers/w23833/w23833.pdf) — successfully fetched and read in full in this session (abstract, introduction, Sections II–V, conclusion, and reference lis"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ", independent pre-publication draft, also fetched and read in full in this session; used for the Survey of Consumer Finances household-wealth findings a"
+  }
+ ],
+ "research/gloudemans-lvt-assessment-feasibility.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "tes and leans on the 2000 paper's central conclusion.[1][2] Both were fetched and read in full for this page (not summarized secondhand); this page is the w"
+  }
+ ],
+ "research/glynn-byrne-culhane-homeless-inflection.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d example, all verified    verbatim against the full-text author copy this session.    [Author full-text PDF (g-lynn.github.io)](https://g-lynn.github.i"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "median    income,\" verified against the Project Euclid article record this session.    [Project Euclid](https://projecteuclid.org/journals/annals-of-app"
+  }
+ ],
+ "research/gochenour-caplan-search-theoretic.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "he Uganda analogy could not be established from the sources available this session. - **This paper predates, and is not in dialogue with**, more recent "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "as the 2013 journal article (SSRN full text not directly fetchable in this session; title and authorship confirmed via SSRN's own listing and Caplan's E"
+  }
+ ],
+ "research/great-smoky-mountains-casino-dividend.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": "he DOI (`oa_status: closed`); a ResearchGate mirror PDF also returned HTTP 403. What *is* freely and reliably accessible is the **full structured ab"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "* — **paywalled**. The publisher page (jamanetwork.com) sits behind a Cloudflare bot-check that returns no article content to an automated fetch, and "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "source-by-source access check (2026-07-18), after an earlier draft's \"fetched and read\" claims for the JAMA paper could not be reproduced:  - **Costello et "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "e NIH-deposited author manuscript on PMC (PMC2891175, PMID 20582231), fetched and read directly (introduction through conclusion, footnotes, and table text)"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "015) — the same underlying study — is hosted free on nber.org and was fetched and read in full (results, mechanism sections, and conclusion).  ## Bears On  "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "g read the paper's full Results section could not be substantiated on this pass and have been removed/corrected. 2. Randall K. Q. Akee, William E. Co"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "thodology and cohort design; referenced, not independently re-fetched this pass. 4. Randall Akee, Emilia Simeonova, E. Jane Costello & William Copela"
+  }
+ ],
+ "research/green-carbon-pricing-review.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ict; all quotations verified verbatim against the open-access article this session. "
+  }
+ ],
+ "research/greenwood-scharfstein-growth-of-finance.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "asset-management pricing (B- and D-claims; verified against the paper this session).    [Free PDF (HBS)](https://www.hbs.edu/ris/Publication%20Files/Gro"
+  }
+ ],
+ "research/guettabi-pfd-effects-survey.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "y in short and long    run). Live ScholarWorks bitstream returned 404 this session; the Wayback capture supplied the    verified text."
+  }
+ ],
+ "research/gwartney-estimating-land-values.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "oretic-critique/) and   Bentick–Mills assessment-basis issues live. - **Verification note (resolved on direct read).** The full essay was read   directly at he"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "(https://www.henrygeorge.org/ted.htm) — full text read directly    in this pass; used for the essay's content, the eight-step assessment procedure,  "
+  }
+ ],
+ "research/hamilton-benefit-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": ", but page-level quotation from Hamilton himself is not possible from this session and is flagged where relevant.  ## The Core Argument  **1975 (*Urban "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d introduction quoted verbatim from the working-paper full text, read this session). Note their model of decentralized property-tax competition does not"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ry texts remain paywalled (SAGE, JSTOR) and were not directly read in this session. The substantive account of both papers on this page is verified agai"
+  }
+ ],
+ "research/han-ngai-sheedy-transaction-taxes-tenure.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "lize cleanly to other cities' stamp-duty regimes. - **Full text read (A-claim).** The working-paper PDF (Kevin Sheedy's LSE page, dated August   20"
+  }
+ ],
+ "research/hartwick-rule.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "R text remains paywalled; the JSTOR-hosted PDF was not retrievable in this session.) 2. Robert M. Solow (1974), \"Intergenerational Equity and Exhaustibl"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e to unnamed \"researchers\" and was not traced to its underlying study this session (B-claim; the Antweiler quotations are directly attributable, the cou"
+  }
+ ],
+ "research/he-sun-metro-housing-premiums.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "n; all quotations verified    verbatim against the published abstract this session (2026-07-13)."
+  }
+ ],
+ "research/hebous-excess-profit-taxes.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s, and all direct quotations; fetched and read in full (all 37 pages) this session. 2. Thomas Baunsgaard & Nate Vernon (2022), \"Taxing Windfall Profits "
+  }
+ ]
+}

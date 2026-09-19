@@ -1,0 +1,430 @@
+{
+ "books/land-a-new-paradigm.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "attention from land monopolization (citing Gaffney and Harrison) is a C-claim (interpretive/theoretical) and is contested by mainstream historians "
+  }
+ ],
+ "books/life-of-henry-george.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "pass is queued",
+   "context": "age positions and scattered OCR artifacts remain — an image-proofread pass is queued.  ## Why It Matters Here  - It is the source of record for George's l"
+  }
+ ],
+ "books/posner-weyl-radical-markets.md": [
+  {
+   "class": "A1",
+   "where": "excerpt",
+   "match": "Hermes",
+   "context": "Posner & Weyl's 2018 mechanism-design manifesto: its Common Ownership Self-Assessed Tax (COST) extends George's land tax to all property via Harberger self-assessment — a modern descendant that departs from George by taxing capital as well as land. Book summary page; scanned by Hermes at T2."
+  }
+ ],
+ "books/progress-and-poverty.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "nry George Jr., *Life of Henry George*, 1900, Second Period, Ch. X). (A-claim; documented from family papers and named informants)  George finished"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "hy; see [Henry George](/wiki/henry-george/) for the fuller episode). (A-claim; George's own letter and later autobiographical account, both directl"
+  }
+ ],
+ "books/public-revenue-without-taxation.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " \"primal cause\" of both inflation and unemployment is a strong claim (B-claim) that most mainstream economists would dispute; the consensus view is"
+  }
+ ],
+ "books/rethinking-economics-land-housing.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[BLOCKED — legal provenance attestation still pending; cannot be resolved by a verification fetch. Checked (2026-07-10): the book is a commercial title (Zed Books / Bloomsbury, ~US$24 paperback, ISBN 978-1-78699-118-8), NOT open access — no free/legal full-text copy exists online; only controlled-lending on Internet Archive (`archive.org/details/rethinkingeconom0000ryan`) and paid subscription (Perlego) are available. Because the delivering agent named a prohibited source for this electronic copy, per the free/legal-sources rule the owner (Floyd) must personally confirm a legitimately owned/licensed copy before scan-depth upgrades from this text are re-used. Only the owner can supply that attestation; a verification agent cannot.]",
+   "context": "copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [BLOCKED — legal provenance attestation still pending; cannot be resolved by a verification fetch. Checked (2026-07-10): the book is a commercial title (Zed Books / Bloomsbury, ~US$24 paperback, ISBN 978-1-78699-118-8), NOT open access — no free/legal full-text copy exists online; only controlled-lending on Internet Archive (`archive.org/details/rethinkingeconom0000ryan`) and paid subscription (Perlego) are available. Because the delivering agent named a prohibited source for this electronic copy, per the free/legal-sources rule the owner (Floyd) must personally confirm a legitimately owned/licensed copy before scan-depth upgrades from this text are re-used. Only the owner can supply that attestation; a verification agent cannot.]  ## Core Thesis  Land has been systematically neglected and conflated"
+  }
+ ],
+ "books/wealth-of-nations.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "d be the single source of public revenue\" is George's, not Smith's. **D-claim; interpretive.**)*  ## Rent as a monopoly price (Book I)  Smith's Boo"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "\" (Book I, Ch. XI) — a more benign view of landlords than George's. **D-claim; interpretive.**)*  ## Book III: primogeniture, entails, and how comm"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " the country\" (Book III, Ch. IV).  *(Georgist framing — interpretive, D-claim: this is not a Georgist argument. Smith credits ordinary commerce and"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "lied the maxims to many taxes and reached no single-tax conclusion. **D-claim; interpretive.**)*  ## Honest limits  Reading Smith as a proto-Georgi"
+  }
+ ],
+ "books/with-liberty-and-dividends-for-all.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "cline of the middle class as a systemic problem, not a cyclical one. (B-claim; empirical)  ### The Simple Idea  The book's \"simple idea\" is that \"a"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "hat there's less need to redistribute later\" (Barnes 2014, Preface). (C-claim; theoretical)  ### Extracted vs. Recycled Rent  Barnes distinguishes "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "work extends Georgist rent capture beyond land to all common wealth. (C-claim; theoretical)  ### The Alaska Model  Ch. 6 examines the Alaska Perman"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "). Barnes presents this as proof-of-concept for universal dividends. (B-claim; empirical)  ### The Henry George Connection  Barnes explicitly ackno"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "sal as extending Georgist principles from land to all common wealth. (A-claim; factual)  ### Carbon Capping as Cautionary Tale  Ch. 8, \"Carbon Capp"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "tizens, illustrating the importance of the trust-dividend structure. (D-claim; interpretive)  ### The Appendix: Dividend Potential  The book's Appe"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "pare for it beforehand\" and that groundwork must be laid in advance. (D-claim; interpretive)  ### Scope of Co-Owned Wealth  The book's framework is"
+  }
+ ],
+ "concepts/18-year-land-cycle.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " this page treats as an attributed, un-tested interpretive framework (D-claim) layered on top of, not a substitute for, the endogenous-cycle eviden"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "etive framework, not independently tested by this wiki). Read in full this session. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/"
+  }
+ ],
+ "concepts/allowance-for-corporate-equity.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " the *Canadian Journal of Economics* paper,   DOI 10.1111/caje.12624, this session).[9] The dispute is live — Hebous–Ruf find   no *production*-investme"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "to the Hermes work order. Source 13 was fetched and verified verbatim this session via a Wayback Machine snapshot, since imf.org itself returns 403 to d"
+  }
+ ],
+ "concepts/atcor.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "land rent — the converse being that removing taxes would raise rent. (C-claim; theoretical)  Burgess's formulation of the single-tax argument — tha"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ng rent directly is non-distortionary in a way that taxation is not. (D-claim; interpretive)  ## Caveats  ATCOR, like many claims in economic theor"
+  }
+ ],
+ "concepts/boom-bust-cycle.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ficance against these retrospective-fitting concerns could be located this session: the systematic period-fitting exercises (Hoyt, Harrison, Foldvary, A"
+  }
+ ],
+ "concepts/canons-of-taxation.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " an argument, which the wiki should carry rather than only summarize (D-claim; interpretive — the Georgist reading, not a neutral verdict):  - **I."
+  }
+ ],
+ "concepts/cash-flow-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " continued investment, though no formal causal evaluation   was found this session. - **Australia's Petroleum Resource Rent Tax** (1988, from Garnaut & "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "mong smaller and cash-constrained firms (verified   against the paper this session). The TCJA evaluations   (Chodorow-Reich, Smith, Zidar & Zwick 2024) "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "  *(All sources corroborated via multiple independent search snippets this session; direct fetches proxy-blocked — page-level verification routed to the"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "cal special-tax rate,    and the 78% combined marginal rate (verified this session).    [norskpetroleum.no](https://www.norskpetroleum.no/en/economy/pet"
+  }
+ ],
+ "concepts/citizens-dividend.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "perty commons, and financial infrastructure (Barnes 2014, Ch. 7, 9). (C-claim; theoretical)  In *Capitalism 3.0*, Barnes proposes that commons trus"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ent dividends are administratively workable and politically durable. (D-claim; interpretive)  ### Paine as Predecessor  Barnes revives Thomas Paine"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ividend-narrative/); cite Paine directly rather than through Barnes. (A-claim; factual)  ## Scholarly Treatment of the Georgist Lineage  Bill Raley"
+  }
+ ],
+ "concepts/community-land-trust.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "ld be located beyond title-level detail, so its specific findings are not independently verified here.[5]  ## See Also  - [Garden City Movement](/wiki/garden-city-mov"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "g ground rent that would fund public services (Howard 1902, Ch. II). (A-claim; factual)  This is precisely the CLT structure — a nonprofit holds la"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "munity owns land; individuals own buildings (Howard 1902, Ch. I–II). (A-claim; factual) 2. **Ground lease mechanism** — residents pay ground rent t"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "/wiki/unearned-increment/) for public benefit (Howard 1902, Ch. II). (A-claim; factual) 3. **Anti-speculation design** — rising land values flow to"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "lators, making housing permanently affordable (Howard 1902, Ch. II). (C-claim; theoretical)  Howard emphasized that no single element was novel — c"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "-rent mechanism was never fully operationalized as Howard described. (A-claim; factual)  See: [Garden Cities of To-morrow (Howard)](/wiki/garden-ci"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "'s codification (A/C-claims;    verified via the movement's histories this session).    [Lincoln Institute — CLT Reader (history chapter)](https://www.l"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "   International Center for Community Land Trusts and Swann biography this session).    [cltweb.org — New Communities](https://www.cltweb.org/resources/"
+  }
+ ],
+ "concepts/congestion-pricing.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " reversal, and the distributional caveat (verified against    the PDF this session).    [CTS WP 2014:7](https://www.transportportal.se/swopec/cts2014-7."
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "uctions and the ~£50m annual net benefit (verified against    the PDF this session).    [TfL report](https://content.tfl.gov.uk/impacts-monitoring-repor"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "corroborated across the ALS    record and Singapore NLB/ITF summaries this session). See    [research page](/wiki/phang-toh-singapore-congestion-pricing"
+  }
+ ],
+ "concepts/dalt-depreciation-assisted-lvt.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: no antecedent academic source for this exact mechanism was found in a search beyond the NYC 1920s policy episode and Doucet's own piece — treat DALT as newly named/formalized in 2026 pending independent citation.]",
+   "context": "osing a depreciation-schedule abatement as an LVT proxy specifically. [VERIFY: no antecedent academic source for this exact mechanism was found in a search beyond the NYC 1920s policy episode and Doucet's own piece — treat DALT as newly named/formalized in 2026 pending independent citation.]  ## What Problem It Solves  DALT is aimed less at land/building **ass"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: no independent economic modelling or evaluation of DALT located as of 2026-07-30.]",
+   "context": "eoretical/design argument (Type C/D claim), not an empirical finding. [VERIFY: no independent economic modelling or evaluation of DALT located as of 2026-07-30.]  ## See Also  - [Split-Rate Taxation](/wiki/split-rate-taxation/) — t"
+  }
+ ],
+ "concepts/data-rents.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "  the data-dividend remedy (D/C-claims; verified via multiple sources this session).    [AEA](https://www.aeaweb.org/articles?id=10.1257/pandp.20181003)"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "16/j.jdec.2026.06.005) —    fetch blocked (Elsevier/ScienceDirect) to this session 2026-08-26; summary drawn from    search-indexed secondary characteri"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": ".1016/j.jdec.2026.06.005) —    fetch blocked (Elsevier/ScienceDirect) to this session 2026-08-26; summary drawn from    search-indexed secondary characteri"
+  }
+ ],
+ "concepts/deadweight-loss.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "he [book page](/wiki/wealth-of-nations/) for the passage in context. (A-claim for the quotations; D-claim, interpretive, for the lineage.) The full"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "of-nations/) for the passage in context. (A-claim for the quotations; D-claim, interpretive, for the lineage.) The full section is reproduced at [T"
+  }
+ ],
+ "concepts/ecological-georgism.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "is limited, and charging rent for that use is the Georgist response. (C-claim; theoretical)  Daly's concept of \"uneconomic growth\" — growth that co"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "gical capacity, internalizing the costs that make growth uneconomic. (D-claim; interpretive)  Daly's critique of the standard neoclassical paradigm"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " and Daly's throughput framework provides the ecological constraint. (D-claim; interpretive)  ## Where the Standard Toolkit Breaks Down: Gaffney on"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " critic, not a rejection of charging for externalities in principle. (D-claim; theoretical argument, not modeled or independently tested — see the "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " correction cannot reach directly. This is Gaffney's own synthesis (C/D-claim), and the essay itself concedes the land-value-tax solution is assert"
+  }
+ ],
+ "concepts/economic-rent.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "alth-of-nations/) for the passage in context and its honest limits). (A-claim for the quotation; D-claim, interpretive, for the lineage.)  ## Smith"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "assage in context and its honest limits). (A-claim for the quotation; D-claim, interpretive, for the lineage.)  ## Smith: Rent as \"the Work of Natu"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "scarcity/differential-margin account, not the \"nature's labour\" one. (A-claim for the quotation, public domain text, verified verbatim 2026-07-18; "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " for the quotation, public domain text, verified verbatim 2026-07-18; D-claim for the two-foundations reading, interpretive.)  ## Ricardo's Law of "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "pply the way wages or interest can call forth more labor or capital. (C-claim; Gaffney's own theoretical framework, primary source, attributed.) Se"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "best-evidenced instance of community-created, supply-inelastic rent. (D-claim; attributed, contested frontier)  ### Adams: Rent as the Driver of We"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "act rents without producing corresponding value (Adams 2015, Ch. 3). (D-claim; interpretive)  Adams presents data showing land values have risen fa"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ck toward social decline and wealth inequality\" (Adams 2015, Ch. 4). (B-claim; empirical)  ## See Also  - [Labor Theory of Value](/wiki/labor-theor"
+  }
+ ]
+}

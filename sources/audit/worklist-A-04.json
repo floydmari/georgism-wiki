@@ -1,0 +1,520 @@
+{
+ "concepts/rentier.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "elow the abstract level, since the full article was not accessible to this session (C-claim, theoretical/interpretive).  ### Smith and Wood: The Edges o"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "nceptual antecedent, not as evidence for any modern magnitude claim. (C-claim; George's own argument, attributed; quotations verified verbatim agai"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "rentier frame rather than a rent measurement in the Ricardian sense. (B-claim for the reported data; D-claim for the classification.)  ### Kapoor a"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "t measurement in the Ricardian sense. (B-claim for the reported data; D-claim for the classification.)  ### Kapoor and the Psychology of Entitlemen"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "act level, since the full article was not accessible to this session (C-claim, theoretical/interpretive).  ### Smith and Wood: The Edges of Owner-O"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nition \"one who has a fixed income from investment\" (fetched directly this session). 15. John Maynard Keynes (1936), *The General Theory of Employment, "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "tion (all quotations verified against the full text, fetched directly this session). 16. Henry George (1879, Memorial Ed. 1898), *Progress and Poverty*,"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": " quote audit, 2026-08-14):** `hindustantimes.com` is not reachable by this environment's fetcher, and web search on the headline returns results partly deri"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s.sagepub.com/doi/10.1177/02637758261472243) — fetch blocked (403) to this session; summary drawn from search-engine-indexed abstract synthesis 2026-08-"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "nals.sagepub.com/doi/10.1177/02637758261472243) — fetch blocked (403) to this session; summary drawn from search-engine-indexed abstract synthesis 2026-08-"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "needs-unblocked-web",
+   "context": "he substance is unchanged and remains attributed to Kishore. Channel: needs-unblocked-web if verbatim quotation is wanted. 18. Ilan Kapoor (2026), \"Entitlement"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "Channel: needs-",
+   "context": "uotes — the substance is unchanged and remains attributed to Kishore. Channel: needs-unblocked-web if verbatim quotation is wanted. 18. Ilan Kapoor (2026),"
+  }
+ ],
+ "concepts/resource-rents.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ws a higher rate without discouraging genuinely marginal production. (D-claim: incidence reasoning and design argument in an advocacy essay/legisla"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "underpricing an ex post, reserves-based charge is designed to avoid. (D-claim: design argument and administrative-practicality reasoning in a commi"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "les found bonus bidding captured only 9–16% of realized rent there, a B-claim corroborating Gaffney's ranking of bonus bidding below the AVC withou"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ownership produced cartel behavior rather than efficient extraction. (D-claim: theoretical/design argument in an edited-volume closing essay, not a"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "eturn the proceeds to all — to the atmospheric and resource domains. (C-claim; theoretical)  In [*With Liberty and Dividends for All*](/wiki/with-l"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ts — the empirical base is strongest for land and subsoil resources. (D-claim; attributed)  ### Daly: Ecological Limits to Rent Extraction  Herman "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": " unsustainable if the extraction rate exceeds ecological thresholds. (C-claim; theoretical)  Daly's concept of \"uneconomic growth\" — growth that co"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "tion depletes finite stocks faster than natural regeneration allows. (D-claim; interpretive)  ## See Also  - [OPEC](/wiki/opec/) — the largest real"
+  }
+ ],
+ "concepts/seigniorage.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "oposal    (B-, C- and D-claims; verified against the full report text this session).    [Free PDF (jamesrobertson.com)](http://www.jamesrobertson.com/bo"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ffects (B-claim; not independently verified against the full paper    this session — cited for its existence and headline claim, flagged as a simulation"
+  }
+ ],
+ "concepts/single-tax.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ream that broadened into the twentieth-century progressive movement. (A-claim; factual)  Barker also documented the international reach: George's i"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "11). See [Barker's biography](/wiki/barker-henry-george-biography/). (A-claim; factual)  ## Decline  The single-tax movement declined after World W"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " taxation save that upon land values'\" (Burgess 1993, Ch. 7, p. 77). (A-claim; factual)  Burgess argues that \"the case argued in this work, the abo"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "that the single tax would keep government revenue within this limit. (C-claim; theoretical) [See caveat on Clark's 25% limit on the book page.]  ##"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "rom UK \"planning gain\" to ecological tax reform (Noyes 1991, p. 13). (D-claim; interpretive)  Tideman's chapter argues that 100% land value taxatio"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "1, \"Conflict, Ideology and Hope in Central America,\" Ch. 5, p. 113). (C-claim; theoretical)  ## See Also  - [William S. U'Ren](/wiki/william-s-uren"
+  }
+ ],
+ "concepts/sovereign-wealth-fund.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "oncept from depleting mineral rents to renewable common-asset rents. (C-claim; theoretical)  Barnes explicitly references the Alaska Permanent Fund"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "s proposes replicating this mechanism for non-mineral common assets. (D-claim; interpretive)  The commons trust framework also addresses a gap in t"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "nt funds that dominate the existing sovereign wealth fund landscape. (D-claim; interpretive)  ## See Also  - [Citizen's Dividend](/wiki/citizens-di"
+  }
+ ],
+ "concepts/spectrum-auctions.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "al resources, spectrum is being concentrated in a few strong hands.\" (D-claim: an advocacy essay's own citations to contemporaneous business press,"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY]",
+   "context": "ied here — treat the specific dollar figures as Gaffney's citations, `[VERIFY]`.)  ## Honest Limits — the \"Sell Once vs Lease\" Tension  - **One-time"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ights-vs-licence debate    (C/A-claims; verified via multiple sources this session).    [JLE](https://www.jstor.org/stable/724927) 2. Federal Communicat"
+  }
+ ],
+ "concepts/speculative-vacancy.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " poorest members of the community (Neeson 1993, Ch. 6, pp. 158–184). (B-claim; empirical)  After enclosure, this previously productive common land "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "gue to the modern pattern of speculative underuse of valuable sites. (A-claim; factual)  This historical case illustrates that \"vacancy\" and \"under"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "tive vacancy, even when the land remains in some form of production. (D-claim; interpretive)  See: [Commoners (Neeson)](/wiki/commoners-neeson/)  #"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ostly — but applied through communal ownership rather than taxation. (C-claim; theoretical)  See: [Garden Cities of To-morrow (Howard)](/wiki/garde"
+  }
+ ],
+ "concepts/split-rate-taxation.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ore-s-tax-gambit-could-put-vacant-land-on-the-clock/) (bot-blocked to this session). 7. \"Gov. Meyer allows split-rate property taxes to remain the law —"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "timore-s-tax-gambit-could-put-vacant-land-on-the-clock/) (bot-blocked to this session). 7. \"Gov. Meyer allows split-rate property taxes to remain the law —"
+  }
+ ],
+ "concepts/technofeudalism.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "13) — used for the \"siren servers\" concept; not independently re-read this session, cited via this wiki's [Jaron Lanier](/wiki/jaron-lanier/) page. Revi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "-Feudalism Is Taking Over,\" *Project Syndicate* (28 June 2021) — read this session via the author's own repost. Used for Varoufakis's pre-book statement"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ufakis,\" *New School Economic Review* 13 (2025), 72–76 — read in full this session. A genuine academic book review (New School for Social Research PhD c"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "igital Economy* (Verso, 2024) — book itself not independently re-read this session; used via Durand's own direct response to Morozov, \"Where Is Digital "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "on,\" *New Left Review* II/133–134 (January–April 2022) — read in full this session (via a freely accessible course-posted copy of the article). The land"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "   surfaced it; no paper with that title could be located anywhere by this session, while    this DOI independently and consistently resolves, across Se"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "//doi.org/10.1080/23792949.2025.2557909) —     fetch blocked (403) to this session 2026-08-29; Crossref confirmed the short (5-page),     fast-tracked c"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "795X241269293) —     publisher page returned only template content to this session 2026-08-31; verbatim     abstract obtained via the Crossref API — use"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "ps://doi.org/10.1080/23792949.2025.2557909) —     fetch blocked (403) to this session 2026-08-29; Crossref confirmed the short (5-page),     fast-tracked c"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "468795X241269293) —     publisher page returned only template content to this session 2026-08-31; verbatim     abstract obtained via the Crossref API — use"
+  }
+ ],
+ "concepts/unearned-increment.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ed-increment target Mill and George had described decades earlier. (A/D-claim: the 1894/1913 legislative history is checkable record; the \"Georgist"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " undertaxed but structurally never realized for tax purposes at all. (D-claim: tax-code mechanics and historical anecdote in an advocacy essay, not"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "is surplus was captured by the enclosing landowners as private rent. (D-claim; interpretive)  The process Neeson documents illustrates the unearned"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "d land value, transferred to private owners through legal enclosure. (D-claim; interpretive)  See: [Commoners (Neeson)](/wiki/commoners-neeson/)  #"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "nism, applying the principle Mill identified and George radicalized. (C-claim; theoretical)  See: [Garden Cities of To-morrow (Howard)](/wiki/garde"
+  }
+ ],
+ "concepts/uniformity-doctrine.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ") — used for the article's existence, venue, and pagination (verified this session); the uniformity-doctrine formulation itself is reported via source 2"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "elf is reported via source 2, below, as no free full text was located this session. 2. Mason Gaffney & Fred Harrison, *The Corruption of Economics*, She"
+  }
+ ],
+ "concepts/winners-curse.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "1, both basic facts corroborated across multiple contemporary sources this session (A-claim). [Wikipedia](https://en.wikipedia.org/wiki/Spectrum_auction"
+  }
+ ],
+ "events/1886-nyc-mayoral-election.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "f people from 1890 to 1920\" rather than a committed single-taxer.[6] (D-claim; interpretive and hedged by the source's own \"apparently\" — [VERIFY: "
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: needs-unblocked-web — abstract only; full text not retrievable, Wiley blocked automated access across retrieval methods. The publisher-deposited reference list (14 entries) was read in full via Crossref on 2026-08-25, confirming the paper is built primarily from Roosevelt's own primary documents plus George's *Progress and Poverty* — the remaining gap is the body text specifically, not the paper's scope]",
+   "context": " (D-claim; interpretive and hedged by the source's own \"apparently\" — [VERIFY: needs-unblocked-web — abstract only; full text not retrievable, Wiley blocked automated access across retrieval methods. The publisher-deposited reference list (14 entries) was read in full via Crossref on 2026-08-25, confirming the paper is built primarily from Roosevelt's own primary documents plus George's *Progress and Poverty* — the remaining gap is the body text specifically, not the paper's scope].)  ## What the Paper Builds On (Giesen 2026)  The publisher-deposited"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "needs-unblocked-web",
+   "context": "; interpretive and hedged by the source's own \"apparently\" — [VERIFY: needs-unblocked-web — abstract only; full text not retrievable, Wiley blocked automated a"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "and value taxation (D-claim, abstract only; full text not retrievable this session — this article was not confirmed open access by Unpaywall or Semantic"
+  }
+ ],
+ "events/1897-nyc-mayoral-campaign.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "hrough the same political rivalry (D-claim; Gaffney's interpretation, not independently verified here).[6]  ## The Campaign  George accepted the nomination of \"The Pa"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "nce of academic patronage running through the same political rivalry (D-claim; Gaffney's interpretation, not independently verified here).[6]  ## T"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ce, not independently cross-checked against the cited primary sources this session). [en.wikipedia.org/wiki/1897_New_York_City_mayoral_election](https:/"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s (D-claim; Gaffney's framing, attributed, not independently verified this session). [Book page](/wiki/gaffney-harrison-corruption-of-economics/) · [Pub"
+  }
+ ],
+ "events/1974-uk-property-crash.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "the wiki's existing verified summary",
+   "context": "rison's dating of the 1973 peak and 1974 recession is drawn here from the wiki's existing verified summary of *The Power in the Land* rather than a fresh page-by-page read of t"
+  }
+ ],
+ "events/2026-nyc-interborough-express-value-capture.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "no official MTA    or state financing document independently obtained this session. "
+  }
+ ],
+ "events/2026-state-lvt-enablement-wave.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "hio, and New Hampshire — remained pending or stalled and did not pass this session, underscoring that 2026's wave was real but partial: three states exp"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "rization of the abolition measure is his own; the measure's status is not independently verified on this page.)  Washington State's parallel 2026 push — a legal-feasi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "esota, Ohio, and New Hampshire, and for confirming which did not pass this session. 2. Niskanen Center, \"New York State authorizes a land value tax that"
+  }
+ ],
+ "events/black-death.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "cline) is part of the story of how the post-plague economy adjusted. (C-claim; George's own argument, attributed; quotation verified verbatim again"
+  }
+ ],
+ "events/florida-land-boom-1920s.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently confirmed",
+   "context": "Ch. 11) reports gains on the order of 600% for some parcels, a figure not independently confirmed here against a primary source; a scholarly benchmark for the boom's s"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ve.org/details/miamimillionsdan00ball), not consulted page-by-page in this session. 3. Phillip J. Anderson, *The Secret Life of Real Estate and Banking*"
+  }
+ ],
+ "events/highland-clearances.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "and into few hands as background to the book's \"tax clawback\" thesis; this session could not confirm whether *Ricardo's Law* discusses the Highland Clea"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "land Clearances (reportedly Ch. 11) was not independently verified in this session. [Wiki summary](/wiki/harrison-ricardos-law/) 3. Henry George, *Progr"
+  }
+ ],
+ "events/houston-plan-of-taxation.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "is episode; paywalled, cited for record but not directly consulted in this session. 3. \"Joseph Jay Pastoriza,\" Wikipedia — used for corroborating basic "
+  }
+ ],
+ "events/japanese-asset-price-bubble.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "el citation from Quinn & Turner was not independently re-consulted in this session; the discount-rate sequence is corroborated via web source 1. 4. Akhi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ndently verified against a primary Japanese housing-finance source in this session. No primary or scholarly Japanese housing-finance source directly doc"
+  }
+ ]
+}

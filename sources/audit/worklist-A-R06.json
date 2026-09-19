@@ -1,0 +1,634 @@
+{
+ "research/gaffney-land-as-element-of-housing-costs.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "im, not the specific   numbers in Table 4. - **Provenance.** Native, `pdftotext -layout`-extractable text (no OCR   needed). Local mirror: `sources/g"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "omponent behaves entirely differently from its *building* component. (B-claim; Gaffney's own theoretical derivation, illustrated numerically and wi"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ply if it appreciates —   \"heads they win, tails the county loses.\"  (C-claim; Gaffney's own catalogue of institutional and administrative practice"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "othing short of a sweeping reform of the entire system may suffice.\" (C-claim; Gaffney's own catalogue and worked illustrations from 1960s tax law,"
+  }
+ ],
+ "research/gaffney-land-booms-destroy-capital.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "night\" quotation. Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-16); quotations spot-checked against the source PDF. [Free P"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "luation identity. Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-16); quotations spot-checked against the source PDF. [Free P"
+  }
+ ],
+ "research/gaffney-land-distinctive-factor.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "is's argument, not independently checked against Jarvis's own writing this session. **Attempted** (2026-07-18): general web search for the verbatim slog"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ity to use land productively.\"[1] The 2026-07-18 companion page mined this session, [Gaffney (1992): Rising Inequality and Falling Property Tax Rates](/"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " attributed narrative, not verified against primary correspondence in this session. `[VERIFY: the footnote 31 concentration citations (Gaffney's own \"Wh"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ising Concentration,\" etc.) were not independently retrieved and read this session — only the D1 companion piece (\"Rising Inequality and Falling Propert"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "songaffney.org's scanned PDF, which has a clean embedded text layer (`pdftotext` extraction verified against the source, no OCR needed) — is the prim"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: this\nis Gaffney's own polemical framing of Jarvis's argument, not independently checked\nagainst Jarvis's own writing this session. **Attempted** (2026-07-18): general web\nsearch for the verbatim slogan found no primary Jarvis source; Jarvis's own book,\n*I'm Mad As Hell* (1979), exists on Internet Archive only as a borrow-restricted\nscan (no full-text search available without a loan), and a previously indexed\nthird-party full-text mirror (members.tripod.com) no longer resolves. Book/\narchival access is needed — a library loan of *I'm Mad As Hell* or contemporaneous\nProp. 13 campaign literature — not another web search.]",
+   "context": "question of how the property came to be owned in the first place.[1] `[VERIFY: this is Gaffney's own polemical framing of Jarvis's argument, not independently checked against Jarvis's own writing this session. **Attempted** (2026-07-18): general web search for the verbatim slogan found no primary Jarvis source; Jarvis's own book, *I'm Mad As Hell* (1979), exists on Internet Archive only as a borrow-restricted scan (no full-text search available without a loan), and a previously indexed third-party full-text mirror (members.tripod.com) no longer resolves. Book/ archival access is needed — a library loan of *I'm Mad As Hell* or contemporaneous Prop. 13 campaign literature — not another web search.]`  **B-4/B-5: land rent does not evoke production, and is therefore a "
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY:\nthe footnote 31 concentration citations (Gaffney's own \"Who Owns Southern\nCalifornia?\", \"Falling Property Tax Rates and Rising Concentration,\" etc.) were not\nindependently retrieved and read this session — only the D1 companion piece\n(\"Rising Inequality and Falling Property Tax Rates,\" 1992) was]",
+   "context": "rative, not verified against primary correspondence in this session. `[VERIFY: the footnote 31 concentration citations (Gaffney's own \"Who Owns Southern California?\", \"Falling Property Tax Rates and Rising Concentration,\" etc.) were not independently retrieved and read this session — only the D1 companion piece (\"Rising Inequality and Falling Property Tax Rates,\" 1992) was]` Readers using this essay as ammunition should lean on the ten primar"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "**Attempted**",
+   "context": " not independently checked against Jarvis's own writing this session. **Attempted** (2026-07-18): general web search for the verbatim slogan found no pri"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " and the booms-and-busts section    (C-1 through C-3). Text extracted this session directly from the source PDF's    embedded text layer (`pdftotext -la"
+  }
+ ],
+ "research/gaffney-land-market-distortions.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this environment",
+   "context": " Markets in Economic Crises,\" 2009) could not be searched reliably in this environment (PDF text extraction failed on both). Circa-1993 remains the best-sup"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: exact publication date\nof WP041/WP042 — not stated on masongaffney.org; inferred from internal references.\n**Attempted again** (2026-07-18): masongaffney.org's workpapers listing and vita/CV\npage still show no date for either entry; a search for other papers citing WP041/\nWP042 found only one, formatted with no year given (consistent with no dated\nciting source existing); Gaffney's own later, freely-available papers that might\ncite these working papers by date (\"Keeping Land in Capital Theory,\" 2007; \"The\nRole of Land Markets in Economic Crises,\" 2009) could not be searched reliably in\nthis environment (PDF text extraction failed on both). Circa-1993 remains the\nbest-supported estimate; a genuinely dated citing source still hasn't been found.]",
+   "context": "irca 1993** as the best-supported estimate, not a confirmed date.[2] `[VERIFY: exact publication date of WP041/WP042 — not stated on masongaffney.org; inferred from internal references. **Attempted again** (2026-07-18): masongaffney.org's workpapers listing and vita/CV page still show no date for either entry; a search for other papers citing WP041/ WP042 found only one, formatted with no year given (consistent with no dated citing source existing); Gaffney's own later, freely-available papers that might cite these working papers by date (\"Keeping Land in Capital Theory,\" 2007; \"The Role of Land Markets in Economic Crises,\" 2009) could not be searched reliably in this environment (PDF text extraction failed on both). Circa-1993 remains the best-supported estimate; a genuinely dated citing source still hasn't been found.]`  The two papers do not carry equal weight for the wiki. **WP041 rest"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "roy-capital/).    Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-17);    quotations verified against the source PDF directly."
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "redit    section. Text mirrored and OCR'd from the site's scanned PDF this session    (2026-07-17); quotations verified against the source PDF directly."
+  }
+ ],
+ "research/gaffney-land-planning-property-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "oaded by [Mary Cleveland]\" watermarks on each   page) with a native, `pdftotext -layout`-extractable text layer; column   order in the two-column ori"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "nt (early years, tightest cash squeeze) when financing matters most. (C-claim; Gaffney's own theoretical mechanism, illustrated numerically, not ec"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ctive public land planning presupposes a well-oiled land market.\"[1] (D-claim; Gaffney's own normative and institutional argument, addressed to a p"
+  }
+ ],
+ "research/gaffney-mineral-leasing-tax-reform.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "-08-10:** exact publication year and venue remain unconfirmed despite this session's search (library-catalog- style searches and Fraser Institute/Canadi"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " report\" guess. The volume's editor and publisher were not identified this session.  **\"Oil and Gas: The Unfinished Tax Reform\"** is a US federal tax-po"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Channels exhausted",
+   "context": "in the mid-1970s; masongaffney.org does not date it more precisely. **Channels exhausted, 2026-08-10:** exact publication year and venue remain unconfirmed de"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session's",
+   "context": "-08-10:** exact publication year and venue remain unconfirmed despite this session's search (library-catalog- style searches and Fraser Institute/Canadian"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "austed 2026-08-10 — see Overview and Standing    and Limits). Fetched this session from the local mirror.    [Free PDF (masongaffney.org)](https://mason"
+  }
+ ],
+ "research/gaffney-montana-land-policy.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: primary source not independently located — this page reports\nGaffney's own citation of a secondary press report]",
+   "context": "orking paper reported in the *Milwaukee Journal*, 29 August 1971.[1] `[VERIFY: primary source not independently located — this page reports Gaffney's own citation of a secondary press report]` Against this, he assesses Montana's newly adopted 30% coal yield (se"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ed PDF and quotations spot-checked against the source PDF    directly this session (2026-07-18). Also mirrored on masongaffney.org under a    second fil"
+  }
+ ],
+ "research/gaffney-new-life-in-old-cities.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "not benchmarked against an independent global   cross-city dataset in this pass.]**  ## The Pittsburgh Anomaly  Gaffney treats **Pittsburgh** as a de"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "d elect Huey Long governor the following year) is background context, not independently verified here. Gaffney offers no tax-policy prescription unique to disaster re"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-07-18",
+   "context": " a city councilman (Daniel Cohen) quoted in local news coverage.[1] **Resolved 2026-07-18:** independently corroborated via Mark Alan Hughes's Lincoln Institut"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " principle — but the **causal attribution to Georgist tax policy is a D-claim** (interpretive/argumentative): no city-pair in the essay is matched "
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: this specific\n  claim is Gaffney's citation of an unpublished Andelson conference address; the wiki\n  has not independently traced San Diego building data to confirm the 75-year figure.]",
+   "context": "ert   Andelson), \"the city skyline froze for the next 75 years.\"[1] **[VERIFY: this specific   claim is Gaffney's citation of an unpublished Andelson conference address; the wiki   has not independently traced San Diego building data to confirm the 75-year figure.]** - **Vancouver, 1895–1909** (population quintupled): 8-term Mayor Lo"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: superlative claim, not benchmarked against an independent global\n  cross-city dataset in this pass.]",
+   "context": "tax — which Gaffney calls \"the fastest growth rate on record.\"[1]   **[VERIFY: superlative claim, not benchmarked against an independent global   cross-city dataset in this pass.]**  ## The Pittsburgh Anomaly  Gaffney treats **Pittsburgh** as a deli"
+  }
+ ],
+ "research/gaffney-nonpoint-pollution.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "c contribution. - **The venue's full name was confirmed independently this session (2026-08-10).**   The masongaffney.org scan gives only the abbreviati"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "g., \"regUar\" for \"regular,\" \"Un-disposed\" for \"undisposed\"). Re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + `tesseract --psm "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "a) are drawn from secondary sources Gaffney cites but   this wiki has not independently verified; treat the argument as Gaffney's   own synthesis (C/D-claim) rather t"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently confirmed",
+   "context": "mics,\" matching volume/issue/year/pagination exactly.   This wiki has not independently confirmed the journal's publishing   institution. - **The land-value-tax soluti"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Tesseract",
+   "context": "\"Un-disposed\" for \"undisposed\"). Re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + `tesseract --psm 3`), which corrected thes"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftoppm",
+   "context": "\"undisposed\"). Re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + `tesseract --psm 3`), which corrected these and other misre"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "endently verified; treat the argument as Gaffney's   own synthesis (C/D-claim) rather than as newly established fact. - **The seven surrogate-tax f"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " for the entire page. Scanned PDF, legacy OCR text layer; re-OCR'd    this session at 250dpi with Tesseract 5.3.4. [Free PDF (masongaffney.org)](https:/"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ington, D.C., March 8–9, 1966    — read and declined a dedicated page this session (see Standing and    Limits); cited only for the land-rent-as-polluti"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "int Pollution:    Tractable Solutions to Intractable Problems\" — used this session (2026-08-10)    only to independently confirm the source's full journ"
+  }
+ ],
+ "research/gaffney-noyes-income-stimulating-property-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "en 1995 cellular-turnover statistic were not independently re-checked this session.)  ### \"Falsified Land Values\" — A 23-Point Measurement Taxonomy  The"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "t Archive, Google   Books, and JSTOR-style searches all came up empty this session; it is   sold only as a print/commercial book), so the exact Table 8:"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Channels exhausted",
+   "context": "ct state-by-state figures should   consult the source PDF directly. **Channels exhausted, 2026-08-10:** *The   Losses of Nations* has no free digitized copy ("
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "IV   especially) show column misalignment and dropped digits under   `pdftotext -layout` extraction. This page relies on the chapter's own   prose su"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "al resources, spectrum is being concentrated in a few strong hands.\" (D-claim: an advocacy essay's contemporaneous business-press citations. *Indep"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "e-capacity/).  ## Standing and Limits  - **Claim class.** Part 1 is a B-claim (empirical, cross-sectional,   correlational) argued by committed Geo"
+  }
+ ],
+ "research/gaffney-property-tax-progressive.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " same pattern documented on the K-series, H3, and F7 pages). Re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + `tesseract --psm "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "arch (marked \"preliminary, subject to adjustment\" in the original),   not independently verified here. - **The paper predates, and cannot address, the \"new view\"/\"ben"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Tesseract",
+   "context": "the K-series, H3, and F7 pages). Re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + `tesseract --psm 3`); canonical text mirro"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftoppm",
+   "context": "and F7 pages). Re-OCR'd this session at 250dpi with Tesseract 5.3.4 (`pdftoppm -r 250` + `tesseract --psm 3`); canonical text mirrored to `sources/g"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "istory; this wiki carries it as Gaffney's own   argument, attributed (D-claim), not as settled fact.  ## Bears On  - **Research:** [Mieszkowski (19"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " for the    entire page. Scanned PDF, legacy OCR text layer; re-OCR'd this session at    250dpi with Tesseract 5.3.4. [Free PDF (masongaffney.org)](http"
+  }
+ ],
+ "research/gaffney-real-assets-model-china.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "re both consulted; the working text mirror is drawn from   a cleanly `pdftotext`-extractable copy, no OCR needed. - **Priority note (2026-07-18).** T"
+  }
+ ],
+ "research/gaffney-rising-inequality-farm-property-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not located",
+   "context": "/). The paper is 34 years old as of this wiki's writing; the wiki has not located a more recent replication using post-1987 Census of Agriculture data,"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: no formal\nregression coefficients, standard errors, or significance tests are reported in the\nchapter — the cross-sectional \"evidence\" is presented as ranked-state comparisons and\nscatter description (Figure 10.1), not an econometric model with reported\nstatistics]",
+   "context": "de by heavier taxes) and does not claim to resolve it statistically. `[VERIFY: no formal regression coefficients, standard errors, or significance tests are reported in the chapter — the cross-sectional \"evidence\" is presented as ranked-state comparisons and scatter description (Figure 10.1), not an econometric model with reported statistics]` The scope is **US farmland specifically**, spanning 1900–1987 — it s"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ison, and Gaffney's own interpretation and    caveats. Text extracted this session directly from the source PDF's embedded text    layer (`pdftotext -la"
+  }
+ ],
+ "research/gaffney-soil-depletion-land-rent.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "gress.org — that mirror currently 404s under every URL encoding tried this session. The live masongaffney.org PDF (percent-encoded ampersand, `%26`) was"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": ", not an empirically estimated or independently replicated result — a C-claim (theoretical), not a B-claim (empirical). **Citation count establishe"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "d or independently replicated result — a C-claim (theoretical), not a B-claim (empirical). **Citation count established (2026-07-18):** Semantic Sc"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: the\narchive.progress.org mirror for this file should be re-run with the correct\nsource filename; the R2 manifest's ampersand-containing entries for this and\nseveral other Gaffney files\n(sources/gaffney-r2-manifest.csv) all fetched as identical-sized 404 error\npages rather than the real PDFs.]",
+   "context": "'s own open-access host) is a second free, legal, working mirror.[1] `[VERIFY: the archive.progress.org mirror for this file should be re-run with the correct source filename; the R2 manifest's ampersand-containing entries for this and several other Gaffney files (sources/gaffney-r2-manifest.csv) all fetched as identical-sized 404 error pages rather than the real PDFs.]`  ## Bears On  - **Objection:** [\\\"Land Is Just a Form of Capital\\\"]("
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ed to    `sources/gaffney/text/B5Soil_Depletion_and_Land_Rent.CV.txt` this session    (OCR quality good; page-break artifacts from the original journal'"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "gitalrepository.unm.edu/nrj/vol4/iss3/7/)    (both verified reachable this session); `archive.progress.org` mirror not    currently working for this fil"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " later Georgist-adjacent scholarship; not itself mined for    content this session. [Wiley (paywalled)](https://onlinelibrary.wiley.com/doi/10.1111/ajes"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "ive.progress.org` mirror not    currently working for this file, see `[VERIFY]` note above; local mirror at    `sources/gaffney/`. 2. [Gaffney (2006"
+  }
+ ],
+ "research/gaffney-synergistic-city.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "c costs, and every quotation on this page; full text fetched and read this pass (native, `pdftotext -layout`-extractable, no OCR needed; local mirror"
+  }
+ ],
+ "research/gaffney-tax-induced-slow-turnover.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": " `texts/` page. O11, the 1971 rejoinder to Thomson and Goldstein, was fetched and read for context only (confirming the triage's \"technical rejoinder\" chara"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "realization doctrine were revisited — a speculative legal argument (a D-claim, Gaffney's own, not independently checked here) rather than an econom"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ferences and the Alaska-report    note; read in full (all five parts) this session via Gaffney's own posted    unabridged text (free, no paywall). [Free"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "Journal of Economics and Sociology* — fetched    and read for context this session, not separately mined. [Free PDF (masongaffney.org)](https://masongaf"
+  }
+ ],
+ "research/gaffney-tax-reform-release-land.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "r than as documented causal history — carried here as an   attributed D-claim, consistent with the wiki's handling of similar   passages on [gaffne"
+  }
+ ],
+ "research/gaffney-time-dimension-of-space.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "perty-tax/)). - **OCR provenance.** The source PDF carries a native, `pdftotext`-extractable   text layer with scanning-era OCR noise typical of this"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "y hard-pressed entrepreneurs can conveniently raise at one time.\"[1] (C-claim; Gaffney's own theoretical framing.)  Gaffney then argues, at some le"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ng it from an institutional critique of leasing and lending markets. (C-claim; theoretical/institutional argument, attributed.)  ## The Dynamic Equ"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "tion of land — \"immortal land, and especially appreciating land.\"[1] (C-claim; original theoretical derivation.)  ## Relationship to the Wiki's Exi"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "is asserted as a theoretical implication of the model, not measured. (D-claim; interpretive, attributed.)  ## Standing and Limits  - **Genre.** A s"
+  }
+ ],
+ "research/gaffney-two-centuries-land-taxation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "independently re-extracted ",
+   "context": "ed ligatures elsewhere). Every direct quotation used on this page was independently re-extracted from the source PDF with `pdftotext -layout` and checked against the O"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "on this page was independently re-extracted from the source PDF with `pdftotext -layout` and checked against the OCR text before use; no quotation he"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "e wiki reports this as Gaffney's attributed interpretation — the same D-claim caveat carried on [Gaffney's *Neo-classical Economics as a Stratagem*"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ading of Clark, Knight, Fetter) are Gaffney's own and are the weaker, D-claim layer. - **Selection bias is explicit, not hidden.** Gaffney names ro"
+  }
+ ],
+ "research/gaffney-urban-land-rent.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "tion (\"conservation of    economic energy\") statement. Text extracted this session from the source    PDF's embedded text layer (`pdftotext -layout`; no"
+  }
+ ],
+ "research/gaffney-water-rent-taxation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "fic figures quoted on this page were spot-checked against that re-OCR this session, but figures elsewhere in H3 not quoted here should still be treated "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "he 1982–1997 window specifically, but no post-1997 update was located this session.  `[EDITORIAL: added 2026-07-18]` **One correction to the \"no third-p"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftoppm",
+   "context": "on; this page's quotations and figures are drawn from a fresh re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF. This session re-checked ev"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Tesseract",
+   "context": "otations and figures are drawn from a fresh re-OCR (pdftoppm 250dpi + Tesseract 5.3.4) of the same PDF. This session re-checked every dollar figure a"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "ebuttal of six named fallacies obstructing the idea. Native, cleanly `pdftotext`-extractable text — no OCR needed.  Between them, the two essays cove"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL: added 2026-07-18]",
+   "context": "arcels even where the law in principle allowed \"surplus\" transfers.  `[EDITORIAL: added 2026-07-18]` A later, more systematic Gaffney paper — **\"Economic Aspects of Wate"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL: added 2026-07-18]",
+   "context": "),    applied here to water infrastructure rather than land credit.  `[EDITORIAL: added 2026-07-18]` **6. A federal fiscal channel compounding the race.** A later Gaffne"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL: added 2026-07-18]",
+   "context": "me.  ### The Groundwater Treadmill: A Parallel Dynamic for Aquifers  `[EDITORIAL: added 2026-07-18]` The surface-water dynamic pattern above has a groundwater counterpar"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL: added 2026-07-18]",
+   "context": "ns elsewhere on the wiki.  ### Designing the Price Mechanism (1977)  `[EDITORIAL: added 2026-07-18]` H21 argues *that* withdrawals should be priced but says little about"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL: added 2026-07-18]",
+   "context": "ter Marketing? — Why Voluntary Trading Kept Failing to Clear (1997)  `[EDITORIAL: added 2026-07-18]` **\"What Price Water Marketing? California's New Frontier\"** (*Americ"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL: added 2026-07-18]",
+   "context": "dow specifically, but no post-1997 update was located this session.  `[EDITORIAL: added 2026-07-18]` **One correction to the \"no third-party peer review\" characterizatio"
+  }
+ ],
+ "research/gala-gabriel-latin-america-resource-trap.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "ather than a randomized or quasi-experimental   design. - **Full text not independently verified beyond the abstract.** Specific country-level data   and the paper's "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ture it is implicitly   contrasted with are not covered by this page (B-claim).  ## Bears On  - **Research:** [Sachs & Warner: The Curse of Natural"
+  }
+ ]
+}

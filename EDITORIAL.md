@@ -247,6 +247,68 @@ flags these for review.
 
 ---
 
+### §4b Reader-facing prose never narrates the wiki's research process (Floyd, 2026-09-19)
+
+The page is an encyclopedia entry, not a lab notebook. The **status of a claim** stays visible
+to the reader, in encyclopedic terms; the **history of our attempts** to verify it does not.
+
+| Say this | Not this |
+|---|---|
+| "The figure is the author's own estimate and has not been independently tested." | "not independently verified this session" |
+| "Only the abstract is publicly available; the summary rests on it." | "fetch blocked (403); reconstructed from a WebSearch snippet" |
+| "Reported by a single outlet; no second source has been located." | "as of this writing no corroboration was found by this environment" |
+| "The claim is unverified." | "(B-claim)" / "[VERIFY: …]" |
+
+Rules:
+1. No "this session / this pass / this environment / this wiki's fetcher", no tool names
+   (curl, WebFetch, r.jina.ai, Wayback), no HTTP codes, no dated retry logs, and no
+   claim-grade codes (`A-claim` … `D-claim`) anywhere outside the **Sources** section. Grade
+   codes are an internal instrument; they live in Sources annotations only.
+2. `[VERIFY …]`, `[CITATION NEEDED …]` and `[CITE]` markers are work items, not content. A page
+   does not publish with one. Resolve (cite, link, soften to what the source supports) or
+   remove the bracket and hedge the sentence; never fabricate a citation to close one (rule 2).
+3. Sources annotations may carry access status and grade, phrased impersonally and dated:
+   "full text not accessible at last review (2026-09-06); summary rests on the abstract" —
+   not "WebFetch returned 403 to this session".
+4. "Discovery notes", "the wiki's notes on that book", and similar internal artefacts are not
+   citable. Cite the work itself or drop the claim.
+`scripts/audit_wiki.py` reports violations; `lint_wiki.py` will gate on the prose classes once
+the 2026-09 cleanup is complete.
+
+### §4c Attribution and notability — who may be cited as support (Floyd, 2026-09-19)
+
+A name used to **bolster** an idea is social proof, and social proof from a non-notable source
+is worse than none: it signals to a careful reader that no better authority exists. Floyd's
+rule: if we cite someone to show an idea has support, it should be someone prominent — a
+recognised scholar, a canonical author, an official body — "someone on Adam Smith's level".
+
+**Tier 1 — may be cited as support anywhere.** Canonical thinkers (George, Smith, Ricardo,
+Mill, Marshall, Pigou, Vickrey, Stiglitz, Friedman, Samuelson, Solow, Tobin, Ostrom, Nobel
+laureates); established academics with a peer-reviewed body of work on the topic (Gaffney,
+Tideman, Oates & Schwab, Plassmann, Foldvary in his academic papers, Glaeser, Piketty, Zucman,
+Saez, Ryan-Collins, Christophers); official and standing bodies (OECD, IMF, World Bank, ONS,
+IFS and the Mirrlees Review, Lincoln Institute, IAAO, central banks, statutory reviews);
+canonical historical figures for their own acts and words.
+
+**Tier 2 — may be cited as the ORIGIN or a PROPONENT of a term or claim, with status stated;
+never as evidence the claim is right.** Practitioner-authors, investors, advocates,
+journalists, bloggers, movement and think-tank staff, newsletter writers: Akhil Patel, Phillip
+J. Anderson, Fred Harrison in his popular books, Lars Doucet, Common Wealth Canada, Henry George
+Foundation essays, the *Progress and Poverty* newsletter. Write "the practitioner-author Akhil
+Patel's term for…", not "as Patel shows". Their pages in `people/` and `books/` are the home
+for what they say; other pages link there rather than restate it as corroboration.
+
+**Tier 3 — only as the subject of a page, or for their own actions and statements.**
+Politicians on policy, business people, op-ed writers, anonymous or pseudonymous sources.
+
+Placement: on concept, theory, objection, benefit, problem, narrative, event and place pages,
+the lead and the evidence sections cite Tier 1 only. Tier 2 names belong in a clearly-labelled
+"Who promotes it" / "In the land-cycle literature" / "Current debate" section, with their
+status stated. Listing a Tier 2 name alongside Tier 1 names as an equal ("Gaffney, Foldvary
+and Patel argue…") is a violation. Where a page currently leans on a Tier 2 source for a point
+that a Tier 1 source on the wiki also makes, substitute the Tier 1 source; where none exists,
+hedge to "proponents argue" and keep the Tier 2 citation as origin only.
+
 ## 5. Frontmatter schema (YAML)
 
 **All pages:** `title` (quoted), `category` (must equal the folder), `tags` (list),

@@ -1,0 +1,436 @@
+{
+ "research/chiu-jagannathan-valuing-intangibles-rents.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "n's Q\"). [NBER](https://www.nber.org/papers/w30829) — read in    full this session (PDF, incl. Online Appendix) — used for the four-part market-value   "
+  }
+ ],
+ "research/cho-two-rate-density.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": " most sprawling large US metro, which may bound the upper estimate. - **Verification note.** Proxy-blocked fetches; bibliographic details and   magnitudes corr"
+  }
+ ],
+ "research/choi-sjoquist-atlanta-lvt-cge.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: internal inconsistency in the source]",
+   "context": "ixed-boundary case because the urban area spatially   contracts.[1] **[VERIFY: internal inconsistency in the source]** — the paper   states the fixed-boundary revenue-neutral rate as **8"
+  }
+ ],
+ "research/chu-taiwan-property-tax-incidence.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "onses (Cloudflare \"Client Challenge\") for the Springer-hosted article this session;   this page is built from third-party search-result summaries of the"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "WebFetch",
+   "context": " Nuances and Limits  - **Full text not independently verified.** Both WebFetch and curl returned bot-blocked   responses (Cloudflare \"Client Challen"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": "Limits  - **Full text not independently verified.** Both WebFetch and curl returned bot-blocked   responses (Cloudflare \"Client Challenge\") for "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": " verified.** Both WebFetch and curl returned bot-blocked   responses (Cloudflare \"Client Challenge\") for the Springer-hosted article this session;   t"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "ost of which is US/UK-anchored.  ## Nuances and Limits  - **Full text not independently verified.** Both WebFetch and curl returned bot-blocked   responses (Cloudflar"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "e \"Client Challenge\") for the Springer-hosted article this session;   this page is built from third-party search-result summaries of the paper's findings, not   a "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "result summaries of the paper's findings, not   a direct read. Graded C-claim throughout; **[VERIFY]** flag retained for a future session   with di"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY]",
+   "context": "e paper's findings, not   a direct read. Graded C-claim throughout; **[VERIFY]** flag retained for a future session   with different network egress "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " blocked (Cloudflare    \"Client Challenge\") to both WebFetch and curl this session 2026-08-25; summary drawn    from third-party search-result descripti"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "ing-tax-durable-vs-transfer-tax-transient central finding (C-claim; **[VERIFY]**    against primary source when accessible, no verbatim quotation of"
+  }
+ ],
+ "research/churchill-peoples-rights.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "# How Churchill Framed It  Two framing moves recur across the sources this session could verify, both aimed at a mass electorate rather than an expert a"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "which is why he treats it as a legitimate and distinctive tax base (a D-claim — this is Churchill's argument, not a demonstrated economic finding):"
+  }
+ ],
+ "research/cib-land-value-capture-study.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-07-18",
+   "context": ", or approval. Fetched and read in full (49 pages) for this entry.  **Resolved 2026-07-18:** re-extracted the PDF's full plain text directly (not just via summ"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s, and all direct quotations; fetched and read in full (all 49 pages) this session. "
+  }
+ ],
+ "research/cmhc-housing-market-assessment-2021.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "ork. The September 2021 edition — covering data through Q2 2021 — was fetched and read in full (48 pages) directly from CMHC's own PDF hosting. This entry i"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Checked (2026-07-16",
+   "context": "MA can shift with methodology changes as well as market conditions. **Checked (2026-07-16): CMHC discontinued the Housing Market Assessment entirely, effective"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "earch/Market-Reports/Housing-Market/housing-market-assessment) — read this session to confirm the framework's status after 2021: the HMA was discontinue"
+  }
+ ],
+ "research/cochrane-finance-function-matters.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL's rent gradient]",
+   "context": "ed away to customers** — the same quasi-rent-to-scarce-talent pattern [EDITORIAL's rent gradient](/wiki/geoism/) flags as the Schumpeterian, harder-to-tax frontier cas"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " too    big\" citation (B- and D-claims; verified against the full PDF this session).    [Author PDF](https://johnhcochrane.com/s/Cochrane_jep_function_s"
+  }
+ ],
+ "research/cohen-coughlin-two-rate-taxation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "nstitute of Land Policy, 1998), pp. 31–48 — was not found free online this session (not on archive.org or Google Books; a print/paywalled Lincoln Instit"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "against a full PDF of the paper (also independently recovered via the Wayback Machine's archive of the true stlouisfed.org PDF, since the live URL "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "f St. Louis Review*, May/June 2005, 87(3): 359–374. The full text was fetched and read (the original stlouisfed.org PDF URL has gone dead and now redirects "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-07-18",
+   "context": " a nuance the wiki's own pages should reflect rather than flatten.  **Resolved 2026-07-18:** the Mills (1998) revenue-adequacy claim was re-verified directly a"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "percent\" revenue-adequacy figure; not independently found free online this session (not on archive.org or Google Books), so cited here only via Cohen an"
+  }
+ ],
+ "research/commander-estrin-india-business-groups.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "fied here. Graded B-claim. - **Working paper, not yet peer-reviewed** as of this writing. - **No explicit land-rent framing in the original.** The connection "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": " post-2013 markup increase, sector-level concentration   figures) are not independently verified here. Graded B-claim. - **Working paper, not yet peer-reviewed** as o"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " concentration   figures) are not independently verified here. Graded B-claim. - **Working paper, not yet peer-reviewed** as of this writing. - **N"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ent-seeking and market-power literature is this wiki's own synthesis (D-claim,   interpretive), not an argument the authors make.  ## Bears On  - *"
+  }
+ ],
+ "research/cook-nyc-congestion-pricing.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "otations verified verbatim against the NBER and    author-hosted PDFs this session."
+  }
+ ],
+ "research/coppack-competition-paradox-sovereign-corporations.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "is wiki also tracks in non-land domains. - **Full text read directly (A-claim).** The complete 50-page report was obtained and read in   full via F"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "7289) after the RShare web interface itself proved    inaccessible to this session; direct file: [ndownloader.figshare.com, file ID    65647782](https:/"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "2717289) after the RShare web interface itself proved    inaccessible to this session; direct file: [ndownloader.figshare.com, file ID    65647782](https:/"
+  }
+ ],
+ "research/cord-george-dreamer-or-realist.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ns' mixed reception of George. The review's full text was not fetched this session; the thesis it attests is independently corroborated by source 4 belo"
+  }
+ ],
+ "research/coven-property-taxes-housing-allocation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " this page's own reading of the full text, which remains paywalled to this session; graded C-claim (secondary coverage) pending direct verification agai"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ing of the full text, which remains paywalled to this session; graded C-claim (secondary coverage) pending direct verification against the paper it"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " Scan depth: abstract only (B-claims); the full paper is paywalled to this session, so no claim below the abstract level is made. 2. Greg Miller (Center"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "ng. Scan depth: abstract only (B-claims); the full paper is paywalled to this session, so no claim below the abstract level is made. 2. Greg Miller (Center"
+  }
+ ],
+ "research/cribb-hood-hoyle-homeownership.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "es/output_url_files/BN224.pdf) (executive summary    fetched and read this session) — used for the age-27 cohort ownership rates (25% / 33% / 43%),    t"
+  }
+ ],
+ "research/crouzet-eberly-intangibles.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "osition, all quoted passages, and the policy-implications section;    this session directly retrieved and read the full text of both PDF versions. 2. Fe"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rnet Archive copy    (direct fetches from kansascityfed.org timed out this session); used for the    discussant-pushback bullet in Nuances and Limits, t"
+  }
+ ],
+ "research/cunningham-seattle-options.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "ated full dissertation, neither of which yielded a readable full text this pass (no open-access copy exists via Unpaywall/RePEc; the Atlanta Fed work"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "specification, exact sample size, standard errors) was not obtainable this pass. Primary-text confirmation of the full regression tables and sample d"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "returned 404",
+   "context": " copy exists via Unpaywall/RePEc; the Atlanta Fed working-paper guess returned 404); a future editor with full-text or ProQuest access should confirm th"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Hermes",
+   "context": "opment-timing relationship on its own. Verification note (2026-07-11, Hermes fact-check lane): the \"1.6 percent\" and \"11 percent\" headline figures"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "ndings. Full dissertation text is ProQuest-gated and was not readable this pass.  Sourcing note: the paper's existence, citation, and headline findin"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "act estimation period) was not fetchable through available web access this pass; it remains in the paywalled *JUE* article and the ProQuest-gated Syr"
+  }
+ ],
+ "research/cwc-distributional-impacts-lvt.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "cket. (Common Wealth Canada, Apr. 2024, primary page fetched directly this pass.)  ## Methodology  The note's incidence calculations rest on a **cust"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": " these simplistic assumptions immensely.\" - **Primary source verified this pass.** All figures on this page were confirmed against a direct fetch of "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "user-agent",
+   "context": "rect fetch of the source page (commonwealth.ca fetches with a browser user-agent; the earlier 403 that forced snippet-triangulation is resolved). No f"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "verified this pass",
+   "context": "ffer from these simplistic assumptions immensely.\" - **Primary source verified this pass.** All figures on this page were confirmed against a direct fetch of "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "[EDITORIAL.md]",
+   "context": "ependent replication, consistent with the source-quality hierarchy in [EDITORIAL.md](https://github.com/floydmari/georgism-wiki/blob/main/EDITORIAL.md). -"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "/distributional-impacts — **primary source, fetched and read directly this pass** (the domain serves fine with a browser user-agent) — used for all q"
+  }
+ ],
+ "research/dachis-buyers-beware-housing-barriers.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "— as distinct from genuine construction-cost inflation. The paper was fetched and read in full (13 pages) directly from C.D. Howe's own PDF hosting, after t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "the predecessor study this e-Brief updates; not independently read in this pass. 4. Ontario, *Planning Act*, R.S.O. 1990, c. P.13, s. 37(4) and s. 37"
+  }
+ ],
+ "research/danandjojo-jakarta-lvc-governance.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "instrument-by-rights-holder mapping were not   independently obtained this session.  ## Bears On  - **Concept:** [Land Value Capture](/wiki/land-value-c"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ract    only (B-claim); the full paper was not independently obtained this session. "
+  }
+ ],
+ "research/davis-larson-oliner-shui-fhfa-land.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "s://www.fhfa.gov/document/wp1901.pdf)    — full text read directly in this pass; used for scope, data, method, and the    headline magnitudes (≈40% a"
+  }
+ ],
+ "research/de-loecker-eeckhout-unger-markups.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "ons, and the distinction matters:  - The **2017 NBER working paper** (fetched and read directly) states: \"In 1980, average markups   start to rise from 18% "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "entrated markup rise appears in a second economy on independent data (B-claim; landing-page summary read directly, not a full-text scan).[9]  ## Re"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "lternative finding (direct fetch of the    PDF also returned HTTP 403 this session; summarized from search-engine snippets describing the    paper's abs"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "panion papers in the same JEP symposium; not independently scanned    this session.  6. Steven Berry, Martin Gaynor & Fiona Scott Morton (2019), \"Do Inc"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " companion paper in the same JEP symposium; not independently scanned this session.  7. C. Lanier Benkard, Nathan H. Miller & Ali Yurukoglu (2025), \"The"
+  }
+ ]
+}

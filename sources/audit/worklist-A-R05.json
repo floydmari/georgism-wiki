@@ -1,0 +1,604 @@
+{
+ "research/forrester-property-rights-natural-resources.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "ing a competing value judgment.  ## Nuances and Limits  - **Full text not independently verified beyond the abstract**, which was obtained via   search-indexed summar"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ts, and any formal argument structure   are not covered by this page (B-claim; abstract-level). - **A philosophical argument, not an empirical clai"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ull    text behind a Springer paywall/authentication wall, blocked to this session 2026-08-27;    summary drawn from the paper's published abstract, obt"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "— full    text behind a Springer paywall/authentication wall, blocked to this session 2026-08-27;    summary drawn from the paper's published abstract, obt"
+  }
+ ],
+ "research/fox-liscow-love-tax-business-rents.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "to SSRN February 2026; not confirmed as   accepted at a journal as of this session. - **No PDF read directly (B+-claim).** This page is built from a pro"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".com/sol3/papers.cfm?abstract_id=6206239) —    fetch blocked (403) to this session 2026-08-28. 2. David Elkins, \"SSRN Review & Roundup: Elkins Reviews F"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "srn.com/sol3/papers.cfm?abstract_id=6206239) —    fetch blocked (403) to this session 2026-08-28. 2. David Elkins, \"SSRN Review & Roundup: Elkins Reviews F"
+  }
+ ],
+ "research/franzsen-mccluskey-property-tax-africa.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ry citation; the original Keen text was not independently verified in this session). "
+  }
+ ],
+ "research/fudge-structural-rentier-asset.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "er, which returned a   Cloudflare challenge to both WebFetch and curl this session. Graded C-claim throughout; no   verbatim quotation is offered, and t"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "WebFetch",
+   "context": "ad of the SSRN paper, which returned a   Cloudflare challenge to both WebFetch and curl this session. Graded C-claim throughout; no   verbatim quota"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": "N paper, which returned a   Cloudflare challenge to both WebFetch and curl this session. Graded C-claim throughout; no   verbatim quotation is o"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "etail rather than a direct read of the SSRN paper, which returned a   Cloudflare challenge to both WebFetch and curl this session. Graded C-claim thro"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "ing paper, not a   peer-reviewed academic contribution. - **Full text not independently verified.** This page is built from search-indexed   abstract/summary detail r"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently confirmed",
+   "context": "propositions\" structure referenced in   preliminary research notes is not independently confirmed. - **A theoretical/formal model, not an empirical test.** The paper's"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "  Cloudflare challenge to both WebFetch and curl this session. Graded C-claim throughout; no   verbatim quotation is offered, and the \"six numbered"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s://www.ssrn.com/abstract=7179858) —    fetch blocked (Cloudflare) to this session 2026-08-25; summary built from search-indexed    abstract/summary det"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "ttps://www.ssrn.com/abstract=7179858) —    fetch blocked (Cloudflare) to this session 2026-08-25; summary built from search-indexed    abstract/summary det"
+  }
+ ],
+ "research/furman-orszag-firm-rents.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "s   (`outcomes/corporate-profits-increasingly-rents`, not yet created as of this writing) once that   page exists — its firm-level ROIC dispersion, between-fi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "a sources, and quotations above; fetched and read directly    in full this session (24 pages). 2. Jason Furman & Peter Orszag, \"A Firm-Level Perspective"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ft volume.    Crossref's metadata record for the chapter DOI (fetched this session) confirms the title,    authors, pages 19–47, publisher, and December"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "'s discussion, not independently re-verified against the primary text this session. 7. Jae Song, David J. Price, Fatih Guvenen, Nicholas Bloom & Till vo"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "discussion, not independently re-verified against the    primary text this session. 8. Morris M. Kleiner & Alan B. Krueger (2013), \"Analyzing the Extent"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "discussion, not    independently re-verified against the primary text this session. 9. Joseph E. Stiglitz (2012), *The Price of Inequality: How Today's "
+  }
+ ],
+ "research/furman-review-digital-competition.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": ".uk PDF (Crown copyright, ISBN 978-1-912809-44-8), fetched and read   this session.  ## See Also   - [Taxing Tech Rents — Instrument Comparison](/wiki/t"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "st the official gov.uk PDF (Crown copyright, ISBN 978-1-912809-44-8), fetched and read   this session.  ## See Also   - [Taxing Tech Rents — Instrument Comp"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "arket-study recommendation (A/B/D-claims; fetched and read in full    this session)."
+  }
+ ],
+ "research/gaffney-after-the-crash.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "gist-adjacent journal; the historical Hoyt-cycle documentation is a B/C-claim (checkable, sourced), while the \"18-year\" periodicity and the recomme"
+  }
+ ],
+ "research/gaffney-alaska-oil-leasing.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "t beyond delivery to the Alaska Legislature and DNR — not established this session. **Attempted** (2026-07-18): a WorldCat catalog search returned HTTP "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this environment",
+   "context": " (2026-07-18): a WorldCat catalog search returned HTTP 403/blocked in this environment on every access pattern tried; no citing paper, Alaska State Library "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "not the **dividend** side, and no change is made to the dividend page this session: its supporting literature (four decades of PFD operating data) alrea"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": "ssion. **Attempted** (2026-07-18): a WorldCat catalog search returned HTTP 403/blocked in this environment on every access pattern tried; no citing "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-07-18",
+   "context": " computed on true economic depreciation is intertemporally neutral. **Resolved 2026-07-18:** the reprint is itself Appendix II of Gaffney's own five-part AJES "
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: checked only against these appendices as OCR'd from\nthe archived PDF, not against any transmittal letter, legislative testimony, or\ncorrespondence that might record a contributor's view of the AVC proposal\ndirectly]",
+   "context": "page reports that absence rather than treating silence as agreement. `[VERIFY: checked only against these appendices as OCR'd from the archived PDF, not against any transmittal letter, legislative testimony, or correspondence that might record a contributor's view of the AVC proposal directly]`  ## Standing and Limits  This is a **commissioned government consult"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: publication/circulation history\nof the report beyond delivery to the Alaska Legislature and DNR — not established\nthis session. **Attempted** (2026-07-18): a WorldCat catalog search returned\nHTTP 403/blocked in this environment on every access pattern tried; no citing\npaper, Alaska State Library catalog record, or contemporaneous reception item\nsurfaced via general web search. Direct WorldCat access or an Alaska State\nLibrary/legislative-archives catalog lookup is needed, not another web search.]",
+   "context": "r review or, so far as this session established, formally published. `[VERIFY: publication/circulation history of the report beyond delivery to the Alaska Legislature and DNR — not established this session. **Attempted** (2026-07-18): a WorldCat catalog search returned HTTP 403/blocked in this environment on every access pattern tried; no citing paper, Alaska State Library catalog record, or contemporaneous reception item surfaced via general web search. Direct WorldCat access or an Alaska State Library/legislative-archives catalog lookup is needed, not another web search.]` Its empirical claims (the 1965 Prudhoe Bay sale price, the leasehold"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "**Attempted**",
+   "context": "ery to the Alaska Legislature and DNR — not established this session. **Attempted** (2026-07-18): a WorldCat catalog search returned HTTP 403/blocked in "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " Text (Part I only) mirrored and OCR'd from    the site's scanned PDF this session (2026-07-17); all direct quotations verified    against the source PD"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "tracted essentially nothing —    confirmed against page-by-page tests this session); the full 155 pages were    rendered to PNG at 200 DPI (`pdftoppm -r"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "g`) and OCR'd page-by-page with    Tesseract 5.3.4 (`--psm 6 -l eng`) this session (2026-07-18), then concatenated    with page markers to    `sources/g"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ing the prior    verification gap on that citation. Fetched and OCR'd this session (`pdftotext -layout`    recovered an embedded text layer directly, no"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY: OCR quality is poor on several image-heavy\n   pages — the bar-chart pages under Appendix C (raw acreage-by-year charts) and the\n   Moody's bond-yield table under Appendix K are visibly garbled; this page avoids\n   quoting numbers from those specific pages and relies instead on the cleanly-OCR'd\n   summary tables (C-1/C-2/C-3 rankings, Appendix K's net-worth-per-employee\n   ranking, and Rooney's royalty-schedule tables) and prose passages, each\n   spot-checked against the source image.]",
+   "context": " that OCR text and spot-checked against    the rendered page images. `[VERIFY: OCR quality is poor on several image-heavy    pages — the bar-chart pages under Appendix C (raw acreage-by-year charts) and the    Moody's bond-yield table under Appendix K are visibly garbled; this page avoids    quoting numbers from those specific pages and relies instead on the cleanly-OCR'd    summary tables (C-1/C-2/C-3 rankings, Appendix K's net-worth-per-employee    ranking, and Rooney's royalty-schedule tables) and prose passages, each    spot-checked against the source image.]`    [Free PDF (masongaffney.org)](https://masongaffney.org/publicatio"
+  }
+ ],
+ "research/gaffney-benefits-farm-programs.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-08-10",
+   "context": "ics and Sociology,\" pp. 237–250 and 417–424), confirming the venue. **Resolved 2026-08-10, with a correction:** the exact volume/issue number was not recoverab"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "vidence the pattern holds universally. - **OCR provenance.** Native, `pdftotext`-extractable text layer with   scanning-era OCR noise (e.g. \"MAsoN Wn"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "t his own expense. The farm landowner gets paid for idling land.\"[1] (D-claim; Gaffney's own Ricardian-incidence argument, attributed.)  ## Rural P"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "is to be had, and of course pay the price in rent or land value.\"[1] (B-claim; Gaffney's own descriptive survey of federal program design, not econ"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "unning \"$2 to $3 billions yearly\" nationally at the time of writing. (C-claim; Gaffney's own mechanism argument, attributed — no econometric estima"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "oblems/rent-seeking-drags-growth](/wiki/rent-seeking-drags-growth/). (C-claim; Gaffney's own original theoretical concept, with a worked numerical "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": " human cost what nature wants to yield freely above our efforts.\"[1] (D-claim; Gaffney's own political-economy synthesis, attributed — not a formal"
+  }
+ ],
+ "research/gaffney-california-severance-tax.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ance tax)** is standard public-finance reasoning and can be read as a C-claim (theoretical, citing accepted tax-incidence conditions); the **empiri"
+  }
+ ],
+ "research/gaffney-capital-gains-free-enterprise.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-07-18",
+   "context": "ey.org noting it was \"being expanded for Shepheard-Walwyn, London.\" **Resolved 2026-07-18:** the volume did complete publication as noted — Richard Noyes (ed.)"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "itations rather than asserted as settled consensus historiography. (A/D-claim mix: the 1894/1913 legislative facts are checkable historical record;"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "f land gains is compatible with strong development outcomes.[1][3] (C/D-claim: the phantom-income asymmetry argument is Gaffney's own theoretical c"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: current status of each cited\n  provision — out of scope for this page]",
+   "context": "olds from this essay should treat   them as historical, not current. `[VERIFY: current status of each cited   provision — out of scope for this page]` - **No independent estimate of \"how much\" of capital gains is land.*"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ed PDF and quotations spot-checked    against the source PDF directly this session (2026-07-18).    [Free PDF (masongaffney.org)](https://masongaffney.o"
+  }
+ ],
+ "research/gaffney-causes-of-downturns.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d the appendices. Text mirrored and OCR'd from the site's scanned PDF this session (2026-07-16); quotations spot-checked against the source PDF. [Free P"
+  }
+ ],
+ "research/gaffney-containment-policies-urban-sprawl.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "m about agricultural land economics today. - **Provenance.** Native, `pdftotext -layout`-extractable text (no OCR   needed). Local mirror: `sources/g"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "y speculative capital-gains-motivated buying, not soil loss as such. (C-claim; Gaffney's own diagnostic argument, illustrated with contemporary exa"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "round, leaving \"an uneconomic scatter and sprawl\" rather than order. (D-claim; rhetorical/historical analogy, not an empirical test of zoning outco"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ed-out version, with the water-pipe engineering example spelled out. (C-claim; Gaffney's own theoretical/engineering argument, not independently te"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ng already applies to force farmers to intensify rather than sprawl. (C-claim; Gaffney's own theoretical mechanism and normative proposal, not inde"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "and normative   argument, not independently tested findings; graded C/D-claim throughout per   the wiki's convention and cited here for historical "
+  }
+ ],
+ "research/gaffney-corporate-power-military.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "public good.[1]  ## Standing and Limits  - **Claim class.** This is a D-claim (historical-narrative and motive-attributing   argument) resting on d"
+  }
+ ],
+ "research/gaffney-economics-of-abundance.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "al   policy.[1]  ## Standing and Limits  **Claim class.** This is a **D-claim (interpretive/argumentative) essay**, and should be presented on the "
+  }
+ ],
+ "research/gaffney-europes-fatal-affair-with-vat.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "orfman, Wicksell, Vickrey) absent from the 2016 chapter. Read in full this session. [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Sales_"
+  }
+ ],
+ "research/gaffney-financial-maturity-timber.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY:\nthis page corrects a common characterization — the monograph is sometimes loosely\ndescribed as Gaffney's \"Duke dissertation-era\" work; the document itself states no\nDuke affiliation, and Gaffney's actual PhD dissertation, \"Land Speculation as an\nObstacle to Ideal Allocation of Land\" (UC Berkeley, 1956), is a separate work. This\nmonograph was written the year after that dissertation, while Gaffney held his\nfirst faculty post at NC State — \"dissertation-era\" in the loose sense of timing,\nnot in the sense of being the dissertation itself or a Duke production.]",
+   "context": "e Gaffney was then junior faculty in the Department of Economics.[1] `[VERIFY: this page corrects a common characterization — the monograph is sometimes loosely described as Gaffney's \"Duke dissertation-era\" work; the document itself states no Duke affiliation, and Gaffney's actual PhD dissertation, \"Land Speculation as an Obstacle to Ideal Allocation of Land\" (UC Berkeley, 1956), is a separate work. This monograph was written the year after that dissertation, while Gaffney held his first faculty post at NC State — \"dissertation-era\" in the loose sense of timing, not in the sense of being the dissertation itself or a Duke production.]`[2] It carries no explicit Georgist framing and does not mention Henr"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: this page\n  was unable to access the full text of Samuelson (1976) directly — paywalled —\n  to quote his citation of Gaffney verbatim; the claim rests on secondary sources\n  (Newman 2002, Amacher 2012 abstracts, and Gaffney's own 2008 account) rather\n  than a direct read of Samuelson's text.]",
+   "context": "mong the   economists who anticipated the correct formulation.[8][3] `[VERIFY: this page   was unable to access the full text of Samuelson (1976) directly — paywalled —   to quote his citation of Gaffney verbatim; the claim rests on secondary sources   (Newman 2002, Amacher 2012 abstracts, and Gaffney's own 2008 account) rather   than a direct read of Samuelson's text.]`  **Honest caveat on scope.** The monograph's academic importance is "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "text/A1-1957_Financial_Maturity_of_Timber_final_unrepaginated.txt`    this session; all direct quotations verified against the OCR text, which was    it"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "turity_of_Timber_final_unrepaginated.pdf)    (both verified reachable this session); local mirror at `sources/gaffney/`. 2. Mason Gaffney's website, dis"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ue number (previously miscited as    67(2)) and quotation re-verified this session directly against the    masongaffney.org PDF — image-only scan, no em"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "sets\" (Gaffney) — used for the 81-citation count (accessed via API    this session; Semantic Scholar dates the record 1960, likely a later    reprint/se"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY: OCR quality is imperfect\n   in the mathematical/formula passages — this page avoids quoting or restating\n   the equations themselves and relies only on prose passages, which OCR'd\n   cleanly.]",
+   "context": "e OCR text, which was    itself spot-checked against the source PDF. `[VERIFY: OCR quality is imperfect    in the mathematical/formula passages — this page avoids quoting or restating    the equations themselves and relies only on prose passages, which OCR'd    cleanly.]`    [Free PDF (masongaffney.org)](https://masongaffney.org/publicatio"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "nticipated;    accessed only via secondary-source summaries (see the `[VERIFY]` note above).    [Wiley (paywalled)](https://onlinelibrary.wiley.com/"
+  }
+ ],
+ "research/gaffney-forest-taxation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved 2026-07-18",
+   "context": "f Taxing Forests\"** (March 1980) is a systematic tax-design survey. **Resolved 2026-07-18:** \"Number 43\" is Gaffney's UC Riverside working-paper number, not a "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "to    `sources/gaffney/text/A3-AlternativeWaysofTaxingForests.CV.txt` this session;    all direct quotations verified against the OCR text and cross-che"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "A3-AlternativeWaysofTaxingForests.CV.pdf)    (both verified reachable this session); local mirror at `sources/gaffney/`. 2. Mason Gaffney, \"Greater Soci"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ext/A5-1977_Greater_Social_Benefits_from_our_National_Forests.txt`    this session; all direct quotations verified against the OCR text and    cross-che"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "l_Benefits_from_our_National_Forests.pdf)    (both verified reachable this session); local mirror at `sources/gaffney/`. 3. Marion Clawson, \"The Nationa"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nce* 191(4228): 762–767 (Feb. 20,    1976) — independently identified this session (2026-07-18) as Gaffney's likely    source for the $42-billion Nation"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "fic/Louisiana-Pacific    ownership-concentration detail. Read in full this session; no prior wiki    coverage of this county-level case. [Free PDF (maso"
+  }
+ ],
+ "research/gaffney-full-employment-limited-land.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftotext",
+   "context": "e from a   previously 404 stub in the mirror cache) carries a clean, `pdftotext`-extractable   text layer (CVISION-processed scan, 2004/2005); no re-"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "e tax biases we have surveyed... It is the pacer, not the paced.\"[1] (C-claim; Gaffney's own theoretical framework, attributed — not an empirical t"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "git U.S. inflation) that inflation   burdens long investments more.  (C-claim throughout; original theoretical derivations, illustrated with assume"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "hile continuing to tax payrolls \"stacks the cards against labor.\"[1] (D-claim; Gaffney's own polemical framing, attributed — a position within Geor"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "970s) — used for the I16    fold-check verdict above; skimmed in full this session, not separately mined.    [Free PDF (masongaffney.org)](https://mason"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ". 8, 2012 — used for the I2012    fold-check note above; read in full this session, folded into    [concepts/18-year-land-cycle](/wiki/18-year-land-cycl"
+  }
+ ],
+ "research/gaffney-georgist-city-growth-cases.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "sal attribution of city growth or decline to Georgist tax policy is a D-claim** (interpretive/argumentative) in every case. None of the four is a m"
+  }
+ ],
+ "research/gaffney-great-expectations-bidding-power.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "thholding, not intensive use, is what maximizes the holder's return. (A-claim, historical illustration; D-claim, the unifying \"cartel logic\" interp"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "hat maximizes the holder's return. (A-claim, historical illustration; D-claim, the unifying \"cartel logic\" interpretation is Gaffney's own argument"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "speculators who \"preempt more than they need, or will ever need.\"[1] (C-claim, theoretical model — the algebra is Gaffney's own, internally consist"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "tent, and independently checked against the source PDF for this page; D-claim, the closing distributional framing is Gaffney's own argument, attrib"
+  }
+ ],
+ "research/gaffney-hidden-taxable-capacity.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " possibly representing a distinct \"2009 expansion\") was OCR'd in full this session (`pdftoppm -r 250` + Tesseract 5.3.4, 84 pages, ~47,100 words extract"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "pdftoppm",
+   "context": "senting a distinct \"2009 expansion\") was OCR'd in full this session (`pdftoppm -r 250` + Tesseract 5.3.4, 84 pages, ~47,100 words extracted) and rea"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Tesseract",
+   "context": "\"2009 expansion\") was OCR'd in full this session (`pdftoppm -r 250` + Tesseract 5.3.4, 84 pages, ~47,100 words extracted) and read completely. The tw"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "mist writing in a    peer-reviewed journal, attributed). Read in full this session from the published    version. [Working-paper mirror PDF](https://eco"
+  }
+ ]
+}

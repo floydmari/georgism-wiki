@@ -1,0 +1,400 @@
+{
+ "organizations/henry-george-foundation-uk.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "oundation.org/about-the-foundation/about-us) — used (fetched directly this session) for the January 1929 establishment, the stated purpose/mission, the "
+  }
+ ],
+ "organizations/institute-for-fiscal-studies.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " IFS site and the Charity Commission register (charity    no. 258815) this session; the IFS site itself is Akamai-blocked to this proxy and could not be"
+  }
+ ],
+ "organizations/international-union-lvt.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "out Us.\" [theIU.org](https://www.theIU.org/) — used (fetched directly this session) for the \"Established in 1926\" statement, the stated purpose (\"promot"
+  }
+ ],
+ "organizations/labour-land-campaign.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ssions among its founders, and its advisory work on land use (fetched this session). 2. Labour Land Campaign, \"Submission to the APPG on Council Housing"
+  }
+ ],
+ "organizations/land-tenure-reform-association.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ate and membership — Fawcett,    Dilke — verified via the LTRA record this session). 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch."
+  }
+ ],
+ "organizations/school-of-cooperative-individualism.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ent of just societies.\"[2] (Founding date is per the organisation — a C-claim.) The name refers to a school of thought \"derived from … the objectiv"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "org](https://cooperative-individualism.org/) — used (fetched directly this session) for the site's role as an online archive/library, the Movement Perio"
+  }
+ ],
+ "organizations/school-of-economic-science.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "rallel entry on SES was   attempted but blocked by a bot-challenge to this session and is not cited directly here;   Sourcewatch's content, per external"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "rian Leader,\" but no more recent independent assessment was located   this session. - **SES's continuing Georgist policy engagement (Purves, Bowman, the"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "ember 2020   BBC report, and named ex-member accounts), independently fetched and read directly this   session rather than taken from a secondary paraphrase"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "7671/pdf/) —    direct fetch blocked by a Cloudflare bot-challenge to this session; full text obtained via a    reader-proxy route (`r.jina.ai`) 2026-09"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "e/87671/pdf/) —    direct fetch blocked by a Cloudflare bot-challenge to this session; full text obtained via a    reader-proxy route (`r.jina.ai`) 2026-09"
+  }
+ ],
+ "organizations/show-me-institute.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".\" (Mar. 12, 2026) — all Show-Me Institute articles, fetched directly this session. [showmeinstitute.org](https://showmeinstitute.org/) — used for the f"
+  }
+ ],
+ "organizations/ubi-works.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nomic-impact campaign claims (all self-descriptions; fetched directly this session). 3. UBI Works, \"Our Story\" (team page) and Floyd Marinescu bio. [ubi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "bution, the 2018 CEO-letter account, and team roles (fetched directly this session). 4. University of Guelph Research Alerts, \"Universal Basic Income (U"
+  }
+ ],
+ "people/adam-smith.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ading Smith as a proto-Georgist is the tradition's interpretation — a D-claim, marked as such wherever this wiki makes it.  ## See Also  - [Adam Sm"
+  }
+ ],
+ "people/alfred-marshall.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "in-retrospect/) 3. Marshall's site-value-taxation position — verified this session: Marshall    advocated a **\"fresh air rate,\"** a charge on the portio"
+  }
+ ],
+ "people/andrew-purves.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rces 2-4 (C-claim;    book itself not independently obtained and read this session). 2. Stephen Stretton, Andrew Purves & Tony Vickers, \"Land Value Tax:"
+  }
+ ],
+ "people/andy-burnham.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: whether Burnham's government will legislate a Fairer-Share-style LVT or a pure LVT, in what form, and on what timetable. As of 11 August 2026 it is confirmed *not* to be in the 28 October 2026 Budget, with 2027 reported as the plausible window after Louise Casey's social-care report; no legislation had been published as of this page's last review.]",
+   "context": "dence relief so capital gains were charged on any property sale.[19]  [VERIFY: whether Burnham's government will legislate a Fairer-Share-style LVT or a pure LVT, in what form, and on what timetable. As of 11 August 2026 it is confirmed *not* to be in the 28 October 2026 Budget, with 2027 reported as the plausible window after Louise Casey's social-care report; no legislation had been published as of this page's last review.]  ## Winning the Leadership and Becoming Prime Minister  Burnham won t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "; quotes not independently verified against the 2010 primary coverage this session. **[VERIFY]** the primary appears to be a *Guardian* comment piece Bu"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": "he case for taxing land values; theguardian.com is not reachable from this environment's fetcher, so the article could not be read directly. A field agent s"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": "th a browser user-agent (WebFetch is blocked for theguardian.com from this environment) and read in full 2026-09-06; all figures and quotations below verifi"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "ependently verified against the 2010 primary coverage this session. **[VERIFY]** the primary appears to be a *Guardian* comment piece Burnham himsel"
+  }
+ ],
+ "people/charles-albro-barker.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " for Norman Thomas, and supported the New Deal (Barker 1955, p. 11). (A-claim; factual)  ## Key Ideas/Contributions  - **The Jeffersonian-Jacksonia"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "dical outsider but as a continuation of American democratic thought. (D-claim; interpretive)  - **The California experience as formative.** Barker "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "of telegraph lines and other public utilities\" (Barker 1955, p. 13). (D-claim; interpretive)  - **The triple legacy of Georgism.** Barker's final c"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "erican between Lincoln and Franklin Roosevelt\" (Barker 1955, p. 14). (D-claim; interpretive)  - **George as city man.** Barker emphasizes that desp"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ng complicates the image of George as purely a land-focused thinker. (D-claim; interpretive)  - **George's global influence.** Barker documented th"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "Radicals who were rising in the Liberal party\" (Barker 1955, p. 11). (A-claim; factual)  ## Key Works  - *Henry George* (New York: Oxford Universit"
+  }
+ ],
+ "people/christopher-england.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "he full (paywalled) text could not be confirmed from a primary source this session (see the verification note below). The underlying connection to [tax "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "dless of England's precise wording.  The published abstract (verified this session against the Wiley and IDEAS/RePEc listings) directly confirms the cor"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "tract at the publisher (Wiley), and no full-text mirror was reachable this pass. The intermediate phase-out breakpoints (buildings taxed at 50 percen"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "verified this session",
+   "context": "ght regardless of England's precise wording.  The published abstract (verified this session against the Wiley and IDEAS/RePEc listings) directly confirms the cor"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "lapsed into explicit arguments for rent-seeking\" when challenged.[4]  **Verification note.** The full paper remains paywalled beyond its abstract at the publis"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "/www.press.jhu.edu/books/title/12372/land-and-liberty) — page fetched this session; used for the correct published subtitle, the publication date, the a"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rship by Christopher England and the full published abstract verified this session via the IDEAS/RePEc metadata. The abstract confirms the \"single tax\" "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "and does not mention Tullock, and the full text could not be accessed this session to confirm whether he invokes the transitional-gains-trap framework. "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ristopher England), full bibliographic details, and abstract verified this session via IDEAS/RePEc; used only to correct this page's earlier misattribut"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "/departments/history/facultystaff/christopher-england.html) — fetched this session; used for his current position (Assistant Teaching Professor, joined "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "wn.edu/handle/10822/1029879) — repository record and abstract fetched this session; used for the dissertation title and its relationship to the 2023 boo"
+  }
+ ],
+ "people/david-lloyd-george.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "abinet \"alarmed by the boldness of the Budget\" (Murray 1980, p. 21). (A-claim; factual)  Murray shows the Budget was carefully designed to avoid di"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ied through incremental taxation rather than full rent collection. (A/D-claim; factual/interpretive)  Murray documents that the Budget's rejection "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " Murray). See [People's Budget 1909/10](/wiki/peoples-budget-1909/). (A-claim; factual)  ## See Also  - [The 1909 People's Budget](/wiki/1909-peopl"
+  }
+ ],
+ "people/david-redfearn.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "rgism was foundational rather than incidental to his social thought. (A-claim; factual)  ## Key Ideas/Contributions  - **Tolstoy's Georgism as foun"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "eorgism was foundational to his social thought and moral philosophy. (D-claim; interpretive)  - **The state vs. government distinction.** Redfearn "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "lost) that were \"reinvested with powers of self-government\" in 1861. (D-claim; interpretive)  - **Land deprivation as the new slavery.** Redfearn d"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "ir cultivation was approximately halved\" (Redfearn 1992, pp. 72–73). (D-claim; interpretive)  - **George's moment of illumination.** Redfearn trace"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "who work it must pay more for the privilege\" (Redfearn 1992, p. 96). (A-claim; factual)  - **The eggshell metaphor.** Redfearn presents Tolstoy's c"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "l. The State will then inevitably disappear\" (Redfearn 1992, p. 72). (D-claim; interpretive)  - **Advocacy posture.** Redfearn is explicitly an adv"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": "d as a Georgist argument rather than a neutral scholarly assessment. (D-claim; interpretive)  ## Key Works  - *Tolstoy: Principles for a New World "
+  }
+ ],
+ "people/dmitry-lvov.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " from (hosted at larouchepub.com) could not be independently verified this session; direct primary-source verification of the full 2001 lecture is still"
+  }
+ ],
+ "people/ebenezer-howard.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "own and country in planned new communities on communally-owned land. (A-claim; factual)  Howard framed the urban-rural problem using his famous \"Th"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "bsence of a third alternative (Howard 1902, Introduction, pp. 9–19). (C-claim; theoretical)  The book's financial architecture is its most Georgist"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ystem based entirely on land value capture (Howard 1902, Ch. II–VI). (A-claim; factual)  Howard also envisioned \"Social Cities\" — networks of garde"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ommunity land trust](/wiki/community-land-trust/) movement globally. (C-claim; theoretical)  Howard's key philosophical commitment was that land sh"
+  }
+ ],
+ "people/edward-glaeser.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "arate from the 2013 AER paper.  [Resolved: the full text was verified this session via the open working-paper version — NBER Working Paper 18825, whose "
+  }
+ ],
+ "people/elizabeth-magie.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": "us journalistic source). Direct fetch of realtor.com is    blocked in this environment; verified 2026-08-14 via the Internet Archive    Wayback Machine snap"
+  }
+ ],
+ "people/era-seligman.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "he    *Shifting and Incidence* publishing history (A-claims; verified this session). 2. *The Single Tax Discussion, Held at Saratoga, Sept. 5, 1890* (Am"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s role in the 1890 debate    (A-claim; venue and proceedings verified this session), and for the address/reply/    rejoinder content in the \"Saratoga Ad"
+  }
+ ]
+}

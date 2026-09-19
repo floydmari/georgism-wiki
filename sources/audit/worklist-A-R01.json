@@ -1,0 +1,382 @@
+{
+ "research/acemoglu-johnson-robinson-botswana.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s/An%20African%20Success%20Story%20Botswana.pdf)    (fetched and read this session) ·    [CEPR DP3219](https://cepr.org/publications/dp3219) — used for "
+  }
+ ],
+ "research/ahmadi-ghenis-uk-council-tax-lvt-microsimulation.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " implementation. - **Abstract-level source for the SSRN paper itself (B-claim); the companion blog analysis   was read in full (A-claim) for its sp"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "per itself (B-claim); the companion blog analysis   was read in full (A-claim) for its specific figures.** SSRN blocked direct access to the   pape"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".com/sol3/papers.cfm?abstract_id=7242479) —    fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the    Crossref API — used"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "srn.com/sol3/papers.cfm?abstract_id=7242479) —    fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the    Crossref API — used"
+  }
+ ],
+ "research/akcigit-taxation-innovation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "pending on the controls (verified against the NBER working-paper text this session). At the individual level the elasticity of an inventor's patents to "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "dividual 0.8 patents / ~1 citations) verified    against the NBER PDF this session.    [OUP](https://academic.oup.com/qje/article-abstract/137/1/329/629"
+  }
+ ],
+ "research/aldighieri-spatial-nonneutrality-lvt.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "   page is built from the paper's verbatim abstract (obtained via the Crossref API) and   independent corroboration of the author's institutional contex"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " of land value taxation's efficiency case. - **Abstract-level source (B-claim).** SSRN blocked direct access to the paper itself; this   page is bu"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".com/sol3/papers.cfm?abstract_id=7107758) — fetch    blocked (403) to this session 2026-08-29; verbatim abstract obtained via the Crossref API    ([api."
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "srn.com/sol3/papers.cfm?abstract_id=7107758) — fetch    blocked (403) to this session 2026-08-29; verbatim abstract obtained via the Crossref API    ([api."
+  }
+ ],
+ "research/amedanou-laporte-sanctions-resource-rent-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "t-level source (B-claim).** The paper's full text remained blocked to this session   (both the Wiley publisher page and the authors' own CERDI/HAL prepr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "ERDI/HAL preprint deposit, the latter   behind a bot-detection wall); this page is built from the verbatim abstract, obtained from   two independent author-archive"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "pturing more rent.  ## Nuances and Limits  - **Abstract-level source (B-claim).** The paper's full text remained blocked to this session   (both th"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "doi.org](https://doi.org/10.1111/twec.70118) — fetch blocked (403) to this session    2026-08-29; verbatim abstract obtained from two independent author"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d — HAL's own full-text pages    were blocked by bot-detection during this session). "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "  [doi.org](https://doi.org/10.1111/twec.70118) — fetch blocked (403) to this session    2026-08-29; verbatim abstract obtained from two independent author"
+  }
+ ],
+ "research/andelson-rejoinder-to-hayek.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ay\" point, and the ideal-versus-practice distinction). Full text read this session via the [open-access scan hosted by the School of Cooperative Individ"
+  }
+ ],
+ "research/anderson-dascher-copenhagen-land-rent.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "Unpaywall. This   page is built from the complete, verbatim abstract (B-claim) rather than the paper's   methodology, evidence, or case detail — sp"
+  }
+ ],
+ "research/anderson-kyoto-cultural-monopoly-rent.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "hy but not independently   confirmed from the article's own analysis (B-claim). - **A single-city case study**, building on Anderson's prior Portla"
+  }
+ ],
+ "research/anderson-landlord-rent-control-class-monopoly.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "(B-claim).** The publisher page yielded only site-template   content; this page is built from the verbatim abstract obtained via the Crossref API. The   scanner's "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "ntent; this page is built from the verbatim abstract obtained via the Crossref API. The   scanner's original metadata for this item omitted the paper's "
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "n this broader   critical-geography sense. - **Abstract-level source (B-claim).** The publisher page yielded only site-template   content; this pag"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "27786241234546) —    publisher page returned only template content to this session 2026-08-30; verbatim    abstract obtained via the Crossref API — used"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "19427786241234546) —    publisher page returned only template content to this session 2026-08-30; verbatim    abstract obtained via the Crossref API — used"
+  }
+ ],
+ "research/andersson-sweden-carbon-tax.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "gainst the AEA-hosted text    and the author's LSE PhD-thesis chapter this session; the aeaweb PDF returned HTTP    403 to this wiki's egress, so the fu"
+  }
+ ],
+ "research/arnold-tax-growth-ej.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "hor); the published *Economic Journal* text itself remained paywalled this session, so page-level details of the final version were not compared against"
+  }
+ ],
+ "research/arnott-hgt-practical-guide.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ott's §IV; cited as reviewed by Arnott, not independently verified in this session. 4. Richard Arnott's institutional affiliation and field. At the time"
+  }
+ ],
+ "research/arrieta-ibarra-data-as-labor.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ript p. 13; final-journal pagination may differ). Fetched and    read this session. [Author's free PDF, Wharton Legal Studies & Business Ethics faculty "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "    pooled dataset rather than any one contribution. Fetched and read this session.    [NBER working paper (free PDF)](https://www.nber.org/system/files"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "tion differs from the AEA's typeset pp. 471–487). Fetched and    read this session. [Author's free PDF](http://board.dklevine.com/papers/radical.79.pdf)"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "from personalization on a moderate-sized dataset.    Fetched and read this session. [Author's free PDF](https://brenthecht.com/publications/thewebconfer"
+  }
+ ],
+ "research/august-rental-financialization.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this environment",
+   "context": "he Taylor & Francis publisher page returned a Cloudflare challenge in this environment; the mirror text matches the published abstract, DOI, and journal met"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "gatetenants.ca), after the Taylor & Francis publisher page returned a Cloudflare challenge in this environment; the mirror text matches the published "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "ers and traced their growth from the mid-1990s to 2017. The paper was fetched and read in full (24 pages) from a mirror hosted by Herongate Tenants (heronga"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": "ine.com/doi/abs/10.1080/07352166.2019.1705846) (Cloudflare-blocked in this environment) · [full-text mirror (Herongate Tenants)](https://herongatetenants.ca"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "stry as a supplementary-tier article; not independently re-fetched in this pass since the underlying academic paper was read in full. 3. Joanie Fonta"
+  }
+ ],
+ "research/australia-mining-royalties-prrt.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " not independently cross-checked against primary government   sources this session; treat the specific numbers as B/C-claims pending verification   agai"
+  }
+ ],
+ "research/azar-schmalz-tecu-common-ownership.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "cific price-effect estimates. The point estimates above were verified this session against the freely available IESE Business School working-paper versi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "he range of 3-12 percent, due to common ownership.\" Verified verbatim this session. [CPI PDF](https://www.competitionpolicyinternational.com/wp-content/"
+  }
+ ],
+ "research/baldomero-quintana-singh-nyc-tax-reform.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "WebFetch",
+   "context": "l paper is paywalled behind a Springer bot-check this   session (both WebFetch and curl returned a \"Client Challenge\" page); the findings above   ar"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": "ywalled behind a Springer bot-check this   session (both WebFetch and curl returned a \"Client Challenge\" page); the findings above   are drawn f"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Semantic Scholar API",
+   "context": " above   are drawn from the peer-reviewed abstract, retrieved via the Semantic Scholar API and   verified verbatim against the abstract text returned there. No "
+  }
+ ],
+ "research/banzhaf-lavery-pa-sprawl.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "/readings/Breuckner_Kim_ITPF_2003.pdf) — directly fetched and read in this session; used for the theoretical distinction between the improvement (buildi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "pdf) — the pre-print of the JUE article, directly fetched and read in this session; used for the theoretical prediction that with a log-linear (quasi-li"
+  }
+ ],
+ "research/barkai-declining-shares.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "te profits increasingly reflecting rents (not yet present in the wiki as of this writing; see Bears On below) rather than to the land-specific capital-share o"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "ofits increasingly reflecting rents** (not yet   present in this wiki as of this writing) — this paper's headline finding, that pure profits have   risen shar"
+  }
+ ],
+ "research/barker-review-housing-supply.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "* (Final Report, HM Treasury, 2004).    Full report PDF read directly this pass via the BBC News mirror    [17_03_04_barker_review.pdf](http://news.b"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "er_review.pdf)    (163 pp.; the gov.uk landing page returned HTTP 404 this session — a mirror of the same    HM Treasury final report). Used for the com"
+  }
+ ],
+ "research/barnes-sky-trust.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "res could not be checked against a first-hand copy of the book's text this session — islandpress.org returned 403 to this wiki's egress, and the sole ar"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "returned 403",
+   "context": "t a first-hand copy of the book's text this session — islandpress.org returned 403 to this wiki's egress, and the sole archive.org scan (whoownssky00pet"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's egress",
+   "context": "opy of the book's text this session — islandpress.org returned 403 to this wiki's egress, and the sole archive.org scan (whoownssky00pete_0) is lending-restri"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rldCat-indexed) since direct access to islandpress.org was blocked in this session's egress. — used for the sky-trust mechanism and cap-and-dividend fra"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ures, page numbers, and further direct quotations) was not obtainable this session — islandpress.org returned 403 to this wiki's egress, and the sole ar"
+  }
+ ],
+ "research/baunsgaard-vernon-windfall-profits.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "te represents the authors' analysis, not official Fund policy; it was fetched and read in full (20 pages) for this entry. (A separate, similarly-numbered do"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e, and all direct quotations; fetched and read in full (all 20 pages) this session. 2. Shafik Hebous, Dinar Prihardini & Nate Vernon (2022), \"Excess Pro"
+  }
+ ]
+}

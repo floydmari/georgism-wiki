@@ -1,0 +1,436 @@
+{
+ "research/social-problems.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "is article; not independently re-verified against the primary text in this pass. 2. *Social Problems*, Henry George, Belford, Clarke & Co., 1883 — bi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "ter XVII (\"The Functions of Government\") — primary text read directly this pass from the [HGFA PDF](https://hgfa.org.au/wp-content/uploads/2019/11/So"
+  }
+ ],
+ "research/song-zenou-property-tax-sprawl.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "isms; the wiki cites them side by side but never   interchangeably. - **Verification note.** The egress proxy blocked the publisher full text this   session; f"
+  }
+ ],
+ "research/stewart-canadian-land-house-prices.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ct quotations    verified verbatim against the published CJE abstract this session (2026-07-13)."
+  }
+ ],
+ "research/sway-lvt-wealth-taxes-review.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Resolved (2026-07-18",
+   "context": "ement with **Reform Scotland**, a Scottish public-policy institute. **Resolved (2026-07-18, T2 verification):** the report itself never spells out the acronym, "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ar/postwar capital-levy evidence; fetched and read in full (39 pages) this session. 2. Bourassa, S.C. (1990), \"Land Value Taxation and Housing Developme"
+  }
+ ],
+ "research/taranu-verbeeck-property-tax-sprawl.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "11, Hermes fact-check lane).** The   peer-reviewed author version was fetched and read directly from the University   of Hasselt repository ([documentserver"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "lity point cuts both ways and is quoted in the outcome's   caveats. - **Verification note (updated 2026-07-11, Hermes fact-check lane).** The   peer-reviewed a"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Hermes",
+   "context": "n the outcome's   caveats. - **Verification note (updated 2026-07-11, Hermes fact-check lane).** The   peer-reviewed author version was fetched an"
+  }
+ ],
+ "research/tarras-wahlberg-uggla-bolivia-gold-rent.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " and an institutional   repository copy were both inaccessible during this session); this page is built from a   well-corroborated abstract (matched acr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "tional   repository copy were both inaccessible during this session); this page is built from a   well-corroborated abstract (matched across OpenAlex/Crossref meta"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "OpenAlex",
+   "context": "his page is built from a   well-corroborated abstract (matched across OpenAlex/Crossref metadata and an independently   located Uppsala University r"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ternal corruption.  ## Nuances and Limits  - **Abstract-level source (B-claim).** The paper's full text remained paywalled to this   session despit"
+  }
+ ],
+ "research/tech-rent-dissolution-vs-capture.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "ng the fines' legal validity, not merely their size, still in dispute as of this writing.[6]  **Technical compliance is arriving, but on a multi-year clock.**"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "Judge Brinkema rules. - **Browser-choice figures are vendor-reported, not independently verified.** Mozilla's 6-million-   selection and DAU-growth figures are Mozill"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "twork effects\" formulation (report PDF was    not machine-extractable this session; content corroborated via the committee's own press    materials and "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nt (A-claim; primary Commission statement; press-release HTML fetched this session,    full legal decision text not independently retrieved). 5. Goodwin"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " firm's client-alert analysis of the Commission decisions;    fetched this session). 6. 9to5Mac, \"Apple formally appeals €500 million DMA fine in the EU"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d as filed 4 July 2025 across multiple secondary    sources consulted this session) is corroborated across search results but not independently    confi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d    party reporting its own compliance; fetched via search synthesis this session). 8. Mozilla, \"Browser choice? Here's how EU's DMA is helping make it"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "data, not independently audited; flagged in Honest Limits;    fetched this session). 9. AppleInsider, \"Epic Games shifts strategies in EU after missing "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "as Epic's claim, not adopted as fact;    fetched via search synthesis this session). 10. Amit P. Mehta, U.S. District Judge, *United States v. Google LL"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ther than independently machine-extracted     from the opinion itself this session).     [DLA Piper summary](https://www.dlapiper.com/en/insights/public"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ch),     rather than independently machine-extracted from the opinion this session). 13. MarketingBrew, \"Google returns to court for remedy phase of DOJ"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ";     journalistic and law-firm sources; fetched via search synthesis this session). 14. James E. Boasberg, U.S. District Judge, *FTC v. Meta Platforms,"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "tary     rather than independently machine-extracted from the opinion this session).     [NPR](https://www.npr.org/2025/11/18/nx-s1-5495626/meta-ftc-ins"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " (A-claim; primary agency statement; fetched via     search synthesis this session). 16. ITIF, \"Schumpeter's Vindication: The Enduring Link Between Scal"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "institute's argued position, not adopted as settled fact; fetched     this session). 17. International Center for Law & Economics (ICLE), \"Network Effec"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ttributed critical position, not adopted as settled     fact; fetched this session). 18. Jenny Blessing & Ross Anderson (2023, rev. 2023), \"One Protocol"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "urity researchers, not     formally peer-reviewed as fetched; fetched this session). 19. Cybernews, \"Signal CEO criticizes WhatsApp — Metadata is deadly"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "statements from an interested party; fetched via search synthesis     this session).     [Cybernews](https://cybernews.com/privacy/signal-ceo-criticizes"
+  }
+ ],
+ "research/tideman-avoidable-excess-burden.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": " model's estimate of   an *available* gain, not a measured outcome. - **Verification note.** The published article is paywalled (SAGE); the abstract is   verif"
+  }
+ ],
+ "research/tideman-plassmann-losses-of-nations.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "ry chapter PDF (sharetherents and other mirrors) could not be fetched this pass, but the chapter's approach and headline numbers were corroborated fr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "d since at least the prior verification pass) was hunted exhaustively this session: sharetherents.org's own current `/publications/` page lists *The Los"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "e, confirming the free PDF was withdrawn rather than merely moved; no Wayback Machine capture of the sharetherents PDF URL exists at any timestamp;"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 404",
+   "context": "ntly obtained: the sharetherents mirror and other known copies return HTTP 404, and no free or archived full text has been located, so it has not be"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "could not be fetched this pass",
+   "context": "eds care.** The primary chapter PDF (sharetherents and other mirrors) could not be fetched this pass, but the chapter's approach and headline numbers were corroborated fr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "and the [2021 super-stimulus modeling](/wiki/goodhart-stimulus/).[1]  **Verification note (2026-07-11, Hermes fact-check lane) — method and figures partially c"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Hermes",
+   "context": "ling](/wiki/goodhart-stimulus/).[1]  **Verification note (2026-07-11, Hermes fact-check lane) — method and figures partially confirmed; the \"$7 tr"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": ").    — used for thesis and venue (A-claims; full text unfetched from this environment).    Carried into the wiki via    [*Boom Bust*](/wiki/harrison-boom-b"
+  }
+ ],
+ "research/tornberg-anti-growth-machine.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " rather than   original data collection. - **Full text read directly (A-claim).** The complete article was read via the genuinely   open-access (CC"
+  }
+ ],
+ "research/total-resource-rents-australia.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "d-party critical assessment of TRRA's specific figures was located in this session; the estimates should be treated as contested pending such review.  #"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rimary PDF (Acknowledgements and Part V); not independently retrieved this session. 3. Terence Dwyer, \"The Taxable Capacity of Australian Land and Resou"
+  }
+ ],
+ "research/tpa-what-would-lvt-do.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rked examples, and quotations above; fetched and    verified verbatim this session for every direct quotation. 2. Dan Neidle (2024), \"The Lib Dem buybac"
+  }
+ ],
+ "research/troy-randolph-pinnegar-value-switching.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "analysis is   descriptive/correlational. - **Full text read directly (A-claim).** The complete article was obtained via UNSW's   institutional repo"
+  }
+ ],
+ "research/tsoodle-turner-rents.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "roperty-tax-incidence/); [Zodrow](/wiki/zodrow-three-views/)) implies this pass-through operates through the **structures** component — buildings can"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "economics/about/staff/websites/turner/tsoodleturner.pdf)) was fetched this session and confirms the headline magnitude verbatim: \"a one standard deviati"
+  }
+ ],
+ "research/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "o effect-size table beyond the urban-center estimate was available to this session** —   the ~2.5%/1pp and ~0.6%/km figures describe the urban-core grad"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "tial coefficient tables not captured here. - **Abstract-level source (B-claim).** This page is built from the Wiley abstract page and   corroborati"
+  }
+ ],
+ "research/vickrey-counterspeculation-auctions.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "   Press, 2018), Ch. 1 (\"Property Is Monopoly\"), pp. 49–50 — verified this session    against Princeton University Press's publicly posted free sample c"
+  }
+ ],
+ "research/walks-toronto-income-polarization.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "is for Toronto within a book chapter — not confirmed, and not checked this session. - **Institutional working paper, not peer review**, though the polar"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Checked (2026-07-18",
+   "context": "a promised **Part II** was to examine drivers by demographic group. **Checked (2026-07-18, T2 verification):** the Neighbourhood Change Research Partnership's "
+  }
+ ],
+ "research/webster-city-size-tax-henry-george.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "*Abstract-level source (B-claim).** The publisher page was blocked to this session; this   page is built from a WebSearch reconstruction of the paper's "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "WebSearch",
+   "context": "blisher page was blocked to this session; this   page is built from a WebSearch reconstruction of the paper's abstract, not a full read of   its meth"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ented a city-size-scaled LVT of this kind. - **Abstract-level source (B-claim).** The publisher page was blocked to this session; this   page is bu"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "archsquare.com/article/rs-6916007/latest) —    fetch blocked (403) to this session 2026-08-30; summary reconstructed from a WebSearch    listing of the "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "esearchsquare.com/article/rs-6916007/latest) —    fetch blocked (403) to this session 2026-08-30; summary reconstructed from a WebSearch    listing of the "
+  }
+ ],
+ "research/welsh-lvt-valuation-testing.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "accurate enough to be deployed in a live land value tax.'\" Having now fetched and read both Goodwin-Hawkins working papers in full, this wiki page's own sca"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "eprints.glos.ac.uk/15859/)    (both fetched and read in full, 74 pp., this session) — used for the systematic-review    methodology, the seven-claims fr"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "pp.)](https://eprints.glos.ac.uk/15861/)    (fetched and read in full this session) — used for the five-methodology-group    framework, the internationa"
+  }
+ ],
+ "research/werner-princes-of-the-yen.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "g](https://www.h-net.org/reviews/showrev.php?id=9992) — read directly this session; used for the scholarly reception (situating Werner's thesis as one c"
+  }
+ ],
+ "research/wertzuwachssteuer-germany.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d-reform-movement, and Kiautschou claims on this page; full text read this session via the Open-Access De Gruyter version (De Gruyter's HTML endpoint is"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "-michael_land-reform-in-kiaochow-china-1984-apr.pdf) — full text read this session — used for the Kiaochow Land Statute as Georgist single-tax legislati"
+  }
+ ],
+ "research/widerquist-howard-pfd.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "e Alaska Model: A Republican Perspective\" (pp. 169–188, read directly this session) reframes the PFD's value in civic-republican terms of freedom from d"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " complete text of Chapter 12 (pp. 169–188) obtained and read directly this session** via a contributor-hosted PDF: David Casassas (co-author of Ch. 12),"
+  }
+ ]
+}

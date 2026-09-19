@@ -1,0 +1,368 @@
+{
+ "places/netherlands.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ublic-leasing detail (quotes ≤50 words, verified against the PDF text this session). 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethi"
+  }
+ ],
+ "places/new-south-wales.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "arliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=7750). Verified this session — used for the 1895 introduction of NSW land taxation, the carriage/i"
+  }
+ ],
+ "places/new-zealand.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "was not located",
+   "context": "at source is a second-hand aggregation and the Caniwi analysis itself was not located, so the estimate is recorded here as unverified rather than used to c"
+  }
+ ],
+ "places/norway.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "claim the fund's own governance documents frame in Hartwick's terms. (C-claim; interpretive)  2. **Alaska's dividend model.** Alaska's [Permanent F"
+  }
+ ],
+ "places/pennsylvania.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "paper it has not been peer-reviewed; the estimate should be read as a B-claim (empirical, single unreplicated study) rather than settled.  ## Signi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s/legacy-files/pubfiles/1275_hughes_final.pdf) — used (full text read this session) for the 1913 Graded Tax Law enabling a two-tier tax \"for cities of t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s-with-local-property-tax-reform-1997-apr.pdf) — used (full text read this session) for \"Scranton and Pittsburgh had a land tax to building tax ratio of"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "https://doi.org/10.1177/000271623014800121) — used (abstract verified this session) for confirmation that \"the act of the Pennsylvania legislature of 19"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "nry-george-news_graded-tax-law-adopted-1974-feb.pdf) — used (verified this session) for the optional third-class-city graded tax law \"First adopted in 1"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".edu/app/uploads/legacy-files/pa_january_2022_0.pdf) — used (verified this session) for \"school districts [were allowed] to implement two-rate property "
+  }
+ ],
+ "places/pittsburgh.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "gacy-files/pubfiles/1275_hughes_final.pdf) — used for (full text read this session) the whole 2001-repeal narrative: the 1913–2001 continuous span; the "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ess-with-local-property-tax-reform-1997-apr.pdf) — used for (verified this session) \"Scranton and Pittsburgh had a land tax to building tax ratio of 2 t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s://doi.org/10.1177/000271623014800121) — used for (abstract verified this session) the 1913 Graded Tax Law's gradual introduction \"for cities of the se"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "log reporting, not independently cross-verified against a news source this session). "
+  }
+ ],
+ "places/russia-post-soviet-transition.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "has not been located",
+   "context": "d to that archived source, but a primary Duma stenographic transcript has not been located, so the wording is presented as that translation records it.  **Indep"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "the third-party archive underlying source 1's chain; directly fetched this pass, confirming the \"public property,\" \"on the books of the state,\" and \""
+  }
+ ],
+ "places/south-africa.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ry](https://www.treasury.gov.za/publications/other/katz/8.pdf) — read this session; primary source for the Commission's land-tax feasibility findings, t"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "/www.lincolninst.edu/app/uploads/2024/04/franzsen-wp03rf1.pdf) — read this session; used as a post-2000 academic account confirming that site-value rati"
+  }
+ ],
+ "places/south-korea.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": ".kr — formal project, funder, or informal endorsement — not confirmed this session; would need a direct inquiry to either party or a Korean-language sec"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ributed to a researcher surnamed Young S. — could not be corroborated this session: GRI's report-detail page (gri.re.kr) returned a server error on dire"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: the exact nature of the Land+Freedom Institute's relationship to Landforall.kr — formal project, funder, or informal endorsement — not confirmed this session; would need a direct inquiry to either party or a Korean-language secondary source describing the relationship.]",
+   "context": " endorsement) is not spelled out on the page and remains unconfirmed. [VERIFY: the exact nature of the Land+Freedom Institute's relationship to Landforall.kr — formal project, funder, or informal endorsement — not confirmed this session; would need a direct inquiry to either party or a Korean-language secondary source describing the relationship.]  A separate lead — a Gyeonggi Research Institute (GRI) report reporte"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "er the discovery extraction and were not independently re-verified in this session; the page therefore states only that KLC supplied \"a large share,\" a "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s://www.seoulsolution.kr/en/content/land-readjustment-program) — read this session; used to corroborate the public-development model, describing land re"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "h). Land+Freedom Institute (토지+자유연구소) official site, fetched directly this session — used for its mission, director (Nam Ki-eop), and research focus. [l"
+  }
+ ],
+ "places/united-states.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "returned 403",
+   "context": "ed-web — exact enactment date not confirmed; the 2012 KCMO report PDF returned 403 (manual fetch needed). Attempted 2026-08-10: the Kansas City Clerk's "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": "tizens' Commission report PDF (already cited as source 4) returned an HTTP 403 to direct fetch; general web search and the Show-Me Institute pieces "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": "et maintenance only), and both cities' earnings taxes remain in place as of this writing.  ## Honest Limits  The US case is a patchwork, not a program: Pennsy"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Channels exhausted",
+   "context": " current land-only structure and revenue but not their founding date. Channels exhausted for now — a Kansas City charter/ordinance archive search or a records"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: needs-unblocked-web — exact enactment date not confirmed; the 2012 KCMO report PDF returned 403 (manual fetch needed). Attempted 2026-08-10: the Kansas City Clerk's legislation portal (clerk.kcmo.gov) surfaces only current annual rate-setting ordinances (e.g. Ordinance 250169, setting FY2025-26 rates under Code of Ordinances §68-582) with no reference to an original enactment year; the 2012 Citizens' Commission report PDF (already cited as source 4) returned an HTTP 403 to direct fetch; general web search and the Show-Me Institute pieces cited elsewhere on this page discuss the taxes' current land-only structure and revenue but not their founding date. Channels exhausted for now — a Kansas City charter/ordinance archive search or a records request to the city clerk would be the next channel.]",
+   "context": "nown live case: the city funds two specific street-maintenance levies [VERIFY: needs-unblocked-web — exact enactment date not confirmed; the 2012 KCMO report PDF returned 403 (manual fetch needed). Attempted 2026-08-10: the Kansas City Clerk's legislation portal (clerk.kcmo.gov) surfaces only current annual rate-setting ordinances (e.g. Ordinance 250169, setting FY2025-26 rates under Code of Ordinances §68-582) with no reference to an original enactment year; the 2012 Citizens' Commission report PDF (already cited as source 4) returned an HTTP 403 to direct fetch; general web search and the Show-Me Institute pieces cited elsewhere on this page discuss the taxes' current land-only structure and revenue but not their founding date. Channels exhausted for now — a Kansas City charter/ordinance archive search or a records request to the city clerk would be the next channel.] — the **Parkway Maintenance Tax** and the **Trafficway Maintenance Ta"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "needs-unblocked-web",
+   "context": " case: the city funds two specific street-maintenance levies [VERIFY: needs-unblocked-web — exact enactment date not confirmed; the 2012 KCMO report PDF return"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " and antitrust history); not independently re-read chapter-by-chapter this session. [wiki summary](/wiki/rethinking-economics-land-housing/) · [Publishe"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d-property-taxes) 5. Show-Me Institute articles, all fetched directly this session: Christine Harbin, \"A Land Tax Is Preferable to the Earnings Tax\" (Ja"
+  }
+ ],
+ "places/vancouver.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "ePEc; findings here draw on the published abstract — directly fetched this pass, and confirming that the system \"was scaled back and ultimately ended"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "he specific improvement-exemption clause could not be quoted verbatim this pass; the act's identity and 1910 date are confirmed from the BC Laws cata"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "nue collected in Vancouver around 1911. Directly fetched and verified this pass at the `www.` host (the bare host 403s to automated requests); conten"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "o 50 per cent assessment in 1919\" (p. 367). Directly fetched and read this pass. 9. Donald G. Hagman (1978), \"Land-Value Taxation,\" ch. 17 in Donald "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "50-percent regime persisted at mid-century. Directly fetched and read this pass. 10. City of Vancouver (2019), *Land Value Capture as a Source of Rev"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": " Land Value Tax from 1910 to 1984\" (council motion). Fetched and read this pass via the Internet Archive copy (vancouver.ca blocks automated requests"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "and (source 1) to the precise 1969 start-year alone. Fetched and read this pass. 12. Daily Hive (Urbanized), \"Vancouver councillor proposes new tax t"
+  }
+ ],
+ "places/washington-state.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Reattempted 2026-08-10",
+   "context": " the campaign-platform statement and reported \"join Spokane\" framing. Reattempted 2026-08-10: reviewed Wilson's official mayoral office site (wilson.seattle.gov, "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Channels exhausted",
+   "context": "ffice; found nothing beyond the original campaign-platform statement. Channels exhausted for now — this page reflects the sources located as of 2026-08-10.]  "
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: whether Wilson's office has taken any further, post-inauguration action on this commitment — e.g., a formal city legislative-agenda item or public support for the Vibrant Cities Act — beyond the campaign-platform statement and reported \"join Spokane\" framing. Reattempted 2026-08-10: reviewed Wilson's official mayoral office site (wilson.seattle.gov, no LVT or Vibrant Cities Act mention found among its posted priorities — affordability, housing units, child care, transit renewal) and searched general and Seattle-press coverage of her first months in office; found nothing beyond the original campaign-platform statement. Channels exhausted for now — this page reflects the sources located as of 2026-08-10.]",
+   "context": "le land value tax; as of mid-2026 no such state authorization exists. [VERIFY: whether Wilson's office has taken any further, post-inauguration action on this commitment — e.g., a formal city legislative-agenda item or public support for the Vibrant Cities Act — beyond the campaign-platform statement and reported \"join Spokane\" framing. Reattempted 2026-08-10: reviewed Wilson's official mayoral office site (wilson.seattle.gov, no LVT or Vibrant Cities Act mention found among its posted priorities — affordability, housing units, child care, transit renewal) and searched general and Seattle-press coverage of her first months in office; found nothing beyond the original campaign-platform statement. Channels exhausted for now — this page reflects the sources located as of 2026-08-10.]  Independent of Wilson's platform, a June 2026 op-ed in *The Urbanist"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "mayorofseattle.bsky.social), which could not be independently fetched this session; the quote is verified directly against this campaign-site page. 7. A"
+  }
+ ],
+ "problems/corporate-profits-increasingly-rents.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "gepub.com/doi/10.1177/04866134261415639) —     fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the     Crossref API — use"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": ".sagepub.com/doi/10.1177/04866134261415639) —     fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the     Crossref API — use"
+  }
+ ],
+ "problems/homelessness-is-housing-cost-problem.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "thodology, and the data-quality caveats. Full PDF re-fetched and read this session (via Internet Archive mirror of gao.gov, which returned HTTP 403 to d"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "with the 30% cost-burden line. Full-text author copy fetched and read this session. See [research page](/wiki/glynn-byrne-culhane-homeless-inflection/)."
+  }
+ ],
+ "problems/land-rent-could-fund-government.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "nd the revenue base by unburdening production (Burgess 1993, Ch. 4). (C-claim; theoretical)  Burgess also addresses the inflation dimension, arguin"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": " price labour out of productive opportunities (Burgess 1993, Ch. 6). (C-claim; theoretical)  See: [Public Revenue Without Taxation (Burgess)](/wiki"
+  }
+ ],
+ "problems/rent-seeking-drags-growth.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": ") — rather than the \"public good\" of textbook treatment.[8] This is a D-claim (a historical-narrative, motive-attributing argument from two committ"
+  }
+ ],
+ "tasks/backfill-page-task.md": [
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY]",
+   "context": "b-research to fill remaining gaps (never fabricate; [CITATION NEEDED]/[VERIFY]). 3. Rewrite the stub in place: full template for its category (EDITO"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[CITATION NEEDED]",
+   "context": "dence). 2. Then web-research to fill remaining gaps (never fabricate; [CITATION NEEDED]/[VERIFY]). 3. Rewrite the stub in place: full template for its catego"
+  }
+ ],
+ "tasks/research-page-task.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this environment",
+   "context": "ach exists in outcomes/].  RESEARCH HONESTY: you have web access, but this environment's egress proxy 403s many domains. Verify via whatever fetches succeed"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: …]",
+   "context": "e a finding, number, quote, page, or URL — use [CITATION NEEDED: …] / [VERIFY: …] instead. Quotes ≤50 words. If the assigned paper turns out not to exi"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[CITATION NEEDED: …]",
+   "context": "nippets. NEVER fabricate a finding, number, quote, page, or URL — use [CITATION NEEDED: …] / [VERIFY: …] instead. Quotes ≤50 words. If the assigned paper turns "
+  }
+ ]
+}

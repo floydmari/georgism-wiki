@@ -1,0 +1,270 @@
+{
+ "research/williams-georgist-political-ecology.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "(B-claim).** The publisher page yielded only site-template   content; this page is built from the verbatim abstract obtained via the Crossref API, not   the paper'"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "ntent; this page is built from the verbatim abstract obtained via the Crossref API, not   the paper's full development of the \"Georgist political ecolog"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": " than presenting new data or a case study. - **Abstract-level source (B-claim).** The publisher page yielded only site-template   content; this pag"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "27786251390972) —    publisher page returned only template content to this session 2026-08-30; verbatim    abstract obtained via the Crossref API — used"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "19427786251390972) —    publisher page returned only template content to this session 2026-08-30; verbatim    abstract obtained via the Crossref API — used"
+  }
+ ],
+ "research/world-bank-changing-wealth.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "3ff., including Box 9.1 on p. 200), were fetched and read directly in this session — see the provenance note below for what was checked against them. 2."
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "imate\" and cross-country-accuracy caveats — read directly as a PDF in this session. 3. World Bank, \"Changing Wealth of Nations 2021: Frequently Asked Qu"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "46 trillion to US$30 trillion, 2014–2018) — read directly as a PDF in this session. 4. World Bank, \"Global Wealth Has Grown, But at the Expense of Futur"
+  }
+ ],
+ "research/wyatt-critical-view-lvt.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "for the paper's authorship, venue, page range, and headline findings (this session read the abstract and the paper's own reference list from the scanned"
+  }
+ ],
+ "research/xu-china-land-finance-active-mode.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": " — worth flagging as   this paper's own framing device. - **Full text not independently verified beyond the abstract.** Specific case evidence,   data, and the paper'"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "d finance's debt and volatility risks are not   covered by this page (B-claim).  ## Bears On  - **Concept:** [Land Value Capture](/wiki/land-value-"
+  }
+ ],
+ "research/xu-huang-li-china-hcrs-george.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "user-agent",
+   "context": "t-detection blocked every fetch method tried (direct request, browser-user-agent `curl`, a text-extraction proxy, and the publisher's own `pdfdirect` "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": "blocked every fetch method tried (direct request, browser-user-agent `curl`, a text-extraction proxy, and the publisher's own `pdfdirect` link)."
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "Full text was still not retrievable on re-check (2026-08-10): Wiley's Cloudflare bot-detection blocked every fetch method tried (direct request, brows"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "stern economies that \"continue to ignore Henry George's ideas.\"[1] (D/C-claim; a theoretical/interpretive analogy, not a claim of causal historical"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY]",
+   "context": " built from the published abstract only; claims beyond it are marked `[VERIFY]`.  ## The Argument (per abstract)  The paper's subject is the **House"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: full text unread — Wiley's bot-detection has now blocked four independent retrieval methods across two review passes (2026-07-26, 2026-08-10); the depth of the analogy, and any qualifications the authors attach to it, cannot be assessed from the abstract. The publisher-deposited reference list (10 entries) was read in full via Crossref on 2026-08-25, confirming the paper's scope and scholarly context — the remaining gap is the body text specifically, not what the paper engages with.]",
+   "context": "- **Abstract-only scan; the argument is analogical, not historical.** [VERIFY: full text unread — Wiley's bot-detection has now blocked four independent retrieval methods across two review passes (2026-07-26, 2026-08-10); the depth of the analogy, and any qualifications the authors attach to it, cannot be assessed from the abstract. The publisher-deposited reference list (10 entries) was read in full via Crossref on 2026-08-25, confirming the paper's scope and scholarly context — the remaining gap is the body text specifically, not what the paper engages with.] The claim that HCRS's \"net effect is almost exactly the same as a sys"
+  }
+ ],
+ "research/yang-split-rate-spillover-employment.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "0):** the published abstract itself could not be   independently read this session — SpringerLink's article page returns a bot   \"Client Challenge\" wall"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this environment",
+   "context": "aper —   needs-unblocked-web, a proxy or institutional-access channel this environment   lacks. The publisher-deposited reference list (36 entries) was read"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": " access. (4) SpringerLink's article page, fetched directly and   via `curl` with a browser user-agent string — both returned the identical bot  "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "user-agent",
+   "context": "Link's article page, fetched directly and   via `curl` with a browser user-agent string — both returned the identical bot   \"Client Challenge\" JavaScr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "hallenge\" JavaScript wall, no article content. (5) Internet Archive   Wayback Machine `/wayback/available` check for the SpringerLink URL — no   ar"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 403",
+   "context": " snapshot exists. (6) ResearchGate's Zhou Yang contributions page —   HTTP 403 Forbidden. (7) IDEAS/RePEc — its single indexed \"Zhou Yang\" author   "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Semantic Scholar API",
+   "context": "tempted again (2026-08-14), wider channel sweep, same result:**   (1) Semantic Scholar API, both a title search and a direct DOI lookup —   `abstract` field nul"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "rch and a direct DOI lookup —   `abstract` field null both times. (2) Crossref API, bibliographic search and   direct `/works/10.1007/s11146-024-09995-y"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "OpenAlex",
+   "context": "6-024-09995-y` record — no `abstract` field in   either response. (3) OpenAlex API — `abstract_inverted_index` null, record   flagged closed access."
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: confirm whether the published 2024 version updates the 1980–2010\n  sample period or coefficient magnitudes reported in the 2015 working paper —\n  needs-unblocked-web, a proxy or institutional-access channel this environment\n  lacks. The publisher-deposited reference list (36 entries) was read in full via\n  Crossref on 2026-08-25 — see \"What the Paper Builds On\" above — confirming Crossref\n  itself deposits no abstract for this DOI (consistent with the eight-channel sweep\n  above); this narrows the gap to the body text and published abstract specifically,\n  not the paper's scope or scholarly lineage.]",
+   "context": " session produced independently readable published-abstract text.   **[VERIFY: confirm whether the published 2024 version updates the 1980–2010   sample period or coefficient magnitudes reported in the 2015 working paper —   needs-unblocked-web, a proxy or institutional-access channel this environment   lacks. The publisher-deposited reference list (36 entries) was read in full via   Crossref on 2026-08-25 — see \"What the Paper Builds On\" above — confirming Crossref   itself deposits no abstract for this DOI (consistent with the eight-channel sweep   above); this narrows the gap to the body text and published abstract specifically,   not the paper's scope or scholarly lineage.]** - **Pennsylvania-only external validity**, as with the rest of the "
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "needs-unblocked-web",
+   "context": "riod or coefficient magnitudes reported in the 2015 working paper —   needs-unblocked-web, a proxy or institutional-access channel this environment   lacks. Th"
+  },
+  {
+   "class": "A3",
+   "where": "sources",
+   "match": "[VERIFY]",
+   "context": "ion); the    sample-period/coefficient-update question stays an open `[VERIFY]`. 2. Zhou Yang (2015), \"The Spillover Effects of the Two-Rate Propert"
+  }
+ ],
+ "research/yang-split-rate-tax-base.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "he working-paper precursor of source 1, and its full text was read in this session. 3. Florenz Plassmann & Nicolaus Tideman (2000), \"A Markov Chain Mont"
+  }
+ ],
+ "research/yilmaz-alkan-teke-geoai-unearned-increment.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "Cities and   Society* article, which was access-blocked (Elsevier) to this session. Specific model   architecture, data requirements, and validation res"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "apture instrument from scratch.  ## Nuances and Limits  - **Full text not independently verified beyond the abstract.** This page is built from a   search-indexed abs"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "and validation results for the LOIS framework are not   covered here (B-claim). - **A methodological/technical proposal, not a deployed system.** T"
+  }
+ ],
+ "research/zimmerman-anderson-realpage-algorithmic-rent.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "r-proxy route after the standard MDPI URL was unexpectedly blocked to this session)   and read in full.  ## Bears On  - **Concept:** [Ground Rent](/wiki"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "conomics though   conceptually adjacent. - **Full text read directly (A-claim).** The complete open-access article was obtained (via   a reader-pro"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " (via a reader-proxy route after the standard MDPI URL was blocked to this session) — used    for the RealPage mechanism, the client-admission quotation"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "    (via a reader-proxy route after the standard MDPI URL was blocked to this session) — used    for the RealPage mechanism, the client-admission quotation"
+  }
+ ],
+ "research/zodrow-three-views.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "etrieved from the National Tax Association's open NTJ archive via the Wayback Machine, and cross-checked against the 2007 Baker Institute version. "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "he primary 2001 text** (National Tax Association archive copy via the Wayback Machine, cross-checked against the 2007 Baker Institute version, whic"
+  }
+ ],
+ "research/zwick-mahon-expensing.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "and   2010**\" (abstract; verified against the NBER working-paper text this session). - Responses were dramatically **heterogeneous**: \"small firms respo"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "    findings (abstract quoted verbatim; verified against the NBER PDF this session).    [AEA](https://www.aeaweb.org/articles?id=10.1257/aer.20140855) ·"
+  }
+ ]
+}

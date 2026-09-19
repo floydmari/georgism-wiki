@@ -1,0 +1,778 @@
+{
+ "B": [
+  [
+   "concepts/economic-rent.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "Lars Doucet reports that land constitutes approximately 40% of US household wealth (citing OECD via Tideman), and 70.9% of urban real estate value",
+    "note": "Tier 2 source (Doucet, practitioner-author) used as support for empirical claims about land as wealth share",
+    "person": "Lars Doucet",
+    "role": "support",
+    "tier_guess": "2",
+    "tier_reason": "Substack writer and practitioner-advocate"
+   }
+  ],
+  [
+   "concepts/kondratiev-waves.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "Akhil Patel (2023) integrates the two more explicitly, arguing each 55–60 year Long Cycle spans roughly three 18-year real-estate cycles",
+    "note": "Tier 2 person (Patel) cited as support/source for an argument about cycles, presented as corroboration. Not in lead but in Overview section of concept page.",
+    "person": "Akhil Patel",
+    "role": "support",
+    "tier_guess": "2",
+    "tier_reason": "Practitioner-author, Substack writer per PLAN tier 2 list"
+   }
+  ],
+  [
+   "events/long-depression.md",
+   {
+    "class": "B2",
+    "where": "sources",
+    "quote": "the discovery source citing this depression as context for George's writing",
+    "note": "Discovery source (Lars Doucet's Land is a Big Deal) explicitly marked then used as corroboration",
+    "person": "Lars Doucet",
+    "role": "support",
+    "tier_guess": "2",
+    "tier_reason": "Tier 2: practitioner-author, Substack writer"
+   }
+  ],
+  [
+   "events/oklahoma-land-rush.md",
+   {
+    "class": "B1",
+    "where": "lead",
+    "quote": "Land-cycle historian Phillip J. Anderson situates the Oklahoma land rushes within his account of the closing of the American frontier",
+    "note": "Tier 2 person (practitioner-author) used as support/authority in lead for Georgist interpretation",
+    "person": "Phillip J. Anderson",
+    "role": "support",
+    "tier_guess": "2",
+    "tier_reason": "Tier 2: practitioner-author, land-cycle advocate"
+   }
+  ],
+  [
+   "objections/planning-restrictions-cause-high-prices.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "Peer-reviewed studies of the two best-known recent natural experiments both find exactly this: Freemark (2020) shows... Greenaway-McGrevy... [3][5][6]",
+    "note": "Hoskins (source 3, Tier 2) grouped with peer-reviewed sources without qualification; mischaracterized as peer-reviewed",
+    "person": "Stephen Hoskins",
+    "role": "support",
+    "tier_guess": "2",
+    "tier_reason": "writes for Progress and Poverty newsletter (Tier 2)"
+   }
+  ],
+  [
+   "objections/planning-restrictions-cause-high-prices.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "Economist Michael Wiebe makes the point with a simple contrast (2026)",
+    "note": "Wiebe presented as authoritative 'Economist' but is independent blogger; tier unclear, may be Tier 2/3",
+    "person": "Michael Wiebe",
+    "role": "support",
+    "tier_guess": "unknown",
+    "tier_reason": "source annotation says 'independent economics blog commentary, not peer-reviewed'"
+   }
+  ],
+  [
+   "people/alan-greenspan.md",
+   {
+    "class": "B2",
+    "where": "sources",
+    "quote": "Fred Harrison (2005), *Boom Bust: House Prices, Banking and the Depression of 2010* [...] — discovery source; used for Harrison's framing [...] Direct page citations are not yet supplied; this stub draws on the wiki's existing discovery-report summary of the book rather than a fresh read of these chapters.",
+    "note": "Discovery source acknowledged as basis for claim; wiki's own discovery-report summary used instead of direct reading of source chapters; discovery sources should not be presented as authority",
+    "person": "Fred Harrison",
+    "role": "origin",
+    "tier_guess": "1",
+    "tier_reason": "Tier 1 as canonical scholar, but sourced indirectly via wiki summary not direct read"
+   }
+  ],
+  [
+   "people/ramin-shokrizade.md",
+   {
+    "class": "B2",
+    "where": "sources",
+    "quote": "the wiki's discovery source, cited on the [book page](/wiki/land-is-a-big-deal/), for Shokrizade's case",
+    "note": "Discovery source (Doucet/Land Is a Big Deal) labeled as source of this material",
+    "person": "Lars Doucet",
+    "role": "origin",
+    "tier_guess": "2",
+    "tier_reason": "Practitioner-author; properly disclosed but marked as discovery source"
+   }
+  ],
+  [
+   "research/hsieh-moretti-spatial-misallocation.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "like the [Mirrlees Review](/wiki/mirrlees-review/), it reaches a conclusion consonant with Georgist concerns from entirely outside the Georgist tradition",
+    "note": "The Mirrlees Review is invoked as a Tier 1 source, but in a comparison that uses it for evidentiary weight; not a direct support issue",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "research/hudson-killing-the-host.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "Hudson's framework is explicitly continuous with classical and Georgist rent theory... Hudson's distinctive contribution, per the wiki's [narrative page on the rentier economy](/wiki/the-rentier-economy/)",
+    "note": "Self-referential wiki citation in the body; while the page is accurate, citing 'per the wiki's' is editorial narration",
+    "person": null,
+    "role": "support",
+    "tier_guess": "2",
+    "tier_reason": "Hudson is Tier 2 (practitioner-author/advocate) but is used here as the book's author for analysis, not for support of an independent claim"
+   }
+  ],
+  [
+   "research/india-mohua-value-capture-framework.md",
+   {
+    "class": "B1",
+    "where": "body",
+    "quote": "a 2026 policy-analysis piece from IMPRI (Impact and Policy Research Institute)",
+    "note": "Discovery source (IMPRI think tank) is used to carry the framework description and factual findings; appropriate attribution level for a policy-analysis piece",
+    "person": null,
+    "role": "support",
+    "tier_guess": "unknown",
+    "tier_reason": "IMPRI is a research institute, likely Tier 1 by institutional standard, not a person-based tier question"
+   }
+  ],
+  [
+   "research/isgandarov-mustafayev-azerbaijan-public-goods.md",
+   {
+    "class": "B2",
+    "where": "body",
+    "quote": "fetched and read 2026-09-03 — used for the SOFAZ fiscal-capacity finding, the institutional-quality diagnosis, and the transboundary/infrastructure findings (B-claim; summary extraction, not the full working paper text)",
+    "note": "Discovery source (Cambridge Open Engage preprint) is used to carry the paper's main institutional findings; appropriate tiering for a working paper",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "research/jones-chaos-makers.md",
+   {
+    "class": "B2",
+    "where": "body",
+    "quote": "Because the book itself is short, out of print, and has not been directly reviewed for this wiki, most of what is known about its specific contents comes second-hand through Harrison's and Anderson's later",
+    "note": "Discovery sources (Harrison, Anderson books) are the primary evidence base because the original is inaccessible; acknowledged transparently",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "research/kakumu-lvc-georgist-political-economy.md",
+   {
+    "class": "B2",
+    "where": "body",
+    "quote": "The publisher page was blocked to this session; this page is built from the paper's verbatim abstract obtained via the Semantic Scholar API",
+    "note": "Discovery source (Semantic Scholar API abstract) is used as the primary evidence; acknowledged transparently",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "research/karp-landlord-private-government.md",
+   {
+    "class": "B2",
+    "where": "body",
+    "quote": "Additional mechanism detail (specific forms of interpersonal domination, the tenant-union/NLRA-modeled policy proposal) drawn from Karp's own companion public essay, 'Landlords as Petty Tyrants,' LPE Project blog",
+    "note": "Discovery source (author's own blog post) is used to fill in mechanism details not in the peer-reviewed abstract",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ]
+ ],
+ "C": [
+  [
+   "events/proposition-13.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "[SHARPENED — partial gap remains: The rigorous *public-finance* analysis of Proposition 13's acquisition-value distortions is now cited",
+    "note": "Editor-facing markup in reader-facing body text",
+    "person": "",
+    "role": "",
+    "tier_guess": "",
+    "tier_reason": ""
+   }
+  ],
+  [
+   "narratives/_framework.md",
+   {
+    "class": "C",
+    "where": "lead",
+    "quote": "Drafting rules (binding for T2)",
+    "note": "Editor-facing heading and internal framework documentation, not reader-facing prose",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "objections/stock-crash-caused-great-depression.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "this wiki has not yet reconciled the two frameworks in detail",
+    "note": "Self-reference in lead section; wiki talking about itself rather than encyclopedic narration",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "objections/taxing-quasi-rents-kills-innovation.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "The objection *gates the frontier* — it is the reason this wiki's",
+    "note": "Self-reference: wiki describing its own structure rather than encyclopedic content",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "objections/taxing-quasi-rents-kills-innovation.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "**Substantially valid at the frontier, and this wiki treats it as the gate.**",
+    "note": "Wiki self-reference in conclusion",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ],
+  [
+   "people/charles-albro-barker.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "## Summary / ## Key Ideas/Contributions with bullet points",
+    "note": "Template-like structure suggests machine generation or incomplete manual editing",
+    "person": "",
+    "role": "",
+    "tier_guess": "",
+    "tier_reason": ""
+   }
+  ],
+  [
+   "people/colin-clark.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "Two honesty notes on the claim itself (EDITORIAL claim-type B, empirical)",
+    "note": "Editorial meta-commentary appears as explicit labeled section in prose",
+    "person": "",
+    "role": "",
+    "tier_guess": "",
+    "tier_reason": ""
+   }
+  ],
+  [
+   "people/david-redfearn.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "## Summary / ## Key Ideas/Contributions with bullets",
+    "note": "Template structure suggests incomplete manual authoring",
+    "person": "",
+    "role": "",
+    "tier_guess": "",
+    "tier_reason": ""
+   }
+  ],
+  [
+   "places/san-francisco.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "[STILL OPEN: quantified land/housing price data for Santa Clara County across the 1995–2001 dot-com cycle remains uncited on this page.]",
+    "note": "Bracketed editor note with status marker '[STILL OPEN]' appears in reader-facing prose; should be removed and either resolved with cited data or softened to encyclopedic language.",
+    "person": "",
+    "role": "",
+    "tier_guess": "",
+    "tier_reason": ""
+   }
+  ],
+  [
+   "places/silicon-valley.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "[STILL OPEN: quantified land/housing price data for Santa Clara County across the 1995–2001 dot-com cycle remains uncited on this page.]",
+    "note": "Bracketed editor note with status marker '[STILL OPEN]' appears in reader-facing prose; should be removed and either resolved with cited data or softened to encyclopedic language.",
+    "person": "",
+    "role": "",
+    "tier_guess": "",
+    "tier_reason": ""
+   }
+  ],
+  [
+   "research/coven-property-taxes-housing-allocation.md",
+   {
+    "class": "C",
+    "where": "body",
+    "quote": "graded C-claim (secondary coverage) pending direct verification",
+    "note": "Claim-grade code appearing in prose outside Sources; should be removed or kept only in internal editorial notes",
+    "person": null,
+    "role": null,
+    "tier_guess": null,
+    "tier_reason": null
+   }
+  ]
+ ],
+ "cand": {
+  "Akhil Patel": [
+   [
+    "concepts/kondratiev-waves.md",
+    "2"
+   ],
+   [
+    "concepts/law-of-absorption.md",
+    "2"
+   ],
+   [
+    "concepts/skyscraper-index.md",
+    "2"
+   ],
+   [
+    "events/panic-of-1819.md",
+    "2"
+   ],
+   [
+    "events/panic-of-1837.md",
+    "2"
+   ],
+   [
+    "events/panic-of-1873.md",
+    "2"
+   ],
+   [
+    "research/christophers-rentier-capitalism.md",
+    "2"
+   ],
+   [
+    "research/hoyt-chicago-land-values.md",
+    "2"
+   ],
+   [
+    "research/standing-plunder-of-the-commons.md",
+    "2"
+   ]
+  ],
+  "Noel Skelton": [
+   [
+    "concepts/property-owning-democracy.md",
+    "2"
+   ]
+  ],
+  "Vitalik Buterin": [
+   [
+    "concepts/radical-markets.md",
+    "2"
+   ],
+   [
+    "research/buterin-on-radical-markets.md",
+    "2"
+   ]
+  ],
+  "Jean Drèze": [
+   [
+    "concepts/rent-seeking.md",
+    "2"
+   ]
+  ],
+  "Guy Standing": [
+   [
+    "concepts/rentier.md",
+    "2"
+   ]
+  ],
+  "Lars Doucet": [
+   [
+    "concepts/sharecropping.md",
+    "2"
+   ],
+   [
+    "events/long-depression.md",
+    "2"
+   ],
+   [
+    "objections/lvt-invites-assessment-corruption.md",
+    "2"
+   ],
+   [
+    "research/hudson-lies-of-the-land.md",
+    "2"
+   ],
+   [
+    "research/saez-zucman-wealth-inequality.md",
+    "2"
+   ]
+  ],
+  "Phillip J. Anderson": [
+   [
+    "concepts/skyscraper-index.md",
+    "2"
+   ],
+   [
+    "events/oklahoma-land-rush.md",
+    "2"
+   ],
+   [
+    "events/panic-of-1819.md",
+    "2"
+   ],
+   [
+    "events/panic-of-1837.md",
+    "2"
+   ],
+   [
+    "events/panic-of-1873.md",
+    "2"
+   ],
+   [
+    "research/calomiris-mason-bank-distress.md",
+    "2"
+   ],
+   [
+    "research/jones-chaos-makers.md",
+    "2"
+   ]
+  ],
+  "Alanna Hartzok": [
+   [
+    "narratives/citizens-dividend-narrative.md",
+    "2"
+   ]
+  ],
+  "Peter Barnes": [
+   [
+    "narratives/ecological-rent.md",
+    "2"
+   ]
+  ],
+  "Fred Harrison": [
+   [
+    "narratives/land-speculation-causes-cycles.md",
+    "2"
+   ],
+   [
+    "places/australia.md",
+    "2"
+   ],
+   [
+    "places/centre-point.md",
+    "2"
+   ],
+   [
+    "places/chicago.md",
+    "2"
+   ],
+   [
+    "research/hoyt-chicago-land-values.md",
+    "2"
+   ],
+   [
+    "research/jones-chaos-makers.md",
+    "2"
+   ],
+   [
+    "research/phelps-brown-weber-accumulation.md",
+    "2"
+   ]
+  ],
+  "Fred Foldvary": [
+   [
+    "narratives/land-speculation-causes-cycles.md",
+    "2"
+   ],
+   [
+    "places/chicago.md",
+    "unknown"
+   ],
+   [
+    "research/johnson-1914-single-tax-critique.md",
+    "2"
+   ]
+  ],
+  "L.D. Taylor": [
+   [
+    "places/british-columbia.md",
+    "2"
+   ]
+  ],
+  "Dr. Dirk Löhr": [
+   [
+    "places/germany.md",
+    "2"
+   ]
+  ],
+  "Stephen Reed": [
+   [
+    "places/harrisburg-pennsylvania.md",
+    "2"
+   ]
+  ],
+  "Steven Cord": [
+   [
+    "places/harrisburg-pennsylvania.md",
+    "2"
+   ]
+  ],
+  "T.N. Carver": [
+   [
+    "research/brown-land-speculation-lvt.md",
+    "2"
+   ]
+  ],
+  "C. C. Wright": [
+   [
+    "research/california-irrigation-districts.md",
+    "2"
+   ]
+  ],
+  "Henry Miller": [
+   [
+    "research/california-irrigation-districts.md",
+    "3"
+   ]
+  ],
+  "Mason Gaffney": [
+   [
+    "research/california-irrigation-districts.md",
+    "2"
+   ]
+  ],
+  "Mark Carney": [
+   [
+    "research/carney-future-of-work.md",
+    "2"
+   ]
+  ],
+  "Brett Christophers": [
+   [
+    "research/christophers-rentier-capitalism.md",
+    "2"
+   ]
+  ],
+  "Ted Gwartney": [
+   [
+    "research/gwartney-estimating-land-values.md",
+    "2"
+   ]
+  ],
+  "Phillip Anderson": [
+   [
+    "research/hoyt-chicago-land-values.md",
+    "2"
+   ]
+  ],
+  "Michael Hudson": [
+   [
+    "research/hudson-georges-political-critics.md",
+    "2"
+   ],
+   [
+    "research/hudson-killing-the-host.md",
+    "2"
+   ],
+   [
+    "research/hudson-lies-of-the-land.md",
+    "2"
+   ],
+   [
+    "research/hudson-where-did-all-the-land-go.md",
+    "2"
+   ]
+  ],
+  "Frederic J. Jones": [
+   [
+    "research/jones-chaos-makers.md",
+    "2"
+   ]
+  ],
+  "Doucet": [
+   [
+    "research/kolbe-berlin-land-value-appraisal.md",
+    "2"
+   ]
+  ],
+  "Jelena Kilić": [
+   [
+    "research/mass-appraisal-international-cases.md",
+    "2"
+   ]
+  ],
+  "Katarina Rogulj": [
+   [
+    "research/mass-appraisal-international-cases.md",
+    "2"
+   ]
+  ],
+  "Mürşide Şükran Yalpır": [
+   [
+    "research/mass-appraisal-international-cases.md",
+    "2"
+   ]
+  ],
+  "Teemu Lyytikäinen": [
+   [
+    "research/mass-appraisal-international-cases.md",
+    "unknown"
+   ]
+  ],
+  "Noah Smith": [
+   [
+    "research/noah-smith-on-georgism.md",
+    "2"
+   ]
+  ],
+  "Yanis Varoufakis": [
+   [
+    "research/norris-espinosa-refutation-technofeudalism-rent.md",
+    "2"
+   ]
+  ],
+  "Ernest Mandel": [
+   [
+    "research/norris-espinosa-refutation-technofeudalism-rent.md",
+    "2"
+   ]
+  ],
+  "Lawson Purdy": [
+   [
+    "research/nyc-1920s-tax-exemption.md",
+    "2"
+   ]
+  ],
+  "Mary Conyngton": [
+   [
+    "research/nyc-1920s-tax-exemption.md",
+    "2"
+   ]
+  ],
+  "Shane Jones": [
+   [
+    "research/nz-minerals-royalty-regime-review.md",
+    "3"
+   ]
+  ],
+  "Deloitte Access Economics": [
+   [
+    "research/nz-minerals-royalty-regime-review.md",
+    "3"
+   ]
+  ],
+  "Franklin Obeng-Odoom": [
+   [
+    "research/obeng-odoom-rodney-legacy.md",
+    "2"
+   ]
+  ],
+  "Philip O'Brien": [
+   [
+    "research/obrien-dembski-lvc-place-quality.md",
+    "2"
+   ]
+  ],
+  "Sebastian Dembski": [
+   [
+    "research/obrien-dembski-lvc-place-quality.md",
+    "2"
+   ]
+  ],
+  "Jesús Olea": [
+   [
+    "research/olea-hoyos-bizkaia-land-value-tax.md",
+    "2"
+   ]
+  ],
+  "David Hoyos": [
+   [
+    "research/olea-hoyos-bizkaia-land-value-tax.md",
+    "2"
+   ]
+  ],
+  "Javier García Enríquez": [
+   [
+    "research/olea-hoyos-bizkaia-land-value-tax.md",
+    "2"
+   ]
+  ],
+  "OpenAI": [
+   [
+    "research/openai-industrial-policy-intelligence-age.md",
+    "2"
+   ]
+  ],
+  "Frédéric Panier": [
+   [
+    "research/panier-perez-gonzalez-villanueva-belgium-ace.md",
+    "2"
+   ]
+  ],
+  "Francisco Pérez-González": [
+   [
+    "research/panier-perez-gonzalez-villanueva-belgium-ace.md",
+    "2"
+   ]
+  ],
+  "Pablo Villanueva": [
+   [
+    "research/panier-perez-gonzalez-villanueva-belgium-ace.md",
+    "2"
+   ]
+  ],
+  "Marcel Peruffo": [
+   [
+    "research/peruffo-check-australia-migration-housing.md",
+    "2"
+   ]
+  ],
+  "Madeleine Check": [
+   [
+    "research/peruffo-check-australia-migration-housing.md",
+    "2"
+   ]
+  ],
+  "Matthias Petutschnig": [
+   [
+    "research/petutschnig-runger-austria-ace.md",
+    "2"
+   ]
+  ],
+  "Silke Rünger": [
+   [
+    "research/petutschnig-runger-austria-ace.md",
+    "2"
+   ]
+  ],
+  "Thomas Pogge": [
+   [
+    "research/segal-resource-dividend.md",
+    "2"
+   ]
+  ]
+ }
+}

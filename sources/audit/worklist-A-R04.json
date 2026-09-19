@@ -1,0 +1,442 @@
+{
+ "research/desrochers-smith-meatpacking-rent-seeking.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "orth noting for readers weighing the   paper's normative framing. - **A-claim with a caveat.** The specific facts on this page (consent-decree date"
+  }
+ ],
+ "research/digital-services-tax-incidence.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d the    verbatim rationalisation quote (C/D-claims; fetched and read this session). 3. Rohit Reddy Muddasani & Dominika Langenmayr (2025), \"Navigating "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "share) and the    verbatim abstract quote (B-claims; fetched and read this session; a working paper —    re-verify the final published version before ha"
+  }
+ ],
+ "research/digital-services-taxes.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ated here.  **France then tried, twice, to raise the rate — and as of this session, failed both times.** A November 2024 budget amendment proposed raisi"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "nnual equalisation-levy collections against a primary CBDT dataset in this session, so only this withdrawal-year estimate is carried here.[7]  ## The Pi"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "as fact. - **France's current DST rate is a fast-moving fact.** As of this session's fetch   (mid-2026), the rate remains 3% after a 6% increase was vot"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "heavily than the French estimate. - **India's full revenue history is not independently verified here.** Only the   ₹3,000-crore withdrawal-year revenue-loss estimate"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session's",
+   "context": "as fact. - **France's current DST rate is a fast-moving fact.** As of this session's fetch   (mid-2026), the rate remains 3% after a 6% increase was voted"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "to customers (A/B-claims;    fetched and read via PDF text extraction this session). 2. HM Treasury (November 2025), *Digital Services Tax Review Report"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ntation cost (A/B-claims; fetched and read    via PDF text extraction this session). 3. Assemblée nationale (question n°2974, réponse publiée 14 Februar"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "uropean/extra-European payer    breakdown for 2021) (A-claim; fetched this session). 4. Julien Pellefigue (Taj/Deloitte, commissioned by the Computer & "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ease on    24 November 2025, leaving the rate at 3% (A-claim; fetched this session). 6. Income Tax Department, Government of India, \"Equalisation Levy\" "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " provisions ceased to apply from 1 April 2025 (A/F-claims;    fetched this session). 7. TaxGuru, \"Equalisation Levy: Journey From Inception to Abolition"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rm    revenue-loss estimate (A/B-claims; practitioner source; fetched this session). 8. India Briefing (2024), \"India to End 2% Equalisation Levy on For"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "context and the general OECD    two-pillar alignment framing (fetched this session; the wiki does not treat    this source's Pillar One/Two attribution "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " institutional statement; fetched and read via PDF text    extraction this session). 10. Al Jazeera (30 June 2025), \"Canada rescinds digital services ta"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e 27-30 June 2025 timeline (A-claim;     journalistic source; fetched this session). 11. Government of Canada, Department of Finance (29 June 2025), \"Ca"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s verbatim     rationale (A-claim; primary government source; fetched this session). 12. CBS News (26 June 2026), \"Trump vows immediate 100% tariff if c"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "s (A-claim;     journalistic source reporting a direct quote; fetched this session; flagged in     Honest Limits as very recent, unresolved news). "
+  }
+ ],
+ "research/dma-interoperability-dissolution.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "e consolidated   EUR-Lex HTML of CELEX 32022R1925 (fetched and parsed this session). The Kades & Scott Morton   abstract and cost passages were taken fr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "e Growth   working paper (via its published abstract and PDF, fetched this session).  ## See Also   - [Taxing Tech Rents — Instrument Comparison](/wiki/"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "tim quotes (A-claims;    primary legislative text, fetched and parsed this session). 2. Michael Kades & Fiona Scott Morton (2020), \"Interoperability as "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "per; Scott Morton's    antitrust-consulting disclosure noted; fetched this session)."
+  }
+ ],
+ "research/do-iyer-vietnam-land-rights.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "er   text (the World Bank's hosted PDF link returned an error page to this session, and the   modern openknowledge.worldbank.org listing page is JavaScr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "Limits  - **Old paper, abstract-level sourcing.** Circulated in 2003; this page is built from the   paper's abstract and a RePEc/IDEAS summary rather than a full r"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ndered and returned no   retrievable text to automated fetch). Graded B-claim; no below-abstract claim is made. - **Not about land value taxation.*"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "the modern listing page were not retrievable to automated    fetch in this session, so no claim below the abstract/summary level is made). "
+  }
+ ],
+ "research/dobbeling-carbon-pricing-meta-analysis.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "abstract quotations verified verbatim against the open-access article this session."
+  }
+ ],
+ "research/dors-land-taxes-housing-prices.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "count rate, Table 2 price differences); full text read directly    in this pass."
+  }
+ ],
+ "research/doucet-acx-book-review.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " (the review's full text was fetched and the quotes verified verbatim this session).    Published as contest finalist [on ACX, 16 Apr 2021](https://www."
+  }
+ ],
+ "research/duflo-hanna-olken-tandon-chennai-outsourcing.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "ment-design-specific, not an argument against outsourcing per se. - **A-claim.** Full text (introduction, experimental design, results and mechanis"
+  }
+ ],
+ "research/duranton-puga-urban-growth.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "). Directly fetched and read in full (final version, 30 June 2023) in this session. 2. Gilles Duranton & Diego Puga (2019), \"Urban Growth and its Aggreg"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "2023 Econometrica publication. The NBER listing itself was re-fetched this session and states the issue date as December 2019 (page metadata: 2019-12-19"
+  }
+ ],
+ "research/dwarkesh-doucet-podcast.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e timestamps/topic list (episode page and transcript fetched and read this session), Patel's framing (\"One of my best episodes ever\"; it \"completely cha"
+  }
+ ],
+ "research/dwyer-history-lvt-theory.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "a specific page in the scanned dissertation text or in the postscript this session, so this attribution rests on Gaffney & Harrison's characterization a"
+  }
+ ],
+ "research/dwyer-taxable-capacity-australia.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "2/Dwyer_TaxableCapacityOfAustralianLand.pdf)    (returned HTTP 403 in this pass) · [PDF (EarthSharing mirror, full text read)](http://www.earthsharin"
+  }
+ ],
+ "research/earthsharing-podcourse.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " May 2019 — used for the 12-part course format (page fetched and read this session), the 3CR monthly broadcast slot (\"the last Wednesday of the month fr"
+  }
+ ],
+ "research/eeckhout-profit-paradox.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "k's competition-policy argument (not    independently fetched in full this session; referenced via search summary). 6. Kirkus Reviews, \"The Profit Parad"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " (summarized via    search snippet; not independently fetched in full this session). 7. [Wiki: Superstar Firms](/wiki/superstar-firms/) and [Wiki: Autor"
+  }
+ ],
+ "research/eliasson-stockholm-trial-2006.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "/10.1016/j.tra.2008.09.007) — used for    (full text fetched and read this session, author-hosted PDF) the trial dates and    referendum, the ~22% cordo"
+  }
+ ],
+ "research/england-zhao-lvt-distribution.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".uchicago.edu/doi/10.17310/ntj.2005.2.05), which returned HTTP 403 to this session's automated fetch) — used for the exact citation, journal, volume/iss"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "eutral-shift-uniform-property-tax); full 24-page PDF directly fetched this session at [go.lincolninst.edu/1000_england_complete_web.pdf](https://go.linc"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "age Lincoln Institute working-paper PDF was directly fetched and read this pass, confirming the parcel count (5,250 single-family homes), Zhao's affi"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "als.uchicago.edu/doi/10.17310/ntj.2005.2.05), which returned HTTP 403 to this session's automated fetch) — used for the exact citation, journal, volume/iss"
+  }
+ ],
+ "research/fernandez-milan-location-value-taxes.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "nstitutional repository (DepositOnce, DOI 10.14279/depositonce-5769), fetched and read in full (38 pages); the original MCC Berlin author-page URL supplied "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "e, and all direct quotations; fetched and read in full (all 38 pages) this session. A follow-up search for an alternate accepted-manuscript copy (Google"
+  }
+ ],
+ "research/fiorentino-moogan-agglomeration.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "evel description   corroborated by search-engine indexing, and (added this session) a direct quotation from   the Cambridge Land Economy department's ow"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "irect) returned a bot/CAPTCHA challenge to every fetch method tried   this session (direct fetch, curl with a browser user-agent, and a text-extraction "
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": "A challenge to every fetch method tried   this session (direct fetch, curl with a browser user-agent, and a text-extraction proxy),   and no ind"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "user-agent",
+   "context": " fetch method tried   this session (direct fetch, curl with a browser user-agent, and a text-extraction proxy),   and no independent aggregator (CORE."
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this entry is built from",
+   "context": "t directly (ScienceDirect's bot-protection blocked automated access); this entry is built from the working-paper's reference apparatus and abstract-level characteri"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Crossref API",
+   "context": "or the published *Cities* version in full — 184 entries, read via the Crossref API on 2026-08-25 (a larger list than the 174-source working-paper appara"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "[VERIFY: exact modelling\n  approach, calibration, and any quantitative results once full text is accessible —\n  needs-unblocked-web.]",
+   "context": ", so even the abstract-level text remains unread from that channel.   [VERIFY: exact modelling   approach, calibration, and any quantitative results once full text is accessible —   needs-unblocked-web.] - This is a **theoretical/modelling paper**, not an empirical estimat"
+  },
+  {
+   "class": "A3",
+   "where": "body",
+   "match": "needs-unblocked-web",
+   "context": "ration, and any quantitative results once full text is accessible —   needs-unblocked-web.] - This is a **theoretical/modelling paper**, not an empirical estim"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "94) —    the published, peer-reviewed version; full text not accessed this session (ScienceDirect    bot-protected). 2. Stefania Fiorentino & Adam Mooga"
+  }
+ ],
+ "research/foldvary-public-revenue.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "luwer Academic Publishers, 2004) — its full text is not accessible to this session (Springer paywall), but the chapter's existence in an edited academic"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's research",
+   "context": " matches the geo-libertarian, private-community argument described in this wiki's research registry.  ## The Core Mechanism: Land Rent as a Self-Financing Fund "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "sment of the book's case-study method; full review text read directly this session and quoted verbatim in \"Limits and Caveats.\" Kiesling also faults the"
+  }
+ ],
+ "research/foldvary-reply-gochenour-caplan.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "writing, no open-access copy could be located (checked: Springer, its Wayback capture, IDEAS/RePEc, ResearchGate, Dialnet — all abstract-only; no c"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "as of this writing",
+   "context": " sourcing.** The full text of the reply is paywalled at Springer and, as of this writing, no open-access copy could be located (checked: Springer, its Wayback"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Note on sourcing",
+   "context": "h, then taxing its rent does not tax anything the searcher produced.  **Note on sourcing.** The full text of the reply is paywalled at Springer and, as of thi"
+  }
+ ],
+ "research/forget-mincome-town-with-no-poverty.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "a 403",
+   "context": "blisher's own PDF (utppublishing.com, Cloudflare-gated) still returns a 403/bot challenge on direct fetch (checked again 2026-07-17). **Partially"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "ism/qualitative findings; the publisher's own PDF (utppublishing.com, Cloudflare-gated) still returns a 403/bot challenge on direct fetch (checked aga"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "lysis never completed.  **Source-version note (important):** the file fetched and read in full is Forget's **12 May 2008 draft**, \"The Town with No Poverty:"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "not independently verified",
+   "context": "ished reply maintains her original reading of the data; this page has not independently verified the reply's specific rebuttals against its primary text (checked only"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "dated 5 March 2021, matching the published abstract) was read in full this session via [UBC Vancouver School of Economics PDF](https://economics.ubc.ca/"
+  }
+ ]
+}
