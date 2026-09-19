@@ -146,5 +146,5 @@ cycle through land. Both uses are legitimate; neither should be overstated.
    50% more" findings; the joint credit-to-GDP-and-property-price gap early-warning
    indicator; "the financial system … also generates, purchasing power, and has very much a
    life of its own"; and the "excess elasticity" framing (B- and D-claims; verified against
-   the full PDF this session). [BIS PDF](https://www.bis.org/publ/work395.pdf) ·
+   the full PDF). [BIS PDF](https://www.bis.org/publ/work395.pdf) ·
    [BIS landing page](https://www.bis.org/publ/work395.htm)

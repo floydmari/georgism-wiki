@@ -21,7 +21,7 @@ Independent of any Georgist framing, the mainstream financial-history account �
 
 ## Net Assessment (stub)
 
-This is one of the better-documented instances where a Georgist land-cycle reading (Harrison) and a mainstream banking-history reading (Needham, Reid) describe the same underlying event — a property-price collapse triggering bank distress — without disputing the basic facts, even though the mainstream account emphasizes government demand-management policy (Heath's "dash for growth," tax-deductible interest payments, the abolished Land Commission) rather than an autonomous ~18-year land cycle as the ultimate cause. Harrison's dating of the 1973 peak and 1974 recession is drawn here from the wiki's existing verified summary of *The Power in the Land* rather than a fresh page-by-page read of the primary text; the mainstream banking-history facts are taken directly from the sources cited below.
+This is one of the better-documented instances where a Georgist land-cycle reading (Harrison) and a mainstream banking-history reading (Needham, Reid) describe the same underlying event — a property-price collapse triggering bank distress — without disputing the basic facts, even though the mainstream account emphasizes government demand-management policy (Heath's "dash for growth," tax-deductible interest payments, the abolished Land Commission) rather than an autonomous ~18-year land cycle as the ultimate cause. Harrison's dating of the 1973 peak and 1974 recession follows *The Power in the Land* (Ch. 5–6, 18) at summary level rather than a page-by-page reading of the primary text; the mainstream banking-history facts are taken directly from the sources cited below.
 
 ## See Also
 
@@ -34,7 +34,7 @@ This is one of the better-documented instances where a Georgist land-cycle readi
 
 ## Sources
 
-1. Fred Harrison, *The Power in the Land* (Shepheard-Walwyn, 1983), Ch. 5–6, 18 — used for the 1955 trough, 1973 peak, and 1974 recession dating ("dead on target, 18 years") (A-claim, per the wiki's existing verified book-page summary). [Wiki book page](/wiki/harrison-power-in-the-land/)
+1. Fred Harrison, *The Power in the Land* (Shepheard-Walwyn, 1983), Ch. 5–6, 18 — used for the 1955 trough, 1973 peak, and 1974 recession dating ("dead on target, 18 years") (A-claim, cited at summary level rather than from a page-by-page reading). [Wiki book page](/wiki/harrison-power-in-the-land/)
 2. Duncan Needham, "The story of the secondary banking crisis 1973-1975," *Property Chronicle*, 9 June 2020 (article originally published 5 July 2017), drawing on Margaret Reid, *The Secondary Banking Crisis, 1973–75: Its Causes and Course* (Macmillan, 1982) — used for the property-lending growth figures, the interest-rate rise, the November–December 1973 rescue timeline, and the £1.3bn/£55m lifeboat figures (B-claim; full article read). [Article](https://www.propertychronicle.com/secondary-banking-crisis-1973-1975/)
 3. "Secondary banking crisis of 1973–1975," Wikipedia, retrieved 2026-07-11 — used for the Bank of England's estimated direct loss of £100 million and background on the 1973 interest-rate rise (B-claim, basic facts). [Wikipedia](https://en.wikipedia.org/wiki/Secondary_banking_crisis_of_1973%E2%80%931975)
 4. [18-Year Land Cycle](/wiki/18-year-land-cycle/) — wiki concept page, used for Harrison's 1776–2010 recession timetable placing 1974 as a primary recession.

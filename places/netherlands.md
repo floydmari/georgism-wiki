@@ -44,7 +44,7 @@ Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane's *[Rethinking the Economic
 
 ## Sources
 
-1. OECD & Lincoln Institute of Land Policy, *Global Compendium of Land Value Capture Policies* (2022), country profile: "Netherlands," pp. 177–179. [PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/global-compendium-of-land-value-capture-policies_64f3c257/4f9559ee-en.pdf) — used for the mechanics of active municipal land policy, its legal basis, the developer-obligation regime, and the four-city public-leasing detail (quotes ≤50 words, verified against the PDF text this session).
+1. OECD & Lincoln Institute of Land Policy, *Global Compendium of Land Value Capture Policies* (2022), country profile: "Netherlands," pp. 177–179. [PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/global-compendium-of-land-value-capture-policies_64f3c257/4f9559ee-en.pdf) — used for the mechanics of active municipal land policy, its legal basis, the developer-obligation regime, and the four-city public-leasing detail (quotes ≤50 words, verified against the PDF text, 2026-07-12).
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, London: Zed Books, Ch. 4 §4.5, Ch. 7 §7.2 — discovery source; cites the Netherlands for municipal land pooling and comparatively larger new-build homes than the UK.
 3. Pieter Jong & Fred Hobma (2026), "A Brief Commentary on Value Capture under the New
    Environment and Planning Act of the Netherlands," Lincoln Institute of Land Policy

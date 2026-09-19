@@ -26,35 +26,33 @@ The book is organized in 20 chapters across two parts (Barker 1955, Contents):
 - **Part One: A California Protest (1839–1879)**: Ch. I–X, running from George's birth in Philadelphia (Ch. I, "A Boy from a Christian Home," 1839–1855) through his immigration to California, his San Francisco journalism, and closing with Ch. X, "Before the World: *Progress and Poverty*" (1879)
 - **Part Two: A Christian Effort (1880–1897)**: Ch. XI–XX, covering George's career from 1880 through his death in 1897 — his influence in Ireland and Britain, the 1886 New York mayoral campaign (Ch. XV), the single-tax movement, and Ch. XX, "The Triple Legacy of Georgism"
 
-(A-claim; factual — the part boundary and both part titles were read off the book's own Contents on 2026-08-12. An earlier version of this page split the parts at Ch. IX/X and omitted Part Two's title; Ch. X, "Before the World: *Progress and Poverty*," in fact closes Part One, giving an even 10/10 split.)
-
 ### George's Intellectual Formation
 
-Barker traces George's ideas to his Philadelphia birthplace: "Life began for Henry George on 2 September 1839, in a brick row house on Tenth Street near Pine" (Barker 1955, Ch. I). Barker argues that Philadelphia's association with the Declaration of Independence and the Constitution shaped George's lifelong commitment to democratic principles. George was "always a city man" despite becoming the "philosopher of the land" (Barker 1955, Ch. I). (D-claim; interpretive)
+Barker traces George's ideas to his Philadelphia birthplace: "Life began for Henry George on 2 September 1839, in a brick row house on Tenth Street near Pine" (Barker 1955, Ch. I). Barker argues that Philadelphia's association with the Declaration of Independence and the Constitution shaped George's lifelong commitment to democratic principles. George was "always a city man" despite becoming the "philosopher of the land" (Barker 1955, Ch. I).
 
 ### The California Experience
 
-Barker devotes more than half the biography to George's California years, arguing that the West Coast experience was essential to the formation of *Progress and Poverty*. George's program "conceived on the West coast" included "absolute free trade, the abolition of private-property values in land, the repeal of discriminatory taxes, and the public ownership of telegraph lines and other public utilities" (Barker 1955, Preface). (D-claim; interpretive)
+Barker devotes more than half the biography to George's California years, arguing that the West Coast experience was essential to the formation of *Progress and Poverty*. George's program "conceived on the West coast" included "absolute free trade, the abolition of private-property values in land, the repeal of discriminatory taxes, and the public ownership of telegraph lines and other public utilities" (Barker 1955, Preface).
 
 ### George's Global Influence
 
-Barker documents that *Progress and Poverty* influenced English thought deeply: *Progress and Poverty* had fallen "on old and deep lines of thought in my mind," Philip Wicksteed wrote to George in 1882 from what Barker calls an inner circle of liberal thought and conscience in London; it lit the light Wicksteed "vainly sought for" himself (Barker 1955, Preface). George's ideas "deepened the Fabian movement; they helped to give force to trade unions; and they inspired the Radicals who were rising in the Liberal party" (Barker 1955, Preface). In the United States, George influenced the single-tax movement (Thomas Shearman, 1887–88), the progressive movement (Tom Loftin Johnson), and literary figures including George Bernard Shaw, Leo Tolstoy, Hamlin Garland, and Brand Whitlock (Barker 1955, Preface). (A-claim; factual)
+Barker documents that *Progress and Poverty* influenced English thought deeply: *Progress and Poverty* had fallen "on old and deep lines of thought in my mind," Philip Wicksteed wrote to George in 1882 from what Barker calls an inner circle of liberal thought and conscience in London; it lit the light Wicksteed "vainly sought for" himself (Barker 1955, Preface). George's ideas "deepened the Fabian movement; they helped to give force to trade unions; and they inspired the Radicals who were rising in the Liberal party" (Barker 1955, Preface). In the United States, George influenced the single-tax movement (Thomas Shearman, 1887–88), the progressive movement (Tom Loftin Johnson), and literary figures including George Bernard Shaw, Leo Tolstoy, Hamlin Garland, and Brand Whitlock (Barker 1955, Preface).
 
 ### The 1886 New York Mayoral Campaign
 
-Ch. XV covers George's 1886 campaign as "Labor Leader and Almost Mayor" of New York City (Barker 1955, Contents). This campaign represented the high-water mark of George's direct political influence. (A-claim; factual)
+Ch. XV covers George's 1886 campaign as "Labor Leader and Almost Mayor" of New York City (Barker 1955, Contents). This campaign represented the high-water mark of George's direct political influence.
 
 ### George's Political Complexity
 
-Barker emphasizes George's political flexibility: "During the Civil War he was a Republican but at other times a Democrat; between 1886 and 1896 he was, successively, a party bolter, a Cleveland man, and a Bryan man" (Barker 1955, Preface). George was "an admirer of Roman Catholicism, and yet an extreme and effective critic of bishops and pope; indirectly he assisted socialism, but he fought socialists and their doctrines" (Barker 1955, Preface). (D-claim; interpretive)
+Barker emphasizes George's political flexibility: "During the Civil War he was a Republican but at other times a Democrat; between 1886 and 1896 he was, successively, a party bolter, a Cleveland man, and a Bryan man" (Barker 1955, Preface). George was "an admirer of Roman Catholicism, and yet an extreme and effective critic of bishops and pope; indirectly he assisted socialism, but he fought socialists and their doctrines" (Barker 1955, Preface).
 
 ### The Triple Legacy
 
-Ch. XX, "The Triple Legacy of Georgism," assesses George's three lasting contributions: land reform, the single-tax movement, and his influence on progressive democracy. Barker argues that "when he died he received a salute of the people's affection as did no other American between Lincoln and Franklin Roosevelt" (Barker 1955, Preface). (D-claim; interpretive)
+Ch. XX, "The Triple Legacy of Georgism," assesses George's three lasting contributions: land reform, the single-tax movement, and his influence on progressive democracy. Barker argues that "when he died he received a salute of the people's affection as did no other American between Lincoln and Franklin Roosevelt" (Barker 1955, Preface).
 
 ### George and Wilson
 
-Barker notes that Woodrow Wilson was the closest American president to George's ideology, though "not very close" (Barker 1955, Preface). Wilson and George shared "a Jeffersonian ideology and policy for the America, and for the world, of the industrial age" (Barker 1955, Preface). (D-claim; interpretive)
+Barker notes that Woodrow Wilson was the closest American president to George's ideology, though "not very close" (Barker 1955, Preface). Wilson and George shared "a Jeffersonian ideology and policy for the America, and for the world, of the industrial age" (Barker 1955, Preface).
 
 ## Policy Recommendations
 

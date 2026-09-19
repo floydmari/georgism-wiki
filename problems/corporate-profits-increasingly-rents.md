@@ -114,6 +114,6 @@ Henry George's analysis located unearned income in land; the modern rent literat
 10. Stephen Maher & Scott Aquanno (2026), "Monopoly or competition? Unraveling the Amazon
     paradox," *Review of Radical Political Economics*, published online 5 March 2026, DOI
     10.1177/04866134261415639. [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/04866134261415639) —
-    fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the
-    Crossref API — used for the "real competition" counter-argument against reading Amazon
+    full text not accessible at last review (2026-08-29); the summary rests on the
+    published abstract, quoted verbatim — used for the "real competition" counter-argument against reading Amazon
     as a monopoly-rent case (§"The Counter-Case" above) (B-claim; abstract-level).

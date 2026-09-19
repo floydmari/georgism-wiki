@@ -58,7 +58,7 @@ Adams proposes:
 ## Nuances and Limits
 
 - The book is an introductory synthesis rather than original research; its arguments rely on secondary sources and the work of others (Harrison, Foldvary, Gaffney).
-- The claim that neoclassical economics was "intentionally created" to divert attention from land monopolization (citing Gaffney and Harrison) is a C-claim (interpretive/theoretical) and is contested by mainstream historians of economic thought.
+- The claim that neoclassical economics was "intentionally created" to divert attention from land monopolization (citing Gaffney and Harrison) is an interpretive and theoretical reading rather than an established finding, and is contested by mainstream historians of economic thought.
 - The correlation between population density and Gini coefficient (Ch. 4) does not establish causation; Adams acknowledges this implicitly but presents the correlation as suggestive.
 - The 18-year cycle model, while presented as robust, has been questioned by economists who note that cycles are irregular and influenced by monetary policy, wars, and other shocks.
 - The Creative Commons publication model means the book reaches a wide audience but may lack the peer review of academic press publications.

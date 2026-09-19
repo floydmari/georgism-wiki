@@ -84,9 +84,9 @@ Cities/ABC, on which Gaffney credits Warren Buffett with over $2 billion of
 through the same "strong hands" concentration lens the wiki's
 [Land Monopoly](/wiki/land-monopoly/) page documents for land: "[l]ike other
 untaxed natural resources, spectrum is being concentrated in a few strong
-hands." (D-claim: an advocacy essay's own citations to contemporaneous business
-press, not independently re-verified here — treat the specific dollar figures as
-Gaffney's citations, `[VERIFY]`.)
+hands." (These figures are an advocacy essay's own citations to contemporaneous
+business press, not independently re-verified here — treat the specific dollar
+figures as Gaffney's citations.)
 
 ## Honest Limits — the "Sell Once vs Lease" Tension
 
@@ -124,7 +124,7 @@ Gaffney's citations, `[VERIFY]`.)
 1. Ronald H. Coase (1959), "The Federal Communications Commission," *Journal of Law
    & Economics* 2, 1–40 — used for the origin of the pricing/auction proposal, the
    1993 congressional authorisation, and the property-rights-vs-licence debate
-   (C/A-claims; verified via multiple sources this session).
+   (C/A-claims; verified via multiple sources, 2026-07-06).
    [JLE](https://www.jstor.org/stable/724927)
 2. Federal Communications Commission, "Auctions Summary" — used for the ">100
    auctions since 1994" and the cumulative revenue figure (over $200 billion; FCC

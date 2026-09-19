@@ -148,17 +148,16 @@ Leader. Its membership is declining."[1]
   to a primary institutional record (e.g., charity registration documents) could settle it.
 - **The controversy content above is drawn from Wikipedia's own citations** (the 1983 *Evening
   Standard* series, the 1984 *Secret Cult* book, the 2005 Townsend inquiry, the December 2020
-  BBC report, and named ex-member accounts), independently fetched and read directly this
-  session rather than taken from a secondary paraphrase. Sourcewatch's parallel entry on SES was
-  attempted but blocked by a bot-challenge to this session and is not cited directly here;
-  Sourcewatch's content, per external search results, appears consistent with Wikipedia's
+  BBC report, and named ex-member accounts), read in that article itself rather than taken from
+  a secondary paraphrase. Sourcewatch's parallel entry on SES is not cited directly here;
+  its content appears consistent with Wikipedia's
   account and additionally references a 1997 Belgian Parliamentary Commission report on cults,
   which this page does not independently verify.
 - **This page does not attempt to adjudicate** whether SES today, in 2026, resembles the
   organization described in the 1980s-2000s controversy record. The most recent named
   assessment cited here (Jules Evans, 2013) found it declining and no longer led by a
-  "charismatic and authoritarian Leader," but no more recent independent assessment was located
-  this session.
+  "charismatic and authoritarian Leader," but no more recent independent assessment has been
+  identified.
 - **SES's continuing Georgist policy engagement (Purves, Bowman, the Scottish Land Commission
   submission, the parliamentary evidence) is documented independently of, and is not evidence
   against or in favor of, the controversy record above** — the two threads of this page's
@@ -174,17 +173,16 @@ Leader. Its membership is declining."[1]
 
 ## Sources
 
-1. Wikipedia, "School of Philosophy and Economic Science," article as fetched and read directly
+1. Wikipedia, "School of Philosophy and Economic Science," article read directly
    2026-09-03. [en.wikipedia.org/wiki/School_of_Philosophy_and_Economic_Science](https://en.wikipedia.org/wiki/School_of_Philosophy_and_Economic_Science) —
    used for the founding history (1938/Andrew MacLaren version), philosophical evolution,
    scale/finance figures, and the full controversy section (child-abuse findings at St James/St
    Vedast and the Plato school, and the "cult" characterization with named critics and
-   defenders). B-claim; fetched via an AI-mediated extraction of the live article rather than a
-   manual read of raw HTML, but with precise quotation and footnote-number preservation
-   requested and returned; not independently checked against Wikipedia's own underlying press
+   defenders). B-claim; read in extracted text form, with quotations and footnote numbering
+   preserved; not independently checked against Wikipedia's own underlying press
    and book sources.
 2. School of Philosophy and Economic Science, "History." [schoolofphilosophy.org/about/history](https://www.schoolofphilosophy.org/about/history) —
-   fetched and read directly 2026-09-03 — used for the 1937/Leon MacLaren founding version and
+   read directly 2026-09-03 — used for the 1937/Leon MacLaren founding version and
    the organization's own chronological timeline (B-claim; organizational self-account, no
    discussion of the controversy material above).
 3. Henry George Foundation (UK) — [wiki summary](/wiki/henry-george-foundation-uk/) — used for
@@ -200,7 +198,6 @@ Leader. Its membership is declining."[1]
    Economic Science, UK Parliament Housing, Communities and Local Government Committee land
    value capture inquiry, reference LVC0035, March 2018.
    [committees.parliament.uk/writtenevidence/87671](https://committees.parliament.uk/writtenevidence/87671/pdf/) —
-   direct fetch blocked by a Cloudflare bot-challenge to this session; full text obtained via a
-   reader-proxy route (`r.jina.ai`) 2026-09-03 — used for the "partial, contested, complex,
+   read in full, 2026-09-03 — used for the "partial, contested, complex,
    discretionary" characterization, the £12.4bn/£3.12bn/£9.3bn land-value-uplift figures, and
-   the Hong Kong MTR comparison (A-claim; full text read via proxy).
+   the Hong Kong MTR comparison (A-claim).

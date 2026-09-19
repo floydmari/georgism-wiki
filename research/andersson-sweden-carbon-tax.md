@@ -115,7 +115,7 @@ evidence already on the claim page.
    verbatim and body text (the 6.3%-carbon-tax-alone figure, 1.5 Mt/yr, −0.31 t/capita,
    the US$30→US$132 rate path, the 1990 VAT extension, the three-times-price-elasticity
    salience result, and the placebo-test battery) verified against the AEA-hosted text
-   and the author's LSE PhD-thesis chapter this session; the aeaweb PDF returned HTTP
-   403 to this wiki's egress, so the full text was read via the open AEA article record
+   and the author's LSE PhD-thesis chapter (2026-07-11); the publisher's PDF was not
+   accessible at that review, so the full text was read via the open AEA article record
    and the thesis. [AEA](https://www.aeaweb.org/articles?id=10.1257/pol.20170144) ·
    [LSE thesis (open)](https://researchonline.lse.ac.uk/id/eprint/135038/1/phdthesis.pdf)

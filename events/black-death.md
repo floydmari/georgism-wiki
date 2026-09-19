@@ -20,7 +20,7 @@ Henry George cited this same episode as evidence for the [law of rent](/wiki/law
 
 > "How the Black Death brought about the great rise of wages in England in the Fourteenth Century is clearly discernible, in the efforts of the land holders to regulate wages by statute. That that awful reduction in population, instead of increasing, really reduced the effective power of labor, there can be no doubt; but the lessening of competition for land still more greatly reduced rent, and wages advanced so largely that force and penal laws were called in to keep them down." (Book V, ch. II)
 
-George offers this as illustration within a broader argument, not as a quantified test — he supplies no figures for the fourteenth-century episode comparable to Clark's real-wage and real-rent series — but the passage is a striking anticipation of Clark's later finding that landholders' attempt to suppress wages by statute (rather than accept a full market-clearing rent decline) is part of the story of how the post-plague economy adjusted. (C-claim; George's own argument, attributed; quotation verified verbatim against the repository's hosted full text.)
+George offers this as illustration within a broader argument, not as a quantified test — he supplies no figures for the fourteenth-century episode comparable to Clark's real-wage and real-rent series — but the passage is a striking anticipation of Clark's later finding that landholders' attempt to suppress wages by statute (rather than accept a full market-clearing rent decline) is part of the story of how the post-plague economy adjusted — George's own argument, attributed, with the quotation taken verbatim from the hosted full text.
 
 ## Reading the Evidence
 

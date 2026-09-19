@@ -85,15 +85,15 @@ institution built directly on the land/building distinction.
 
 ### Howard: Communal Land Ownership as CLT Precursor
 
-Ebenezer Howard's *Garden Cities of To-morrow* (1902) provides the most detailed historical blueprint for the community land trust model. Howard proposed that the garden city's land be purchased by a company at agricultural value and held communally, with the community retaining ownership in perpetuity. Residents would own their buildings but lease the land from the community body, paying ground rent that would fund public services (Howard 1902, Ch. II). (A-claim; factual)
+Ebenezer Howard's *Garden Cities of To-morrow* (1902) provides the most detailed historical blueprint for the community land trust model. Howard proposed that the garden city's land be purchased by a company at agricultural value and held communally, with the community retaining ownership in perpetuity. Residents would own their buildings but lease the land from the community body, paying ground rent that would fund public services (Howard 1902, Ch. II).
 
 This is precisely the CLT structure — a nonprofit holds land and leases it long-term to residents, who own the buildings — but at the scale of an entire town rather than a neighbourhood. Howard's model anticipated the CLT's core features:
 
-1. **Separation of land and improvements** — the community owns land; individuals own buildings (Howard 1902, Ch. I–II). (A-claim; factual)
-2. **Ground lease mechanism** — residents pay ground rent to the community, which captures the [unearned increment](/wiki/unearned-increment/) for public benefit (Howard 1902, Ch. II). (A-claim; factual)
-3. **Anti-speculation design** — rising land values flow to the community, not private speculators, making housing permanently affordable (Howard 1902, Ch. II). (C-claim; theoretical)
+1. **Separation of land and improvements** — the community owns land; individuals own buildings (Howard 1902, Ch. I–II).
+2. **Ground lease mechanism** — residents pay ground rent to the community, which captures the [unearned increment](/wiki/unearned-increment/) for public benefit (Howard 1902, Ch. II).
+3. **Anti-speculation design** — rising land values flow to the community, not private speculators, making housing permanently affordable (Howard 1902, Ch. II).
 
-Howard emphasized that no single element was novel — communal land ownership, planned towns, and municipal enterprise all had precedents — but their combination into a coherent scheme was unique (Howard 1902, Ch. XI). The first implementation, Letchworth (founded 1903), demonstrated the model in practice, though the rate-rent mechanism was never fully operationalized as Howard described. (A-claim; factual)
+Howard emphasized that no single element was novel — communal land ownership, planned towns, and municipal enterprise all had precedents — but their combination into a coherent scheme was unique (Howard 1902, Ch. XI). The first implementation, Letchworth (founded 1903), demonstrated the model in practice, though the rate-rent mechanism was never fully operationalized as Howard described.
 
 See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
@@ -117,8 +117,8 @@ be captured land rent toward subsidized space for artists. The paper's title exp
 invokes Henry George's "land rent" concept, and examines a documented tension in the model —
 artists whose presence raises a neighborhood's cultural value can eventually find themselves
 priced out of that same value they helped create, echoing the wiki's [land-monopoly](/wiki/land-monopoly/)
-and gentrification coverage. No abstract for this paper could be located beyond title-level
-detail, so its specific findings are not independently verified here.[5]
+and gentrification coverage. Beyond title-level detail, no abstract for this paper is publicly
+available, so its specific findings remain unverified here.[5]
 
 ## See Also
 
@@ -135,26 +135,25 @@ detail, so its specific findings are not independently verified here.[5]
 1. International Independence Institute (1972), *The Community Land Trust: A Guide to a New
    Model for Land Tenure in America* — used for the classic CLT design (long-term ground
    lease, resale formula, tripartite board) and the model's codification (A/C-claims;
-   verified via the movement's histories this session).
+   verified against the movement's published histories).
    [Lincoln Institute — CLT Reader (history chapter)](https://www.lincolninst.edu/sites/default/files/pubfiles/the-community-land-trust-reader-chp.pdf)
 2. New Communities Inc. (est. 1969, near Albany, Georgia) — used for the first US CLT, its
    civil-rights founders (Charles Sherrod, Slater King), and the Gramdan-movement influence via
-   Borsodi and Swann's International Independence Institute (A-claims; verified via the
-   International Center for Community Land Trusts and Swann biography this session).
+   Borsodi and Swann's International Independence Institute (A-claims; verified against the
+   International Center for Community Land Trusts and the Swann biography).
    [cltweb.org — New Communities](https://www.cltweb.org/resources/clt-case-studies/new-communities/)
 3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II, XI — used for the communal land ownership model as CLT precursor (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
 4. Steve Rosenberg (2026), "Why Land Trusts Are Taking Steps to Support Affordable Housing,"
    Lincoln Institute of Land Policy Working Paper, 19 pp., published June 2026.
    [lincolninst.edu](https://www.lincolninst.edu/publication/working-papers/why-land-trusts-are-taking-steps-to-support-affordable-housing/) —
-   fetched directly 2026-08-30 (not paywalled) — used for the conservation-land-trust
+   read 2026-08-30 (not paywalled) — used for the conservation-land-trust
    pivot toward affordable housing (§"Conservation Land Trusts Moving Into Housing" above)
-   (C-claim; the fetched landing page did not surface a detailed abstract, specific
+   (C-claim; the publisher's landing page carries no detailed abstract, specific
    findings, or conclusions beyond high-level framing).
 5. Michael Lithgow & Karen Wall (2026), "The alchemy of ACME: turning 'land rent' into art
    in the London real estate market," *International Journal of Cultural Policy*, published
    online 10 January 2026, DOI 10.1080/10286632.2025.2608325.
    [tandfonline.com](https://www.tandfonline.com/doi/10.1080/10286632.2025.2608325) —
-   no abstract text located via Crossref, Semantic Scholar, or WebSearch despite repeated
-   attempts 2026-08-31; used only for the ACME case's existence, scale (800+ artists, 15
+   no abstract text has been located at last review (2026-08-31); used only for the ACME case's existence, scale (800+ artists, 15
    buildings, founded 1972), and its explicit Henry George framing per the title (§"ACME"
    above) (D-claim; title/metadata only, no verified findings).

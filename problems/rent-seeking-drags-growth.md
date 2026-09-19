@@ -164,9 +164,9 @@ private corporate land and resource tenure abroad — from Cold War
 interventions (Iran 1953, Guatemala 1954, Chile 1970–73) to ordinary defense
 procurement (uncompeted Halliburton/KBR contracts, F-35 cost overruns spread
 deliberately across congressional districts) — rather than the "public good"
-of textbook treatment.[8] This is a D-claim (a historical-narrative,
-motive-attributing argument from two committed advocates, not an econometric
-test), cited here as a historical illustration extending the rent-seeking
+of textbook treatment.[8] This is a historical-narrative,
+motive-attributing argument from two committed advocates rather than an
+econometric test, cited here as a historical illustration extending the rent-seeking
 frame to geopolitics, not as independent evidence for this page's growth-cost
 magnitude estimate.
 
@@ -250,8 +250,8 @@ uncertainty of the rent gradient: the further the rent is from land, the more it
 9. Ben J. Heijdra & Pim Heijnen (2025), "Rent-Seeking, Capital Accumulation, and
    Macroeconomic Growth," *De Economist* 173(3): 475–518 (originally circulated as CESifo
    WP 10771, 2023). [Springer](https://link.springer.com/article/10.1007/s10645-025-09456-8) —
-   publisher page redirected to a login wall; verbatim abstract obtained via the Crossref
-   API — used for the OLG monopolization/rent-seeking model and the "monopolization
+   full text behind a publisher login wall at last review; the summary rests on the
+   published abstract, quoted verbatim — used for the OLG monopolization/rent-seeking model and the "monopolization
    increases the growth rate... ambiguous [rent-seeking] effect... increases wealth
    inequality" quotation (§"A Formal Counterpoint" above) (B-claim; abstract-level, full
    model and proofs not read).

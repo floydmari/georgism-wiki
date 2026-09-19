@@ -63,7 +63,7 @@ United States, 1789–1930* collection; DRS object urn-3:FHCL:879814), whose pag
 fetched through the item's IIIF manifest. Running heads and page numbers were removed and
 chapter headings restored from the book's own table of contents; because the OCR carries no
 paragraph markers, paragraphs were rejoined by a line-width heuristic and a few may be merged,
-and scattered OCR artifacts remain. An image-proofread pass is queued.
+and scattered OCR artifacts remain.
 
 ## Why It Matters Here
 

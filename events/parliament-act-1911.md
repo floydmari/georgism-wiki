@@ -153,29 +153,29 @@ long outlasted, the specific tax measures that triggered it.
    [parliament.uk](https://www.parliament.uk/about/how/laws/parliamentacts/) —
    used for the money-bill veto removal, the two-year/three-session suspensory
    delay on other bills, the reduced maximum Parliament term, and the 1949
-   amendment (A-claims; official parliamentary history; fetched and verified by
-   this wiki's [David Lloyd George](/wiki/david-lloyd-george/) page, 2026-07-10 —
-   this session's attempts to independently re-fetch parliament.uk returned
-   HTTP 403 to this tooling, so the citation is retained on the strength of that
-   prior verification and its cross-corroboration against source 4 below,
-   independently re-verified this session).
+   amendment (A-claims; official parliamentary history; verified for the
+   [David Lloyd George](/wiki/david-lloyd-george/) page, 2026-07-10 —
+   parliament.uk was not accessible for re-verification at last review
+   (2026-08-11), so the citation rests on that earlier verification and on its
+   cross-corroboration against source 4 below, which was independently
+   re-verified 2026-08-11).
 2. UK Parliament, "'Mr Balfour's poodle'?"
    [parliament.uk](https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/parliamentacts/overview/balfourspoodle/)
    — used for the 30 November 1909 rejection vote (350–75), the two 1910 general
    elections, Edward VII's and George V's roles in the peerage-creation question,
    and the disputed "bluff" characterization (A/D-claims; the "bluff" framing
-   presented as a secondary account, not settled fact; same access-tooling note
-   as source 1 — fetched and verified by the [David Lloyd
+   presented as a secondary account, not settled fact; same access note
+   as source 1 — verified for the [David Lloyd
    George](/wiki/david-lloyd-george/) page, 2026-07-10, and cross-corroborated by
-   source 7 below, independently fetched this session).
+   source 7 below, read independently 2026-08-11).
 3. *Parliament Act 1911*, 1 & 2 Geo. 5 c. 13 (UK Public General Act).
    [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Geo5/1-2/13/contents)
    — used for the primary statutory text (money-bill veto removal, the
    three-session/two-year suspensory-veto mechanism for other public bills, and
    the reduced five-year maximum Parliament term); the 1949 amendment shortening
    the delay from two years to one is separately noted per source 1 (A-claim,
-   primary statute; table of contents fetched and verified this session,
-   2026-08-11 — confirms Part I money-bill provisions, §2 restrictions on
+   primary statute; table of contents verified 2026-08-11 — confirms Part I
+   money-bill provisions, §2 restrictions on
    non-money bills, §3 Speaker's certificate, and §7 duration of Parliament).
 4. "Parliament Bill," HL Deb 10 August 1911, vol 9, cc987–1045 (Viscount
    Morley's declaration) and cc1045–77 (division).
@@ -202,7 +202,7 @@ long outlasted, the specific tax measures that triggered it.
 7. History & Policy, "The 1909 Budget and the Destruction of the Unwritten
    Constitution."
    [historyandpolicy.org](https://historyandpolicy.org/policy-papers/papers/the-1909-budget-and-the-destruction-of-the-unwritten-constitution/)
-   — fetched and read this session (2026-08-11); used to corroborate the
+   — read in full, 2026-08-11; used to corroborate the
    350–75 rejection vote, the January and December 1910 elections, Edward VII's
    and George V's differing responses to the peerage-creation request, and for
    the Irish Home Rule aftermath quoted above (the 1912/1913/1914 Lords

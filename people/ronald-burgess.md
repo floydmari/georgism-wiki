@@ -11,19 +11,19 @@ last_reviewed: 2026-07-11
 
 ## Summary
 
-Ronald Burgess (August 1, 1923 – January 31, 2002) was a British economist and Georgist policy advocate associated with the Economic Study Association until his death, best known for *Public Revenue Without Taxation* (1993, Shepheard-Walwyn). Burgess argued that the collection of land rent for public revenue is both economically superior to and morally distinct from conventional taxation, which he characterized as neither necessary nor just. His work extends the Georgist tradition into modern British fiscal policy debates, engaging with Keynesian, monetarist, and supply-side schools of economic thought. (A-claim; factual)
+Ronald Burgess (August 1, 1923 – January 31, 2002) was a British economist and Georgist policy advocate associated with the Economic Study Association until his death, best known for *Public Revenue Without Taxation* (1993, Shepheard-Walwyn). Burgess argued that the collection of land rent for public revenue is both economically superior to and morally distinct from conventional taxation, which he characterized as neither necessary nor just. His work extends the Georgist tradition into modern British fiscal policy debates, engaging with Keynesian, monetarist, and supply-side schools of economic thought.
 
 ## Key Ideas/Contributions
 
-- **Land rent as non-tax revenue.** Burgess's central argument is that collecting land rent is not "taxation" at all — it is the collection of value created by the community, not by individual labor or capital. This distinction, drawn from Henry George and the Physiocratic tradition, reframes the fiscal debate: the question is not which taxes to impose but whether to collect what the community has already created. (C/D-claim; theoretical/interpretive)
+- **Land rent as non-tax revenue.** Burgess's central argument is that collecting land rent is not "taxation" at all — it is the collection of value created by the community, not by individual labor or capital. This distinction, drawn from Henry George and the Physiocratic tradition, reframes the fiscal debate: the question is not which taxes to impose but whether to collect what the community has already created.
 
-- **Critique of both Keynesian and monetarist schools.** Burgess argued that both the demand-side (Keynesian) and supply-side (monetarist) schools accept taxation as a necessary evil without considering the possibility of a non-tax source of public revenue. He critiqued both schools for ignoring the land-rent alternative. (D-claim; interpretive)
+- **Critique of both Keynesian and monetarist schools.** Burgess argued that both the demand-side (Keynesian) and supply-side (monetarist) schools accept taxation as a necessary evil without considering the possibility of a non-tax source of public revenue. He critiqued both schools for ignoring the land-rent alternative.
 
-- **Colin Clark's 25% limit.** Burgess engaged with Colin Clark's empirical finding that tax revenue exceeding 25% of Net National Product tends to cause inflation, arguing that this limit demonstrates the unsustainability of conventional taxation and the necessity of land-rent-based revenue. (B/C-claim; empirical/theoretical)
+- **Colin Clark's 25% limit.** Burgess engaged with Colin Clark's empirical finding that tax revenue exceeding 25% of Net National Product tends to cause inflation, arguing that this limit demonstrates the unsustainability of conventional taxation and the necessity of land-rent-based revenue.
 
-- **The "primary division."** Burgess emphasized the classical distinction between land and capital — what he called the "primary division" — arguing that conflating the two, as neoclassical economics does, obscures the unique role of land rent as a source of public revenue. (C-claim; theoretical)
+- **The "primary division."** Burgess emphasized the classical distinction between land and capital — what he called the "primary division" — arguing that conflating the two, as neoclassical economics does, obscures the unique role of land rent as a source of public revenue.
 
-- **Physiocratic lineage.** Burgess placed his argument in the intellectual lineage of the Physiocrats' *impot unique* (single tax on the net product of land), through Henry George's single tax, to modern proposals for land-value-based public revenue. (A/D-claim; historical/interpretive)
+- **Physiocratic lineage.** Burgess placed his argument in the intellectual lineage of the Physiocrats' *impot unique* (single tax on the net product of land), through Henry George's single tax, to modern proposals for land-value-based public revenue.
 
 ## Key Works
 

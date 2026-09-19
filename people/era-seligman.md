@@ -103,11 +103,11 @@ George's reply, and Seligman's rejoinder — is transcribed on the wiki's
    · [Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Seligman%2C+Edwin+R.+A.+%28Edwin+Robert+Anderson%29%2C+1861-1939)
    — used for the biography (birth/death, Columbia career, Joseph Seligman/Horatio
    Alger, AEA founding role, income-tax influence, doctoral students) and the
-   *Shifting and Incidence* publishing history (A-claims; verified this session).
+   *Shifting and Incidence* publishing history (A-claims; verified 2026-07-18).
 2. *The Single Tax Discussion, Held at Saratoga, Sept. 5, 1890* (American Social
    Science Association; F. B. Sanborn, ed.; Concord, Mass.), containing the "Address
    of Professor Edwin R. A. Seligman" — used for Seligman's role in the 1890 debate
-   (A-claim; venue and proceedings verified this session), and for the address/reply/
+   (A-claim; venue and proceedings verified 2026-07-18), and for the address/reply/
    rejoinder content in the "Saratoga Address and Reply" section, quoted from the
    wiki's own transcription of this same proceedings volume.
    [Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/browse?type=title&key=single+tax+discussion+held+at+saratoga+sept+5+1890)

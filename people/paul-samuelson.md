@@ -37,9 +37,9 @@ George's land-value tax as resting on ethical rather than economic grounds, and
 that Samuelson's textbook estimated economic rent at a small single-digit share of
 GNP — a figure Harrison, using different accounting, argued was a substantial
 understatement.[4] Both readings are Georgist interpretations of Samuelson's
-influence rather than claims Samuelson himself endorsed; this page does not
-independently verify the specific page citations behind them.
-A direct edition/page citation from Samuelson's *Economics* for the rent-share-of-GNP figure and the "ethical, not economic" characterization has not been located; both remain reported via Harrison's account rather than verified against the textbook itself.
+influence rather than claims Samuelson himself endorsed, and the specific page
+citations behind them are not established here.
+No edition or page citation from Samuelson's *Economics* is given for the rent-share-of-GNP figure or the "ethical, not economic" characterization; both remain reported via Harrison's account rather than checked against the textbook itself.
 
 ## See Also
 
@@ -54,4 +54,4 @@ A direct edition/page citation from Samuelson's *Economics* for the rent-share-o
 1. Nobel Prize Outreach, "Paul A. Samuelson – Facts," Nobelprize.org — used for the 1970 Nobel award, its citation, and MIT affiliation. [nobelprize.org](https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/facts/)
 2. "Paul Samuelson," Wikipedia, accessed July 2026 — used for birth/death dates and places, and for the publication history of *Economics* (1948, nineteen editions, translations). [Wikipedia](https://en.wikipedia.org/wiki/Paul_Samuelson)
 3. Mason Gaffney, "Neo-classical Economics as a Stratagem Against Henry George," in Gaffney & Harrison, *The Corruption of Economics*, Shepheard-Walwyn, 1994, §1 — the discovery source for this page; used for the claim that Samuelson's textbook perpetuated Clark's land-as-capital treatment (D-claim, attributed). [PDF (masongaffney.org)](https://www.masongaffney.org/publications/K1Neo-classical_Stratagem.CV.pdf) · [wiki summary](/wiki/gaffney-neoclassical-stratagem/)
-4. Fred Harrison, *[The Power in the Land](/wiki/harrison-power-in-the-land/)*, Shepheard-Walwyn, 1983, Ch. 1, 6, 15 — used for Harrison's account of Samuelson's rent-as-share-of-GNP estimate and his characterization of Samuelson's objection to George as ethical rather than economic; drawn from the wiki's existing discovery-report summary of the book rather than a fresh primary-text read (D-claim, attributed).
+4. Fred Harrison, *[The Power in the Land](/wiki/harrison-power-in-the-land/)*, Shepheard-Walwyn, 1983, Ch. 1, 6, 15 — used for Harrison's account of Samuelson's rent-as-share-of-GNP estimate and his characterization of Samuelson's objection to George as ethical rather than economic; the book's chapters are cited here at second hand rather than from a fresh primary-text read (D-claim, attributed).

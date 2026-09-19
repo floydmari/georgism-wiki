@@ -74,11 +74,11 @@ correctly attributed, is harder than the textbook 100%-LVT result assumes.
 - **A boundary/attribution problem, not a case against LVT generally.** The paper's own
   framing is about a *specific* failure condition (spillovers crossing property lines) rather
   than a wholesale rejection of land value taxation's efficiency case.
-- **Abstract-level source (B-claim).** SSRN blocked direct access to the paper itself; this
-  page is built from the paper's verbatim abstract (obtained via the Crossref API) and
-  independent corroboration of the author's institutional context (a Northwestern economics
-  PhD student who has presented related work at Yale's Economic History Lunch series), not a
-  read of the full empirical design, regression specifications, or magnitude of the effect.
+- **Abstract-level source.** The full paper is not publicly accessible; the account here rests
+  on the paper's verbatim abstract and on independent corroboration of the author's
+  institutional context (a Northwestern economics PhD student who has presented related work
+  at Yale's Economic History Lunch series), rather than on the full empirical design,
+  regression specifications, or magnitude of the effect.
 - **A working paper, not yet peer-reviewed.**
 
 ## Bears On
@@ -98,10 +98,9 @@ correctly attributed, is harder than the textbook 100%-LVT result assumes.
 
 1. Pedro Aldighieri (2026), "Drawing the Line: The Spatial Non-Neutrality of Land Value
    Taxation," SSRN Working Paper, DOI 10.2139/ssrn.7107758, posted July 2026.
-   [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7107758) — fetch
-   blocked (403) to this session 2026-08-29; verbatim abstract obtained via the Crossref API
-   ([api.crossref.org/works/10.2139/ssrn.7107758](https://api.crossref.org/works/10.2139/ssrn.7107758))
+   [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7107758) — full text
+   not accessible at last review (2026-08-29); the verbatim abstract was read instead
    — used for the inverse-Pigouvian-subsidy mechanism, the Arnott-Stiglitz framing, and the
    Cook County 2001–2023 difference-in-differences design and result, all quoted directly
-   from the abstract above (B-claim; abstract-level, full paper and empirical detail not
+   from the abstract above (B-claim; abstract-level — full paper and empirical detail not
    read).

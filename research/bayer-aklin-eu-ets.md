@@ -116,7 +116,8 @@ claim page; this research page gives it a full, bidirectionally-wired treatment.
    reduction, the ~7.5%-of-covered-emissions and near-half-of-Kyoto framings, the
    generalized synthetic control method, the "beyond the financial crisis" and "low
    prices compatible with success" arguments, and the carbon-leakage upper-bound caveat)
-   verified this session against the PNAS article record and the open-access accepted
-   manuscript; the pnas.org PDF returned HTTP 403 to this wiki's egress.
+   verified against the PNAS article record and the open-access accepted
+   manuscript at last review (2026-07-11); the publisher's own PDF was not accessible,
+   so the open-access copy was used.
    [PNAS](https://www.pnas.org/doi/10.1073/pnas.1918128117) ·
    [Open-access copy (Glasgow Enlighten)](https://eprints.gla.ac.uk/214306/1/214306.pdf)

@@ -45,8 +45,7 @@ The magnitude is the number most often garbled in retellings, so it is worth cit
 precisely. Francis, Hamilton, Mitchell, Rosenberg, and Stucki, using US Census of
 Agriculture data, find "a nearly 90 percent decline in ownership from 1910 to 1997," and
 estimate that "the present, compounded value of the Black land loss from 1920 to 1997 is
-roughly $326 billion" (*AEA Papers and Proceedings*, 2022).[1] (B-claim; empirical,
-peer-reviewed.)
+roughly $326 billion" (*AEA Papers and Proceedings*, 2022).[1]
 
 The loss was not a market accident. The same authors catalogue the mechanisms: violence
 and lynching; "discrimination by banks and financial institutions"; local administrators
@@ -71,7 +70,7 @@ Black landownership" across the twentieth century,[4] and a 2023 Union of Concer
 Scientists brief describes heirs' property as "the leading cause of Black involuntary land
 loss."[5] The 2019 ProPublica account of the Reels brothers — jailed for refusing to
 surrender family land lost to a partition sale — put a face on the mechanism.[6]
-(A/B-claims; the "leading cause" phrasing is the UCS brief's, attributed.)
+The "leading cause" phrasing is the UCS brief's.
 
 ## The Land–Wealth Channel
 
@@ -87,7 +86,7 @@ built by federal, state, and local policy. Rothstein's causal claim is strong, a
 page reports it as **his argument**: he contends that African American families barred by
 the FHA from buying suburban homes "gained none of the equity appreciation that whites
 gained," and that the resulting wealth difference is "almost entirely attributable to
-federal housing policy."[7] (D/B-claim; attributed — Rothstein's is the strong-causal end
+federal housing policy."[7] (Rothstein's is the strong-causal end
 of a literature that others weight more diffusely.)
 
 The gap those decades produced is stark and current: drawing on the Survey of Consumer
@@ -126,7 +125,7 @@ prospective and partial contribution: it can stop the meter running *forward* on
 land-rent channel, but it does not by itself return the $326 billion in compounded
 farmland value,[1] nor the equity appreciation denied to redlined-out families. Anyone
 claiming an LVT "closes the racial wealth gap" is overstating a real but limited effect.
-(D-claim; the wiki's own analysis, flagged as such — no source is asserted to have proven
+(This is the wiki's own analysis: no source is asserted to have established
 either the reach or the ceiling of this effect. No published study simulates an
 LVT-plus-dividend regime's distributional effect by race; the closest peer-reviewed
 evidence is on the *status quo*: Avenancio-León and Howard document a nationwide
@@ -179,7 +178,7 @@ This is not a footnote to be managed. A movement that grounds itself in the inju
 land monopoly, and then builds a whites-only land commons in the Jim Crow South, has to
 own that contradiction plainly — both because honesty demands it and because the movement's
 credibility with the audiences most harmed by land dispossession depends on not pretending
-otherwise. (A/D-claims; the interpretation is this page's, the facts and quotations are
+otherwise. (The interpretation is this page's; the facts and quotations are
 Gaston's and the Encyclopedia of Alabama's.)
 
 ## Reparations and Rent — A Distinction Worth Keeping Sharp
@@ -192,7 +191,7 @@ policy to eliminate it."[10] They treat the wealth gap as the summary measure of
 — noting that "the average Black household has a net worth $800,000 lower than the
 average white household" — and hold that only a **federal cash program**, on the order of
 trillions of dollars, calculated to eliminate that gap, counts as full reparations.[10][11]
-(D-claim; attributed frontier — this is the authors' position, presented, not endorsed.)
+(This is the authors' position, presented, not endorsed.)
 
 Set beside rent capture, the two remedies point in different directions on two axes:
 
@@ -206,8 +205,8 @@ Set beside rent capture, the two remedies point in different directions on two a
 This is why the two are complements at best, not substitutes, and why it is a category
 error to present a land value tax as reparations. One is compensation for a stock already
 taken; the other is a rule about a flow going forward. The dispossession record is
-common ground; the remedy each side draws from it is not the same instrument. (D-claim;
-this page's framing of the distinction.)
+common ground; the remedy each side draws from it is not the same instrument. (The
+framing of that distinction is this page's own.)
 
 The same conclusion is reached independently, for a different country, from inside the
 Georgist scholarly tradition itself: Franklin Obeng-Odoom argues that Henry George's
@@ -216,7 +215,7 @@ post-emancipation Guyana, where racialized property in labor became racialized p
 in land — concludes that "neither socialism nor a Georgist single tax can remedy" that
 history; his proposed fix pairs Georgist land-value capture with a reparations program.[13]
 See [Obeng-Odoom (2026)](/wiki/obeng-odoom-rodney-legacy/) for the fuller (abstract-level)
-account. (D-claim; abstract-sourced, attributed.)
+account. (That account rests on the paper's abstract.)
 
 ## Honest Limits
 

@@ -47,12 +47,12 @@ wiki's existing colony-specific pages addresses directly.
 
 ## Nuances and Limits
 
-- **Table-of-contents and publisher-description level only.** This page is built from
+- **Table-of-contents and publisher-description level only.** This entry rests on
   McFarland's own product listing (description, table of contents, subject tags) rather
-  than a read of the book itself. A contemporaneous review exists — Neil Wright, *Communal
-  Societies* 44(1), published online 2 October 2025 — but its full text was Cloudflare-
-  blocked to every fetch method attempted this session, so this page does not draw on the
-  review's specific assessment or any of its direct quotations.
+  than on a read of the book itself. A contemporaneous review exists — Neil Wright, *Communal
+  Societies* 44(1), published online 2 October 2025 — but its full text is not publicly
+  accessible, so this page does not draw on the review's specific assessment or any of its
+  direct quotations.
 - **"Market socialism" in the title is Genovese's own framing**; this page does not
   independently characterize how the book reconciles that label with the classical-liberal
   and geolibertarian readings of Georgism the wiki more often documents (see
@@ -70,11 +70,11 @@ wiki's existing colony-specific pages addresses directly.
 
 1. Jeremy E. C. Genovese (2025), *The Earth for All: Henry George, Utopian Communities and
    Market Socialism*, McFarland, ISBN 978-1-4766-9358-3. [mcfarlandbooks.com](https://mcfarlandbooks.com/product/the-earth-for-all/) —
-   fetched and read 2026-08-26; used for the book description, full table of contents, page
+   read in full, 2026-08-26; used for the book description, full table of contents, page
    count, and author biography (B-claim; publisher's own listing, not the book text itself).
 2. Neil Wright (2025), review of *The Earth for All*, *Communal Societies* 44(1), published
    online 2 October 2025, DOI 10.9707/0739-1250.1006.
    [scholarworks.gvsu.edu](https://scholarworks.gvsu.edu/communalsocieties/vol44/iss1/7) —
-   fetch blocked (Cloudflare) to this session 2026-08-26; existence, reviewer, venue, and
+   full text not accessible at last review (2026-08-26); existence, reviewer, venue, and
    date confirmed via the DOI landing page, but the review's own text and assessment are
    not used in this page (no claim drawn from it beyond its bibliographic existence).

@@ -243,9 +243,9 @@ about scale and evidence design than about the core theory, which is widely acce
 
 ## Book Findings: The People's Budget as Historical Precedent
 
-Bruce K. Murray's *The People's Budget 1909/10* (1980) documents the most significant historical attempt to shift taxation from labor to land in a major democracy. The 1909 People's Budget, introduced by Chancellor [David Lloyd George](/wiki/david-lloyd-george/), was designed to raise revenue for social reform through progressive direct taxation, including land-value duties. Winston Churchill framed the divide as "the difference between the taxation of wages and the taxation of wealth" (Murray 1980, p. 17) — a formulation that directly anticipates the "tax land, not labor" narrative. (A-claim; factual)
+Bruce K. Murray's *The People's Budget 1909/10* (1980) documents the most significant historical attempt to shift taxation from labor to land in a major democracy. The 1909 People's Budget, introduced by Chancellor [David Lloyd George](/wiki/david-lloyd-george/), was designed to raise revenue for social reform through progressive direct taxation, including land-value duties. Winston Churchill framed the divide as "the difference between the taxation of wages and the taxation of wealth" (Murray 1980, p. 17) — a formulation that directly anticipates the "tax land, not labor" narrative.
 
-Murray documents that the Budget was carefully designed to avoid burdening the working and middle classes: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (*Liberal Magazine*, May 1909, quoted by Murray 1980, p. 21). The land-value duties sought to capture "property values created by the community" — a Georgist principle applied through incremental taxation. The House of Lords' rejection of the Budget triggered a constitutional crisis, illustrating both the high political ceiling and the fierce institutional resistance to shifting taxation from labor to land. See [People's Budget 1909/10](/wiki/peoples-budget-1909/). (A/D-claim; factual/interpretive)
+Murray documents that the Budget was carefully designed to avoid burdening the working and middle classes: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (*Liberal Magazine*, May 1909, quoted by Murray 1980, p. 21). The land-value duties sought to capture "property values created by the community" — a Georgist principle applied through incremental taxation. The House of Lords' rejection of the Budget triggered a constitutional crisis, illustrating both the high political ceiling and the fierce institutional resistance to shifting taxation from labor to land. See [People's Budget 1909/10](/wiki/peoples-budget-1909/).
 
 ## How to Deploy It
 
@@ -319,8 +319,8 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
    Finance*. Exact wording and attribution verified against Richard F. Dye & Richard W.
    England, "Assessing the Theory and Practice of Land Value Taxation," which opens with
    this quotation. [Lincoln Institute of Land Policy PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/land-value-taxation-chp.pdf)
-   (A-claim, direct quotation now verified against an institutional reproduction; the
-   primary Wenzer volume itself was not fetched this session).
+   (A-claim, direct quotation verified against an institutional reproduction; the
+   primary Wenzer volume itself was not consulted).
 4. Richard Arnott & Joseph Stiglitz, "Aggregate Land Rents, Expenditure on Public
    Goods, and Optimal City Size," *Quarterly Journal of Economics*, 1979.
    [PDF](https://cooperative-individualism.org/arnott-richard-and-joseph-stiglitz_aggregate-land-rents-1979-nov.pdf) —

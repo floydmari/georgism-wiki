@@ -104,19 +104,20 @@ than a later defender against a specific attack.
 
 - This page currently rests on one secondary account (Feder's postscript,
   itself summarizing Grant's now-obscure 1994 tract) rather than a direct
-  read of Grant's original argument. Richard Grant's original 1994 Free Market
-  Foundation tract could not be located in this pass, and no independent
-  secondary source corroborating Feder's characterization of it was found; the
+  read of Grant's original argument. No copy of Richard Grant's original 1994
+  Free Market Foundation tract has been identified, and no independent
+  secondary source corroborating Feder's characterization of it has been
+  found either; the
   South African 1994 episode therefore rests on Feder's postscript alone and is
   presented as her account rather than as an independently verified reading of
   Grant.
 - Frank Knight's 1953 article is confirmed via independent bibliographic
   record (Knight, "The Fallacies in the 'Single Tax,'" *The Freeman*, August
-  1953, pp. 809–811), but this page has not yet directly verified that
-  Knight himself, rather than only Grant secondhand, used the specific
-  words "socialism" or "communism" against the single tax; treat the
-  socialism/communism framing as Feder's characterization of the
-  Knight-via-Grant argument until checked against Knight's primary text.
+  1953, pp. 809–811), but whether Knight himself, rather than only Grant
+  secondhand, used the specific words "socialism" or "communism" against the
+  single tax is unconfirmed against Knight's primary text; the
+  socialism/communism framing should be read as Feder's characterization of the
+  Knight-via-Grant argument.
 - The "socialism" charge is a labeling dispute more than a testable
   empirical claim, so "response" here means a conceptual distinction, not a
   resolved factual question.
@@ -144,7 +145,7 @@ more than a fact in dispute.
 
 ## Sources
 
-1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (Shepheard-Walwyn, 1994; postscript by Kris Feder), Postscript — discovery source; used for the South African 1994 episode, the Grant/Knight lineage of the argument, and Feder's res communis/res nullius/state-ownership distinction, via the wiki's existing book-page summary. [Wiki book page](/wiki/gaffney-harrison-corruption-of-economics/)
+1. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (Shepheard-Walwyn, 1994; postscript by Kris Feder), Postscript — used for the South African 1994 episode, the Grant/Knight lineage of the argument, and Feder's res communis/res nullius/state-ownership distinction (drawn from a summary of the postscript rather than a page-by-page reading). [Wiki book page](/wiki/gaffney-harrison-corruption-of-economics/)
 2. Frank H. Knight, "The Fallacies in the 'Single Tax,'" *The Freeman*, August 1953, pp. 809–811 — used for independent bibliographic confirmation that this is a real, dated, locatable Knight essay rather than a misattributed reference. [Mises Institute scan of The Freeman, August 1953](https://mises.org/freeman/freeman-august-1953)
 3. "The Modern Georgism of Respected Economists," *Progress and Poverty Substack* — used for the cross-spectrum roster of economists endorsing land value taxation, including Milton Friedman's characterization of a tax on the unimproved value of land as the "least bad tax," which counts against the socialism/communism framing. [wiki summary](/wiki/modern-georgism-respected-economists/) · [article](https://progressandpoverty.substack.com/p/the-modern-georgism-of-respected)
 4. Henry George, *Progress and Poverty*, 1879, Book VI, Ch. I ("Insufficiency of Remedies Currently Advocated," §V "From Governmental Direction and Interference"). Verified verbatim against the [wiki's full text](/wiki/progress-and-poverty-full-text/) ([Project Gutenberg #55308](https://www.gutenberg.org/ebooks/55308)) — used for George's own primary-source distinction between his tax-based remedy and "socialistic" governmental regulation (D-claim; quotations from a public-domain work, EDITORIAL §3b).

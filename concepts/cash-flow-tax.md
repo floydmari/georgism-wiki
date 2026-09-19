@@ -70,14 +70,14 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
   (combined marginal rate 78%) operates on an explicit **cash-flow basis with
   immediate expensing and cash refund of the tax value of losses** — as close
   to a textbook rent tax as exists anywhere, applied to a resource domain where
-  the rent is least contested. Verified against the official norskpetroleum.no
-  page (2026-07-06): "a cash-flow based tax was introduced in the special tax"
-  from income year 2022; "investments are deducted immediately"; the special
+  the rent is least contested. The official norskpetroleum.no description states
+  that "a cash-flow based tax was introduced in the special tax" from income
+  year 2022; that "investments are deducted immediately"; that the special
   rate "was technically increased from 56 to 71.8 per cent" to keep the
-  combined 78%; and a deduction for the calculated ordinary company tax
+  combined 78%; and that a deduction for the calculated ordinary company tax
   preserves neutrality, with the tax value of losses reimbursed.[8]
-  It coexists with continued investment, though no formal causal evaluation
-  was found this session.
+  It coexists with continued investment, though no formal causal evaluation of
+  it has been located.
 - **Australia's Petroleum Resource Rent Tax** (1988, from Garnaut &
   Clunies Ross's 1975 design) is a cash-flow rent tax with *uplift*
   (carry-forward at interest) instead of loss refunds — and its revenue record
@@ -94,8 +94,8 @@ of the [homevoter problem](/wiki/homevoters-will-block-lvt/).
   literature — [Zwick & Mahon (2017, *AER*)](/wiki/zwick-mahon-expensing/) on
   earlier bonus-depreciation episodes — finds bonus depreciation raised eligible
   investment relative to ineligible investment by **10.4% (2001–2004) and 16.9%
-  (2008–2010)**, concentrated among smaller and cash-constrained firms (verified
-  against the paper this session). The TCJA evaluations
+  (2008–2010)**, concentrated among smaller and cash-constrained firms (figures as
+  reported in the paper). The TCJA evaluations
   (Chodorow-Reich, Smith, Zidar & Zwick 2024) likewise find accelerated
   depreciation generated more investment per revenue dollar than rate cuts.[11]
 
@@ -125,8 +125,9 @@ domains this instrument is proposed for, not to its resource-sector record.
 
 ## Sources
 
-*(All sources corroborated via multiple independent search snippets this session;
-direct fetches proxy-blocked — page-level verification routed to the Hermes work order.)*
+*(All sources corroborated across multiple independent descriptions of the work;
+where a publisher's full text was not publicly accessible at last review,
+page-level verification for it remains outstanding.)*
 
 1. E. Cary Brown (1948), "Business-Income Taxation and Investment Incentives,"
    in *Income, Employment and Public Policy: Essays in Honor of Alvin H. Hansen*
@@ -153,7 +154,7 @@ direct fetches proxy-blocked — page-level verification routed to the Hermes wo
    [CRS analysis](https://www.everycrsreport.com/reports/R44823.html)
 8. Norwegian Petroleum Directorate / Skatteetaten, petroleum tax pages — used
    for the 2022 cash-flow conversion, the 56→71.8% technical special-tax rate,
-   and the 78% combined marginal rate (verified this session).
+   and the 78% combined marginal rate (verified against those pages, 2026-07-06).
    [norskpetroleum.no](https://www.norskpetroleum.no/en/economy/petroleum-tax/)
 9. Callaghan Review (Australian Treasury, 2017), PRRT review; Garnaut &
    Clunies Ross (1975), *Economic Journal* 85(338) — used for the PRRT design,

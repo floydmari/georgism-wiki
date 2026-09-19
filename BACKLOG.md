@@ -502,10 +502,16 @@ provenance — do not re-plan.]**
   grouping. Do not start early; the split touches 400+ pages of links.
 - **learning-paths** — **PARKED by Floyd.** Do not start.
 - **Provenance attestation** (books/economic-theory-in-retrospect, books/rethinking-
-  economics-land-housing) — **still genuinely blocked** (re-verified 2026-07-18: both pages
-  still carry the unresolved `[BLOCKED — legal provenance attestation...]` flag in their
-  `provenance` field); scan-depth upgrades stay frozen until Floyd confirms a legitimately
-  owned/licensed copy of each. Note: Rothstein *Color of Law* (justice page 12,
+  economics-land-housing) — **still genuinely blocked; THIS ENTRY IS NOW THE ONLY RECORD.**
+  On 2026-09-19 the irregularity audit removed the `[BLOCKED — legal provenance
+  attestation...]` markers from both pages' reader-facing Origin lines (EDITORIAL §4b: work
+  items do not publish). The underlying condition is unchanged: the delivering agent named a
+  prohibited acquisition source for each electronic copy in Floyd's private archive
+  (`/Users/OpenClaw/wiki-books/`), so per the free/legal-sources rule no deeper scan or
+  re-extraction from either file may be reused until Floyd confirms a legitimately owned or
+  licensed copy. Content accuracy is not in question — the Blaug quotations are corroborated
+  verbatim against Cleveland (2004) in *AJES*, and the Ryan-Collins page's facts rest on
+  publicly accessible material. Only Floyd can clear the attestation. Note: Rothstein *Color of Law* (justice page 12,
   narratives/land-and-the-black-white-wealth-gap.md) is now cited via secondary sourcing —
   the full book is still wanted for deeper mining but isn't blocking the page.
 - **needs-book-copy channel — now 1 marker, not 8** (re-verified 2026-07-18 against

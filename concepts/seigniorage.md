@@ -144,12 +144,12 @@ more contested than the land case:
    Eurozone/Japan seigniorage-foregone and special-bank-profit estimates, the "principle
    of equity and justice" linking money issuance to the site-value-of-land tax shift, the
    Mason Gaffney TANSTAAFL/TISATAAFL citation, and the national-dividend proposal
-   (B-, C- and D-claims; verified against the full report text this session).
+   (B-, C- and D-claims; verified against the full report text, 2026-07-18).
    [Free PDF (jamesrobertson.com)](http://www.jamesrobertson.com/book/creatingnewmoney.pdf) ·
    [NEF landing page](https://neweconomics.org/2000/05/creating-new-money)
 3. Jaromir Beneš & Michael Kumhof, "The Chicago Plan Revisited," IMF Working Paper
    WP/12/202, 2012 — used for the mainstream-institutional (IMF) engagement with a
    full-reserve/seigniorage-capture monetary architecture and its simulated
    macroeconomic effects (B-claim; not independently verified against the full paper
-   this session — cited for its existence and headline claim, flagged as a simulation
+   at last review — cited for its existence and headline claim, flagged as a simulation
    study). [IMF PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12202.pdf)

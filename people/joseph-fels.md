@@ -71,7 +71,7 @@ Saratoga resisted his hired lecturers just as hard.
    dates and birthplace, the Fels-Naptha 1894 date, the ~1890 conversion to
    George, the Fels Fund (1909), and the colony funding (Fairhope 1894, Arden
    1900, Mayland/Essex 1906). Facts verified against this biography and the
-   corroborating Fels literature this session.
+   corroborating Fels literature (2026-07-18).
    [Internet Archive](https://archive.org/details/josephfelssingle00dudd)
 3. Mason Gaffney & Fred Harrison, *The Corruption of Economics* (1994), Gaffney
    essay Ch. 3 — used for Post's 1903 Cooper Union debate against Clark and for

@@ -75,10 +75,10 @@ land rents and gains, Gaffney's claim is that the country briefly had "a species
 of national 'graded tax plan,' uptaxing land and downtaxing capital" — a policy
 episode he reads as informal, unrecognized confirmation that relieving capital
 investment from tax while land remains fully taxed does not require a formal LVT,
-only the *asymmetric* tax treatment this page's efficiency argument calls for. (D-claim:
+only the *asymmetric* tax treatment this page's efficiency argument calls for —
 historical interpretation and institutional lineage in an advocacy essay, not a
-policy evaluation with a counterfactual — no study isolating the 1960s
-depreciation reforms' growth effect from the era's other policy changes is cited.)
+policy evaluation with a counterfactual, and no study isolating the 1960s
+depreciation reforms' growth effect from the era's other policy changes is cited.
 
 ## Counter-Evidence and Limits
 

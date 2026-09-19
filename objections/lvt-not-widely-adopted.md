@@ -117,14 +117,14 @@ promise the historical record has not yet been allowed to test.**
 
 1. Coverage of Altoona, Pennsylvania's land-value-only tax and its 2016 repeal — used for the
    fact that Altoona was the sole US city relying on a pure land value tax (c. 2011–2016) and
-   repealed it in 2016 amid "administrative complexity and politics" (A-claim; verified this
-   session via the Land + Economic Prosperity report and the *Altoona Mirror*, June 2016).
+   repealed it in 2016 amid "administrative complexity and politics" (A-claim; verified
+   (2026-07-13) against the Land + Economic Prosperity report and the *Altoona Mirror*, June 2016).
    [LEP](https://www.economicpossibility.org/insights/the-municipality-of-altoona-pa-tried-shifting-to-a-land-value-tax-but-ultimately) ·
    [Altoona Mirror](https://www.altoonamirror.com/news/local-news/2016/06/city-council-decides-to-cut-land-value-tax/)
 2. Finance Act 1931, Part III (Land Value Tax); repealed by the Finance Act 1934 — used for the
    1931 UK land value tax (1d per £ of land value, first charge for the year ending 31 March
-   1934) and its repeal before collection (A-claim; verified via the legislation text and
-   Hansard this session). [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/1931/28) ·
+   1934) and its repeal before collection (A-claim; verified against the legislation text and
+   Hansard, 2026-07-13). [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/1931/28) ·
    [Hansard, Repeal of Land Value Tax, 1934](https://hansard.parliament.uk/commons/1934-06-05/debates/560ad57c-5259-4511-baa9-856eb72c2152/Clause25%E2%80%94(RepealOfLandValueTax))
 3. The adoption record beyond these two cases is carried on the wiki's own place and objection
    pages, cited there: [Pennsylvania](/wiki/pennsylvania/), [Pittsburgh](/wiki/pittsburgh/),

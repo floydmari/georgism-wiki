@@ -28,8 +28,8 @@ year: 2009
 ## Summary
 
 Dirk Bezemer (University of Groningen) assembled the documented public record of
-who anticipated the 2008 credit crisis *in advance, with reasoning*. On a direct
-read of the MPRA text, four selection criteria were applied: the analyst had to
+who anticipated the 2008 credit crisis *in advance, with reasoning*. The MPRA text
+applies four selection criteria: the analyst had to
 (1) give "some account on how they arrived at their conclusions"; (2) go beyond
 predicting a real-estate crisis to also "making the link to real-sector
 recessionary implications, including an analytical account of those links";
@@ -44,7 +44,7 @@ column.[1][2]
 The twelve are Dean Baker, Wynne Godley, [Fred Harrison](/wiki/fred-harrison/),
 Michael Hudson, Eric Janszen, Steve Keen, Jakob Brøchner Madsen & Jens Kjaer
 Sørensen (a professor–graduate-student pair), Kurt Richebächer, Nouriel Roubini,
-Peter Schiff, and Robert Shiller.[1] **Correction on direct read:** of the two
+Peter Schiff, and Robert Shiller.[1] Of the two
 Georgist predictors the wiki tracks, only **Harrison** appears in Bezemer's list;
 **[Fred Foldvary](/wiki/fred-foldvary/) is *not* among Bezemer's twelve** and is
 nowhere named in the paper. Foldvary's own 2008 forecast record stands on its own
@@ -72,7 +72,7 @@ Table 1 entry quotes his 2005 call that "the next property market tipping point 
    [IDEAS](https://ideas.repec.org/p/pra/mprapa/15892.html) — used for thesis,
    method, venue, the verbatim four selection criteria, the twelve-analyst Table 1
    roster (and the verified fact that Foldvary is not among them), and the Harrison
-   quotation; full text read directly in this pass.
+   quotation; read in full (2026-07-12).
 2. Dirk J. Bezemer, "'No one saw this coming' – or did they?" VoxEU/CEPR column.
    [CEPR](https://cepr.org/voxeu/columns/no-one-saw-coming-or-did-they) — used as
    the author's own summary of the paper (A-claim).

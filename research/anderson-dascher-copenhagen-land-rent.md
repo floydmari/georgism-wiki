@@ -74,12 +74,11 @@ the wiki's existing capitalization and assessment-quality caveats.
 
 ## Nuances and Limits
 
-- **Full article body remains paywalled**; no open-access copy exists per Unpaywall. This
-  page is built from the complete, verbatim abstract (B-claim) rather than the paper's
-  methodology, evidence, or case detail — specific policies and the identity of the "single
-  state-owned entity" (likely, though not confirmed in the abstract itself, related to
-  Copenhagen's well-known By & Havn public development corporation model) are not
-  independently verified here.
+- **Full article body remains paywalled**; no open-access copy has been located. The account
+  here rests on the complete, verbatim abstract rather than on the paper's methodology,
+  evidence, or case detail — specific policies and the identity of the "single state-owned
+  entity" (likely, though not confirmed in the abstract itself, related to Copenhagen's
+  well-known By & Havn public development corporation model) remain unconfirmed.
 - **Single-city case study**, sharing a theoretical framework and lead author with the
   companion Kyoto paper, but examining a structurally different mechanism (state monopoly
   rent via a public development corporation, rather than heritage-driven cultural rent by
@@ -106,9 +105,9 @@ the wiki's existing capitalization and assessment-quality caveats.
 1. Matthew B. Anderson & Erin D. Dascher (2026), "The land rent dynamics of public land
    development in Copenhagen," *Urban Geography* 47(6): 1368–1394, published online 12 June
    2026, DOI 10.1080/02723638.2026.2682863.
-   [doi.org](https://doi.org/10.1080/02723638.2026.2682863) — full abstract fetched directly
-   from the live Taylor & Francis page 2026-08-29 (article body paywalled, no open-access
-   copy per Unpaywall) — used for the state-monopoly-rent argument, the debt-financing/
+   [doi.org](https://doi.org/10.1080/02723638.2026.2682863) — full abstract read on the
+   publisher's page, 2026-08-29 (article body paywalled; no open-access copy located)
+   — used for the state-monopoly-rent argument, the debt-financing/
    social-welfare tension conclusion, the Bernt (2022) "commodification gap" theoretical
    anchor, and the footnoted class-monopoly-rent/absolute-rent distinction, all quoted
    directly from the abstract above (B-claim; abstract and metadata, not full body text).

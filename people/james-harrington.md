@@ -58,5 +58,5 @@ own ways.[1]
 2. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback
    Scam* (2006), Prologue, Ch. 7.2, Ch. 13.2 — used for situating Harrington
    in the land-power lineage this wiki traces toward George (B-claim,
-   locator given; not independently page-verified in this session).
+   locator given; not independently page-verified).
    [Book page](/wiki/harrison-ricardos-law/)

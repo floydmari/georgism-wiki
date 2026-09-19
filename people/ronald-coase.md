@@ -28,7 +28,7 @@ Coase was not a Georgist and did not write about land value taxation. His releva
 
 ## Sources
 
-1. "Ronald Coase," Wikipedia, retrieved 2026-07-11 — used for biographical dates, academic positions, and the "Nature of the Firm"/"Problem of Social Cost" publication history (directly verified this session). [Wikipedia](https://en.wikipedia.org/wiki/Ronald_Coase)
+1. "Ronald Coase," Wikipedia, retrieved 2026-07-11 — used for biographical dates, academic positions, and the "Nature of the Firm"/"Problem of Social Cost" publication history (directly verified, 2026-07-11). [Wikipedia](https://en.wikipedia.org/wiki/Ronald_Coase)
 2. Royal Swedish Academy of Sciences, "Ronald Coase — Facts," The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 1991 — used for the Nobel citation wording. [NobelPrize.org](https://www.nobelprize.org/prizes/economic-sciences/1991/coase/facts/)
 3. Ronald H. Coase (1959), "The Federal Communications Commission," *Journal of Law & Economics* 2, 1–40 — used for the spectrum-pricing proposal, corroborated against the wiki's existing [Spectrum Auctions](/wiki/spectrum-auctions/) page, which cites the same article. [JSTOR](https://www.jstor.org/stable/724927)
 4. Eric Posner & Glen Weyl (2018), *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*, Princeton University Press — the discovery source (Intro, Ch. 1) situating Coase's property-rights framing within the book's argument. [Publisher](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)

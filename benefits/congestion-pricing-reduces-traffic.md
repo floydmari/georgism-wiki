@@ -131,7 +131,7 @@ typically earmarked for transit; see
    charging system," *Transportation Research Part A* 43(4), 468–480 — used for the
    social surplus, the ~4-year social (≈3.3-year financial) payback, and the
    6.3–7.6 billion SEK NPV, all built on measured 2006 trial data (verified against
-   the paper this session).
+   the paper, 2026-07-13).
    [PDF](https://f.hubspotusercontent30.net/hubfs/4056033/A%20cost%E2%80%93benefit%20analysis%20of%20the%20Stockholm%20congestion%20charging%20system.pdf) ·
    [RePEc](https://ideas.repec.org/a/eee/transa/v43y2009i4p468-480.html)
 2. Maria Börjesson, Jonas Eliasson, Muriel B. Hugosson & Karin Brundell-Freij
@@ -143,13 +143,13 @@ typically earmarked for transit; see
    charge — effects, design and politics," *Transportation Research Part A*; and the
    Gothenburg referendum literature — used for the January 2013 introduction, the
    September 2014 referendum (57% against), and the council's decision to retain the
-   charge to fund the rail tunnel (verified via multiple sources this session).
+   charge to fund the rail tunnel (verified against multiple sources, 2026-07-13).
    [PDF](https://www.transportportal.se/swopec/CTS2014-25.pdf)
 4. Cody Cook, Aboudy Kreidieh, Shoshana Vasserman, Hunt Allcott, Neha Arora, Freek van
    Sambeek, Andrew Tomkins & Eray Turkel (2025), "The Short-Run Effects of Congestion
    Pricing in New York City," NBER Working Paper 33584 (March 2025, revised January 2026)
    — used for the 11% CBD-speed increase, the metro-wide spillover to unpriced trips, and
    the ≥$14.3 million/week driver-welfare gain (before revenue/environmental benefits) from
-   the first US cordon scheme (B-claim; verified verbatim this session, see the dedicated
+   the first US cordon scheme (B-claim; verified verbatim 2026-07-13, see the dedicated
    [research page](/wiki/cook-nyc-congestion-pricing/)). DOI
    [10.3386/w33584](https://doi.org/10.3386/w33584)

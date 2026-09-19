@@ -60,11 +60,11 @@ almost no tax — and improving the site *raises* the bill.
 
 ### Neeson: Enclosure Creating Vacancy and Underuse
 
-J. M. Neeson's *Commoners* (1993) documents that parliamentary enclosure in England (1700–1820) created a form of speculative vacancy and underuse at the systemic level. Before enclosure, common waste — uncultivated common land — was a vital productive resource: pasture for livestock, fuel (turf, furze, wood), building materials, wild foods, and fibres. Neeson argues that waste was not "waste" in the modern sense but a productive commons supporting the poorest members of the community (Neeson 1993, Ch. 6, pp. 158–184). (B-claim; empirical)
+J. M. Neeson's *Commoners* (1993) documents that parliamentary enclosure in England (1700–1820) created a form of speculative vacancy and underuse at the systemic level. Before enclosure, common waste — uncultivated common land — was a vital productive resource: pasture for livestock, fuel (turf, furze, wood), building materials, wild foods, and fibres. Neeson argues that waste was not "waste" in the modern sense but a productive commons supporting the poorest members of the community (Neeson 1993, Ch. 6, pp. 158–184).
 
-After enclosure, this previously productive common land was converted to private use that was often less intensive or less socially productive. At Burton Latimer, publicly used land was significantly reduced after enclosure (Neeson 1993, Table 7.4, p. 212), and owner-occupier holdings declined sharply (Tables 7.5–7.7, pp. 217–219). The land was not necessarily left physically vacant, but its use was narrowed and its benefits were captured by fewer hands — a historical analogue to the modern pattern of speculative underuse of valuable sites. (A-claim; factual)
+After enclosure, this previously productive common land was converted to private use that was often less intensive or less socially productive. At Burton Latimer, publicly used land was significantly reduced after enclosure (Neeson 1993, Table 7.4, p. 212), and owner-occupier holdings declined sharply (Tables 7.5–7.7, pp. 217–219). The land was not necessarily left physically vacant, but its use was narrowed and its benefits were captured by fewer hands — a historical analogue to the modern pattern of speculative underuse of valuable sites.
 
-This historical case illustrates that "vacancy" and "underuse" need not mean literal emptiness: the withholding of productive common land from its previous users is an economic form of speculative vacancy, even when the land remains in some form of production. (D-claim; interpretive)
+This historical case illustrates that "vacancy" and "underuse" need not mean literal emptiness: the withholding of productive common land from its previous users is an economic form of speculative vacancy, even when the land remains in some form of production.
 
 See: [Commoners (Neeson)](/wiki/commoners-neeson/)
 
@@ -74,7 +74,7 @@ Ebenezer Howard's *Garden Cities of To-morrow* (1902) proposes an explicit anti-
 
 > "The entire increment of value gradually created becomes the property of the municipality, with the effect that though rents may rise, and even rise considerably, such rise in rent will not become the property of private individuals, but will be applied in relief of rates." (Howard 1902, Ch. II)
 
-By communalizing land ownership and capturing the unearned increment for public benefit, Howard's model eliminates the incentive to hold land speculatively vacant. The gardener or builder who uses the land productively benefits; the speculator who withholds it does not, because the rising value flows to the community, not the title-holder. This is the same mechanism a [land value tax](/wiki/land-value-tax/) provides — making idle land-holding costly — but applied through communal ownership rather than taxation. (C-claim; theoretical)
+By communalizing land ownership and capturing the unearned increment for public benefit, Howard's model eliminates the incentive to hold land speculatively vacant. The gardener or builder who uses the land productively benefits; the speculator who withholds it does not, because the rising value flows to the community, not the title-holder. This is the same mechanism a [land value tax](/wiki/land-value-tax/) provides — making idle land-holding costly — but applied through communal ownership rather than taxation.
 
 See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 

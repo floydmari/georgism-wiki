@@ -21,19 +21,19 @@ Barnes's central thesis is that capitalism's "operating system" — which he lab
 
 ### The Operating System Metaphor
 
-Barnes argues that capitalism, like a computer, is "run by an operating system" that "gives too much power to profit-maximizing corporations that devour the commons" (Barnes 2006, p. 2). He frames the solution as an "upgrade" analogous to software: "you do what Bill Gates does: you upgrade the operating system" (Barnes 2006, Ch. 1). (C-claim; theoretical)
+Barnes argues that capitalism, like a computer, is "run by an operating system" that "gives too much power to profit-maximizing corporations that devour the commons" (Barnes 2006, p. 2). He frames the solution as an "upgrade" analogous to software: "you do what Bill Gates does: you upgrade the operating system" (Barnes 2006, Ch. 1).
 
 ### Capitalism 1.0 and 2.0
 
-Barnes periodizes capitalism: version 1.0 "died around 1950" and was replaced by the current corporate, globalized version 2.0 (Barnes 2006, Ch. 2). The shift from 1.0 to 2.0 involved the rise of large corporations and the financialization of the economy. (D-claim; interpretive)
+Barnes periodizes capitalism: version 1.0 "died around 1950" and was replaced by the current corporate, globalized version 2.0 (Barnes 2006, Ch. 2). The shift from 1.0 to 2.0 involved the rise of large corporations and the financialization of the economy.
 
 ### The Tragedy of the Commons Reframed
 
-Barnes reframes Garrett Hardin's "tragedy of the commons" as "a pair of tragedies: first a tragedy of the market, which has no way of curbing its own excesses, and second a tragedy of government, which fails to protect the atmosphere because polluting corporations are powerful and future generations don't vote" (Barnes 2006, Ch. 1). (C-claim; theoretical)
+Barnes reframes Garrett Hardin's "tragedy of the commons" as "a pair of tragedies: first a tragedy of the market, which has no way of curbing its own excesses, and second a tragedy of government, which fails to protect the atmosphere because polluting corporations are powerful and future generations don't vote" (Barnes 2006, Ch. 1).
 
 ### The Sky Trust Proposal
 
-Barnes's earlier "sky trust" proposal — a trust to manage the atmosphere on behalf of future generations, charging dumpers and paying dividends to citizens — is presented as the prototype for commons trusts (Barnes 2006, Ch. 1). He notes that Monopoly was "invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George" (Barnes 2006, Ch. 1). (A-claim; factual)
+Barnes's earlier "sky trust" proposal — a trust to manage the atmosphere on behalf of future generations, charging dumpers and paying dividends to citizens — is presented as the prototype for commons trusts (Barnes 2006, Ch. 1). He notes that Monopoly was "invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George" (Barnes 2006, Ch. 1).
 
 ### The Commons Trust Model
 
@@ -43,11 +43,10 @@ Barnes proposes commons trusts as "market-based legal entities with the power to
 2. Trusts charge for use of scarce common assets (atmosphere, spectrum, water)
 3. Revenue distributed as per-capita dividends to all citizens
 4. Operations market-based after initial property rights assignment, without ongoing government intervention
-(C-claim; theoretical)
 
 ### The Schumacher Influence
 
-Barnes cites E.F. Schumacher's *Small Is Beautiful* (1973) as a formative influence, arguing that capitalism is "dangerously out of sync with both nature and the human psyche" (Barnes 2006, Ch. 1). His own entrepreneurial experience with solar energy and Working Assets tested whether business could serve multiple bottom lines. (D-claim; interpretive)
+Barnes cites E.F. Schumacher's *Small Is Beautiful* (1973) as a formative influence, arguing that capitalism is "dangerously out of sync with both nature and the human psyche" (Barnes 2006, Ch. 1). His own entrepreneurial experience with solar energy and Working Assets tested whether business could serve multiple bottom lines.
 
 ## Policy Recommendations
 

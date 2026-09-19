@@ -25,4 +25,4 @@ Jevons's relationship to the land question was double-edged. He was a pioneer of
 ## Sources
 
 1. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997) — used for Jevons's role in the marginal revolution and his academic career (A-claims; book locators pending fuller scan). [Book page](/wiki/economic-theory-in-retrospect/)
-2. William Stanley Jevons, *The Theory of Political Economy*, 2nd ed. (1879), Preface — used for the "property is only another name for monopoly" quotation, verified this session. [Wikiquote](https://en.wikiquote.org/wiki/William_Stanley_Jevons)
+2. William Stanley Jevons, *The Theory of Political Economy*, 2nd ed. (1879), Preface — used for the "property is only another name for monopoly" quotation, verified verbatim (2026-07-11). [Wikiquote](https://en.wikiquote.org/wiki/William_Stanley_Jevons)

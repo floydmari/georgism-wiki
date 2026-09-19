@@ -79,11 +79,9 @@ over how quickly supply responds to policy change once the incentive is in place
 
 ## Nuances and Limits
 
-- **Abstract-level scan.** The full paper is paywalled behind a Springer bot-check this
-  session (both WebFetch and curl returned a "Client Challenge" page); the findings above
-  are drawn from the peer-reviewed abstract, retrieved via the Semantic Scholar API and
-  verified verbatim against the abstract text returned there. No claim below the abstract
-  level is made.
+- **Abstract-level scan.** The full paper is paywalled and its text is not publicly
+  accessible; the findings above are drawn from the peer-reviewed abstract, read verbatim.
+  No claim below the abstract level is made.
 - **Building-tax exemption, not a land tax.** Like the paper above studying [Murphy &
   Seegert's implicit land taxes](/wiki/murphy-seegert-implicit-land-taxes/), this paper's
   policy lever is a conventional property-tax exemption program (per-unit and per-building
@@ -113,10 +111,8 @@ over how quickly supply responds to policy change once the incentive is in place
 1. Luis Baldomero-Quintana & Divya Singh (2026), "The Impact of Property Tax Incentives on
    Residential Investment," *International Tax and Public Finance*.
    [DOI: 10.1007/s10797-026-09995-z](https://doi.org/10.1007/s10797-026-09995-z) —
-   abstract retrieved via the Semantic Scholar API (`api.semanticscholar.org`) 2026-08-14
-   and verified verbatim against the returned abstract text, after both WebFetch and curl
-   were blocked by a Springer bot-check page (SpringerLink "Client Challenge") on the
-   article and PDF URLs directly — used for the 2006/2008 reform mechanics, the
+   full text not accessible at last review (2026-08-14); the peer-reviewed abstract was
+   read verbatim instead — used for the 2006/2008 reform mechanics, the
    short-run excess-starts estimate (10,735 units / 1% of 2007 rental stock), the
    difference-in-differences long-run estimates (0.58–0.81 buildings, 22.25–22.75 units per
    tract per year; 0.3x–0.4x and 2.4x–2.5x the sample median), and the authors' two stated

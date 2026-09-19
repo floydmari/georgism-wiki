@@ -34,7 +34,7 @@ As of 2026, the Campaign's Chair is **Murad Qureshi**, a former London Assembly 
 
 ## Sources
 
-1. Labour Land Campaign, "History." [labourland.org/history](https://www.labourland.org/history/) — used for the Campaign's 1983 founding, the mix of professions among its founders, and its advisory work on land use (fetched this session).
+1. Labour Land Campaign, "History." [labourland.org/history](https://www.labourland.org/history/) — used for the Campaign's 1983 founding, the mix of professions among its founders, and its advisory work on land use (read directly, 2026-07-12).
 2. Labour Land Campaign, "Submission to the APPG on Council Housing" (3 January 2024). [PDF](https://www.labourland.org/wp-content/uploads/2024/01/Submission-to-the-APPG-on-Council-Housing-03-01-2024.pdf) — used for the "collection of land rent for public benefit" framing, the 2024 date, and the UK land-concentration/land-value-share figures.
 3. Labour Land Campaign, "Introduction." [labourland.org/introduction](https://www.labourland.org/introduction/) — used for the description as a broad-left voluntary organisation campaigning for a fairer distribution of land wealth, and the fixed-supply-of-land argument.
 4. Labour Land Campaign, "Policy." [labourland.org/policy](https://www.labourland.org/policy/) — used for the Campaign's responses to Labour Party and government consultations, its conference resolutions, and its publicising of senior-Labour LVT endorsements.

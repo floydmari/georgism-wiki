@@ -38,6 +38,6 @@ Mason Gaffney and Fred Harrison's *[The Corruption of Economics](/wiki/gaffney-h
    Science Quarterly* 37(1), 41–68 — [Oxford Academic listing](https://academic.oup.com/psq/article/37/1/41/7258136)
    (abstract/landing page free; full text paywalled) — the primary article
    Gaffney and Harrison cite for Commons's land-value-tax proposal and fortune
-   estimate; not independently read in full this session.
+   estimate; not independently read in full at last review.
 
-**Verification note.** A direct quotation or page locator from Commons (1922) for the "95% of millionaire fortunes" figure, and independent confirmation of the exact wording and context of the Grimstad Bill's provisions, were not located this pass; this stub relies on the secondary account in Gaffney & Harrison.
+**Verification note.** A direct quotation or page locator from Commons (1922) for the "95% of millionaire fortunes" figure, and independent confirmation of the exact wording and context of the Grimstad Bill's provisions, have not been located; this page relies on the secondary account in Gaffney & Harrison.

@@ -31,39 +31,37 @@ The book is organized in seven parts (Daly 1999, pp. 7–11):
 - **Part VI**: On Money (Ch. 17)
 - **Part VII**: On Purpose (Ch. 18–20)
 
-(A-claim; factual)
-
 ### Uneconomic Growth
 
-Daly's central concept is "uneconomic growth" — growth that costs more in sacrificed ecosystem services than it contributes in value of production (Ch. 2). He traces this concept "in theory, in fact, in history, and in relation to globalization" (Daly 1999, p. 7). (C-claim; theoretical)
+Daly's central concept is "uneconomic growth" — growth that costs more in sacrificed ecosystem services than it contributes in value of production (Ch. 2). He traces this concept "in theory, in fact, in history, and in relation to globalization" (Daly 1999, p. 7).
 
 ### The Throughput Concept
 
-Daly distinguishes the economy's "throughput" — the flow of matter-energy from nature, through the economy, and back to nature — from the stock of capital and labor. The economy as subsystem is constrained by the larger ecosystem's finite, non-growing, materially closed nature (Daly 1999, p. 14). (F-claim; definition)
+Daly distinguishes the economy's "throughput" — the flow of matter-energy from nature, through the economy, and back to nature — from the stock of capital and labor. The economy as subsystem is constrained by the larger ecosystem's finite, non-growing, materially closed nature (Daly 1999, p. 14).
 
 ### The Entropy Law and Economics
 
-Daly argues the entropy law (Second Law of Thermodynamics) is "relevant to the economics of natural resource scarcity" (Ch. 12, originally in *Journal of Environmental Economics and Management* 23, 1992). He critiques the Solow/Stiglitz production function for treating matter and energy as infinitely substitutable, calling it "alchemy" (Ch. 10). (C-claim; theoretical)
+Daly argues the entropy law (Second Law of Thermodynamics) is "relevant to the economics of natural resource scarcity" (Ch. 12, originally in *Journal of Environmental Economics and Management* 23, 1992). He critiques the Solow/Stiglitz production function for treating matter and energy as infinitely substitutable, calling it "alchemy" (Ch. 10).
 
 ### The Farewell Lecture to the World Bank
 
-Daly's farewell lecture (Ch. 6), delivered at the World Bank on January 14, 1994, and published in *Beyond Bretton Woods* (1994), summarizes his critique of growth economics as practiced in development institutions (Daly 1999, p. 7). (D-claim; interpretive)
+Daly's farewell lecture (Ch. 6), delivered at the World Bank on January 14, 1994, and published in *Beyond Bretton Woods* (1994), summarizes his critique of growth economics as practiced in development institutions (Daly 1999, p. 7).
 
 ### Critique of Julian Simon
 
-Ch. 3, "Ultimate confusion: the economics of Julian Simon" (originally in *Futures* 17(5), 1985), critiques Simon's cornucopian economics and the claim that resources are effectively infinite through substitution and technological progress (Daly 1999, p. 7). (E-claim; objection)
+Ch. 3, "Ultimate confusion: the economics of Julian Simon" (originally in *Futures* 17(5), 1985), critiques Simon's cornucopian economics and the claim that resources are effectively infinite through substitution and technological progress (Daly 1999, p. 7).
 
 ### Population and Development
 
-Ch. 13 reviews *Population Growth and Economic Development: Policy Questions* (Population and Development Review 12(3), 1986). Ch. 14 critiques Becker and Tomes's Chicago School individualism as applied to reproductive decisions (Journal of Economic Issues, 1982) (Daly 1999, pp. 8–9). (E-claim; objection)
+Ch. 13 reviews *Population Growth and Economic Development: Policy Questions* (Population and Development Review 12(3), 1986). Ch. 14 critiques Becker and Tomes's Chicago School individualism as applied to reproductive decisions (Journal of Economic Issues, 1982) (Daly 1999, pp. 8–9).
 
 ### Globalization as "Last Gasp"
 
-Daly frames globalization as "growth economics' last gasp" — the attempt to overcome national limits to growth by expanding the scale of economic activity globally (Part V, Ch. 16, reviewing Dani Rodrik's *Has Globalization Gone Too Far?*) (Daly 1999, p. 10). (D-claim; interpretive)
+Daly frames globalization as "growth economics' last gasp" — the attempt to overcome national limits to growth by expanding the scale of economic activity globally (Part V, Ch. 16, reviewing Dani Rodrik's *Has Globalization Gone Too Far?*) (Daly 1999, p. 10).
 
 ### Free Trade Critique
 
-Ch. 15, "Free trade, sustainable development and growth: some serious contradictions" (Population and Environment 14(4), 1993), argues that free trade conflicts with sustainable development goals (Daly 1999, p. 9). (C-claim; theoretical)
+Ch. 15, "Free trade, sustainable development and growth: some serious contradictions" (Population and Environment 14(4), 1993), argues that free trade conflicts with sustainable development goals (Daly 1999, p. 9).
 
 ## Policy Recommendations
 

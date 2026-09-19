@@ -101,9 +101,9 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
 - **Source tier.** This page's primary source is a business-intelligence explainer site,
   not a government or peer-reviewed source. The specific royalty rates and PRRT mechanics
   described are consistent with publicly available Australian Treasury and state-revenue
-  documentation but were not independently cross-checked against primary government
-  sources this session; treat the specific numbers as B/C-claims pending verification
-  against ATO/Treasury/WA Department of Mines primary documents.
+  documentation, but have not been checked against those primary government sources; the
+  specific numbers should be treated as provisional pending verification against
+  ATO/Treasury/WA Department of Mines primary documents.
 - **No independent confirmation of the MRRT's exact revenue shortfall figure** — the source
   states it raised "a small fraction of billions in projections" without a precise number;
   this page does not assert a specific revenue figure for that reason.
@@ -127,7 +127,7 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
 
 1. "Australia Mining Royalties, PRRT and Resource Rent Tax Explained," Kurums.com (2026).
    [kurums.com](https://kurums.com/australia-mining-royalties-prrt-resource-rent/) —
-   article fetched and read 2026-08-14 — used for the WA iron-ore and Queensland coal
+   read in full, 2026-08-14 — used for the WA iron-ore and Queensland coal
    royalty rate structures, the royalty-vs-rent-tax distinction quotation, the PRRT's 40%
    profits-based design and 2023/2024 deduction-cap reform, and the MRRT's 2012–2014
    history and royalty-crediting design flaw. Business-intelligence source, not government
@@ -136,7 +136,7 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
 2. Diane Kraal (2026), "Richard Denniss is calling for a gas export tax, but an effective
    royalty system would be a better option," *The Conversation*, August 2026.
    [theconversation.com](https://theconversation.com/richard-denniss-is-calling-for-a-gas-export-tax-but-an-effective-royalty-system-would-be-a-better-option-289720) —
-   article fetched and read directly 2026-09-03 — used for the AU$282bn carried-forward
+   read in full, 2026-09-03 — used for the AU$282bn carried-forward
    expenditure figure, the Queensland onshore-gas royalty-reintroduction case, the WA 15%
    domestic gas reservation, and the 2017 Callaghan Review finding (§"2026 Update" above).
    Author is an academic (Monash Business School) writing in a policy-commentary venue, not

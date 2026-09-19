@@ -80,11 +80,11 @@ validation with real nuance, not an uncomplicated endorsement.
    [royalholloway.ac.uk](https://www.royalholloway.ac.uk/)
 2. LSE Centre for Macroeconomics — used for Hirano's Research Associate affiliation.
 3. Canon Institute for Global Studies — used for Hirano's Research Fellow affiliation
-   (searched 2026-08-18; the institute's own site returned a DNS error to this session's
-   fetcher, so this affiliation is corroborated via secondary listings — CEPR and Google
+   (searched 2026-08-18; the institute's own site was not reachable at last review, so
+   this affiliation is corroborated via secondary listings — CEPR and Google
    Scholar author profiles — rather than read directly).
 4. researchmap.jp author profile for Tomohiro Hirano — [researchmap.jp/tomohih](https://researchmap.jp/tomohih/?lang=english) —
-   fetched and read 2026-08-18; used for the PhD in Economics from the University of
+   read 2026-08-18; used for the PhD in Economics from the University of
    Tokyo and his early-career position there. Page notes it was last substantively updated
    in 2012, predating his current Royal Holloway/LSE/Canon Institute positions, which are
    independently confirmed by sources 1–3.
@@ -92,7 +92,7 @@ validation with real nuance, not an uncomplicated endorsement.
    Financial Frictions," *Review of Economic Studies* 84(1): 406–443. [DOI/IDEAS
    record](https://ideas.repec.org/a/oup/restud/v84y2017i1p406-443..html) — used for the
    title, venue, and year of this earlier, non-Stiglitz collaboration (title/venue-level
-   confirmation; full text not read this session).
+   confirmation; full text not read).
 6. Tomohiro Hirano, Masaru Inaba & Noriyuki Yanagawa (2015), "Asset Bubbles and Bailout,"
    *Journal of Monetary Economics* 76 — used for the title, venue, and year of this
-   earlier paper (title/venue-level confirmation; full text not read this session).
+   earlier paper (title/venue-level confirmation; full text not read).

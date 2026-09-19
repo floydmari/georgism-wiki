@@ -45,16 +45,16 @@ increment tax.
 
 ## Nuances and Limits
 
-- **Full text not independently verified.** This page is built from the paper's abstract;
-  the CIRIEC-España full text was Cloudflare-gated to this session. The paper is in Spanish;
-  this summary is translated/paraphrased from the abstract, not a full-text read.
+- **Abstract-level summary.** Only the abstract of the CIRIEC-España paper is publicly
+  available, and the summary here rests on it. The paper is in Spanish; the summary is
+  translated and paraphrased from the abstract, not from a full-text read.
 - **No documented policy outcome.** Unlike Sun Yat-sen's traceable path to Taiwan's land
   value increment tax, no specific Spanish land-tax legislation or implementation is claimed
   to have resulted from Senador Gómez's advocacy in the available abstract; this page should
   not be read as documenting a Spanish Georgist policy success, only an intellectual
   reception history.
 - **"One of the most influential" is the paper's own characterization**, not independently
-  cross-checked against other historiography of Spanish regeneracionismo in this session.
+  cross-checked against other historiography of Spanish regeneracionismo.
 
 ## Bears On
 
@@ -74,8 +74,8 @@ increment tax.
    Senador Gómez" ["The heritage and evolution of Spanish Georgism: the case of Julio
    Senador Gómez"], *CIRIEC-España, revista jurídica de economía social y cooperativa*,
    published online 28 November 2025, DOI 10.7203/ciriec-jur.48.28742.
-   [doi.org](https://doi.org/10.7203/ciriec-jur.48.28742) — full-text fetch blocked
-   (Cloudflare) to this session 2026-08-25; summary drawn from the Crossref-indexed abstract,
+   [doi.org](https://doi.org/10.7203/ciriec-jur.48.28742) — full text not accessible at
+   last review (2026-08-25); summary rests on the Crossref-indexed abstract,
    translated from Spanish — used for Senador Gómez's identification as a leading Spanish
    Georgist popularizer, his regeneracionista affiliation, and the characterization of his
    engagement with Georgist theory as deeper than his contemporaries' (C-claim; abstract-level,

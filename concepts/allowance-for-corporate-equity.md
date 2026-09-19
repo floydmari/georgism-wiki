@@ -76,8 +76,8 @@ an honestly mixed one:
   this, Konings, Lecocq & Merlevede (2022) find Belgium's NID raised foreign
   affiliates' employment by **7.4%** and investment by **6.1%** on average after
   the reform (event-study design; smaller but significant +2.7% for domestic
-  Belgian firms — verified against the *Canadian Journal of Economics* paper,
-  DOI 10.1111/caje.12624, this session).[9] The dispute is live — Hebous–Ruf find
+  Belgian firms — as reported in the *Canadian Journal of Economics* paper,
+  DOI 10.1111/caje.12624).[9] The dispute is live — Hebous–Ruf find
   no *production*-investment effect for multinationals while Konings et al. find
   a positive employment/investment effect concentrated in affiliates; the wiki
   carries both.
@@ -131,11 +131,11 @@ plainly.[12]
 
 ## Sources
 
-*(Most sources below were corroborated via multiple independent search snippets;
-the egress proxy blocked direct fetches to most publishers, so page-level
-verification for those is routed to the Hermes work order. Source 13 was
-fetched and verified verbatim this session via a Wayback Machine snapshot,
-since imf.org itself returns 403 to direct requests.)*
+*(Most sources below were corroborated across multiple independent descriptions
+of the work; for several publishers the full text was not publicly accessible at
+last review, and page-level verification for those remains outstanding. Source 13
+was read and verified verbatim from an Internet Archive snapshot of the IMF
+report.)*
 
 1. IFS Capital Taxes Group (1991), *Equity for Companies: A Corporation Tax for
    the 1990s*, IFS Commentary 26 (with Devereux & Freeman 1991, "A General
@@ -187,7 +187,7 @@ since imf.org itself returns 403 to direct requests.)*
     [AEA](https://www.aeaweb.org/articles?id=10.1257%2Faer.20130570)
 13. IMF (2017), "Belgium: Selected Issues," IMF Country Report No. 17/70, §"The
     Notional Interest Deduction," ¶¶19–21 — used for the ~40%-of-NID-deductions-
-    to-SPVs figure and the 2014 revenue-cost estimate (verified verbatim this
-    session via Wayback Machine, imf.org blocks direct access).
-    [IMF (blocked; use Wayback)](https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf) ·
-    [Wayback snapshot](http://web.archive.org/web/20260124074910/https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf)
+    to-SPVs figure and the 2014 revenue-cost estimate (verified verbatim from the
+    archived copy linked below).
+    [IMF](https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf) ·
+    [Internet Archive snapshot](http://web.archive.org/web/20260124074910/https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf)

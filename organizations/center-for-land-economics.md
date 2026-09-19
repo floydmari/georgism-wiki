@@ -30,7 +30,7 @@ Where older organisations preserve and teach the tradition, the Center for Land 
 
 ## Sources
 
-1. Center for Land Economics — official site, home and "Reports." [landeconomics.org](https://landeconomics.org/home) — used for the Center's mission statement, core thesis, and its 2025 J.M.K. Innovation Prize recognition (fetched this session).
+1. Center for Land Economics — official site, home and "Reports." [landeconomics.org](https://landeconomics.org/home) — used for the Center's mission statement, core thesis, and its 2025 J.M.K. Innovation Prize recognition (read at last review, 2026-07-26).
 2. "Announcing the Center for Land Economics," *Progress and Poverty* Substack, 24 February 2025. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/announcing-the-center-for-land-economics) — used for the February 2025 launch date and the founding by Greg Miller and Lars Doucet.
 3. Center for Land Economics, "About Us." [landeconomics.org/about-us](https://landeconomics.org/about-us) — used for Greg Miller's prior HUD Office of Policy Development and Research role and the co-founders' backgrounds.
 4. Center for Land Economics, "LVTShift." [landeconomics.org/lvtshift](https://landeconomics.org/lvtshift) — used for the description of the open-source LVTShift land-value-tax modelling tool and its capabilities.

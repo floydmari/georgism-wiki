@@ -233,7 +233,7 @@ disappearing the base," not "can't be dodged at all."
    Tried by the Canons of Taxation." [Full text (Project
    Gutenberg)](https://www.gutenberg.org/ebooks/55308) — used for the original
    certainty-of-collection argument attributed to George (C/F-claim; paraphrased, not
-   quoted verbatim, per source-verification limits on this pass).
+   quoted verbatim).
 2. John Norregaard (2013), "Taxing Immovable Property: Revenue Potential and
    Implementation Challenges," *IMF Working Paper* 13/129.
    [PDF](https://www.imf.org/external/pubs/ft/wp/2013/wp13129.pdf) — used for the

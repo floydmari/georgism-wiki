@@ -24,7 +24,7 @@ tags: [land-value-tax, economic-rent, neoclassical-economics, financialisation, 
 - **Year:** 2017
 - **ISBN:** 978-1-78699-118-8 (paperback); 978-1-78699-119-5 (hardback); 978-1-78699-120-1 (pdf); 978-1-78699-121-8 (epub)
 - **Foreword:** John Muellbauer (University of Oxford)
-- **Origin:** electronic copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [BLOCKED — legal provenance attestation still pending; cannot be resolved by a verification fetch. Checked (2026-07-10): the book is a commercial title (Zed Books / Bloomsbury, ~US$24 paperback, ISBN 978-1-78699-118-8), NOT open access — no free/legal full-text copy exists online; only controlled-lending on Internet Archive (`archive.org/details/rethinkingeconom0000ryan`) and paid subscription (Perlego) are available. Because the delivering agent named a prohibited source for this electronic copy, per the free/legal-sources rule the owner (Floyd) must personally confirm a legitimately owned/licensed copy before scan-depth upgrades from this text are re-used. Only the owner can supply that attestation; a verification agent cannot.]
+- **Availability:** a commercial title (Zed Books / Bloomsbury, ~US$24 paperback), not open access — as of 2026 no free, legal full-text copy is published online. The Internet Archive offers controlled digital lending (`archive.org/details/rethinkingeconom0000ryan`) and Perlego a paid subscription. This summary was prepared from a privately held electronic copy of the same edition.
 
 ## Core Thesis
 

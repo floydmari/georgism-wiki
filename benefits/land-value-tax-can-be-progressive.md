@@ -76,7 +76,7 @@ top 10% of industrial property owners held roughly 60% of assessed value — and
 that standard regressivity findings commit a **regression-fallacy**: ranking
 households by income rather than by wealth "practically preordains" a regressive-
 looking result, while ranking by wealth flips the same data progressive. This is
-Gaffney's own argument (C/D-claim; a 1971 conference paper responding to the
+Gaffney's own argument (a 1971 conference paper responding to the
 literature of its moment, not an econometric result, and its own text concedes
 the tax "remains regressive under the best of management" if regressively
 *assessed* — the argument is about the tax's concept, not its administration in

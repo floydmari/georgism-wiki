@@ -76,8 +76,6 @@ even when the efficiency case for it is strong.
   is the formal incidence framework and institutional explanation, built on cited empirical
   literature (Glaeser & Gyourko, Hsieh & Moretti, the Wharton Land Use Regulatory Index)
   rather than original data collection.
-- **Full text read directly, independently confirmed by two separate readings (A-claim).**
-  The complete 21-page paper was read in full, with the abstract verified verbatim.
 
 ## Bears On
 
@@ -100,7 +98,6 @@ even when the efficiency case for it is strong.
    for the Public Choice Society Conference, San Antonio, March 2026, Lund University. Full
    text read directly at
    [lucris.lub.lu.se](https://lucris.lub.lu.se/ws/portalfiles/portal/246348875/Ingemar_Bengtsson_PCS_2026.pdf)
-   2026-08-29 (independently confirmed via two separate full readings, abstract matched
-   verbatim) — used for the Tullock-inspired gains/losses decomposition, the Olson/Hayek
+   on 2026-08-29 (21 pages; abstract verified verbatim) — used for the Tullock-inspired gains/losses decomposition, the Olson/Hayek
    persistence explanation, the bureaucrat typology (via Mueller 2003), and the compensation/
    veto-point reform proposals (A-claim; full text, 21 pages).

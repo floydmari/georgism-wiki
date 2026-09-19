@@ -87,10 +87,10 @@ cross-tradition disagreement rather than a resolved question:
 - A direct citation or quotation from Ryan-Collins, Lloyd & Macfarlane,
   *Rethinking the Economics of Land and Housing* (2017), on Marx's "primitive
   accumulation" critique of land enclosure (Ch. 2) and his suspicion of
-  land-tax-only reform (Ch. 3) could not be verified this session: only
+  land-tax-only reform (Ch. 3) remains unconfirmed against the book: only
   Chapter 1 of the author-accepted manuscript is publicly posted on UCL
-  Discovery, so these chapter locators remain flagged in the wiki's discovery
-  notes rather than confirmed against the text. The page's core account of
+  Discovery, so those chapter locators rest on a secondary summary rather than
+  on the text itself. The page's core account of
   Marx's own position does not depend on them — it rests on his 1881 letter,
   quoted verbatim and primary-verified above.
 
@@ -123,15 +123,15 @@ side's classical statement of the dispute implies.
    — used for both direct quotations ("utterly backward"; "simply an attempt,
    decked out with socialism, to save capitalist domination") and for Marx's
    argument that George's proposal leaves wage labour and capitalist
-   production intact. Primary source, verified against the text this session.
+   production intact. Primary source, verified against the text (2026-07-13).
 2. Fred Harrison, *[Ricardo's Law: House Prices and the Great Tax Clawback
    Scam](/wiki/harrison-ricardos-law/)* (Shepheard-Walwyn, 2006), Ch. 1, p. 51
    — used for the "ogre of the Marxist narrative" quotation and Harrison's
-   state-as-villain counter-framing (verified against the wiki's book
-   research summary of the primary text).
+   state-as-villain counter-framing (verified against a research summary of
+   the book rather than against the primary text).
 3. Josh Ryan-Collins, Laurie Macfarlane & Toby Lloyd, *[Rethinking the
    Economics of Land and Housing](/wiki/rethinking-economics-land-housing/)*
-   (Zed Books, 2017) — cited by the wiki's discovery notes for Marx's
+   (Zed Books, 2017) — cited for Marx's
    primitive-accumulation critique of land enclosure (Ch. 2 §2.2) and his
-   suspicion of land-tax-only reform (Ch. 3 §3.7); flagged above as not yet
-   directly verified against primary text this session.
+   suspicion of land-tax-only reform (Ch. 3 §3.7); as flagged above, these
+   locators rest on a secondary summary and are unconfirmed against the book.

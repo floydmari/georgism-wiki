@@ -22,7 +22,7 @@ The result, in Doucet's charts, is that a DALT-adjusted property tax tracks a pu
 
 ## Historical Precedent
 
-Doucet credits **New York City's 1920s temporary property-tax exemption on new-construction improvement value** — covered in depth on the wiki's own [NYC 1920s tax exemption](/wiki/nyc-1920s-tax-exemption/) research page — as the historical inspiration, citing a Citizens Housing & Planning Council retrospective that ties the exemption to the era's building boom.[2] DALT is presented as Doucet's own formalization and naming of that older tool, not a rediscovery of an existing academic proposal — the piece does not cite prior economics literature proposing a depreciation-schedule abatement as an LVT proxy specifically. [VERIFY: no antecedent academic source for this exact mechanism was found in a search beyond the NYC 1920s policy episode and Doucet's own piece — treat DALT as newly named/formalized in 2026 pending independent citation.]
+Doucet credits **New York City's 1920s temporary property-tax exemption on new-construction improvement value** — covered in depth on the wiki's own [NYC 1920s tax exemption](/wiki/nyc-1920s-tax-exemption/) research page — as the historical inspiration, citing a Citizens Housing & Planning Council retrospective that ties the exemption to the era's building boom.[2] DALT is presented as Doucet's own formalization and naming of that older tool, not a rediscovery of an existing academic proposal — the piece does not cite prior economics literature proposing a depreciation-schedule abatement as an LVT proxy specifically. Apart from the NYC 1920s policy episode and Doucet's own piece, no antecedent academic source for this exact mechanism has been identified, so the mechanism is best treated as newly named and formalized in 2026.
 
 ## What Problem It Solves
 
@@ -34,7 +34,7 @@ It also lowers, rather than eliminates, the assessment burden that the [land-can
 
 - **Works best where buildings depreciate rapidly** — Doucet names Japan, disaster-prone areas with frequently updated building codes, and other rapidly-rebuilding markets as ideal cases; the approximation to a pure LVT is weaker wherever construction is long-lived.[1]
 - **Distorts toward demolition and under-durability in slow-depreciation markets.** Because the exemption expires at a fixed point, it creates a marginal incentive to keep improvement value inside the abatement window — encouraging teardown/rebuild cycles and discouraging investment in durable, long-lived construction, an effect a pure LVT does not share.[1]
-- **Single, untested, non-empirical proposal.** As of this writing DALT has no known real-world implementation or independent academic review; the case for it is a theoretical/design argument (Type C/D claim), not an empirical finding. [VERIFY: no independent economic modelling or evaluation of DALT located as of 2026-07-30.]
+- **Single, untested, non-empirical proposal.** As of 2026 DALT has no known real-world implementation or independent academic review; the case for it is a theoretical and design argument, not an empirical finding, and no independent economic modelling or evaluation of it has been located.
 
 ## See Also
 

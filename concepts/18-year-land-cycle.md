@@ -86,10 +86,10 @@ US railroad boom; Lee's surrender (1865) preceding the second; and the Peace of
 Versailles preceding the 1920s land-and-stock boom that crashed in 1926 (real
 estate) and 1929 (stocks).[7] "The interplay of these two cycles," he writes,
 "explains much of cyclical economic history" — a claim this page treats as an
-attributed, un-tested interpretive framework (D-claim) layered on top of, not a
+attributed, un-tested interpretive framework layered on top of, not a
 substitute for, the endogenous-cycle evidence documented above.
 
-**Priority correction (2026-07-18):** the peace-dividend overlay-cycle thesis
+**Priority note:** the peace-dividend overlay-cycle thesis
 restated in this 2012 lecture is not new to it. Two earlier Gaffney workpapers —
 "[Peace Dividends, Land Bubbles and Economic Disasters in U.S.
 History](/wiki/gaffney-peace-dividends-land-booms/)" (1991) and "Peace Dividends
@@ -134,15 +134,14 @@ crashing in about 2026?" He argues the preconditions were already visible —
 continued policy commitment to reviving land prices as a proxy for prosperity,
 "too big to fail" bank bailouts without accompanying reform, and no post-2008
 equivalent of the Pecora hearings' public reckoning with financial-sector
-misconduct.[7] **Editorial note (dated forecast, unresolved at last review):**
-this page is last reviewed 2026-07-18 — inside the forecast's target window — and
-the wiki has not identified, and has not attempted to independently verify, any
-source confirming or disconfirming a 2026 land-price/banking crash matching
-Gaffney's description. Readers should treat this as an open, as-yet-unadjudicated
+misconduct.[7] **The forecast is still open.** Its target window is only now
+running, and no published source confirming or disconfirming a 2026
+land-price/banking crash of the kind Gaffney describes has been identified.
+Readers should treat this as an open, as-yet-unadjudicated
 Gaffney prediction, not a confirmed data point, and should not infer either
 outcome from its presence on this page.
 
-**An earlier, real-time companion piece (2026-07-18 addition).** Gaffney's
+**An earlier, real-time companion piece.** Gaffney's
 2012 AFEE lecture and 2009 *After the Crash* retrospective (below) were not
 his first statement on the 2008 crash: "The Great Crash of 2008," written 17
 August 2008 while the crisis was still unfolding, states the same Hoyt-cycle
@@ -192,7 +191,7 @@ section (below) describes narratively for 1990-2008: Chicago's basic economy
 the state's canal-building program → back to the local economy — with the
 banks' collateral resting on speculative land value as "the great secret that
 macro-economists never tell."[9] Both notes are workpaper-level historical
-narrative (D-claims, Gaffney's own attributed interpretation of the Hoyt-era
+narrative (Gaffney's own attributed interpretation of the Hoyt-era
 data), not a new empirical dataset, and their 60-fold and 3.6% figures are
 Gaffney's own citations of Carter Goodrich's and Hoyt's underlying sources,
 not independently re-verified here.
@@ -248,7 +247,7 @@ The land cycle reframes the business cycle as substantially a **land-and-credit 
 4. Homer Hoyt (1933), *One Hundred Years of Land Values in Chicago*, University of Chicago Press. [Full text (Internet Archive)](https://archive.org/details/onehundredyearso00hoytrich) — the original empirical study — used for the Chicago land-value data underlying the "History of the Idea" section, which both Harrison and Anderson build on.
 5. Guntermann, K., "The Current Real Estate Cycle," cited in Harrison 2005, Ch. 5 §4, p.82 — used for the 70% speculative premium figure (B-claim; empirical).
 6. Weber, B., house-property sales data for Glasgow 1872–1907, cited in Harrison 2005, Ch. 5 §5, p.86, Table 5.5 — used for the 13.85 years' purchase empirical corroboration (B-claim; empirical).
-7. Mason Gaffney (2012), "Reverberations Between Immoderate Land-Price Cycles and Banking Cycles," Association for Evolutionary Economics (AFEE) annual meeting, Chicago, Jan. 8, 2012, footnoted by Polly Cleveland and John Tepper Marlin — used for the peace-dividend overlay-cycle argument, the Pecora-hearings background, the 1990–2008 "perfect 18-year cycle" claim, and the 2026 forecast (all D/C-claims; Gaffney's own attributed interpretive framework, not independently tested by this wiki). Read in full this session. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf); local mirror at `scratchpad/cache/gaffney-mirror/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf`; extracted text at `sources/gaffney/text/I2012Gaffney_Reverberations_AFEE_lecture_2012.txt`.
+7. Mason Gaffney (2012), "Reverberations Between Immoderate Land-Price Cycles and Banking Cycles," Association for Evolutionary Economics (AFEE) annual meeting, Chicago, Jan. 8, 2012, footnoted by Polly Cleveland and John Tepper Marlin — used for the peace-dividend overlay-cycle argument, the Pecora-hearings background, the 1990–2008 "perfect 18-year cycle" claim, and the 2026 forecast (all D/C-claims; Gaffney's own attributed interpretive framework, not independently tested by this wiki). Read in full, 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf); local mirror at `scratchpad/cache/gaffney-mirror/publications/I2012Gaffney_Reverberations_AFEE_lecture_2012.pdf`; extracted text at `sources/gaffney/text/I2012Gaffney_Reverberations_AFEE_lecture_2012.txt`.
 8. Mason Gaffney, "The U.S. Canal Boom and Bust, 1820-1842," working paper WP001, notes dated May 1993, updated 2009 — used for the 60-fold Chicago land-price rise (1830-36) and the 1837 federal-land-sales collapse to 3.6% of 1836 levels, per Gaffney's own citation of Carter Goodrich, *Government Promotion of American Canals and Railroads* (1960). Read in full 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP001%20The_US_Canal_Boom_and_Bust_1820-42_WP01.pdf); local mirror at `sources/gaffney/text/WP001-USCanalBoomAndBust.txt`.
 9. Mason Gaffney, "Chicago Boom and Bust, 1830-1840: A Cycle of Capital Waste," working paper WP040 — used for the 50,000-vs-4,000 subdivision figure, the positive-feedback-loop diagram, and the "Type A/Type B" land-holder taxonomy in the section above; built in part on Homer Hoyt's data (see [Hoyt (1933)](/wiki/hoyt-chicago-land-values/) for the primary empirical source). Read in full 2026-07-18. [Free PDF (masongaffney.org)](https://masongaffney.org/workpapers/WP040%20Chicago%20boom%20and%20bust%20-%20A%20cycle%20of%20capital%20waste.pdf); local mirror at `sources/gaffney/text/WP040-ChicagoBoomAndBust.txt`.
 10. Mason Gaffney, "The Great Crash of 2008," *Progress* (Melbourne), August 2008; also published in *The Georgist Journal* #110-111 (2008) and as Davies (ed.), *The Great Crash of 2008* (Henry George Institute, 2008) — used for the dated-forecast note below: this real-time essay, written 17 August 2008 as the crisis unfolded, independently lists four Georgist economists (Fred Foldvary, Fred Harrison, Michael Hudson, Bryan Kavanagh) who forecast the crash in print before it happened, extends the historical land-cycle chronology back through the 1720 Mississippi Bubble, the 1630s Amsterdam "Tulip Bubble" (via Eichholtz's housing-price research), and a 1454 Florence peace-dividend boom/bust under the Medici, and states the same `V = a/(i-g)` valuation-plateau algebra later used on [How Land Booms Destroy Capital](/wiki/gaffney-land-booms-destroy-capital/). Read in full 2026-07-18; see also the priority note on [Gaffney (2009), After the Crash](/wiki/gaffney-after-the-crash/). [Free PDF (masongaffney.org)](https://masongaffney.org/essays/Great_Crash_of_2008.pdf); local mirror at `sources/gaffney/text/GreatCrashOf2008.txt`.

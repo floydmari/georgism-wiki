@@ -39,9 +39,7 @@ test to Germany's local land tax (*Grundsteuer B*), which municipalities set via
 local multiplier (*Hebesatz*) on a national base rate, asking whether cross-municipal
 differences in the effective tax rate capitalize into land prices — as standard
 tax-capitalization theory predicts — and whether any of that burden instead shows up
-in rents paid by tenants.[1] The full conference-paper text was fetched and read in
-full this session (2026-07-18), superseding the earlier abstract-only version of this
-page.
+in rents paid by tenants.[1]
 
 ## Data and Method
 
@@ -109,7 +107,7 @@ current and 1961 statutory rates in a GMM specification, and adds a spatial-lag
   capitalization-rate estimate; Büttner's own candidate explanations (assessment-ratio
   measurement error; anticipated appreciation) are plausible but not separately
   tested in the paper.
-- **A conference paper, not (as far as this session could confirm) a journal
+- **A conference paper, and so far as can be established not a journal
   publication.** This should not be confused with Büttner's separate,
   journal-published 2003 paper "Tax base effects and fiscal externalities of local
   capital taxation" (*Journal of Urban Economics* 54(1): 110–128), which concerns
@@ -136,7 +134,7 @@ current and 1961 statutory rates in a GMM specification, and adds a spatial-lag
    on Public Economics, CESifo Conference Centre, Munich, 20–21 June 2003. Free
    full-text PDF (conference-paper scan, gwern archive):
    [gwern.net/doc/economics/georgism/2003-buettner.pdf](https://gwern.net/doc/economics/georgism/2003-buettner.pdf)
-   — **fetched and read in full (2026-07-18)**, superseding the earlier abstract-only
+   — **read in full (2026-07-18)**, superseding the earlier abstract-only
    citation to [economicpossibility.org](https://www.economicpossibility.org/sources/tiebout-visits-germany-land-tax-capitalization-in-a-sample-of-german-municipaliti) —
    used for every finding on this page: the 675-municipality Baden-Württemberg
    sample and descriptive statistics (Table 1), the land-value and rent regressions

@@ -105,7 +105,7 @@ this paper's decomposition.
    free full-text PDF hosted by co-referencing scholar Matthew Turner at
    [matthewturner.org](https://matthewturner.org/ec2410/readings/Breuckner_Kim_ITPF_2003.pdf)
    — used for the two-opposing-effects decomposition, the CES-vs-Leontief
-   conditionality, and the three abstract quotations (C-claims); directly fetched
-   and read this pass from the free full-text PDF. The net effect on city size is
+   conditionality, and the three abstract quotations (C-claims); read in full
+   (2026-07-11) from the free full-text PDF. The net effect on city size is
    ambiguous and, under low substitution, points toward *more* sprawl — the basis
    for carrying this paper as counter-evidence.

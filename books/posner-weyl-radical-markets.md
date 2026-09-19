@@ -2,7 +2,7 @@
 title: "Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
 category: books
 stub: false
-excerpt: "Posner & Weyl's 2018 mechanism-design manifesto: its Common Ownership Self-Assessed Tax (COST) extends George's land tax to all property via Harberger self-assessment — a modern descendant that departs from George by taxing capital as well as land. Book summary page; scanned by Hermes at T2."
+excerpt: "Posner & Weyl's 2018 mechanism-design manifesto: its Common Ownership Self-Assessed Tax (COST) extends George's land tax to all property via Harberger self-assessment — a modern descendant that departs from George by taxing capital as well as land."
 authors: [Eric A. Posner, E. Glen Weyl]
 year: 2018
 publisher: "Princeton University Press"
@@ -223,4 +223,4 @@ The COST is presented as resolving all three through its partial (below-100%) ta
 
 ## Sources
 
-- Posner, Eric A. and E. Glen Weyl. *Radical Markets: Uprooting Capitalism and Democracy for a Just Society.* Princeton University Press, 2018. ISBN 978-0-691-17750-2 — used for the book's full argument on this page: the COST mechanism, the George critique (three defects), the Vickrey/Harberger lineage, the data-and-estimates table, and the departures-from-George section. Page references throughout are to this edition (Hermes T2 scan).
+- Posner, Eric A. and E. Glen Weyl. *Radical Markets: Uprooting Capitalism and Democracy for a Just Society.* Princeton University Press, 2018. ISBN 978-0-691-17750-2 — used for the book's full argument on this page: the COST mechanism, the George critique (three defects), the Vickrey/Harberger lineage, the data-and-estimates table, and the departures-from-George section. Page references throughout are to this edition.

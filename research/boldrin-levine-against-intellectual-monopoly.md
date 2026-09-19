@@ -161,8 +161,8 @@ Levine mark the far pole of that debate, not its consensus.
    used for the thesis statement ("intellectual property is not necessary for
    innovation and as a practical matter is damaging…"), the epigraph, the
    competition-rewards-creation mechanism, the pharma chapter, and the list of
-   published reviews. The book-abstract page and Chapters 1 and 8 were fetched and
-   read this session (2026-07-11).
+   published reviews. The book-abstract page and Chapters 1 and 8 were read,
+   2026-07-11.
 2. Boldrin & Levine (2008), Chapter 8, "Does Intellectual Monopoly Increase
    Innovation?" [Chapter 8 PDF](http://www.dklevine.com/papers/imbookfinal08.pdf) —
    used for the 23-study "weak or no evidence… increases patenting!" survey result

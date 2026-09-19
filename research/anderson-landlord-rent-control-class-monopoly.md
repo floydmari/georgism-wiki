@@ -66,11 +66,9 @@ positions politically, not just economically.
   tradition from the wiki's core Georgist economic-rent framing — the paper's "class monopoly
   rent" concept, like the wiki's other Anderson-series pages, uses "rent" in this broader
   critical-geography sense.
-- **Abstract-level source (B-claim).** The publisher page yielded only site-template
-  content; this page is built from the verbatim abstract obtained via the Crossref API. The
-  scanner's original metadata for this item omitted the paper's fourth co-author (Tony
-  Newton) and misstated the publication year as 2025; corrected here to the confirmed 2024
-  publication.
+- **Abstract-level source.** The article's full text is not publicly accessible; the account
+  here rests on its verbatim abstract. The four-author byline (including Tony Newton) and the
+  2024 publication year follow the published record.
 
 ## Bears On
 
@@ -91,7 +89,7 @@ positions politically, not just economically.
    opposition to rent control and the politics of class monopoly rent," *Human Geography*
    18(1): 46–58, DOI 10.1177/19427786241234546.
    [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/19427786241234546) —
-   publisher page returned only template content to this session 2026-08-30; verbatim
-   abstract obtained via the Crossref API — used for the Oregon SB 608 case, the
-   class-monopoly-rent-as-political-leverage argument, and the corrected author list and
-   publication year (B-claim; abstract-level, full text not read).
+   full text not accessible at last review (2026-08-30); the verbatim abstract and the
+   published bibliographic record were read instead — used for the Oregon SB 608 case, the
+   class-monopoly-rent-as-political-leverage argument, and the author list and
+   publication year (B-claim; abstract-level — full text not read).

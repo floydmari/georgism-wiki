@@ -64,7 +64,7 @@ Book III, Ch. IV then supplies Smith's account of how this concentrated land pow
 
 Smith establishes that the case for taxing land is not a fringe idea but is rooted in the founding text of economics itself. Georgists frequently cite him to show that taxing land rent is orthodox classical economics, not heterodoxy.
 
-The limits matter as much as the endorsement (developed in full on the [book page](/wiki/wealth-of-nations/)): Smith proposed no single tax and accepted many other taxes; his ground-rents argument is about the *suitability* of a "peculiar" (additional) tax on a fund the state itself creates, not about collecting the whole of rent; and he held a more benign view of landlords than George, calling their interest "strictly and inseparably connected with the general interest of the society" (Book I, Ch. XI). Reading Smith as a proto-Georgist is the tradition's interpretation — a D-claim, marked as such wherever this wiki makes it.
+The limits matter as much as the endorsement (developed in full on the [book page](/wiki/wealth-of-nations/)): Smith proposed no single tax and accepted many other taxes; his ground-rents argument is about the *suitability* of a "peculiar" (additional) tax on a fund the state itself creates, not about collecting the whole of rent; and he held a more benign view of landlords than George, calling their interest "strictly and inseparably connected with the general interest of the society" (Book I, Ch. XI). Reading Smith as a proto-Georgist is the tradition's interpretation rather than a position Smith himself took, and the wiki presents it as an interpretation wherever it appears.
 
 ## See Also
 

@@ -181,12 +181,9 @@ British duties chiefly tried to do.[11]
 
 ## Book Findings: Murray on the People's Budget
 
-Bruce K. Murray's *The People's Budget 1909/10* (1980) provides the most detailed scholarly account of the Budget's fiscal strategy and political context. Murray documents that the Budget was essentially Lloyd George's personal initiative, who had to fight "long and hard" against a Treasury "still strongly attached to Gladstonian orthodoxy" and through a Cabinet "alarmed by the boldness of the Budget" (Murray 1980, p. 21). (A-claim; factual)
-
-Murray shows the Budget was carefully designed to avoid directly antagonizing the bulk of the middle classes. The increases in direct taxation were aimed mainly at the wealthy and at unearned sources of income. The *Liberal Magazine* for May 1909 noted: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (Murray 1980, p. 21). The land-value duties sought to tax "property values created by the community" — a Georgist principle applied through incremental taxation rather than full rent collection. (A/D-claim; factual/interpretive)
-
-Murray documents that the Budget's rejection by the Unionist-dominated House of Lords triggered the constitutional crisis. The question of how social reform was to be financed was "the core of the argument" between Liberal and Unionist parties by 1909/10 (Murray 1980, citing P.F. Clarke). The Liberal Government made "the deliberate decision to opt for direct taxation" (Clarke, quoted by Murray). See [People's Budget 1909/10](/wiki/peoples-budget-1909/). (A-claim; factual)
-
+Bruce K. Murray's *The People's Budget 1909/10* (1980) provides the most detailed scholarly account of the Budget's fiscal strategy and political context. Murray documents that the Budget was essentially Lloyd George's personal initiative, who had to fight "long and hard" against a Treasury "still strongly attached to Gladstonian orthodoxy" and through a Cabinet "alarmed by the boldness of the Budget" (Murray 1980, p. 21).
+Murray shows the Budget was carefully designed to avoid directly antagonizing the bulk of the middle classes. The increases in direct taxation were aimed mainly at the wealthy and at unearned sources of income. The *Liberal Magazine* for May 1909 noted: "the middle class who work for the incomes which are taxed are most gently treated; the 'rentier' middle class rather less gently" (Murray 1980, p. 21). The land-value duties sought to tax "property values created by the community" — a Georgist principle applied through incremental taxation rather than full rent collection.
+Murray documents that the Budget's rejection by the Unionist-dominated House of Lords triggered the constitutional crisis. The question of how social reform was to be financed was "the core of the argument" between Liberal and Unionist parties by 1909/10 (Murray 1980, citing P.F. Clarke). The Liberal Government made "the deliberate decision to opt for direct taxation" (Clarke, quoted by Murray). See [People's Budget 1909/10](/wiki/peoples-budget-1909/).
 ## See Also
 
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) — the budget he introduced as Chancellor
@@ -238,7 +235,7 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
 7. Winston Churchill, *The People's Rights*, Hodder & Stoughton, 1910; see
    [wiki summary](/wiki/churchill-peoples-rights/) — used for Churchill's parallel 1909 campaign
    (A-claim). His later cooling toward land taxation as Chancellor in the 1920s, formerly a
-   D-claim resting on unverified flags on the linked page, is now verified directly against the
+   unverified D-claim, is now verified directly against the
    primary Hansard record at source 17.
 8. UK Parliament, "The Parliament Acts,"
    [Text](https://www.parliament.uk/about/how/laws/parliamentacts/); History & Policy, "The 1909
@@ -251,9 +248,8 @@ Murray documents that the Budget's rejection by the Unionist-dominated House of 
    "bluff" account of the Lords' capitulation (A/D-claims; the "bluff" characterization is
    presented in the body text as a secondary account only — the fact of the formally declared
    royal commitment is cited to the primary Hansard record at source 16). Note: UK Parliament's
-   dedicated "Limehouse" collections page returned an access error (HTTP 403) to this
-   session's tools and was not used as a source; only the pages above, which fetched
-   successfully, are cited.
+   dedicated "Limehouse" collections page was not accessible at last review and is not used as
+   a source; only the pages above are cited.
 9. *Parliament Act 1911*, 1 & 2 Geo. 5 c. 13 (UK Public General Act). — used for the removal of
    the Lords' veto over money bills and the reduction of their delaying power over other
    legislation (A-claim, primary statute).

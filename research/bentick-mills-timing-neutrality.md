@@ -103,4 +103,4 @@ practical question becomes an [assessment-design question](/wiki/land-cannot-be-
    September 1998). [Free full text (BC WP 411)](http://fmwww.bc.edu/ec-p/wp411.pdf)
    — used for the residual-vs-raw site-value neutrality distinction and its
    explicit engagement with Shoup (1970), Skouras (1978), Bentick (1979),
-   Mills (1981) and Tideman (1982); verified verbatim this session.
+   Mills (1981) and Tideman (1982); verified verbatim (2026-07-05).

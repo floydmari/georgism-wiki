@@ -39,8 +39,8 @@ Gaffney reports the bill was **reintroduced as H.R. 5733 in 1924**;[1] this
 reintroduction number was *not* independently confirmable on a direct
 Congressional-Record read (the searchable 1924 record surfaces the unrelated
 Revenue Act of 1924, H.R. 6715), so it is carried here on Gaffney's authority
-rather than as verified. [BLOCKED: H.R. 5733 (1924) reintroduction unverified on
-direct congressional-record read; Nolan himself died Nov. 1922.]
+rather than as verified — and Nolan himself had died in November 1922, before the
+reported reintroduction.
 
 ## See Also
 

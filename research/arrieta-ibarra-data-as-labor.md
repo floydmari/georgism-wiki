@@ -90,8 +90,8 @@ On the wiki's rent gradient, this paper sits at the **contested platform/data-re
 3. Julian David Jonker (2025), "Is Data Labor? Two Conceptions of Work and the User-Platform
    Relationship," *Business Ethics Quarterly* 35(2): 153–186, DOI: 10.1017/beq.2024.25 — used for
    the "marginal value... very close to zero" and "no credible threat of exit" quotations in
-   Nuances and Limits (author's manuscript p. 13; final-journal pagination may differ). Fetched and
-   read this session. [Author's free PDF, Wharton Legal Studies & Business Ethics faculty page](https://faculty.wharton.upenn.edu/wp-content/uploads/2017/09/iDL-BEQ-published-version.pdf) ·
+   Nuances and Limits (author's manuscript p. 13; final-journal pagination may differ). Read in
+   full, 2026-07-17. [Author's free PDF, Wharton Legal Studies & Business Ethics faculty page](https://faculty.wharton.upenn.edu/wp-content/uploads/2017/09/iDL-BEQ-published-version.pdf) ·
    [Cambridge Core](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/is-data-labor-two-conceptions-of-work-and-the-userplatform-relationship/15E922A1132C86474545D35F7F58426D)
 4. Daron Acemoglu, Ali Makhdoumi, Azarakhsh Malekian & Asu Ozdaglar (2022), "Too Much Data: Prices
    and Inefficiencies in Data Markets," *American Economic Journal: Microeconomics* 14(4): 218–256,
@@ -99,7 +99,7 @@ On the wiki's rent gradient, this paper sits at the **contested platform/data-re
    used for the aggregation/marginal-value objection in Nuances and Limits: data externalities
    across correlated users drive an individual's own data price toward zero in equilibrium (quoted
    passage, p. 2 of the NBER working-paper text), because the value resides in the correlated,
-   pooled dataset rather than any one contribution. Fetched and read this session.
+   pooled dataset rather than any one contribution. Read in full, 2026-07-17.
    [NBER working paper (free PDF)](https://www.nber.org/system/files/working_papers/w26296/w26296.pdf) ·
    [AEA](https://www.aeaweb.org/articles?id=10.1257/mic.20200200)
 5. David K. Levine (2020), "Radical Markets by Eric Posner and E. Glen Weyl: A Review Essay,"
@@ -107,8 +107,8 @@ On the wiki's rent gradient, this paper sits at the **contested platform/data-re
    feasibility critique of data labor unions in Nuances and Limits, including the "If only"
    dismissal of the book's own union-formation sketch and the skepticism toward the
    increasing-returns-to-data claim (quoted passages, pp. 13–14 of the author's freely posted
-   manuscript version, whose pagination differs from the AEA's typeset pp. 471–487). Fetched and
-   read this session. [Author's free PDF](http://board.dklevine.com/papers/radical.79.pdf) ·
+   manuscript version, whose pagination differs from the AEA's typeset pp. 471–487). Read in
+   full, 2026-07-17. [Author's free PDF](http://board.dklevine.com/papers/radical.79.pdf) ·
    [AEA](https://www.aeaweb.org/articles?id=10.1257/jel.20191533)
 6. Nicholas Vincent, Brent Hecht & Shilad Sen (2019), "'Data Strikes': Evaluating the Effectiveness
    of a New Form of Collective Action Against Technology Companies," *Companion Proceedings of The
@@ -116,5 +116,5 @@ On the wiki's rent gradient, this paper sits at the **contested platform/data-re
    and Limits: simulated data strikes on a real recommender-system dataset lose effectiveness as
    the underlying dataset grows larger (quoted passage, p. 1942), while a realistic ~30%-of-users
    strike still erases roughly half the gains from personalization on a moderate-sized dataset.
-   Fetched and read this session. [Author's free PDF](https://brenthecht.com/publications/thewebconference2019_datastrikes.pdf) ·
+   Read in full, 2026-07-17. [Author's free PDF](https://brenthecht.com/publications/thewebconference2019_datastrikes.pdf) ·
    [ACM DL](https://dl.acm.org/doi/10.1145/3308558.3313742)

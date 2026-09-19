@@ -54,8 +54,7 @@ rather than merely regulating the credit that finances it.
   bust, 18 years after the 1990 downturn, will be around 2008, if there is no major
   interruption such as a global war."[5] In 2012 Foldvary extended the same 18-year
   logic to project a further downturn around **2026**[6] — a forecast whose target
-  window has only just arrived as of this writing, so it cannot yet be assessed.
-  [VERIFY — PENDING: not a citation gap. The 2026 forecast cannot be assessed until the year closes; revisit after year-end 2026. As of 2026-07-10 the window is still open.]
+  window has only just opened, so it cannot yet be assessed.
 - **[Akhil Patel](/wiki/akhil-patel/)** carries the tradition into contemporary market
   forecasting, integrating land, credit, and equity cycles in
   *The Secret Wealth Advantage* (2023) for an investor audience and popularising a
@@ -321,8 +320,7 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
   overstated as one.[10]
 - **The mid-2020s test in progress.** Foldvary's 2012 "Depression of 2026" projection
   and later popularisations by Patel and others put the next test of the cycle at the
-  present moment; as of this writing the outcome is not yet determined.
-  [VERIFY — PENDING: not a citation gap. Revisit and update once the 2026 cycle window has closed; as of 2026-07-10 the outcome is not yet determinable.]
+  present moment; as of 2026-07-18 the outcome is not yet determined.
 
 ## How to Deploy It
 
@@ -474,10 +472,9 @@ Harrison (2005) argues Britain should have experienced a recession in 2001 based
 17. Mason Gaffney, "Causes of Downturns: an Austro-Georgist Synthesis," working notes,
     1982. [wiki summary](/wiki/gaffney-causes-of-downturns/) · [Free PDF (masongaffney.org)](https://www.masongaffney.org/workpapers/Causes_of_downturn--Austro-Georgist_synthesis_1982.pdf)
     — used for the independent 1982 precursor to Foldvary's 1997 Georgist-Austrian
-    synthesis (A-claim). Text mirrored and OCR'd from the site's scanned PDF this session
-    (2026-07-16).
+    synthesis (A-claim). Text read from the site's scanned PDF (2026-07-16).
 18. Mason Gaffney, "How Rising Rents Can Devour Capital" (1993) and "How a Land Boom
     Destroys Capital" (2005). [wiki summary](/wiki/gaffney-land-booms-destroy-capital/)
     — used for the capital-destruction/equity-withdrawal mechanism by which a land boom
-    consumes real capital independent of the credit channel (C-claim). Text mirrored and
-    OCR'd from the site's scanned PDFs this session (2026-07-16).
+    consumes real capital independent of the credit channel (C-claim). Text read from
+    the site's scanned PDFs (2026-07-16).

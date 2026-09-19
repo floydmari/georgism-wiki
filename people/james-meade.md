@@ -88,7 +88,7 @@ against another.[5]
    [IFS PDF](https://ifs.org.uk/sites/default/files/output_url_files/meade.pdf)
 3. Walter Van Trier / history-of-thought literature on Meade's "social dividend" — used for
    the social-dividend concept as an unconditional equal payment as of right (A/C-claims;
-   verified via multiple sources this session).
+   verified against multiple sources).
    [Semantic Scholar](https://www.semanticscholar.org/paper/aa268f35c6e84647e5b40e35dd5c50372a074fee)
 4. Martin O'Neill & Stuart White (2019), "James Meade, public ownership, and the idea of a
    citizens' trust," *International Journal of Public Policy* 15(1–2), 21–37 — used for the

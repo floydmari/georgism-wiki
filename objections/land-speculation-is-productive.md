@@ -24,8 +24,8 @@ Second, on the policy question, Blaug's own later published verdict on site valu
 
 ## Limits and Caveats
 
-- This page's account of Blaug's specific risk-bearing objection rests on a discovery-report summary of *Economic Theory in Retrospect*, not a page-by-page read of the primary text. Blaug's Ch. 3, §11 passage on land speculation and risk could not be directly verified against the primary text in this pass, so that specific objection is attributed to the discovery-report summary rather than quoted; the response instead rests on the verified Blaug (2000) verdict on site-value taxation and on the economics of land's fixed supply.
-- The response does not fully rebut a narrower version of the objection: even if land supply cannot expand, speculators may still perform a timing/information function — e.g., signaling where infrastructure or rezoning is expected — that a purely mechanical annual tax does not replace. This wiki has not located a source that directly measures the value (if any) of that signal.
+- This page's account of Blaug's specific risk-bearing objection rests on a secondary summary of *Economic Theory in Retrospect*, not on a page-by-page read of the primary text. The Ch. 3, §11 passage on land speculation and risk remains unconfirmed against the book itself, so that specific objection is paraphrased rather than quoted; the response instead rests on the verified Blaug (2000) verdict on site-value taxation and on the economics of land's fixed supply.
+- The response does not fully rebut a narrower version of the objection: even if land supply cannot expand, speculators may still perform a timing/information function — e.g., signaling where infrastructure or rezoning is expected — that a purely mechanical annual tax does not replace. No source that directly measures the value (if any) of that signal has been identified.
 - Blaug's "no excess burden" argument concerns efficiency, not the risk-bearing question directly; it shows an LVT does not distort land use, not that no risk-related service is lost when speculative holding disappears.
 
 ## Net Assessment
@@ -37,11 +37,11 @@ The objection is worth taking seriously as a claim about risk-bearing in general
 - [Land Speculation](/wiki/land-speculation/) — the underlying mechanism (option value, carrying costs) this response draws on
 - [Land value taxation dampens land speculation](/wiki/lvt-dampens-land-speculation/) — the wiki's outcome page assessing evidence on LVT and speculative holding
 - [Narrative: Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the competing claim that speculation is destabilizing rather than risk-absorbing
-- [Economic Theory in Retrospect](/wiki/economic-theory-in-retrospect/) — Blaug's book, the discovery source for this objection
+- [Economic Theory in Retrospect](/wiki/economic-theory-in-retrospect/) — Blaug's book, where this objection is set out
 - [Henry George](/wiki/henry-george/) — proposed the single tax this objection was raised against
 
 ## Sources
 
-1. Mark Blaug (1997), *Economic Theory in Retrospect*, 5th ed., Cambridge University Press, Ch. 3, §11 — discovery source for the objection that land speculators bear forecasting risk that nationalization or heavy taxation would shift onto the community. [Internet Archive](https://archive.org/details/economictheoryin0000blau_m5e1)
+1. Mark Blaug (1997), *Economic Theory in Retrospect*, 5th ed., Cambridge University Press, Ch. 3, §11 — used for the objection that land speculators bear forecasting risk that nationalization or heavy taxation would shift onto the community. [Internet Archive](https://archive.org/details/economictheoryin0000blau_m5e1)
 2. Mark Blaug (2000), "Henry George: Rebel with a Cause," *European Journal of the History of Economic Thought*, 7(2), pp. 270–288 — used for the verified quotation on site-value taxation creating no excess burden, corroborating the response. [Publisher abstract / DOI](https://www.tandfonline.com/doi/abs/10.1080/096725600361816)
 3. Christopher R. Cunningham (2006), "House Price Uncertainty, Timing of Development, and Vacant Land Prices," *Journal of Urban Economics*, 59(1), pp. 1–31 — used, via the wiki's [land speculation](/wiki/land-speculation/) page, for empirical evidence that price uncertainty raises vacant land prices and delays development. [DOI](https://doi.org/10.1016/j.jue.2005.08.003)

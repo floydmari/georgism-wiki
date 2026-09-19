@@ -82,9 +82,9 @@ movement beyond any single organization.
 ## Nuances and Limits
 
 - **Two different documents, two different confidence levels.** The OPDC submission (source 1)
-  was read in full text; the 2016-17 annual report (source 2) was fetched and read directly this
-  session but its exact wording was not independently cross-checked word-for-word against a
-  saved copy.
+  is drawn from its full text; the 2016-17 annual report (source 2) is summarised from the
+  published page, whose exact wording has not been cross-checked word-for-word against an
+  archived copy.
 - **A single reporting year's activity log.** This page documents C4EJ's 2016-17 activities in
   detail because that is the specific annual report available; it does not describe the
   coalition's more recent (2018-2026) activity, beyond the 2018 OPDC submission and later
@@ -113,6 +113,6 @@ movement beyond any single organization.
    read).
 2. Coalition for Economic Justice, "Annual Report 2016-2017."
    [c4ej.com/cej-reports-announcements/cej-annual-report-2016-2017](https://www.c4ej.com/cej-reports-announcements/cej-annual-report-2016-2017) —
-   fetched and read directly 2026-09-03 — used for the leadership transition (Lipetz to Bowman),
+   read directly 2026-09-03 — used for the leadership transition (Lipetz to Bowman),
    the 2016-17 steering-group membership, and the London/Westminster/Scotland activity log
    (A-claim; full page content read directly, not independently cross-checked word-for-word).

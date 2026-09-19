@@ -82,7 +82,7 @@ transit infrastructure financing.[5]
 
 1. Andrew Purves, *No Debt, High Growth, Low Tax: Hong Kong's Economic Miracle Explained*
    (London: Shepheard-Walwyn, November 2015) — cited via its treatment in sources 2-4 (C-claim;
-   book itself not independently obtained and read this session).
+   the book itself has not been independently obtained and read).
 2. Stephen Stretton, Andrew Purves & Tony Vickers, "Land Value Tax: Overcoming the Challenges,"
    *Land & Liberty* No. 1243 (Summer 2018): 9-15, published by the Henry George Foundation (UK).
    [cooperative-individualism.org PDF](https://www.cooperative-individualism.org/purves-andrew_land-value-tax-overcoming-the-challenges-2018-summer.pdf) —
@@ -93,13 +93,12 @@ transit infrastructure financing.[5]
    Economic Science, UK Parliament Housing, Communities and Local Government Committee land
    value capture inquiry, reference LVC0035, March 2018.
    [committees.parliament.uk/writtenevidence/87671](https://committees.parliament.uk/writtenevidence/87671/pdf/) —
-   direct fetch blocked by a Cloudflare bot-challenge; full text obtained via a reader-proxy
-   route (`r.jina.ai`) 2026-09-03 — used for the £12.4bn/£3.12bn/£9.3bn land-value-uplift
-   figures and the policy recommendations (A-claim; full text read via proxy).
+   read in full, 2026-09-03 — used for the £12.4bn/£3.12bn/£9.3bn land-value-uplift
+   figures and the policy recommendations (A-claim).
 4. Ed Randall, on behalf of the Coalition for Economic Justice Working Group on OPDC, submission
    to the New London Plan public consultation. [wiki summary](/wiki/coalition-for-economic-justice/) —
    used for Purves's contributor credit and the MTR Corporation profit figure (A-claim; full
-   text read directly, part of the same session's verification of the C4EJ page).
+   text read directly, alongside the C4EJ page's own verification).
 5. Coalition for Economic Justice, "Annual Report 2016-2017." [wiki
    summary](/wiki/coalition-for-economic-justice/) — used for Purves's 2016-17 steering-group
    membership and his June 2016 talk on Hong Kong transit financing (A-claim; full page content

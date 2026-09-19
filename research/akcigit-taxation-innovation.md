@@ -45,7 +45,7 @@ citations) moving in proportion to quantity so that *average* quality is largely
 unaffected.[1] The magnitudes are large. At the macro (state) level the authors
 report elasticities of "0.8 to 1.8 for personal net-of-tax rates and 1.3 to 2.8
 for corporate net-of-tax rates" for the number of patents, depending on the
-controls (verified against the NBER working-paper text this session). At the
+controls. At the
 individual level the elasticity of an inventor's patents to the personal
 net-of-tax rate is "around 0.8" and of citations "around 1"; corporate inventors'
 patents respond to the *corporate* net-of-tax rate with an elasticity of 0.49.
@@ -86,6 +86,6 @@ generalized rent capture. Two disciplined readings:
    Economics* 137(1), 329–385 (working-paper version: NBER WP 24982, rev. March
    2021) — used for all findings above; headline elasticities (macro 0.8–1.8
    personal / 1.3–2.8 corporate; individual 0.8 patents / ~1 citations) verified
-   against the NBER PDF this session.
+   against the NBER working-paper text (2026-07-06).
    [OUP](https://academic.oup.com/qje/article-abstract/137/1/329/6292271) ·
    [NBER WP 24982](https://www.nber.org/papers/w24982)

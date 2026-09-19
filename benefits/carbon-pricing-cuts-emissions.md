@@ -133,9 +133,9 @@ revenue-recycling design is what makes it politically durable.
 
 ### Barnes: The Sky Trust Proposal
 
-Peter Barnes's sky trust proposal — a trust to manage the atmosphere on behalf of future generations, charging dumpers and paying dividends to citizens — is presented as the prototype for commons trusts in [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006, Ch. 1). The sky trust design — cap carbon, auction permits, pay every citizen an equal dividend — applies the Georgist rent-capture principle to the atmospheric commons: charge for use of what nobody made, return the proceeds to all. Barnes frames the stakes starkly: "The question our generation faces is: will we change our economic system voluntarily, or let the atmosphere change it for us?" (Barnes 2006, Ch. 1). (C-claim; theoretical)
+Peter Barnes's sky trust proposal — a trust to manage the atmosphere on behalf of future generations, charging dumpers and paying dividends to citizens — is presented as the prototype for commons trusts in [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006, Ch. 1). The sky trust design — cap carbon, auction permits, pay every citizen an equal dividend — applies the Georgist rent-capture principle to the atmospheric commons: charge for use of what nobody made, return the proceeds to all. Barnes frames the stakes starkly: "The question our generation faces is: will we change our economic system voluntarily, or let the atmosphere change it for us?" (Barnes 2006, Ch. 1).
 
-The sky trust model connects directly to the carbon-pricing evidence on this page: the British Columbia carbon tax demonstrates that pricing emissions reduces them (B-claim), while Barnes's design adds the dividend mechanism that makes the charge politically durable and distributionally fair. The cap-and-dividend bills (2009–2024) based on Barnes's design never received a vote, as noted on the [ecological-rent narrative](/wiki/ecological-rent/) page — evidence of the idea's persistence and of its political ceiling to date. (D-claim; interpretive)
+The sky trust model connects directly to the carbon-pricing evidence on this page: the British Columbia carbon tax demonstrates that pricing emissions reduces them, while Barnes's design adds the dividend mechanism that makes the charge politically durable and distributionally fair. The cap-and-dividend bills (2009–2024) based on Barnes's design never received a vote, as noted on the [ecological-rent narrative](/wiki/ecological-rent/) page — evidence of the idea's persistence and of its political ceiling to date.
 
 ## See Also
 
@@ -160,7 +160,7 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
 2. Stewart Elgie & Jessica McClay (2013), "BC's Carbon Tax Shift Is Working Well after
    Four Years," *Canadian Public Policy* — used for the ~19% per-capita fuel-use drop
    (2008–2012) relative to the rest of Canada and the 5–15% emissions estimate
-   (B-claims; verified via multiple sources this session).
+   (B-claims; verified against multiple sources, 2026-07-13).
    [ResearchGate](https://www.researchgate.net/publication/265938410)
 3. Nicholas Rivers & Brandon Schaufele (2015), "Salience of Carbon Taxes in the
    Gasoline Market," *Journal of Environmental Economics and Management* 74 — used for
@@ -185,7 +185,7 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
 8. Julius J. Andersson (2019), "Carbon Taxes and CO₂ Emissions: Sweden as a Case Study,"
    *American Economic Journal: Economic Policy* 11(4), 1–30 — used for the ~11%
    transport-CO₂ / 6.3%-carbon-tax-alone synthetic-control estimate and the
-   three-times-price-elasticity salience finding (B-claim; verified this session, see the
+   three-times-price-elasticity salience finding (B-claim; verified 2026-07-13, see the
    dedicated [research page](/wiki/andersson-sweden-carbon-tax/)). DOI
    [10.1257/pol.20170144](https://doi.org/10.1257/pol.20170144)
 9. Gilbert E. Metcalf & James H. Stock (2023), "The Macroeconomic Impact of Europe's
@@ -198,7 +198,7 @@ The sky trust model connects directly to the carbon-pricing evidence on this pag
    ex-post evaluations on the effectiveness of carbon pricing," *Nature Communications*
    15, 4147 — used for the 80-evaluation / 21-scheme meta-analytic result: immediate
    substantial reductions for ≥17 of 21 schemes, –5% to –21% (–4% to –15% bias-corrected)
-   (B-claim; verified verbatim this session, see the dedicated
+   (B-claim; verified verbatim 2026-07-13, see the dedicated
    [research page](/wiki/dobbeling-carbon-pricing-meta-analysis/)). DOI
    [10.1038/s41467-024-48512-w](https://doi.org/10.1038/s41467-024-48512-w)
 11. Jessica F. Green (2021), "Does carbon pricing reduce emissions? A review of ex-post

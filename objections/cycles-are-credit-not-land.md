@@ -169,5 +169,4 @@ attack the same instability from two ends.** Not "cycles are land, not credit," 
    [wiki summary](/wiki/gaffney-causes-of-downturns/) ·
    [wiki summary](/wiki/gaffney-land-booms-destroy-capital/) — used for the non-credit
    capital-destruction channel and the land-cycles-lead-banking-cycles causal-direction
-   argument (C-claim). Text mirrored and OCR'd from the site's scanned PDFs this session
-   (2026-07-16).
+   argument (C-claim). Text read from the site's scanned PDFs (2026-07-16).

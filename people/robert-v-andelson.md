@@ -10,20 +10,14 @@ excerpt: "Philosopher and Georgist scholar who edited 'Critics of Henry George' 
 
 ## Summary
 
-Robert V. Andelson (1931–2003) was an American philosopher and Georgist scholar, Professor of Philosophy at Auburn University. He is best known as the editor of *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (1979), the first comprehensive scholarly volume to survey and evaluate the major critics of George's work. Andelson also co-authored *From Wasteland to Promised Land* (1992) with James M. Dawsey, applying Georgist land ethics to liberation theology and development questions. (A-claim; factual)
-
+Robert V. Andelson (1931–2003) was an American philosopher and Georgist scholar, Professor of Philosophy at Auburn University. He is best known as the editor of *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (1979), the first comprehensive scholarly volume to survey and evaluate the major critics of George's work. Andelson also co-authored *From Wasteland to Promised Land* (1992) with James M. Dawsey, applying Georgist land ethics to liberation theology and development questions.
 ## Key Ideas/Contributions
 
-- **Systematic engagement with George's critics.** Andelson's central methodological contribution was the argument that the highest tribute to Henry George's memory is to present his critics' arguments as fairly as possible and weigh them against both abstract reason and empirical evidence (Andelson 1979, p. 3). This approach set a standard for intellectually honest Georgist apologetics. (D-claim; interpretive)
-
-- **The "conspiracy of silence" thesis.** Andelson cited Tolstoy's 1905 assertion that "people do not argue with the teaching of George, they simply do not know it" (Andelson 1979, p. 7). He argued that economic textbook writers tended to dismiss George's contribution "with a few patronizing sentences" displaying "a lamentable absence of real acquaintance with his thought" (Andelson 1979, p. 19). (D-claim; interpretive)
-
-- **George as self-taught economist.** Andelson placed George in a "long succession of political economists — including Adam Smith, Malthus, the two Mills, Ricardo, Chalmers, Sidgwick, and Marx — with no official training in the discipline" (Andelson 1979, p. 19). He argued that George launched his theory just as economics was becoming a specialized profession, signaled by the founding of the American Economic Association in 1885, which contributed to his marginalization as an "amateur." (D-claim; interpretive)
-
-- **Georgism and liberation theology.** In *From Wasteland to Promised Land* (1992), Andelson and Dawsey applied Georgist land-rent analysis to questions of Latin American liberation theology, arguing that the single tax offered a more effective path to social justice than Marxist frameworks. (D-claim; interpretive)
-
-- **Schumpeter's assessment.** Andelson highlighted Schumpeter's view that the single tax "is not economically unsound, except that it involves an unwarranted optimism concerning the yield of such a tax" and "should not be put down as nonsense" (Andelson 1979, p. 20). (D-claim; interpretive)
-
+- **Systematic engagement with George's critics.** Andelson's central methodological contribution was the argument that the highest tribute to Henry George's memory is to present his critics' arguments as fairly as possible and weigh them against both abstract reason and empirical evidence (Andelson 1979, p. 3). This approach set a standard for intellectually honest Georgist apologetics.
+- **The "conspiracy of silence" thesis.** Andelson cited Tolstoy's 1905 assertion that "people do not argue with the teaching of George, they simply do not know it" (Andelson 1979, p. 7). He argued that economic textbook writers tended to dismiss George's contribution "with a few patronizing sentences" displaying "a lamentable absence of real acquaintance with his thought" (Andelson 1979, p. 19).
+- **George as self-taught economist.** Andelson placed George in a "long succession of political economists — including Adam Smith, Malthus, the two Mills, Ricardo, Chalmers, Sidgwick, and Marx — with no official training in the discipline" (Andelson 1979, p. 19). He argued that George launched his theory just as economics was becoming a specialized profession, signaled by the founding of the American Economic Association in 1885, which contributed to his marginalization as an "amateur."
+- **Georgism and liberation theology.** In *From Wasteland to Promised Land* (1992), Andelson and Dawsey applied Georgist land-rent analysis to questions of Latin American liberation theology, arguing that the single tax offered a more effective path to social justice than Marxist frameworks.
+- **Schumpeter's assessment.** Andelson highlighted Schumpeter's view that the single tax "is not economically unsound, except that it involves an unwarranted optimism concerning the yield of such a tax" and "should not be put down as nonsense" (Andelson 1979, p. 20).
 ## Key Works
 
 - *Critics of Henry George: A Centenary Appraisal of Their Strictures on Progress and Poverty* (1979, ed.) — [book page](/wiki/critics-of-henry-george/)

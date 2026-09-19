@@ -80,9 +80,9 @@ peer-reviewed work.
 
 ### Burgess: LVT as Alternative to Taxation
 
-Ronald Burgess's *Public Revenue Without Taxation* (1993) argues that land value taxation is not merely a better tax but the legitimate replacement for taxation altogether. Burgess traces the argument from the Physiocratic tradition through Henry George, arguing that public revenue should come from the community-created rental value of land rather than from coercive taxation of productive activity (Burgess 1993, Ch. 1–3). Burgess develops the ATCOR argument — that all taxation comes out of rent — and contends that replacing existing taxes with LVT would actually expand the revenue base by unburdening production (Burgess 1993, Ch. 4). (C-claim; theoretical)
+Ronald Burgess's *Public Revenue Without Taxation* (1993) argues that land value taxation is not merely a better tax but the legitimate replacement for taxation altogether. Burgess traces the argument from the Physiocratic tradition through Henry George, arguing that public revenue should come from the community-created rental value of land rather than from coercive taxation of productive activity (Burgess 1993, Ch. 1–3). Burgess develops the ATCOR argument — that all taxation comes out of rent — and contends that replacing existing taxes with LVT would actually expand the revenue base by unburdening production (Burgess 1993, Ch. 4).
 
-Burgess also addresses the inflation dimension, arguing that failure to collect land rent forces governments to monetize debt, creating inflation that disproportionately harms wage-earners (Burgess 1993, Ch. 5). He connects unemployment to land speculation, arguing that high land prices price labour out of productive opportunities (Burgess 1993, Ch. 6). (C-claim; theoretical)
+Burgess also addresses the inflation dimension, arguing that failure to collect land rent forces governments to monetize debt, creating inflation that disproportionately harms wage-earners (Burgess 1993, Ch. 5). He connects unemployment to land speculation, arguing that high land prices price labour out of productive opportunities (Burgess 1993, Ch. 6).
 
 See: [Public Revenue Without Taxation (Burgess)](/wiki/public-revenue-without-taxation/)
 

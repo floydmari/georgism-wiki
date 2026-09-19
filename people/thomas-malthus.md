@@ -74,19 +74,19 @@ nature rather than a remediable effect of land monopoly.[2]
    professorship, and the core argument of the 1798 *Essay*
    (basic biographical facts). [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus)
 2. Henry George, *Progress and Poverty* (1879), Book II (esp. Ch. I, "The
-   Malthusian Theory, its Genesis and Support") — this wiki's discovery source for
+   Malthusian Theory, its Genesis and Support") — used for
    Malthus's role as the theoretical target of George's argument that population
    growth need not cause poverty. The "triple combination" passage quoted above
-   was **verified verbatim this session against the repository's hosted
+   was **verified verbatim (2026-07-12) against the repository's hosted
    public-domain full text** of *Progress and Poverty*. [Book page](/wiki/progress-and-poverty/) · [hosted full text](/wiki/progress-and-poverty-full-text/)
 3. Thomas Robert Malthus, *An Inquiry into the Nature and Progress of Rent, and
    the Principles by which it is Regulated* (London: John Murray, 1815) — primary
    text of the rent pamphlet; the definition of rent, the "immediate cause...
    excess of price above the cost of production," and the "bountiful gift of
-   Providence" passage quoted above were **verified verbatim this session against
+   Providence" passage quoted above were **verified verbatim (2026-07-12) against
    the Internet Archive full-text scan**. [Internet Archive scan](https://archive.org/details/inquiryintonatur00maltuoft) (identifier `inquiryintonatur00maltuoft`)
-4. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3, 5 — this
-   wiki's discovery source for situating Malthus's 1815 pamphlet alongside
+4. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3, 5 — used
+   for situating Malthus's 1815 pamphlet alongside
    Ricardo, West, and Torrens as independent co-discoveries of the classical rent
    theory (A-claim; scan provenance pending owner attestation — see book page).
    [Book page](/wiki/economic-theory-in-retrospect/)

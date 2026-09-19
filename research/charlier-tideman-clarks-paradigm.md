@@ -97,9 +97,6 @@ contested 1880s-90s theoretical choice with an identifiable polemical motive.
   contribution is the Gorbachev-letter signatory table, not new archival material on Clark
   himself.
 - **A preprint, not yet peer-reviewed.**
-- **Full text read directly (A-claim).** The complete 33-page PDF was obtained via the
-  paper's OSF/SocArXiv mirror (HAL's own repository page returned an anti-bot wall to this
-  session) and read in full.
 
 ## Bears On
 
@@ -120,9 +117,9 @@ contested 1880s-90s theoretical choice with an identifiable polemical motive.
 1. Niels Charlier & Nicolaus Tideman (2025), "Henry George and Clark's Paradigm: The Erasure
    of Land in Economic Theory (A Historical-Philosophical Analysis)," HAL preprint
    hal-05267875, version 3, dated 16 September 2025.
-   [hal.science/hal-05267875](https://hal.science/hal-05267875/) — HAL's own repository page
-   blocked by an anti-bot wall to this session; full 33-page text obtained via the paper's
-   OSF/SocArXiv mirror (`api.osf.io`, preprint id `ep2a6_v3`) and read in full 2026-08-30 —
+   [hal.science/hal-05267875](https://hal.science/hal-05267875/) — the HAL repository page
+   was not accessible at last review; the full 33-page text was read from the paper's
+   OSF/SocArXiv mirror (preprint id `ep2a6_v3`), 2026-08-30 —
    used for the Fetter (1927) quotation, the Gaffney anti-George-works count, the Stabile
    (1995) borrowing claim, the Gaffney & Harrison (1994) "Platonic essence" quotation, the
    Marshall counter-example, the erasure-persistence argument, the Mirrlees Review citation,

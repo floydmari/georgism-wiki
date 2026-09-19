@@ -62,11 +62,10 @@ companion study by the same author on Copenhagen's public land development (see 
 
 ## Nuances and Limits
 
-- **Full article body remains paywalled.** This page is built from the paper's complete,
-  verbatim abstract (fetched directly from the live Wiley page) plus its public reference
-  list, not the body text — specific policy mechanisms (e.g., Kyoto's minpaku/home-sharing
-  regulation, cultural property law) are referenced in the bibliography but not independently
-  confirmed from the article's own analysis (B-claim).
+- **Full article body remains paywalled.** The account here rests on the paper's complete,
+  verbatim abstract plus its public reference list, not the body text — specific policy
+  mechanisms (e.g., Kyoto's minpaku/home-sharing regulation, cultural property law) appear in
+  the bibliography but are not drawn from the article's own analysis.
 - **A single-city case study**, building on Anderson's prior Portland and Seattle work in the
   same "class monopoly rent" series; generalizability to other heritage-tourism cities is the
   paper's own implicit comparison, not something this page independently verifies.
@@ -92,7 +91,7 @@ companion study by the same author on Copenhagen's public land development (see 
    cultural monopoly rent: Insights from Kyoto," *International Journal of Urban and
    Regional Research* 50(2): 349–365, published online 8 July 2025, DOI
    10.1111/1468-2427.13368. [doi.org](https://doi.org/10.1111/1468-2427.13368) — full
-   abstract fetched directly from the live Wiley page 2026-08-29 (article body paywalled) —
+   abstract read on the publisher's page, 2026-08-29 (article body paywalled) —
    used for the cultural-monopoly-rent framing, the selective-(de)commodification mechanism,
    and the Bernt (2022) "commodification gap" theoretical anchor, all quoted directly from
    the abstract above; reference list (confirming ties to Bernt 2022, Anderson's own prior

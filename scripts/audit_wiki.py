@@ -23,7 +23,8 @@ BODY_PATTERNS = {
         r"\bas of this writing\b",
         r"\bfetch(?:ed)? (?:blocked|failed|and read)\b|\bfetch blocked\b",
         r"\breconstructed from (?:a |the )?(?:WebSearch|search|listing|abstract|snippet)",
-        r"\b(?:could not|was not|were not|has not been|not) (?:be )?(?:obtained|retrieved|located|accessed|fetched|independently (?:extracted|retrieved|verified|confirmed))\b(?:[^.]{0,60}(?:session|pass|environment|method))?",
+        r"\b(?:could not|was not|were not|has not been|not) (?:be )?(?:obtained|retrieved|located|accessed|fetched|independently (?:extracted|retrieved|fetched))\b(?:[^.]{0,60}(?:session|pass|environment|method))?",
+        r"\bnot independently (?:verified|confirmed|checked)\b[^.]{0,40}\b(?:this session|this pass|this environment)\b",
         r"\bindependently (?:extracted|re-extracted) ",
         r"\bthis (?:page|entry) (?:is|was) (?:built|reconstructed) from\b",
         r"\b(?:Corrected|Reattempted|Re-?verified|Confirmed|Verified|Re-?fetched|Fetched|Sharpened|Updated|Checked(?: again)?|Resolved|FLAGGED|RESOLVED)\s*(?:verbatim\s*)?(?:on\s*)?\(?20\d\d-\d\d-\d\d\b",
@@ -49,7 +50,7 @@ SOURCES_PATTERNS = {
     ],
     'A3': [r"\[VERIFY[^\]]*\]?", r"\[CITATION NEEDED[^\]]*\]?", r"needs-unblocked-web", r"\[STILL OUTSTANDING[^\]]*\]?", r"\bChannel: needs-", r"\[(?:BLOCKED|SHARPENED|PENDING|TODO|GAP|OPEN|UNRESOLVED|DEFERRED)\b[^\]]*\]?"],
 }
-SKIP_DIRS = ('sources/', 'scripts/', 'guides/', 'docs/', 'texts/', 'scratchpad/')  # editor-facing or verbatim public-domain texts
+SKIP_DIRS = ('sources/', 'scripts/', 'guides/', 'docs/', 'texts/', 'scratchpad/', 'tasks/')  # editor-facing or verbatim public-domain texts
 
 def split(text):
     m = re.match(r'(?s)^---\n.*?\n---\n', text)

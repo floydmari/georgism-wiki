@@ -141,7 +141,7 @@ land's defining fixed-supply scarcity.
 1. Imanol Arrieta-Ibarra, Leonard Goff, Diego Jiménez-Hernández, Jaron Lanier & E. Glen
    Weyl (2018), "Should We Treat Data as Labor? Moving Beyond 'Free'," *AEA Papers and
    Proceedings* 108, 38–42 — used for the data-as-labor / data-monopsony argument and
-   the data-dividend remedy (D/C-claims; verified via multiple sources this session).
+   the data-dividend remedy (D/C-claims; verified against multiple sources).
    [AEA](https://www.aeaweb.org/articles?id=10.1257/pandp.20181003) ·
    [PDF](http://radicalmarkets.com/chapters/data-as-labor/research-paper/)
 2. Supporting evidence and counter-evidence are carried on their own wiki pages, cited
@@ -152,7 +152,7 @@ land's defining fixed-supply scarcity.
    used, respectively, for the rent reading and its efficiency rebuttal.
 3. Ünsal Özdilek (2026), "Digital rent: From natural advantages to data-driven surpluses
    in the platform economy," *Journal of Digital Economy* 5: 257–270. [doi.org/10.1016/j.jdec.2026.06.005](https://doi.org/10.1016/j.jdec.2026.06.005) —
-   fetch blocked (Elsevier/ScienceDirect) to this session 2026-08-26; summary drawn from
-   search-indexed secondary characterization, not the paper's own text. Used only for the
+   full text not accessible at last review (2026-08-26); the summary rests on secondary
+   descriptions of the paper rather than its own text. Used only for the
    natural-advantage/locational-rent framing of digital rent (C-claim; not independently
    verified, no verbatim quotation offered).

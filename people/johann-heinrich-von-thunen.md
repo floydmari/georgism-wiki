@@ -46,6 +46,6 @@ his modern descendants.
 2. "Johann Heinrich von Thünen," Encyclopædia Britannica, and the New Palgrave
    Dictionary of Economics entry (Springer) — used for the Tellow 1810 purchase,
    the 1826 Volume 1 publication, and the 1826–1848 dating of the Volume 2
-   marginal-productivity wage analysis (A-claims; verified this session).
+   marginal-productivity wage analysis (A-claims; verified 2026-07-06).
    [Britannica](https://www.britannica.com/biography/Johann-Heinrich-von-Thunen) ·
    [Der isolierte Staat, Internet Archive](https://archive.org/details/derisoliertestaa00thuoft)

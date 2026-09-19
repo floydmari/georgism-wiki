@@ -108,7 +108,7 @@ relic incompatible with rigorous marginal analysis.
 
 1. Wikipedia, "Léon Walras" — used for biographical dates, the general
    equilibrium and marginalist-founder facts, the Lausanne School, and the
-   land-nationalization/tax-abolition summary (verified this session against
+   land-nationalization/tax-abolition summary (verified 2026-07-17 against
    the live article, including its "Georgist economists" categorization).
    [en.wikipedia.org/wiki/Léon_Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras)
 2. Eric A. Posner & E. Glen Weyl, *Radical Markets: Uprooting Capitalism and

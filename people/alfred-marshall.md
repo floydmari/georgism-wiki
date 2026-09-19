@@ -56,7 +56,7 @@ should pay only for services to property.[4]
 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997) — used for
    Marshall's rent treatment and quasi-rents (A-claims; provenance-pending scan —
    see book page). [Book page](/wiki/economic-theory-in-retrospect/)
-3. Marshall's site-value-taxation position — verified this session: Marshall
+3. Marshall's site-value-taxation position (verified 2026-07-17): Marshall
    advocated a **"fresh air rate,"** a charge on the portion of urban land value
    created by the concentration of population, its proceeds to fund green spaces
    between and within towns — his practical application of the idea that the

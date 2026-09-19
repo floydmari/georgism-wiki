@@ -34,8 +34,9 @@ landowners on new leases — a variable-cost substitution rather than a net new 
 His design recommendation is a **net-proceeds** (post-extraction-cost) tax base, used
 in Nevada, Idaho, Utah, and South Dakota, over a flat gross-wellhead-value levy, on the
 ground that it targets pure rent more precisely and allows a higher rate without
-discouraging genuinely marginal production. (D-claim: incidence reasoning and design
-argument in an advocacy essay/legislative testimony, not a peer-reviewed estimate.)
+discouraging genuinely marginal production — incidence reasoning and a design
+argument from an advocacy essay and legislative testimony rather than a
+peer-reviewed estimate.
 
 ## Leasing-Based Rent Capture — Gaffney's Alaska Ad Valorem Charge
 
@@ -50,15 +51,15 @@ unlike bonus bids and most royalty schemes, which are set *ex ante* on guesswork
 about what a tract might contain. Gaffney frames the case for it against a
 cautionary anecdote: a 1965 noncompetitive lease auction in which Alaska sold what he
 estimates at roughly $10 billion of oil at Prudhoe Bay for $6 million, the kind of
-underpricing an ex post, reserves-based charge is designed to avoid. (D-claim:
+underpricing an ex post, reserves-based charge is designed to avoid. This is a
 design argument and administrative-practicality reasoning in a commissioned
 government report, not an econometric estimate — though the report's companion
 Part II appendices do supply an independent econometric estimate for the
 *rejected* alternative: contributor Richard Norgaard's regression of Alaska's own
 Cook Inlet lease sales found bonus bidding captured only 9–16% of realized rent
-there, a B-claim corroborating Gaffney's ranking of bonus bidding below the AVC
+there, corroborating Gaffney's ranking of bonus bidding below the AVC
 without directly testing the AVC itself — see
-[Part II](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l).)
+[Part II](/wiki/gaffney-alaska-oil-leasing/#part-ii-the-appendices-a-l).
 
 ## Rent Capture in Forestry — Gaffney on Site-Value vs. Yield Taxation
 
@@ -83,8 +84,8 @@ logic to *public* forestland, Gaffney argued the US Forest Service's roughly
 $42 billion in National Forest holdings (Marion Clawson's estimate) were
 earning essentially no return relative to that imputed capital cost — proposing
 Congress require the Service to account for its holdings' opportunity cost the
-way private landowners already must under property taxation.[9] (D-claims:
-design/incidence arguments in a technical monograph and applied policy essays,
+way private landowners already must under property taxation.[9] (These are
+design and incidence arguments in a technical monograph and applied policy essays,
 not econometric estimates — see the [full page](/wiki/gaffney-forest-taxation/)
 for the honest scope caveats.)
 
@@ -113,7 +114,7 @@ instruments known to man," because an extraction-only base lets absentee lessees
 control the timing of state revenue — the same design flaw his later, more
 formal [California severance-tax work](/wiki/gaffney-california-severance-tax/)
 argues against by taxing the resource's value in place rather than only its
-extraction. (D-claims: design and incidence arguments and historical
+extraction. (These are design and incidence arguments and historical
 illustrations in a conference address, not econometric estimates — see the
 [full page](/wiki/gaffney-montana-land-policy/) for the honest scope caveats.)
 
@@ -136,7 +137,7 @@ tenure and forces rather than merely permits exploration, because "the tenure
 instrument itself is the tax base." He judges government ownership worst on
 efficiency grounds despite endorsing it as workable in principle, citing
 Alberta and OPEC as owner-governments whose ownership produced cartel behavior
-rather than efficient extraction. (D-claim: theoretical/design argument in an
+rather than efficient extraction. (This is a theoretical and design argument in an
 edited-volume closing essay, not an econometric estimate — see the [full
 page](/wiki/gaffney-extractive-resources-taxation/) for the complete argument
 and honest scope caveats.)
@@ -185,7 +186,7 @@ led by **leasehold abandonment**, where roughly 80% of the de facto cost of
 lease acquisition (the four-fifths of exploratory leases that prove dry) is
 expensed as an ordinary loss rather than capitalized as part of the
 producing lease's true acquisition cost — "the weightiest question in oil
-tax law, in dollar values." (D-claims: design and tax-policy arguments in
+tax law, in dollar values." (These are design and tax-policy arguments in
 advocacy essays, not econometric estimates — see the [full
 page](/wiki/gaffney-mineral-leasing-tax-reform/) for the complete taxonomy
 and honest scope caveats.)
@@ -228,7 +229,7 @@ and no property tax — are chronically undermotivated to sell); that only
 net consumptive use is a social cost (he adds an entropy/elevation-loss
 argument specific to water); and that common rights necessarily produce
 tragedy (a state revenue-collection duty, not open access, is one way of
-asserting a common right). (D-claims: advocacy/policy essays, not
+asserting a common right). (These are advocacy and policy essays, not
 econometric studies — see the [full
 page](/wiki/gaffney-water-rent-taxation/) for the complete argument and
 honest scope caveats, including a note on this page's OCR-quality
@@ -238,15 +239,15 @@ limitation for the 1961 essay.)
 
 ### Barnes: Rent Capture for Common Assets
 
-Peter Barnes proposes a systematic framework for capturing resource rents from common assets in [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). His commons trust model would charge rent for use of the atmosphere (carbon), electromagnetic spectrum, water, and other shared assets, distributing the proceeds as per-capita dividends (Barnes 2006, Ch. 5–6). The framework extends Georgist rent capture from land to all common inheritances, applying the same logic — charge for use of what nobody made, return the proceeds to all — to the atmospheric and resource domains. (C-claim; theoretical)
+Peter Barnes proposes a systematic framework for capturing resource rents from common assets in [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). His commons trust model would charge rent for use of the atmosphere (carbon), electromagnetic spectrum, water, and other shared assets, distributing the proceeds as per-capita dividends (Barnes 2006, Ch. 5–6). The framework extends Georgist rent capture from land to all common inheritances, applying the same logic — charge for use of what nobody made, return the proceeds to all — to the atmospheric and resource domains.
 
-In [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014), Barnes distinguishes "extracted rent" — rent captured privately from common assets — from "recycled rent" — rent captured for public benefit and distributed as dividends (Barnes 2014, Ch. 4–5). For Barnes, the point of the taxonomy is that the question is not only whether rent is captured, but whether it is extracted for private benefit or recycled for the common good. Note the extension of the land/resource logic to assets like the atmosphere and spectrum inherits the frontier caveats — the empirical base is strongest for land and subsoil resources. (D-claim; attributed)
+In [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014), Barnes distinguishes "extracted rent" — rent captured privately from common assets — from "recycled rent" — rent captured for public benefit and distributed as dividends (Barnes 2014, Ch. 4–5). For Barnes, the point of the taxonomy is that the question is not only whether rent is captured, but whether it is extracted for private benefit or recycled for the common good. Note the extension of the land/resource logic to assets like the atmosphere and spectrum inherits the frontier caveats — the empirical base is strongest for land and subsoil resources.
 
 ### Daly: Ecological Limits to Rent Extraction
 
-Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/) (1999) adds an ecological constraint to resource rent analysis. Daly argues that the economy is "a subsystem of a larger ecosystem that is finite, non-growing, and materially closed" (Daly 1999, p. 14), and that resource extraction is subject to throughput limits set by the biosphere's regenerative and absorptive capacity. This framework implies that resource rent capture must consider ecological limits: extracting rent from a depleting resource is fiscally attractive but environmentally unsustainable if the extraction rate exceeds ecological thresholds. (C-claim; theoretical)
+Herman Daly's framework in [*Ecological Economics and the Ecology of Economics*](/wiki/ecological-economics-daly/) (1999) adds an ecological constraint to resource rent analysis. Daly argues that the economy is "a subsystem of a larger ecosystem that is finite, non-growing, and materially closed" (Daly 1999, p. 14), and that resource extraction is subject to throughput limits set by the biosphere's regenerative and absorptive capacity. This framework implies that resource rent capture must consider ecological limits: extracting rent from a depleting resource is fiscally attractive but environmentally unsustainable if the extraction rate exceeds ecological thresholds.
 
-Daly's concept of "uneconomic growth" — growth that costs more in sacrificed ecosystem services than it contributes in production value (Daly 1999, Ch. 2) — connects resource rent theory to ecological economics: the rent from resource extraction may itself be a signal of ecological cost rather than pure surplus, particularly where extraction depletes finite stocks faster than natural regeneration allows. (D-claim; interpretive)
+Daly's concept of "uneconomic growth" — growth that costs more in sacrificed ecosystem services than it contributes in production value (Daly 1999, Ch. 2) — connects resource rent theory to ecological economics: the rent from resource extraction may itself be a signal of ecological cost rather than pure surplus, particularly where extraction depletes finite stocks faster than natural regeneration allows.
 
 ## See Also
 

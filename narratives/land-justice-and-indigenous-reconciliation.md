@@ -316,8 +316,8 @@ Indigenous claims touch — each of which comes bundled with its own limit.
 10. Sarah Robidoux (2026), "Why We Can't Afford Pipelines: State-Corporate Rentierism on
     Wet'suwet'en Territory," University of Ottawa master's thesis, uOttawa institutional
     repository, DOI 10.20381/ruor-32155. [doi.org](https://doi.org/10.20381/ruor-32155) —
-    fetch blocked to this session 2026-08-25; summary drawn from the thesis's own abstract
-    and keywords (Rentier Capitalism, State-Corporate Crime, Indigenous Protests). Used for
+    full text not accessible at last review (2026-08-25); summary rests on the thesis's own
+    abstract and keywords (Rentier Capitalism, State-Corporate Crime, Indigenous Protests). Used for
     the 2020 Wet'suwet'en pipeline protest case, the state-corporate-rentierism/Fraser
     "boundary struggles" framing, and the memorandum-of-understanding-without-resolution
     outcome (C-claim; unpublished thesis, not peer-reviewed, abstract-level only).

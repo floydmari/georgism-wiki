@@ -73,9 +73,9 @@ is a useful honest counterweight the wiki should not omit.
 
 ## Nuances and Limits
 
-- **This page is built from a review, not a full read of the book.** Claims about the
+- **This entry rests on a review rather than on the book itself.** Claims about the
   book's specific arguments and the Vienna proposal are as characterized in Fainstein's
-  review; a full independent read of the book itself was not conducted this session.
+  review.
 - **Fainstein's supply-side criticism is a live tension**, not resolved here: whether land
   speculation or supply restriction is the dominant driver of urban housing unaffordability
   remains genuinely contested in the literature the wiki surveys elsewhere (see [housing
@@ -96,11 +96,11 @@ is a useful honest counterweight the wiki should not omit.
 1. Susan S. Fainstein (2025), Review of Patrick M. Condon, *Broken City: Land Speculation,
    Inequality, and Urban Crisis*, *International Journal of Urban and Regional Research*,
    published online 31 October 2025, DOI 10.56949/1xka3791.
-   [ijurr.org](https://www.ijurr.org/book_review/broken-city-book-review/) — fetched and
-   read 2026-08-26; used for the book's central argument, the critique of Glaeser and
+   [ijurr.org](https://www.ijurr.org/book_review/broken-city-book-review/) — read in full,
+   2026-08-26; used for the book's central argument, the critique of Glaeser and
    density deregulation, the Vienna proposal, and Fainstein's praise and criticism, all
-   quoted verbatim from the retrieved review text (B-claim; review read directly, book
-   itself not independently read).
+   quoted verbatim from the review text (B-claim; review read directly, the book
+   itself not read).
 2. Patrick M. Condon (2024), *Broken City: Land Speculation, Inequality, and Urban Crisis*
-   — publication details (publisher, ISBN) not independently verified this session; cited
-   via the Fainstein review above.
+   — publication details (publisher, ISBN) not independently verified at last review
+   (2026-08-26); cited via the Fainstein review above.

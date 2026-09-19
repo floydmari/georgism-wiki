@@ -81,9 +81,9 @@ self-identified Georgists.
 1. Institute for Fiscal Studies — official site, "About" and "History of the IFS" pages
    [ifs.org.uk/about](https://ifs.org.uk/about) — used for the founding date (incorporated 21 May
    1969), charitable/company status and address, the founders, and the verbatim mission statement.
-   Facts corroborated via web search of the IFS site and the Charity Commission register (charity
-   no. 258815) this session; the IFS site itself is Akamai-blocked to this proxy and could not be
-   fetched directly.
+   Facts corroborated against the IFS site and the Charity Commission register (charity
+   no. 258815); the IFS site itself was not directly accessible at last review (2026-07-07),
+   so its content is cited as described by those secondary records.
 2. Landmark IFS studies carried on their own wiki pages, cited there:
    [Meade Report (1978)](/wiki/meade-report/), [Mirrlees Review (2011)](/wiki/mirrlees-review/),
    and the Capital Taxes Group's [ACE](/wiki/allowance-for-corporate-equity/) — used for the IFS's

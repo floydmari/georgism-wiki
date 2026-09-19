@@ -85,7 +85,7 @@ land-tax politics of the twentieth century. Two lineages run through it:
    unearned-increment tax, abolition of primogeniture/entail, cooperative agriculture,
    reclamation of waste lands), and Mill's authorship (cited at locator level on the wiki's
    [Mill research page](/wiki/mill-principles-land/); founding date and membership — Fawcett,
-   Dilke — verified via the LTRA record this session).
+   Dilke — verified against the LTRA record, 2026-07-07).
 2. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 §11 — used for the
    LTRA's place in the rent-taxation lineage and the 1909/1947 legislative descendants
    (A-claims; provenance-pending scan — see the

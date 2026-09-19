@@ -8,19 +8,19 @@ excerpt: "Historian and Smithsonian curator, author of 'Dispossession' (2013) on
 
 ## Summary
 
-Pete Daniel is an American historian and former curator at the Smithsonian Institution's National Museum of American History. He is the author of *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (2013), which documents how the U.S. Department of Agriculture systematically discriminated against African American farmers through its county committee system, loan policies, and extension services — even during the civil rights era. His work connects land access, racial justice, and institutional discrimination in ways that resonate with Georgist concerns about the relationship between land ownership and poverty. (A-claim; factual)
+Pete Daniel is an American historian and former curator at the Smithsonian Institution's National Museum of American History. He is the author of *Dispossession: Discrimination Against African American Farmers in the Age of Civil Rights* (2013), which documents how the U.S. Department of Agriculture systematically discriminated against African American farmers through its county committee system, loan policies, and extension services — even during the civil rights era. His work connects land access, racial justice, and institutional discrimination in ways that resonate with Georgist concerns about the relationship between land ownership and poverty.
 
 ## Key Ideas/Contributions
 
-- **"Passive nullification."** Daniel's key analytical concept describes how USDA officials, particularly at the county committee level, systematically obstructed civil rights enforcement through bureaucratic inertia, technicalities, and local power structures — achieving racial discrimination without explicit segregationist mandates. (D-claim; interpretive)
+- **"Passive nullification."** Daniel's key analytical concept describes how USDA officials, particularly at the county committee level, systematically obstructed civil rights enforcement through bureaucratic inertia, technicalities, and local power structures — achieving racial discrimination without explicit segregationist mandates.
 
-- **The county committee system as a mechanism of dispossession.** Daniel documents how USDA county committees, dominated by white landowners, controlled access to federal farm programs, loans, and acreage allotments. This system effectively excluded African American farmers from the capital and program benefits that sustained American agriculture through the mid-20th century. (B-claim; empirical)
+- **The county committee system as a mechanism of dispossession.** Daniel documents how USDA county committees, dominated by white landowners, controlled access to federal farm programs, loans, and acreage allotments. This system effectively excluded African American farmers from the capital and program benefits that sustained American agriculture through the mid-20th century.
 
-- **The decline of black-owned farms.** Daniel traces the catastrophic loss of African American farmland: from 925,000 black farms in 1920 to 45,594 black farmers by 1974 — a 93 percent decline from the 1940 figure of 681,790 (Daniel 2013, pp. 1, 27–28). He argues this was not an inevitable market outcome but the product of systematic institutional discrimination. (B-claim; empirical)
+- **The decline of black-owned farms.** Daniel traces the catastrophic loss of African American farmland: from 925,000 black farms in 1920 to 45,594 black farmers by 1974 — a 93 percent decline from the 1940 figure of 681,790 (Daniel 2013, pp. 1, 27–28). He argues this was not an inevitable market outcome but the product of systematic institutional discrimination.
 
-- **Pigford v. Glickman.** Daniel documents the 1999 class-action lawsuit (Pigford v. Glickman) that found USDA had discriminated against African American farmers, and the subsequent political struggle to fund the settlement. The case represented the legal vindication of decades of dispossession. (A-claim; factual)
+- **Pigford v. Glickman.** Daniel documents the 1999 class-action lawsuit (Pigford v. Glickman) that found USDA had discriminated against African American farmers, and the subsequent political struggle to fund the settlement. The case represented the legal vindication of decades of dispossession.
 
-- **Georgist relevance.** While Daniel does not frame his work in Georgist terms, his documentation of how institutional power determines who has access to land and its product connects directly to George's core insight that land access and land-value capture are fundamentally questions of political economy, not just market efficiency. (D-claim; interpretive)
+- **Georgist relevance.** While Daniel does not frame his work in Georgist terms, his documentation of how institutional power determines who has access to land and its product connects directly to George's core insight that land access and land-value capture are fundamentally questions of political economy, not just market efficiency.
 
 ## Key Works
 

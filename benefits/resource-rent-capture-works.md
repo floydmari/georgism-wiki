@@ -346,7 +346,7 @@ necessary; the institutions are what make it sufficient.
 ## Sources
 
 1. Norwegian Petroleum Directorate / Skatteetaten, petroleum-tax pages — used for the
-   78% combined marginal rate and the 2022 cash-flow conversion (verified this session;
+   78% combined marginal rate and the 2022 cash-flow conversion (verified 2026-07-18;
    details and quotes on the [cash-flow tax](/wiki/cash-flow-tax/) page).
    [norskpetroleum.no](https://www.norskpetroleum.no/en/economy/petroleum-tax/)
 2. Norges Bank Investment Management, "About the fund" — used for the GPFG's size
@@ -354,7 +354,7 @@ necessary; the institutions are what make it sufficient.
    petroleum-surplus origin (A-claims). [NBIM](https://www.nbim.no/en/about-us/about-the-fund/)
 3. Norwegian Ministry of Finance, "The Norwegian Fiscal Policy Framework"
    (*handlingsregelen*) — used for the budgetary rule and the 2017 reduction from 4%
-   to 3% of expected real return (A-claim; verified this session).
+   to 3% of expected real return (A-claim; verified 2026-07-18).
    [regjeringen.no](https://www.regjeringen.no/en/topics/the-economy/economic-policy/economic-policy/id418083/)
 4. Jeffrey D. Sachs & Andrew M. Warner (1995/2001), "Natural Resources and Economic
    Development: The curse of natural resources," *European Economic Review* 45 — used
@@ -437,8 +437,8 @@ necessary; the institutions are what make it sufficient.
     — used for the Kaweah River marginal-productivity dispersion case study
     and the price-umbrella/racing/logrolling dynamic (single-river-system
     case study generalized by assertion, not a multi-system statistical
-    sample; text recovered via fresh OCR of a poor legacy scan — see the
-    dedicated page's `[VERIFY]` note; corroborating, not load-bearing).
+    sample; the available text is an OCR transcription of a poor legacy
+    scan, so wording may be imperfect; corroborating, not load-bearing).
 17. Mason Gaffney (1992), "The Taxable Surplus in Water Resources,"
     *Contemporary Policy Issues* 10, pp. 74–82 —
     [wiki summary](/wiki/gaffney-water-rent-taxation/) ·

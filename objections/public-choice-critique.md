@@ -201,8 +201,8 @@ visible to hide, plus a distribution rule too flat to lobby, is — on public-ch
 itself — about the least Leviathan-friendly configuration a large revenue stream can
 have. (On one academic reading George anticipated this whole line: Borcherding, Dillon
 and Willett present him as a "precursor to public choice analysis" who warned of
-rent-seeking dangers himself — a characterization this wiki has verified only to their
-essay's abstract.[9])
+rent-seeking dangers himself — a characterization drawn from that essay's abstract, the
+full text being paywalled.[9])
 
 ## Limits and Caveats
 
@@ -251,7 +251,7 @@ stands.
 
 ## See Also
 
-- [Brennan & Buchanan, *The Power to Tax*](/wiki/brennan-buchanan-power-to-tax/) — the Leviathan anchor, read in full
+- [Brennan & Buchanan, *The Power to Tax*](/wiki/brennan-buchanan-power-to-tax/) — the Leviathan anchor
 - [Tullock, "The Transitional Gains Trap"](/wiki/tullock-transitional-gains-trap/) — the capitalization-trap anchor
 - [Rent-Seeking](/wiki/rent-seeking/) · [Deadweight Loss](/wiki/deadweight-loss/)
 - [Objection: land value can't be assessed](/wiki/land-cannot-be-assessed/) — the technical sibling of the discretion worry
@@ -289,19 +289,19 @@ stands.
    Tollison & Gordon Tullock (eds.), *Toward a Theory of the Rent-Seeking Society* (Texas
    A&M University Press, 1980), pp. 3–15 — used for the three-levels-of-rent-seeking
    analysis (objection 4) and the nondifferential-distribution escape valve (response 5).
-   Read in full this session via a course-reader reprint
+   Read in full (2026-08-16) via a course-reader reprint
    ([PDF](https://publics22.classes.ryansafner.com/readings/Buchanan-1999.pdf), paginated
    103–115); quotes are verbatim from that reprint (quoted passages at reprint
    pp. 112–113), whose pagination has not been checked against the 1980 print edition.
 7. William A. Niskanen, *Bureaucracy and Representative Government* (Aldine-Atherton,
    1971) — used, in paraphrase only, for the budget-maximizing-bureau mechanism
    (the standard attribution, to p. 38, of the bureaucrat's utility arguments rising with
-   budget); the primary text was not obtained this session (archive.org copy is
-   lending-restricted), so no verbatim quotation is used.
+   budget); the primary text was not accessible at last review (the archive.org
+   copy is lending-restricted), so no verbatim quotation is used.
 8. James M. Buchanan, *Public Finance in Democratic Process: Fiscal Institutions and
    Individual Choice* (1967; Collected Works Vol. 4, Liberty Fund).
    [Full text (OLL PDF)](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1073/0102.04_LFeBk.pdf)
-   — read this session; used for the Puviani fiscal-illusion catalog (Ch. 10, print
+   — read in full (2026-08-16); used for the Puviani fiscal-illusion catalog (Ch. 10, print
    pp. 130–133) and Buchanan's report of the David (1961) survey finding that property
    owners are less favorable to property taxation than renters (pp. 195–196).
 9. Thomas E. Borcherding, Patricia Dillon & Thomas D. Willett, "Henry George: Precursor
@@ -310,7 +310,7 @@ stands.
    its abstract-level thesis, explicitly flagged as verified no further than the abstract.
 10. Tim Worstall, "A British Land Value Tax Would Be An Abject Failure" (Substack, 2026).
    [timworstall.substack.com](https://timworstall.substack.com/p/a-british-land-value-tax-would-be) —
-   article fetched and read 2026-08-16; used for the "cannot reduce the supply of land"/
+   read in full, 2026-08-16; used for the "cannot reduce the supply of land"/
    "does not stop existing because it has been taxed" concession, the 2026 UK business-rates
    pub-discount/vape-shop example, and the "An LVT with deadweights is not, in fact, an LVT"
    conclusion (D-claim; independent commentary, not peer-reviewed, cited as a concrete

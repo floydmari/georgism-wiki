@@ -24,5 +24,5 @@ Proudhon's slogan places him at one pole of the property-rights argument that ru
 
 ## Sources
 
-1. "Pierre-Joseph Proudhon," [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) — used for the biography (birth/death, *What Is Property?*, the "property is theft" slogan, the property/possession distinction, and his status as the first self-declared anarchist; basic facts, verified this session).
+1. "Pierre-Joseph Proudhon," [Wikipedia](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) — used for the biography (birth/death, *What Is Property?*, the "property is theft" slogan, the property/possession distinction, and his status as the first self-declared anarchist; basic facts, verified 2026-07-11).
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane, *Rethinking the Economics of Land and Housing*, Zed Books, 2017, Ch. 2 §2.5, Ch. 3 §3.2 — used for Proudhon's place among the historical property-rights theorists the book surveys alongside Locke, Paine, Marx, and Mill, and for the discovery locator. [Wiki summary](/wiki/rethinking-economics-land-housing/)

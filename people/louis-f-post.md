@@ -83,6 +83,6 @@ character.
    1923), and the standard biographical record of his Labor Department tenure — used for the
    acting-secretary role (March 1920), the review of ~1,600 cases with ~71% dismissed, the
    cancellation of well over 1,500 warrants, and the failed Hoch impeachment attempt (House
-   Rules Committee testimony, 7–8 May 1920). Warrant counts and dates verified this session
+   Rules Committee testimony, 7–8 May 1920). Warrant counts and dates verified 2026-07-07
    via the biographical record (Wikipedia; *Saturday Evening Post*, 2025).
    [Wikipedia: Louis F. Post](https://en.wikipedia.org/wiki/Louis_F._Post)

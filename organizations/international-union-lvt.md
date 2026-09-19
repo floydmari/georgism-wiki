@@ -31,6 +31,6 @@ The IU's near-century of continuous operation reflects the international reach H
 
 ## Sources
 
-1. International Union for Land Value Taxation (the IU) — "About Us." [theIU.org](https://www.theIU.org/) — used (fetched directly this session) for the "Established in 1926" statement, the stated purpose ("promote sustainable prosperity for all via public finance policy reform" and the economic-rent framing, quoted verbatim), the consultants programme, and the UN ECOSOC consulting status.
+1. International Union for Land Value Taxation (the IU) — "About Us." [theIU.org](https://www.theIU.org/) — used (read directly, 2026-07-11) for the "Established in 1926" statement, the stated purpose ("promote sustainable prosperity for all via public finance policy reform" and the economic-rent framing, quoted verbatim), the consultants programme, and the UN ECOSOC consulting status.
 2. Henry George School of Social Science, archival finding aid: "The International Union for Land Value Taxation and Free Trade, 1926–1991." [hgarchives.org](https://hgarchives.org/historical-collections-2/the-international-union-for-land-value-taxation-and-free-trade-1926-1991/) — independent confirmation that the IU "was formed in July 1926" and of its original name including "and Free Trade."
 3. "The IU," Wikipedia. [en.wikipedia.org/wiki/The_IU](https://en.wikipedia.org/wiki/The_IU) — used for founded 1926, London location, "Special Consultative Status at the United Nations," and the umbrella-organisation description (tertiary source, consistent with 1 and 2).

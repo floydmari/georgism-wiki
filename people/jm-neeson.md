@@ -8,19 +8,19 @@ excerpt: "Historian and author of 'Commoners' (1993) on English enclosure and co
 
 ## Summary
 
-J.M. (Jeanette M.) Neeson is a historian of eighteenth-century England, now Professor Emerita at York University, Toronto. She is the author of *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (1993, Cambridge University Press, Past and Present Publications), a detailed study of English enclosure and its impact on common people in Northamptonshire. Neeson began this research at the Centre for the Study of Social History at the University of Warwick under the supervision of E.P. Thompson. (A-claim; factual)
+J.M. (Jeanette M.) Neeson is a historian of eighteenth-century England, now Professor Emerita at York University, Toronto. She is the author of *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (1993, Cambridge University Press, Past and Present Publications), a detailed study of English enclosure and its impact on common people in Northamptonshire. Neeson began this research at the Centre for the Study of Social History at the University of Warwick under the supervision of E.P. Thompson.
 
 ## Key Ideas/Contributions
 
-- **Common rights as lived practice.** Neeson's work documents how common rights — the legal right to use common land (profit a prendre) — were not abstract legal concepts but essential livelihood for smallholders, cottagers, and landless laborers. Access to common pasture, firewood, gleaning, and turf made the difference between subsistence and destitution for many rural families. (B-claim; empirical)
+- **Common rights as lived practice.** Neeson's work documents how common rights — the legal right to use common land (profit a prendre) — were not abstract legal concepts but essential livelihood for smallholders, cottagers, and landless laborers. Access to common pasture, firewood, gleaning, and turf made the difference between subsistence and destitution for many rural families.
 
-- **The social cost of enclosure.** Neeson documents how parliamentary enclosure (primarily 1750–1820) extinguished common rights, disproportionately harming the poorest rural dwellers. While larger landowners benefited from consolidation, smallholders and landless families lost access to resources that had sustained them for generations. (B-claim; empirical)
+- **The social cost of enclosure.** Neeson documents how parliamentary enclosure (primarily 1750–1820) extinguished common rights, disproportionately harming the poorest rural dwellers. While larger landowners benefited from consolidation, smallholders and landless families lost access to resources that had sustained them for generations.
 
-- **Northamptonshire case study.** Neeson's detailed archival work focuses on Northamptonshire, using Land Tax returns, enclosure awards, parish records, and manorial documents to trace who held common rights, who lost them, and what happened to commoners after enclosure. Villages like West Haddon and Burton Latimer serve as detailed case studies. (A/B-claim; empirical)
+- **Northamptonshire case study.** Neeson's detailed archival work focuses on Northamptonshire, using Land Tax returns, enclosure awards, parish records, and manorial documents to trace who held common rights, who lost them, and what happened to commoners after enclosure. Villages like West Haddon and Burton Latimer serve as detailed case studies.
 
-- **Counter to productivity arguments.** Neeson engages with the argument (McCloskey, Allen) that enclosure increased agricultural productivity, arguing that this perspective ignores the distributional consequences — the gains accrued to large landowners while the costs fell on the poorest. (D-claim; interpretive)
+- **Counter to productivity arguments.** Neeson engages with the argument (McCloskey, Allen) that enclosure increased agricultural productivity, arguing that this perspective ignores the distributional consequences — the gains accrued to large landowners while the costs fell on the poorest.
 
-- **Georgist relevance.** Neeson's documentation of how enclosure transferred wealth from commoners to landowners directly parallels Henry George's analysis of how private appropriation of common land creates poverty. The enclosure movement is the English historical case study for George's argument that land is the gift of nature and its privatization is the root of inequality. (D-claim; interpretive)
+- **Georgist relevance.** Neeson's documentation of how enclosure transferred wealth from commoners to landowners directly parallels Henry George's analysis of how private appropriation of common land creates poverty. The enclosure movement is the English historical case study for George's argument that land is the gift of nature and its privatization is the root of inequality.
 
 ## Key Works
 

@@ -82,9 +82,9 @@ reform proposal faces.
   microsimulation studies, this models the distributional effect of the tax change on the
   existing population and asset distribution; it does not model behavioral responses,
   transition costs, or the political economy of implementation.
-- **Abstract-level source for the SSRN paper itself (B-claim); the companion blog analysis
-  was read in full (A-claim) for its specific figures.** SSRN blocked direct access to the
-  paper's full text.
+- **Abstract-level source for the SSRN paper itself; the companion blog analysis was read in
+  full for its specific figures.** The paper's full text is not publicly accessible, so the
+  account of it here rests on its abstract.
 
 ## Bears On
 
@@ -104,8 +104,8 @@ reform proposal faces.
 1. Vahid Ahmadi & Max Ghenis (2026), "Replacing Council Tax With a Land Value Tax: A
    Household-Level Microsimulation for the UK," SSRN Working Paper, DOI
    10.2139/ssrn.7242479. [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7242479) —
-   fetch blocked (403) to this session 2026-08-29; verbatim abstract obtained via the
-   Crossref API — used for the 0.79% central-scenario rate, the £58.5bn revenue figure, the
+   full text not accessible at last review (2026-08-29); the verbatim abstract was read
+   instead — used for the 0.79% central-scenario rate, the £58.5bn revenue figure, the
    0.5–5% rate-sweep design, the citizen's-dividend/exempt-band features, and the 63–76%
    gaining-households range (B-claim; abstract-level).
 2. PolicyEngine, "How replacing council tax with a flat land value tax would affect

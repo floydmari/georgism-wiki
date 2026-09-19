@@ -22,27 +22,27 @@ Barnes's central thesis is that "all persons have a right to income from wealth 
 
 ### The Tragedy of the Middle Class
 
-Barnes documents that "as we approached and then entered the twenty-first century, our economy continued to grow, but almost all of its gains flowed to a wealthy few" (Barnes 2014, Ch. 1). He frames the decline of the middle class as a systemic problem, not a cyclical one. (B-claim; empirical)
+Barnes documents that "as we approached and then entered the twenty-first century, our economy continued to grow, but almost all of its gains flowed to a wealthy few" (Barnes 2014, Ch. 1). He frames the decline of the middle class as a systemic problem, not a cyclical one.
 
 ### The Simple Idea
 
-The book's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). Barnes distinguishes dividends from redistribution: "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later" (Barnes 2014, Preface). (C-claim; theoretical)
+The book's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). Barnes distinguishes dividends from redistribution: "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later" (Barnes 2014, Preface).
 
 ### Extracted vs. Recycled Rent
 
-Barnes distinguishes "extracted rent" (Ch. 4) — rent captured by private entities from common assets — from "recycled rent" (Ch. 5) — rent captured for public benefit and distributed as dividends. This framework extends Georgist rent capture beyond land to all common wealth. (C-claim; theoretical)
+Barnes distinguishes "extracted rent" (Ch. 4) — rent captured by private entities from common assets — from "recycled rent" (Ch. 5) — rent captured for public benefit and distributed as dividends. This framework extends Georgist rent capture beyond land to all common wealth.
 
 ### The Alaska Model
 
-Ch. 6 examines the Alaska Permanent Fund as a working model of common-wealth dividends. The Alaska Permanent Fund, established in 1980, distributes annual dividends to all Alaska residents from oil revenue invested in a state-owned fund (Barnes 2014, Ch. 6). Barnes presents this as proof-of-concept for universal dividends. (B-claim; empirical)
+Ch. 6 examines the Alaska Permanent Fund as a working model of common-wealth dividends. The Alaska Permanent Fund, established in 1980, distributes annual dividends to all Alaska residents from oil revenue invested in a state-owned fund (Barnes 2014, Ch. 6). Barnes presents this as proof-of-concept for universal dividends.
 
 ### The Henry George Connection
 
-Barnes explicitly acknowledges Henry George as an intellectual predecessor: "My inspiration was that Monopoly itself had been invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George" (Barnes 2014, Ch. 1). He frames his proposal as extending Georgist principles from land to all common wealth. (A-claim; factual)
+Barnes explicitly acknowledges Henry George as an intellectual predecessor: "My inspiration was that Monopoly itself had been invented by Quakers to demonstrate the ideas of nineteenth-century American economist Henry George" (Barnes 2014, Ch. 1). He frames his proposal as extending Georgist principles from land to all common wealth.
 
 ### Carbon Capping as Cautionary Tale
 
-Ch. 8, "Carbon Capping: A Cautionary Tale," examines the failures of cap-and-trade as a model for commons-based policy. Barnes argues that carbon capping delivered windfalls to polluters rather than dividends to citizens, illustrating the importance of the trust-dividend structure. (D-claim; interpretive)
+Ch. 8, "Carbon Capping: A Cautionary Tale," examines the failures of cap-and-trade as a model for commons-based policy. Barnes argues that carbon capping delivered windfalls to polluters rather than dividends to citizens, illustrating the importance of the trust-dividend structure.
 
 ### The Appendix: Dividend Potential
 
@@ -63,7 +63,7 @@ Barnes proposes (Ch. 7, 9):
 
 ### Political Feasibility
 
-Barnes acknowledges that "powerful industries and individuals will fight dividends from co-owned wealth" and that "our political system is so dysfunctional right now that it can barely keep our government open" (Barnes 2014, Preface). He argues the 2008 crisis was "wasted because we didn't prepare for it beforehand" and that groundwork must be laid in advance. (D-claim; interpretive)
+Barnes acknowledges that "powerful industries and individuals will fight dividends from co-owned wealth" and that "our political system is so dysfunctional right now that it can barely keep our government open" (Barnes 2014, Preface). He argues the 2008 crisis was "wasted because we didn't prepare for it beforehand" and that groundwork must be laid in advance.
 
 ### Scope of Co-Owned Wealth
 

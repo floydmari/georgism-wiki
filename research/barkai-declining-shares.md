@@ -116,9 +116,9 @@ assumption of zero profit, but an explicit test against it — finds this rent-l
 grown so large is independently useful evidence for the wiki's broader claim that a rising share
 of modern income is captured rather than earned, a modern generalization of the rent problem
 [Henry George](/wiki/georgism/) identified in land. This is the reading that would connect Barkai
-to a forthcoming outcome page on corporate profits increasingly reflecting rents (not yet present
-in the wiki as of this writing; see Bears On below) rather than to the land-specific capital-share
-outcome.
+to the wiki's claim page on [corporate profits increasingly reflecting economic
+rents](/wiki/corporate-profits-increasingly-rents/) (see Bears On below) rather than to the
+land-specific capital-share outcome.
 
 **Where it complicates the land/housing reading of the rising capital share.** This is the more
 delicate wiring, and it matters to get right. The wiki's outcome page
@@ -208,11 +208,9 @@ where it can be stated precisely rather than compressed into a single frontmatte
   parallel, contemporaneous, and largely corroborating findings on rising concentration, markups,
   and profit; Barkai's paper is one of three independent measurement approaches converging on the
   same broad conclusion via different data and methods.
-- **A forthcoming outcome page on corporate profits increasingly reflecting rents** (not yet
-  present in this wiki as of this writing) — this paper's headline finding, that pure profits have
-  risen sharply while both labor's and capital's shares have fallen, is central evidence for such
-  a page once it exists; this page's `supports_outcomes` is intentionally left empty rather than
-  pointed at a slug that does not yet exist.
+- **[Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)**
+  — this paper's headline finding, that pure profits have risen sharply while both labor's and
+  capital's shares have fallen, is central evidence for that claim.
 
 ## See Also
 
@@ -229,8 +227,8 @@ where it can be stated precisely rather than compressed into a single frontmatte
 1. Simcha Barkai (2020), "Declining Labor and Capital Shares," *The Journal of Finance* 75(5),
    2421–2463. [DOI: 10.1111/jofi.12909](https://doi.org/10.1111/jofi.12909) — used for all
    figures, methodology, and quotations above (abstract; pp. 2421–2424 core findings and
-   methodology; pp. 2458–2460 concentration evidence, related literature, and conclusion). This
-   session obtained a first-hand read of the published article via an open-access copy
+   methodology; pp. 2458–2460 concentration evidence, related literature, and conclusion). The
+   published article was read in full in an open-access copy, 2026-07-04
    (this article is published under a Creative Commons Attribution-NonCommercial license per the
    journal's own header) — figures and quotations above are drawn directly from the primary text,
    not from secondary summaries.

@@ -35,8 +35,7 @@ prizes much greater than would have been necessary to call forth the particular
 effort... to a small minority of winners," and it is the *prizes* — not average
 returns — that propel the system.[1] The passage appears in Part II ("Can
 Capitalism Survive?"), Chapter VI ("Plausible Capitalism"), around pp. 73–74 of
-the Harper edition; the quotation was verified verbatim against the full text
-this session.
+the Harper edition.
 
 The tax-policy version: an "excess return" observed ex post cannot be sorted
 into pure rent versus the realized prize on ex-ante risk. A government that
@@ -128,7 +127,7 @@ The Geoist responses concede the core insight and dispute its scope.
    margins that look like the competitive returns this objection defends, not
    captured rent — even as it documents scale economies that could tip the
    market toward rent later.
-   The objection *gates the frontier* — it is the reason this wiki's
+   The objection *gates the frontier* — it is the reason the
    [rent gradient](/wiki/geoism/) exists — but it concedes the core.
 2. **Design can exempt the incentive — in theory completely.** Rent-only bases
    ([allowance for corporate equity](/wiki/allowance-for-corporate-equity/),
@@ -232,13 +231,14 @@ evidence base thins exactly where the claimed rents persist longest.
 
 ## Sources
 
-*(Citations gathered by snippet corroboration this session — the egress proxy blocked
-direct fetches; page-level verification routed to the Hermes work order.)*
+*(Except where an entry states otherwise, the bibliographic details below were
+corroborated from publisher listings and secondary descriptions rather than from a
+full-text reading.)*
 
 1. Joseph Schumpeter (1942), *Capitalism, Socialism and Democracy*, Harper,
    Part II ch. VI ("Plausible Capitalism"), pp. 73–74 — used for the "spectacular
    prizes" formulation of innovation incentive (quote ≤50 words; locator and
-   wording verified against the full text this session).
+   wording verified against the full text, 2026-07-18).
 2. Ufuk Akcigit, John Grigsby, Tom Nicholas & Stefanie Stantcheva (2022),
    "Taxation and Innovation in the Twentieth Century," *Quarterly Journal of
    Economics* 137(1), 329–385 — used for the taxes-reduce-invention evidence
@@ -259,7 +259,7 @@ direct fetches; page-level verification routed to the Hermes work order.)*
    attributed advocacy position, for the decomposition of supernormal returns by
    tax-responsiveness (normal returns most affected; risk/innovation supernormal
    returns still responsive; market-power returns least responsive). Authorship
-   and date verified this session.
+   and date verified (2026-07-18).
    [Tax Foundation](https://taxfoundation.org/research/all/federal/supernormal-returns-tax-policy-debates/)
 7. Mark Blaug, *Economic Theory in Retrospect* (5th ed., 1997), Ch. 3 §11 —
    used for the Marshall–George quasi-rent exchange and Blaug's

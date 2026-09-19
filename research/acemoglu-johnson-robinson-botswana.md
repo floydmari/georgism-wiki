@@ -114,7 +114,7 @@ curse.
    Dani Rodrik (ed.), *In Search of Prosperity: Analytic Narratives on Economic Growth*, Princeton
    University Press, 2003.
    [MIT full-text PDF](https://economics.mit.edu/sites/default/files/publications/An%20African%20Success%20Story%20Botswana.pdf)
-   (fetched and read this session) ·
+   (read in full, 2026-07-12) ·
    [CEPR DP3219](https://cepr.org/publications/dp3219) — used for the highest-per-capita-growth
    claim, the 7.7% annual growth and $5,796 income figures, the initial-conditions detail, the
    institutions-of-private-property thesis, the prudent-fiscal-policy / no-overvaluation (anti-

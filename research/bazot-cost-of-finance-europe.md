@@ -96,7 +96,7 @@ attributed and contested.
    (2.3%→8.2%, 1951–2007), the ~2% unit cost sitting close to the US level, the ~35%
    (0.6-cent) rise 1967–2007, the "began to grow from 1970 / remained high until 2007"
    finding, the nominal-rate and market-activity decomposition, and the attributed
-   "situational rent" open question (B- and D-claims; verified against the policy brief
-   this session). [Free PDF (IPP brief)](https://www.ipp.eu/wp-content/uploads/2014/06/n10-IPP-policy-brief-june2014.pdf) ·
+   "situational rent" open question (B- and D-claims; verified against the policy
+   brief). [Free PDF (IPP brief)](https://www.ipp.eu/wp-content/uploads/2014/06/n10-IPP-policy-brief-june2014.pdf) ·
    [HAL working paper](https://shs.hal.science/halshs-02527018) ·
    [JEEA (DOI, paywalled)](https://doi.org/10.1093/jeea/jvx008)

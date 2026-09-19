@@ -92,7 +92,7 @@ attributed.
   twentieth-century economics is real — that much Gaffney and the mainstream agree
   on; modern work like [Bonnet et al.](/wiki/bonnet-land-is-back/) treats its return
   as overdue. The dispute is over *why* it disappeared.
-- **What Blaug says about Gaffney directly.** The full article text confirms Blaug
+- **What Blaug says about Gaffney directly.** Blaug
   engages Gaffney's stratagem thesis **by name** — "A modern Georgist, Mason Gaffney
   (1994), has argued that this was a deliberate stratagem adopted first by Clark and
   then by virtually all orthodox economists as the lynch pin of an assault on Henry
@@ -105,12 +105,6 @@ attributed.
   reading is right. The page's framing of Blaug as the "mainstream rival" to Gaffney
   should be read in that light: it is a rival *explanation*, not a point-by-point
   refutation.
-- **Verification note.** The full article PDF was directly fetched and read this pass
-  from the open copy hosted by the Robert Schalkenbach Foundation's
-  cooperative-individualism.org archive; the abstract quotation ("not possible even in
-  principle to separate pure ground rent from profits on capital invested in land")
-  and pagination (pp. 270–288) are confirmed verbatim against the body text. Scan
-  depth upgraded to **Full**.
 - Milgate's review's exact page numbers in JEL 34(2) are unverified; venue and date
   are corroborated.
 
@@ -134,7 +128,8 @@ attributed.
    [Abstract](https://www.tandfonline.com/doi/abs/10.1080/096725600361816) ·
    [Free full text (PDF, cooperative-individualism.org)](https://cooperative-individualism.org/blaug-mark_henry-george-rebel-with-a-cause-2000-summer.pdf)
    — used for the analytic-grounds account and Blaug's direct handling of Gaffney;
-   full text fetched and read this pass, so quotations are verified against the body,
+   read in full (2026-07-12) from the open copy at cooperative-individualism.org, so
+   the quotations and the pagination (pp. 270–288) are verified against the body text,
    not only the published abstract (A/D-claims).
 2. Mark Blaug (ed.), *Henry George (1839–1897)*, Pioneers in Economics vol. 34,
    Edward Elgar, 1992. — used for Blaug's editorial engagement with George

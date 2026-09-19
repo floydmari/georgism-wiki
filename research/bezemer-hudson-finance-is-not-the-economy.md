@@ -170,7 +170,7 @@ the *facts*.
    20%→50% of all credit, 1990–2011); "mortgage credit … generates capital gains on real
    estate, not income"; the "financial 'profits' … are largely rents, not profit" and
    "zero-sum (or even negative-sum) activity" characterisations; and the NIPA
-   "rental income"/"earnings" conflation (B- and D-claims; verified against the full text
-   this session). [Free PDF (Hans-Böckler-Stiftung)](https://www.boeckler.de/pdf/v_2016_10_21_hudson.pdf) ·
+   "rental income"/"earnings" conflation (B- and D-claims; verified against the full
+   text). [Free PDF (Hans-Böckler-Stiftung)](https://www.boeckler.de/pdf/v_2016_10_21_hudson.pdf) ·
    [Author copy (michael-hudson.com)](https://michael-hudson.com/2016/08/finance-is-not-the-economy/) ·
    [Journal (Taylor & Francis, paywalled)](https://doi.org/10.1080/00213624.2016.1210384)

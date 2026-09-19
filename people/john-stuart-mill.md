@@ -146,7 +146,7 @@ classical tradition rather than outside it.
    ("the Interception by Taxation of the Future Unearned **Increase** of the Rent of Land,"
    cooperative agriculture, abolition of primogeniture/entail, reclaiming waste lands), and
    Mill's authorship (A-claims; founding date and planks verified via the LTRA record and Mill
-   biography this session; Article IV wording re-verified verbatim 2026-07-18 against both the
+   biography; Article IV wording re-verified verbatim 2026-07-18 against both the
    hosted text and the quotation of it in Mill's own *Principles*, Bk V §5 footnote). Reproduced
    in full on this wiki: [Programme of the Land Tenure Reform Association (1871)](/wiki/land-tenure-reform-programme-1871/).
    [Wikipedia: Land Tenure Reform Association](https://en.wikipedia.org/wiki/Land_Tenure_Reform_Association)

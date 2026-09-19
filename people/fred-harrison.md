@@ -34,7 +34,7 @@ Harrison separately edited *The Losses of Nations: Deadweight Politics versus Pu
 
 ## The Traumatised Society (2012)
 
-*The Traumatised Society* extends the analysis to culture and governance, arguing that rent-seeking behaviour — enabled by the failure to capture land values publicly — corrupts institutions and perpetuates social dysfunction. As with *The Corruption of Economics*, this is advocacy argument rather than a peer-reviewed empirical claim, and the wiki has not independently verified its case studies.
+*The Traumatised Society* extends the analysis to culture and governance, arguing that rent-seeking behaviour — enabled by the failure to capture land values publicly — corrupts institutions and perpetuates social dysfunction. As with *The Corruption of Economics*, this is advocacy argument rather than a peer-reviewed empirical claim, and its case studies have not been independently corroborated.
 
 ## See Also
 

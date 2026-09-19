@@ -111,13 +111,13 @@ itself, not just between rent-skeptics and rent-proponents.
 
 ## Sources
 
-1. Jaron Lanier, *Who Owns the Future?* (Simon & Schuster, 2013) — used for the "siren servers" concept; not independently re-read this session, cited via this wiki's [Jaron Lanier](/wiki/jaron-lanier/) page. Reviewer comparison of "cloud serfs" to "siren servers": "Technofeudalism: What Killed Capitalism," *goodreports.net* (28 September 2024) — used for the observation that Varoufakis never cites Lanier despite the parallel. [Free review](https://goodreports.net/2024/09/28/technofeudalism-what-killed-capitalism/)
+1. Jaron Lanier, *Who Owns the Future?* (Simon & Schuster, 2013) — used for the "siren servers" concept; not independently re-read at last review, cited via this wiki's [Jaron Lanier](/wiki/jaron-lanier/) page. Reviewer comparison of "cloud serfs" to "siren servers": "Technofeudalism: What Killed Capitalism," *goodreports.net* (28 September 2024) — used for the observation that Varoufakis never cites Lanier despite the parallel. [Free review](https://goodreports.net/2024/09/28/technofeudalism-what-killed-capitalism/)
 2. Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (Bodley Head, UK, 2023, ISBN 978-1-84792-727-9; Melville House, US, 2024, ISBN 978-1-68589-124-4) — used for publication details and the book's terminology, cross-checked against the academic review at source 5 (which page-cites the book directly, e.g. pp. 83, 235) rather than a Wikipedia bibliography entry. [Publisher (Melville House)](https://www.mhpbooks.com/books/technofeudalism/)
 3. Imanol Arrieta-Ibarra, Leonard Goff, Diego Jiménez-Hernández, Jaron Lanier & E. Glen Weyl (2018), "Should We Treat Data as Labor? Moving Beyond 'Free'," *AEA Papers and Proceedings* 108, 38–42 — used for the data-as-labor formalization of Lanier's diagnosis, cited via this wiki's [Radical Markets](/wiki/posner-weyl-radical-markets/) and [Platform and Data Rents](/wiki/data-rents/) pages. [AEA](https://www.aeaweb.org/articles?id=10.1257/pandp.20181003)
-4. Yanis Varoufakis, "Techno-Feudalism Is Taking Over," *Project Syndicate* (28 June 2021) — read this session via the author's own repost. Used for Varoufakis's pre-book statement of the thesis in his own words ("private fiefdoms or estates," "produces for free the capital stock of large corporations," "an evolutionary whimper"). [Project Syndicate](https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06) · [Author's repost](https://www.yanisvaroufakis.eu/2021/07/05/techno-feudalism-is-taking-over-project-syndicate-op-ed/)
-5. Marjan Fadavi Ardekani, "Book Review: Technofeudalism by Yanis Varoufakis," *New School Economic Review* 13 (2025), 72–76 — read in full this session. A genuine academic book review (New School for Social Research PhD candidate); used for page-cited detail on cloud capital's "third nature," the cloud-serf/cloud-vassal/precariat typology, and the critique (via Anwar Shaikh's "real competition") that platform dominance may extend rather than end capitalism. [PDF](https://nsereview.org/index.php/NSER/article/download/154/82) · [Article page](https://nsereview.org/index.php/NSER/article/view/154)
-6. Cédric Durand, *Techno-féodalisme: Critique de l'économie numérique* (Paris, 2020); English translation *How Silicon Valley Unleashed Techno-Feudalism: The Making of the Digital Economy* (Verso, 2024) — book itself not independently re-read this session; used via Durand's own direct response to Morozov, "Where Is Digital Technology Taking Us?," *Verso Books blog* (9 December 2025), read in full, for his own-words statement of the thesis ("relationships of dependence," "equipment of capture," "more investment in Big Tech's forces of predation means less investment in the economy as a whole"). [Verso blog](https://www.versobooks.com/blogs/news/where-is-digital-technology-taking-us-cedric-durand-responds-to-evgeny-morozov) · [Publisher](https://www.versobooks.com/products/2790-how-silicon-valley-unleashed-techno-feudalism)
-7. Evgeny Morozov, "Critique of Techno-Feudal Reason," *New Left Review* II/133–134 (January–April 2022) — read in full this session (via a freely accessible course-posted copy of the article). The landmark academic critique of the techno-feudalism framing; used for the "intellectual weakness, rather than media savviness" verdict, the argument (via Marx's *Capital, Vol. 3*, and the Brenner–Wallerstein debates) that platforms like Google remain capitalist producers rather than rentiers, and the assessment of Durand's book as the strongest version of the thesis. [New Left Review (landing page, partially paywalled)](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) · [Full text (freely accessible mirror)](https://eclass.uoa.gr/modules/document/file.php/ECON969/Evgeny%20Morozov%20-%20Critique%20of%20Neofeudal%20Reason.pdf)
+4. Yanis Varoufakis, "Techno-Feudalism Is Taking Over," *Project Syndicate* (28 June 2021) — read via the author's own repost, 2026-07-17. Used for Varoufakis's pre-book statement of the thesis in his own words ("private fiefdoms or estates," "produces for free the capital stock of large corporations," "an evolutionary whimper"). [Project Syndicate](https://www.project-syndicate.org/commentary/techno-feudalism-replacing-market-capitalism-by-yanis-varoufakis-2021-06) · [Author's repost](https://www.yanisvaroufakis.eu/2021/07/05/techno-feudalism-is-taking-over-project-syndicate-op-ed/)
+5. Marjan Fadavi Ardekani, "Book Review: Technofeudalism by Yanis Varoufakis," *New School Economic Review* 13 (2025), 72–76 — read in full, 2026-07-17. A genuine academic book review (New School for Social Research PhD candidate); used for page-cited detail on cloud capital's "third nature," the cloud-serf/cloud-vassal/precariat typology, and the critique (via Anwar Shaikh's "real competition") that platform dominance may extend rather than end capitalism. [PDF](https://nsereview.org/index.php/NSER/article/download/154/82) · [Article page](https://nsereview.org/index.php/NSER/article/view/154)
+6. Cédric Durand, *Techno-féodalisme: Critique de l'économie numérique* (Paris, 2020); English translation *How Silicon Valley Unleashed Techno-Feudalism: The Making of the Digital Economy* (Verso, 2024) — book itself not independently re-read at last review; used via Durand's own direct response to Morozov, "Where Is Digital Technology Taking Us?," *Verso Books blog* (9 December 2025), read in full, for his own-words statement of the thesis ("relationships of dependence," "equipment of capture," "more investment in Big Tech's forces of predation means less investment in the economy as a whole"). [Verso blog](https://www.versobooks.com/blogs/news/where-is-digital-technology-taking-us-cedric-durand-responds-to-evgeny-morozov) · [Publisher](https://www.versobooks.com/products/2790-how-silicon-valley-unleashed-techno-feudalism)
+7. Evgeny Morozov, "Critique of Techno-Feudal Reason," *New Left Review* II/133–134 (January–April 2022) — read in full, 2026-07-17 (via a freely accessible course-posted copy of the article). The landmark academic critique of the techno-feudalism framing; used for the "intellectual weakness, rather than media savviness" verdict, the argument (via Marx's *Capital, Vol. 3*, and the Brenner–Wallerstein debates) that platforms like Google remain capitalist producers rather than rentiers, and the assessment of Durand's book as the strongest version of the thesis. [New Left Review (landing page, partially paywalled)](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) · [Full text (freely accessible mirror)](https://eclass.uoa.gr/modules/document/file.php/ECON969/Evgeny%20Morozov%20-%20Critique%20of%20Neofeudal%20Reason.pdf)
 8. Kohei Saito & Ryuji Sasaki (2026), "Rentier Capitalism, Technofascism and the Destruction
    of the Common," *Area Development and Policy*, DOI 10.1080/23792949.2025.2557911. Full
    abstract retrieved via Semantic Scholar 2026-08-28 — used for the MEGA-notebooks-sourced
@@ -131,41 +131,41 @@ itself, not just between rent-skeptics and rent-proponents.
    and the co-existing-rentier-and-commodity-capitalism argument (A-claim for the abstract;
    full text not read). **Correction note:** this DOI was queued under a different,
    apparently mismatched title ("The New Urban Enclosures: Algorithmic Rent-Seeking,
-   Corporate Landlordism, and the Financialization of Global Housing") by the scanner that
-   surfaced it; no paper with that title could be located anywhere by this session, while
+   Corporate Landlordism, and the Financialization of Global Housing") in the listing that
+   surfaced it; no paper with that title could be located anywhere, while
    this DOI independently and consistently resolves, across Semantic Scholar and Crossref-
    adjacent search, to the Sheppard commentary described here. The wiki cites the paper
-   actually at this DOI, not the scanner's title.
+   actually at this DOI, not that mismatched title.
    [doi.org](https://doi.org/10.1080/23792949.2025.2578770)
 10. Erik Swyngedouw (2025), "Capitalism Is Over, but the New Is Worse: Reflections on Rent,
     Services, and Capitalist Feudalism," Ch. 2 in *The Value of Place*, eds. Frank Moulaert &
     Abid Mehmood (Edward Elgar Publishing), DOI 10.4337/9781035347926.00009. Content
-    corroborated via WebSearch and an Elgaronline chapter listing 2026-08-28 — used for the
+    corroborated against an Elgaronline chapter listing, 2026-08-28 — used for the
     named-firm (Google, Meta, Amazon, Alibaba, Tencent) "capitalist feudalism" argument
     quoted above (B-claim; not independently verified against the chapter's own text, no
-    verbatim quotation offered beyond the short phrases above). **Correction note:** the
-    scanner queued this content under a T&F journal DOI
+    verbatim quotation offered beyond the short phrases above). **Correction note:** this
+    content was listed under a T&F journal DOI
     (10.1080/13563467.2025.2599183, "New Political Economy") that independently resolves,
     via Semantic Scholar, to a different, unrelated paper — José Miguel Ahumada, L. Méndez,
     Fernando Sossdorf & R. Jára, "Rentier capitalism in the Chilean economy: disconnection
     between surplus capture and productive investment." The wiki cites Swyngedouw's actual
     publication (the Elgar book chapter above), not the mismatched journal DOI; the Ahumada
-    et al. Chilean-economy paper is a separate, not-yet-reviewed find flagged for a future
-    session.
+    et al. Chilean-economy paper is a separate work, not yet reviewed here.
     [doi.org (Elgar chapter)](https://doi.org/10.4337/9781035347926.00009)
 11. Joel Wainwright (2026), "The techno-feudalism hypothesis is also wrong on political
     grounds," *Area Development and Policy* 11(1): 16–20, received 8 August 2025, accepted 18
     August 2025, DOI 10.1080/23792949.2025.2557909. [doi.org](https://doi.org/10.1080/23792949.2025.2557909) —
-    fetch blocked (403) to this session 2026-08-29; Crossref confirmed the short (5-page),
-    fast-tracked commentary format and reference count (12), but no abstract field; content
-    drawn from a WebSearch-synthesized description — used for the "also wrong on political
+    full text not accessible at last review (2026-08-29); Crossref metadata confirms the
+    short (5-page), fast-tracked commentary format and reference count (12), but carries no
+    abstract; the account rests on secondary descriptions of the commentary — used for the
+    "also wrong on political
     grounds" companion response to Saito & Sasaki, in the same special issue (§"A 2026
     Special-Issue Exchange" above) (C-claim; secondary description only, no primary-text
     quotation obtained).
 12. Nicholas Gane (2025), "Capitalism is capitalism, not technofeudalism," *Journal of
     Classical Sociology*, DOI 10.1177/1468795X241269293.
     [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/1468795X241269293) —
-    publisher page returned only template content to this session 2026-08-31; verbatim
-    abstract obtained via the Crossref API — used for the mutated-beyond-the-nation-state
+    the publisher page was not usable at last review (2026-08-31); the verbatim
+    abstract was obtained from Crossref metadata — used for the mutated-beyond-the-nation-state
     argument and the internal-contradiction critique of Varoufakis's proposed remedy (§"A
     2026 Special-Issue Exchange" above) (B-claim; abstract-level, full text not read).

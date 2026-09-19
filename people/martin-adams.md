@@ -9,9 +9,9 @@ last_reviewed: 2026-07-10
 
 ## Summary
 
-Martin Adams is a systems thinker, software engineer, and author of [*Land: A New Paradigm for a Thriving World*](/wiki/land-a-new-paradigm/) (Berkeley: North Atlantic Books, 2015), an accessible popular introduction to Georgist economics released under a Creative Commons license and available free online. (A-claim; factual) After studying business and finance, Adams chose not to pursue a Wall Street career, instead working in community development and social enterprise — experience he credits with shaping the book's argument that the private capture of land rent is a root cause of wealth inequality and ecological strife. (A-claim; sourced to author bio)
+Martin Adams is a systems thinker, software engineer, and author of [*Land: A New Paradigm for a Thriving World*](/wiki/land-a-new-paradigm/) (Berkeley: North Atlantic Books, 2015), an accessible popular introduction to Georgist economics released under a Creative Commons license and available free online. After studying business and finance, Adams chose not to pursue a Wall Street career, instead working in community development and social enterprise — experience he credits with shaping the book's argument that the private capture of land rent is a root cause of wealth inequality and ecological strife, according to his own biographical note.
 
-Adams is a contributor and editor at [Progress.org](https://www.progress.org/), the long-running Georgist online publication, where his essays (2015–2021) include a memorial for [Fred Foldvary](/wiki/fred-foldvary/), coverage of [Mason Gaffney](/wiki/mason-gaffney/)'s 2015 China-crash prediction, and an introduction of the documentary *Real Estate 4 Ransom* to Progress.org readers. (A-claim; factual) He is listed as an advisor to [Common Wealth Canada](/wiki/common-wealth-canada/). (A-claim; factual)
+Adams is a contributor and editor at [Progress.org](https://www.progress.org/), the long-running Georgist online publication, where his essays (2015–2021) include a memorial for [Fred Foldvary](/wiki/fred-foldvary/), coverage of [Mason Gaffney](/wiki/mason-gaffney/)'s 2015 China-crash prediction, and an introduction of the documentary *Real Estate 4 Ransom* to Progress.org readers. He is listed as an advisor to [Common Wealth Canada](/wiki/common-wealth-canada/).
 
 ## Key Works
 

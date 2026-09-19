@@ -45,20 +45,19 @@ for the Boardwalk's Lower Chelsea neighborhood.[3]
    of Magie, the 1904 patent (US 748,626), and the Parker Brothers erasure
    (A-claims; widely corroborated). [Publisher](https://www.bloomsbury.com/us/monopolists-9781608199655/)
 2. Eric A. Posner & E. Glen Weyl, *Radical Markets* (2018), Ch. 1 (The Landlord's
-   Game passage, p. 43 per the wiki's book scan) — used for the retelling
+   Game passage, p. 43) — used for the retelling
    (A-claim). [Book page](/wiki/posner-weyl-radical-markets/)
 3. Allaire Conte, Realtor.com, "How Much Monopoly Money You Really Need To Buy a
    House in Today's Prices—and the Squares That Guarantee a Real Estate Win"
    (October 13, 2025). [realtor.com](https://www.realtor.com/advice/buy/monopoly-real-estate-atlantic-city-prices/)
    — used for the Westside/Lower Chelsea median-value figures and Magie's quoted
    "practical demonstration of the present system of land-grabbing" description
-   of the game (serious journalistic source). Direct fetch of realtor.com is
-   blocked in this environment; verified 2026-08-14 via the Internet Archive
-   Wayback Machine snapshot (`web.archive.org/web/20251014032727/https://www.realtor.com/advice/buy/monopoly-real-estate-atlantic-city-prices/`),
-   whose page source carries `datePublished: 2025-10-13T10:00:00+00:00` in both
-   the article's JSON-LD schema and its `parsely-pub-date` meta tag, and the
-   byline "Allaire Conte." That direct read also corrected two errors in the
-   article's earlier search-engine-summary-derived citation on this page: the
+   of the game (serious journalistic source). The publisher's own copy was not
+   accessible at last review; the article was read 2026-08-14 in the Internet
+   Archive snapshot (`web.archive.org/web/20251014032727/https://www.realtor.com/advice/buy/monopoly-real-estate-atlantic-city-prices/`),
+   which carries the publication date 2025-10-13 and the
+   byline "Allaire Conte." That reading corrected two errors in this page's
+   earlier citation of the article: the
    headline was not "What Monopoly's Real Atlantic City Properties Look Like
    Today," and the archived page text contains no reference to Magie's
    "feminist views" — that framing did not appear anywhere in the article and

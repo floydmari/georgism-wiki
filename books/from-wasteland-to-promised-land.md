@@ -55,7 +55,7 @@ The appendix provides a biographical study of Henry George as a "liberationist f
 ## Nuances and Limits
 
 - The book's primary audience is theological and activist; it is not an empirical economics text and does not present original quantitative research.
-- The argument that biblical land law supports Georgist economics is interpretive (C-claim) and has been debated by biblical scholars.
+- The argument that biblical land law supports Georgist economics is interpretive and has been debated by biblical scholars.
 - The book was published in 1992 and reflects the specific moment of the Soviet collapse; subsequent developments in liberation theology and Latin American politics are not addressed.
 - The focus on Latin America means the analysis is most applicable to contexts of extreme land concentration; its relevance to developed economies with different land tenure systems is less explored.
 - The book does not engage deeply with the practical administrative challenges of implementing land-value taxation.

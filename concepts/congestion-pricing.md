@@ -144,18 +144,18 @@ real-world, before-and-after evidence** at city scale.
    Transport Studies Working Paper 2014:7 (Stockholm) — used for the ~20–22%
    cordon-traffic reduction, 30–50% congestion reduction, the 53% referendum
    result, the opinion reversal, and the distributional caveat (verified against
-   the PDF this session).
+   the PDF, 2026-07-06).
    [CTS WP 2014:7](https://www.transportportal.se/swopec/cts2014-7.pdf)
 3. Transport for London, *Central London Congestion Charging: Impacts Monitoring —
    Second Annual Report* (April 2004) — used for the 30% congestion / 18% entering /
    15% circulating reductions and the ~£50m annual net benefit (verified against
-   the PDF this session).
+   the PDF, 2026-07-06).
    [TfL report](https://content.tfl.gov.uk/impacts-monitoring-report-2.pdf)
 4. Sock-Yong Phang & Rex S. Toh, "Road congestion pricing in Singapore: 1975 to
    2003," *Transportation Journal* 43(2), 2004 — used for the ~76% 1975 Restricted-
    Zone traffic drop, the transit-share shift, the 1998 ERP transition, and the
-   over-pricing critique (B/A-claims; figures snippet-corroborated across the ALS
-   record and Singapore NLB/ITF summaries this session). See
+   over-pricing critique (B/A-claims; figures corroborated across the ALS
+   record and Singapore NLB/ITF summaries). See
    [research page](/wiki/phang-toh-singapore-congestion-pricing/).
    [SMU repository](https://ink.library.smu.edu.sg/soe_research/117/) ·
    [Gale/Transportation Journal](https://go.gale.com/ps/i.do?id=GALE%7CA117772692)

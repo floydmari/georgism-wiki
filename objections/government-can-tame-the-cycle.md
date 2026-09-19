@@ -106,10 +106,10 @@ evidence.
 - Two data points (1920s/1929, Great Moderation/2008) plus a secondary UK
   example is suggestive, not conclusive, of an unbreakable pattern; it does not
   establish that all future attempts at cycle management must fail.
-- This page currently rests on the discovery-source books (Anderson, Patel)
-  rather than a directly verified primary reading of Anderson's 1920s/1960s
-  examples; those specific claims should be checked against primary sources in a
-  future revision.
+- The 1920s and 1960s examples come from Anderson's and Patel's books rather
+  than from a direct reading of the primary record those books describe; the
+  specific claims are attributed to those authors and remain unconfirmed
+  against the underlying documents.
 
 ## Net Assessment
 
@@ -129,34 +129,34 @@ speculation.
 - [Land Speculation Causes Boom and Bust](/wiki/land-speculation-causes-cycles/) — the narrative this objection tests
 - [Cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/) — the related, more empirically developed objection
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) — the crash that followed the Great Moderation claim
-- [Phillip J. Anderson](/wiki/phillip-j-anderson/) · [Akhil Patel](/wiki/akhil-patel/) — this wiki's discovery sources for this objection
+- [Phillip J. Anderson](/wiki/phillip-j-anderson/) · [Akhil Patel](/wiki/akhil-patel/) — the authors whose books document this objection
 
 ## Sources
 
 1. Ben S. Bernanke, "The Great Moderation," remarks at the Eastern Economic
    Association, Washington, D.C., February 20, 2004 — used for the speech's date,
    venue, and its central claim that improved monetary policy contributed to
-   reduced macroeconomic volatility (search-indexed summary; direct fetch of the
-   Federal Reserve's speech page returned HTTP 403 in this research pass).
+   reduced macroeconomic volatility (the Federal Reserve's own speech page was
+   not accessible at last review, 2026-07-12; the summary rests on secondary
+   descriptions).
    [Federal Reserve](https://www.federalreserve.gov/boarddocs/speeches/2004/20040220/) ·
    [FRASER/St. Louis Fed full text](https://fraser.stlouisfed.org/title/statements-speeches-ben-s-bernanke-453/great-moderation-8893/fulltext)
 2. James H. Stock & Mark W. Watson, "Has the Business Cycle Changed and Why?"
    NBER Macroeconomics Annual 17, 2002 — used for the origin of the term "Great
-   Moderation" prior to Bernanke's speech (search-indexed summary).
+   Moderation" prior to Bernanke's speech (summary rests on secondary descriptions).
    [NBER w9127](https://www.nber.org/papers/w9127)
 3. "FactCheck: no more boom and bust?" Channel 4 News — used for Gordon Brown's
    "no return to boom and bust" claim and its later association with the 2008
-   crisis (search-indexed summary; direct fetch returned HTTP 403 in this
-   research pass). [Channel 4 News](http://www.channel4.com/news/articles/politics/domestic_politics/factcheck+no+more+boom+and+bust/2564157.html)
-4. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (2008),
-   this wiki's discovery source — cited for the objection "The Fed has tamed the
+   crisis (the article page was not accessible at last review, 2026-07-12; the
+   summary rests on secondary descriptions). [Channel 4 News](http://www.channel4.com/news/articles/politics/domestic_politics/factcheck+no+more+boom+and+bust/2564157.html)
+4. Phillip J. Anderson, *The Secret Life of Real Estate and Banking* (2008)
+   — cited for the objection "The Fed has tamed the
    business cycle," documented as believed in the 1920s, 1960s (Economic Report
-   1968), and 1990s, and disproven each time (Ch. 10, 11, 14) (D-claim,
-   attributed to this wiki's discovery-report summary of the book; not
-   independently verified against Anderson's primary text page-by-page in this
-   pass).
-5. Akhil Patel, *The Secret Wealth Advantage* (2023), this wiki's discovery
-   source — cited for the objection "The cycle has been eliminated" (Great
+   1968), and 1990s, and disproven each time (Ch. 10, 11, 14) (D-claim;
+   attributed to a summary of the book rather than a page-by-page reading of the
+   primary text).
+5. Akhil Patel, *The Secret Wealth Advantage* (2023)
+   — cited for the objection "The cycle has been eliminated" (Great
    Moderation fallacy), attributing the claim to Bernanke (2004), Greenspan, and
-   Gordon Brown (Ch. 6, 13) (D-claim, attributed to this wiki's discovery-report
-   summary of the book).
+   Gordon Brown (Ch. 6, 13) (D-claim; attributed to a summary of the book rather
+   than a page-by-page reading of the primary text).

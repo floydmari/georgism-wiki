@@ -82,7 +82,7 @@ transcribes all three pieces in full; a fuller account of the exchange's content
    body, the September 5, 1890 date, the published proceedings, Seligman's and
    Clark's participation, the full thirteen-piece session roster and speaker list,
    and the George–Seligman exchange content summarized in "The George–Seligman Core"
-   (A-claims; venue and proceedings verified this session; exchange content quoted
-   from the wiki's own transcription of this same proceedings volume).
+   (A-claims; venue and proceedings verified 2026-07-18; exchange content quoted
+   from the wiki's transcription of this same proceedings volume).
    [Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/browse?type=title&key=single+tax+discussion+held+at+saratoga+sept+5+1890)
    · [Wiki primary-text page](/wiki/saratoga-single-tax-debate-1890/)

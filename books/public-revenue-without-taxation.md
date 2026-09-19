@@ -55,7 +55,7 @@ Burgess restates the classical distinction between land (non-human factors in th
 
 ## Nuances and Limits
 
-- The book's argument that taxation is a "primal cause" of both inflation and unemployment is a strong claim (B-claim) that most mainstream economists would dispute; the consensus view is that inflation has multiple causes (monetary, fiscal, supply-shock).
+- The book's argument that taxation is a "primal cause" of both inflation and unemployment is a strong empirical claim that most mainstream economists would dispute; the consensus view is that inflation has multiple causes (monetary, fiscal, supply-shock).
 - Colin Clark's 25% limit is cited as empirical support, but the threshold has been exceeded by many developed economies without the predicted inflationary consequences in recent decades, suggesting the relationship is more complex than Clark proposed.
 - The book does not provide detailed empirical estimates of how much revenue land rent collection could generate, nor does it address the administrative challenges of land valuation at scale.
 - The argument is primarily theoretical and draws on classical economics; it does not engage deeply with modern public finance literature.

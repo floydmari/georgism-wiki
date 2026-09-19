@@ -42,7 +42,7 @@ Canada.
    [qconsf.com](https://qconsf.com/sf2013/user/floyd-marinescu-0.html) — used for his business
    background: CEO and co-founder of C4Media Inc. (producer of InfoQ.com and QCon conferences),
    former Chief Editor of InfoQ.com, and authorship of *EJB Design Patterns* (2002) and
-   *Domain-Driven Design Quickly* (2006). Directly fetched this pass.
+   *Domain-Driven Design Quickly* (2006). Read directly at last review.
 4. "Floyd Marinescu," InfoQ contributor profile. [infoq.com](https://www.infoq.com/profile/Floyd-Marinescu/)
    — corroborates the InfoQ & QCon CEO/co-founder role; his University of Waterloo Bachelor of
    Mathematics is recorded on his professional profile. Used to independently confirm the

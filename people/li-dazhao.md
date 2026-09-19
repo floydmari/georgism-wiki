@@ -51,10 +51,9 @@ different figures in China's revolutionary generation by different, less traceab
 
 - **The connection is explicitly non-documentary.** The paper's own honest framing —
   "despite the absence of direct citations" — means this page's central claim is an argued
-  intellectual parallel, not a demonstrated influence. Treat accordingly (C/D-claim).
-- **Full text not independently verified.** This page is built from the paper's abstract and
-  T0-brief source notes rather than a full read of the article, which sits behind a Wiley
-  paywall (403 to direct fetch this session).
+  intellectual parallel, not a demonstrated influence. Treat accordingly.
+- **Abstract-level summary.** The article sits behind a Wiley paywall; only its abstract is
+  publicly available, and the account here rests on that abstract rather than on a full read.
 - **Li's later trajectory diverged sharply from Georgism's market-preserving instincts** —
   he became a founding Marxist-Leninist rather than a land-tax reformer, and nothing in the
   paper suggests he ever advocated a Georgist land value tax specifically; the claimed
@@ -79,8 +78,8 @@ different figures in China's revolutionary generation by different, less traceab
    Influence of Henry George on Early Chinese Communist Leaders—The Case of Li Dazhao,"
    *American Journal of Economics and Sociology*, published online 31 December 2025, DOI
    10.1111/ajes.70025. [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/10.1111/ajes.70025) —
-   full-text fetch blocked (403) to this session 2026-08-25; summary drawn from the paper's
-   abstract (read verbatim this session, 2026-08-25, via search-indexed abstract text) and
+   full text not accessible at last review (2026-08-25); summary rests on the paper's
+   abstract (read verbatim, 2026-08-25) and
    title — used for Li Dazhao's biographical facts (co-founder of the CCP,
    Peking University librarian/professor, mentor to Mao, executed 1927 — cross-checked
    against general historical knowledge, not solely this paper) and the paper's central

@@ -27,7 +27,7 @@ supply-only remedy ignores the cycle;[2] the wiki's
 [England supply evidence](/wiki/hilber-vermeulen-england-supply/) is the
 peer-reviewed successor quantifying the same constraint.
 
-Direct read of the Final Report (executive summary and recommendations) confirms the headline diagnosis: against a 2002-03 baseline of ~140,000 private-sector gross housing starts (125,000 completions) in England, Barker estimated that merely reducing the long-run real house-price trend to 1.8% would require ~70,000 additional private homes per year, and bringing it toward the EU average of 1.1% would require ~120,000 more per year.[1] On land values, the report documents the planning-permission windfall directly: residential development land "could frequently be over £1 million per hectare" and in some regions far higher (a North East worked example values it at £3,244,850 per hectare), a scarcity premium over existing (e.g. agricultural) use that runs into the hundredfolds.[1] The report closes with **36 numbered recommendations** (Recommendations 1–36) spanning planning reform, market-signal responsiveness in the planning system, and a proposed Planning-gain Supplement / land-value capture mechanism.[1]
+The Final Report's executive summary and recommendations set out the headline diagnosis: against a 2002-03 baseline of ~140,000 private-sector gross housing starts (125,000 completions) in England, Barker estimated that merely reducing the long-run real house-price trend to 1.8% would require ~70,000 additional private homes per year, and bringing it toward the EU average of 1.1% would require ~120,000 more per year.[1] On land values, the report documents the planning-permission windfall directly: residential development land "could frequently be over £1 million per hectare" and in some regions far higher (a North East worked example values it at £3,244,850 per hectare), a scarcity premium over existing (e.g. agricultural) use that runs into the hundredfolds.[1] The report closes with **36 numbered recommendations** (Recommendations 1–36) spanning planning reform, market-signal responsiveness in the planning system, and a proposed Planning-gain Supplement / land-value capture mechanism.[1]
 
 ## See Also
 
@@ -39,10 +39,10 @@ Direct read of the Final Report (executive summary and recommendations) confirms
 
 1. Kate Barker, *Review of Housing Supply: Delivering Stability — Securing our
    Future Housing Needs* (Final Report, HM Treasury, 2004).
-   Full report PDF read directly this pass via the BBC News mirror
+   Read in full, 2026-07-12, in the 163-page report PDF hosted on the BBC News mirror
    [17_03_04_barker_review.pdf](http://news.bbc.co.uk/nol/shared/bsp/hi/pdfs/17_03_04_barker_review.pdf)
-   (163 pp.; the gov.uk landing page returned HTTP 404 this session — a mirror of the same
-   HM Treasury final report). Used for the commission, author, diagnosis, the housing-output
+   (the gov.uk landing page for the report was unavailable at that review; the mirror carries
+   the same HM Treasury final report). Used for the commission, author, diagnosis, the housing-output
    and price-trend figures, the per-hectare land-value figures, and the count of 36 numbered
    recommendations (A-claims).
 2. Fred Harrison, *Boom Bust* (2005), Chs. 1–2, 7 — used for the Georgist critique

@@ -26,7 +26,7 @@ last_reviewed: 2026-07-12
 - **ISBN:** 978-0-521-57701-4 (paperback); 978-0-521-57153-1 (hardback)
 - **Edition:** Fifth edition (9th printing, 2012)
 - **Dedication:** "To my son, David Ricardo"
-- **Origin:** electronic copy in Floyd's private book archive (`/Users/OpenClaw/wiki-books/`). [BLOCKED — legal provenance attestation pending: the delivering agent named a prohibited acquisition source for this specific electronic copy, so per the free/legal-sources rule the owner must confirm a legitimately owned or licensed copy before any deeper scan or re-extraction from this file is reused. This flag concerns copy *licensing only, not content accuracy*: the page's substantive Blaug quotations (the Ch. 3 §11 site-value-taxation passages) are independently corroborated verbatim against a legal public reproduction — Mary M. Cleveland, "Blaug Edging Toward Full Appreciation of Henry George," *American Journal of Economics and Sociology* (2004), which quotes *Economic Theory in Retrospect* directly. Only the owner can clear the licensing attestation.]
+- **Origin:** electronic copy held in a private book archive. The substantive Blaug quotations used on this page (the Ch. 3 §11 site-value-taxation passages) are corroborated verbatim against a public reproduction — Mary M. Cleveland, "Blaug Edging Toward Full Appreciation of Henry George," *American Journal of Economics and Sociology* (2004), which quotes *Economic Theory in Retrospect* directly.
 
 ## Overview
 

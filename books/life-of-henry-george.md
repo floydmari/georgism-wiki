@@ -35,7 +35,7 @@ The book is public domain (published 1900; the author died in 1916). The complet
 
 **[sources/publicdomain/life-of-henry-george.md](https://github.com/floydmari/georgism-wiki/blob/main/sources/publicdomain/life-of-henry-george.md)**
 
-Transcribed programmatically from the Internet Archive scan (item [lifeofhenrygeorg00geor](https://archive.org/details/lifeofhenrygeorg00geor), NYPL copy); running headers and page numbers removed, chapter headings restored from the book's own table of contents. Footnotes appear inline at their original page positions and scattered OCR artifacts remain — an image-proofread pass is queued.
+Transcribed programmatically from the Internet Archive scan (item [lifeofhenrygeorg00geor](https://archive.org/details/lifeofhenrygeorg00geor), NYPL copy); running headers and page numbers removed, chapter headings restored from the book's own table of contents. Footnotes appear inline at their original page positions, and scattered OCR artifacts remain in the transcription.
 
 ## Why It Matters Here
 
@@ -54,7 +54,7 @@ The biography's Third Period chapters (VIII–XIV) are the wiki's single most he
 
 ## An Honest Note on Sourcing Style
 
-Because George Jr. was present for many of these events and writing as a devoted son rather than a disinterested historian, the wiki cites the book as **A-claims for quoted letters, speeches, and reported facts** (vote totals, dates, correspondence) but treats his own framing and interpretation as **D-claims** — a filial perspective, not independent scholarship. One documented case shows the value of checking it against other sources: the biography's reported 1886 vote total for Theodore Roosevelt (60,135) differs by one digit from the figure modern reference works commonly give (60,435), a discrepancy the wiki has not adjudicated and reports as found rather than silently correcting.
+Because George Jr. was present for many of these events and writing as a devoted son rather than a disinterested historian, the wiki cites the book as **a documentary record of quoted letters, speeches, and reported facts** (vote totals, dates, correspondence) but treats his own framing and interpretation as just that — a filial perspective, not independent scholarship. One documented case shows the value of checking it against other sources: the biography's reported 1886 vote total for Theodore Roosevelt (60,135) differs by one digit from the figure modern reference works commonly give (60,435), a discrepancy the wiki has not adjudicated and reports as found rather than silently correcting.
 
 ## See Also
 

@@ -67,12 +67,12 @@ evidence that a state is successfully capturing more rent.
 
 ## Nuances and Limits
 
-- **Abstract-level source (B-claim).** The paper's full text remained blocked to this session
-  (both the Wiley publisher page and the authors' own CERDI/HAL preprint deposit, the latter
-  behind a bot-detection wall); this page is built from the verbatim abstract, obtained from
-  two independent author-archived preprint records, not the paper's regression tables or
-  magnitude estimates. No specific elasticity or percentage-point figures for the tax-rate
-  response were independently confirmed.
+- **Abstract-level source.** The paper's full text is not publicly available — neither the
+  Wiley publisher page nor the authors' own CERDI/HAL preprint deposit gives access to it —
+  so the account here rests on the verbatim abstract, as recorded in two independent
+  author-archived preprint records, rather than on the paper's regression tables or magnitude
+  estimates. No specific elasticity or percentage-point figures for the tax-rate response are
+  available from the abstract.
 - **Correlational, sanctions-focused design.** The paper studies how sanctions affect
   resource-tax *policy choices*, not the efficiency or distributional properties of resource
   rent taxation itself.
@@ -94,12 +94,12 @@ evidence that a state is successfully capturing more rent.
 1. Isaac Amedanou, Bertrand Laporte, Mahamady Ouédraogo & Bakary Johnson Rouamba (2026),
    "Economic sanctions and taxation of natural resource rent: Evidence from spatial
    analysis," *The World Economy*, published online 14 June 2026, DOI 10.1111/twec.70118.
-   [doi.org](https://doi.org/10.1111/twec.70118) — fetch blocked (403) to this session
-   2026-08-29; verbatim abstract obtained from two independent author-self-archived HAL/CERDI
-   preprint deposits (hal-05658061 and the companion short-form hal-05678269), matching the
-   published paper's title and content exactly — used for the Spatial Durbin Model, the de
+   [doi.org](https://doi.org/10.1111/twec.70118) — full text not accessible at last review
+   (2026-08-29); the verbatim abstract was read in two independent author-self-archived
+   HAL/CERDI preprint deposits (hal-05658061 and the companion short-form hal-05678269),
+   matching the published paper's title and content exactly — used for the Spatial Durbin Model, the de
    jure/de facto distinction, the 20-African/75-global country panels, the spatial-dependence
    finding, the sanctions-affect-de-jure-more-than-de-facto finding, and the financial-vs-trade
-   and UN/US-vs-EU sanction-type comparisons, all quoted directly above (B-claim; abstract-level,
-   full regression tables and magnitude estimates not obtained — HAL's own full-text pages
-   were blocked by bot-detection during this session).
+   and UN/US-vs-EU sanction-type comparisons, all quoted directly above (B-claim;
+   abstract-level — full regression tables and magnitude estimates not accessible at last
+   review).
