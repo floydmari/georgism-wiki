@@ -62,8 +62,8 @@ consideration LVT proposals need to account for explicitly rather than assume aw
   (land-plus-improvement) property tax appeals; the mechanism (unequal capacity to contest
   assessments) would apply to a land-only tax roll as well, but this page does not claim the
   paper studied that case.
-- **Abstract-level source (B-claim).** The publisher page was blocked to this session; this
-  page is built from a well-corroborated WebSearch reconstruction of the paper's key finding
+- **Abstract-level source.** The publisher page is not reachable; this
+  page is built from a well-corroborated secondary reconstruction of the paper's key finding
   and framing, not a full read of its methodology or discussion sections.
 
 ## Bears On
@@ -85,8 +85,8 @@ consideration LVT proposals need to account for explicitly rather than assume aw
 1. Michael McCanless (2025), "Constructing public rent: Property tax appeals and the fiscal
    strategies of rentier capitalism," *Geoforum* 160: 104232, DOI
    10.1016/j.geoforum.2025.104232. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016718525000326) —
-   fetch blocked (403) to this session 2026-08-30; Crossref and Semantic Scholar carried no
-   deposited abstract text; summary reconstructed from a WebSearch/ResearchGate listing
+   full text not accessible at last review (2026-08-30); Crossref and Semantic Scholar carried no
+   deposited abstract text; summary reconstructed from a secondary listing (ResearchGate)
    reproducing the paper's key finding verbatim ("institutional single-family rental
    investors (12.5%) are nearly three times as likely to file property tax appeals when
    compared to other single-family investors (4.3%) and six times as likely when compared to

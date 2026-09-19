@@ -1,0 +1,322 @@
+{
+ "research/sachs-warner-resource-curse.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "ndary coverage rather than the full text, which was not accessible to this session (B/C-claim).  ## See Also  - [Capturing resource rent works — where i"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "C-claim",
+   "context": "ather than the full text, which was not accessible to this session (B/C-claim).  ## See Also  - [Capturing resource rent works — where institutions"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ar verified against the publisher record and the author's own listing this session; the abstract phrases are quoted from those sources. [ScienceDirect]("
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ll/10.1080/09644016.2026.2714728) — fetch blocked (403/Cloudflare) to this session; summary drawn from search-engine-indexed abstract synthesis 2026-08-"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "/full/10.1080/09644016.2026.2714728) — fetch blocked (403/Cloudflare) to this session; summary drawn from search-engine-indexed abstract synthesis 2026-08-"
+  }
+ ],
+ "research/sampat-india-rentier-growth-infrastructure.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "*Abstract-level source (B-claim).** The publisher page was blocked to this session,   including via a reader-proxy route; this page is built from a well"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "WebSearch",
+   "context": "via a reader-proxy route; this page is built from a well-corroborated WebSearch   reconstruction of the paper's framework and case identification, no"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "ge was blocked to this session,   including via a reader-proxy route; this page is built from a well-corroborated WebSearch   reconstruction of the paper's framewo"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "beyond what this paper itself establishes. - **Abstract-level source (B-claim).** The publisher page was blocked to this session,   including via a"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "doi.org](https://doi.org/10.1111/anti.70061) — fetch blocked (403) to this session    2026-08-31, including via a reader-proxy route; summary reconstruc"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "  [doi.org](https://doi.org/10.1111/anti.70061) — fetch blocked (403) to this session    2026-08-31, including via a reader-proxy route; summary reconstruc"
+  }
+ ],
+ "research/schlaepfer-swiss-resource-rents.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "user-agent",
+   "context": "peated attempts (2026-07-26 and again 2026-08-10, including a browser-user-agent `curl` and a text-extraction proxy) — the abstract, author affiliatio"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "curl",
+   "context": "pts (2026-07-26 and again 2026-08-10, including a browser-user-agent `curl` and a text-extraction proxy) — the abstract, author affiliation, and"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "OpenAlex",
+   "context": "[1] The paper is open access under a CC-BY license (confirmed by both OpenAlex and Unpaywall, `oa_status: cc-by`), but the wiki's automated fetch of"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "OpenAlex",
+   "context": "affiliation, and journal metadata are independently confirmed via the OpenAlex and Crossref metadata APIs, but the paper's own body text remains unr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "OpenAlex",
+   "context": "ssessment  This page is built from the paper's verified abstract (via OpenAlex, matching the publisher's own indexed metadata), a corroborating open"
+  }
+ ],
+ "research/sen-poverty-and-famines.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " inflation and lagging wages. Core thesis and Bengal finding verified this session against secondary summaries ([Britannica, \"Famine — Entitlement failu"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "c chapter attributions were not re-paginated against the primary text this session."
+  }
+ ],
+ "research/shepherd-ideological-morphology-lvc.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " whether any given LVC instrument works. - **Full text read directly (A-claim).** The complete article and its 110 endnotes were   obtained (via a "
+  }
+ ],
+ "research/site-value-ge-simulations.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "doi.org/10.1086/NTJ41788697) (paywalled) — abstract verified verbatim this session: \"A long-run spatial general equilibrium model of an urban area is us"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "OI](https://doi.org/10.1086/ntj41788626) — abstract verified verbatim this session: a CGE model of \"a reduction of the Jamaican income tax in favor of e"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "h/economists/haughwout/netzer_paper.pdf) — full text fetched and read this session — used for the calibrated NYC CGE; the fixed-rate replacement results"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "d](https://ideas.repec.org/p/qed/wpaper/205.html) — abstract verified this session (\"a general equilibrium model of residential land use to study the ef"
+  }
+ ],
+ "research/smith-brown-dunning-lord-crossrail-lvc.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "he *Cities* journal article itself was   access-blocked (Elsevier) to this session; this page is built from the companion SSRN   working paper's abstrac"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this page is built from",
+   "context": "urnal article itself was   access-blocked (Elsevier) to this session; this page is built from the companion SSRN   working paper's abstract and search-indexed summ"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "dexed summaries, not a direct read of the published   version. Graded B-claim; the MCIL/CIL figure discrepancy noted above remains unresolved. - **"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "oi.org/10.1016/j.cities.2026.107329) — fetch blocked (Elsevier) to    this session 2026-08-27; used for the paper's existence, venue, and general subjec"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": ".com/sol3/papers.cfm?abstract_id=5244763) —    fetch blocked (403) to this session 2026-08-27; summary drawn from search-indexed    abstract description"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "to this session",
+   "context": "srn.com/sol3/papers.cfm?abstract_id=5244763) —    fetch blocked (403) to this session 2026-08-27; summary drawn from search-indexed    abstract description"
+  }
+ ],
+ "research/smith-lectures-jurisprudence.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "D-claim",
+   "context": ")  These are advocacy-side (Georgist) readings and are cited as such (D-claim weight on the interpretive framing); the primary-text quotes above st"
+  }
+ ],
+ "research/tideman-avoidable-excess-burden.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": " model's estimate of   an *available* gain, not a measured outcome. - **Verification note.** The published article is paywalled (SAGE); the abstract is   verif"
+  }
+ ],
+ "research/tideman-plassmann-losses-of-nations.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "ry chapter PDF (sharetherents and other mirrors) could not be fetched this pass, but the chapter's approach and headline numbers were corroborated fr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "d since at least the prior verification pass) was hunted exhaustively this session: sharetherents.org's own current `/publications/` page lists *The Los"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Wayback",
+   "context": "e, confirming the free PDF was withdrawn rather than merely moved; no Wayback Machine capture of the sharetherents PDF URL exists at any timestamp;"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "HTTP 404",
+   "context": "ntly obtained: the sharetherents mirror and other known copies return HTTP 404, and no free or archived full text has been located, so it has not be"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "could not be fetched this pass",
+   "context": "eds care.** The primary chapter PDF (sharetherents and other mirrors) could not be fetched this pass, but the chapter's approach and headline numbers were corroborated fr"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "**Verification note",
+   "context": "and the [2021 super-stimulus modeling](/wiki/goodhart-stimulus/).[1]  **Verification note (2026-07-11, Hermes fact-check lane) — method and figures partially c"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Hermes",
+   "context": "ling](/wiki/goodhart-stimulus/).[1]  **Verification note (2026-07-11, Hermes fact-check lane) — method and figures partially confirmed; the \"$7 tr"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this environment",
+   "context": ").    — used for thesis and venue (A-claims; full text unfetched from this environment).    Carried into the wiki via    [*Boom Bust*](/wiki/harrison-boom-b"
+  }
+ ],
+ "research/tornberg-anti-growth-machine.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": " rather than   original data collection. - **Full text read directly (A-claim).** The complete article was read via the genuinely   open-access (CC"
+  }
+ ],
+ "research/total-resource-rents-australia.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "d-party critical assessment of TRRA's specific figures was located in this session; the estimates should be treated as contested pending such review.  #"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rimary PDF (Acknowledgements and Part V); not independently retrieved this session. 3. Terence Dwyer, \"The Taxable Capacity of Australian Land and Resou"
+  }
+ ],
+ "research/tpa-what-would-lvt-do.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rked examples, and quotations above; fetched and    verified verbatim this session for every direct quotation. 2. Dan Neidle (2024), \"The Lib Dem buybac"
+  }
+ ],
+ "research/troy-randolph-pinnegar-value-switching.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "A-claim",
+   "context": "analysis is   descriptive/correlational. - **Full text read directly (A-claim).** The complete article was obtained via UNSW's   institutional repo"
+  }
+ ],
+ "research/tsoodle-turner-rents.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this pass",
+   "context": "roperty-tax-incidence/); [Zodrow](/wiki/zodrow-three-views/)) implies this pass-through operates through the **structures** component — buildings can"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "economics/about/staff/websites/turner/tsoodleturner.pdf)) was fetched this session and confirms the headline magnitude verbatim: \"a one standard deviati"
+  }
+ ],
+ "research/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "o effect-size table beyond the urban-center estimate was available to this session** —   the ~2.5%/1pp and ~0.6%/km figures describe the urban-core grad"
+  },
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "tial coefficient tables not captured here. - **Abstract-level source (B-claim).** This page is built from the Wiley abstract page and   corroborati"
+  }
+ ]
+}

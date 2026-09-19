@@ -20,10 +20,8 @@ assessors place different relative weights on land and structures than the marke
 ordinary property tax systems generate an **implicit land tax** that differs, parcel by
 parcel, from the statutory rate — even though no jurisdiction has explicitly adopted land
 value taxation. The paper, first circulated as a Maxwell School working paper, is now
-published in the ***Journal of Public Economics*** — a top-five field journal — which
-strengthens the wiki's earlier assessment (2026-08-14 queue check re-fetched the authors'
-own publications page to confirm the venue and pull the published abstract, superseding
-the working-paper-only citation this page previously carried).
+published in the ***Journal of Public Economics*** — a top-five field journal (confirmed
+against the authors' own publications page, 2026-08-14).
 
 ## Method and Findings
 
@@ -84,12 +82,12 @@ falls well short of best-practice separation.
 
 1. Daniel P. Murphy & Nathan Seegert, "Implicit Land Taxes and Their Effect on the Real
    Economy," ***Journal of Public Economics*** (forthcoming/2026) — publications page and
-   abstract fetched and read directly 2026-08-14 (curl, WebFetch blocked with a 403).
+   abstract read directly (2026-08-14).
    [danpmurphy.com](https://danpmurphy.com/2026/07/24/implicit-land-taxes-and-their-effect-on-the-real-economy/) —
    used for the published venue, the full abstract (parcel-level assessor-vs-hedonic
    methodology, the implicit-land-tax construct, the dispersion finding, and the
    density/business-establishment/earnings/demographic-diversity growth results), verified
    verbatim against the abstract text on the page (B-claim; abstract-level scan — the full
-   paper was not independently fetched this session). Working-paper predecessor: [Maxwell
+   paper has not been independently accessed). Working-paper predecessor: [Maxwell
    School PDF](https://www.maxwell.syr.edu/docs/default-source/research/cpr/property-tax-webinar-series/2023-2024/murphyseegert-landtax-accessible.pdf) ·
    [📄 Local copy](https://pub-6311cf78f0ae499a804b562ce22dcfc2.r2.dev/sources/murphy-seegert-implicit-land-taxes.pdf).

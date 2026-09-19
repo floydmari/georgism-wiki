@@ -4861,3 +4861,71 @@ rent-seeking case, and it should be built from IMF Article IV and central-bank d
 from a businessman's op-ed.
 
 Ledger: 0 pending, 372 consumed. Lint 0 errors, inventory 1005 pages, 0 orphans.
+
+## 2026-09-19 — the irregularity audit, and Muellbauer
+
+Floyd reported two things this morning: "strange wiki generation artifacts on some of the
+pages, like mentions of missing verifications," and a non-notable person — Akhil Patel —
+cited early on a concept page as though his agreement were evidence. His standard for the
+second: if we name someone to show an idea has support, it should be someone prominent, "a
+famous PhD or someone on Adam Smith's level." He asked for a plan and a loop — cheap models to
+find, fable to assess and plan, opus to implement — until done.
+
+**Sizing.** The first thing worth recording is that both problems were larger than a few
+pages. A deterministic scan found process narration in the reader-facing body of 238 pages
+("this session", "fetch blocked (403)", "reconstructed from a WebSearch", "as of this
+writing"), claim-grade codes like "(B-claim)" in prose on 172, and leaked internal markers —
+`[VERIFY: wiki page?]`, `[BLOCKED …]`, `[SHARPENED …]`, `[STILL OUTSTANDING …]` — on 42.
+Including the Sources-section diary ("verified verbatim this session 2026-07-18; the bare host
+403s to automated requests"), 519 of 974 pages carried something. The house had been following
+its own rule — "every claim we couldn't confirm says so, visibly, on the page" — but had let the
+*form* of that visibility become a lab notebook. The fix is a distinction, now EDITORIAL §4b: the
+status of a claim stays visible in encyclopedic terms; the history of our attempts to verify it
+does not. Grade codes and access notes live in Sources only, phrased impersonally and dated.
+
+**Notability.** EDITORIAL §4c now carries three tiers. Tier 1 (canonical thinkers, established
+academics, official bodies) may be cited as support anywhere. Tier 2 (practitioner-authors,
+advocates, bloggers, newsletter writers, movement organisations — Patel, Anderson, Harrison in
+his popular books, Doucet, Common Wealth Canada, the HGF essays) may be cited as the origin or a
+proponent of a claim, with status stated, never as evidence it is right, and never in a lead as
+an authority. Tier 3 (politicians, business people, op-ed writers) only for their own acts and
+words. The ruling I expect to be argued with is Harrison as Tier 2 for support purposes: his
+cycle books are practitioner works, not peer-reviewed, and he remains the natural origin
+citation everywhere. The deterministic mention scan found Tier-2 names in the body text of 275
+pages (Harrison 273 mentions, Doucet 170, Barnes 60, CWC 57, Patel 52, Anderson 41) — most will
+be legitimate origin or subject uses, which is why that pass is a classification job, not a
+search-and-replace.
+
+**The loop.** Thirty-nine haiku scanners read every page against the taxonomy and wrote strict
+JSON; their precision on the A classes was good and their recall on B was thin, so B is driven by
+the deterministic name scan instead. Twenty-five opus fixers took the A worklists from a rule
+sheet with a before/after table. Their work was the right kind: surgical, every hedge kept in
+plain words, no citation invented to close a marker, Sources annotations re-dated from each
+page's `last_reviewed` rather than guessed. Two of them caught something I would have missed —
+`[BLOCKED — legal provenance attestation pending …]` markers on two book pages were work
+items, not reader notes, and removing them from the page would have erased the licensing
+question entirely. BACKLOG.md now carries that as its only record. Then the session hit its opus
+limit with seven research worklists half-done and all nine B fixers dead on launch. I finished
+the 61-page residual with sonnet — it is the mechanical class, and the scanner and lint gate every
+edit — and am holding B for opus, because that is the judgment pass.
+
+**Result today:** 0 class-A hits on all 972 reader-facing pages, lint 0 errors, ~520 pages
+edited across six checkpoint commits. Also moved the narratives drafting index out of the
+published tree (it had gone live at /wiki/_framework/) and removed "this wiki has not yet
+reconciled…"-style self-reference from two objection leads.
+
+**Not done:** the B pass (164 non-research pages, 111 research), which starts when the opus
+limit resets. And nothing is live: the Ghost Admin key in 1Password now resolves to an
+83-character non-hex value — not a Ghost key — so sync fails. Flagged to Floyd.
+
+**Queue.** Three scanner items. Muellbauer's INET Oxford paper on English property tax reform
+got a page, and the filing decision is the interesting part: it is Tier 1, full text read, and it
+is *not* a land value tax — no land-value, LVT or Mirrlees discussion anywhere in the text. It
+proposes a proportional 0.5%/1% surcharge on value above £1.5m with a stamp-duty cut tapered by
+100(P−1.5)/P, about £2.2bn a year from 1.3% of English homes. Its value to this wiki is the worked
+transition design — the taper, the holding-period arithmetic, the recent-purchaser offset — which
+transfers to the LVT transition objections whatever the base. The page says plainly that the wiki
+now carries four differently-designed UK reforms of which only two are land-value-based. The two
+blog essays were rejected under §4c on the day the rule was written, which is as it should be.
+
+Ledger: 0 pending, 375 consumed. Inventory 1006 pages, 0 orphans.

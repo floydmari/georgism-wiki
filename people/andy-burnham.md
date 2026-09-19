@@ -44,6 +44,8 @@ Burnham won the Makerfield by-election on 18 June 2026 with 54.8% of the vote, a
 
 ## See Also
 
+- [Muellbauer: Property Tax Reform in England (2026)](/wiki/muellbauer-property-tax-reform-england/) — the September 2026 INET Oxford design for a proportional high-value surcharge with a tapered stamp-duty cut, addressed to the Burnham government; a property-value reform, distinct from the LVT proposals above
+
 - [Land Value Tax](/wiki/land-value-tax/) — the policy instrument at the centre of Burnham's 2026 campaign and premiership debate
 - [Ahmadi & Ghenis: Replacing Council Tax With a Land Value Tax](/wiki/ahmadi-ghenis-uk-council-tax-lvt-microsimulation/) — a quantitative microsimulation of exactly the reform Burnham's campaign has debated
 - [Labour Land Campaign](/wiki/labour-land-campaign/) — the UK advocacy body whose Chair, Murad Qureshi, wrote publicly urging Burnham toward LVT

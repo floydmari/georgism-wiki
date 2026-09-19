@@ -37,8 +37,8 @@ Internet Archive and reviewed on publication in the *Journal of Social Policy*
 [Mason Gaffney](/wiki/mason-gaffney/) (2011). Its author is the same George J.
 Miller whose related study *[Dying for Justice](/wiki/miller-dying-for-justice/)*
 Harrison also cites. What remains open is not the book's existence but the
-**claim-level** accuracy of Harrison's characterization of it: this session
-confirmed the bibliographic record but did not read Miller's text directly, so
+**claim-level** accuracy of Harrison's characterization of it: the
+bibliographic record has been confirmed, but Miller's text itself has not been read directly, so
 the specific health/class-gradient argument attributed to it below should be
 checked against the book itself before being cited as established.
 
@@ -59,7 +59,7 @@ found.
 
 Miller's book advances an epidemiological-style link between the privatization
 of land rent and class gradients in health and life expectancy — a line of
-evidence the rest of this wiki's research collection barely touches: little
+evidence the rest of the wiki's research collection barely touches: little
 else here connects [economic rent](/wiki/economic-rent/) capture to population
 health. That makes the source worth carrying. It must still be read directly
 before its specific findings are asserted as fact, since the account above
@@ -96,5 +96,5 @@ rests on Harrison's secondary characterization rather than on Miller's text.
    C. C. Potter, *Journal of Public Health Medicine* 23(3), 2001, p. 256 (DOI
    [10.1093/pubmed/23.3.256](https://doi.org/10.1093/pubmed/23.3.256)); and
    Mason Gaffney (2011), [review at Common Ground USA](https://commonground-usa.net/gaffney-mason_review-of-george-miller-on-fairness-and-efficiency-2011.htm).
-   This session verified the bibliographic record, not Miller's text; claim-level
+   The bibliographic record has been verified, not Miller's text; claim-level
    use still requires a direct read.

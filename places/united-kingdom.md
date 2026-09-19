@@ -47,6 +47,8 @@ The essay is advocacy rather than neutral analysis, and its policy preferences a
 
 ## See Also
 
+- [Muellbauer: Property Tax Reform in England (2026)](/wiki/muellbauer-property-tax-reform-england/) — a Tier-1 academic design for the top of the market, addressed to the Burnham government
+
 - [Andy Burnham](/wiki/andy-burnham/) — UK Prime Minister from July 2026, a land-value-tax advocate since 2010 whose 2026 leadership campaign made LVT a live national debate
 - [Labour Land Campaign](/wiki/labour-land-campaign/) — the advocacy body pressing Burnham toward LVT, chaired by Murad Qureshi
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) · [David Lloyd George](/wiki/david-lloyd-george/) · [Winston Churchill](/wiki/winston-churchill/) — the Georgist campaign and its architects

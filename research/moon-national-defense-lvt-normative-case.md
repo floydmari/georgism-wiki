@@ -60,7 +60,7 @@ paper's clean cost-benefit-asymmetry framing.
   dimensions") was recoverable despite an extensive independent search; the paper's "three
   dimensions" are never specified in what's available, and no working-paper PDF, author
   webpage, institutional affiliation, or any secondary discussion of this paper could be
-  found anywhere online (C-claim). This page should be read as a pointer to a novel argument
+  found anywhere online. This page should be read as a pointer to a novel argument
   worth tracking, not as a developed summary of one.
 - **Purely normative/philosophical as far as verifiable**, with no indication in the
   available abstract of empirical or quantitative content.
@@ -85,9 +85,9 @@ paper's clean cost-benefit-asymmetry framing.
 1. Haejun Moon (2026), "Whose Land Do They Die For? The Cost-Benefit Asymmetry of National
    Defense and the Normative Case for Land Value Taxation," SSRN Working Paper, DOI
    10.2139/ssrn.6367198, posted 20 April 2026.
-   [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6367198) — fetch
-   blocked (403) to this session 2026-08-29; the sole recoverable content is a short,
+   [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6367198) — full text
+   not accessible at last review (2026-08-29); the sole recoverable content is a short,
    apparently-truncated abstract obtained via the Crossref API — used for the cost-universal/
    benefit-concentrated-on-landowners framing quoted above (C-claim; a single paragraph, no
-   further content, author, or institutional context independently verifiable despite
+   further content, author, or institutional context independently verifiable despite an
    extensive search).

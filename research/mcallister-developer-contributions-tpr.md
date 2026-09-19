@@ -77,8 +77,8 @@ developer payment as evidence of successful value capture.
 
 Liverpool University Press selected the paper as *Town Planning Review* 97.4's Featured
 Article and invited McAllister to comment (2026-08-16, still marked "Free to Read for a
-limited time" on the journal site, though the full article itself remained bot-blocked to
-this session — see Honest Limits). His own framing sharpens two points beyond the
+limited time" on the journal site, though the full article itself remained inaccessible
+(see Honest Limits). His own framing sharpens two points beyond the
 abstract:
 
 - **The motivating problem.** "Writing the paper was motivated by a degree of personal
@@ -99,13 +99,13 @@ abstract:
 
 ## Honest Limits
 
-- **The wiki has still not obtained the paper's own full text.** The University of
-  Reading's CentAUR repository and the Town Planning Review's own site both sit behind an
-  automated bot-challenge (Anubis / a 403 on the "Free to Read" article page itself) that
-  this research session could not pass; the peer-reviewed abstract (Crossref/Semantic
-  Scholar metadata) and the publisher's own featured-article interview with the author
-  (fetched successfully, §"The Author, In His Own Words" above) are as close as this page
-  gets. Claims above are restricted to what those two sources state.
+- **The paper's own full text remains out of reach.** The University of
+  Reading's CentAUR repository and the Town Planning Review's own site, including the
+  "Free to Read" article page itself, both sit behind an automated access barrier that
+  has not been passed; the peer-reviewed abstract (Crossref/Semantic Scholar metadata)
+  and the publisher's own featured-article interview with the author (see
+  §"The Author, In His Own Words" above) are as close as this page gets. Claims above are
+  restricted to what those two sources state.
 - The taxonomy is a **conceptual/classificatory contribution** — the abstract does not
   indicate new quantitative fieldwork, so this page adds no `supports_outcomes` wiring;
   it is cited from [Betterment Levy](/wiki/betterment-levy/) as an analytical resource, not as
@@ -128,7 +128,7 @@ abstract:
    University Press. [DOI](https://doi.org/10.3828/tpr.2025.42) — used for the taxonomy
    (enabling/commercial/compensatory/supplementary/redistributive/subsidised) and the
    incidence argument, both drawn from the published abstract (Crossref/Semantic
-   Scholar metadata); full text not accessed this session (see Honest Limits).
+   Scholar metadata); full text not accessed at last review (2026-08-16) (see Honest Limits).
 2. University of Reading CentAUR repository record 125148 (accepted manuscript,
    "McAllister TPR paper 141025.pdf") — [centaur.reading.ac.uk/125148](https://centaur.reading.ac.uk/125148/) —
    confirmed via Unpaywall as the open-access copy of source 1 (same title, same DOI);
@@ -137,8 +137,8 @@ abstract:
 3. Liverpool University Press, "Developer or land owner contributions? Land value capture,
    creation, conservation and compensation | Town Planning Review 97.4 Featured Article"
    (blog post, 2026). [liverpooluniversitypress.blog](https://liverpooluniversitypress.blog/2026/07/23/developer-or-land-owner-contributions-land-value-capture-creation-conservation-and-compensation-town-planning-review-97-4-featured-article/) —
-   fetched and read 2026-08-16 (curl, WebFetch 403'd); the publisher's own featured-article
+   read in full (2026-08-16); the publisher's own featured-article
    post carrying McAllister's first-person comment on the paper, used for the two direct
    quotations in §"The Author, In His Own Words" (both verified verbatim against the fetched
    page text) and the "Free to Read for a limited time" notice (B-claim; the linked full-text
-   article page itself still returned 403 when fetched directly).
+   article page itself was not accessible when fetched directly).

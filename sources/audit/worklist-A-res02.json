@@ -1,0 +1,220 @@
+{
+ "research/olea-hoyos-bizkaia-land-value-tax.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "ld used,   and any sensitivity analysis are not covered by this page (B-claim).  ## Bears On  - **Objection:** [LVT Doesn't Raise Enough Revenue](/"
+  }
+ ],
+ "research/openai-industrial-policy-intelligence-age.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "cument's own framing/caveats; fetched and read in full (all 13 pages) this session. "
+  }
+ ],
+ "research/oxford-review-george-2025.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "hind a Cloudflare bot-challenge that blocked every fetch method tried this session; no   NBER working-paper predecessor of this specific paper was found"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "Cloudflare",
+   "context": "ce level.** The Oxford Academic full-text and PDF are both   behind a Cloudflare bot-challenge that blocked every fetch method tried this session; no "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ll text blocked by a Cloudflare challenge on every fetch method tried this session    (2026-08-18); built from the published abstract and cross-checked "
+  }
+ ],
+ "research/palmon-smith-capitalization.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ns on this page; the full text was successfully retrieved and read in this session. 2. Wallace E. Oates (1969), \"The Effects of Property Taxes and Local"
+  }
+ ],
+ "research/panier-perez-gonzalez-villanueva-belgium-ace.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ll quotes ≤50 words,    verified against the BIS-hosted full-text PDF this session).    [Free PDF (BIS)](https://www.bis.org/events/confresearchnetwork1"
+  }
+ ],
+ "research/peruffo-check-australia-migration-housing.md": [
+  {
+   "class": "A2",
+   "where": "body",
+   "match": "B-claim",
+   "context": "nstruction and robustness checks are not independently assessed here (B-claim).  ## Bears On  - **Problem:** [Housing Unaffordability Is a Land Pro"
+  }
+ ],
+ "research/phang-toh-singapore-congestion-pricing.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "authors' published-version record in the SMU institutional repository this session;   the *Transportation Journal* full text sits behind a paywall (Gale"
+  },
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this wiki's egress",
+   "context": " behind a paywall (Gale) that returned an   institution-login wall to this wiki's egress. The **~76% (32,500→7,700 vehicles)**   figure is the standard ALS st"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "    day\") were verified verbatim against the published-version record this session; the    Gale/Transportation Journal full text returned an institution"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " land-transport    history and corroborated across the ALS literature this session; it is quoted    identically on the [congestion pricing](/wiki/conges"
+  }
+ ],
+ "research/phelps-brown-weber-accumulation.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": "250`, not access-restricted), and its OCR full text was read directly this session, confirming the article's own printed pages and figures — an independ"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "R full text, not access-restricted, no login required), read directly this session — used for the pp. 266, 266–267, and 271 quotations and figures above"
+  }
+ ],
+ "research/philippon-finance-efficiency.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "driven cost    decrease\" puzzle (B-claims; verified against the paper this session).    [Author PDF](https://pages.stern.nyu.edu/~tphilipp/papers/Financ"
+  }
+ ],
+ "research/philippon-great-reversal.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " front matter and    full Introduction were directly fetched and read this session via HUP's official sample PDF    (Wayback copy; the live HUP host blo"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ssment of    the book's style and audience (directly fetched and read this session). 3. Louis Rouanet (2022), \"Competition is (still) a tough weed: A re"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "  description of the published review; full text not directly fetched this session). 4. Pierre Lemieux (2020), \"The Great Reversal,\" *Regulation* (Cato "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "critique of Philippon's    proposed remedy (directly fetched and read this session). 5. Thomas Philippon (2019), \"The Economics and Politics of Market C"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "d telecom price-comparison case studies. Directly fetched and read    this pass; note that this article is **authored by Philippon himself** (a first"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": " reception distinct from    Rouanet's (not independently read in full this session; cited for corroboration only). 7. Germán Gutiérrez & Thomas Philippo"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this pass",
+   "context": "derlying    Chapter 5 of the book; abstract directly fetched and read this pass: \"The elasticity of entry    with respect to Tobin's Q was positive a"
+  }
+ ],
+ "research/piketty-capital-21st-century.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "corroborating Rognlie's headline conclusion and its wording, since    this session's direct fetch access to the primary PDF's exact page text was unavai"
+  }
+ ],
+ "research/riley-taken-for-a-ride.md": [
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "t, and the note that only Canary Wharf made a developer contribution; this session fetched the article directly. 4. Wikipedia, \"Jubilee Line extension\" "
+  }
+ ],
+ "research/rochet-tirole-two-sided.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": ".** The paper's working-paper full text (Toulouse/IDEI, source 1) was fetched and read (2026-07-09); the quotations and the Proposition 1 reference above ar"
+  }
+ ],
+ "research/romer-digital-advertising-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "this session",
+   "context": " essay and FAQ and   from the Acemoglu–Johnson MIT brief, all fetched this session.  ## See Also   - [Digital Advertising Taxes After Romer: Maryland's "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "rbatim quotes (author's self-published    position; D-claims; fetched this session). 3. Daron Acemoglu & Simon Johnson (2024), \"The Urgent Need to Tax D"
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "ing (D/E-claims; policy brief by two prominent economists;    fetched this session)."
+  }
+ ],
+ "research/rothbard-single-tax.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "fetched and read",
+   "context": "e/).  **A note on sourcing.** The full text of the essay has now been fetched and read (cooperative-individualism.org PDF, 2026-07-07), and every quotation "
+  },
+  {
+   "class": "A4",
+   "where": "sources",
+   "match": "this session",
+   "context": "y text — now folded into source 1, which was fetched and read in full this session;    all quotations verified verbatim against it.) 7. Murray N. Rothba"
+  }
+ ],
+ "research/ryan-collins-rethinking-land-housing.md": [
+  {
+   "class": "A1",
+   "where": "body",
+   "match": "EDITORIAL taxonomy",
+   "context": "This is a **theoretical/historiographic claim about the discipline** (EDITORIAL taxonomy C/A) rather than a new formal result, and the wiki presents it as the"
+  }
+ ]
+}
