@@ -78,10 +78,10 @@ largest.
 
 - **Single mid-sized Ecuadorian city.** Loja is not Ecuador's largest city; findings may not
   generalize to Quito or Guayaquil's substantially larger, more speculative land markets.
-- **No effect-size table beyond the urban-center estimate was available to this session** —
+- **No effect-size table beyond the urban-center estimate was available** —
   the ~2.5%/1pp and ~0.6%/km figures describe the urban-core gradient specifically; the
   paper likely reports fuller spatial coefficient tables not captured here.
-- **Abstract-level source (B-claim).** This page is built from the Wiley abstract page and
+- **Abstract-level source.** This page is built from the Wiley abstract page and
   corroborating search results, not the paper's full body text or its underlying data.
 
 ## Bears On
@@ -107,4 +107,4 @@ largest.
    ~2.5%-per-1pp urban-center capitalization estimate and its ~0.6%-per-km decay, the
    affordability-vs-capitalization distinction, the underassessment-of-fast-appreciating-areas
    finding, and the "first empirical Latin American analysis" framing (B-claim; independently
-   corroborated across multiple retrieval attempts, but full text/data tables not obtained).
+   corroborated, but full text/data tables not obtained).

@@ -80,10 +80,10 @@ than a solved problem.
 
 ## Nuances and Limits
 
-- **Full text not independently verified.** The *Cities* journal article itself was
-  access-blocked (Elsevier) to this session; this page is built from the companion SSRN
-  working paper's abstract and search-indexed summaries, not a direct read of the published
-  version. Graded B-claim; the MCIL/CIL figure discrepancy noted above remains unresolved.
+- **Full text not independently verified.** The *Cities* journal article itself is not
+  accessible; the summary here draws on the companion SSRN working paper's abstract and
+  search-indexed summaries, not a direct read of the published version. The MCIL/CIL figure
+  discrepancy noted above remains unresolved.
 - **MCIL is specific to Crossrail's financing arrangement** — not a general-purpose London
   land value capture instrument — so the "over £1 billion" figure should not be read as
   representative of London LVC capacity generally.
@@ -107,13 +107,13 @@ than a solved problem.
 1. Mark C. Smith, Dominic Brown, Richard J. Dunning & Alex Lord (2026), "A return ticket
    for transport investment: How Land Value Capture supported London's Crossrail," *Cities*,
    November 2026 issue, DOI 10.1016/j.cities.2026.107329.
-   [doi.org](https://doi.org/10.1016/j.cities.2026.107329) — fetch blocked (Elsevier) to
-   this session 2026-08-27; used for the paper's existence, venue, and general subject.
+   [doi.org](https://doi.org/10.1016/j.cities.2026.107329) — full text not accessible at
+   last review (2026-08-27); used for the paper's existence, venue, and general subject.
 2. Mark Smith, Dominic Brown, Richard Dunning & Alex Lord, "Just the Ticket for a Global
    City? Evaluating the Role of the Mayoral Community Infrastructure Levy in Developing
    London's Crossrail," SSRN working paper.
    [papers.ssrn.com/sol3/papers.cfm?abstract_id=5244763](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5244763) —
-   fetch blocked (403) to this session 2026-08-27; summary drawn from search-indexed
+   full text not accessible at last review (2026-08-27); summary drawn from search-indexed
    abstract description, used for the MCIL £1 billion+ figure, the Marsh & McConnell (2010)
    policy-success framework, and the developer-impact/borough-diversion design tension
    (C-claim; not independently verified against the paper's own text, no verbatim

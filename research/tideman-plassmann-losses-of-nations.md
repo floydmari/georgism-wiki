@@ -37,61 +37,44 @@ trillion of foregone output** (Ch. 14 §2), and an ancestor of Tideman's later
 per-worker gains estimates and the
 [2021 super-stimulus modeling](/wiki/goodhart-stimulus/).[1]
 
-**Verification note (2026-07-11, Hermes fact-check lane) — method and figures
-partially confirmed; the "$7 trillion" magnitude needs care.** The primary
-chapter PDF (sharetherents and other mirrors) could not be fetched this pass, but
-the chapter's approach and headline numbers were corroborated from a direct book
-review (Roger Sandilands, 1998) and secondary summaries. **Year basis:** 1993
-data. **Method:** Tideman & Plassmann fit an aggregate production function
-relating output to land, labour and capital, each supplied in accordance with its
-marginal *after-tax* return (drawing on Feldstein's labour-supply elasticities),
-then compare actual output under the existing tax regime with potential output
-under a revenue-neutral regime that shifts taxation off labour and capital and
-onto economic rent; results are described as conservative because they assume only
-1% exogenous annual technical progress. **Figures:** removing the deadweight loss
-raises **US** output by *nearly 30%* — 1993 US GDP of about $5.495 trillion versus
-a counterfactual of about **$7.097 trillion** (i.e. the deadweight loss is ~23% of
-potential output) — and by *over 90%* in higher-tax European countries (a ~50%
-deadweight loss). **Caution on the "$7 trillion" figure:** the sources located
-report *per-country / per-group* results, not a single combined G7 aggregate
-dollar loss. The number $7.097 trillion is the US *counterfactual GDP level* (what
-US output would have been *with* the rent-based regime), **not** a G7 foregone-
-output loss; the wiki's "≈$7 trillion of foregone output for the G7" (carried via
-Harrison, *Boom Bust*, Ch. 14) may conflate that US counterfactual level with an
-aggregate loss. The primary *Losses of Nations* chapter has not been independently
-obtained: the sharetherents mirror and other known copies return HTTP 404, and no
-free or archived full text has been located, so it has not been possible to confirm
-whether the volume itself reports any single combined-G7 loss figure or exactly what
-Harrison's *Boom Bust* Ch. 14 §2 states. Pending recovery of the primary text, the
-"$7 trillion" magnitude should be read as most consistent with the US counterfactual
-GDP *level* documented above rather than treated as a verified aggregate G7 foregone-
-output loss.
+The primary chapter has not been directly obtained. The chapter's exact identity is
+established: **"Taxed Out of Work and Wealth: The Costs of Taxing Labour and Capital,"**
+Chapter 6 of the volume, pp. 146–174, confirmed via Wikipedia's "Georgism" article
+references and the Labour Land Campaign's *Cut Out the Deadweight* briefing, fn. xiv.[2]
+No free copy is available: the sharetherents.org mirror once hosted a PDF, but its
+current `/publications/` page links only to an Amazon purchase page, and no archived
+capture of the old PDF URL has been found; no copy exists at landresearchtrust.org,
+cooperative-individualism.org, SSRN, archive.org, or the authors' institutional pages; the
+book remains undigitized (Google Books holds only a metadata record).
 
-**Second corroboration pass (2026-07-17) — chapter now precisely identified; still no
-free copy found.** The chapter's exact identity is now pinned: **"Taxed Out of Work and
-Wealth: The Costs of Taxing Labour and Capital"**, Chapter 6 of the volume (also
-independently confirmed via Wikipedia's "Georgism" article references and corroborating
-web search as pp. 146–174), citation confirmed verbatim in the Labour Land Campaign's
-*Cut Out the Deadweight* briefing, fn. xiv.[2] The sharetherents mirror (dead since at
-least the prior verification pass) was hunted exhaustively this session:
-sharetherents.org's own current `/publications/` page lists *The Losses of Nations*
-(1998) linked only to an Amazon purchase page, confirming the free PDF was withdrawn
-rather than merely moved; no Wayback Machine capture of the sharetherents PDF URL exists
-at any timestamp; no copy was found at landresearchtrust.org,
-cooperative-individualism.org, SSRN, archive.org, or via the authors' institutional
-pages; the book remains undigitized (not on the Internet Archive; Google Books holds a
-metadata-only record). Two independent secondaries now give identical figures — 1993 US
-GDP of $5.495 trillion versus a $7.097 trillion counterfactual (a ~23% US deadweight
-loss), with European losses nearer 50% owing to VATs[3] — so the reading above (US
-counterfactual *level*, not a G7 aggregate loss) is corroborated rather than resting on
-one summary. The same briefing adds a per-country UK result: 1993 UK output at **55% of
-its counterfactual** under the rent-shift regime (per-capita net domestic product of
-£15,000 actual versus £27,000 counterfactual) — further evidence the chapter reports
-country-by-country results. One loose end: that UK figure implies an output gain of
-~80%, slightly below this page's earlier "over 90% in higher-tax European countries"
-paraphrase; which country (if any) reaches 90%+ can only be settled against the primary
-chapter, which still requires recovery. Retryable status tracked in
-`sources/verification-backlog.md`.
+The chapter's approach and headline figures are corroborated instead from a direct book
+review (Roger Sandilands, 1998) and two independent secondary sources that give identical
+numbers.[2][3] **Year basis:** 1993 data. **Method:** Tideman & Plassmann fit an aggregate
+production function relating output to land, labour and capital, each supplied in
+accordance with its marginal *after-tax* return (drawing on Feldstein's labour-supply
+elasticities), then compare actual output under the existing tax regime with potential
+output under a revenue-neutral regime that shifts taxation off labour and capital and onto
+economic rent; results are described as conservative because they assume only 1%
+exogenous annual technical progress. **Figures:** removing the deadweight loss raises
+**US** output by *nearly 30%* — 1993 US GDP of about $5.495 trillion versus a
+counterfactual of about **$7.097 trillion** (i.e. the deadweight loss is ~23% of
+potential output) — and by *over 90%* in higher-tax European countries (a ~50%
+deadweight loss). The same briefing also gives a UK figure — 1993 UK output at 55% of
+its counterfactual (per-capita net domestic product of £15,000 actual versus £27,000
+counterfactual) — which implies an output gain closer to ~80% for the UK specifically,
+slightly below the "over 90%" paraphrase above; which country, if any, reaches 90%+ can
+only be settled against the primary chapter.
+
+**Caution on the "$7 trillion" figure:** the secondary sources located report
+*per-country / per-group* results, not a single combined G7 aggregate dollar loss. The
+number $7.097 trillion is the US *counterfactual GDP level* (what US output would have
+been *with* the rent-based regime), **not** a G7 foregone-output loss; the wiki's "≈$7
+trillion of foregone output for the G7" (carried via Harrison, *Boom Bust*, Ch. 14 §2) may
+conflate that US counterfactual level with an aggregate loss. Whether the volume itself
+reports any single combined-G7 loss figure, or exactly what *Boom Bust* Ch. 14 §2 states,
+remains unconfirmed pending recovery of the primary text. Until then, the "$7 trillion"
+figure is best read as the US counterfactual GDP level documented above rather than a
+verified aggregate G7 foregone-output loss.
 
 ## See Also
 
@@ -104,12 +87,12 @@ chapter, which still requires recovery. Retryable status tracked in
 
 1. Nicolaus Tideman & Florenz Plassmann, "Taxed Out of Work and Wealth: The Costs
    of Taxing Labour and Capital", Ch. 6 in Fred Harrison (ed.), *The Losses of
-   Nations* (London: Othila Press, 1998), pp. 146–174. Primary text not independently
-   obtained — the former [sharetherents mirror](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
-   returns 404, no working copy or archived snapshot was found as of 2026-07-17, and the
-   book is undigitized
+   Nations* (London: Othila Press, 1998), pp. 146–174. Primary text not accessible — the
+   former [sharetherents mirror](https://www.sharetherents.org/wp-content/uploads/2014/05/Losses-of-Nations.pdf)
+   no longer serves the file, no working copy or archived snapshot has been found (last
+   review 2026-07-17), and the book is undigitized
    ([Google Books record](https://books.google.com/books/about/The_losses_of_nations.html?id=bertAAAAMAAJ)).
-   — used for thesis and venue (A-claims; full text unfetched from this environment).
+   — used for thesis and venue (A-claim; full text not accessible at last review).
    Carried into the wiki via
    [*Boom Bust*](/wiki/harrison-boom-bust/), Ch. 14 §2 (Heavy scan).
 2. Labour Land Campaign, [*Cut Out the Deadweight*](https://www.labourland.org/wp-content/uploads/2019/05/Cut-out-the-deadweight.pdf)

@@ -40,7 +40,7 @@ The wiki carries this page as **honest counter-evidence** on
 (wired as `challenged_by`): it shows the *building-inclusive* property tax can reach
 rents. The standard theoretical bridge
 ([Mieszkowski](/wiki/mieszkowski-property-tax-incidence/);
-[Zodrow](/wiki/zodrow-three-views/)) implies this pass-through operates through the
+[Zodrow](/wiki/zodrow-three-views/)) implies that pass-through operates through the
 **structures** component — buildings can go unbuilt, so their tax can shift — which
 does not transfer to a pure land tax on a fixed base. But that transfer argument is
 theory, not something this study tests, and the page states it as such.
@@ -58,12 +58,10 @@ side are [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/) (ful
 pass-through, Germany) and
 [Schwegman & Yinger](/wiki/schwegman-yinger-homestead/) (~14% shifting, New York).
 
-## Verification note
-
 Bibliographic details and the magnitude are corroborated across four independent
 renderings. The free author-hosted PDF
 ([k-state.edu](https://www.k-state.edu/economics/about/staff/websites/turner/tsoodleturner.pdf))
-was fetched this session and confirms the headline magnitude verbatim: "a one
+confirms the headline magnitude verbatim (2026-07-05): "a one
 standard deviation increase in the property tax rate raises residential rents by
 roughly $400 annually" (abstract). Scan depth **Light**.
 

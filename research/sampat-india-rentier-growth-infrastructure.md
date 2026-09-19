@@ -70,10 +70,10 @@ when evaluating growth-infrastructure-justified land deals generally.
 - **India-specific, drawing on a broader multi-year research program.** The Dholera and Goa
   SEZ cases are the paper's central evidence; generalizing to other Indian growth-infrastructure
   projects, let alone other countries, would go beyond what this paper itself establishes.
-- **Abstract-level source (B-claim).** The publisher page was blocked to this session,
-  including via a reader-proxy route; this page is built from a well-corroborated WebSearch
-  reconstruction of the paper's framework and case identification, not the paper's own
-  statistical evidence or full argument.
+- **Abstract-level source.** The publisher page is not reachable, including via a
+  reader-proxy route; the summary here draws on a well-corroborated secondary reconstruction
+  of the paper's framework and case identification, not the paper's own statistical evidence
+  or full argument.
 - **Specific land-price and investment figures were not independently obtained** — the page
   describes the paper's qualitative framework and case selection, not its quantitative
   results.
@@ -96,9 +96,9 @@ when evaluating growth-infrastructure-justified land deals generally.
 1. Preeti Sampat (2025), "The Rentier Economy of Growth Infrastructures: Value
    Appropriation without Adequate Accumulation in India," *Antipode* 57: 2438–2464, published
    online 6 August 2025, DOI 10.1111/anti.70061.
-   [doi.org](https://doi.org/10.1111/anti.70061) — fetch blocked (403) to this session
-   2026-08-31, including via a reader-proxy route; summary reconstructed from a WebSearch
+   [doi.org](https://doi.org/10.1111/anti.70061) — full text not accessible at last review
+   (2026-08-31), including via a reader-proxy route; summary reconstructed from a secondary
    aggregation of the paper's abstract and author's related work — used for the three-phase
    land-appropriation framework, the Dholera and Goa SEZ case identification, and the "value
-   appropriation without adequate accumulation" finding (B-claim; secondary description,
-   full text and quantitative results not independently obtained).
+   appropriation without adequate accumulation" finding (B-claim; secondary description —
+   full text and quantitative results not accessible at last review).
