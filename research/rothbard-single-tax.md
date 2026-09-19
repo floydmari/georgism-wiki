@@ -48,7 +48,7 @@ Rothbard's argument **accurately and at full strength, on its own terms**. The G
 responses to each point below are deliberately not interleaved here; they are collected on
 [Objection: the Austrian critique of LVT](/wiki/lvt-austrian-critique/).
 
-**A note on sourcing.** The full text of the essay has now been fetched and read
+The full text of the essay has been read in full
 (cooperative-individualism.org PDF, 2026-07-07), and every quotation and paraphrase below has
 been checked verbatim against it. The Georgist and academic secondary sources are retained for
 the responses they make, but the primary wording no longer rests on them.
@@ -195,7 +195,7 @@ that source, mined directly rather than referenced generically.
    Economic Education, Irvington-on-Hudson, NY, 1957. [Full-text PDF
    (cooperative-individualism.org)](https://cooperative-individualism.org/rothbard-murray_single-tax-economic-and-moral-implications-1997.pdf)
    · [Mises Institute listing](https://mises.org/library/single-tax-economic-and-moral-implications)
-   — **fetched and read in full (2026-07-07)**; all quotations on this page verified verbatim
+   — **read in full (2026-07-07)**; all quotations on this page verified verbatim
    against it: the "cannot, in practice, separate the value of the original ground" /
    "arbitrary act… political act" assessment argument, the "100 percent tax on rent… fall
    promptly to zero" and "not superabundant… complete chaos in land sites" price arguments,
@@ -228,7 +228,7 @@ that source, mined directly rather than referenced generically.
    [Article](https://mises.org/mises-wire/murray-rothbard-and-henry-george) — used for the
    framing of Rothbard's site-allocation argument and his general opposition to Georgism, as
    an Austrian-school secondary summary.
-6. (Primary text — now folded into source 1, which was fetched and read in full this session;
+6. (Primary text — now folded into source 1, which was read in full (2026-07-07);
    all quotations verified verbatim against it.)
 7. Murray N. Rothbard, "Confiscation and the Homestead Principle," *Libertarian Forum*,
    1969. [Panarchy.org hosted

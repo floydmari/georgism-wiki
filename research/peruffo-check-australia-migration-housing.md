@@ -71,7 +71,7 @@ demand, per Mankiw & Weil) rather than international migration specifically.
   applies naturally.
 - **Full text not independently verified beyond the abstract.** Specific figures above are
   as reported in the paper's abstract/results summary; the shift-share instrument's
-  construction and robustness checks are not independently assessed here (B-claim).
+  construction and robustness checks are not independently assessed here.
 
 ## Bears On
 

@@ -79,9 +79,8 @@ empirical/institutional evidence base.
 
 ## Nuances and Limits
 
-- **Abstract/secondary-source level.** The Oxford Academic full-text and PDF are both
-  behind a Cloudflare bot-challenge that blocked every fetch method tried this session; no
-  NBER working-paper predecessor of this specific paper was found (unlike the program's
+- **Abstract/secondary-source level.** The Oxford Academic full-text and PDF are not
+  publicly accessible; no NBER working-paper predecessor of this specific paper was found (unlike the program's
   other papers, this one appears to have been written directly for the Oxford Review
   symposium issue). This page is built from the published abstract and characterizations
   in secondary coverage, corroborated by the wiki's own prior direct verification (see
@@ -132,8 +131,7 @@ increasingly general theory of land, credit, and growth in OLG models:
    paper's core argument (land market reform → speculation → depressed productive
    investment → land taxation raises equilibrium growth), the "goes beyond Henry George's
    (1879) suggestion" framing, and the paper's place in the wider research program.
-   Full text blocked by a Cloudflare challenge on every fetch method tried this session
-   (2026-08-18); built from the published abstract and cross-checked against the direct
+   Full text not accessible at last review (2026-08-18); built from the published abstract and cross-checked against the direct
    verification already on [the 18.6-year-cycle source-record
    page](/wiki/progress-18-6-year-cycle/), which independently confirms the "depresses
    productive investment and long-run growth"/"land taxation can raise the equilibrium

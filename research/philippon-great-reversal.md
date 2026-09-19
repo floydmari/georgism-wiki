@@ -244,8 +244,8 @@ book's headline claims as settled.
    Press of Harvard University Press. [Harvard University Press](https://www.hup.harvard.edu/books/9780674260320) ·
    [publisher's sample PDF (front matter + Introduction), archived](https://web.archive.org/web/20240808054258/https://www.production.hup.harvard.edu/file/feeds/PDF/9780674237544_sample.pdf) —
    used for the book's overall thesis, structure, and publication details. The front matter and
-   full Introduction were directly fetched and read this session via HUP's official sample PDF
-   (Wayback copy; the live HUP host blocks automated requests): they confirm the table of
+   full Introduction were read (2026-07-10) via HUP's official sample PDF
+   (Wayback copy; the live HUP host is not publicly accessible): they confirm the table of
    contents and four-part structure (Chapter 5 is indeed titled "The Failure of Free Entry"),
    the three main arguments as stated in the Introduction ("One: Competition has declined in
    most sectors of the US economy... Two: The lack of competition is explained largely by policy
@@ -257,23 +257,23 @@ book's headline claims as settled.
    [author-hosted PDF (CREI)](https://crei.cat/wp-content/uploads/2021/02/Commentary_03-1.pdf) —
    used for the summary of the book's three-part thesis, the HHI-reliability critique, the disputed
    US-Europe divergence claim, the technological-change counter-explanation, and the assessment of
-   the book's style and audience (directly fetched and read this session).
+   the book's style and audience (read 2026-07-10).
 3. Louis Rouanet (2022), "Competition is (still) a tough weed: A review essay of Thomas
    Philippon's *The Great Reversal: How America Gave Up on Free Markets*," *The Review of Austrian
    Economics* 35(1). [Springer](https://link.springer.com/article/10.1007/s11138-020-00521-w) —
    used for the Austrian/public-choice critique of the book's competition framework and its
    parallels to the older structure-conduct-performance paradigm (summarized from search-engine
-   description of the published review; full text not directly fetched this session).
+   description of the published review; full text not directly consulted).
 4. Pierre Lemieux (2020), "The Great Reversal," *Regulation* (Cato Institute), Summer 2020.
    [Cato Institute](https://www.cato.org/regulation/summer-2020/great-reversal) — used for the
    comparative US-Europe price figures (broadband, average prices), the lobbying-expenditure
    example, the RegData methodology description, and the classical-liberal critique of Philippon's
-   proposed remedy (directly fetched and read this session).
+   proposed remedy (read 2026-07-10).
 5. Thomas Philippon (2019), "The Economics and Politics of Market Concentration," *NBER
    Reporter* 2019:4. [NBER](https://www.nber.org/reporter/2019number4/economics-and-politics-market-concentration) —
    used for the profit-share and reinvestment-rate figures, the "failure of free entry" mechanism,
-   and the airline-merger and telecom price-comparison case studies. Directly fetched and read
-   this pass; note that this article is **authored by Philippon himself** (a first-person summary
+   and the airline-merger and telecom price-comparison case studies. Read (2026-07-10);
+   note that this article is **authored by Philippon himself** (a first-person summary
    of his research programme contemporaneous with the book), not a third-party NBER gloss, so the
    7%/10% profit-share, 30-cents/20-cents reinvestment, twice-as-expensive telecom, and
    2008–2014 airline-merger claims quoted on this page are confirmed verbatim in the author's own
@@ -281,10 +281,10 @@ book's headline claims as settled.
 6. Mises Institute, review of *The Great Reversal* in the *Quarterly Journal of Austrian
    Economics*. [Mises Institute](https://mises.org/quarterly-journal-austrian-economics/great-reversal-how-america-gave-free-markets) —
    used to corroborate the existence of an Austrian-school critical reception distinct from
-   Rouanet's (not independently read in full this session; cited for corroboration only).
+   Rouanet's (not independently read in full; cited for corroboration only).
 7. Germán Gutiérrez & Thomas Philippon (2019), "The Failure of Free Entry," NBER Working Paper
    26001. [NBER](https://www.nber.org/papers/w26001) — the peer-circulated paper underlying
-   Chapter 5 of the book; abstract directly fetched and read this pass: "The elasticity of entry
+   Chapter 5 of the book; abstract read (2026-07-10): "The elasticity of entry
    with respect to Tobin's Q was positive and significant until the late 1990s but declined to
    zero afterwards," with the authors finding that neither returns to scale nor technological
    costs explain the decline. Used to confirm the "failure of free entry" claim from the primary

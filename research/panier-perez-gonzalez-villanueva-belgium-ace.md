@@ -143,6 +143,6 @@ best-replicated result in the ACE literature. The Belgian evidence is also cited
    rose; incumbents and new firms; largest among large and new firms; driven by higher
    equity not lower liabilities), the "more capitalized firms" conclusion, and the
    Myers (1984)/Graham (2008) statements of the prior evidence gap (all quotes ≤50 words,
-   verified against the BIS-hosted full-text PDF this session).
+   verified against the BIS-hosted full-text PDF, 2026-07-12).
    [Free PDF (BIS)](https://www.bis.org/events/confresearchnetwork1603/perez_gonzalez.pdf) ·
    [Presentation slides (BIS)](https://www.bis.org/events/confresearchnetwork1603/perez_gonzalez_presentation.pdf)

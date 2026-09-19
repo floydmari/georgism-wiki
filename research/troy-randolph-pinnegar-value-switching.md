@@ -91,7 +91,7 @@ wiki for why LVC instruments matter.
 - **A theoretical framework paper with case-study and statistical illustration**, not a
   causal-identification study in the econometric sense — the station-proximity analysis is
   descriptive/correlational.
-- **Full text read directly (A-claim).** The complete article was obtained via UNSW's
+- **Full text read directly.** The complete article was obtained via UNSW's
   institutional repository and read in full.
 
 ## Bears On
@@ -114,8 +114,8 @@ wiki for why LVC instruments matter.
    the Country and the City," eds. Adam Morton & Dallas Rogers), DOI
    10.1177/26349825241269224. Funded by Australian Research Council DP190102762.
    [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/26349825241269224) — full
-   text read directly 2026-08-31 (via UNSW's institutional repository, unsworks.unsw.edu.au,
-   after direct/proxy publisher access was blocked) — used for the four-regime "value
+   text accessed via UNSW's institutional repository (unsworks.unsw.edu.au) and read in
+   full (2026-08-31) — used for the four-regime "value
    switching" framework, the Randwick/Erskineville/Lewisham transaction data, the
    station-proximity statistical analysis, and the authors' own qualification that value
    switching complements rather than refutes rent theory (A-claim; full text).

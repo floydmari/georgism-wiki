@@ -143,7 +143,7 @@ is a useful test of what a frontier rent instrument is really trying to do.
 - **Source provenance.** The 2019 *New York Times* op-ed is behind a paywall; its title and
   6 May 2019 date are corroborated by NYU Stern's faculty page. The substantive design
   detail and quotations here are taken from Romer's own freely-hosted 2021 essay and FAQ and
-  from the Acemoglu–Johnson MIT brief, all fetched this session.
+  from the Acemoglu–Johnson MIT brief.
 
 ## See Also
 
@@ -175,10 +175,10 @@ is a useful test of what a frontier rent instrument is really trying to do.
    — used for the revenue-has-a-location incidence argument, the progressive schedule and
    "if big is bad, tax big" / split-up incentive, the subscription escape hatch, the
    59%/18% political-ad-spending figures, and the verbatim quotes (author's self-published
-   position; D-claims; fetched this session).
+   position; D-claims; read 2026-07-10).
 3. Daron Acemoglu & Simon Johnson (2024), "The Urgent Need to Tax Digital Advertising,"
    MIT Shaping the Future of Work, Policy Brief, April 2024.
    [MIT PDF](https://shapingwork.mit.edu/wp-content/uploads/2024/04/Digital-Ad-Tax_Policy-Brief.pdf)
    — used for the flat-tax-above-a-threshold variant, the tax-revenue-not-profit rationale,
    and the "sin tax" harm framing (D/E-claims; policy brief by two prominent economists;
-   fetched this session).
+   read 2026-07-10).

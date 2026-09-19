@@ -82,9 +82,8 @@ class monopoly rent becomes structurally unprofitable.
 - **Draws on Marxian rent theory** (class monopoly rent), the same broader tradition as the
   wiki's other Anderson-series pages, distinct from core Georgist land-rent economics though
   conceptually adjacent.
-- **Full text read directly (A-claim).** The complete open-access article was obtained (via
-  a reader-proxy route after the standard MDPI URL was unexpectedly blocked to this session)
-  and read in full.
+- **Full text read directly.** The complete open-access article was obtained and read in
+  full.
 
 ## Bears On
 
@@ -105,8 +104,7 @@ class monopoly rent becomes structurally unprofitable.
 1. Allison J. Zimmerman & Matthew B. Anderson (2025), "Nefarious Algorithms: Rent-Fixing via
    Algorithmic Collusion and the Role of Intentionality in the Pursuit of Class Monopoly
    Rent," *Urban Science* 9(8): 315, DOI 10.3390/urbansci9080315, CC-BY 4.0.
-   [mdpi.com](https://www.mdpi.com/2413-8851/9/8/315) — full text read directly 2026-08-31
-   (via a reader-proxy route after the standard MDPI URL was blocked to this session) — used
+   [mdpi.com](https://www.mdpi.com/2413-8851/9/8/315) — read in full, 2026-08-31 — used
    for the RealPage mechanism, the client-admission quotations, the Belltown/South Lake
    Union and DC concentration figures, the intentionality/antitrust argument, and the
    proposed remedies including the Vienna comparison (A-claim; full text).

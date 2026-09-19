@@ -102,11 +102,11 @@ propositions:
   elasticities, the assumed collectible share of land rent (90% in the headline run),
   and the growth-accounting structure. They should be read as the model's estimate of
   an *available* gain, not a measured outcome.
-- **Verification note.** The published article is paywalled (SAGE); the abstract is
+- **Source access.** The published article is paywalled (SAGE); the abstract is
   verified from the publisher's metadata, and the headline result is quoted from
-  Foldvary's page-cited quotation of the paper (p. 17), not confirmed against the
-  original galley. A future editor with SAGE/library access should verify the p. 17
-  figures directly and add the per-tax marginal-excess-burden numbers.
+  Foldvary's page-cited quotation of the paper (p. 17), rather than the original galley.
+  A future editor with SAGE/library access should verify the p. 17 figures directly and
+  add the per-tax marginal-excess-burden numbers.
 
 ## Bears On
 

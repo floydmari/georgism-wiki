@@ -81,7 +81,7 @@ argument.
   design.
 - **Full text not independently verified beyond the abstract.** Specific country-level data
   and the paper's own engagement with the institutional literature it is implicitly
-  contrasted with are not covered by this page (B-claim).
+  contrasted with are not covered by this page.
 
 ## Bears On
 

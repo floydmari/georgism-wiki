@@ -82,6 +82,6 @@ explain — not as a settled measurement of the rent share.
    the Theory and Measurement of Financial Intermediation," *American Economic Review*
    105(4), 1408–1438 — used for the ~1.5–2% unit cost of intermediation, its
    ~140-year stability (raw and quality-adjusted), and the "no IT-driven cost
-   decrease" puzzle (B-claims; verified against the paper this session).
+   decrease" puzzle (B-claims; verified against the paper, 2026-07-17).
    [Author PDF](https://pages.stern.nyu.edu/~tphilipp/papers/Finance_Efficiency.pdf) ·
    [AEA](https://www.aeaweb.org/articles?id=10.1257/aer.20120578)

@@ -40,7 +40,7 @@ comparing industries whose equipment mix made them more or less eligible.[1]
 
 - Bonus depreciation "raised investment in eligible capital relative to
   ineligible capital by **10.4% between 2001 and 2004 and 16.9% between 2008 and
-  2010**" (abstract; verified against the NBER working-paper text this session).
+  2010**" (abstract; verified against the NBER working-paper text, 2026-07-12).
 - Responses were dramatically **heterogeneous**: "small firms respond 95% more
   than big firms," and firms "respond strongly when the policy generates
   immediate cash flows but not when cash flows only come in the future" — the
@@ -79,7 +79,7 @@ synthesis outcome must keep the two instrument families distinct.
 1. Eric Zwick & James Mahon (2017), "Tax Policy and Heterogeneous Investment
    Behavior," *American Economic Review* 107(1), 217–248 (working-paper version:
    NBER WP 21876) — used for the investment-response magnitudes and heterogeneity
-   findings (abstract quoted verbatim; verified against the NBER PDF this session).
+   findings (abstract quoted verbatim; verified against the NBER PDF, 2026-07-12).
    [AEA](https://www.aeaweb.org/articles?id=10.1257/aer.20140855) ·
    [NBER WP 21876](https://www.nber.org/papers/w21876)
 2. Gabriel Chodorow-Reich, Matthew Smith, Owen Zidar & Eric Zwick (2024), "Tax

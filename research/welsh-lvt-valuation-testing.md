@@ -198,14 +198,13 @@ finding that any tested method failed an accuracy bar.
 
 ## What the Programme Actually Found — and How It Has Been Cited Elsewhere
 
-**Finding (resolved, this page's own primary-source read — not an open verification
-question):** Two pages already on this wiki — [research/tpa-what-would-lvt-do](/wiki/tpa-what-would-lvt-do/)
+Two pages already on this wiki — [research/tpa-what-would-lvt-do](/wiki/tpa-what-would-lvt-do/)
 and [people/andy-burnham](/wiki/andy-burnham/) — cite this Welsh Government
 programme for the claim that it found "no [assessment] methodology... yet accurate
 enough for live implementation" / "none 'accurate enough to be deployed in a live land
-value tax.'" Having now fetched and read both Goodwin-Hawkins working papers in
-full, this wiki page's own scan finds **no passage in either document reporting that any
-specific valuation method was tested and found inaccurate**. Both papers are dated
+value tax.'" Both Goodwin-Hawkins working papers have been read in full, and neither
+contains **a passage reporting that any specific valuation method was tested and found
+inaccurate**. Both papers are dated
 before any field test: the *Claims and contexts* paper is a literature synthesis, and the
 *Valuation methodologies* paper explicitly **proposes** five method families **for future
 testing** rather than reporting results against them. The closest the papers come to the
@@ -224,9 +223,8 @@ live implementation" over-states what has been shown — it reads as though a
 completed test failed, when the actual sequence is: evidence review (this programme,
 Feb 2026) → tendered field testing (announced by Drakeford in June 2025, not yet
 reported) → a future accuracy verdict that, as of this page's last review, has not been
-published. The wiki should correct or soften the two citing pages to reflect this once
-this finding is reviewed; per this task's file scope this page flags the issue but does not
-itself rewrite those two pages' substantive claims.
+published. The wiki should correct or soften the two citing pages to reflect this finding; this page
+flags the issue but does not itself rewrite those two pages' substantive claims.
 
 ## What This Means for the LVT Feasibility Debate
 
@@ -284,7 +282,7 @@ priorities call for.
    contexts*, Working Paper version 3.0, Countryside and Community Research
    Institute. [Welsh Government copy (PDF)](https://www.gov.wales/sites/default/files/publications/2026-02/testing-land-valuation-methods-a-land-value-tax-for-wales-claims-and-contexts-report.pdf) ·
    [University of Gloucestershire eprints copy](https://eprints.glos.ac.uk/15859/)
-   (both fetched and read in full, 74 pp., this session) — used for the systematic-review
+   (both fetched and read in full, 74 pp., 2026-08-10) — used for the systematic-review
    methodology, the seven-claims framework, all efficiency/equity findings, the
    Wales-specific discussion (geography, devolved tax system, redistribution risk),
    and the paper's own conclusions. The two copies carry a one-year date
@@ -294,7 +292,7 @@ priorities call for.
 2. Bryonny Goodwin-Hawkins (2026), *A Land Value Tax for Wales? Valuation
    methodologies*, Working Paper 2, version 1.2, Countryside and Community
    Research Institute. [University of Gloucestershire eprints copy, full text (41 pp.)](https://eprints.glos.ac.uk/15861/)
-   (fetched and read in full this session) — used for the five-methodology-group
+   (fetched and read in full, 2026-08-10) — used for the five-methodology-group
    framework, the international-practice scoping review (84 taxes, EU27 plus 11
    other democracies), the glossary definitions, and the paper's own framing of the
    "which approach" policy question.

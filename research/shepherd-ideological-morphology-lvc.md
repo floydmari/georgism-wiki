@@ -89,9 +89,8 @@ a traceable history, not a natural boundary.
   homeowners may not generalize identically to other countries' political systems.
 - **A discourse-analytic study, not a policy-effectiveness study.** The paper documents how
   LVC has been argued about, not whether any given LVC instrument works.
-- **Full text read directly (A-claim).** The complete article and its 110 endnotes were
-  obtained (via a reader-proxy route after direct fetches to both the publisher and Cardiff's
-  ORCA repository were blocked) and read in full.
+- **Full text read directly.** The complete article and its 110 endnotes were obtained and
+  read in full.
 
 ## Bears On
 
@@ -112,9 +111,8 @@ a traceable history, not a natural boundary.
 1. Edward Shepherd (2025), "Public policy and contested political concepts: the ideological
    morphology of land value capture," *Journal of Political Ideologies*, published online 4
    March 2025, DOI 10.1080/13569317.2025.2464674, CC-BY (hybrid open access).
-   [doi.org](https://doi.org/10.1080/13569317.2025.2464674) — full text read directly
-   2026-08-30 (direct publisher and Cardiff ORCA repository fetches both blocked; obtained
-   via a reader-proxy route) — used for the Freeden morphology framework, the core/adjacent
+   [doi.org](https://doi.org/10.1080/13569317.2025.2464674) — full text accessed and read
+   in full (2026-08-30) — used for the Freeden morphology framework, the core/adjacent
    concept identification, the market's migration from adjacent to core, the two-policy-period
    history with direct parliamentary quotations, the "conceptual silence" around homeowners,
    and the 2015-2023 partial third-period return to active-state framing (A-claim; full

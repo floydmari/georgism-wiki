@@ -76,7 +76,7 @@ that may travel better in policy debates wary of "redistribution" as a loaded te
   yield.
 - **Full text not independently verified beyond the abstract.** Specific details of the
   hedonic model's parcel-level assumptions, the exact income-tax-liability threshold used,
-  and any sensitivity analysis are not covered by this page (B-claim).
+  and any sensitivity analysis are not covered by this page.
 
 ## Bears On
 

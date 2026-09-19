@@ -181,7 +181,7 @@ do to specific households — not as a peer-reviewed incidence estimate.
 1. Dan Neidle (2026), "What would a land value tax actually do?", Tax Policy Associates, 12 July
    2026. [taxpolicy.org.uk](https://taxpolicy.org.uk/2026/07/12/what-would-a-land-value-tax-actually-do/) —
    used for all model methodology, figures, worked examples, and quotations above; fetched and
-   verified verbatim this session for every direct quotation.
+   verified verbatim (2026-07-26) for every direct quotation.
 2. Dan Neidle (2024), "The Lib Dem buyback tax won't raise £2bn, and could raise nothing," Tax
    Policy Associates, 9 June 2024. [taxpolicy.org.uk](https://taxpolicy.org.uk/2024/06/09/the-lib-dem-buyback-tax-wont-raise-2bn-and-could-raise-nothing/) —
    used only for the one-sentence characterisation of TPA's track record of debunking

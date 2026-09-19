@@ -64,9 +64,9 @@ well-documented power-law regularities as the calibration mechanism.
   until peer review.
 - **A theoretical/design proposal, not a policy already tested anywhere.** No jurisdiction is
   known to have implemented a city-size-scaled LVT of this kind.
-- **Abstract-level source (B-claim).** The publisher page was blocked to this session; this
-  page is built from a WebSearch reconstruction of the paper's abstract, not a full read of
-  its methodology or empirical calibration.
+- **Abstract-level source.** The publisher page is not accessible; the summary above rests
+  on a secondary description of the paper's abstract, not a full read of its methodology or
+  empirical calibration.
 
 ## Bears On
 
@@ -86,8 +86,8 @@ well-documented power-law regularities as the calibration mechanism.
 1. Chris Webster, Chen Chen, Xiaohu Zhang, K.W. Chau & Chuyuan Ren (2025), "City-Size Tax,
    Henry George and Urban Scaling," Research Square preprint, posted 14 August 2025 (not
    peer-reviewed). [researchsquare.com](https://www.researchsquare.com/article/rs-6916007/latest) —
-   fetch blocked (403) to this session 2026-08-30; summary reconstructed from a WebSearch
+   full text not accessible at last review (2026-08-30); summary rests on a secondary
    listing of the paper's abstract — used for the "city-size adjusted mean social surplus
    indicator," the power-law urban-scaling framing, the explicit "Georgist tax" framing, and
-   the stated policy motivations (B-claim; abstract-level, full methodology not read;
+   the stated policy motivations (B-claim; abstract-level — full methodology not read;
    preprint status flagged).

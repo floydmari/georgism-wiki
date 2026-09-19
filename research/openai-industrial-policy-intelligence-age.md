@@ -73,4 +73,4 @@ But the wiki's rent-gradient rule applies here at its steepest point. Land rent 
 
 ## Sources
 
-1. OpenAI, "Industrial Policy for the Intelligence Age: Ideas to Keep People First," April 2026. [PDF](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf) — used for all proposal descriptions, direct quotations, and the document's own framing/caveats; fetched and read in full (all 13 pages) this session.
+1. OpenAI, "Industrial Policy for the Intelligence Age: Ideas to Keep People First," April 2026. [PDF](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf) — used for all proposal descriptions, direct quotations, and the document's own framing/caveats; read in full (all 13 pages), 2026-07-14.

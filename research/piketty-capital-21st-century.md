@@ -59,8 +59,8 @@ partially redirects**.
    figure captions at [piketty.pse.ens.fr/capital21c](http://piketty.pse.ens.fr/files/capital21c/en/Piketty2014FiguresTables.pdf);
    the companion [Piketty & Zucman (2014) QJE](https://gabriel-zucman.eu/files/PikettyZucman2014QJE.pdf)
    paper carries the same series.]
-2. **The central r > g mechanism.** Piketty's headline theoretical claim (taxonomy D,
-   interpretive/argumentative, built on the empirical r and g series) is that whenever the rate
+2. **The central r > g mechanism.** Piketty's headline theoretical claim (interpretive/
+   argumentative, built on the empirical r and g series) is that whenever the rate
    of return on capital (r) persistently exceeds the economy's growth rate (g), wealth
    accumulated in the past grows faster than output and income, so inherited wealth tends to
    dominate wealth created through current work and enterprise, and wealth concentration rises
@@ -271,10 +271,10 @@ literature; it is not, on its own terms, a source *for* the land-specific claim.
 7. Marginal Revolution (Tyler Cowen), "Matt Rognlie on Piketty, net capital returns, and
    housing" (2015). [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2015/03/matt-rognlie-on-piketty-net-capital-and-housing.html) —
    used as a secondary source corroborating Rognlie's headline conclusion and its wording, since
-   this session's direct fetch access to the primary PDF's exact page text was unavailable.
+   direct access to the primary PDF's exact page text was unavailable.
 
-*Verification note (2026-07):* The wealth/income-ratio figures, the r > g pattern, the Rognlie
-"housing" decomposition quotation, and the Piketty response to the *Financial Times* have since
+As of 2026-07, the wealth/income-ratio figures, the r > g pattern, the Rognlie
+"housing" decomposition quotation, and the Piketty response to the *Financial Times* have
 been verified verbatim against open-access primary sources —
 [Piketty's capital21c figures & technical appendix](http://piketty.pse.ens.fr/files/capital21c/en/)
 and [Rognlie's Brookings PDF](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_rognlie.pdf) —

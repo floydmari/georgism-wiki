@@ -80,15 +80,15 @@ from scratch.
 
 - **Full text not independently verified beyond the abstract.** This page is built from a
   search-indexed abstract summary, not a direct read of the *Sustainable Cities and
-  Society* article, which was access-blocked (Elsevier) to this session. Specific model
+  Society* article; the full text is not publicly accessible. Specific model
   architecture, data requirements, and validation results for the LOIS framework are not
-  covered here (B-claim).
+  covered here.
 - **A methodological/technical proposal, not a deployed system.** The paper proposes and
   evaluates a framework; this page does not claim any municipality has yet adopted it in
   practice.
 - **"LOIS" as a framework name is drawn from search-indexed summary text**, not confirmed
   as an acronym expansion or verified against the paper's own terminology — flagged for
-  re-verification if a future session obtains full-text access.
+  re-verification if full-text access is obtained.
 
 ## Bears On
 
@@ -109,9 +109,9 @@ from scratch.
 1. Okan Yılmaz, Mehmet Alkan & Alihan Teke (2026), "A causal GeoAI framework for capturing
    the unearned increment to self-finance public infrastructure," *Sustainable Cities and
    Society*, September 2026 issue, DOI 10.1016/j.scs.2026.107595.
-   [doi.org](https://doi.org/10.1016/j.scs.2026.107595) — fetch blocked (Elsevier) to this
-   session 2026-08-27; summary drawn from search-indexed abstract text, used for the
+   [doi.org](https://doi.org/10.1016/j.scs.2026.107595) — full text not accessible at
+   last review (2026-08-27); summary rests on search-indexed abstract text — used for the
    "circular value mechanism" framing, the sequencing-paradox diagnosis, the LOIS
    framework name, and the unidimensional-revenue-maximisation-worsens-inequality finding
-   (C-claim; not independently verified against the paper's own text, no verbatim
-   quotation offered beyond the two short phrases quoted above from the indexed abstract).
+   (C-claim; abstract-level — no verbatim quotation offered beyond the two short phrases
+   quoted above from the indexed abstract).

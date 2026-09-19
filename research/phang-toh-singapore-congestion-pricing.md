@@ -98,9 +98,9 @@ comfortable finding that the early scheme was mis-calibrated.
   Geoist File](/wiki/congestion-pricing/)), not a claim in the paper.
 - **Provenance note.** The scheme narrative and the "congestion had merely shifted in
   time and place" and ERP-design quotations here were verified verbatim against the
-  authors' published-version record in the SMU institutional repository this session;
+  authors' published-version record in the SMU institutional repository;
   the *Transportation Journal* full text sits behind a paywall (Gale) that returned an
-  institution-login wall to this wiki's egress. The **~76% (32,500→7,700 vehicles)**
+  institution-login wall. The **~76% (32,500→7,700 vehicles)**
   figure is the standard ALS statistic, corroborated across the Singapore land-transport
   record and quoted identically on the concept page; it should be read as a
   well-established figure, not as a direct transcription of Phang & Toh's tables.
@@ -129,14 +129,14 @@ comfortable finding that the early scheme was mis-calibrated.
    into the Restricted Zone"; "the problem of congestion had merely shifted in time
    and place"; the Weekend Car / Off-Peak Car / Road Pricing schemes; ERP 1998
    "charging of tolls per entry, based on vehicle size, route taken, and time of the
-   day") were verified verbatim against the published-version record this session; the
+   day") were verified verbatim against the published-version record (2026-07-11); the
    Gale/Transportation Journal full text returned an institution-login wall.
    [SMU repository](https://ink.library.smu.edu.sg/soe_research/117/) ·
    [Gale/Transportation Journal](https://go.gale.com/ps/i.do?id=GALE%7CA117772692)
 2. ALS literature and World Bank case study — used for the ~76% Restricted-Zone morning-peak reduction (from ~32,500 vehicles between
    7:30–9:30 a.m. before the June 1975 charge to ~7,700 after, with a large shift to
    transit) is the standard ALS statistic recorded in Singapore's land-transport
-   history and corroborated across the ALS literature this session; it is quoted
+   history and corroborated across the ALS literature; it is quoted
    identically on the [congestion pricing](/wiki/congestion-pricing/) concept page.
    [Area Licensing Scheme (overview)](https://en.wikipedia.org/wiki/Area_Licensing_Scheme) ·
    [World Bank, *Relieving Traffic Congestion: The Singapore Area Licensing Scheme, 1975*](https://documents1.worldbank.org/curated/en/514871467993172515/pdf/104686-WP-PUBLIC-2006-08-The-Singapore-Area-Licensing-Scheme-1975.pdf)

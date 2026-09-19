@@ -117,6 +117,6 @@ and the EU ETS (Bayer & Aklin).
    long-run-growth non-rejection with LP/SVAR p ≈ 0.99, the +2pp-by-year-6 [95% CI −2 to
    +4] cumulative GDP path, the near-zero employment effect, the 4–6%-at-$40/tonne-on-30%
    emissions reduction and its lower-bound framing, and the robustness cuts) verified
-   this session against the open-access MIT CEEPR working-paper version and the AEA
+   (2026-07-11) against the open-access MIT CEEPR working-paper version and the AEA
    article record; the aeaweb PDF is gated. [AEA](https://www.aeaweb.org/articles?id=10.1257/mac.20210052) ·
    [MIT CEEPR WP (open)](https://ceepr.mit.edu/wp-content/uploads/2023/01/MIT-CEEPR-WP-2023-02.pdf)

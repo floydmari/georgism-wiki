@@ -200,11 +200,10 @@ and empirical lineage, not what the (still-unread) published body text argues.
    Affect Your Neighbors' Job Growth?" *The Journal of Real Estate Finance and
    Economics*, online 5 September 2024. [Publisher/DOI](https://doi.org/10.1007/s11146-024-09995-y)
    (paywalled) — used for the published citation and confirmation this is the
-   peer-reviewed version of the working paper below. Its abstract remains
-   unread as of 2026-08-14 despite an eight-channel attempt (Semantic Scholar,
-   Crossref, OpenAlex, direct SpringerLink fetch, Wayback Machine, ResearchGate,
-   IDEAS/RePEc, Google Scholar — see the Nuances and Limits section); the
-   sample-period/coefficient-update question stays an open `[VERIFY]`.
+   peer-reviewed version of the working paper below. Its abstract is not
+   publicly accessible at last review (2026-08-14) — see the Nuances and Limits
+   section; whether the published version updates the sample period or
+   coefficient magnitudes reported in the working paper remains unconfirmed.
 2. Zhou Yang (2015), "The Spillover Effects of the Two-Rate Property Taxes in
    Pennsylvania: A Zero-Sum Game or a Win-Win Game?" Lincoln Institute of Land
    Policy Working Paper WP15ZY1. [Free PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/2502_1846_Yang%20WP15ZY1.pdf)
@@ -224,5 +223,4 @@ and empirical lineage, not what the (still-unread) published body text argues.
    used for comparison/contrast.
 5. Crossref API record for doi:10.1007/s11146-024-09995-y, queried 2026-08-25 —
    used for the deposited reference list (36 entries), read 2026-08-25; confirms
-   no abstract field is deposited at this DOI, consistent with the eight-channel
-   abstract-retrieval sweep documented above. [https://api.crossref.org/works/10.1007/s11146-024-09995-y](https://api.crossref.org/works/10.1007/s11146-024-09995-y)
+   no abstract field is deposited at this DOI. [https://api.crossref.org/works/10.1007/s11146-024-09995-y](https://api.crossref.org/works/10.1007/s11146-024-09995-y)

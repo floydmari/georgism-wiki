@@ -204,7 +204,7 @@ The Geoist responses concede the core insight and dispute its scope.
 
 ## Net Assessment
 
-**Substantially valid at the frontier, and this wiki treats it as the gate.**
+**Substantially valid at the frontier — and it is the gate any rent-capture argument has to pass.**
 Any page claiming that capturing non-land rents is efficient must reckon with
 three concessions the steelman extracts: ex-post excess returns mix rent with
 quasi-rent in unmeasurable proportions; real tax systems' asymmetric loss

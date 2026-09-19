@@ -191,8 +191,8 @@ published book does.
   surveys the classical lineage and groups Smith among the writers broadly sympathetic to
   land taxation. (masongaffney.org.)
 
-These are advocacy-side (Georgist) readings and are cited as such (D-claim weight on the
-interpretive framing); the primary-text quotes above stand on their own.
+These are advocacy-side (Georgist) readings and are cited as such, with interpretive weight
+only; the primary-text quotes above stand on their own.
 
 ## The Other Non-WoN Candidate Sources (Honest Status)
 

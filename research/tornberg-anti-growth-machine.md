@@ -71,7 +71,7 @@ around restricting supply rather than allowing it.
 - **A theoretical synthesis, not new primary data.** The paper's contribution is the framework
   and argument, built on cited empirical work (Fang et al., Hsieh & Moretti) rather than
   original data collection.
-- **Full text read directly (A-claim).** The complete article was read via the genuinely
+- **Full text read directly.** The complete article was read via the genuinely
   open-access (CC-BY) full text, independently confirmed via Crossref, Semantic Scholar, and
   Unpaywall.
 

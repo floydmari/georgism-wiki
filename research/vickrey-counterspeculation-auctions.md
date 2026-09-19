@@ -50,7 +50,7 @@ The paper was central to the work cited when Vickrey shared the 1996 Nobel Memor
    incentives under asymmetric information.
 3. Eric A. Posner and E. Glen Weyl, *[Radical Markets](/wiki/radical-markets/):
    Uprooting Capitalism and Democracy for a Just Society* (Princeton University
-   Press, 2018), Ch. 1 ("Property Is Monopoly"), pp. 49–50 — verified this session
+   Press, 2018), Ch. 1 ("Property Is Monopoly"), pp. 49–50 — verified (2026-07-14)
    against Princeton University Press's publicly posted free sample chapter,
    [assets.press.princeton.edu/chapters/s11222.pdf](https://assets.press.princeton.edu/chapters/s11222.pdf)
    (linked from the authors' own [book site](https://web.archive.org/web/20210902180254/http://radicalmarkets.com/chapters/property-is-monopoly/)).
