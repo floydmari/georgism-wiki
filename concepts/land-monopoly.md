@@ -34,7 +34,7 @@ The term's originating definition is George's own, and it is sharper than the pa
 
 > *Thus rent or land value does not arise from the productiveness or utility of land. It in no wise represents any help or advantage given to production, but simply the power of securing a part of the results of production... Rent, in short, is the price of monopoly, arising from the reduction to individual ownership of natural elements which human exertion can neither produce nor increase.*
 
-George immediately generalizes this to the limiting case: "If one man owned all the land accessible to any community, he could, of course, demand any price or condition for its use that he saw fit; and, as long as his ownership was acknowledged, the other members of the community would have but death or emigration as the alternative to submission to his terms." He then notes that *actual* land monopoly is diffuse rather than singular — land is "in the hands of too many different persons to permit the price... to be fixed by mere caprice," which is precisely why a *law* of rent (competition among many small monopolists) is needed rather than a simple story of one owner's demand (Book III, ch. II). This is the theoretical core the "Land vs. Capital" and "Implications for Housing" sections above restate in modern terms: monopoly here means exclusive legal control over an unreproducible natural element, not necessarily concentration in a single hand. (A-claim; direct quotation, verified verbatim against the repository's hosted full text.)
+George immediately generalizes this to the limiting case: "If one man owned all the land accessible to any community, he could, of course, demand any price or condition for its use that he saw fit; and, as long as his ownership was acknowledged, the other members of the community would have but death or emigration as the alternative to submission to his terms." He then notes that *actual* land monopoly is diffuse rather than singular — land is "in the hands of too many different persons to permit the price... to be fixed by mere caprice," which is precisely why a *law* of rent (competition among many small monopolists) is needed rather than a simple story of one owner's demand (Book III, ch. II). This is the theoretical core the "Land vs. Capital" and "Implications for Housing" sections above restate in modern terms: monopoly here means exclusive legal control over an unreproducible natural element, not necessarily concentration in a single hand.
 
 ### George: Ownership Is Not What Improvement Requires (Book VIII, ch. I)
 
@@ -42,7 +42,7 @@ The "price of monopoly" passage above (Book III, ch. II) explains why land monop
 
 > "It does not take a sage to see that what is required for the improvement of land is not absolute ownership of the land, but security for the improvements... What is necessary for the use of land is not its private ownership, but the security of improvements. It is not necessary to say to a man, 'this land is yours,' in order to induce him to cultivate or improve it. It is only necessary to say to him, 'whatever your labor or capital produces on this land shall be yours.'" (Book VIII, ch. I)
 
-George backs the claim with contemporary evidence of use separated from ownership: most cultivated land in Great Britain and most buildings in London already stand on leased, not owned, ground; feudal tenants surrendered land ownership to a lord in exchange for secure tenure; Turkish *vakouf* (church-land) owners sold title to a mosque for a nominal price while remaining as fixed-rent tenants; and — his most concrete case — the Pribilof Islands' fur-seal rookeries, leased by the U.S. government to the Alaska Fur Company at $317,500 a year rather than sold outright, were as well-conserved and productively managed under public leasehold as any privately owned resource (Book VIII, ch. I). His conclusion reverses the usual defense of private land title: "So far from the recognition of private property in land being necessary to the proper use of land, the contrary is the case. Treating land as private property stands in the way of its proper use" — pointing to vacant valuable lots and entailed English estates left idle for want of secure tenure to improvers, not for want of an owner (Book VIII, ch. I). This is a distinct argument from the rent-extraction critique above: monopoly here is charged not just with taking an unearned share of output, but with actively holding land *out* of its best use. (C-claim; George's own theoretical argument, attributed; quotations verified verbatim against the repository's hosted full text.)
+George backs the claim with contemporary evidence of use separated from ownership: most cultivated land in Great Britain and most buildings in London already stand on leased, not owned, ground; feudal tenants surrendered land ownership to a lord in exchange for secure tenure; Turkish *vakouf* (church-land) owners sold title to a mosque for a nominal price while remaining as fixed-rent tenants; and — his most concrete case — the Pribilof Islands' fur-seal rookeries, leased by the U.S. government to the Alaska Fur Company at $317,500 a year rather than sold outright, were as well-conserved and productively managed under public leasehold as any privately owned resource (Book VIII, ch. I). His conclusion reverses the usual defense of private land title: "So far from the recognition of private property in land being necessary to the proper use of land, the contrary is the case. Treating land as private property stands in the way of its proper use" — pointing to vacant valuable lots and entailed English estates left idle for want of secure tenure to improvers, not for want of an owner (Book VIII, ch. I). This is a distinct argument from the rent-extraction critique above: monopoly here is charged not just with taking an unearned share of output, but with actively holding land *out* of its best use. The argument is George's own, attributed to him rather than asserted as a finding.
 
 ### Smith: Primogeniture and Entails as Concentration Mechanisms (1776)
 
@@ -60,7 +60,7 @@ The same chapter identifies a second, market-level mechanism distinct from the r
 
 Smith's account of how this concentration was eventually broken — not by law or land reform, but by the "silent and insensible operation" of foreign commerce, which gave great proprietors something to spend their surplus on besides maintaining armed retainers — is a distinct historical argument, treated in full on [The Wealth of Nations (Smith)](/wiki/wealth-of-nations/) (Book III, Ch. IV).
 
-Smith is a classical antecedent, not a Georgist — his target is the legal machinery that froze land markets, not private landownership itself, and he proposed freer alienation of land, not rent capture. But the "equal right to the earth" phrasing is the same premise Georgists later built on, and citing Smith here shows that the critique of hereditary land concentration is as old as economics itself; that reading is this wiki's interpretive framing. (A-claims for the quotations; D-claim; interpretive.)
+Smith is a classical antecedent, not a Georgist — his target is the legal machinery that froze land markets, not private landownership itself, and he proposed freer alienation of land, not rent capture. But the "equal right to the earth" phrasing is the same premise Georgists later built on, and citing Smith here shows that the critique of hereditary land concentration is as old as economics itself; that reading is this wiki's interpretive framing.
 
 See: [The Wealth of Nations (Smith)](/wiki/wealth-of-nations/)
 
@@ -70,33 +70,33 @@ Book III's primogeniture/entails argument (above) is about *why* land got concen
 
 > "The plenty and cheapness of good land... are the principal causes of the rapid prosperity of new colonies. The engrossing of land, in effect, destroys this plenty and cheapness. The engrossing of uncultivated land... is the greatest obstruction to its improvement; but the labour that is employed in the improvement and cultivation of land affords the greatest and most valuable produce to the society. The produce of labour, in this case, pays not only its own wages and the profit of the stock which employs it, but the rent of the land too upon which it is employed." (Book IV, Ch. VII)
 
-This is a distinct mechanism from the Book III argument: there, primogeniture and entails freeze an *existing* concentration in place; here, Smith diagnoses land engrossment itself — merely holding uncultivated tracts out of use, regardless of how they were acquired — as what "diverts" labour "towards other employments" and so lowers a colony's whole output, a direct classical statement of the idle-land/speculative-vacancy problem this wiki treats as a modern LVT justification (see [Speculative Vacancy](/wiki/speculative-vacancy/)). Smith's remedy, characteristically, is legal restraint on engrossment and easier alienation — not a tax on the rent of the land that is engrossed. (A-claim for the quotations, public domain text, verified verbatim 2026-07-18; D-claim for the speculative-vacancy connection, interpretive.)
+This is a distinct mechanism from the Book III argument: there, primogeniture and entails freeze an *existing* concentration in place; here, Smith diagnoses land engrossment itself — merely holding uncultivated tracts out of use, regardless of how they were acquired — as what "diverts" labour "towards other employments" and so lowers a colony's whole output, a direct classical statement of the idle-land/speculative-vacancy problem this wiki treats as a modern LVT justification (see [Speculative Vacancy](/wiki/speculative-vacancy/)). Smith's remedy, characteristically, is legal restraint on engrossment and easier alienation — not a tax on the rent of the land that is engrossed. (The link to modern speculative-vacancy arguments is an interpretive reading rather than Smith's own framing.)
 
 ### Neeson: Enclosure as Land Monopoly Mechanism
 
-J. M. Neeson's *Commoners* (1993) documents how parliamentary enclosure served as a historical mechanism for concentrating land ownership — the concrete process by which land monopoly was expanded in England. In seventeen enclosing Northamptonshire parishes (1774–1814), small landholders (under 5 acres) disappeared at the highest rate, while large landowners' holdings grew (Neeson 1993, Ch. 8, Tables 8.2–8.5, pp. 228–231). The process was not merely a market reallocation but a legally mandated transfer of common-use rights to private title-holders, enforced by Acts of Parliament. (B-claim; empirical)
+J. M. Neeson's *Commoners* (1993) documents how parliamentary enclosure served as a historical mechanism for concentrating land ownership — the concrete process by which land monopoly was expanded in England. In seventeen enclosing Northamptonshire parishes (1774–1814), small landholders (under 5 acres) disappeared at the highest rate, while large landowners' holdings grew (Neeson 1993, Ch. 8, Tables 8.2–8.5, pp. 228–231). The process was not merely a market reallocation but a legally mandated transfer of common-use rights to private title-holders, enforced by Acts of Parliament.
 
-Neeson documents that enclosure converted use-rights (*profit a prendre*) into exclusive private ownership, fundamentally restructuring who could benefit from land. Common pasture, estovers (fuel), turbary (turf), and pannage — all previously available to cottagers and small landholders — became the exclusive property of the enclosing landowner (Neeson 1993, Ch. 1–2). This is land monopoly in its historical formation: not a single owner holding all land, but the systematic conversion of shared access into exclusive title. (A-claim; factual)
+Neeson documents that enclosure converted use-rights (*profit a prendre*) into exclusive private ownership, fundamentally restructuring who could benefit from land. Common pasture, estovers (fuel), turbary (turf), and pannage — all previously available to cottagers and small landholders — became the exclusive property of the enclosing landowner (Neeson 1993, Ch. 1–2). This is land monopoly in its historical formation: not a single owner holding all land, but the systematic conversion of shared access into exclusive title.
 
 See: [Commoners (Neeson)](/wiki/commoners-neeson/)
 
 ### Banner: Colonial Land Acquisition as Monopoly Mechanism
 
-Stuart Banner's *How the Indians Lost Their Land* (2005) traces how colonial land acquisition in North America functioned as a land monopoly mechanism. Banner documents the progressive narrowing of Indian land rights: from initial recognition of Indian ownership (seventeenth century), through treaty-based transfers, to the redefinition of Indian rights as mere "occupancy" in *Johnson v. M'Intosh* (1823), to allotment policies that broke communal lands into individual parcels (Dawes Act, 1887) (Banner 2005, Chs. 1, 5, 8). (A-claim; factual)
+Stuart Banner's *How the Indians Lost Their Land* (2005) traces how colonial land acquisition in North America functioned as a land monopoly mechanism. Banner documents the progressive narrowing of Indian land rights: from initial recognition of Indian ownership (seventeenth century), through treaty-based transfers, to the redefinition of Indian rights as mere "occupancy" in *Johnson v. M'Intosh* (1823), to allotment policies that broke communal lands into individual parcels (Dawes Act, 1887) (Banner 2005, Chs. 1, 5, 8).
 
 Banner's key finding is that the power to define the legal rules was itself the mechanism of monopoly:
 
 > "The more powerful whites became relative to Indians, the more they were able to mold the legal system to produce outcomes in their favor—more sales, of larger tracts, at lower prices than would have existed had power relationships been more equal." (Banner 2005, Introduction)
 
-This illustrates the Georgist point that land monopoly is not only about holding land but about controlling the legal framework that determines who may hold it. (D-claim; interpretive)
+This illustrates the Georgist point that land monopoly is not only about holding land but about controlling the legal framework that determines who may hold it.
 
 See: [How the Indians Lost Their Land (Banner)](/wiki/how-the-indians-lost-their-land/)
 
 ### Daniel: Systematic Land Deprivation
 
-[Pete Daniel](/wiki/pete-daniel/)'s *Dispossession* (2013) documents how USDA discrimination functioned as a modern land monopoly mechanism. Through "passive nullification" — the systematic denial of loans, program access, and representation to African American farmers — the USDA contributed to a 93% decline in Black-operated farms from 1940 to 1974 (Daniel 2013, pp. 1, 23). County agricultural committees, dominated by white landowners, controlled acreage allotments and subsidy distribution through the ASCS, effectively channeling resources to large landholders while starving small Black farmers of credit (Daniel 2013, Ch. 7). (B-claim; empirical)
+[Pete Daniel](/wiki/pete-daniel/)'s *Dispossession* (2013) documents how USDA discrimination functioned as a modern land monopoly mechanism. Through "passive nullification" — the systematic denial of loans, program access, and representation to African American farmers — the USDA contributed to a 93% decline in Black-operated farms from 1940 to 1974 (Daniel 2013, pp. 1, 23). County agricultural committees, dominated by white landowners, controlled acreage allotments and subsidy distribution through the ASCS, effectively channeling resources to large landholders while starving small Black farmers of credit (Daniel 2013, Ch. 7).
 
-This demonstrates that land monopoly operates not only through outright seizure but through institutional control over the conditions of land access — credit, subsidies, and technical assistance — which can systematically disadvantage specific populations. (D-claim; interpretive)
+This demonstrates that land monopoly operates not only through outright seizure but through institutional control over the conditions of land access — credit, subsidies, and technical assistance — which can systematically disadvantage specific populations — an interpretive reading of the record rather than a measured finding.
 
 See: [Dispossession (Daniel)](/wiki/dispossession-daniel/)
 
@@ -115,7 +115,7 @@ not marginal productivity, but collateral security" — Gaffney argues prior lan
 ownership is itself the main qualification for the credit needed to buy more land,
 so that "landownership is highly concentrated" and gravitates to "financially
 strong hands" independent of who would farm or develop it most productively.[8]
-(D-claim; Gaffney's own theoretical argument, attributed.)
+(Gaffney's own theoretical argument, attributed.)
 
 Gaffney's companion empirical paper, [Rising Inequality and Falling Property Tax
 Rates](/wiki/gaffney-rising-inequality-farm-property-tax/) (1992), tests this
@@ -125,7 +125,7 @@ ratio) rose from 0.63 to 0.76 among surviving farms — and to 0.92 once the 4.5
 million farms that disappeared over the period are counted as zero-acre holdings —
 while a 50-state cross-section shows states with higher property tax rates
 consistently have smaller, more equally distributed, and more intensively improved
-farms.[9] (B-claim; empirical, cross-sectional; Gaffney himself flags the
+farms.[9] (Empirical and cross-sectional; Gaffney himself flags the
 direction-of-causation question as open rather than statistically resolved — see
 the page's Standing and Limits.)
 
@@ -156,7 +156,7 @@ effective 6% holding cost, while a rich buyer's 5% opportunity rate falls to
 2%, so the ratio of the poor buyer's holding cost to the rich buyer's *rises*
 from 1.8 to 3.0 as land appreciates — a "principle of leverage" that widens
 the credit-access gap specifically for land, since land (unlike depreciating
-assets) carries no cost but interest.[10] (C-claim; Gaffney's own theoretical
+assets) carries no cost but interest.[10] (Gaffney's own theoretical
 argument and worked example, attributed.)
 
 A contemporaneous companion paper, ["Tax Reform to Release
@@ -179,8 +179,8 @@ access: in a worked numerical example, a buyer with 3% long-term credit
 ("Scrooge") can outbid a buyer facing 10% credit ("Cratchit") only 2.1-to-1
 for current-use value, but **23.9-to-1** for the speculative-tail component —
 formalizing why cheap long-term credit concentrates *speculative* landholding
-specifically, more than it concentrates landholding generally.[13] (C-claim;
-Gaffney's own theoretical model and worked example, attributed.)
+specifically, more than it concentrates landholding generally.[13] (Gaffney's own
+theoretical model and worked example, attributed.)
 
 The same "strong hands" mechanism recurs outside land proper: Gaffney documents 1993-95
 spectrum licenses concentrating in a few well-financed telecom buyers before the FCC's
@@ -213,7 +213,7 @@ ownership makes the property tax progressive, not regressive — see
 [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/)),
 but the table itself is independent, additional evidence for land/wealth
 concentration as a general pattern, assembled from sources this page does
-not otherwise cite. (B-claim; empirical, though several rows are Gaffney's
+not otherwise cite. (Empirical, though several rows are Gaffney's
 own preliminary, unpublished mass-appraisal data — see that page's Standing
 and Limits.)
 

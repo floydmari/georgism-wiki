@@ -43,14 +43,9 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   variation: "the design of the development-based instrument undermines the provision of
   affordable housing," and the authors call for further research on the interconnections
   between infrastructure financing, LVC policy instrumentation, and urban planning. The
-  wiki's earlier draft of this paragraph overstated the project count (previously "over
-  100," corrected to the abstract's own "around eighty") and understated the affordable-
-  housing finding (previously read as neutral "heterogeneity," corrected to the paper's own
-  claim that the instrument's *design* undermines affordable-housing provision). This
-  correction is sourced from the paper's full bilingual abstract, retrieved this session via
-  the CORE.ac.uk aggregator's mirror of the HAL repository record — the underlying
-  ScienceDirect and HAL pages themselves remained bot-blocked (Anubis/Cloudflare
-  challenges) to every fetch method tried; no claim below the abstract level is made.
+  account here rests on the paper's full bilingual abstract, available through an
+  open-access mirror of the HAL repository record; the published full text is not
+  publicly accessible, and no claim below the abstract level is made.
 - **England ("Who should own the value of land?", 2026).** A UK Collaborative Centre for
   Housing Evidence (CaCHE) report by **Edward Shepherd** (Cardiff University) and
   **Tim White** (King's College London), drawing on over 50 interviews, argues that land
@@ -60,10 +55,9 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   policy-design failure but a structural one, and that "what is truly needed are more
   ambitious social-redistributive measures involving landed property and its value
   combined with a wider range of less speculative development models." This wording is
-  quoted directly from the CaCHE project page's own summary of the report, fetched
-  successfully this session; the report's full PDF (Cardiff University's ORCA repository
-  copy) remained behind a bot-challenge on every fetch attempt this session, so no
-  page-level or section-level claim from the full report is made — only the project page's
+  quoted directly from the CaCHE project page's own summary of the report; the
+  report's full PDF (Cardiff University's ORCA repository copy) is not publicly
+  accessible, so no page-level or section-level claim from the full report is made — only the project page's
   own two direct quotations above.
 
 - **Tax increment financing in practice: San Antonio's TIRZ system (2026).** For a
@@ -114,13 +108,13 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
 
 ### Howard: Garden City as LVT Application
 
-Ebenezer Howard's *Garden Cities of To-morrow* (1902) is one of the most detailed practical applications of land value capture ever proposed. Howard's "rate-rent" mechanism — in which all ground rents based on the annual value of land are paid to the municipality — is a form of LVC implemented through communal land ownership rather than taxation. Howard estimated that on a 6,000-acre estate with 30,000 residents, the rate-rent could yield approximately £50,000 per annum at the outset, rising as the town prospered (Howard 1902, Ch. I–III, pp. 20–43 — the estate purchase is set out in Ch. I, the rate-rent/unearned-increment mechanism in Ch. II, and the £50,000 revenue table specifically in Ch. III). (A-claim; factual)
+Ebenezer Howard's *Garden Cities of To-morrow* (1902) is one of the most detailed practical applications of land value capture ever proposed. Howard's "rate-rent" mechanism — in which all ground rents based on the annual value of land are paid to the municipality — is a form of LVC implemented through communal land ownership rather than taxation. Howard estimated that on a 6,000-acre estate with 30,000 residents, the rate-rent could yield approximately £50,000 per annum at the outset, rising as the town prospered (Howard 1902, Ch. I–III, pp. 20–43 — the estate purchase is set out in Ch. I, the rate-rent/unearned-increment mechanism in Ch. II, and the £50,000 revenue table specifically in Ch. III).
 
 Howard's mechanism captures the same value that LVC instruments target — the [unearned increment](/wiki/unearned-increment/) created by community presence and public investment — but does so through a trust ownership model rather than a tax on private title:
 
 > "One essential feature of the plan is that all ground rents, which are to be based upon the annual value of the land, shall be paid to the trustees, who, after providing for interest and sinking fund, will hand the balance to the Central Council of the new municipality, to be employed by such Council in the creation and maintenance of all necessary public works." (Howard 1902, Ch. I)
 
-This is functionally equivalent to a full land value tax: the community captures 100% of the land rent and applies it to public purposes. The difference is institutional — a trust rather than a tax authority — but the economic substance is the same. Howard's model thus demonstrates that LVC need not be limited to partial betterment levies or special assessments; it can, in principle, capture the full land rent stream. (C-claim; theoretical)
+This is functionally equivalent to a full land value tax: the community captures 100% of the land rent and applies it to public purposes. The difference is institutional — a trust rather than a tax authority — but the economic substance is the same. Howard's model thus demonstrates that LVC need not be limited to partial betterment levies or special assessments; it can, in principle, capture the full land rent stream.
 
 See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
@@ -164,7 +158,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 2. Dye & England (2010) — used for the relationship between value capture and land value taxation (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
 3. Ebenezer Howard, *Garden Cities of To-morrow* (London: Swan Sonnenschein, 1902), Ch. I–II — used for the rate-rent mechanism as LVC (A/C-claims). [Book page](/wiki/garden-cities-of-to-morrow/)
 4. Greg Miller, "Don't Reject Data Centers. Negotiate Harder.", *Progress and Poverty* (Substack), 6 May 2026. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/dont-reject-data-centers-negotiate) — used for the Loudoun County (VA) and Columbus (OH) data-center tax-revenue and abatement figures (B-claim, advocacy-institute source).
-5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, full bilingual abstract read via [CORE.ac.uk's mirror of the HAL repository record](https://api.core.ac.uk/v3/search/works/?q=doi:10.1016/j.landusepol.2025.107854), fetched 2026-08-10; the ScienceDirect and HAL full-text pages themselves remain bot-blocked).
-6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument, now with two direct quotations from the project page's own summary, fetched successfully 2026-08-10 (D-claim; the full report PDF remains bot-blocked, so quotation is limited to what the project page itself reproduces).
-7. Shari Biediger, "TIRZ explained: It's how SA will fund the new ballpark, Spurs arena," *San Antonio Report*, August 2026. [sanantonioreport.org](https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/) — article fetched and read 2026-08-14; used for the nine-zone count, the FY2025 $45M/~5%-of-$819M capture figures (attributed in the article to city CFO Troy Elliott), the ballpark financing shares, the Heather Way quotations and sunset-extension critique, and the board-meeting/minutes transparency details (B-claims; local journalism, quoted figures are the article's own).
-8. Patrick McIlheran, "How a development tool can increase property taxes," *Badger Institute*, 20 August 2026. [badgerinstitute.org](https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/) — fetched and read 2026-08-23; used for the Wisconsin net-new-construction levy-limit mechanism, the Wisconsin Legislative Council's own mill-rate explanation (quoted verbatim), the up-to-27-year TIF diversion period, the local-official-denial point, and the Port Washington-area 647-acre data-center TIF example (B-claim; local policy journalism from a free-market-oriented think tank).
+5. Juliette Maulat & Natacha Aveline-Dubach, "Shifting land value capture instruments for the Grand Paris Express metro," *Land Use Policy* 161 (2026): 107854. [DOI](https://doi.org/10.1016/j.landusepol.2025.107854) — used for the Grand Paris Express case (B-claim, full bilingual abstract read via [CORE.ac.uk's mirror of the HAL repository record](https://api.core.ac.uk/v3/search/works/?q=doi:10.1016/j.landusepol.2025.107854), read 2026-08-10; the ScienceDirect and HAL full-text pages themselves are not publicly accessible).
+6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument, now with two direct quotations from the project page's own summary, read 2026-08-10 (D-claim; the full report PDF is not publicly accessible, so quotation is limited to what the project page itself reproduces).
+7. Shari Biediger, "TIRZ explained: It's how SA will fund the new ballpark, Spurs arena," *San Antonio Report*, August 2026. [sanantonioreport.org](https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/) — article read in full, 2026-08-14; used for the nine-zone count, the FY2025 $45M/~5%-of-$819M capture figures (attributed in the article to city CFO Troy Elliott), the ballpark financing shares, the Heather Way quotations and sunset-extension critique, and the board-meeting/minutes transparency details (B-claims; local journalism, quoted figures are the article's own).
+8. Patrick McIlheran, "How a development tool can increase property taxes," *Badger Institute*, 20 August 2026. [badgerinstitute.org](https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/) — read in full, 2026-08-23; used for the Wisconsin net-new-construction levy-limit mechanism, the Wisconsin Legislative Council's own mill-rate explanation (quoted verbatim), the up-to-27-year TIF diversion period, the local-official-denial point, and the Port Washington-area 647-acre data-center TIF example (B-claim; local policy journalism from a free-market-oriented think tank).

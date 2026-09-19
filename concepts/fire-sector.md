@@ -87,7 +87,7 @@ as rent extraction.
 
 ## A Historical Antecedent: George on "Spurious Capital"
 
-Hudson's title for his fullest statement of the thesis — *The Bubble and Beyond: **Fictitious Capital**, Debt Deflation and the Global Crisis* (2012) — echoes a distinction Henry George drew in 1879. In *Progress and Poverty*, Book III, Ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest"), George argued that government bonds, watered railroad stock, and similar financial instruments are commonly mistaken for capital but are not: "Nothing can be capital... that does not consist of actual, tangible things... which have in themselves, and not by proxy, the power of directly or indirectly ministering to human desire." A government bond, he wrote, "does not represent capital at all" but "a solemn declaration that the government will, some time or other, take by taxation from the then existing stock of the people, so much wealth" — and he documents contemporary railroad companies issuing "certificates for two, three, four, five, or even ten" dollars against every dollar of capital actually invested, with dividends paid on the inflated total (Book III, ch. IV). The parallel to Hudson's "fictitious capital" is close but not identical: George's target is financial paper that misrepresents *how much real capital exists*, while Hudson's is credit that inflates *land prices* specifically — but both isolate a category of recorded "capital income" that is not a return to productive investment, a full century apart. (C-claim; George's own argument, attributed; quotation verified verbatim against the repository's hosted full text.)
+Hudson's title for his fullest statement of the thesis — *The Bubble and Beyond: **Fictitious Capital**, Debt Deflation and the Global Crisis* (2012) — echoes a distinction Henry George drew in 1879. In *Progress and Poverty*, Book III, Ch. IV ("Of Spurious Capital and of Profits Often Mistaken for Interest"), George argued that government bonds, watered railroad stock, and similar financial instruments are commonly mistaken for capital but are not: "Nothing can be capital... that does not consist of actual, tangible things... which have in themselves, and not by proxy, the power of directly or indirectly ministering to human desire." A government bond, he wrote, "does not represent capital at all" but "a solemn declaration that the government will, some time or other, take by taxation from the then existing stock of the people, so much wealth" — and he documents contemporary railroad companies issuing "certificates for two, three, four, five, or even ten" dollars against every dollar of capital actually invested, with dividends paid on the inflated total (Book III, ch. IV). The parallel to Hudson's "fictitious capital" is close but not identical: George's target is financial paper that misrepresents *how much real capital exists*, while Hudson's is credit that inflates *land prices* specifically — but both isolate a category of recorded "capital income" that is not a return to productive investment, a full century apart. The parallel is drawn here from George's own argument, attributed to him rather than asserted as a finding.
 
 ## Why It Matters to the Rent Debate
 
@@ -161,14 +161,14 @@ property prices at the centre of the cycle.
    US newspapers from the early 1980s (documented by etymologist Barry Popik); SIC
    Division H is titled "Finance, Insurance, and Real Estate"; under NAICS the
    grouping split into sectors 52 and 53, still reported jointly by BEA. — used for
-   the origin story (A-claims; corroborated across multiple independent references
-   this session; direct fetches blocked).
+   the origin story (A-claims; corroborated across multiple independent references at
+   last review, 2026-07-18; the primary documents are not directly accessible online).
 2. Michael Hudson, *The Bubble and Beyond: Fictitious Capital, Debt Deflation and
    the Global Crisis*, ISLET, 2012.
    [Author's overview](https://michael-hudson.com/2012/08/overview-the-bubble-and-beyond/)
    — used for the balance-sheet-wealth / rentier-overhead thesis (D-claims,
-   attributed; paraphrased — direct fetch blocked, wording corroborated via
-   multiple independent renderings). See also Hudson, "F is for FIRE Sector"
+   attributed; paraphrased — full text not accessible at last review (2026-07-18),
+   wording corroborated via multiple independent renderings). See also Hudson, "F is for FIRE Sector"
    (2013; folded into *J Is for Junk Economics*, 2017).
    [Entry](https://michael-hudson.com/2013/09/f-is-for-fire-sector/)
 3. Michael Hudson, "Finance Capitalism versus Industrial Capitalism: The Rentier
@@ -199,7 +199,7 @@ property prices at the centre of the cycle.
    for the portfolio-income measurements and the policy-origins account (B-claims).
 8. John H. Cochrane, "Finance: Function Matters, Not Size," *Journal of Economic
    Perspectives* 27(2), 2013, pp. 29–50 — used as the strongest citable counter-view
-   (E-claim; full paper read and paged this session).
+   (E-claim; read in full, 2026-07-18).
    [wiki summary](/wiki/cochrane-finance-function-matters/) ·
    [Author PDF](https://johnhcochrane.com/s/Cochrane_jep_function_size_final.pdf) ·
    [Open access (AEA)](https://www.aeaweb.org/articles?id=10.1257/jep.27.2.29)

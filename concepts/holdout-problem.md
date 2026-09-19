@@ -53,13 +53,13 @@ The problem also connects to [land speculation](/wiki/land-speculation/): an own
 
 ## Sources
 
-1. Florenz Plassmann & T. Nicolaus Tideman, "Providing Incentives for Efficient Land Assembly." Working-paper version: "Efficient Urban Renewal Without Takings: Two Solutions to the Land Assembly Problem" (this version March 12, 2007). SSRN abstract: [papers.ssrn.com/abstract_id=1015820](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1015820); open-access full text (UCSB course copy): [econ.ucsb.edu/~tedb/…/LandAssemblyTideman.pdf](https://econ.ucsb.edu/~tedb/Courses/UCSBpf/readings/LandAssemblyTideman.pdf). Verified verbatim this session — used for the definition of the holdout problem, the analysis of sequential-bargaining inflation incentives, eminent domain ("takings") as benchmark, the *Kelo* context, the two mechanisms (Clarke mechanism and self-assessment mechanism), the authors' rationale for the "Clarke" (vs. "Vickrey-Clarke-Groves") label, the costs of each mechanism, and the statement that reliable estimates of holdout frequency and cost are unavailable.
+1. Florenz Plassmann & T. Nicolaus Tideman, "Providing Incentives for Efficient Land Assembly." Working-paper version: "Efficient Urban Renewal Without Takings: Two Solutions to the Land Assembly Problem" (this version March 12, 2007). SSRN abstract: [papers.ssrn.com/abstract_id=1015820](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1015820); open-access full text (UCSB course copy): [econ.ucsb.edu/~tedb/…/LandAssemblyTideman.pdf](https://econ.ucsb.edu/~tedb/Courses/UCSBpf/readings/LandAssemblyTideman.pdf). Verified verbatim (2026-07-10) — used for the definition of the holdout problem, the analysis of sequential-bargaining inflation incentives, eminent domain ("takings") as benchmark, the *Kelo* context, the two mechanisms (Clarke mechanism and self-assessment mechanism), the authors' rationale for the "Clarke" (vs. "Vickrey-Clarke-Groves") label, the costs of each mechanism, and the statement that reliable estimates of holdout frequency and cost are unavailable.
 2. Eric Posner & Glen Weyl (2018), *Radical Markets: Uprooting Capitalism and Democracy for a Just Society*, Princeton University Press. [Publisher](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets) — used for the Harberger tax / COST mechanism and its connection to the holdout problem.
 3. Henry George (1879), *Progress and Poverty* — [wiki summary](/wiki/progress-and-poverty/) — used for the Georgist argument that land requires different institutional treatment from capital.
 4. Leah Brooks & Byron Lutz (2016), "From Today's City to Tomorrow's City: An
    Empirical Investigation of Urban Land Assembly," *American Economic Journal:
    Economic Policy* 8(3), 69–105, DOI 10.1257/pol.20130399 — verified verbatim
-   this session (published PDF) — used for the 15–40% to-be-assembled-land price
+   (2026-07-10, published PDF) — used for the 15–40% to-be-assembled-land price
    premium in Los Angeles County, the empirical quantitative estimate of
    assembly frictions including holdouts that Tideman and Plassmann (2007) note
    is otherwise unavailable. [AEA](https://www.aeaweb.org/articles?id=10.1257%2Fpol.20130399)
@@ -68,7 +68,7 @@ The problem also connects to [land speculation](/wiki/land-speculation/): an own
    DOI 10.1080/13504851.2018.1488047. Open-access working version:
    [Chapman University Digital Commons](https://digitalcommons.chapman.edu/esi_pubs/) ·
    [Mercatus Center](https://www.mercatus.org/research/working-papers/land-assembly-without-eminent-domain).
-   Verified verbatim this session (abstract and body) — cited as the nearest
+   Verified verbatim (2026-07-10, abstract and body) — cited as the nearest
    related-but-distinct evidence that a *tax trigger* (their "rejected offer
    reassessment" mechanism, not a continuous LVT carrying cost) can reduce
    holdout magnitude and raise assembly success rates. The abstract states ROR

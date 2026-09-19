@@ -57,7 +57,7 @@ designed emissions charge. This does not undercut the Pigouvian case generally
 sources); it identifies a specific domain — diffuse, unmeterable pollution —
 where the price-correction model needs a land-market answer instead. See
 [research/gaffney-nonpoint-pollution](/wiki/gaffney-nonpoint-pollution/) for
-the full argument. (C-claim; Gaffney's own applied argument, attributed.)
+the full argument. (Gaffney's own applied argument, attributed.)
 
 ## Institutional Capture: Why Coase Displaced Pigou
 
@@ -85,9 +85,9 @@ initial entitlement assignment is not the distributionally neutral
 technicality Coase's theorem treats it as, since contingent-valuation
 researchers Mitchell and Carson routinely discarded WTA responses exceeding
 WTP by more than 5% as "methodological artifacts."[10] This is Gaffney's own
-attributed institutional history (a D-claim resting on personal recollection
-and named but not independently re-verified episodes), not a peer-reviewed
-finding, and it is a distinct argument from the essay's account of RFF's
+attributed institutional history — resting on personal recollection and on
+named episodes that have not been independently corroborated — not a
+peer-reviewed finding, and it is a distinct argument from the essay's account of RFF's
 handling of Gaffney's own forestry and military-spending research — that
 biographical material is not carried on this wiki.
 
