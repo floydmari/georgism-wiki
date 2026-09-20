@@ -18,6 +18,7 @@ Overridable via env:
   GHOST_URL      (default "https://progress-org.ghost.io")
 """
 import os
+import re
 import shutil
 import subprocess
 
@@ -100,17 +101,29 @@ def _op_item_field(vault, item, field):
     return None
 
 
+_GHOST_KEY_RE = re.compile(r"^[0-9a-f]{24}:[0-9a-f]{64}$")
+
+
+def _valid_ghost_key(val):
+    """Ghost Admin API keys are '<24 hex id>:<64 hex secret>'. Anything else (a note field,
+    a rotated-key comment, a truncated paste) must be skipped, not used — a malformed value
+    makes every sync fail with a fromhex error (seen 2026-09-19/20)."""
+    return bool(val) and bool(_GHOST_KEY_RE.match(val.strip()))
+
+
 def ghost_admin_key():
-    """Return the Ghost Admin key '<id>:<hex>' or None. Tries env, then 1Password via SDK."""
-    if os.environ.get("GHOST_ADMIN_KEY"):
-        return os.environ["GHOST_ADMIN_KEY"]
+    """Return the Ghost Admin key '<id>:<hex>' or None. Tries env, then 1Password via SDK.
+    Every candidate is shape-validated; a malformed env value falls through to 1Password."""
+    env = os.environ.get("GHOST_ADMIN_KEY", "")
+    if _valid_ghost_key(env):
+        return env.strip()
     # Try Hugh's vault (tifwkmlnnjv4plfbnbny6pyylq) first, then others
     all_vaults = ["tifwkmlnnjv4plfbnbny6pyylq"] + OP_VAULTS
     for vault in all_vaults:
         for field in ("api_key", "credential", "password", "api key", "notesPlain"):
             val = _op_item_field(vault, OP_GHOST_ITEM, field)
-            if val and ":" in val:
-                return val
+            if _valid_ghost_key(val):
+                return val.strip()
     return None
 
 
