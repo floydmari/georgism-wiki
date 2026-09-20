@@ -119,11 +119,16 @@ def ghost_admin_key():
         return env.strip()
     # Try Hugh's vault (tifwkmlnnjv4plfbnbny6pyylq) first, then others
     all_vaults = ["tifwkmlnnjv4plfbnbny6pyylq"] + OP_VAULTS
-    for vault in all_vaults:
-        for field in ("api_key", "credential", "password", "api key", "notesPlain"):
-            val = _op_item_field(vault, OP_GHOST_ITEM, field)
-            if _valid_ghost_key(val):
-                return val.strip()
+    # `op` lookups fail intermittently (observed 2026-09-20: the same field returned
+    # None on two runs and the key on the third), so make three passes with a pause.
+    import time
+    for attempt in range(3):
+        for vault in all_vaults:
+            for field in ("credential", "api_key", "password", "api key", "notesPlain"):
+                val = _op_item_field(vault, OP_GHOST_ITEM, field)
+                if _valid_ghost_key(val):
+                    return val.strip()
+        time.sleep(2 * (attempt + 1))
     return None
 
 
