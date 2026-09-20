@@ -1,9 +1,9 @@
 ---
 category: places
 excerpt: Johannesburg taxed land value alone from around 1918-1919, one of the world's
-  longest-running site-value-rating systems, cited by Fred Harrison as evidence against
-  the claim that isolating land value is impossible — until South Africa's 2004 Municipal
-  Property Rates Act shifted the country to a.
+  longest-running site-value-rating systems and a standing answer to the claim that land
+  value cannot be isolated — until South Africa's 2004 Municipal Property Rates Act moved
+  to a land-plus-buildings base.
 last_reviewed: 2026-07-12
 stub: false
 tags:
@@ -19,7 +19,7 @@ title: Johannesburg Site Value Rating
 
 Johannesburg adopted **site value rating** — taxing land value only, exempting the value of buildings — around 1918-1919, becoming the first Transvaal municipality to abandon the conventional property tax as it sought to reinvent itself from a declining mining town into a diversified financial center.[1][2] By 1979, site-value or two-rate taxation had spread to essentially all major towns in the Transvaal province; a comparison summarized by economist John M. Polimeni found that the cities taxing site value alone had **doubled their capital investment and site value** relative to the last two Transvaal holdouts still using the conventional land-plus-buildings tax as of the mid-1980s.[2]
 
-Fred Harrison's *The Power in the Land* (1983) uses Johannesburg alongside Denmark and [Pittsburgh](/wiki/pittsburgh/) as case studies rebutting economist Richard Lipsey's claim that "isolating economic rent is impossible" — citing the city's cheap office rents (£3.85 per square foot, among the lowest of any major world city at the time Harrison wrote) and the ongoing valuation-updating work of City Valuer John McCulloch as evidence that a jurisdiction can run [site-value](/wiki/site-value/) assessment as routine municipal administration for decades.[1]
+The durability of the arrangement is what the case is usually cited for against the objection that [land value cannot be assessed](/wiki/land-cannot-be-assessed/) separately: Riël Franzsen's Lincoln Institute survey records [site value](/wiki/site-value/) still serving as the rating base in Johannesburg and roughly a third of South African municipalities into the early 2000s, some eight decades after adoption.[5] The Georgist author and campaigner Fred Harrison's *The Power in the Land* (1983) had earlier used Johannesburg alongside Denmark and [Pittsburgh](/wiki/pittsburgh/) to rebut economist Richard Lipsey's claim that "isolating economic rent is impossible," citing the city's cheap office rents (£3.85 per square foot, among the lowest of any major world city at the time Harrison wrote) and the ongoing valuation-updating work of City Valuer John McCulloch.[1]
 
 ## Gaffney's Growth-Comparison Argument
 

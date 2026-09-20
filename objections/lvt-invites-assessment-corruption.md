@@ -18,7 +18,7 @@ The worry is not hypothetical. Property-tax assessment corruption is a documente
 
 ## The Response
 
-[Lars Doucet](/wiki/doucet-does-georgism-work/), addressing this objection directly in *Does Georgism Work?* (the essay series later expanded into [*Land is a Big Deal*](/wiki/land-is-a-big-deal/), Ch. 26), grants the premise rather than dismissing it: "I grant that motivated people could plausibly pull this off to various degrees."[3] His response reframes the question from whether corruption is possible to whether it is worse than under the alternatives already in use: "The right question is not 'can the rich game this system?' but rather, 'can they game it less than the existing one?'"[3]
+The Georgist writer [Lars Doucet](/wiki/doucet-does-georgism-work/), addressing this objection directly in *Does Georgism Work?* (the essay series later expanded into [*Land is a Big Deal*](/wiki/land-is-a-big-deal/), Ch. 26), grants the premise rather than dismissing it: "I grant that motivated people could plausibly pull this off to various degrees."[3] His response reframes the question from whether corruption is possible to whether it is worse than under the alternatives already in use: "The right question is not 'can the rich game this system?' but rather, 'can they game it less than the existing one?'"[3]
 
 Doucet's substantive argument has three parts:
 

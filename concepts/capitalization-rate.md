@@ -11,11 +11,13 @@ last_reviewed: 2026-07-12
 
 The **capitalization rate** ("cap rate") is the ratio of a property's annual net income to its purchase price (cap rate = net operating income ÷ price), a standard real-estate finance metric used to compare or value income-producing assets.[1] Because a cap rate links a **stock** value (selling price) to a **flow** value (annual rent or income), it is the conversion factor needed whenever a land selling-value estimate must be turned into an annual land-rent estimate, or vice versa — the arithmetic underlying [tax capitalization](/wiki/tax-capitalization/) more generally, where price = rent ÷ (discount rate + tax rate).
 
-The conversion matters directly for the Georgist [LVT revenue](/wiki/lvt-not-enough-revenue/) debate. **Lars Doucet**'s *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* (Ch. 14–15) surveys roughly a dozen methods estimating total US land **selling** value at $19–65 trillion (2020), then applies cap rates of **5–8%** to convert those stock estimates into annual land-**rent** estimates of roughly $1.2–3.5 trillion — the figures then compared against federal, state, and local budgets. Doucet's own presentation flags this conversion as a source of real uncertainty: the choice of cap rate within the 5–8% range alone moves the implied annual-revenue estimate by a wide margin, on top of the underlying dispersion in selling-value estimates.
+The conversion matters directly for the Georgist [LVT revenue](/wiki/lvt-not-enough-revenue/) debate.
 
 ## Why It Matters for the Georgist Case
 
 Because 100% land value taxation is defined as taxing the **annual rental value** of land rather than its **selling price**, any revenue claim built from selling-value data (the more commonly available kind, since transacted sale prices are far more observable than rental streams) implicitly depends on the cap rate used to convert it — and different assumed rates, or different macroeconomic conditions affecting the "true" discount rate, produce materially different revenue projections from the same underlying land-value estimate.
+
+The best-known worked example is a practitioner's. The practitioner-author **Lars Doucet**'s *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* (Ch. 14–15) surveys roughly a dozen methods estimating total US land **selling** value at $19–65 trillion (2020), then applies cap rates of **5–8%** to convert those stock estimates into annual land-**rent** estimates of roughly $1.2–3.5 trillion, which he compares against federal, state, and local budgets. His own presentation flags the conversion as a source of real uncertainty: the choice of cap rate within the 5–8% range alone moves the implied annual-revenue estimate by a wide margin, on top of the underlying dispersion in the selling-value estimates.
 
 ## Limits and Caveats
 

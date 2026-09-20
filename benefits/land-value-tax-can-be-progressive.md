@@ -42,10 +42,12 @@ jurisdiction-dependent, driven by where land value sits relative to income.
 [Plummer (2010)](/wiki/plummer-lvt-distribution/) adds parcel-level Texas
 evidence: the shift moves burden off single-family homes and is only slightly
 progressive within residential property.
-[Common Wealth Canada's modelling (2024)](/wiki/cwc-distributional-impacts-lvt/)
-draws the design lesson explicitly: a national LVT alone looks regressive by
-income decile, and a large flat refundable credit reverses it for most
-households — the England–Zhao remedy at national scale. The same authors as the
+Modelling by the advocacy organisation
+[Common Wealth Canada (2024)](/wiki/cwc-distributional-impacts-lvt/)
+draws the same design lesson at national scale: on its own projections a
+national LVT alone looks regressive by income decile, and a large flat
+refundable credit reverses that for most households — the England–Zhao remedy
+applied country-wide. The same authors as the
 flagship optimal-tax result state the two-sidedness precisely in their broader
 survey: [Schwerhoff, Edenhofer & Fleurbaey (2020)](/wiki/schwerhoff-taxation-economic-rents/),
 in the *Journal of Economic Surveys*, note that on US Survey of Consumer Finances
@@ -56,8 +58,8 @@ distortionary taxes or funding targeted transfers — is counted. Progressivity,
 this reading, lives in the recycling, not the levy alone. The sharpest scholarly
 dissent comes from the radical-political-economy left:
 [Wyatt (1994)](/wiki/wyatt-critical-view-lvt/) argues LVT would not favorably
-affect the distribution of wealth at all (though Doucet notes Wyatt's own
-strongest argument ends up affirming the Henry George Theorem). The honest
+affect the distribution of wealth at all (though the practitioner-author Lars Doucet reads
+Wyatt's own strongest argument as ending up affirming the Henry George Theorem). The honest
 summary: LVT's progressivity is real at the top of the wealth distribution
 (land ownership is concentrated) but **design-dependent** at the household
 level — and contested from the left as well as the right.

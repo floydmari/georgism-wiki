@@ -34,7 +34,7 @@ If ATCOR holds, it has a striking implication: taxing land rent directly is not 
 
 ## Fred Harrison's Version
 
-Fred Harrison's *Ricardo's Law* (2006) argues a closely related point: existing taxes on incomes and wages are "clawed back" by landowners through the rent mechanism. Workers who receive higher wages after a tax cut find that rising rents absorb the gain. This is not just a theoretical result but an empirically testable prediction about the incidence of tax cuts.
+The campaigning author Fred Harrison's *Ricardo's Law* (2006) argues a closely related point: existing taxes on incomes and wages are "clawed back" by landowners through the rent mechanism. Workers who receive higher wages after a tax cut find that rising rents absorb the gain. This is not just a theoretical result but an empirically testable prediction about the incidence of tax cuts.
 
 ## Relationship to Deadweight Loss
 
@@ -50,7 +50,7 @@ The term "ATCOR" does not appear in Gaffney's 1994 *The Corruption of Economics*
 
 ## Doucet's Modern Exposition
 
-Lars Doucet provides the most accessible modern explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a single-tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+The practitioner-author Lars Doucet provides the most accessible popular explanation of ATCOR in *Land is a Big Deal* (Ch. 15): any reduction in taxes on income and capital causes a proportionate increase in land rental values, because workers and investors bid up land prices with their after-tax gains. If ATCOR holds, a single-tax policy is self-financing — abolishing income and capital taxes shifts revenue to land rents, which 100% LVT then captures. Doucet cautions that ATCOR remains a hypothesis requiring empirical testing, not a proven theorem (*Land is a Big Deal*, Ch. 15). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 
 ## Book Findings
 
@@ -62,7 +62,7 @@ Burgess's formulation of the single-tax argument — that abolishing taxation an
 
 ## Caveats
 
-ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not every tax is fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney and Harrison argue the mechanism operates over the medium-to-long term. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
+ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not every tax is fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney argues the mechanism operates over the medium-to-long term rather than immediately. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
 
 Gaffney invokes the term again, in passing, in his later 2016 essay on European tax policy — "Many of us now hew to the Physiocratic doctrine that All Taxes Come Out of Rents (ATCOR)" — but that essay's substantive argument is about VAT and sales-tax excess burden specifically, not a further development of the theorem itself; see [Gaffney (2016), Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/) for that argument, and the 2005 paper above for ATCOR's primary statement.
 

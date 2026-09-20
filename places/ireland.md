@@ -3,15 +3,17 @@ title: "Ireland"
 category: places
 tags: [places, ireland, celtic-tiger, land-bubble, eurozone, land-value-tax]
 stub: false
-excerpt: "Ireland's Celtic Tiger boom capitalised EU funding and cheap eurozone credit into land prices; the 2007-2010 crash produced one of Europe's steepest house-price declines and thousands of unfinished 'ghost estates,' reviving debate over a site value tax."
+excerpt: "Ireland's Celtic Tiger boom drove land and house prices sharply higher; the 2007-2010 crash produced one of Europe's steepest house-price declines and thousands of unfinished 'ghost estates,' reviving debate over a site value tax."
 last_reviewed: 2026-07-11
 ---
 
 ## Overview
 
-Ireland's "Celtic Tiger" property boom of the late 1990s and 2000s saw land and house prices rise sharply, an episode Fred Harrison's *[Boom Bust](/wiki/harrison-boom-bust/)* treats as a case study in [land bubble](/wiki/land-bubble/) formation: EU funding and, after eurozone entry in 1999, historically cheap credit capitalised into land values, stamp-duty distortions periodically froze the market, and speculative capital later shifted toward Eastern Europe (Ch. 7 §2). Prices peaked around 2006-07 and then collapsed — by mid-2010 Irish house prices had fallen roughly 35% from their 2007 peak, with Dublin prices down over 50% — and the crash was a central driver of the ensuing Irish banking crisis and EU-IMF bailout. The bust left thousands of unfinished "ghost estates" scattered across the country; the state Housing Agency counted 2,846 unfinished developments nationwide in 2010, with dozens still unresolved by the mid-2020s.
+Ireland's "Celtic Tiger" property boom of the late 1990s and 2000s saw land and house prices rise sharply. Prices peaked around 2006-07 and then collapsed — by mid-2010 Irish house prices had fallen roughly 35% from their 2007 peak, with Dublin prices down over 50% — and the crash was a central driver of the ensuing Irish banking crisis and EU-IMF bailout. The bust left thousands of unfinished "ghost estates" scattered across the country; the state Housing Agency counted 2,846 unfinished developments nationwide in 2010, with dozens still unresolved by the mid-2020s.
 
 In the crisis's aftermath, Ireland's Commission on Taxation considered but declined to recommend a [site value tax](/wiki/land-value-tax/), citing valuation and communication difficulties, and the government instead introduced a market-value-based Local Property Tax in 2013; economists have continued to argue for a land/site value tax as a more efficient, cycle-dampening alternative.
+
+In the Georgist land-cycle literature the episode is read as a [land bubble](/wiki/land-bubble/): the Georgist author and campaigner Fred Harrison's *[Boom Bust](/wiki/harrison-boom-bust/)* treats it as a case study in bubble formation, attributing it to EU funding and, after eurozone entry in 1999, historically cheap credit capitalising into land values, to stamp-duty distortions that periodically froze the market, and to speculative capital later shifting toward Eastern Europe (Ch. 7 §2).[1] This is a practitioner account rather than an independently audited one.
 
 ## See Also
 

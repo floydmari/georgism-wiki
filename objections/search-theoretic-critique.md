@@ -53,10 +53,11 @@ is on the [research page](/wiki/gochenour-caplan-search-theoretic/).
 1. **The scope concession — it targets 100% capture, not LVT.** The authors
    themselves do not dispute the merit of taxing inelastic bases over elastic
    ones, and cite Tideman's point that sub-100% rates are a practical necessity;
-   no serious modern proposal is a literal 100% tax. [Lars Doucet](/wiki/lars-doucet/)'s
-   practical rebuttal runs on exactly this line: capture ~85% and the discovery
-   margin survives; add explicit **discovery incentives** — a Norway-style
-   exploration subsidy — where search matters most.[2]
+   no serious modern proposal is a literal 100% tax. The Georgist writer
+   [Lars Doucet](/wiki/lars-doucet/)'s practical rebuttal runs on exactly this
+   line: capture ~85% and, proponents argue, the discovery margin survives; add
+   explicit **discovery incentives** — a Norway-style exploration subsidy —
+   where search matters most.[2]
 2. **The composition question the paper leaves open.** The critique is strongest
    for frontier and resource land, where value genuinely awaits discovery, and
    weakest for the mapped, zoned urban lot whose value is public information
@@ -74,8 +75,8 @@ is on the [research page](/wiki/gochenour-caplan-search-theoretic/).
    production*. His thesis — "entrepreneurship and investment create human capital
    and capital goods, not natural resources" — denies that any quasi-rent is
    created by search at all, so taxing revealed land value does not tax a produced
-   good.[3] Where Doucet concedes some quasi-rent must stay private, Foldvary
-   contests the premise. (The reply's body is paywalled; the [research
+   good.[3] Where that practical rebuttal concedes some quasi-rent must stay
+   private, Foldvary contests the premise. (The reply's body is paywalled; the [research
    page](/wiki/foldvary-reply-gochenour-caplan/) builds on its verbatim abstract
    and reference list.)
 4. **The disanalogy in the political-economy extension.** The paper's regime-

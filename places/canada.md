@@ -9,7 +9,7 @@ tags:
   - citizens-dividend
   - distributional-impacts
 stub: false
-excerpt: "Canada is a country with significant economic rents from land and natural resources — estimated by Common Wealth Canada at ~$421B/year of newly collectible rent (January 2023 version), revised to ~$241B/year (~$194B from a national LVT) in the July 2023 Final version."
+excerpt: "Canada is a country with significant economic rents from land and natural resources — estimated by the advocacy organisation Common Wealth Canada at ~$421B/year of newly collectible rent (January 2023 version), revised to ~$241B/year (~$194B from a national LVT) in the July 2023 Final version."
 last_reviewed: 2026-08-10
 ---
 

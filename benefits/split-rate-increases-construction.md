@@ -52,7 +52,22 @@ agriculture and over a much longer time horizon than any other source on this pa
 
 The findings are mutually reinforcing: the Pittsburgh case shows a large effect in one aggressive adopter; the Pennsylvania panels show the effect holds *across* many municipalities, appears specifically as **more dwelling units**, and shows up in the **tax base** itself.
 
-**International corroboration — Victoria, Australia (Harrison 1983):** Harrison (1983) presents Australian state-level data providing independent corroboration from a different country and institutional setting. In Victoria (1966–78), cities taxing only site value (SVR) saw dwelling growth of **+12.9%**, while cities taxing land plus buildings (NAV) saw only **+2.8%** (Harrison 1983, Ch. 15). Building permits in 1975–78 were **39.9%** of the 1966–69 level in SVR cities versus only **9.5%** in NAV cities — a more than fourfold difference (Harrison 1983, Ch. 15). When Caulfield switched from SVR to composite rating in 1969–70, building permits dropped **66%**, compared to a 16% drop in SVR cities (Harrison 1983, Ch. 15). The Australian evidence is observational rather than experimental, but it predates and independently corroborates the Pennsylvania findings from a different continent and tax system. A methodologically independent modern study strengthens the Victorian case: Murray & Hermans (2019), using historical Victorian council data in a difference-in-differences design, find that municipalities switching from capital-improved-value rating (land plus buildings) to **site-value** rating saw a **20% increase in the value of new residential construction** — the same direction as Harrison's raw comparison, from a non-movement source with a causal design. The full case, with its self-selection caveats, is at [Victoria's SVR vs NAV rating comparison](/wiki/victoria-svr-nav-comparison/).
+**International corroboration — Victoria, Australia:** The independent test is
+Murray & Hermans (2019), who use historical Victorian council data in a
+difference-in-differences design and find that municipalities switching from
+capital-improved-value rating (land plus buildings) to **site-value** rating saw a
+**20% increase in the value of new residential construction** — a causal design, from
+a different continent and tax system than the Pennsylvania panels.[10] The older raw
+comparison behind the Australian case is a movement compilation: the campaigning
+author Fred Harrison's *The Power in the Land* (1983, Ch. 15) reports that Victorian
+cities taxing only site value (SVR) saw dwelling growth of **+12.9%** over 1966–78
+against **+2.8%** in cities taxing land plus buildings (NAV); that building permits in
+1975–78 ran at **39.9%** of their 1966–69 level in SVR cities against **9.5%** in NAV
+cities; and that when Caulfield switched from SVR to composite rating in 1969–70 its
+building permits fell **66%**, against a 16% drop in SVR cities.[8] Those figures are
+the author's own compilation rather than peer-reviewed work, and are reported here as
+his. The full case, with its self-selection caveats, is at
+[Victoria's SVR vs NAV rating comparison](/wiki/victoria-svr-nav-comparison/).
 
 **Peer-reviewed corroboration from Finland (Lyytikäinen 2009):** the strongest non-US, non-Australian test comes from a Finnish natural experiment. After 2001, municipalities could tax undeveloped residential land at a higher rate than developed land; using a fixed-effects Poisson panel of 1998–2006 data, [Lyytikäinen (2009)](/wiki/lyytikainen-finland-three-rate/), in the *Journal of Urban Economics*, finds adopting this "three-rate" system **raised single-family housing starts by roughly 10% a year** — the land-favoring-tax prediction confirmed on a fresh continent and in the same top field journal as the Pennsylvania panels. (It carries its own timing nuance: the data hint that development density may have fallen somewhat, attenuating part of the gain — the Finnish echo of the Bentick–Mills caveat below.)
 
@@ -65,7 +80,7 @@ Each supporting page carries its own external citations and honest caveats:
 - [Banzhaf & Lavery (2010)](/wiki/banzhaf-lavery-pa-sprawl/) — a tract-level difference-in-difference-in-differences panel that swaps building permits for direct Census measures of housing units and dwelling size, and decomposes the effect: the extra construction is **more units, not bigger units** (concentrated in structures of five-plus dwellings), the strongest density-specific evidence in the literature.
 - [Yang & Hawley (2022)](/wiki/yang-split-rate-tax-base/) — approaches the question from the tax base: aggregate market values rise after adoption, corroborating the construction story without relying on permit data.
 - [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — the foundational modern theoretical model of graded (split-rate) taxation: shifting a property tax off improvements and onto land raises the capital-to-land ratio, with an ambiguous-to-positive effect on land value itself. This is the mechanism the empirical studies test.
-- [Harrison, *The Power in the Land* (1983)](/wiki/harrison-power-in-the-land/) — the Australian SVR-vs-NAV dwelling-growth and building-permit data above (empirical data reported in an advocacy book, not peer-reviewed; corroborating, not load-bearing).
+- [Harrison, *The Power in the Land* (1983)](/wiki/harrison-power-in-the-land/) — the origin of the Australian SVR-vs-NAV dwelling-growth and building-permit figures above, reported as the author's own compilation in a movement book rather than as independent evidence; the academic tests of the same comparison are Edwards (1984) and Murray & Hermans (2019), below.
 - [Bourassa (1987)](/wiki/bourassa-pittsburgh-lvt-housing/) — the earliest econometric Pittsburgh study (monthly data 1978–84), finding a significant new-housing response; its own caveat is that the effect is carried by the improvement-tax cut rather than the land-tax rise.
 - [Edwards (1984)](/wiki/edwards-site-value-taxation-australia/) — across six Australian states (1951/52–1974/75), jurisdictions taxing land more and improvements less show significantly higher new-house values and a larger housing stock.
 - [Tomson (2016)](/wiki/tomson-estonia-lvt/) — Tallinn, under Estonia's land-only tax since 1993, shows higher inner-city density and more construction than comparable Riga — Baltic external validity.

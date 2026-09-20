@@ -45,8 +45,9 @@ Clark exegesis:
 - **Land is priced exactly like a capital asset.** Land's market value is the
   capitalization of its expected future rent stream at the prevailing
   interest rate — precisely the formula used to price a bond or any other
-  income-yielding asset. [Phillip Anderson's](/wiki/phillip-j-anderson/)
-  account of the banking-and-land cycle rests on exactly this: banks lend
+  income-yielding asset. The investment writer
+  [Phillip J. Anderson's](/wiki/phillip-j-anderson/) account of the
+  banking-and-land cycle builds on exactly this: on his telling, banks lend
   against land as collateral the same way they lend against any other
   capitalized asset, and the mechanics of that capitalization do not
   visibly distinguish land from machinery or securities.

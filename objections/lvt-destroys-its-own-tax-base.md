@@ -10,7 +10,7 @@ last_reviewed: 2026-07-12
 
 ## The Objection
 
-If a land value tax captures the full economic rent of a site, the site's **capital (selling) value** should fall toward zero — no buyer will pay for land whose entire annual return is taxed away. Fred Harrison's *[Power in the Land](/wiki/harrison-power-in-the-land/)* attributes this argument to the British land economist Graham Hallett, then teaching at University College Cardiff: Hallett contended that a land tax pushed toward 100% would destroy land's selling price and, with it, the market evidence needed to value and administer the tax (Ch. 16, p. 211).[1] On this view, a full-rate LVT is self-defeating: eliminate the price signal and you eliminate the assessor's yardstick along with it.
+If a land value tax captures the full economic rent of a site, the site's **capital (selling) value** should fall toward zero — no buyer will pay for land whose entire annual return is taxed away. The Georgist author and campaigner Fred Harrison's *[Power in the Land](/wiki/harrison-power-in-the-land/)* attributes this argument to the British land economist Graham Hallett, then teaching at University College Cardiff: Hallett contended that a land tax pushed toward 100% would destroy land's selling price and, with it, the market evidence needed to value and administer the tax (Ch. 16, p. 211).[1] On this view, a full-rate LVT is self-defeating: eliminate the price signal and you eliminate the assessor's yardstick along with it.
 
 ## Why People Worry About This
 

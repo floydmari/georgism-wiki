@@ -31,7 +31,7 @@ Gaffney states his simplifying premises openly: he models a tax jurisdiction as 
 
 - **Market completeness and competitive conditions** — the ATCOR page notes these "may not hold in all real-world contexts"
 - **Land rent as a pure residual surplus** — the claim requires that land rent absorbs all net losses to the economy, not just tax revenue
-- **Medium-to-long-term adjustment** — Gaffney and [Fred Harrison](/wiki/fred-harrison/) argue the mechanism operates over the medium-to-long term, not instantaneously
+- **Medium-to-long-term adjustment** — Gaffney argues the mechanism operates over the medium-to-long term, not instantaneously; the campaigning author [Fred Harrison](/wiki/fred-harrison/) makes the same argument in his popular books
 
 ## Caveats and Criticisms
 

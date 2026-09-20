@@ -31,7 +31,7 @@ Internationally, the [World Bank's *Exploring Universal Basic Income*](/wiki/wor
 
 ### Barnes: Universal Dividends from Co-Owned Wealth
 
-Peter Barnes develops the citizen's dividend concept most fully in [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014) and [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). Barnes's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). He distinguishes dividends from redistribution:
+The journalist and commons advocate Peter Barnes develops the citizen's dividend concept most fully in [*With Liberty and Dividends for All*](/wiki/with-liberty-and-dividends-for-all/) (2014) and [*Capitalism 3.0*](/wiki/capitalism-3-0/) (2006). Barnes's "simple idea" is that "all persons have a right to income from wealth we inherit or create together. That right derives from our equality of birth" (Barnes 2014, Ch. 1). He distinguishes dividends from redistribution:
 
 > "Dividends of this sort aren't redistribution; they're a way to allocate income fairly in the first place so that there's less need to redistribute later. Nor are they government transfers or private charity. Rather, they're legitimate property income." (Barnes 2014, Preface)
 

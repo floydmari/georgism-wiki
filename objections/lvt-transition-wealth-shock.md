@@ -17,7 +17,7 @@ Announcing a land value tax causes land **prices to fall immediately**, because 
 
 The transition cost is **real** but **manageable**, and distinct from the steady-state case for LVT:
 
-1. **Phase it in.** Introducing the tax gradually over years lets prices and expectations adjust smoothly, avoiding a sudden shock and giving owners time to plan. Common Wealth Canada's [price-reaction model](/wiki/cwc-lvt-price-reaction-model/) quantifies the lever directly — the depth of the land-price fall is governed mainly by the *speed* of rollout, so a slow phase-in shrinks the shock.
+1. **Phase it in.** Introducing the tax gradually over years lets prices and expectations adjust smoothly, avoiding a sudden shock and giving owners time to plan. The advocacy organisation Common Wealth Canada's [price-reaction model](/wiki/cwc-lvt-price-reaction-model/) puts the same lever at the centre of its projections: on that modelling, the depth of the land-price fall is governed mainly by the *speed* of rollout, so a slow phase-in shrinks the shock.
 2. **It's a one-time transfer, not an ongoing cost.** After capitalisation, future buyers pay lower prices and the tax instead — they are no worse off. The burden falls once, on the transition generation of owners.
 3. **Pair with cuts to other taxes.** Funding income- or sales-tax reductions with the LVT cushions owners who are also workers and consumers (the [ATCOR](/wiki/atcor/) logic).
 4. **Deferral and compensation options** exist for hardship cases (see [asset-rich/cash-poor](/wiki/lvt-hurts-asset-rich-cash-poor/)); some proposals even compensate existing owners during transition.

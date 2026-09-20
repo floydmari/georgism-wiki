@@ -59,7 +59,8 @@ cross-tradition disagreement rather than a resolved question:
    land monopoly *compounds* wage suppression at the margin of production
    (see the [law of rent](/wiki/law-of-rent/)) rather than substituting for
    an analysis of capital-labour conflict.
-2. **A different villain, not a denial of exploitation.** Fred Harrison's
+2. **A different villain, not a denial of exploitation.** The Georgist author
+   and campaigner Fred Harrison's
    *[Ricardo's Law](/wiki/harrison-ricardos-law/)* engages the Marxist
    framing head-on: "The ogre of the Marxist narrative is the capitalist. Our
    competing explanation identifies the state as the villain" — Harrison's

@@ -64,26 +64,29 @@ advocates concede full replacement is uncertain:
    formalises the gap: the measured ("kinetic") rent that flows today excludes the
    rent currently suppressed by taxation and regulation, which a rent-capturing tax
    would surface.
-2. **The modern estimates are not small.** [Doucet's twelve-method synthesis](/wiki/land-is-a-big-deal/)
-   puts US land value at $24–44T (2020), or roughly $1.2–3.5T/yr in rent at 5–8%
-   cap rates — defense-plus-Social-Security at the low end, up to ~80% of all
-   government revenue at the high end (Chs. 14–15);[3] the wiki's
-   [full evidence page](/wiki/land-rent-could-fund-government/) carries the range
-   of estimates with their assumptions. Independent national calculations point
-   the same way: [Dwyer's study of Australian land and resource rents](/wiki/dwyer-taxable-capacity-australia/)
+2. **The modern estimates are not small.** Hard national land-value totals come
+   first: the US Bureau of Economic Analysis's
+   [Larson estimate](/wiki/larson-us-land-value/) puts American land at roughly
+   $23 trillion (2009), and Albouy, Ehrlich & Shin find
+   [urban land alone worth over twice GDP](/wiki/albouy-ehrlich-shin-metro-land/) —
+   figures that presuppose a land base far larger than the "few percent of GDP"
+   the objection takes as given. Independent national calculations point the same
+   way: [Dwyer's study of Australian land and resource rents](/wiki/dwyer-taxable-capacity-australia/)
    finds them large enough to replace existing taxation, and the general-equilibrium
    estimate of [Tideman, Akobundu, Johns & Wutthicharoen](/wiki/tideman-avoidable-excess-burden/)
    puts the welfare gain from shifting broad-based taxes onto land at ~14% of net
-   domestic product — figures that presuppose a land base far larger than the "few
-   percent of GDP" the objection takes as given. Hard national land-value totals
-   reinforce the point: the US Bureau of Economic Analysis's
-   [Larson estimate](/wiki/larson-us-land-value/) puts American land at roughly
-   $23 trillion (2009), Albouy, Ehrlich & Shin find
-   [urban land alone worth over twice GDP](/wiki/albouy-ehrlich-shin-metro-land/),
-   and Prosper Australia's line-by-line
+   domestic product. Advocacy syntheses reach higher figures and are reported as
+   theirs: the Georgist writer Lars Doucet's
+   [twelve-method synthesis](/wiki/land-is-a-big-deal/) puts US land value at
+   $24–44T (2020), or roughly $1.2–3.5T/yr in rent at 5–8% cap rates —
+   defense-plus-Social-Security at the low end, up to ~80% of all government
+   revenue at the high end (Chs. 14–15);[3] and the advocacy organisation
+   Prosper Australia's line-by-line
    [Total Resource Rents of Australia](/wiki/total-resource-rents-australia/) tallies
-   land, resource and monopoly rents at 23.6% of GDP — enough, on its accounting, to
-   cover 87% of all three levels of government.
+   land, resource and monopoly rents at 23.6% of GDP — enough, on its own
+   accounting, to cover 87% of all three levels of government. The wiki's
+   [full evidence page](/wiki/land-rent-could-fund-government/) carries the range
+   of estimates with their assumptions.
 3. **[ATCOR](/wiki/atcor/) expands the base.** Because other taxes ultimately fall
    on rent, abolishing them raises land values — and the LVT base — so the static
    figure understates capacity (the thesis Gaffney

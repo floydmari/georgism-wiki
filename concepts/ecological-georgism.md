@@ -18,7 +18,7 @@ Pollution and resource extraction use commonly-owned natural assets without payi
 
 ## Significance
 
-Ecological Georgism reframes climate and environmental policy as a rent problem, and is a major theme in modern Georgist writing (e.g. [Alanna Hartzok's](/wiki/alanna-hartzok/) *The Earth Belongs to Everyone*).
+Ecological Georgism reframes climate and environmental policy as a rent problem, and is a major theme in modern Georgist writing (for example the Georgist advocate [Alanna Hartzok's](/wiki/alanna-hartzok/) *The Earth Belongs to Everyone*).
 
 ## Book Findings
 

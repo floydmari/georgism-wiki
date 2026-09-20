@@ -13,7 +13,7 @@ The **18-year land cycle** is the observation that real-estate land prices, and 
 
 ## History of the Idea
 
-The pattern was documented by economist **[Homer Hoyt](/wiki/homer-hoyt/)**, who traced Chicago land values from 1830 to 1933 and found a recurring ~18-year rhythm. **[Fred Harrison](/wiki/fred-harrison/)** revived and popularised it, using it to **forecast the early-1990s recession** (nine years ahead) and the **2008 crash** (over a decade ahead). The mechanism is Georgist: rising land values attract speculation and bank credit, which inflate prices until the burden of land costs and debt triggers collapse.
+The pattern was documented by economist **[Homer Hoyt](/wiki/homer-hoyt/)**, who traced Chicago land values from 1830 to 1933 and found a recurring ~18-year rhythm. The campaigning author and journalist **[Fred Harrison](/wiki/fred-harrison/)** revived and popularised it, publishing forecasts of the early-1990s recession (nine years ahead) and of the 2008 crash (over a decade ahead). The mechanism is Georgist: rising land values attract speculation and bank credit, which inflate prices until the burden of land costs and debt triggers collapse.
 
 ## The Cycle Phase Model
 
@@ -34,15 +34,15 @@ Harrison argues that the mid-cycle recession is frequently suppressed or deferre
 
 Harrison (2005) argues the cycle's growth phase is anchored in the historical 5% interest rate: land was priced at 15–20 years' worth of rents, consistent with adult life expectancy of 35–40 years in the era when the cycle's institutional framework formed (Ch. 5 §2, p.75–76). The Usury Law of 1714, which reduced the legal interest rate to 5%, delivered a building cycle of approximately 14 years (Ch. 6 §1, p.99). Harrison cites Bernard Weber's data on Glasgow house-property sales (1872–1907), where the average price was **13.85 years' worth of rents** — "as close as one can get to empirical corroboration" (Ch. 5 §5, p.86, Table 5.5).
 
-Anderson (2008), drawing on Harrison, argues that "the key number in the real estate cycle may well be 14, not 18" — 14 years being the doubling time of a sum at 5% compound interest, the historical long-run rate (Anderson 2008, Ch. 17, p.261). The additional ~4 years account for the recession and recovery phases.
+The investment writer Phillip J. Anderson (2008), drawing on Harrison, argues that "the key number in the real estate cycle may well be 14, not 18" — 14 years being the doubling time of a sum at 5% compound interest, the historical long-run rate (Anderson 2008, Ch. 17, p.261). The additional ~4 years account for the recession and recovery phases.
 
 ## The Winner's Curse
 
-Harrison (2005) describes the cycle's final speculative phase as a "Winner's Curse" in which "the winning bids for property are made by people who make the greatest upward errors in their assessment of what a site is worth" (Ch. 5 §4, p.82). In the US, this speculative premium has been calculated at **over 70% of the price of land during boom times** (Harrison 2005, Ch. 5 §4, p.82, citing Guntermann 1997).
+Harrison (2005) describes the cycle's final speculative phase as a "Winner's Curse" in which "the winning bids for property are made by people who make the greatest upward errors in their assessment of what a site is worth" (Ch. 5 §4, p.82). He reports a US estimate putting this speculative premium at **over 70% of the price of land during boom times** (Harrison 2005, Ch. 5 §4, p.82, citing Guntermann 1997).
 
 ## The "Scissors" Divergence
 
-Harrison (1983) identifies a structural "scissors" mechanism: over roughly two decades, returns to capital trend downward while returns to land trend upward (Ch. 6, citing Phelps Brown & Weber). The divergence occurs because land can be held idle indefinitely (it is non-perishable and refinanceable), while capital depreciates. As land rents claim a growing share of output, profits are squeezed, construction becomes unprofitable, and the system collapses under the weight of land costs and accumulated debt (Harrison 1983, Ch. 5–6).
+Harrison (1983) identifies a structural "scissors" mechanism: over roughly two decades, returns to capital trend downward while returns to land trend upward (Ch. 6, citing Phelps Brown & Weber). In his account the divergence occurs because land can be held idle indefinitely (it is non-perishable and refinanceable), while capital depreciates; as land rents claim a growing share of output, profits are squeezed, construction becomes unprofitable, and the system collapses under the weight of land costs and accumulated debt (Harrison 1983, Ch. 5–6).
 
 ## Historical Timetable
 
@@ -67,7 +67,7 @@ Harrison (2005) presents a complete timetable of primary and mid-cycle recession
 
 *2010 was a prediction, confirmed by the 2nd edition.
 
-Anderson (2008) documents US real estate peaks at: **1818, 1836, 1854, 1869, 1888, 1908, 1926**, then a WWII gap, with postwar reassertion and the 1973 peak, 1992 trough, and a predicted ~2010 trough (Anderson 2008, Introduction, pp. 4–5). Harrison (1983) independently documents US land-value peaks at 1818, 1836, 1854–56, 1872, 1892, 1907, 1925, then the postwar 1973 peak (Ch. 5, Table 5:I). The two authors' dates are closely but not perfectly aligned; both note that two world wars disrupted the cycle.
+Anderson (2008) documents US real estate peaks at: **1818, 1836, 1854, 1869, 1888, 1908, 1926**, then a WWII gap, with postwar reassertion and the 1973 peak, 1992 trough, and a predicted ~2010 trough (Anderson 2008, Introduction, pp. 4–5). Harrison (1983) lists US land-value peaks at 1818, 1836, 1854–56, 1872, 1892, 1907, 1925, then the postwar 1973 peak (Ch. 5, Table 5:I). The two authors' dates are closely but not perfectly aligned; both note that two world wars disrupted the cycle.
 
 Harrison (1983) predicted the 1992 recession in this 1983 book — nine years ahead — with the UK land/housing market peaking in 1989 (Harrison 2005, Ch. 6 §1, p.108). Harrison (2005) later forecast the 2010 downturn and warned that "the business cycle that begins in 2010 will be punctured by an asset price bubble in 2019, with an end to the cycle in 2028" (Ch. 16 §3, p.359).
 

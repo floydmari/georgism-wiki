@@ -14,23 +14,29 @@ improvements) to one based solely on the unimproved value of land under the
 Land Valuation Act, effective from 1957 — implementing the 1944 recommendation
 of a Commission of Inquiry chaired by Simon Bloomberg.[1] The Act initially
 applied mainly to rural land; a comprehensive island-wide valuation
-extending the system to urban property followed in 1974. According to
-Fred Harrison's *Power in the Land*, site values fell by as much as 50% within
-six years of the 1974 valuation, though the tax's effective coverage remained
-below half of its potential base because of concessions carved out for
-agricultural land and hotels, and Jamaica's economy went on to suffer roughly
-33% unemployment by 1980, contributing to Michael Manley's electoral defeat
-in November 1980.[2] Harrison treats Jamaica as a cautionary case: he argues
-the land-tax framework was undermined less by the tax instrument itself than
-by its administration alongside broader state controls on the land market
-that limited a genuine free market in land, and he explicitly distinguishes
-Jamaica's approach from market-based [land value tax](/wiki/land-value-tax/)
-systems.[2]
+extending the system to urban property followed in 1974.[2]
 
 Jamaica's unimproved-value property tax has continued in modified form since,
 with subsequent island-wide revaluations in 1983, 1992, and 2002; a
 Georgia State University policy study of the system's rate structure and
 reform options was published in 2005.[3]
+
+## In the Georgist Literature
+
+The Georgist author and campaigner Fred Harrison's *[Power in the
+Land](/wiki/harrison-power-in-the-land/)* (1983) reports that site values fell
+by as much as 50% within six years of the 1974 valuation, while the tax's
+effective coverage remained below half of its potential base because of
+concessions carved out for agricultural land and hotels; he sets this
+alongside the roughly 33% unemployment Jamaica's economy reached by 1980 and
+Michael Manley's electoral defeat in November 1980.[2] Harrison treats Jamaica
+as a cautionary case, arguing the land-tax framework was undermined less by
+the tax instrument itself than by its administration alongside broader state
+controls on the land market that limited a genuine free market in land, and he
+explicitly distinguishes Jamaica's approach from market-based [land value
+tax](/wiki/land-value-tax/) systems.[2] These are a practitioner author's
+figures and reading; no independent academic corroboration of the 50%
+site-value fall has been located.
 
 ## 2026 Revaluation
 

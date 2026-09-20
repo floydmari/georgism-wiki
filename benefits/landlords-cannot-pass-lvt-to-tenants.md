@@ -51,7 +51,10 @@ converge:
 |--------|---------------------|
 | [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/), *J. Public Economics* — the founding "new view" paper | In the general-equilibrium framework, land is the factor that **cannot relocate between jurisdictions at all**, so the land-value portion of any property tax is borne entirely by landowners, capitalized into a lower land price. |
 | [Zodrow (2001)](/wiki/zodrow-three-views/), *National Tax Journal* — the standard survey of all three incidence views | The traditional, new/capital-tax, and benefit views disagree about who bears the tax on **structures**; none of the three assigns the **land** component to tenants. The claim survives whichever theory wins. |
-| [Doucet (2021)](/wiki/doucet-does-georgism-work/), ACX Part 2 — the popular synthesis | Works through the incidence argument and the empirical pass-through literature for a general audience, concluding the land portion is not passed to tenants. A synthesis, not primary evidence — the studies it surveys are being ingested individually (see backlog). |
+
+The practitioner-author Lars Doucet's *Does Georgism Work?* Part 2 (2021)
+[walks a general audience through this literature](/wiki/doucet-does-georgism-work/);
+it is a route into the primary studies above rather than independent evidence.
 
 **Capitalization — owners' asset prices absorb tax differentials.** If landlords
 could pass taxes forward, tax differences would *not* show up as discounts in what
@@ -107,9 +110,7 @@ alone, and the [Danish Economic Councils' 2018 study](/wiki/dors-land-taxes-hous
 of the 2007 municipal-reform rate changes finds **full capitalization of future
 land taxes into house prices** — the burden lands on the owner at the time of the
 change, leaving no channel to tenants. This is the closest direct test of the
-outcome's actual claim, and the study
-[Doucet's synthesis](/wiki/doucet-does-georgism-work/) treats as culminating
-evidence — now carried on the wiki first-hand.
+outcome's actual claim.
 
 ## Strength of Evidence — and the Honest Caveats
 
