@@ -47,10 +47,11 @@ vacancy"), with roughly 40,000 dwellings returned to use;
 [Gyourko & Krimmel (2021, NBER/*JUE*)](/wiki/gyourko-krimmel-zoning-tax/) — in
 high-demand US metros, land is held below its market-implied intensity of use at gaps
 of "about $400,000" per quarter-acre in San Francisco and $150,000–200,000 in Los
-Angeles, New York and Seattle; and
-[Prosper Australia (2024)](/wiki/prosper-speculative-vacancies/) — Melbourne water-meter
-data: "In 2023, 27,408 dwellings (1.5% of all homes) were left totally empty over the
-year," with 5.2% empty or barely used.
+Angeles, New York and Seattle; and the UK government's
+[Letwin Review (2018)](/wiki/letwin-build-out-review/) — on England's largest
+permissioned sites in high-demand areas, a median build-out period of 15.5 years and
+just 3.2% of London mega-sites completed per year, a pace the review attributed to
+builders metering sales to the market absorption rate rather than to speculation.
 
 *Honest limits: how much of this is speculative withholding rather than friction,
 second homes, or zoning-forced underuse is genuinely contested — the phenomenon is
