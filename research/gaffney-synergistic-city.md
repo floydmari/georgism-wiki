@@ -39,7 +39,7 @@ credit-market bias toward wealthy "patient money" and mistimed government
 taxation, not the market mechanism itself, are what let land speculation and
 sprawl persist.
 
-Fred Harrison's *Ricardo's Law* cites Gaffney's paper as documenting how "synergistic city" benefits are captured by landowners, presenting it as a Georgist alternative to the mainstream agglomeration-economics framing of why infrastructure investment raises nearby land values — for example his discussion of the Jubilee Line extension's uncaptured land-value uplift.[2]
+The practitioner-author Fred Harrison's *Ricardo's Law* cites Gaffney's paper as documenting how "synergistic city" benefits are captured by landowners, presenting it as a Georgist alternative to the mainstream agglomeration-economics framing of why infrastructure investment raises nearby land values — for example his discussion of the Jubilee Line extension's uncaptured land-value uplift.[2]
 
 ## See Also
 

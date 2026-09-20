@@ -134,8 +134,8 @@ more cities, arguing the NYC pattern was not unique:
 
 Gaffney treats **Pittsburgh** as a deliberate counter-case. Pittsburgh's "two-rate"
 (split-rate) property tax plan is, he notes, the most-cited example in the tax
-literature of a land-tax-induced building effect — citing the same Cord, Oates &
-Schwab, and Tideman & Plassmann studies this wiki's [split-rate taxation increases
+literature of a land-tax-induced building effect — citing the same Oates & Schwab
+and Tideman & Plassmann studies this wiki's [split-rate taxation increases
 construction](/wiki/split-rate-increases-construction/) page relies on — yet
 Pittsburgh's **population fell** sharply after 1980, "steeper than most cities" in his
 dataset, and "no one publishing on Pittsburgh's Plan, pro or con," had addressed the

@@ -111,8 +111,10 @@ the way of growth" — a "sympathetic figure in popular drama" whose market beha
 Gaffney is careful to note, "has much the same economic consequences as that of Type
 B-1" regardless of motive.[2] The Type B description — vacant or underused land held
 for appreciation — is the same behaviour the wiki's [speculative vacancy](/wiki/speculative-vacancy/)
-concept documents empirically (Prosper Australia's water-consumption method,
-Harrison's South Wales idle-site data); Gaffney's Type A is the less-documented
+concept covers, where the advocacy organisation Prosper Australia's
+water-consumption count and the practitioner-author Fred Harrison's South Wales
+idle-site survey are reported as their authors' own measures rather than as
+independent confirmation; Gaffney's Type A is the less-documented
 mirror image, premature overbuilding rather than withholding, and is not otherwise
 carried on the wiki.
 

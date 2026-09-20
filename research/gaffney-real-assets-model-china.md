@@ -41,11 +41,10 @@ to a **testable, dated, out-of-sample prediction**: that China's property-driven
 economy would enter contraction in 2015.[1] Before this wave the wiki cited the
 paper only once, as an external "See Also" bullet on [concepts/18-year-land-cycle](/wiki/18-year-land-cycle/);
 this page mines it in full for its distinct mechanism, which is separate from — and
-complementary to — the empirical periodicity work of Fred Harrison and Phil
-Anderson that page otherwise relies on. Where Harrison and Anderson document *when*
-land cycles recur (roughly 18-year historical periodicity), Gaffney's model
-addresses *why* a land-price cycle produces a banking crisis, through a specific
-capital-theory mechanism.
+complementary to — the land-cycle periodicity literature that page otherwise relies
+on. Where that literature is concerned with *when* land cycles recur, Gaffney's
+model addresses *why* a land-price cycle produces a banking crisis, through a
+specific capital-theory mechanism.
 
 ## The Four-Element Model
 
@@ -198,8 +197,9 @@ one downstream symptom.
 ## Bears On
 
 - **Concept:** [18-Year Land Cycle](/wiki/18-year-land-cycle/) — supplies the
-  mechanistic "why" (capital-turnover and bank-leverage channels) alongside
-  Harrison's and Anderson's empirical "when" (historical periodicity); the
+  mechanistic "why" (capital-turnover and bank-leverage channels) alongside the
+  historical periodicity claimed by the practitioner cycle writers Fred Harrison
+  and Phillip J. Anderson; the
   page's existing citation is upgraded from a bare bibliographic bullet to a
   substantively mined source.
 - **Outcome:** [Resource-rent capture works](/wiki/resource-rent-capture-works/) —

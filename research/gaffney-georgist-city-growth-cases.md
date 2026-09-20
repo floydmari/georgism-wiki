@@ -280,7 +280,7 @@ apartheid-era restrictions.[4]
 
 **Relation to existing wiki coverage.** This wiki already has dedicated pages on
 [Johannesburg site-value rating](/wiki/johannesburg-site-value-rating/) and
-[South Africa](/wiki/south-africa/), both built on different sources (chiefly Fred Harrison's
+[South Africa](/wiki/south-africa/), both built on different sources (chiefly the practitioner-author Fred Harrison's
 *The Power in the Land* and the 2009 PDG/Isandla municipal-rates report), which document
 Johannesburg's site-value rating under the Transvaal Local Authority Rates Ordinance without
 independently confirming a 4% rate or crediting the tax with the city's overall growth

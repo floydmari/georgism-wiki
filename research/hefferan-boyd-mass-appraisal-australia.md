@@ -17,7 +17,7 @@ bears_on_objections: [land-cannot-be-assessed]
 
 *Property Taxation and Mass Appraisal Valuations in Australia — Adapting to a New Environment* (2010) by **Professor Mike Hefferan** (University of the Sunshine Coast) and **Adjunct Professor Terry Boyd** (Central Queensland University / University of the Sunshine Coast) reviews how Australia and New Zealand run value-based land taxation and where their mass-appraisal systems strain — especially on complex, specialist properties. Australia is an unusually clean case for the wiki because its state land taxes and local rates are assessed on **land value** (largely unimproved value), so the paper speaks directly to land assessment rather than whole-property assessment.[1]
 
-The paper is the source of the objection-rate benchmark Doucet relays in *[Does Georgism Work?](/wiki/doucet-does-georgism-work/)* — the empirical signal that taxpayers, in practice, accept these assessments as reliable.
+The paper is the source of the objection-rate benchmark the Georgist writer Lars Doucet relays in *[Does Georgism Work?](/wiki/doucet-does-georgism-work/)* — the empirical signal that taxpayers, in practice, accept these assessments as reliable.
 
 ## What It Establishes
 

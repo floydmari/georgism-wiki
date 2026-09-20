@@ -40,9 +40,9 @@ land values rising from a few thousand dollars in aggregate to more than $5 bill
 book carries weight less because of any theoretical apparatus — it advances none — and more
 because it was, at the time, the first comprehensive, long-run, data-driven study of land
 values in a major American city, and it is the founding empirical source behind the
-Georgist "18-year land cycle" thesis popularised decades later by [Fred
-Harrison](/wiki/fred-harrison/) and others.[4] Hoyt himself was not a Georgist and does not
-argue for land value taxation anywhere in the book; he went on to a career as principal
+Georgist "18-year land cycle" thesis popularised decades later by the
+practitioner-author [Fred Harrison](/wiki/fred-harrison/) and others.[4] Hoyt himself
+was not a Georgist and does not argue for land value taxation anywhere in the book; he went on to a career as principal
 housing economist for the Federal Housing Administration (1934–1940) and later originated
 the "sector model" of urban land use.[5] The wiki's [18-Year Land Cycle](/wiki/18-year-land-cycle/)
 concept page and the [Progress and the 18.6-Year Cycle](/wiki/progress-18-6-year-cycle/)
@@ -209,9 +209,10 @@ the scan:
 ## Relation to the Georgist Case
 
 Hoyt's book is a **historical-empirical source for the premise that land markets exhibit a
-recurring speculative boom-bust cycle** — the phenomenon that the Georgist land-cycle
-tradition (Harrison, [Fred Foldvary](/wiki/fred-foldvary/), Phillip Anderson, [Akhil
-Patel](/wiki/akhil-patel/)) built on and that the wiki's [18-Year Land
+recurring speculative boom-bust cycle** — the phenomenon the Georgist land-cycle
+tradition, from the economist [Fred Foldvary](/wiki/fred-foldvary/) to practitioner
+cycle writers such as Fred Harrison, Phillip Anderson and [Akhil
+Patel](/wiki/akhil-patel/), built on, and that the wiki's [18-Year Land
 Cycle](/wiki/18-year-land-cycle/) concept describes.[4] It documents that land values in
 one major American city rose and fell in a repeating rhythm over a century, consistent with
 [Henry George](/wiki/henry-george/)'s claim in *Progress and Poverty* that speculative
@@ -244,8 +245,8 @@ outcome claim.**
 - **No LVT variation to test.** Chicago in this period did not have a land value tax
   regime distinct from ordinary property taxation, so the book cannot and does not
   speak to how a taxed-land counterfactual would have altered the cycle's amplitude or
-  timing — a limitation the wiki should not paper over when citing Hoyt for the LVT
-  outcome page.
+  timing — a limitation that travels with any citation of Hoyt for the
+  LVT-dampens-speculation claim.
 - **Hoyt explicitly denies a fixed period — the "18-year" cycle is a later reading, not his
   claim (verified against the primary text).** This is the single most important correction
   from a direct read of the book. Hoyt documents five recurring but *irregular* booms and is

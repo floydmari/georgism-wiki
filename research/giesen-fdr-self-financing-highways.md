@@ -70,8 +70,8 @@ logic applied — and then abandoned — at the highest level of US government: 
 president explicitly reasoning that infrastructure-driven land value uplift could fund its
 own construction, defeated not by ideological objection but by a technical finding that the
 specific toll-and-condemnation mechanism proposed wasn't financially self-supporting on the
-corridors chosen. It sits alongside [Fred Harrison](/wiki/fred-harrison/)'s *Wheels of
-Fortune* self-financing-infrastructure thesis (cited in the wiki's companion [Loehr "Odd
+corridors chosen. It sits alongside the practitioner-author [Fred Harrison](/wiki/fred-harrison/)'s
+*Wheels of Fortune* self-financing-infrastructure thesis (cited in the wiki's companion [Loehr "Odd
 Couple"](/wiki/loehr-george-gesell-odd-couple/) page) as a case where the theory's soundness
 did not translate into a workable 1930s-era implementation.
 

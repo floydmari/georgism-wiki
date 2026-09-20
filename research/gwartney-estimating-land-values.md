@@ -32,8 +32,8 @@ essay** on how site value is actually assessed. Its authority is biographical:
 **Ted Gwartney** spent a career as a working assessor — including with British
 Columbia's province-wide assessment authority, which values on the order of a
 million-plus parcels annually, and as assessor in Greenwich, Connecticut — and
-served as president of the Council of Georgist Organizations.[1] When
-[Lars Doucet](/wiki/lars-doucet/) wrote the assessment installment of his ACX
+served as president of the Council of Georgist Organizations.[1] When the
+Georgist writer [Lars Doucet](/wiki/lars-doucet/) wrote the assessment installment of his ACX
 series, Gwartney was the expert he consulted; this page carries the primary so
 the wiki cites the assessor, not the synthesis.[2]
 
