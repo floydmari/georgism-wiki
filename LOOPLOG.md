@@ -4929,3 +4929,51 @@ now carries four differently-designed UK reforms of which only two are land-valu
 blog essays were rejected under §4c on the day the rule was written, which is as it should be.
 
 Ledger: 0 pending, 375 consumed. Inventory 1006 pages, 0 orphans.
+
+## 2026-09-20 — the notability pass, and what it found
+
+The opus limit reset at 16:00 UTC and the class-B (attribution and notability) pass ran to
+completion: fifteen worklists, 275 pages that mention a Tier-2 name in body text, at most
+eight fixers at a time so the limit held. The classification numbers are the honest summary
+of what Floyd's Patel example generalised to. Across the worklists roughly 60% of Tier-2
+mentions were *subject* or *origin* uses — a page about Harrison's book, a coinage attributed
+to Patel, a Prosper Australia report described as theirs — and were left alone with a status
+phrase added on first mention ("the practitioner-author", "the investment writer", "the
+advocacy organisation"). About 25% sat in labelled proponent sections. The remaining ~15%,
+some 130 sentences, were the problem: Tier-2 names used as evidence, or standing in a lead as
+an authority.
+
+The pattern in those 130 is worth recording because it is structural, not accidental. The
+events pages certified panics as "18-year cycle peaks" by citing Anderson and Patel; the
+Response sections of objection pages opened on Doucet's synthesis before reaching Rognlie,
+Bonnet or the BEA; `land-value-tax.md` anchored its revenue section on Doucet's twelve-method
+compilation with Larson's BEA estimate available on another page; `tax-capitalization.md`
+listed Doucet in a table beside Mieszkowski and Zodrow; `reits.md` opened on Harrison's REIT
+figures. In each case the wiki had a Tier-1 source for the point and cited the popular
+restatement instead, because that was the discovery path. The fix ladder was substitution
+where a Tier-1 source was already on the page (Murray & Hermans for Victoria, Darby for
+Domesday, IMF *Staff Papers* for 1914 British Columbia, Letwin for build-out rates, Franzsen
+for Johannesburg, Hudson's own essay for the flow-of-funds walk-through), demotion to an
+attributed proponent claim relocated out of the lead where none was, and in a handful of cases
+— Jamaica's 50% site-value fall, the Yugoslavia and Israel nationalisation cases, Doucet's
+13-study capitalization tally — an honest statement that the only source is a practitioner's
+and no academic corroboration has been located.
+
+Three factual errors surfaced as by-products, which is the best argument for the pass:
+`georgism.md` credited a *Now the Synthesis* chapter to Harrison that is Francis M. Smith's;
+a figure caption on the Manhattan land page said $1.74 trillion where the verified quote says
+$1.47 trillion; and the PolicyEngine page said its own results "directly support the wiki's
+core claim", which a modelling exercise cannot do.
+
+A second sweep caught 56 more pages of wiki self-narration in reader prose — "the wiki should
+not present…", "this wiki has not seen this answered", "A verification note:" — added to the
+scanner and rewritten as plain statements of claim status. Final rescan: 0 hits on all 972
+reader-facing pages; lint 0 errors; inventory 1006 pages, 0 orphans.
+
+Publishing is unblocked: the Ghost key resolved correctly this morning, yesterday's 541
+pages synced and `_framework` is a draft. Today's changes sync at the end of this entry.
+
+Queue: four scanner items, all rejected under the day-old §4c — two commercial/personal blogs
+re-presenting TPA figures the wiki already has from source, an anonymous trade newsletter,
+and a Springer volume not published until December whose queue title was wrong (it is a
+Global South comparative volume, not East Africa). Ledger: 0 pending, 379 consumed.

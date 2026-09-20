@@ -77,7 +77,7 @@ strategically withhold from trade — is structurally close to the Georgist land
 respect and sharply different in another. The similarity: in both cases, a fixed or
 slow-to-replicate input (land; a training-data repository) grants a durable advantage
 independent of ongoing effort. The difference, which Gans's own framework makes precise
-and which this wiki should not blur: **land is truly non-producible and rival in use**,
+and which should not be blurred: **land is truly non-producible and rival in use**,
 while training data is **non-rival and, in principle, producible or licensable** — Gans's
 whole policy-relevant finding is that the market-power outcome depends on an *institutional
 choice* (does a data-trading market exist?) rather than on a physical scarcity constant.

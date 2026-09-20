@@ -111,7 +111,7 @@ antitrust's traditional scope:
 
 *The Profit Paradox* matters to the Georgist case in essentially the same way as the underlying
 [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/) paper it
-popularizes, and readers of this wiki should treat the two as a matched pair rather than as
+popularizes, and the two are best read as a matched pair rather than as
 independent evidence: the book is Eeckhout's own accessible restatement and extension of that
 research, not a separate empirical study. Its significance is that it documents, using mainstream
 industrial-organization economics with no Georgist framing at all, a large and growing wedge

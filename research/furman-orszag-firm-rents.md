@@ -142,8 +142,8 @@ rent-seeking by incumbents" who lobby to erect barriers to entry.
 
 ## Relation to the Georgist Case
 
-The paper's Georgist relevance operates on two distinct levels, and the wiki should keep them
-separate rather than conflating them.
+The paper's Georgist relevance operates on two distinct levels that are best kept
+separate rather than conflated.
 
 First, **the housing/land-rent finding is directly on point for the Georgist case**, and unusually
 so for a paper not otherwise engaging with Georgist ideas at all. Furman and Orszag's own

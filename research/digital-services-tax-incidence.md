@@ -109,7 +109,7 @@ This case belongs on the **contested frontier** of the [rent gradient](/wiki/geo
 it is the sharpest single illustration of why the frontier is contested. The DST is a
 *deliberate attempt* to capture [platform and data rents](/wiki/data-rents/), and Cui and
 Hashimzade give it a rigorous rent-tax rationale. Yet its real-world incidence is almost
-the opposite of the land case the wiki treats as clean.
+the opposite of the land case, which is clean by comparison.
 
 - **Why land rent can't be shifted, but DST revenue can.** An [LVT](/wiki/land-value-tax/)
   falls on the value of a fixed-supply site; the owner cannot pass it forward because the
@@ -154,7 +154,7 @@ the opposite of the land case the wiki treats as clean.
 - **The critics' file is real.** The Congressional Research Service and others characterise
   DSTs as poorly-designed cascading taxes or as protectionist measures aimed at U.S. firms;
   the U.S. threatened retaliatory tariffs over France's DST. Cui and Hashimzade contest
-  these readings, but the wiki should carry the DST as **contested**, not settled.[2][4]
+  these readings, but the DST is best treated as **contested**, not settled.[2][4]
 - **Source provenance.** The Amazon and Google pass-through announcements are primary
   corporate communications; the incidence magnitudes come from a 2025 working paper
   (Muddasani & Langenmayr) that had been presented at CESifo, IIPF, EEA and OECD seminars

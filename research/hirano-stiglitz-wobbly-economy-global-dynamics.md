@@ -79,8 +79,8 @@ paper](/wiki/hirano-stiglitz-wobbly-dynamics-land-speculation/) uses to explain 
 boom-bust cycles is not something land uniquely causes — it is a general property of
 capital-accumulation economies with belief-dependent investment, which land then
 *specifically instantiates* once it is added to the model as a competing, non-produced
-store of value. This matters for how strongly the wiki should read the land paper's
-results: the boom-bust instability is not manufactured by assuming land is special: it is
+store of value. This matters for how strongly the land paper's results should be read:
+the boom-bust instability is not manufactured by assuming land is special: it is
 a general macro-dynamic possibility that land, once introduced, channels and amplifies
 (per the companion paper's own finding that land "increases the scope for fluctuations,"
 covered on [Growth and Fluctuations in Economies with Land

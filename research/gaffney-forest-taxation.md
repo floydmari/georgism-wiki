@@ -221,7 +221,7 @@ of Taxing Forests" is the more balanced of the two, structured explicitly as
 pro/con survey before Gaffney states his own ranking; "Greater Social Benefits"
 is an industry-association speech with sharper, more polemical language ("fraud,"
 "Watergate of the Forest Service") aimed at a receptive timber-industry
-audience — the wiki should not present its rhetorical framing as neutral
+audience — its rhetorical framing is not neutral
 description. The **tax-incidence and design reasoning** (yield-tax bias against
 short cycles, site-value-tax neutrality toward stocking decisions) is standard
 public-finance analysis and can be read as C-claims (theoretical); the specific

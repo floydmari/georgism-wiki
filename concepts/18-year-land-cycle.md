@@ -155,7 +155,7 @@ chronology back through the 1720 Mississippi Bubble, the 1630s Amsterdam
 "Tulip Bubble" housing-price data, and a 1454 Florence peace-dividend
 boom/bust under the Medici bank, and gives the same San Francisco-1906
 recovery case study documented at greater length on [research/gaffney-new-life-in-old-cities](/wiki/gaffney-new-life-in-old-cities/).
-This wiki treats the essay's "Great Crash of 2008" framing as documented from
+The essay's "Great Crash of 2008" framing is documented from
 17 August 2008 — 14 months before the October 2009 *AJES* special issue — a
 dated, checkable priority fact, not a claim that the underlying land-cycle
 theory itself originates here (see the Hoyt/Harrison/Anderson sections above

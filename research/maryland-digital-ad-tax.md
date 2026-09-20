@@ -102,7 +102,7 @@ Romer's "tax big" logic, but the statute contains no equivalent of Romer's
 explicit **subscription escape hatch** or the incentive to split up rather than
 grow — it is a size-graduated *revenue* tax on a broader ad-services base, closer
 in mechanics to a [DST](/wiki/digital-services-taxes/) than to Romer's own
-narrower, more surgical design.[3][6] The wiki should not describe Maryland's tax
+narrower, more surgical design.[3][6] Maryland's tax should not be described
 as "Romer's tax enacted" — it is a state legislature's adaptation of Romer's
 big-is-bad logic, filtered through ordinary state tax-drafting, and the two
 instruments' incidence and legal exposure need not be identical.
@@ -126,7 +126,7 @@ court. The court's opinion **did not reach the constitutional or Internet Tax
 Freedom Act arguments at all**.[9][10] The tax survives in force today because of
 that procedural ruling, not because any court has yet upheld it on the merits — a
 distinction several of the professional tax-law summaries covered here are
-careful to preserve, and one the wiki should preserve too. A separate merits case
+careful to preserve, and one worth preserving here too. A separate merits case
 is still pending in the **Maryland Tax Court**.[11][12]
 
 **Federal track: a First Amendment win against the state, on a narrow but real
@@ -207,7 +207,7 @@ bottleneck power rather than service quality.[19] This dovetails with the
 and Facebook dominated an **£11.55 billion (2017) UK digital-advertising
 market**, and its call for a dedicated market study into whether the
 digital-advertising value chain is actually competitive — the same
-"durable-position" evidence the wiki treats as the empirical precondition for
+"durable-position" evidence that is treated elsewhere as the empirical precondition for
 calling a return a rent rather than a transient lead.[20]
 
 **The case that a meaningful share is not rent.** Targeted advertising funds real

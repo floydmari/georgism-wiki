@@ -159,7 +159,7 @@ underlying cause is efficiency, weakened antitrust enforcement, network effects,
 capture, or some mix — but the paper is frequently invoked in the market-power literature (including
 by Eeckhout in later work such as *The Profit Paradox*, not separately reviewed here) as evidence
 for a **market-power-centered** reading in which much of the rise is rent rather than efficiency.
-This wiki should not adjudicate that dispute as settled: the honest position is that De Loecker,
+That dispute is not settled: the honest position is that De Loecker,
 Eeckhout & Unger establish the *pattern* (rising, concentrated, tail-driven markups) fairly
 robustly relative to their own methodology, while the *interpretation* of that pattern — rent
 extraction versus efficient scale — remains genuinely contested in the literature, with Autor et
@@ -169,7 +169,7 @@ contesting whether the underlying markup measurement itself is reliable at all.
 ## Nuances and Limits
 
 The paper's headline numbers are more contested within economics than most work of comparable
-prominence, and the wiki should represent that contestation honestly rather than treat "markups
+prominence; that contestation should be represented honestly rather than treating "markups
 have roughly tripled since 1980" as settled fact.
 
 - **The Traina critique (measurement of variable costs).** James Traina, "Is Aggregate Market

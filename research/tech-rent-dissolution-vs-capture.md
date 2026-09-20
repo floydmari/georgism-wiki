@@ -272,8 +272,8 @@ where that is demonstrably true (Google's exclusive default contracts, Apple's s
 restrictions, WhatsApp's historical non-interoperability), courts and regulators on both sides of
 the Atlantic have now, independently and without Georgist framing, reached for dissolution
 instruments — forced data-sharing, anti-exclusivity rules, mandated interoperability — ahead of
-either full corporate breakup or a rent tax. That convergence is itself evidence the wiki should
-weigh: two different legal systems, applying ordinary competition law with no rent-capture
+either full corporate breakup or a rent tax. That convergence is itself evidence worth
+weighing: two different legal systems, applying ordinary competition law with no rent-capture
 framing, arrived at "make the moat contestable" as the default answer once liability was found.
 
 But the record two years in is honestly thin on the outcome that would matter most — **whether

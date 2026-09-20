@@ -38,7 +38,7 @@ it as a "sin tax" on a socially harmful business model.[3]
 
 ## The Proposal
 
-Romer's design rests on a single incidence insight the wiki treats as central: **revenue
+Romer's design rests on a single incidence insight treated here as central: **revenue
 has a location; profit does not.** A corporate income tax is defined as revenue minus cost,
 and because a multinational's costs are incurred in many jurisdictions, clever accounting
 can move reported profit to low-tax havens — which is why, Romer argues, corporate-tax
@@ -134,7 +134,7 @@ is a useful test of what a frontier rent instrument is really trying to do.
 - **Not, in the author's own framing, primarily a rent tax.** Romer motivates the proposal
   as a defence of democratic discourse against concentrated informational power, and
   Acemoglu & Johnson as a public-health "sin tax." Read as *rent capture* it is a secondary
-  use of the instrument, and the wiki should present it as a frontier proposal that
+  use of the instrument — best treated as a frontier proposal that
   overlaps the rent question rather than a canonical rent-capture design.
 - **Contested harm premise.** The case leans on empirical claims about advertising's effect
   on democracy and mental health (Acemoglu & Johnson cite the U.S. Surgeon General's 2023

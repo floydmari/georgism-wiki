@@ -151,7 +151,7 @@ His reasoning is that reserving a large tract of land as a royal demesne would t
 perhaps a quarter of the country's cultivable land under inferior state management,
 shrinking national output. This is an argument *against* funding the state from Crown
 lands — the opposite of a proposal to capture private land rent. Reporting it as Georgist
-support would be a misreading, and the wiki should not make it.
+support would be a misreading.
 
 ## Continuity with the Wealth of Nations
 

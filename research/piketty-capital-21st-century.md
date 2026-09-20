@@ -91,7 +91,7 @@ partially redirects**.
 
 Piketty's book supplies the widely credentialed **raw material and framing question** — is
 capital's share of income and the stock of accumulated wealth rising, and if so why — that the
-land-decomposition literature this wiki treats as central evidence answers with a specific,
+land-decomposition literature treated elsewhere as central evidence answers with a specific,
 narrower claim: that the rise Piketty documents is concentrated in **housing**, and within
 housing substantially in the **land** component rather than in reproducible structures or
 productive equipment.

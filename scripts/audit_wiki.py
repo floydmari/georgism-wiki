@@ -32,7 +32,7 @@ BODY_PATTERNS = {
         r"\b(?:this wiki's|the wiki's) (?:egress|drafting session|discovery(?: notes| report| summary)?|existing verified summary)\b",
         r"\bverified (?:verbatim )?this (?:session|pass)\b|\bthis (?:session|pass)['\u2019]s\b",
         r"^#+ .*\b(?:honesty notes?|Verification note|Editor'?s note|Note on sourcing|Sourcing note)\b",
-        r"\bthis wiki (?:has not|has yet|should|does not|cannot|will|is not|was not|treats|has assembled|has verified|has confirmed)\b|\bthe wiki should\b",
+        r"\b[Tt]his wiki (?:has not|has yet|should|does not|cannot|will|is not|was not|treats|has assembled|has verified|has confirmed)\b|\bthe wiki should\b",
         r"\bA verification note\b|\bVerification note:",
         r"\*\*(?:Verification note|Editor'?s note|Note on sourcing|Sourcing note|Access note)",
         r"\b(?:pdftoppm|Tesseract|pdftotext|pypdf|Semantic Scholar API|Crossref API|OpenAlex)\b",
