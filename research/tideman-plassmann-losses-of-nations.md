@@ -31,10 +31,10 @@ In *The Losses of Nations: Deadweight Politics versus Public Rent Dividends*
 (Fred Harrison ed., Othila Press, 1998), **[Nicolaus Tideman](/wiki/nicolaus-tideman/)
 and [Florenz Plassmann](/wiki/florenz-plassmann/)** calculate the
 [deadweight losses](/wiki/deadweight-loss/) of conventional taxation across the G7
-and the output gains available from shifting revenue onto land rent — the figure
-[Harrison's *Boom Bust*](/wiki/harrison-boom-bust/) carries as roughly **$7
-trillion of foregone output** (Ch. 14 §2), and an ancestor of Tideman's later
-per-worker gains estimates and the
+and the output gains available from shifting revenue onto land rent — the figure the
+practitioner-author Fred Harrison's *[Boom Bust](/wiki/harrison-boom-bust/)* carries as
+roughly **$7 trillion of foregone output** (Ch. 14 §2; see the caution below), and an
+ancestor of Tideman's later per-worker gains estimates and the
 [2021 super-stimulus modeling](/wiki/goodhart-stimulus/).[1]
 
 The primary chapter has not been directly obtained. The chapter's exact identity is

@@ -143,8 +143,8 @@ reader weighing this piece should read them alongside it rather than in isolatio
   the Watling–Doucet exchange summarised on
   [this wiki's companion research page](/wiki/watling-doucet-lvt-failure-exchange/) — Neidle
   reads the same 1909 failure as "be careful," Watling reads it as "it can't be done," and
-  Doucet replies that contemporaneous successes (Vancouver, Houston, 1920s New York, Qingdao)
-  undercut the generalisation.
+  the practitioner-author Lars Doucet replies that contemporaneous successes (Vancouver,
+  Houston, 1920s New York, Qingdao) undercut the generalisation.
 
 ## Limits of This Source
 

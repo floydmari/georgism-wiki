@@ -238,8 +238,8 @@ market value; Wales adds a different data point — a serious, publicly funded e
 review concluding that the *prerequisite work* (building a valuation system capable of
 isolating land value at national scale, then testing candidate methods against it) has
 not yet been done, not that it was tried and failed. That is consistent with, and
-arguably softer than, [Dan Neidle's UK-wide modelling](/wiki/tpa-what-would-lvt-do/),
-where the 55% land-share calibration is at least a *working, if unverifiable*, assumption
+arguably softer than, the tax-policy analyst
+[Dan Neidle's UK-wide modelling](/wiki/tpa-what-would-lvt-do/), where the 55% land-share calibration is at least a *working, if unverifiable*, assumption
 rather than an untested proposal.
 
 For advocates, the honest reading is double-edged: the systematic review's finding
