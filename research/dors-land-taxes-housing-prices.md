@@ -45,10 +45,7 @@ full capitalization of the present value of future taxes"** into house prices.[1
 Full capitalization is the incidence result the classical theory predicts for a
 tax on a fixed base: the burden falls entirely on the **owner at the time of the
 change**, whose asset repriced; later buyers are compensated through the lower
-price, and there is no channel left through which tenants pay. This is the study
-[Lars Doucet's ACX series](/wiki/doucet-does-georgism-work/) treats as the
-culminating evidence on the pass-through question — the wiki now carries it
-directly rather than through the synthesis.
+price, and there is no channel left through which tenants pay.
 
 <figure class="wiki-figure">
   <img src="https://www.progress.org/content/images/2026/07/dors-fig1.png" alt="Line chart of average prices for Danish single-family homes, 2000 to 2008, in thousands of DKK, split into areas where the land tax would later fall versus rise. The two lines track each other until the 2004 reform announcement (first vertical line), then diverge: by the 2007 implementation (second vertical line) homes in lower-land-tax areas sell for roughly 100,000 DKK more, about 1,600 versus 1,490 thousand DKK by 2008." loading="lazy" style="width:100%;height:auto;"/>
@@ -95,7 +92,7 @@ directly rather than through the synthesis.
 
 - [Nielsson, Wroblewski & Yding (2024)](/wiki/nielsson-wroblewski-yding-danish-lvt/) — a second Danish quasi-experiment estimating a precise ZERO capitalization effect on the same national setting; the two results are in direct, unreconciled tension
 - [Tax Capitalization](/wiki/tax-capitalization/)
-- [Doucet, Does Georgism Work?](/wiki/doucet-does-georgism-work/) — the synthesis this page de-references
+- [Doucet, Does Georgism Work?](/wiki/doucet-does-georgism-work/) — the practitioner-author's popular synthesis, which treats this study as its culminating evidence on pass-through; the wiki cites the paper itself rather than the synthesis
 
 ## Sources
 
