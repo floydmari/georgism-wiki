@@ -23,7 +23,7 @@ A conventional property tax falls on improved value, meaning an owner who builds
 
 ## Assessment
 
-Assessing site value requires separating the land component from the value of improvements — the practical challenge addressed on the wiki's [assessment objection](/wiki/land-cannot-be-assessed/) page. Methods include comparable vacant-lot sales, teardown sales, residual estimation (sale price minus depreciated structure cost), and modern [mass appraisal techniques](/wiki/mass-appraisal-methods/) such as hedonic regression and cooperative-game separation. As [Lars Doucet](/wiki/doucet-does-georgism-work/) argues, land value is **spatially smooth** — neighbouring parcels have similar land values — which can make site value assessment more tractable than whole-property assessment, not less.
+Assessing site value requires separating the land component from the value of improvements — the practical challenge addressed on the wiki's [assessment objection](/wiki/land-cannot-be-assessed/) page. Methods include comparable vacant-lot sales, teardown sales, residual estimation (sale price minus depreciated structure cost), and modern [mass appraisal techniques](/wiki/mass-appraisal-methods/) such as hedonic regression and cooperative-game separation. The game developer and writer [Lars Doucet](/wiki/doucet-does-georgism-work/) argues that land value is **spatially smooth** — neighbouring parcels have similar land values — and that this can make site value assessment more tractable than whole-property assessment, not less.[4]
 
 ## Jurisdictional Usage
 

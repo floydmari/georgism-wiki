@@ -26,6 +26,7 @@ Weyl, which paired it (Ch. 2) with the Georgist-inspired
 [Harberger tax](/wiki/harberger-tax/) as a second application of the same
 mechanism-design philosophy — using price signals to reveal true
 preferences — to a different domain, voting rather than property.[2]
+Ethereum co-founder
 [Vitalik Buterin's endorsement of *Radical Markets*](/wiki/buterin-on-radical-markets/)
 helped carry both proposals into cryptocurrency and mechanism-design
 circles, where QV variants (quadratic funding for public goods) have since

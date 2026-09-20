@@ -34,12 +34,14 @@ almost no tax — and improving the site *raises* the bill.
 - **Water-consumption method.** [Prosper Australia](/wiki/prosper-australia/)
   pioneered empirical measurement, using water-meter data to identify Melbourne
   dwellings that appear genuinely unoccupied — finding vacancy well above official
-  listing-based figures. (Advocacy research with a transparent method; report the
-  numbers as theirs.) Their documentary
+  listing-based figures. The organisation is an advocacy body and the figures are
+  its own, produced by a method it publishes in full. Their documentary
   [*Real Estate 4 Ransom*](/wiki/real-estate-4-ransom/) popularized the findings.
 - **The historical record.** The pattern is old:
-  [Harrison's *Power in the Land*](/wiki/harrison-power-in-the-land/) documents 64%
-  of 56 vacant South Wales sites held idle **fifteen years or more** (Ch. 5), and
+  the British author and Georgist campaigner Fred Harrison reports, in
+  [*The Power in the Land*](/wiki/harrison-power-in-the-land/), 64% of 56 vacant
+  South Wales sites held idle **fifteen years or more** (Ch. 5) — figures
+  published in an advocacy book rather than a peer-reviewed study — and
   [Hoyt's Chicago study](/wiki/hoyt-chicago-land-values/) traced speculative
   land-holding through a century of cycles.
 

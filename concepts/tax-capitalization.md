@@ -49,15 +49,16 @@ The wiki carries the capitalization literature directly:
   Denmark's 2007 municipal-boundary reform — a semi-random shuffling of land-tax
   rates across ~250 areas — and found land taxes **fully capitalized** into prices,
   the strongest quasi-experimental confirmation to date.
-- **Surveyed breadth:** [Doucet's *Land is a Big Deal*](/wiki/land-is-a-big-deal/)
-  (Ch. 20–21) surveys 13+ capitalization studies, 12 supporting substantial-to-full
-  capitalization. The Ch. 21 landlords-incidence cluster —
+- **Surveyed breadth:** the game developer and writer Lars Doucet's popular survey
+  [*Land is a Big Deal*](/wiki/land-is-a-big-deal/) (Ch. 20–21) counts 13+
+  capitalization studies, 12 of them supporting substantial-to-full capitalization.
+  The evidential weight sits with the underlying studies, which the wiki carries
+  directly — the Ch. 21 landlords-incidence cluster is
   [Borge & Rattsø](/wiki/borge-rattso-norway-capitalization/),
   [Capozza, Green & Hendershott](/wiki/capozza-green-hendershott-residential-land/),
   [Hilber](/wiki/hilber-capitalization-synthesis/),
   [Buettner](/wiki/buettner-german-land-tax-capitalization/), and
-  [Choi & Sjoquist](/wiki/choi-sjoquist-atlanta-lvt-cge/) — is now fully
-  de-referenced to primary text (see `sources/doucet-acx-dereferencing.md`).
+  [Choi & Sjoquist](/wiki/choi-sjoquist-atlanta-lvt-cge/), each with its own page.
 
 ## Limits and Caveats
 
@@ -101,7 +102,7 @@ The wiki carries the capitalization literature directly:
    [wiki summary](/wiki/dors-land-taxes-housing-prices/)
 4. Dye & England (2010) — used for the LVT application and design implications
    (A-claims). [wiki summary](/wiki/dye-england-assessing-lvt/)
-5. Lars Doucet, *Land is a Big Deal* (2022), Chs. 20–21 — used for the survey count
-   (13+ studies, 12 supportive; A-claim; Heavy scan; Ch. 21's landlords-incidence
-   cluster of five studies is fully de-referenced to primary text as of 2026-07-18).
+5. Lars Doucet, *Land is a Big Deal* (2022), Chs. 20–21 — used as the origin of the
+   survey count (13+ studies, 12 supportive; A-claim; Heavy scan); the five studies in
+   Ch. 21's landlords-incidence cluster are cited here from their own primary sources.
    [Book page](/wiki/land-is-a-big-deal/)

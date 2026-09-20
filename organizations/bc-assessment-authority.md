@@ -4,7 +4,7 @@ category: organizations
 tags: [organizations, canada, british-columbia, assessment, property-tax, crown-corporation]
 url: https://www.bcassessment.ca/
 stub: true
-excerpt: "British Columbia's provincial Crown corporation, created in 1974, that independently values every property in the province for property-tax purposes — cited by Common Wealth Canada as ready-made administrative infrastructure for a modern land value tax."
+excerpt: "British Columbia's provincial Crown corporation, created in 1974, that independently values every property in the province for property-tax purposes — which the advocacy think tank Common Wealth Canada cites as ready-made infrastructure for a modern land value tax."
 last_reviewed: 2026-07-18
 ---
 
@@ -29,17 +29,18 @@ accountable to the responsible provincial minister.[2]
 ## Relevance to Land Value Taxation
 
 Because BC Assessment already separates land value from improvement value on its
-assessment rolls, [Common Wealth Canada](/wiki/common-wealth-canada/) has argued
-that its existence gives British Columbia a head start most jurisdictions lack
-for reviving a comprehensive [land value tax](/wiki/land-value-tax/) — the
+assessment rolls, the advocacy think tank [Common Wealth
+Canada](/wiki/common-wealth-canada/) has argued that its existence gives British
+Columbia a head start most jurisdictions lack for reviving a comprehensive
+[land value tax](/wiki/land-value-tax/) — the
 administrative infrastructure a modern LVT would need already exists and is
 maintained annually.[3] This case is developed on the
 [British Columbia](/wiki/british-columbia/) place page, in the context of
 Vancouver's historical land-only municipal tax era (1910–1984). Georgist assessor
 [Ted Gwartney](/wiki/ted-gwartney/) worked within the BC assessment system
 (described in earlier sources as the "British Columbia Assessment Authority")
-during part of his career, experience he later drew on in his widely cited
-practitioner's essay on land valuation.[4]
+during part of his career, experience he later drew on in his practitioner's
+essay on land valuation.[4]
 
 ## Nuances and Limits
 

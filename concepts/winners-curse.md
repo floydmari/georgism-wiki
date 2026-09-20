@@ -15,7 +15,7 @@ The wiki carries the winner's curse in two distinct settings on the [rent gradie
 
 ## In the Land Cycle
 
-Fred Harrison's [18-year land cycle](/wiki/18-year-land-cycle/) model names its final ~2-year phase before the crash the "Winner's Curse": land prices go "vertical" as buyers compete in what Harrison calls a bidding frenzy where "the winning bids for property are made by people who make the greatest upward errors in their assessment of what a site is worth" (Harrison, *Boom Bust*, Ch. 5 §4, p.82).[2] Harrison cites Guntermann's (1997) estimate that this speculative premium reached **over 70% of the price of land** during US boom periods.[2] This is the land market read as a real-world common-value auction: buyers bid against an uncertain future resale value, and the market-clearing price in the boom's final phase is set by the most optimistic bidders.
+The British author and Georgist campaigner Fred Harrison's [18-year land cycle](/wiki/18-year-land-cycle/) model names its final ~2-year phase before the crash the "Winner's Curse": land prices go "vertical" as buyers compete in what Harrison calls a bidding frenzy where "the winning bids for property are made by people who make the greatest upward errors in their assessment of what a site is worth" (Harrison, *Boom Bust*, Ch. 5 §4, p.82).[2] Harrison cites Guntermann's (1997) estimate that this speculative premium reached **over 70% of the price of land** during US boom periods.[2] This is the land market read as a real-world common-value auction: buyers bid against an uncertain future resale value, and the market-clearing price in the boom's final phase is set by the most optimistic bidders.
 
 ## In Spectrum Auctions
 

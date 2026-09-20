@@ -63,9 +63,10 @@ Scottish Land Commission (April 2017), and reported the March 2017 SNP Conferenc
 motion committing the Scottish government to explore "all fiscal options including ways of
 taxing the value of undeveloped land."[2] The report also references the [New Economics
 Foundation](/wiki/new-economics-foundation/)'s "Rethinking the Economics of Land & Housing"
-(February 2017, by Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane), [Dave
-Wetzel](/wiki/dave-wetzel/)'s "Underground Treasure" report on LVT for rail funding (commissioned
-by the RMT union, September 2016), and David Triggs — President of the [International Union for
+(February 2017, by Josh Ryan-Collins, Toby Lloyd, and Laurie Macfarlane), the transport
+official and Georgist campaigner [Dave Wetzel](/wiki/dave-wetzel/)'s "Underground Treasure"
+report on LVT for rail funding (commissioned by the RMT union, September 2016), and David
+Triggs — President of the [International Union for
 Land Value Taxation](/wiki/international-union-lvt/) — attending the UN's Habitat III conference
 in Quito (October 2016), whose resulting New Urban Agenda endorsed land-value-capture measures
 in its Section 137.[2]

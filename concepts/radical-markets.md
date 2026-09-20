@@ -54,7 +54,7 @@ Radical Markets is significant for the Georgist case for several reasons:
 
 3. **Extension beyond land.** By generalizing the rent-capture principle to intellectual property, data, and other scarce assets, Radical Markets aligns with the [ecological Georgism](/wiki/ecological-georgism/) and [resource rents](/wiki/resource-rents/) extensions of the tradition, suggesting that the Georgist framework is not limited to land but applies to any asset whose value derives from scarcity rather than creation.[1]
 
-4. **Technology audience.** Buterin's endorsement brought Georgist-adjacent ideas to cryptocurrency, mechanism-design, and effective-altruist communities — audiences that subsequently contributed to the modern Georgism revival associated with [Lars Doucet](/wiki/lars-doucet/)'s work.[2]
+4. **Technology audience.** Buterin's endorsement brought Georgist-adjacent ideas to cryptocurrency, mechanism-design, and effective-altruist communities — audiences that subsequently contributed to the modern Georgism revival associated with the game developer and writer [Lars Doucet](/wiki/lars-doucet/).[2]
 
 ## Limits and Caveats
 
