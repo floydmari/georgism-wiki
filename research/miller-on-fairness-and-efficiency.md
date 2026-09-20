@@ -8,19 +8,16 @@ year: 2000
 tier: Supplementary
 source_url: https://archive.org/details/onfairnesseffici0000mill
 stub: false
-excerpt: "George Miller's 2000 Policy Press book arguing that the privatisation of publicly-created income — chiefly land rent — over the past millennium underlies class gradients in health and life expectancy; cited by Fred Harrison and now located and bibliographically verified."
+excerpt: "George Miller's 2000 Policy Press book arguing that the privatisation of publicly-created income — chiefly land rent — over the past millennium underlies class gradients in health and life expectancy; cited by Fred Harrison, whose books are the source of the attribution."
 last_reviewed: 2026-07-12
 supports_outcomes: []
 ---
 
 ## Summary
 
-This page records a source that an earlier pass could not locate but that has
-since been **bibliographically confirmed**. The wiki's book-discovery process
-surfaced a work referred to as **"Miller (2000), *On Fairness and
-Efficiency*"** inside two of Fred Harrison's books — *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (reported
-at Ch. 8.1) and *[Boom Bust](/wiki/harrison-boom-bust/)* (reported at Ch. 5
-§2) — used there, per the discovery locator, to support (1) an
+**"Miller (2000), *On Fairness and Efficiency*"** is cited in two books by the
+practitioner-author Fred Harrison — *[Ricardo's Law](/wiki/harrison-ricardos-law/)* (Ch. 8.1)
+and *[Boom Bust](/wiki/harrison-boom-bust/)* (Ch. 5 §2) — in support of (1) an
 epidemiological-style argument connecting the privatization of land rent to
 class-based gradients in health and life expectancy, and (2) part of the
 actuarial reasoning behind why the growth phase of the
@@ -28,7 +25,7 @@ actuarial reasoning behind why the growth phase of the
 time for a sum to double at a historical ~5% long-run interest rate, matched
 against adult working-life expectancy.
 
-The work is now located and independently verified: it is **George Miller
+The work is **George Miller
 (catalogued as G. J. / George James Miller), *On Fairness and Efficiency: The
 Privatisation of the Public Income Over the Past Millennium*, Bristol: The
 Policy Press, 2000 (ix+470 pp.)** — a full-length scholarly book, held by the
@@ -36,11 +33,10 @@ Internet Archive and reviewed on publication in the *Journal of Social Policy*
 (2001) and the *Journal of Public Health Medicine* (2001), and later by
 [Mason Gaffney](/wiki/mason-gaffney/) (2011). Its author is the same George J.
 Miller whose related study *[Dying for Justice](/wiki/miller-dying-for-justice/)*
-Harrison also cites. What remains open is not the book's existence but the
-**claim-level** accuracy of Harrison's characterization of it: the
-bibliographic record has been confirmed, but Miller's text itself has not been read directly, so
-the specific health/class-gradient argument attributed to it below should be
-checked against the book itself before being cited as established.
+Harrison also cites. What remains open is not the book's existence but the accuracy
+of Harrison's characterisation of it: the bibliographic record is confirmed, but the
+health/class-gradient argument described below rests on Harrison's account of Miller
+rather than on Miller's own text.
 
 The two claims this citation is said to support are not equally well
 grounded elsewhere on the wiki. The **5%-interest / ~14-year mechanism** is
@@ -50,10 +46,9 @@ historical ~5% long-run interest rate and adult working-life expectancy,
 citing period sources (Weber's Glasgow data, Clay's 17th–18th century land
 price data) that the wiki's [Boom Bust book page](/wiki/harrison-boom-bust/)
 already records — that mechanism does not depend on Miller for its validity.
-The **health/class-gradient claim**, by contrast, rests on the unverified
-Miller attribution alone and is not otherwise corroborated anywhere on this
-wiki; it should not be cited as established until the primary source is
-found.
+The **health/class-gradient claim**, by contrast, rests on the Miller
+attribution alone, is not otherwise corroborated anywhere on this wiki, and
+remains unverified.
 
 ## Why This Matters
 
@@ -61,15 +56,14 @@ Miller's book advances an epidemiological-style link between the privatization
 of land rent and class gradients in health and life expectancy — a line of
 evidence the rest of the wiki's research collection barely touches: little
 else here connects [economic rent](/wiki/economic-rent/) capture to population
-health. That makes the source worth carrying. It must still be read directly
-before its specific findings are asserted as fact, since the account above
-rests on Harrison's secondary characterization rather than on Miller's text.
+health. That makes the source worth carrying, though the account above rests on Harrison's
+secondary characterisation rather than on Miller's text.
 
 ## See Also
 
 - [18-Year Land Cycle](/wiki/18-year-land-cycle/) — the independently-verified claim the same Harrison chapter also supports
-- [Boom Bust (book)](/wiki/harrison-boom-bust/) — the discovery source for the cycle-timing half of the citation
-- [Ricardo's Law (book)](/wiki/harrison-ricardos-law/) — the discovery source for the health/class-gradient half of the citation
+- [Boom Bust (book)](/wiki/harrison-boom-bust/) — cites Miller for the cycle-timing half of the claim
+- [Ricardo's Law (book)](/wiki/harrison-ricardos-law/) — cites Miller for the health/class-gradient half of the claim
 - [Land Speculation Causes Cycles](/wiki/land-speculation-causes-cycles/)
 
 ## Sources
@@ -81,11 +75,10 @@ rests on Harrison's secondary characterization rather than on Miller's text.
    page for full sourcing). [Book page](/wiki/harrison-boom-bust/) ·
    [Publisher](https://shepheardwalwyn.com/product/boom-bust/)
 2. Fred Harrison, *Ricardo's Law: House Prices and the Great Tax Clawback
-   Scam* (Shepheard-Walwyn, 2006), Ch. 8 — used as the reported discovery
-   locator for the health/class-gradient claim; the wiki's own summary of
-   this book's Ch. 8 does not independently record a "Miller" citation, so the
-   exact page on which Harrison cites Miller should still be confirmed against
-   the book's own bibliography. [Book page](/wiki/harrison-ricardos-law/)
+   Scam* (Shepheard-Walwyn, 2006), Ch. 8 — used only as the origin of the
+   attribution of the health/class-gradient claim to Miller, not as support for
+   that claim; the exact page on which Harrison cites Miller is not confirmed
+   against the book's own bibliography. [Book page](/wiki/harrison-ricardos-law/)
 3. George Miller, *On Fairness and Efficiency: The Privatisation of the Public
    Income Over the Past Millennium*, Bristol: The Policy Press, 2000
    (ix+470 pp.). [Internet Archive](https://archive.org/details/onfairnesseffici0000mill)

@@ -26,8 +26,8 @@ urban fringes of metro areas was the *most* volatile component of home
 prices during the boom and bust, not the most expensive, centrally located
 land as a naive story might predict.[1]
 
-The finding is one data point in the broader case, developed at length in
-Lars Doucet's *Land Is a Big Deal*, that the 2000s US housing boom and bust
+The finding is one data point in the broader case, developed at length by
+the practitioner-author Lars Doucet in *Land Is a Big Deal*, that the 2000s US housing boom and bust
 was substantially a **land-price** phenomenon rather than a structures or
 construction-cost phenomenon, and that disaggregating land from structures
 is essential to understanding both bubble dynamics and how large a land
@@ -52,7 +52,7 @@ predominantly a land phenomenon.
    (hedonic decomposition of land vs. structure value at the Census-tract
    level), and headline finding that lower-value fringe land was the most
    volatile component during the boom-bust. [Abstract, UW Press](https://le.uwpress.org/content/89/1/1)
-2. Lars Doucet, *Land Is a Big Deal* (2022), Ch. 14 — used for the
-   discovery context and the framing of land/structure decomposition
-   studies as evidence for the scale and volatility of land value (via the
-   wiki's [book page](/wiki/land-is-a-big-deal/)).
+2. Lars Doucet, *Land Is a Big Deal* (2022), Ch. 14 — used as the origin of
+   the framing of land/structure decomposition studies as evidence for the
+   scale and volatility of land value, not as support for that framing (see
+   the [book page](/wiki/land-is-a-big-deal/)).

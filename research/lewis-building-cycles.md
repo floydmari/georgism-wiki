@@ -24,9 +24,9 @@ documenting that British construction and property activity did not grow
 smoothly but moved through recurring booms and slumps over more than two
 centuries.[1][2]
 
-Fred Harrison's *Boom Bust* draws directly on Lewis's data, citing Table 5.1 of
-the book (p.74) for an **average cycle duration of 17.4 years** across the
-building cycles Lewis identifies — figures Harrison uses as UK corroboration for
+The practitioner-author Fred Harrison's *Boom Bust* draws directly on Lewis's data,
+citing Table 5.1 of the book (p.74) for an **average cycle duration of 17.4 years**
+across the building cycles Lewis identifies — figures Harrison uses as UK corroboration for
 the same roughly-18-year periodicity that Hoyt's Chicago data documents for the
 US.[2] Secondary summaries describe the cycle as tracing back at least to the early
 1700s, with reported cycle lengths in the literature ranging narrowly around

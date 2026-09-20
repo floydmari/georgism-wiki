@@ -73,8 +73,8 @@ permissioned developable land in the highest-demand English markets is deliberat
 in a state of slow build-out — the "significant gap" between permissions and completions.
 That supports the claim that
 [valuable land is used well below its potential](/wiki/speculative-vacancy-wastes-cities/)
-even where demand is most acute, and it corroborates
-[Prosper Australia's](/wiki/prosper-speculative-vacancies/) land-banking argument that
+even where demand is most acute, and it corroborates the land-banking argument
+made by the advocacy organisation [Prosper Australia](/wiki/prosper-speculative-vacancies/), that
 "developers strategically delay financially feasible developments" to protect
 staged-release revenue.
 
