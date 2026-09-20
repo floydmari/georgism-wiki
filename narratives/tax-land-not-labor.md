@@ -122,8 +122,9 @@ rather than a contested empirical estimate:
   [Landlords cannot pass LVT on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
   (strong — among the least disputed claims in the incidence literature). Because land
   supply is perfectly inelastic, standard tax-incidence theory assigns the entire
-  burden to the landowner rather than the renter or buyer; [Doucet (2021)](/wiki/doucet-does-georgism-work/)
-  works through the argument and the supporting capitalisation evidence in detail.[9]
+  burden to the landowner rather than the renter or buyer. The practitioner-author
+  Lars Doucet's [*Does Georgism Work?* series (2021)](/wiki/doucet-does-georgism-work/)
+  sets that argument and the capitalisation literature out for a general audience.[9]
   The claim's classical pedigree predates George: he quotes Ricardo directly as already
   having established it — "a tax on rent would fall wholly on landlords, and could not
   be shifted to any class of consumers" (Ricardo, *Principles*, Ch. X, quoted in
@@ -348,7 +349,8 @@ Murray documents that the Budget was carefully designed to avoid burdening the w
 9. Lars Doucet (2021), "Does Georgism Work? Part 2: Can Landlords Pass LVT on to
    Tenants?", *Astral Codex Ten*.
    [Original](https://www.astralcodexten.com/p/does-georgism-work-part-2-can-landlords) —
-   used for the tax-incidence argument and evidence (B/C-claim); see also the
+   used as a practitioner-author's popular exposition of the tax-incidence argument,
+   not as evidence for it (B/C-claim); see also the
    [wiki summary](/wiki/doucet-does-georgism-work/).
 10. Gregor Schwerhoff, Ottmar Edenhofer & Marc Fleurbaey (2022), "Equity and
     Efficiency Effects of Land Value Taxation," *IMF Working Paper* WP/22/263.

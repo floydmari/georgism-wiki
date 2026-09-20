@@ -3,7 +3,7 @@ title: "Abolition of Feudal Tenures (1660)"
 category: events
 tags: [events, england, feudalism, tax-history, excise, ricardos-law]
 stub: false
-excerpt: "England's Tenures Abolition Act 1660 ended feudal military tenure and the Crown's land-based revenues, replacing them with a new excise tax on the general public — the moment, per Fred Harrison, that England's landed rents were effectively privatised."
+excerpt: "England's Tenures Abolition Act 1660 ended feudal military tenure and the Crown's land-based revenues, replacing them with a new excise tax on the general public — an episode Georgist writers read as the effective privatisation of England's landed rents."
 last_reviewed: 2026-07-11
 ---
 
@@ -17,7 +17,12 @@ free and common socage.[1] In place of the feudal dues landowners had owed the
 Crown, the Act compensated the monarch with a fixed annual sum funded by a new
 excise duty, levied on beer, ale, and other goods and paid by the general
 public rather than by landowners; the same Act imposed England's first excise
-duty on tea, coffee, and chocolate.[1] Fred Harrison's *[Ricardo's Law](/wiki/harrison-ricardos-law/)*
+duty on tea, coffee, and chocolate.[1]
+
+## The Georgist Reading
+
+The Georgist author and campaigner Fred Harrison's
+*[Ricardo's Law](/wiki/harrison-ricardos-law/)*
 treats the episode as a hinge point in English fiscal history: the landed
 aristocracy, having reasserted political control after the Civil War and the
 Restoration, shed its feudal fiscal obligations and shifted the tax burden

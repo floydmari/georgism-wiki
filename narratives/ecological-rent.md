@@ -74,8 +74,8 @@ rent of the earth becomes every citizen's property income
   [Prosper Australia](/wiki/prosper-australia/) quantified the base: their *Total
   Resource Rents of Australia* study (2013) estimated economic rents — land,
   resources, monopoly — at 23.6% of GDP, enough to fund about 87% of all Australian
-  government requirements in 2011–12.[2] (An advocacy estimate; report it as
-  theirs.)
+  government requirements in 2011–12 — an estimate by the advocacy organisation
+  itself, reported here as theirs.[2]
 - **Mainstream economics endorses the pricing half.** The OECD's polluter-pays
   principle dates to 1972;[3] the 2019 Economists' Statement on Carbon Dividends —
   more than 3,500 economists, 27 Nobel laureates (28 by later counts) — recommended

@@ -18,9 +18,7 @@ reclassified for urbanization without the owner's consent, and then required
 the owner to surrender roughly 10% of their land outright plus contribute
 cash or further land toward the cost of new infrastructure — contributions
 that press and legal accounts put at more than half the property's value in
-some cases.[2] It is cited in [Fred Harrison](/wiki/fred-harrison/)'s
-*[Boom Bust](/wiki/harrison-boom-bust/)* (2005) as a case study in botched
-land-value capture.[3]
+some cases.[2]
 
 ## How It Worked
 
@@ -31,7 +29,10 @@ Urban Action Programme for an area and force affected owners into a
 *reparcelación* (reparcelling) process.[2] In principle, this is a variant
 of the [betterment levy](/wiki/betterment-levy/) idea Georgists generally
 favor: capture some of the land-value uplift that public infrastructure
-creates, rather than letting it accrue entirely to the private owner.[3] In
+creates, rather than letting it accrue entirely to the private owner. The
+Georgist writer [Fred Harrison](/wiki/fred-harrison/)'s
+*[Boom Bust](/wiki/harrison-boom-bust/)* (2005) cites the law on that basis,
+as a case study in botched land-value capture.[3] In
 practice, multiple legal and journalistic accounts describe the law as badly
 drafted and open to abuse by developers working with local officials:
 landowners — including thousands of foreign retirees who had bought rural

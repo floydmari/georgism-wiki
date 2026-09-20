@@ -43,8 +43,8 @@ frees the land, land taxation makes holding it idle unaffordable.
   problem and proposed council-tax replacement with a progressive property tax,
   putting land reform on a major party's agenda.[10]
 - **[Dominic Frisby](/wiki/dominic-frisby/)** carries the popular British version;
-  [Prosper Australia](/wiki/prosper-australia/) documents speculative vacancy in
-  Melbourne; the [Center for Land Economics](/wiki/center-for-land-economics/) works
+  the advocacy organisation [Prosper Australia](/wiki/prosper-australia/) documents
+  speculative vacancy in Melbourne; the [Center for Land Economics](/wiki/center-for-land-economics/) works
   the US policy channel, including the
   [Detroit LVT proposal](/wiki/detroit-lvt-proposal/).
 - **The empirical backdrop is mainstream.** Knoll, Schularick & Steger show ~80% of

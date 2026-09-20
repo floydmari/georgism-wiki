@@ -3,7 +3,7 @@ title: "South Sea Bubble (1720)"
 category: events
 tags: [events, south-sea-bubble, boom-bust-cycle, securitisation, speculation, 18th-century]
 stub: false
-excerpt: "The 1720 collapse of South Sea Company shares, one of the earliest and most-studied speculative manias, in which future trade and debt-conversion profits were capitalised into share prices — a pattern Georgist writer Fred Harrison traces forward to modern land and mortgage securitisation."
+excerpt: "The 1720 collapse of South Sea Company shares, one of the earliest and most-studied speculative manias, in which future trade and debt-conversion profits were capitalised into share prices — an episode Georgist cycle writers read as an early instance of securitisation."
 last_reviewed: 2026-07-12
 ---
 
@@ -28,8 +28,8 @@ contemporaneously documented remark.[2]
 
 ## The Georgist Reading
 
-Fred Harrison's *[Boom Bust: House Prices, Banking and the Depression of
-2010](/wiki/harrison-boom-bust/)* (2005) opens its historical account of
+The Georgist writer Fred Harrison's *[Boom Bust: House Prices, Banking and the
+Depression of 2010](/wiki/harrison-boom-bust/)* (2005) opens its historical account of
 **[securitisation](/wiki/boom-bust-cycle/)** — the capitalising of a future income
 stream into a present-day tradeable asset price — with the South Sea Bubble,
 describing it as an early instance of the same mechanism Harrison traces through

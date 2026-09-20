@@ -4,7 +4,7 @@ category: events
 tags: [events, 2008-crisis, land-cycle, credit-cycle, foldvary, harrison, bezemer, great-mortgaging, borio, financial-cycle]
 year: 2008
 stub: false
-excerpt: "The global financial crisis of 2007–2008, read through two complementary lenses: the Georgist land-cycle reading (Foldvary forecast it in 1997, Harrison in 2005) and the mainstream credit-cycle reading (the Great Mortgaging, BIS financial cycle) — both centering on real estate and credit b."
+excerpt: "The global financial crisis of 2007–2008, read through two complementary lenses: the Georgist land-cycle reading (Foldvary forecast it in a 1997 peer-reviewed paper) and the mainstream credit-cycle reading (the Great Mortgaging, BIS financial cycle) — both centering on real estate and credit b."
 last_reviewed: 2026-07-05
 ---
 
@@ -12,7 +12,7 @@ last_reviewed: 2026-07-05
 
 The 2008 financial crisis was a global banking and credit crisis triggered by the collapse of a US mortgage-backed housing boom, producing the deepest recession since the 1930s. Two broad readings of the crisis are represented in this wiki, and this page presents both in a neutral, encyclopedic spirit:
 
-1. **The land-cycle reading** (Georgist tradition): the crisis was the predictable culmination of a credit-financed **land speculation cycle** — rising land values attract speculative, debt-financed buying until the burden of land cost and debt outruns what the economy can service. [Fred Foldvary](/wiki/fred-foldvary/) forecast the downturn in 1997; [Fred Harrison](/wiki/fred-harrison/) in 2005.
+1. **The land-cycle reading** (Georgist tradition): the crisis was the predictable culmination of a credit-financed **land speculation cycle** — rising land values attract speculative, debt-financed buying until the burden of land cost and debt outruns what the economy can service. [Fred Foldvary](/wiki/fred-foldvary/) forecast the downturn in a 1997 peer-reviewed paper.
 
 2. **The mainstream credit reading**: the crisis was driven by mortgage-credit expansion, bank leverage, and the collapse of asset-backed securities markets — with real estate as one important asset class within a broader credit dynamic, not necessarily the independent causal engine.
 
@@ -22,7 +22,7 @@ Both readings center on real estate and credit; they diverge on whether land-pri
 
 **[Fred Foldvary](/wiki/fred-foldvary/)** made the earliest documented call. In "The Business Cycle: A Georgist-Austrian Synthesis" (*American Journal of Economics and Sociology*, 1997), he wrote that "the next major bust, 18 years after the 1990 downturn, will be around 2008, if there is no major interruption such as a global war."[1] Foldvary's model fused Georgist land-speculation theory with Austrian capital-structure theory, arguing that credit expansion fuels both general capital-goods investment and land speculation specifically, with real-estate construction as the connecting "transmission mechanism."[2] The prediction was a linear extrapolation from historical peak-year data — not a separately modeled or econometrically tested forecast — and Foldvary stated it with an explicit conditional (no major disruptive war).[2]
 
-**[Fred Harrison](/wiki/fred-harrison/)** followed in *Boom Bust: House Prices, Banking and the Depression of 2010* (2005), using the same ~18-year land-cycle logic — built on [Homer Hoyt](/wiki/homer-hoyt/)'s 1933 Chicago land-value study — to forecast a downturn arriving around 2007–2010, against a consensus of forecasters still expecting a soft landing.[3] Harrison's earlier *The Power in the Land* (1983) had applied the same analysis to the British land market and forecast the early-1990s recession.[4]
+The Georgist author and campaigner **[Fred Harrison](/wiki/fred-harrison/)** followed in *Boom Bust: House Prices, Banking and the Depression of 2010* (2005), using the same ~18-year land-cycle logic — built on [Homer Hoyt](/wiki/homer-hoyt/)'s 1933 Chicago land-value study — to forecast a downturn arriving around 2007–2010, against a consensus of forecasters still expecting a soft landing.[3] Harrison's earlier *The Power in the Land* (1983) had applied the same analysis to the British land market and forecast the early-1990s recession.[4]
 
 **[Mason Gaffney](/wiki/mason-gaffney/)**, in *After the Crash* (2009), read the crisis as substantially a land-price collapse consistent with George's analysis, while adding that land speculation is a *necessary but not sufficient* condition — credit structure and capital theory also matter.[5]
 
@@ -61,7 +61,7 @@ The Georgist reply to the mainstream reading, as articulated by Gaffney and othe
 
 ## Net Assessment (NPOV)
 
-The documented, dated, pre-crisis predictions by Harrison and Foldvary — and Bezemer's independent corroboration of Harrison's — are genuinely persuasive material for the land-cycle reading.[1][3][6] The mainstream credit reading provides the rigorous long-run empirical evidence that the credit in question is overwhelmingly mortgage credit secured against real estate.[7] The two accounts are complementary in their empirical description of what happened, even as they diverge on causal emphasis and policy prescription.
+Foldvary's dated, pre-crisis prediction in a peer-reviewed journal — and Bezemer's independent survey documenting Harrison's public warnings — are genuinely persuasive material for the land-cycle reading.[1][3][6] The mainstream credit reading provides the rigorous long-run empirical evidence that the credit in question is overwhelmingly mortgage credit secured against real estate.[7] The two accounts are complementary in their empirical description of what happened, even as they diverge on causal emphasis and policy prescription.
 
 The periodicity claim (an exact ~18-year cycle) remains contested and should not be presented as settled. No peer-reviewed paper in this wiki confirms a fixed period; the BIS financial-cycle work supports the *mechanism* (credit + property prices), not the *number* (18 years).[8] The cycle literature is largely practitioner-authored rather than a sustained, replicated academic literature, and some historical peaks (notably 1973, driven by the OPEC oil shock) fit the land-speculation mechanism poorly.[2]
 

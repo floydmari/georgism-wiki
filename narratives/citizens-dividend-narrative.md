@@ -59,7 +59,7 @@ together."
 - **Development economists** have proposed resource-rent dividends for
   resource-cursed states: Segal calculates that distributing resource rents directly
   could roughly halve global $1-a-day poverty.[4]
-- In Canada, [Common Wealth Canada](/wiki/common-wealth-canada/) advances the
+- In Canada, the advocacy organisation [Common Wealth Canada](/wiki/common-wealth-canada/) advances the
   common-wealth-fund version of the same idea
   ([research page](/wiki/common-wealth-fund/)).
 - Online, citdiv.org (founded 2021–22 by cycle author Phillip J. Anderson) carries a

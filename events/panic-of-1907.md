@@ -15,7 +15,7 @@ The episode's dependence on the ad hoc judgment of one powerful private individu
 
 ## In the Land-Cycle Literature
 
-Georgist writers on the roughly 18-year land-and-credit cycle treat 1907 as one of the historical peak years in the recurring boom-bust sequence. Akhil Patel's *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* lists 1907 among the documented US real-estate cycle peaks (alongside 1888, 1926, 1973, 1990, and 2008), a dating broadly consistent with other cycle researchers.[3] On this reading, the panic is read as the credit-and-banking-crisis face of a land-price peak rather than a purely monetary accident — though the wiki notes this periodicity claim is contested (see [cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/)).
+Georgist writers on the roughly 18-year land-and-credit cycle treat 1907 as one of the historical peak years in the recurring boom-bust sequence. The practitioner-author Akhil Patel's *[The Secret Wealth Advantage](/wiki/patel-secret-wealth-advantage/)* lists 1907 among the peak years in his US real-estate cycle timetable (alongside 1888, 1926, 1973, 1990, and 2008), a dating shared by other writers in the same literature.[3] On this reading, the panic is read as the credit-and-banking-crisis face of a land-price peak rather than a purely monetary accident — though the wiki notes this periodicity claim is contested (see [cycles are driven by credit, not land](/wiki/cycles-are-credit-not-land/)).
 
 ## See Also
 

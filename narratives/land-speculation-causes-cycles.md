@@ -121,20 +121,21 @@ the "lead with the mechanism, not the number" deployment guidance below.
   discourages idle, speculative holding is strong and direct; empirical confirmation is
   thinner, resting mainly on the suggestive Tallinn/Riga density comparison in
   [Tomson (2016)](/wiki/tomson-estonia-lvt/) for [Estonia](/wiki/estonia/).[10]
-- **[Speculative vacancy](/wiki/speculative-vacancy/)** documents the behaviour the
-  narrative says drives the cycle: land or housing held empty for anticipated capital
-  gain rather than use, measured directly by [Prosper Australia](/wiki/prosper-australia/)
-  using water-consumption data.
-- **Doucet's modern synthesis of the speculation mechanism.** Lars Doucet's
-  *Land is a Big Deal* (Chs. 7–8) provides the most accessible modern restatement of
-  George's land-speculation theory, framing it as a structural feature of unregulated
-  land markets: when land can be held cheaply (no LVT, low holding costs), the expected
-  capital gain from waiting exceeds the return from developing, so land is systematically
-  underused during booms and dumped during busts — amplifying the cycle's amplitude.
-  Doucet also cites Michael Hudson's finding that "most land rent is paid out as interest
-  to banks and that bank credit is a major driver of increases in housing prices" (Ch. 16),
-  bridging the Georgist and credit-cycle readings by locating the causal engine in the
-  land-collateral channel. See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
+- **[Speculative vacancy](/wiki/speculative-vacancy/)** is the behaviour the narrative
+  says drives the cycle: land or housing held empty for anticipated capital gain rather
+  than use. The advocacy organisation [Prosper Australia](/wiki/prosper-australia/)
+  measures it from water-consumption data in its own Melbourne surveys — its figures,
+  reported as theirs rather than as an independent audit of the mechanism.
+- **A popular restatement of the mechanism.** The practitioner-author Lars Doucet's
+  *Land is a Big Deal* (Chs. 7–8) is the most widely read modern restatement of George's
+  land-speculation theory — an exposition of the argument rather than new evidence for
+  it — framing it as a structural feature of unregulated land markets: when land can be
+  held cheaply (no LVT, low holding costs), the expected capital gain from waiting
+  exceeds the return from developing, so land is systematically underused during booms
+  and dumped during busts. Doucet draws on the economist Michael Hudson's finding that
+  "most land rent is paid out as interest to banks and that bank credit is a major driver
+  of increases in housing prices" (Ch. 16) to bridge the Georgist and credit-cycle
+  readings, locating the causal engine in the land-collateral channel. See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 - **Outside academic validation of the prediction record.** [Dirk Bezemer's 2009 survey](/wiki/bezemer-no-one-saw-this-coming/)
   cross-analyst survey of who anticipated the 2008 crisis in advance, and why, names
   Harrison among its twelve analysts who issued detailed, public,

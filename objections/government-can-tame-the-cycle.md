@@ -39,12 +39,13 @@ policy attention.[2] A parallel and more explicitly political version was UK
 Chancellor **Gordon Brown's** repeated claim, from 1997 onward, that his
 policy framework meant Britain would "never return to the old boom and bust."[3]
 
-Phillip J. Anderson's *The Secret Life of Real Estate and Banking* treats this as
-a recurring pattern rather than a one-off: he documents versions of the "the
-cycle has been tamed" claim made in the 1920s, in the 1960s (the U.S. *Economic
-Report of the President*, 1968), and again in the 1990s Great Moderation
-era — in each case followed by a land-price-linked recession or crash.[4] Akhil
-Patel's *The Secret Wealth Advantage* makes the same point, citing Bernanke
+In the land-cycle literature this is treated as a recurring pattern rather than a
+one-off. The investment writer Phillip J. Anderson's *The Secret Life of Real
+Estate and Banking* gathers versions of the "the cycle has been tamed" claim made
+in the 1920s, in the 1960s (the U.S. *Economic Report of the President*, 1968),
+and again in the 1990s Great Moderation era — in each case, on his account,
+followed by a land-price-linked recession or crash.[4] The practitioner-author
+Akhil Patel's *The Secret Wealth Advantage* makes the same point, citing Bernanke
 (2004), Alan Greenspan, and Gordon Brown together as figures who each declared
 the cycle eliminated shortly before the 2008 crash.[5]
 
@@ -68,10 +69,10 @@ The strong form of the claim — that the cycle has been eliminated or tamed for
 good — has a poor empirical track record. Bernanke's Great Moderation speech was
 delivered four years before the 2008 financial crisis, whose proximate cause was
 a US property-price collapse; Gordon Brown's boast preceded the same crisis by
-roughly a decade.[1][3] Anderson's documentation of earlier "tamed" claims in the
+roughly a decade.[1][3] Anderson's account of earlier "tamed" claims in the
 1920s and 1960s, each followed within years by a recession tied to a land-price
-peak, suggests this is a **recurring rhetorical pattern at cycle peaks**, not
-evidence against the cycle itself — arguably the opposite: confident
+peak, reads the pattern as a **recurring rhetorical marker at cycle peaks** rather
+than as evidence against the cycle itself — arguably the opposite: confident
 declarations that the cycle is over are, on this reading, themselves a marker of
 the "mania" phase near a cycle top.[4] Tellingly, while officials were declaring
 the cycle tamed, land-cycle economists were publicly forecasting the crash that
