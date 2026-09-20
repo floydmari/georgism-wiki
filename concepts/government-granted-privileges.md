@@ -3,7 +3,7 @@ title: "Government-Granted Licences and Privileges"
 category: concepts
 tags: [concepts, economic-rent, rent-seeking, regulation, licensing, monopoly]
 stub: false
-excerpt: "An umbrella concept, drawn from Phillip Anderson's cycle history, for state-created exclusivities — land titles, banking charters, broadcast spectrum, taxi medallions — whose value is capitalised into a saleable price much like land rent."
+excerpt: "An umbrella concept for state-created exclusivities — land titles, banking charters, broadcast spectrum, taxi medallions — whose value is capitalised into a saleable price much like land rent."
 last_reviewed: 2026-07-12
 ---
 
@@ -15,12 +15,7 @@ government confers on a private party rather than the market producing through o
 competition.[1] Patents, copyrights, taxi medallions, broadcast spectrum licences,
 banking charters, and land titles are all instances: in each case, the state
 restricts entry or assigns an exclusive right, and the restriction itself becomes
-capitalised into a transferable asset price.[1] Phillip Anderson's *[The Secret Life
-of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* uses the term
-as a deliberate generalisation from land: having identified land titles as one
-"government-granted licence" whose rent gets capitalised into a saleable price and
-drives his 18-year cycle, Anderson extends the same logic to banking charters,
-broadcast spectrum, and taxi medallions.[2] The concept gives the wiki a single hub
+capitalised into a transferable asset price.[1] The concept gives the wiki a single hub
 for a family of siloed pages — [spectrum auctions](/wiki/spectrum-auctions/),
 [IP rents](/wiki/ip-rents/), [data rents](/wiki/data-rents/) — that each analyse one
 instance of the same underlying structure without naming it explicitly.
@@ -40,7 +35,13 @@ In each case the same three-step mechanism applies:
    becomes an asset independent of its productive use, tradable and often used as
    loan collateral.
 
-Anderson applies this logic most explicitly to land, arguing that "no capitalised
+The Australian investment writer Phillip J. Anderson's *[The Secret Life
+of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/)* uses the umbrella
+term as a deliberate generalisation from land: having identified land titles as one
+"government-granted licence" whose rent gets capitalised into a saleable price and
+drives his 18-year cycle, Anderson extends the same logic to banking charters,
+broadcast spectrum, and taxi medallions.[2] He applies this logic most explicitly to
+land, arguing that "no capitalised
 rent, no real estate cycle" — the 18-year land cycle he documents exists because
 land titles are freely mortgageable, letting banks lend against the capitalised
 rent and re-inflate it (Ch. 16).[2] He treats land titles, banking charters, and

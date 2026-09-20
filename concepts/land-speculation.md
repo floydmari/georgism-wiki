@@ -75,7 +75,7 @@ Martin Adams's *Land: A New Paradigm for a Thriving World* (2015) presents land 
 
 Adams frames land ownership as an "entry monopoly" — since land supply cannot be increased, new entrants must buy from existing owners, allowing owners to extract rents without producing corresponding value (Adams 2015, Ch. 3). He compares this to the market for internet domain names, where limited supply enables rent extraction — a theoretical analogy rather than a measured result.
 
-Adams reproduces Fred Harrison's 18-year land cycle table (1818–2008) and cites both Harrison's and Foldvary's independent 1997 predictions of the 2008 depression as evidence that the speculative cycle is both real and foreseeable (Adams 2015, Ch. 5, Table 5-3).
+Adams reproduces the campaigning author Fred Harrison's 18-year land cycle table (1818–2008) and treats Harrison's and Foldvary's independent 1997 predictions of the 2008 depression as showing the speculative cycle to be real and foreseeable (Adams 2015, Ch. 5, Table 5-3). Harrison's cycle work is practitioner writing rather than peer-reviewed research, and the forecasting claim is assessed on the [land speculation causes boom and bust](/wiki/land-speculation-causes-cycles/) narrative page rather than treated here as established.
 
 > "Whenever property owners collect rent from rising land values, fewer financial resources are left over for wages and capital investments, and this dynamic can effectively put society on the fast track toward social decline and wealth inequality." — Martin Adams, Ch. 4
 

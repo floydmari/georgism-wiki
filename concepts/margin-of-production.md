@@ -60,7 +60,8 @@ decisions bind.
   Mainstream distribution theory thus generalized George's margin from land to
   every factor — the analytical episode mapped on
   [The Corruption of Economics narrative](/wiki/the-corruption-of-economics/).
-- **Modern restatements.** [Lars Doucet](/wiki/lars-doucet/) walks through the
+- **Modern restatements.** The game developer and popular writer
+  [Lars Doucet](/wiki/lars-doucet/) walks through the
   margin-of-production logic with agricultural and urban examples in his
   Dwarkesh Podcast discussion, presenting it as the upper bound on what
   landlords can charge.[4] The urban translation: the "margin" today is not

@@ -3,13 +3,13 @@ title: "Land Banking"
 category: concepts
 tags: [concepts, land-banking, land-value-capture, public-land-leasing, stockholm, sweden]
 stub: false
-excerpt: "Public purchase of land ahead of the development that will raise its value, so the increment accrues to the municipality rather than speculators — Stockholm built, per Fred Harrison, the largest municipal land bank in Western Europe, but it did not neutralize the land-speculation cycle."
+excerpt: "Public purchase of land ahead of the development that will raise its value, so the increment accrues to the municipality rather than speculators — Stockholm's twentieth-century land bank is the most-studied European case, and it did not neutralize the land-speculation cycle."
 last_reviewed: 2026-07-11
 ---
 
 ## Overview
 
-**Land banking** is the public purchase of land in advance of the development that will raise its value, so that the resulting increment accrues to the municipality rather than to private speculators. [Fred Harrison](/wiki/harrison-power-in-the-land/)'s *The Power in the Land* (1983) describes Stockholm as having built, over the twentieth century, the largest municipal land bank in Western Europe — most of it acquired well before the urban fringe reached it — as one of several international attempts, alongside Israeli and Australian schemes, to capture land value ahead of speculators.[1] Harrison draws on Ann L. Strong's 1979 comparative study *Land Banking: European Reality, American Prospect*, which examined Stockholm's programme in depth as a European precedent for the land-banking policies some American planners were then advocating.[1][2]
+**Land banking** is the public purchase of land in advance of the development that will raise its value, so that the resulting increment accrues to the municipality rather than to private speculators. Stockholm is the most-studied European case: over the twentieth century the city acquired land on a large scale, most of it well before the urban fringe reached it, and leased it out rather than selling it on.[3] Ann L. Strong's 1979 comparative study *Land Banking: European Reality, American Prospect* examined Stockholm's programme in depth as a European precedent for the land-banking policies some American planners were then advocating.[2]
 
 ## How It Differs from Leasing and LVT
 
@@ -19,7 +19,7 @@ A quantitative evaluation of Stockholm's programme by planning researcher Adolf 
 
 ## Limits
 
-Harrison's account treats Stockholm's land bank as a partial success at best: despite decades of public land acquisition, he judges that it did not neutralise the [18-year land cycle](/wiki/18-year-land-cycle/) of speculative land-price swings his book tracks across several countries.[1] The Ratzka evaluation points to a related limit — even where the public owns land outright, underpriced leases can hand much of the captured value straight back to private leaseholders, echoing the leakage problem documented for leasehold systems more generally on [Public Land Leasing](/wiki/public-land-leasing/).
+The campaigning author [Fred Harrison](/wiki/harrison-power-in-the-land/) — a practitioner writer rather than an academic economist — presents Stockholm in *The Power in the Land* (1983) as the largest municipal land bank in Western Europe and one of several international attempts, alongside Israeli and Australian schemes, to capture land value ahead of speculators, drawing on Strong's comparative study.[1][2] His account treats it as a partial success at best: despite decades of public land acquisition, he judges that it did not neutralise the [18-year land cycle](/wiki/18-year-land-cycle/) of speculative land-price swings his book tracks across several countries.[1] The Ratzka evaluation points to a related limit — even where the public owns land outright, underpriced leases can hand much of the captured value straight back to private leaseholders, echoing the leakage problem documented for leasehold systems more generally on [Public Land Leasing](/wiki/public-land-leasing/).
 
 ## See Also
 

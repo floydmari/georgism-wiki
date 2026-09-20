@@ -9,9 +9,13 @@ last_reviewed: 2026-07-11
 
 ## Overview
 
-**Hope value** is the portion of a land parcel's market price that reflects the prospect — short of an actual granted permission — that the site will later receive planning permission for a more valuable use, rather than the value of its current, permitted use.[1] It is closely related to the value uplift a [betterment levy](/wiki/betterment-levy/) attempts to capture once permission is actually granted. Formally, hope value is the gap between a site's market value and its existing-use value; it rises as the prospect of consent becomes more likely, for example once a local plan identifies the site for development or nearby comparable land is granted permission.[1] Fred Harrison's *[The Power in the Land](/wiki/harrison-power-in-the-land/)* (1983) uses the term in discussing how the asking prices UK landowners hold out for during the withholding phase of the [land speculation](/wiki/land-speculation/) cycle already price in anticipated future consents, part of what Harrison calls the "veil of secrecy" around true land-market values.[2]
+**Hope value** is the portion of a land parcel's market price that reflects the prospect — short of an actual granted permission — that the site will later receive planning permission for a more valuable use, rather than the value of its current, permitted use.[1] It is closely related to the value uplift a [betterment levy](/wiki/betterment-levy/) attempts to capture once permission is actually granted. Formally, hope value is the gap between a site's market value and its existing-use value; it rises as the prospect of consent becomes more likely, for example once a local plan identifies the site for development or nearby comparable land is granted permission.[1]
 
 Hope value matters practically in **compulsory purchase** law: UK compensation rules have historically required valuers to include hope value in the price paid to landowners whose land is compulsorily acquired, which Georgist critics argue effectively pays speculators for a planning gain the public itself created. The UK's Levelling-up and Regeneration Act 2023 introduced a power allowing certain public bodies to obtain a direction disapplying hope value from compensation in specified compulsory-purchase cases, in force in England from April 2024.[3]
+
+## In the Georgist literature
+
+The campaigning author Fred Harrison — a practitioner writer rather than an academic economist — uses the term in *[The Power in the Land](/wiki/harrison-power-in-the-land/)* (1983) when describing how the asking prices UK landowners hold out for during the withholding phase of the [land speculation](/wiki/land-speculation/) cycle already price in anticipated future consents, which he presents as part of the ["veil of secrecy"](/wiki/land-ownership-secrecy/) around true land-market values.[2]
 
 ## See Also
 

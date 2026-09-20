@@ -31,7 +31,7 @@ Three traditional methods for isolating land value remain foundational and are f
 - **Teardown sales:** when a buyer purchases a property and demolishes the structure, the purchase price approximates land value (minus demolition cost), providing a land-value signal even in built-up areas.
 - **Residual estimation:** land value equals sale price minus the depreciated cost of the structure, estimated from construction-cost data and depreciation schedules.[1]
 
-[Lars Doucet](/wiki/doucet-does-georgism-work/) argues that these methods work because land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house. That smoothness means location-based methods can estimate land value with accuracy comparable to or better than whole-property assessment, which must also value the more heterogeneous building component.[1]
+The writer [Lars Doucet](/wiki/doucet-does-georgism-work/), whose popular *Does Georgism Work?* series made the assessment case to a general audience, argues that these methods work because land value is **spatially smooth** — neighbouring parcels have similar land values — whereas building value varies house-by-house; on his reading, that smoothness lets location-based methods estimate land value with accuracy comparable to or better than whole-property assessment, which must also value the more heterogeneous building component.[1] The comparison is his synthesis of the assessment literature rather than a measured result reported by the profession's own standards bodies.
 
 ### Cooperative-Game (Shapley-Value) Separation
 
