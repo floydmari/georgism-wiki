@@ -88,7 +88,7 @@ this is Churchill's argument, not a demonstrated economic finding:
   which had been remitted."[2] The anecdote is the capitalization mechanism
   ([ATCOR](/wiki/atcor/)-family) in miniature: remove a cost borne by a location's users, and the
   saving is absorbed into that location's rent. (The story is in the Edinburgh 17 July 1909
-  speech itself, verified verbatim;[2] it is not exclusive to a Commons speech or to Anderson's
+  speech itself, verified verbatim;[2] it is not exclusive to a Commons speech or to any
   later compilation.)
 
 ## How Churchill Framed It

@@ -67,7 +67,7 @@ treating them as interchangeable.
 
 This is a rigorous, reproducible, open-source quantification of a specific and immediately
 actionable UK reform — replacing a genuinely outdated (34-year-stale) valuation-based tax with
-land value taxation — with distributional results that directly support the wiki's core claim
+land value taxation — with distributional results consistent with the claim
 that LVT burdens fall on wealth rather than income or ordinary consumption. The finding that
 roughly two-thirds of households gain, with losses concentrated at the top of the wealth
 distribution, is a concrete answer to the standard "who wins and loses" question any UK LVT

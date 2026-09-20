@@ -168,7 +168,7 @@ housing-capital mobility in a single model.[1]
   measurement.** It follows from the assumed endowment structure (Group 1 has 1.5×
   Group 2's land and capital) and the labor-leisure margin, not from observed
   Atlanta household data on actual land ownership by income.
-- **Doucet's *Land Is a Big Deal* (Ch. 21) cites this paper for its full-capitalization
+- **The practitioner-author Lars Doucet's *Land Is a Big Deal* (Ch. 21) cites this paper for its full-capitalization
   conclusion** but not for its progressivity or welfare-magnitude findings.
 
 ## See Also

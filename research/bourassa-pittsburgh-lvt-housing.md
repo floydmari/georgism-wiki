@@ -26,7 +26,7 @@ Notably, the *land* tax rate coefficient is not itself a significant determinant
 
 ## Context
 
-The 1987 article was based on Bourassa's University of Pennsylvania dissertation of the same title (1988), and Bourassa went on to become a repeat contributor to the land-value-tax literature, later writing the U.S.-experience and political-economy-of-LVT chapters of the Lincoln Institute of Land Policy's *Land Value Taxation: Theory, Evidence, and Practice* (2009).[2] [Lars Doucet's *Land is a Big Deal*](/wiki/land-is-a-big-deal/) (2022) lists Bourassa (1987) among 13-plus studies it surveys as supporting the capitalization and development-incentive effects of land value taxation (Ch. 21).[3]
+The 1987 article was based on Bourassa's University of Pennsylvania dissertation of the same title (1988), and Bourassa went on to become a repeat contributor to the land-value-tax literature, later writing the U.S.-experience and political-economy-of-LVT chapters of the Lincoln Institute of Land Policy's *Land Value Taxation: Theory, Evidence, and Practice* (2009).[2] The practitioner-author Lars Doucet's *[Land is a Big Deal](/wiki/land-is-a-big-deal/)* (2022) lists Bourassa (1987) among 13-plus studies it surveys as supporting the capitalization and development-incentive effects of land value taxation (Ch. 21).[3]
 
 ## Bears On
 

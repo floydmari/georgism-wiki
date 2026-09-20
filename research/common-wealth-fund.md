@@ -43,7 +43,7 @@ The proposal cites the [Alaska Permanent Fund](/wiki/alaska-permanent-fund/), No
 
 ## Significance
 
-The Fund is the redistributive half of Common Wealth Canada's programme — where the [LVT work](/wiki/natural-common-wealth-economic-rent-canada/) shows how much rent exists, the Fund proposes the institution to collect and share it as a [citizen's dividend](/wiki/citizens-dividend/).
+The Fund is the redistributive half of Common Wealth Canada's programme — where the [LVT work](/wiki/natural-common-wealth-economic-rent-canada/) estimates how much rent exists, the Fund proposes the institution to collect and share it as a [citizen's dividend](/wiki/citizens-dividend/).
 
 ## See Also
 

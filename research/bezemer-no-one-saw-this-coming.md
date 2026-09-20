@@ -6,8 +6,8 @@ bears_on_objections:
 category: research
 excerpt: 'Bezemer''s independent survey of who publicly anticipated the 2008 crisis
   and why: the twelve analysts with documented, reasoned calls all used accounting/flow-of-funds
-  models rather than equilibrium models — the outside validation the wiki cites for
-  Fred Harrison''s prediction record (Harrison is in.'
+  models rather than equilibrium models. Fred Harrison is among the twelve; Fred Foldvary
+  is not.'
 last_reviewed: 2026-07-12
 source_url: https://mpra.ub.uni-muenchen.de/15892/
 stub: false

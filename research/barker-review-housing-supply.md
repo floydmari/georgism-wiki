@@ -21,13 +21,14 @@ by the UK Treasury from Bank of England MPC member **Kate Barker**, is the
 official diagnosis of Britain's housing shortage as a **land supply and planning**
 problem: chronically unresponsive housebuilding, and agricultural-to-residential
 land value gaps so large they measure the planning system's scarcity premium
-directly.[1] [Harrison's *Boom Bust*](/wiki/harrison-boom-bust/) engages it
-critically (Chs. 1–2, 7) — accepting the land-value-gap evidence while arguing the
-supply-only remedy ignores the cycle;[2] the wiki's
-[England supply evidence](/wiki/hilber-vermeulen-england-supply/) is the
-peer-reviewed successor quantifying the same constraint.
+directly.[1] The peer-reviewed successor quantifying the same constraint is
+Hilber and Vermeulen's [England supply evidence](/wiki/hilber-vermeulen-england-supply/).
 
 The Final Report's executive summary and recommendations set out the headline diagnosis: against a 2002-03 baseline of ~140,000 private-sector gross housing starts (125,000 completions) in England, Barker estimated that merely reducing the long-run real house-price trend to 1.8% would require ~70,000 additional private homes per year, and bringing it toward the EU average of 1.1% would require ~120,000 more per year.[1] On land values, the report documents the planning-permission windfall directly: residential development land "could frequently be over £1 million per hectare" and in some regions far higher (a North East worked example values it at £3,244,850 per hectare), a scarcity premium over existing (e.g. agricultural) use that runs into the hundredfolds.[1] The report closes with **36 numbered recommendations** (Recommendations 1–36) spanning planning reform, market-signal responsiveness in the planning system, and a proposed Planning-gain Supplement / land-value capture mechanism.[1]
+
+Among Georgist proponents, the practitioner-author Fred Harrison's *[Boom Bust](/wiki/harrison-boom-bust/)* (2005,
+Chs. 1–2, 7) engages the review critically: he accepts its land-value-gap evidence while
+arguing that a supply-only remedy leaves the land-price cycle untouched.[2]
 
 ## See Also
 
