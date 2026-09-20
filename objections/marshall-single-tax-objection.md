@@ -99,7 +99,7 @@ clearest case for taxation.
 - The objection does real work at the frontier of the rent gradient: it is
   the ancestor of arguments that innovation profits, patents, and
   superstar-firm rents are incentive-necessary quasi-rents rather than pure
-  windfall — a debate this wiki treats as substantially unresolved (see
+  windfall — a debate that remains substantially unresolved (see
   [taxing quasi-rents kills innovation](/wiki/taxing-quasi-rents-kills-innovation/)).
 - The specific quasi-rent formulation quoted above is Blaug's synthesis; the
   primary record of Marshall's engagement with George is his three 1883

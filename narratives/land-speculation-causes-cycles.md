@@ -193,8 +193,7 @@ This is the narrative's honest weak point, and it should be presented as such:
   Gaffney documents that Foldvary's 1997 prediction was excluded from a 2010 contest
   organised to identify economists who had foreseen the crash, despite roughly thirteen
   separate nominations.[8] Whether that reflects a genuine gap in rigor or the marginal
-  status of Georgist economics in the profession is itself contested — the wiki should
-  not adjudicate it.
+  status of Georgist economics in the profession is itself contested.
 - **Mainstream macroeconomics attributes cycles chiefly to credit and monetary factors,
   not land specifically.** The dominant explanations of the 2008 crisis and of asset-price
   cycles generally center on bank leverage and mortgage credit growth

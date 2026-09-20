@@ -88,7 +88,7 @@ capture is warranted.
 
 ## Why Patents Aren't a Family in This Table
 
-Patents and copyright are the other government-created rent this wiki treats as frontier —
+Patents and copyright are the other government-created rent classed here as frontier —
 see [Intellectual-Property Rents](/wiki/ip-rents/) — and the same capture-vs-dissolve split
 shows up there: [Kremer's patent-buyout mechanism](/wiki/prizes-vs-patents/) is capture (the
 state buys the rent at auction-revealed value and puts the invention in the public domain),

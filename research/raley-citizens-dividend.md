@@ -47,7 +47,7 @@ He quantifies the target share: "current estimates hold that natural resources a
 
 ## What It Supports
 
-- **Concept:** [Citizen's Dividend](/wiki/citizens-dividend/) — supplies a scholarly articulation of the Locke–Paine–George entitlement rationale behind the concept, beyond the George-and-Alaska core and alongside Barnes, Meade, and Paine.
+- **Concept:** [Citizen's Dividend](/wiki/citizens-dividend/) — supplies a scholarly articulation of the Locke–Paine–George entitlement rationale behind the concept, beyond the George-and-Alaska core and alongside Paine, Meade, and the journalist and commons advocate Peter Barnes.
 - **Concept:** [Land as Commons](/wiki/land-as-commons/) — restates the common-ownership premise (land and natural resources collectively owned; labour and capital privately owned) as the basis for a per-capita claim.
 - **Concept:** [Single Tax](/wiki/single-tax/) · [Georgism](/wiki/georgism/) — treats George's groundrent-entitlement argument as the live foundation for a modern basic income, crediting *Progress and Poverty* as "often marked as the beginning of the Progressive Era."
 - **Text:** [Agrarian Justice](/wiki/agrarian-justice/) — reads Paine's ground-rent-financed National Fund as the direct ancestor of the citizen's dividend, consistent with the wiki's own treatment.

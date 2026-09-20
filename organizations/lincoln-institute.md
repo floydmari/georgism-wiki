@@ -21,7 +21,7 @@ The Institute's working-paper series, funded through named fellowships (the **Jo
 
 ## Why It Matters
 
-For a wiki organised around evidence, the Lincoln Institute matters because so much of the [Research](/wiki/) catalogued here originates with or is funded by it. It occupies an unusual position: academically credible and methodologically cautious, while institutionally rooted in the Georgist tradition. That dual position cuts both ways for how the wiki should read Institute-funded findings — the Institute has a long-standing institutional interest in land value taxation, and its own working papers state plainly that their findings "are not subject to detailed review and do not necessarily reflect the official views and policies of the Lincoln Institute of Land Policy"; that provenance is worth carrying alongside any single Institute-funded finding, without treating it as invalidating the finding itself.[4]
+For a wiki organised around evidence, the Lincoln Institute matters because so much of the [Research](/wiki/) catalogued here originates with or is funded by it. It occupies an unusual position: academically credible and methodologically cautious, while institutionally rooted in the Georgist tradition. That dual position cuts both ways for reading Institute-funded findings — the Institute has a long-standing institutional interest in land value taxation, and its own working papers state plainly that their findings "are not subject to detailed review and do not necessarily reflect the official views and policies of the Lincoln Institute of Land Policy"; that provenance is worth carrying alongside any single Institute-funded finding, without treating it as invalidating the finding itself.[4]
 
 ## See Also
 

@@ -105,8 +105,8 @@ real-world, before-and-after evidence** at city scale.
   make residents just inside the boundary pay more while getting fewer of the
   travel-time benefits (a pattern Eliasson documents for Stockholm).[2] The
   standard answer is to earmark revenue for public transport — as London and
-  Singapore both do — which shifts the net incidence, but the wiki should not
-  claim distributional neutrality the evidence doesn't support.
+  Singapore both do — which shifts the net incidence, but is not the same as
+  distributional neutrality, a claim the evidence doesn't support.
 - **Calibration is hard.** Singapore's early over-pricing shows that setting the
   charge at true marginal cost is a genuine problem; ERP's automatic adjustment is
   a partial answer, not a solved one.[4]

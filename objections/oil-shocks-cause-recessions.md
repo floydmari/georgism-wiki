@@ -26,7 +26,7 @@ The empirical anchor Harrison offers for a mid-1970s land-market peak is officia
 
 - **This is a timing argument, not a counterfactual model.** Harrison's claim that OPEC was secondary rests on the sequence of dates rather than on any counterfactual model — there is no formal test isolating how much of the 1973–75 downturn is attributable to oil versus land/credit dynamics.
 - **No formal econometric identification.** Harrison's broader cycle theory is tested narratively across a handful of developed economies (plus Jamaica) rather than through a difference-in-differences or structural model that could cleanly separate an oil shock from a land-cycle peak occurring in the same 12–18 month window.
-- **Mainstream economics does treat oil shocks as a real, independently-identified cause** of 1970s stagflation (via supply-side cost-push channels), a body of research this wiki has not yet reconciled in detail with the land-cycle account. The two explanations are not necessarily exclusive: a land-market peak and an oil shock arriving within the same year could both have contributed.
+- **Mainstream economics does treat oil shocks as a real, independently-identified cause** of 1970s stagflation (via supply-side cost-push channels), a body of research not yet reconciled in detail with the land-cycle account. The two explanations are not necessarily exclusive: a land-market peak and an oil shock arriving within the same year could both have contributed.
 - The claim generalizes uneasily: the 1979 oil shock (second OPEC price spike) is asserted rather than closely dated against land-cycle peaks in the same sources.
 
 ## Net Assessment

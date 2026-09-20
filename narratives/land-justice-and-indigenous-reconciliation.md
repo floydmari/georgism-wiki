@@ -191,7 +191,7 @@ Indigenous claims touch — each of which comes bundled with its own limit.
   common inheritance should be distributed to people rather than captured privately.[7]
   Whether such a dividend could be designed to recognize a prior Indigenous share —
   rather than dividing the proceeds per capita across the settler population, the very
-  move Coulthard flags — is an open design question this wiki has not seen answered.
+  move Coulthard flags — is an open design question with no published answer located.
 - **Co-governance and co-management.** The Red Paper's *own* constructive vision
   ("Reclamation") centres consent-based, community-led jurisdiction and co-management,
   including "fair and equitable sharing of benefits" under free, prior, and informed

@@ -69,7 +69,7 @@ The land-decomposition reading is not the sole interpretation of the falling lab
 
 ## Significance for Georgism
 
-Piketty's role in the Georgist case is indirect but important. He supplied the widely credentialed **raw material and framing question** — is capital's share of income and the stock of accumulated wealth rising, and if so why — that the land-decomposition literature this wiki treats as central evidence answers with a specific, narrower claim. Because the finding this wiki relies on is Rognlie's and the later literature's *re-decomposition* of Piketty's data — not a claim Piketty's book itself makes or endorses — readers should understand Piketty's own role as supplying the empirical starting point and the thesis being refined, not as himself providing land-specific evidence.
+Piketty's role in the Georgist case is indirect but important. He supplied the widely credentialed **raw material and framing question** — is capital's share of income and the stock of accumulated wealth rising, and if so why — that the land-decomposition literature, treated here as central evidence, answers with a specific, narrower claim. Because the finding this wiki relies on is Rognlie's and the later literature's *re-decomposition* of Piketty's data — not a claim Piketty's book itself makes or endorses — readers should understand Piketty's own role as supplying the empirical starting point and the thesis being refined, not as himself providing land-specific evidence.
 
 The book is indispensable context for that literature; it is not, on its own terms, a source *for* the land-specific claim.
 

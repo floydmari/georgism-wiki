@@ -17,7 +17,7 @@ Fisher's response to that failure is his most enduring theoretical legacy for cy
 
 ## Significance to the Wiki
 
-Fisher's debt-deflation theory supplies the standard economic mechanism for the **bust phase** of the [18-year land cycle](/wiki/18-year-land-cycle/) and the [boom-bust cycle](/wiki/boom-bust-cycle/) more generally: it explains why a land-price peak, once credit-financed positions become over-extended, can convert into a broad deflationary depression rather than a simple correction. It is a credit-side theory, related to but predating [Hyman Minsky](/wiki/hyman-minsky/)'s financial instability hypothesis, and the wiki should not overstate Fisher's own framing — his 1933 paper is about debt and price-level dynamics in general, not land specifically, and Fisher himself did not present it as a land-cycle theory.
+Fisher's debt-deflation theory supplies the standard economic mechanism for the **bust phase** of the [18-year land cycle](/wiki/18-year-land-cycle/) and the [boom-bust cycle](/wiki/boom-bust-cycle/) more generally: it explains why a land-price peak, once credit-financed positions become over-extended, can convert into a broad deflationary depression rather than a simple correction. It is a credit-side theory, related to but predating [Hyman Minsky](/wiki/hyman-minsky/)'s financial instability hypothesis; Fisher's own framing should not be overstated — his 1933 paper is about debt and price-level dynamics in general, not land specifically, and Fisher himself did not present it as a land-cycle theory.
 
 ## See Also
 

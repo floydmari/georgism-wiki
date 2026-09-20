@@ -171,7 +171,7 @@ Clark exegesis:
   exhaustion, which Gaffney himself concedes shifts toward capital
   liquidation. The rent-gradient point stands regardless: whatever the
   qualification, it is far weaker for land than for the frontier cases
-  (patents, platforms) this wiki treats as genuinely contested.
+  (patents, platforms) treated elsewhere on this wiki as genuinely contested.
 - **Separating land value from structure value is a real practical problem,
   not just a rhetorical one.** Posner and Weyl note that for some
   properties — the Empire State Building "defines its neighborhood" — the

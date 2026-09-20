@@ -26,7 +26,7 @@ year: 1953
 
 "Accumulation, Productivity and Distribution in the British Economy, 1870–1938" is a 1953 article by the London School of Economics labour economist E. H. Phelps Brown and Bernard Weber, published in *The Economic Journal* (vol. 63, no. 250, pp. 263–288).[1] The paper reconstructs long-run British data on capital accumulation, output, and the division of income between factors of production across nearly seven decades — the kind of national-accounts reconstruction that, a few years later, fed into the growth-accounting tradition associated with Robert Solow's residual.
 
-Within the Georgist literature the paper is best known at second hand: Fred Harrison cites it in *[The Power in the Land](/wiki/harrison-power-in-the-land/)* (Ch. 6) as the source for a long-run decline in the rate of return to industrial capital in Britain — one blade of a "scissors" divergence in which falling returns to capital open up against rising returns to land, which Harrison presents as a driver of the [18-year land cycle](/wiki/18-year-land-cycle/).[2]
+Within the Georgist literature the paper is best known at second hand: the practitioner-author Fred Harrison cites it in *[The Power in the Land](/wiki/harrison-power-in-the-land/)* (Ch. 6) as the source for a long-run decline in the rate of return to industrial capital in Britain — one blade of a "scissors" divergence in which falling returns to capital open up against rising returns to land, which Harrison presents as a driver of the [18-year land cycle](/wiki/18-year-land-cycle/).[2]
 
 ## The Paper's Own Figures (verified against the primary text)
 

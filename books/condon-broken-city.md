@@ -69,7 +69,7 @@ the argument through contemporary housing-crisis debates rather than through cla
 economics. Fainstein's own review, from a scholar not otherwise aligned with Georgist
 theory, functions as independent academic validation that the land-speculation diagnosis is
 "generally sound" even from a critical outside perspective — while her supply-side criticism
-is a useful honest counterweight the wiki should not omit.
+is a useful, honest counterweight to the land-speculation diagnosis.
 
 ## Nuances and Limits
 

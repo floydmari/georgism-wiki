@@ -91,8 +91,8 @@ authority rather than on her constitutional reasoning.
 
 ## Relation to the Georgist Case
 
-The dispute is a real-world instance of a classification question this wiki treats
-theoretically elsewhere: whether a government charge on the extraction or use of a
+The dispute is a real-world instance of a classification question treated theoretically
+elsewhere on this wiki: whether a government charge on the extraction or use of a
 naturally scarce resource is best understood as a **tax** (a sovereign levy, subject to
 constitutional taxing-power limits) or as **rent/consideration** (a payment for a granted
 right, more like a lease). Georgist theory treats this as largely a distinction without an

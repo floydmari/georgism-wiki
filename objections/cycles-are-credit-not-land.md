@@ -130,7 +130,7 @@ the same instability, not rival explanations.
   credit theory that ignores *why* property is the recurrent object of the boom is
   itself incomplete.
 
-The defensible, narrower claim the wiki should make is this: **land is the dominant
+The defensible, narrower claim is this: **land is the dominant
 collateral through which credit booms run, so land-rent capture and credit regulation
 attack the same instability from two ends.** Not "cycles are land, not credit," and not
 "credit, not land" — but land *and* credit, welded together in the mortgage book.
