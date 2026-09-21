@@ -174,6 +174,53 @@ def main():
                 err(p["path"], f"§4b {h['class']} in {h['where']}: {h['match']!r}")
     except ImportError:
         warn("scripts/lint_wiki.py", "audit_wiki.py not importable; §4b scan skipped")
+
+    # EDITORIAL §4c: a Tier 2 name (practitioner-author, advocate, newsletter, advocacy body)
+    # in a page's lead paragraph is almost always being used as support. Warning, not error:
+    # the scanner cannot read intent, the T1 editor can. Skipped on the person's/book's own
+    # pages and on people/books/organizations pages generally (those are the Tier 2 homes).
+    tiers_path = os.path.join(ROOT, "sources", "audit", "people-tiers.json")
+    if os.path.exists(tiers_path):
+        import json as _json
+        _tiers = _json.load(open(tiers_path, encoding="utf-8"))
+        _t1 = {re.sub(r"\s*\(.*\)\s*$", "", n).strip() for n in _tiers.get("tier1_confirmed", [])}
+        _names = []
+        for n in _tiers.get("tier2", []):
+            n = re.sub(r"\s*\(.*\)\s*$", "", n).strip()   # drop annotations
+            if len(n.split()) < 2 or n == "Progress & Poverty" or n in _t1:   # ambiguous, or split-tier author
+                continue
+            _names.append(n)
+        # a mention whose status is stated nearby is the sanctioned origin/proponent form
+        _status_re = re.compile(r"(practitioner|writer|author|journalist|investor|blogger|advocate|advocacy|"
+                                r"campaign|newsletter|think[- ]tank|organi[sz]ation|foundation|institute|"
+                                r"group|podcast|coined|term|proponent|essay|report|blog|founder|"
+                                r"lineage|response to|modelling|documentary|published|produced|"
+                                r"directed|Gaffney (and|&))", re.I)
+        _by_re = re.compile(r"\b(by|for)\s*(\*\*|\[|_)*$")          # "…analysis by **Dan Neidle**": authorship of the subject
+        _ed_re = re.compile(r"^\s*\(?(ed|eds)\.?[,)]")             # "Fred Harrison (ed.)": editor credit, not support
+        _name_re = re.compile(r"\b(" + "|".join(re.escape(n) for n in _names) + r")\b")
+        for slug, p in pages.items():
+            if p["folder"] in ("people", "books", "organizations"):
+                continue
+            lead = ""
+            for para in re.split(r"\n\s*\n", p["body"].strip()):
+                para = para.strip()
+                if not para or para.startswith("#") or para.startswith("<!--"):
+                    continue
+                lead = para
+                break
+            _authors = " ".join(aslist(p["meta"].get("authors"))).lower()
+            for m in _name_re.finditer(lead):
+                surname = m.group(1).split()[-1].lower()
+                if surname in slug or surname in _authors:
+                    continue        # the page is about them or their own work
+                if _status_re.search(lead[max(0, m.start() - 120):m.start()]):
+                    continue        # status stated ("the practitioner-author X's term for…")
+                if _by_re.search(lead[max(0, m.start() - 12):m.start()]) or _ed_re.match(lead[m.end():m.end() + 8]):
+                    continue        # author/editor credit for the page's own subject
+                warn(p["path"], f"§4c Tier 2 name in lead paragraph: {m.group(1)!r} — "
+                                f"support citations in a lead must be Tier 1; move to a "
+                                f"'Who promotes it' section or hedge to 'proponents argue'")
     slugs = set(pages)
     registry = load_registry()
 
