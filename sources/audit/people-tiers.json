@@ -1,7 +1,7 @@
 {
  "_note": "Fable's tiering per EDITORIAL §4c (2026-09-19). Tier 2 = origin/proponent only, never support. Tier 3 = own actions/statements only. Names not listed default to Tier 1 only if they are academics/officials; fixers must judge unknown names by the §4c rubric.",
  "tier2": [
-  "Akhil Patel", "Phillip J. Anderson", "Phillip Anderson", "Phil Anderson", "Fred Harrison", "Lars Doucet", "Doucet",
+  "Akhil Patel", "Phillip J. Anderson", "Phillip Anderson", "Phil Anderson", "Fred Harrison (all his own books and essays — Floyd 2026-09-21: Tier 2 stays)", "Lars Doucet", "Doucet",
   "Alanna Hartzok", "Peter Barnes", "Dominic Frisby", "Noah Smith", "Stephen Hoskins", "Michael Wiebe",
   "Vitalik Buterin", "Bryan Kavanagh", "Dave Wetzel", "Steven Cord", "Ted Gwartney", "Greg Miller",
   "Progress and Poverty newsletter", "Progress & Poverty", "Common Wealth Canada", "Henry George Foundation",
@@ -12,7 +12,7 @@
   "Jack Jol", "Tax Policy Associates", "Dan Neidle", "PolicyEngine"
  ],
  "tier1_confirmed": [
-  "Michael Hudson", "Guy Standing", "Fred Foldvary", "Brett Christophers", "Mariana Mazzucato", "Jean Drèze",
+  "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)", "Michael Hudson", "Guy Standing", "Fred Foldvary", "Brett Christophers", "Mariana Mazzucato", "Jean Drèze",
   "Josh Ryan-Collins", "Mason Gaffney", "Nicolaus Tideman", "Wallace Oates", "Robert Schwab", "Florenz Plassmann",
   "Edward Glaeser", "Thomas Piketty", "Gabriel Zucman", "Emmanuel Saez", "Joseph Stiglitz", "William Vickrey",
   "Arthur Pigou", "Alfred Marshall", "David Ricardo", "Adam Smith", "John Stuart Mill", "Henry George",

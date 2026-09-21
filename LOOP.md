@@ -114,7 +114,13 @@ in the role; `glm_draft_worker.py`'s GLM digest machinery is the offline fallbac
    substantive claim; match your language to the evidence's strength; never fabricate — an
    unverified fact gets a flag, not a guess. A new empirical claim means its study gets a
    `research/` page. New pages get wired into the wiki (≥2 inbound links — an unlinked page
-   teaches no one). Every source you used goes on the reading list (`sources/registry.csv`),
+   teaches no one). Two rules added 2026-09-19 after Floyd's irregularity audit: **§4b** —
+   reader-facing prose never narrates how the page was researched (no "this session", tool
+   names, HTTP codes, dated check-stamps, `[VERIFY]`/`[CITE]` markers; grade codes and access
+   notes live in Sources only, impersonally phrased); **§4c** — a name cited *as support* must
+   be Tier 1 (`sources/audit/people-tiers.json`); Tier 2 practitioner-authors and advocacy
+   bodies are cited as origin/proponent with status stated, never in a lead. `lint_wiki.py`
+   now fails on §4b hits; §4c is the T1 editor's read. Every source you used goes on the reading list (`sources/registry.csv`),
    and when its wiki page ships, its row flips to Scanned in the same shift.
    - **People pages:** every creation or backfill starts with an Exa enrichment pass —
      `python3 scripts/exa_enrich.py "<Name>"` (report-only; the editor verifies and cites
@@ -251,6 +257,8 @@ the team Slack channel. The loop agent's responsibility is documented in the pro
 - Never delete an article; never fabricate a citation; quotes ≤50 words with locators;
   free/legal sources only.
 - One task per shift keeps commits reviewable and the preview diff legible.
+- T0 brief and writer prompts name EDITORIAL §4b and §4c explicitly (template in
+  `sources/context-briefs/README.md`).
 
 ---
 

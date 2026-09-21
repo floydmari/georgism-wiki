@@ -160,6 +160,20 @@ SYNTHESIS_CATS = {"Concepts", "Outcomes", "Problems", "Benefits", "Objections", 
 def main():
     strict = "--strict" in sys.argv
     pages = load_all()
+
+    # EDITORIAL §4b: reader-facing prose never narrates the research process and never
+    # carries work-item markers ([VERIFY], [CITE], grade codes in body...). scripts/audit_wiki.py
+    # holds the patterns; every hit is a lint error so the loop's "0 errors" gate covers it.
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import audit_wiki
+        for slug, p in pages.items():
+            if p["path"].startswith(audit_wiki.SKIP_DIRS):
+                continue
+            for h in audit_wiki.scan_file(os.path.join(ROOT, p["path"])):
+                err(p["path"], f"§4b {h['class']} in {h['where']}: {h['match']!r}")
+    except ImportError:
+        warn("scripts/lint_wiki.py", "audit_wiki.py not importable; §4b scan skipped")
     slugs = set(pages)
     registry = load_registry()
 

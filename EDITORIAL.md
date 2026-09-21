@@ -293,8 +293,12 @@ canonical historical figures for their own acts and words.
 **Tier 2 — may be cited as the ORIGIN or a PROPONENT of a term or claim, with status stated;
 never as evidence the claim is right.** Practitioner-authors, investors, advocates,
 journalists, bloggers, movement and think-tank staff, newsletter writers: Akhil Patel, Phillip
-J. Anderson, Fred Harrison in his popular books, Lars Doucet, Common Wealth Canada, Henry George
-Foundation essays, the *Progress and Poverty* newsletter. Write "the practitioner-author Akhil
+J. Anderson, Fred Harrison, Lars Doucet, Common Wealth Canada, Henry George
+Foundation essays, the *Progress and Poverty* newsletter. (Harrison ruling, Floyd 2026-09-21: Tier 2
+for everything under his own name — *Boom Bust*, *Ricardo's Law*, *Power in the Land*, *The Chaos
+Makers*, the 18-year-cycle forecasts; the Gaffney co-authored *The Corruption of Economics* is
+Tier 1 on Gaffney's standing, cited as "Gaffney & Harrison".) The working list is
+`sources/audit/people-tiers.json`; unknown names are judged by this rubric, not assumed Tier 1. Write "the practitioner-author Akhil
 Patel's term for…", not "as Patel shows". Their pages in `people/` and `books/` are the home
 for what they say; other pages link there rather than restate it as corroboration.
 
