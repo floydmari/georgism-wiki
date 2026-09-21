@@ -4977,3 +4977,44 @@ Queue: four scanner items, all rejected under the day-old §4c — two commercia
 re-presenting TPA figures the wiki already has from source, an anonymous trade newsletter,
 and a Springer volume not published until December whose queue title was wrong (it is a
 Global South comparative volume, not East Africa). Ledger: 0 pending, 379 consumed.
+
+## 2026-09-21 — pieds-à-terre, Montana, and a balance-sheet update
+
+Three scanner items, three accepted, two of them as new pages.
+
+New York's pied-à-terre tax now has its own page (`events/nyc-pied-a-terre-tax.md`). The T0
+brief suggested a section on the New York City page; the primary material turned out to be
+better than that — the Department of Finance's programme page gives the thresholds, both rate
+tables and the exemption categories first-hand, the Mayor's Office releases give the $500
+million projection and the officials' own words, and the DOF rule gives the adoption date —
+so it is a standalone event page with a short section and See Also entry on the city page.
+The Mondaq law-firm alert that prompted the item is used, as a B-claim, only for the two-phase
+valuation design, the co-op pass-through and the August injunction dates; Sullivan & Cromwell
+for the statute's location (Tax Law Article 30-C) and 2026–2031 effective period. The
+assessment section says what the levy is (a tax on whole-property value of non-primary homes)
+and what it is not (a land value tax), and points at the condo/co-op valuation defect that
+forced the two-phase design. Comptroller Levine's revenue report returned 403 and is not cited.
+A sentence of unsourced Albany history (the 2014 proposal, the 2019 swap for a transfer tax)
+was cut before commit rather than left on recall.
+
+Montana is a T1 override of T0's "defer". T0 was right that the Department of Revenue's 2026
+schedule is a use-classification structure on whole value and not a split-rate — the page
+says so in its first section — but the enacting bills (HB 231 and SB 542) and a distributional
+reading were obtainable from Greg Gilpin's Montana State University series, and that plus the
+official schedule is enough for a short places page. The Georgist hook is the flat 1.90% ratio
+on second homes, short-term rentals and vacant residential lots from the first dollar against
+0.76% for the first bracket of an occupied home: non-occupancy of land priced, if crudely.
+Linked from speculative-vacancy, British Columbia (SVT analogue), the Gaffney 1977 Montana
+essay and the new NYC page.
+
+The Henry George Foundation's September essay was accepted as an enrichment of the UK page
+under the same test as its August one: the argument is useful and its figures are named to
+Tier-1 sources. Its 2024 ONS land-share figure was checked directly against the ONS 2025
+national balance sheet — £7.1 trillion of non-produced assets against £13.1 trillion net
+worth, about 54% — and that primary figure now sits beside the 2022 three-fifths figure on
+the UK page and in the wealth-share section of `concepts/economic-rent.md`, as an A-claim to
+the ONS rather than to the essay. The IFS Deaton Review wealth-composition figures are carried
+as the essay's own citations (B). The UK excerpt's "roughly three-fifths" became "over half".
+
+Lint 0 errors; inventory 1008 pages, 0 orphans; audit scanner 0 hits on all touched pages.
+Ledger: 0 pending, 382 consumed. Merged to main and Ghost-synced at the end of this entry.

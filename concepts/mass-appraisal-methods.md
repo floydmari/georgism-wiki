@@ -103,6 +103,7 @@ Rather than improving land/building separation techniques, some designs try to a
 
 ## See Also
 
+- [New York City's Pied-à-Terre Tax (2026)](/wiki/nyc-pied-a-terre-tax/) — a levy whose two-phase design exists because the city's statutory condo and co-op valuations sit far below sale prices
 - [PLACES Lab](/wiki/places-lab/) — Boston University research group whose machine-learning land-value maps are a modern, nationwide-scale demonstration of the assessment feasibility this page argues for
 - [McCanless: Constructing Public Rent — Property Tax Appeals and Rentier Capitalism](/wiki/mccanless-property-tax-appeals-rentier/) — a caution that assessment accuracy alone doesn't guarantee equity if the appeals process is itself unequally accessed
 - [Residual Land Valuation](/wiki/residual-land-valuation/) — how developers price land in practice (sales value minus costs), explaining why land absorbs planning gain in full

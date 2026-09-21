@@ -84,6 +84,8 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 
 - [Telangana's CURE Bill (2026)](/wiki/telangana-cure-bill-hyderabad/) — a proposed Hyderabad land-value property tax whose 0.50% vacant-plot rate sits at or above the top of its residential band
 
+- [New York City's Pied-à-Terre Tax (2026)](/wiki/nyc-pied-a-terre-tax/) — a surcharge on high-value homes that are nobody's primary residence, in force since July 2026
+- [Montana](/wiki/montana/) — a 2026 schedule that assesses vacant residential lots and second homes at the top residential ratio from the first dollar
 - [Centre Point](/wiki/centre-point/) — London's landmark case: a 34-storey tower left completely empty for nine years by its developer while waiting for a single high-paying tenant
 - [Ortiz Beleño, Alvayay Torrejón & Paredes: Measuring Land Value Increments — Detroit Auction Program](/wiki/lincoln-detroit-land-value-increments/) — evidence on whether clearing vacant, blighted properties raises neighboring land values
 - [Land underuse and speculative vacancy persist in high-demand cities](/wiki/speculative-vacancy-wastes-cities/) — the measured evidence, by method, with the zoning-vs-speculation split carried honestly

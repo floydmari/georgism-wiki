@@ -179,6 +179,7 @@ quantified natural experiments.
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 - [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — concentrated absentee resource holding as a parallel institutional-failure mode, from that page's own cross-reference
 - [Land Value Tax](/wiki/land-value-tax/) · [Unearned Increment](/wiki/unearned-increment/)
+- [Montana](/wiki/montana/) — the state's 2025–26 property tax reform, a use-classification schedule on a different base from the resource rents discussed here
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 
 ## Sources

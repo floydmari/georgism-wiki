@@ -69,6 +69,7 @@ The Georgist interest is that this is a **rent-capture design failure story in a
 - [Pennsylvania](/wiki/pennsylvania/) — a US split-rate analogue with better-controlled empirical evidence
 - [New South Wales, Australia](/wiki/new-south-wales/) — a longer-running, less-interrupted land tax jurisdiction
 - [Speculative Vacancy](/wiki/speculative-vacancy/) — the behavior BC's modern speculation and vacancy tax targets
+- [New York City's Pied-à-Terre Tax (2026)](/wiki/nyc-pied-a-terre-tax/) · [Montana](/wiki/montana/) — two 2026 US levies on non-primary residences with the same target as the speculation and vacancy tax
 - [Common Wealth Canada](/wiki/common-wealth-canada/) — the organization leading modern LVT-revival advocacy in BC
 - [Mason Gaffney](/wiki/mason-gaffney/) — recruited to a University of Victoria institute during BC's 1970s revival attempt
 - [Canada](/wiki/canada/) — the national-level land-value and economic-rent figures this page's provincial data both extends and, in one case, diverges from
