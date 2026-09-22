@@ -5018,3 +5018,39 @@ as the essay's own citations (B). The UK excerpt's "roughly three-fifths" became
 
 Lint 0 errors; inventory 1008 pages, 0 orphans; audit scanner 0 hits on all touched pages.
 Ledger: 0 pending, 382 consumed. Merged to main and Ghost-synced at the end of this entry.
+
+## 2026-09-22 — a Fed model of rents, two states pulling opposite ways, and the first pass under the new gates
+
+Five scanner items: four accepted, one rejected, one new lead queued. First pass since the
+§4b scanner became a lint error and the §4c lead-paragraph warning went in; both T0 and the
+two writers were briefed from `sources/context-briefs/README.md`. The gates did their job:
+the scanner caught one process-narration line in the Fed page before hand-back, and the T1
+read still found three "this wiki" self-references the patterns do not cover, plus one on
+each of the state pages. Those phrasings ("sourced and framed on this wiki", "the kind of
+corroboration this wiki looks for") are worth adding to the scanner if they recur.
+
+Minneapolis Fed Staff Report 688 (De Loecker, Eeckhout & Mongey) is a new research page: a
+structural general-equilibrium model of 1980–2023 in which reallocation to productive firms
+would have raised output about 15% but markups and overhead more than offset it, for a net
+−6% output and −5% welfare. The page says outright that the paper never mentions land and
+that its relevance is the generalisation of rent, not land evidence; B-claim as a working
+paper. Linked from the Eeckhout person page, the 2020 QJE page, the Profit Paradox page and
+the corporate-profits problem page.
+
+Wyoming and Kentucky are new places pages that make a natural pair. Wyoming's Joint Revenue
+Committee voted 7–6 not to sponsor constitutional repeal of residential property tax, five
+of the six ayes coming from lawmakers who had lost reelection, while a statutory 50%
+homeowner's exemption goes to voters in November — the Secretary of State's ballot text and
+fiscal note were fetched as the Tier 1 primary and the page notes their silence on how the
+new exemption interacts with 2025's 25%. Kentucky is anchored on Constitution §172's
+fair-cash-value clause, links the existing HB 607 event coverage, and carries the Kentucky
+Center for Economic Policy's anti-cap argument as a Tier 2 proponent outside the lead; the
+writer's claim that Proposition 13 had needed no constitutional amendment was corrected.
+
+The Jakarta Loopline value-capture paper (Universitas Galuh engineering journal, n=30 per
+station) was folded into the existing Jakarta LVC governance page as a C-claim counterpart
+rather than given its own page. The Business Day op-ed was rejected as Tier 3 and uncited;
+its one lead, Mushtaq Khan's rents framework, is queued as a Tier 1 source to fetch directly.
+
+Lint 0 errors; inventory 1011 pages, 0 orphans. Ledger: 1 pending (the Khan lead), 387
+consumed. Merged to main and Ghost-synced at the end of this entry.

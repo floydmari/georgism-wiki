@@ -9,7 +9,7 @@ tier: Important
 source_url: https://press.princeton.edu/books/hardcover/9780691214474/the-profit-paradox
 stub: false
 excerpt: "Eeckhout's popular synthesis of his own markups research: rising corporate market power since 1980 has driven up prices and profits while suppressing wages economy-wide, even for workers at firms with no direct market power of their own."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-09-22
 supports_outcomes: [corporate-profits-increasingly-rents]
 ---
 
@@ -219,6 +219,7 @@ in a different domain by a mainstream economist working entirely outside the Geo
 - [Jan Eeckhout](/wiki/jan-eeckhout/)
 
 - [De Loecker, Eeckhout & Unger (2020) — The Rise of Market Power and the Macroeconomic Implications](/wiki/de-loecker-eeckhout-unger-markups/)
+- [De Loecker, Eeckhout & Mongey (2026) — Quantifying Market Power and Business Dynamism in the Macroeconomy](/wiki/de-loecker-eeckhout-mongey-market-power-dynamism/) — a later structural model by Eeckhout and De Loecker (with Simon Mongey) explaining *why* markups rose and finding a net 5% welfare / 6% output loss from the same 1980–2023 trend this book popularizes
 - [Superstar Firms](/wiki/superstar-firms/)
 - [Autor, Dorn, Katz, Patterson & Van Reenen — The Fall of the Labor Share and the Rise of Superstar Firms](/wiki/autor-superstar-firms/)
 - [Economic Rent](/wiki/economic-rent/)

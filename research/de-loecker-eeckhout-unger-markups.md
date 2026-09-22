@@ -7,7 +7,7 @@ category: research
 excerpt: Firm-level evidence that average U.S. markups rose from ~21% above marginal
   cost in 1980 to ~61% by 2016, concentrated in a rising upper tail — a leading account
   of falling labor share and business dynamism, contested on measurement grounds.
-last_reviewed: 2026-07-10
+last_reviewed: 2026-09-22
 source_url: https://doi.org/10.1093/qje/qjz041
 stub: false
 subcategory: wiki-research-lvt
@@ -259,6 +259,7 @@ have roughly tripled since 1980" as settled fact.
 
 ## See Also
 
+- [De Loecker, Eeckhout & Mongey — Quantifying Market Power and Business Dynamism in the Macroeconomy](/wiki/de-loecker-eeckhout-mongey-market-power-dynamism/) — a 2026 structural general-equilibrium follow-up by two of these three authors, estimating *why* markups rose (overhead costs, productivity dispersion, and fewer potential competitors) and finding a net 5% welfare / 6% output loss from the same 1980–2023 period
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/)
