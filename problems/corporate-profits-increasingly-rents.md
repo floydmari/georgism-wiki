@@ -5,7 +5,7 @@ claim_type: problem
 tags: [outcomes, economic-rent, market-power, markups, superstar-firms, contested]
 stub: false
 evidence_strength: "Moderate–strong for the profit rise itself; contested on how much is rent vs. efficiency"
-supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents, mazzucato-mapping-rents, korinek-ng-digital-superstars, hebous-excess-profit-taxes, chiu-jagannathan-valuing-intangibles-rents]
+supported_by: [de-loecker-eeckhout-unger-markups, barkai-declining-shares, power-frerick-excess-returns, akcigit-ates-business-dynamism, philippon-great-reversal, eeckhout-profit-paradox, zingales-political-theory-firm, cea-2016-market-power, furman-orszag-firm-rents, mazzucato-mapping-rents, korinek-ng-digital-superstars, hebous-excess-profit-taxes, chiu-jagannathan-valuing-intangibles-rents, de-loecker-eeckhout-mongey-market-power-dynamism]
 challenged_by: [crouzet-eberly-intangibles, boc-firm-profits-inflation]
 excerpt: "A converging empirical literature finds US corporate profits have risen far beyond competitive returns — markups, pure-profit shares, and firm-level return dispersion all point to growing economic rents, extending the Georgist rent analysis beyond land."
 last_reviewed: 2026-07-13

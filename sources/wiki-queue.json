@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "url": "https://www.minneapolisfed.org/research/staff-reports/quantifying-market-power-and-business-dynamism-in-the-macroeconomy",
-      "title": "Quantifying Market Power and Business Dynamism in the Macroeconomy",
-      "reason": "Fed staff report by the wiki's two core market-power authors (De Loecker & Eeckhout of Rise of Market Power QJE 2020 and The Profit Paradox) with Simon Mongey. General-equilibrium model with firm heterogeneity, oligopoly and endogenous entry, estimated 1980-2023: all three channels (productivity distribution, overhead vs variable cost composition, number of competitors) are needed to explain rising markups and declining dynamism; net welfare effect of the identified technology and market-structure changes is a 5 percent decline, reallocation gains offset by market power and overhead. Natural enrichment for /wiki/de-loecker-eeckhout-unger-markups/.",
-      "context": "Quantifying Market Power and Business Dynamism in the Macroeconomy — Jan De Loecker, Jan Eeckhout, Simon Mongey. Federal Reserve Bank of Minneapolis Staff Report 688, Sep 2026.",
-      "author": "lvt-paper-scanner",
-      "source": "lvt-paper-scanner",
-      "queued_at": "2026-09-22T14:17:49.384337+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://wyofile.com/wyoming-lawmakers-change-course-on-property-tax-reform-amid-signs-of-waning-support/",
-      "title": "Wyoming lawmakers change course on property tax reform amid signs of waning support",
-      "reason": "Statehouse reporting on Wyoming's four-year property-tax revolt reversing: Joint Revenue Committee votes 7-6 against sponsoring constitutional repeal of the residential property tax (five of six aye votes were lawmakers who lost reelection), only 44 percent of eligible homeowners applied for the existing 25 percent exemption, municipalities report service cuts, and voters face a Nov 3 ballot on a 50 percent residential exemption. Wiki has zero Wyoming coverage; the repeal-to-sales-tax shift is the anti-LVT mirror of the wiki's split-rate coverage. Same resolve-to-canonical pattern as the Montana item.",
-      "context": "Wyoming lawmakers change course on property tax reform amid signs of waning support — Maggie Mullen. WyoFile, Sep 2026. Discovered via a Cody Enterprise syndication found in the scan; queued as the canonical WyoFile original.",
-      "author": "lvt-paper-scanner",
-      "source": "lvt-paper-scanner",
-      "queued_at": "2026-09-22T14:17:49.384337+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://kypolicy.org/kentucky-property-tax-reforms/",
-      "title": "Kentucky Can Reform Property Taxes While Protecting Residents, Schools and Other Public Services",
-      "reason": "State policy report against assessment caps and freezes: Kentucky's constitution requires all property be assessed at fair cash value uniformly, which the report argues prevents favoritism and politically driven underassessment; caps would shift taxes away from prospering neighborhoods onto those least able to pay, and ability-to-pay relief (circuit-breakers, payment plans) is the better route. The constitutional uniform-assessment principle is Georgist-adjacent equal assessment. Wiki has zero Kentucky coverage.",
-      "context": "Kentucky Can Reform Property Taxes While Protecting Residents, Schools and Other Public Services — Jason Bailey, Dustin Pugel. Kentucky Center for Economic Policy, Sep 2026.",
-      "author": "lvt-paper-scanner",
-      "source": "lvt-paper-scanner",
-      "queued_at": "2026-09-22T14:17:49.384337+00:00",
-      "reported": false
-    },
-    {
       "url": "https://www.cambridge.org/core/books/rents-rentseeking-and-economic-development/",
       "title": "Rents, Rent-Seeking and Economic Development: Theory and Evidence in Asia (Khan & Jomo eds., 2000) — Khan's framework chapter",
       "reason": "Lead from the rejected Cachalia op-ed (2026-09-22): Mushtaq Khan (SOAS) is an established academic on rents and development with no wiki coverage; his distinction between growth-enhancing and growth-reducing rents bears directly on concepts/rent-seeking.md and concepts/economic-rent.md. Fetch Khan's own chapter (or his 2010 'Political Settlements and the Governance of Growth-Enhancing Institutions', SOAS eprints) rather than the op-ed.",
@@ -4582,9 +4552,51 @@
       "wiki_page": "research/danandjojo-jakarta-lvc-governance.md",
       "triage_date": "2026-09-22",
       "notes": "T1 took T0's second option: folded as a quantified counterpart section into the existing Jakarta LVC governance page rather than a standalone research page — venue is a general engineering-technology journal with per-station samples at n=30, so C-claim with status stated. Figures (Rp 514.4bn earmark vs Rp 2.459tn first-year PSO, 25.13%; 26.98% concession average; 0.3% rate under Pergub 77/2014) read from the Indonesian body text."
+    },
+    {
+      "url": "https://www.minneapolisfed.org/research/staff-reports/quantifying-market-power-and-business-dynamism-in-the-macroeconomy",
+      "title": "Quantifying Market Power and Business Dynamism in the Macroeconomy",
+      "reason": "Fed staff report by the wiki's two core market-power authors (De Loecker & Eeckhout of Rise of Market Power QJE 2020 and The Profit Paradox) with Simon Mongey. General-equilibrium model with firm heterogeneity, oligopoly and endogenous entry, estimated 1980-2023: all three channels (productivity distribution, overhead vs variable cost composition, number of competitors) are needed to explain rising markups and declining dynamism; net welfare effect of the identified technology and market-structure changes is a 5 percent decline, reallocation gains offset by market power and overhead. Natural enrichment for /wiki/de-loecker-eeckhout-unger-markups/.",
+      "context": "Quantifying Market Power and Business Dynamism in the Macroeconomy — Jan De Loecker, Jan Eeckhout, Simon Mongey. Federal Reserve Bank of Minneapolis Staff Report 688, Sep 2026.",
+      "author": "lvt-paper-scanner",
+      "source": "lvt-paper-scanner",
+      "queued_at": "2026-09-22T14:17:49.384337+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/de-loecker-eeckhout-mongey-market-power-dynamism.md",
+      "triage_date": "2026-09-22",
+      "notes": "T1 concurs with T0 (new research page). Tier 1 authors, Fed staff report; B-claim as an unrefereed working paper. Page states plainly that the paper never mentions land and frames relevance as the generalisation of rent. Linked from people/jan-eeckhout, the 2020 QJE page, eeckhout-profit-paradox and the corporate-profits-increasingly-rents problem page. T1 corrections: three wiki self-references removed."
+    },
+    {
+      "url": "https://wyofile.com/wyoming-lawmakers-change-course-on-property-tax-reform-amid-signs-of-waning-support/",
+      "title": "Wyoming lawmakers change course on property tax reform amid signs of waning support",
+      "reason": "Statehouse reporting on Wyoming's four-year property-tax revolt reversing: Joint Revenue Committee votes 7-6 against sponsoring constitutional repeal of the residential property tax (five of six aye votes were lawmakers who lost reelection), only 44 percent of eligible homeowners applied for the existing 25 percent exemption, municipalities report service cuts, and voters face a Nov 3 ballot on a 50 percent residential exemption. Wiki has zero Wyoming coverage; the repeal-to-sales-tax shift is the anti-LVT mirror of the wiki's split-rate coverage. Same resolve-to-canonical pattern as the Montana item.",
+      "context": "Wyoming lawmakers change course on property tax reform amid signs of waning support — Maggie Mullen. WyoFile, Sep 2026. Discovered via a Cody Enterprise syndication found in the scan; queued as the canonical WyoFile original.",
+      "author": "lvt-paper-scanner",
+      "source": "lvt-paper-scanner",
+      "queued_at": "2026-09-22T14:17:49.384337+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "places/wyoming.md",
+      "triage_date": "2026-09-22",
+      "notes": "T1 concurs with T0 (new places page). WyoFile used for votes, figures and quotes only (B); Secretary of State ballot text and fiscal note fetched as the Tier 1 primary for the November initiative, which is statutory (W.S. 39-11-105(a)(xliii)), not constitutional. Page states the ballot text's silence on stacking with the 2025 25% exemption. T1 corrections: reported speech de-quoted, wiki self-references removed."
+    },
+    {
+      "url": "https://kypolicy.org/kentucky-property-tax-reforms/",
+      "title": "Kentucky Can Reform Property Taxes While Protecting Residents, Schools and Other Public Services",
+      "reason": "State policy report against assessment caps and freezes: Kentucky's constitution requires all property be assessed at fair cash value uniformly, which the report argues prevents favoritism and politically driven underassessment; caps would shift taxes away from prospering neighborhoods onto those least able to pay, and ability-to-pay relief (circuit-breakers, payment plans) is the better route. The constitutional uniform-assessment principle is Georgist-adjacent equal assessment. Wiki has zero Kentucky coverage.",
+      "context": "Kentucky Can Reform Property Taxes While Protecting Residents, Schools and Other Public Services — Jason Bailey, Dustin Pugel. Kentucky Center for Economic Policy, Sep 2026.",
+      "author": "lvt-paper-scanner",
+      "source": "lvt-paper-scanner",
+      "queued_at": "2026-09-22T14:17:49.384337+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "places/kentucky.md",
+      "triage_date": "2026-09-22",
+      "notes": "T1 concurs with T0 (new places page). KCEP as Tier 2 proponent, out of the lead; Constitution §172 verified at apps.legislature.ky.gov as the Tier 1 anchor; HB 607 material linked to the existing event page. T1 corrections: removed a think-tank characterisation from the lead, fixed a wrong claim that Proposition 13 needed no constitutional amendment, source URL and date normalised."
     }
   ],
-  "last_updated": "2026-09-22T19:21:31.894340+00:00",
+  "last_updated": "2026-09-22T19:28:29.468028+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 388
 }

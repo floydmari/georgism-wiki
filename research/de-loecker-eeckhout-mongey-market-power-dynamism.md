@@ -41,8 +41,7 @@ new paper is a different kind of exercise, not a restatement of that one: it bui
 model** of oligopolistic competition with heterogeneous firms and endogenous entry, and structurally
 estimates it year by year on U.S. data from 1980 to 2023, in order to ask **why** markups rose and what
 that rise did to welfare. Because the paper is a Federal Reserve staff report — a working paper carrying
-the authors' own methodological rigor but not yet through journal peer review — its results are sourced
-and framed on this wiki as strong but provisional evidence, not a settled finding.
+the authors' own methodological rigor but not yet through journal peer review — its results should be read as strong but provisional evidence, not a settled finding.
 
 ## The Core Argument and Findings
 
@@ -111,19 +110,17 @@ sales-weighted markup series (Abstract; Section 8).
 ## Relation to the Georgist Case
 
 Like the companion [De Loecker, Eeckhout & Unger (2020)](/wiki/de-loecker-eeckhout-unger-markups/)
-paper, this staff report matters to the Georgist case **without being about land at all**. A full-text check of
-the paper's 70 pages, including the online appendix, finds **zero occurrences of the word "land" and zero
-occurrences of "rent-seeking"** — the paper is entirely silent on real estate, location, or land rent as a
+paper, this staff report matters to the Georgist case **without being about land at all**. Nowhere in its 70 pages, appendix
+included, does the paper mention land, real estate, location or rent-seeking; it is entirely silent on real estate, location, or land rent as a
 source of the market power or entry barriers it models. Rather than land-specific evidence, its relevance
-here is as a further instance of the **generalization of economic rent** beyond land that this wiki's
-existing Eeckhout pages already make: a persistent gap between price and cost, captured by firms holding
+here is as a further instance of the **generalization of economic rent** beyond land that runs through
+[Jan Eeckhout](/wiki/jan-eeckhout/)'s other work: a persistent gap between price and cost, captured by firms holding
 a scarce, non-produced advantage — here, market position rather than a parcel of land. The paper's own
 authors use exactly that language for their result: in the conclusion, they write that welfare gains from
 reallocating output to more productive firms are "more than offset by these firms' use of their dominance
 to **extract rents from customers**" (Section 9, p. 39). That the paper's own authors — mainstream
 industrial-organization and macro economists writing for a Federal Reserve audience, with no Georgist
-framing — independently reach for the word "rent" to describe the wedge their model isolates is exactly
-the kind of non-Georgist corroboration this wiki looks for; it should not be overclaimed as evidence for
+framing — independently reach for the word "rent" to describe the wedge their model isolates is corroboration from outside the Georgist literature; it should not be overclaimed as evidence for
 land rent specifically, which the paper never addresses.
 
 Beyond that parallel, the paper adds something the reduced-form 2020 QJE paper could not supply: a
