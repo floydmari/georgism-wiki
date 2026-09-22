@@ -68,6 +68,10 @@ ULBs) or Australia's crediting-incentive story (the MRRT) — a genuinely differ
 implementation can fail, worth keeping distinct in the wiki's growing catalogue of
 "good instrument design, still doesn't work in practice" cases.
 
+## A Quantified Counterpart: the New Jakarta Loopline
+
+A 2026 engineering-journal study by Fery Safaria and Carunia Mulya Firdausy of Universitas Tarumanagara puts numbers on the same question for a different Jakarta project, the planned New Jakarta Loopline rail. Using assessed land values (NJOP) for 630 parcels around 21 stations and a hedonic land-price model, the authors simulate the uplift from station-area development and ask how much of the line's fare subsidy (its Public Service Obligation) a tax-increment earmark could cover. At the 0.3% land-and-building tax rate set by a 2014 Jakarta gubernatorial regulation, the earmark comes to about Rp 514 billion against a first-year subsidy need of about Rp 2.46 trillion, or 25%, and averages about 27% over the concession period as ridership and assessed values grow. The paper's own conclusion is that a tax-increment earmark cannot carry the subsidy alone and other financing streams are needed.[2] The venue is a general technology journal rather than an economics or planning outlet, and several of the per-station regressions rest on samples at the statistical minimum of 30, so the figures are best read as an order-of-magnitude illustration: even with the whole increment earmarked, Jakarta's statutory 0.3% rate captures only a quarter of what one rail line's operating subsidy requires, which is the fiscal side of the governance problem the Groningen study describes.
+
 ## Nuances and Limits
 
 - **Qualitative case study, single city.** The paper's method is interviews and document
@@ -103,3 +107,4 @@ implementation can fail, worth keeping distinct in the wiki's growing catalogue 
    layered-rights/fragmented-coordination argument, the instrument-to-rights-holder
    mapping contribution, and the three practical recommendations. Scan depth: abstract
    only (B-claim); the full paper was not consulted.
+2. Fery Safaria & Carunia Mulya Firdausy (2026), "The Contribution of Value Capture from Tax Increment Financing to the Value of Public Service Obligations," *Jurnal Media Teknologi* 13(1), September 2026, pp. 54–64 (Universitas Galuh; English abstract, Indonesian body). [ojs.unigal.ac.id](https://ojs.unigal.ac.id/index.php/jmt/article/view/6225) — used for the New Jakarta Loopline study design (21 stations, 630 parcels, NJOP data, hedonic model), the 0.3% rate under Jakarta Gubernatorial Regulation 77/2014, the Rp 514.4 billion earmark against a Rp 2.459 trillion first-year subsidy (25.13%), the 26.98% concession-period average, and the authors' conclusion that the earmark alone is insufficient (C-claim; a general engineering-technology journal outside the economics and planning literature, with small per-station samples; figures read from the Indonesian text).
