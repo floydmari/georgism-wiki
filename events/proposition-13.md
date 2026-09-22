@@ -66,6 +66,7 @@ Proposition 13 helped touch off a wider tax-limitation wave; the best-known para
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Split-rate taxation increases construction](/wiki/split-rate-increases-construction/) — the benefit claim the Azevedo brief's Harrisburg/Pennsylvania evidence and Maxwell School estimate feed into
+- [Wyoming](/wiki/wyoming/) — a 2026 property-tax repeal and exemption push carrying similar homeowner-revolt dynamics
 
 ## Sources
 

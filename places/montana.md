@@ -54,6 +54,7 @@ Gilpin also notes a pending lawsuit in Butte-Silver Bow County arguing that the 
 - [Pennsylvania](/wiki/pennsylvania/) — the US split-rate systems Montana's classification schedule is not
 - [Gaffney (1977): Counter-colonial Land Policy for Montana](/wiki/gaffney-montana-land-policy/) — the wiki's earlier Montana material, on resource rents
 - [Land Value Tax](/wiki/land-value-tax/) — the policy the classification schedule approaches only in its treatment of vacant lots
+- [Wyoming](/wiki/wyoming/) — a neighboring state that in the same period pursued repeal and exemption of residential property tax rather than Montana's reclassification approach
 
 ## Sources
 

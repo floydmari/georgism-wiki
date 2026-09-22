@@ -25,7 +25,9 @@ The clearest US concentration of land value taxation is in **[Pennsylvania](/wik
 
 ## 2026: A Wave of State Enablement Legislation
 
-2026 brought the country's most active year yet for *state-level* land value tax enablement, though still no enacted LVT anywhere in the country. **New York, Virginia, and Kentucky** each passed or renewed state legislation letting specific local governments adopt land-value-based taxation — see **[The 2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/)** for the details (and the important caveat that enablement is not enactment). **[Washington State](/wiki/washington-state/)** saw a parallel but earlier-stage push the same year: a legal-feasibility analysis for working around its constitutional uniformity clause, a Spokane City Council member's parcel study, and Seattle Mayor Katie Wilson's stated intent to pursue a land value tax — none of which had produced even enabling legislation by mid-2026.
+2026 brought the country's most active year yet for *state-level* land value tax enablement, though still no enacted LVT anywhere in the country. **New York, Virginia, and [Kentucky](/wiki/kentucky/)** each passed or renewed state legislation letting specific local governments adopt land-value-based taxation — see **[The 2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/)** for the details (and the important caveat that enablement is not enactment); Kentucky's own page covers how that enabling law sits alongside a same-year assessment-cap debate under its constitution's fair-cash-value clause. **[Washington State](/wiki/washington-state/)** saw a parallel but earlier-stage push the same year: a legal-feasibility analysis for working around its constitutional uniformity clause, a Spokane City Council member's parcel study, and Seattle Mayor Katie Wilson's stated intent to pursue a land value tax — none of which had produced even enabling legislation by mid-2026.
+
+**[Wyoming](/wiki/wyoming/)** ran the counter-movement the same year: rather than enabling land-value-based taxation, its legislature and a citizen ballot initiative pursued further exemptions from, and a nearly-successful repeal of, the existing residential property tax altogether, backfilled with sales tax — the opposite direction from every state above.
 
 ## Missouri: A Free-Market Think Tank's Case for LVT
 
@@ -45,6 +47,8 @@ The US case is a patchwork, not a program: Pennsylvania's split-rate cities are 
 - [Henry George](/wiki/henry-george/) · [1886 NYC Mayoral Election](/wiki/1886-nyc-mayoral-election/)
 - [Progressive Era Georgism](/wiki/progressive-era-georgism/) — the movement's historical high-water mark in US politics
 - [The 2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/) · [Washington State](/wiki/washington-state/) — the country's most active recent burst of state-level LVT enablement activity
+- [Kentucky](/wiki/kentucky/) — the enablement wave's Louisville case, alongside its own 2026 assessment-cap debate
+- [Wyoming](/wiki/wyoming/) — the same year's countervailing property-tax repeal and exemption push
 
 ## Sources
 
