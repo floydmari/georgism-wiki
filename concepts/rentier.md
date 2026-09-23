@@ -110,6 +110,24 @@ of the classical prediction, covered elsewhere on this wiki at [stationary
 state](/wiki/stationary-state/), that rent absorbs the surplus of economic growth unless
 something actively prevents it.[20]
 
+### Bartilow: Rentier Income as the Channel from Finance to Democratic Decline
+
+The political scientist **Horace Bartilow** of American University's School of
+International Service, writing in *The Social Science Journal* (2026), takes the rentier
+question into comparative politics. Using a panel of 191 countries over 2000–2017 and
+mediation structural-equation modelling, he reports that financialization raises "the
+rentier class's share of national income (the top 1 and 10 percentiles)" and that its
+negative effect on liberal democracy is fully mediated through that rise in rentier income,
+with a sensitivity analysis indicating the result is robust to an unobserved confounder.[21]
+Two limits matter for how the finding sits on this page. The "rentier class" is measured by
+top income shares, a proxy in the Piketty tradition rather than a sectoral or asset-based
+decomposition of rent, so the paper says nothing directly about land or property rent; and
+the article's body was not available for review, so the financialization and democracy
+indices, the coefficients and the controls behind the abstract's claims remain to be
+examined.[21] What it adds is a quantitative, cross-national version of the political
+argument that runs from George's warning about monopoly through Standing and Christophers:
+that rent extraction is corrosive of self-government, not only of growth.
+
 ## The Contested Boundary of "Rent"
 
 The extension of the rentier concept beyond land to finance, intellectual property, and digital platforms is analytically coherent but empirically thinner than the land-specific case. As the wiki's [rentier economy narrative](/wiki/the-rentier-economy/) notes, there is no Rognlie-style decomposition showing that platform profit margins are predominantly network rent rather than genuine returns to scale, quality, or risk.[11]
@@ -174,3 +192,4 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
     "neo-liberal trap" quotations and the emerging-Asia contrast (§"Palma" above) (A-claim
     for the abstract; full text not read).
     [doi.org](https://doi.org/10.1080/09538259.2025.2533856)
+21. Horace A. Bartilow (2026), "Financialization and the global decline of liberal democracy: The mediating effects of rentier capitalism," *The Social Science Journal*, published online 12 September 2026, pp. 1–22. [doi.org](https://doi.org/10.1080/03623319.2026.2727907) — used for the 191-country 2000–2017 panel, the mediation SEM design, the top-1%/top-10% income-share operationalisation of the rentier class, the full-mediation finding and the confounder sensitivity check (A-claim for the abstract's own sentences; peer-reviewed article, abstract and metadata only, article body paywalled and not read; the author's standing verified from his published CV).

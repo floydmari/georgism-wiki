@@ -24,6 +24,7 @@ Christophers's taxonomy extends the classical land-rent analysis that anchors Ge
 - [Mapping Modern Economic Rents](/wiki/mazzucato-mapping-rents/) — a companion academic framework covering land, finance, and platform rents
 - [Narrative: The Rentier Economy](/wiki/the-rentier-economy/) — the wiki's assessment of how far the rentier critique extends beyond land
 - [IP Rents](/wiki/ip-rents/) · [Resource Rents](/wiki/resource-rents/) — two of the rent categories Christophers surveys
+- [Rentier](/wiki/rentier/) — Bartilow's 2026 cross-national study linking financialization to democratic decline through rising rentier income shares, a political-science counterpart to Christophers's economic argument
 - [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — a concrete UK case study of landlords extracting "scarcity rents," in the same vein as Christophers's land chapter
 
 ## Sources
