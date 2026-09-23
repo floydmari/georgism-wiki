@@ -1,27 +1,10 @@
 {
   "queue": [
     {
-      "url": "https://archive.is/o/giIge/https://www.theaustralian.com.au/author/adam-creighton",
+      "url": "https://archive.is/20260922120132/https://www.theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/d0ac6ffd9a61bb8144e4e4ae3765c4d0",
+      "title": "Revive land tax, 'the most unsuccessful great idea' in history",
       "source": "social-media-production",
-      "reason": "unknown domain with keyword (land tax)",
-      "context": "The Australian - Revive land tax, \u2018the most unsuccessful great idea\u2019 in history (<https://archive.is/o/giIge/https://www.theaustralian.com.au/author/adam-creighton|Adam Creighton>) (September 21, 2026)\n\n<https://www.theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/d0ac6ffd9a61bb8144e4e4ae3765c4d0|theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/\u2026>\n<https://archive.is/20260922120132/https:/",
-      "author": "UKTJP503G",
-      "queued_at": "2026-09-23T13:01:12.643290+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/d0ac6ffd9a61bb8144e4e4ae3765c4d0",
-      "source": "social-media-production",
-      "reason": "unknown domain with keyword (land tax)",
-      "context": "The Australian - Revive land tax, \u2018the most unsuccessful great idea\u2019 in history (<https://archive.is/o/giIge/https://www.theaustralian.com.au/author/adam-creighton|Adam Creighton>) (September 21, 2026)\n\n<https://www.theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/d0ac6ffd9a61bb8144e4e4ae3765c4d0|theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/\u2026>\n<https://archive.is/20260922120132/https:/",
-      "author": "UKTJP503G",
-      "queued_at": "2026-09-23T13:01:12.643377+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://archive.is/20260922120132/https://www.theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/d0ac6ffd9a61bb8144e4e4ae3765c4d0#selection-1963.0-1963.18",
-      "source": "social-media-production",
-      "reason": "unknown domain with keyword (land tax)",
+      "reason": "land tax commentary in The Australian (archive copy, paywall bypass)",
       "context": "The Australian - Revive land tax, \u2018the most unsuccessful great idea\u2019 in history (<https://archive.is/o/giIge/https://www.theaustralian.com.au/author/adam-creighton|Adam Creighton>) (September 21, 2026)\n\n<https://www.theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/d0ac6ffd9a61bb8144e4e4ae3765c4d0|theaustralian.com.au/commentary/revive-land-tax-the-most-unsuccessful-great-idea-in-history/news-story/\u2026>\n<https://archive.is/20260922120132/https:/",
       "author": "UKTJP503G",
       "queued_at": "2026-09-23T13:01:12.643406+00:00",
@@ -4655,7 +4638,7 @@
       "notes": "T1 concurs with T0 (new research page). Tier 1 IMF authors; cited as a working paper (B-claim) \u2014 the possible IMF Economic Review version is noted as forthcoming on the author's page only, not claimed as published. Key results with page numbers: cash-flow tax keeps METR=0 at statutory rates \u226515% under Pillar Two; ACE triggers top-up at any rate; at 25% statutory, METR 0.0% cash-flow / 0.4% refundable ACE / 13.8% non-refundable ACE. Enrichments on cash-flow-tax and allowance-for-corporate-equity; See Also on both Hebous research pages. T1 corrections: two wiki self-references reworded."
     }
   ],
-  "last_updated": "2026-09-23T13:01:53Z",
+  "last_updated": "2026-09-23T13:06:01Z",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 3
+  "total": 1
 }
