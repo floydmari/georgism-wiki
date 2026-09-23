@@ -111,6 +111,16 @@ returns ex post inevitably reaches some [quasi-rents](/wiki/quasi-rent/) unless
 loss treatment is symmetric — the rent-gradient caveat applies to the frontier
 domains this instrument is proposed for, not to its resource-sector record.
 
+**The global minimum tax treats it more kindly than the ACE.** Under the OECD/G20
+"Pillar Two" 15% minimum tax, [Hebous & Mengistu (2024)](/wiki/hebous-mengistu-rent-taxation-global-minimum-tax/)
+show that immediate expensing is classified as a "temporary timing measure" that
+leaves the minimum tax's own effective-rate calculation unchanged — so, unlike the
+ACE's notional deduction, expensing "per se does not trigger a top-up tax." The
+practical result: a country pairing an R-based cash-flow tax with a statutory
+corporate rate of at least 15% keeps a zero marginal effective tax rate on every
+investment even inside the Pillar Two regime, while an ACE keeps generating a
+positive top-up tax at statutory rates well above 15%.[13]
+
 ## See Also
 
 
@@ -170,3 +180,8 @@ page-level verification for it remains outstanding.)*
     Implications of Destination-Based Cash-Flow Taxation," *IMF Economic Review*
     68(4) — used for the revenue-volatility and redistribution findings.
     [Springer](https://link.springer.com/article/10.1057/s41308-020-00122-4)
+13. Shafik Hebous & Andualem Mengistu (2024), "Efficient Economic Rent Taxation
+    under a Global Minimum Corporate Tax," Oxford CBT WP 24/10 / IMF WP 2024/057
+    — used for the Pillar Two/cash-flow-tax interaction (working paper, Tier 1
+    IMF authorship; not yet peer-reviewed). [Wiki summary](/wiki/hebous-mengistu-rent-taxation-global-minimum-tax/) ·
+    [PDF](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp2410-hebous-shafik.pdf)

@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp2410-hebous-shafik.pdf",
-      "title": "Efficient Economic Rent Taxation under a Global Minimum Corporate Tax",
-      "reason": "IMF working paper by Hebous (registry author, three wiki-cited papers: ACE systems, cash-flow taxation, excess profit taxes) and Mengistu. Shows the global minimum tax (Pillar 2) disturbs the equivalence between the two efficient economic rent taxes - cash-flow tax and allowance for corporate equity - because rent deductions become worthless below the minimum-tax floor, and derives which rent-tax designs remain efficient under it. Direct enrichment for /wiki/cash-flow-tax/ and /wiki/hebous-excess-profit-taxes/; bridges the rent-taxation and international-tax coverage.",
-      "context": "Efficient Economic Rent Taxation under a Global Minimum Corporate Tax - Shafik Hebous (IMF / Said Business School) and Andualem Mengistu (IMF). Oxford University Centre for Business Taxation Working Paper WP 24/10, 6 Aug 2024; also IMF Working Paper (DOI 10.5089/9798400271014.001; SSRN DOI 10.2139/ssrn.4868726). Scan returned the bare Oxford CBT link; authors verified from the PDF itself and DOIs resolved via Crossref. PDF is directly fetchable at this URL.",
-      "author": "lvt-paper-scanner",
-      "source": "lvt-paper-scanner",
-      "queued_at": "2026-09-23T11:09:45.128111+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4622,9 +4611,23 @@
       "wiki_page": "concepts/rentier.md",
       "triage_date": "2026-09-23",
       "notes": "T1 concurs with T0's enrich-only verdict. Abstract and metadata only (T&F bot-walled; the synapsesocial mirror is an AI summary; no preprint). Added as a subsection on concepts/rentier.md following the page's abstract-only precedent (Kapoor, Smith & Wood, Palma), with the top-income-share proxy and the unread body stated as limits, plus a See Also on christophers-rentier-capitalism. No research page: the paper measures no land or property rent and there is no democracy problem page to wire it into."
+    },
+    {
+      "url": "https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp2410-hebous-shafik.pdf",
+      "title": "Efficient Economic Rent Taxation under a Global Minimum Corporate Tax",
+      "reason": "IMF working paper by Hebous (registry author, three wiki-cited papers: ACE systems, cash-flow taxation, excess profit taxes) and Mengistu. Shows the global minimum tax (Pillar 2) disturbs the equivalence between the two efficient economic rent taxes - cash-flow tax and allowance for corporate equity - because rent deductions become worthless below the minimum-tax floor, and derives which rent-tax designs remain efficient under it. Direct enrichment for /wiki/cash-flow-tax/ and /wiki/hebous-excess-profit-taxes/; bridges the rent-taxation and international-tax coverage.",
+      "context": "Efficient Economic Rent Taxation under a Global Minimum Corporate Tax - Shafik Hebous (IMF / Said Business School) and Andualem Mengistu (IMF). Oxford University Centre for Business Taxation Working Paper WP 24/10, 6 Aug 2024; also IMF Working Paper (DOI 10.5089/9798400271014.001; SSRN DOI 10.2139/ssrn.4868726). Scan returned the bare Oxford CBT link; authors verified from the PDF itself and DOIs resolved via Crossref. PDF is directly fetchable at this URL.",
+      "author": "lvt-paper-scanner",
+      "source": "lvt-paper-scanner",
+      "queued_at": "2026-09-23T11:09:45.128111+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/hebous-mengistu-rent-taxation-global-minimum-tax.md",
+      "triage_date": "2026-09-23",
+      "notes": "T1 concurs with T0 (new research page). Tier 1 IMF authors; cited as a working paper (B-claim) — the possible IMF Economic Review version is noted as forthcoming on the author's page only, not claimed as published. Key results with page numbers: cash-flow tax keeps METR=0 at statutory rates ≥15% under Pillar Two; ACE triggers top-up at any rate; at 25% statutory, METR 0.0% cash-flow / 0.4% refundable ACE / 13.8% non-refundable ACE. Enrichments on cash-flow-tax and allowance-for-corporate-equity; See Also on both Hebous research pages. T1 corrections: two wiki self-references reworded."
     }
   ],
-  "last_updated": "2026-09-23T11:20:58.061092+00:00",
+  "last_updated": "2026-09-23T11:26:22.972394+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 390
 }

@@ -76,6 +76,7 @@ the [ACE page](/wiki/allowance-for-corporate-equity/).
 - [Cash-Flow Tax](/wiki/cash-flow-tax/) — the destination-based fix this finding motivates
 - [Branzoli & Caiumi (2020)](/wiki/branzoli-caiumi-italy-ace/) — the incremental-design evidence
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)
+- [Hebous & Mengistu (2024)](/wiki/hebous-mengistu-rent-taxation-global-minimum-tax/) — a further reason an ACE can underperform a cash-flow tax: under the global minimum tax, the ACE keeps triggering top-up tax at statutory rates well above 15%, while cash-flow taxation does not
 
 ## Sources
 

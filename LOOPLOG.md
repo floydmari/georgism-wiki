@@ -5072,3 +5072,28 @@ rents weakening the incentive to build a productive sector. Khan added to the Ti
 The 2000 chapters are filed in BACKLOG as SOURCE-BLOCKED rather than re-queued.
 
 Lint 0 errors; ledger 0 pending, 388 consumed. Merged to main and Ghost-synced.
+
+## 2026-09-23 (evening) — Pillar Two meets the rent tax, and a paywalled democracy paper
+
+Two scanner items, both accepted. Hebous & Mengistu's Oxford CBT / IMF working paper on
+efficient rent taxation under the global minimum tax is a new research page: Pillar Two
+treats immediate expensing as a timing difference but treats the ACE's notional deduction
+as lowering the effective rate, so a cash-flow tax keeps the marginal effective rate at
+zero at any statutory rate of 15% or more while an ACE draws a top-up at every rate (at 25%
+statutory: 0.0% cash-flow, 0.4% refundable ACE, 13.8% non-refundable ACE). The page says
+outright that the subject is corporate rent, not land rent, and that the interest is the
+same exempt-the-normal-return logic being undone by an unrelated piece of tax architecture.
+Cited as a working paper; the author's page lists a retitled journal version as forthcoming,
+which is noted but not claimed as published. Enrichments on the cash-flow-tax and
+allowance-for-corporate-equity concept pages, See Also on both Hebous research pages.
+
+Bartilow's Social Science Journal article (financialization → rentier income share →
+democratic decline, 191 countries, 2000–2017) was reachable only as an abstract — Taylor &
+Francis bot-walled, the queue's mirror an AI summary, no preprint. It went onto the rentier
+concept page as a subsection under the page's own abstract-only precedent, with the
+top-income-share proxy and the unread body stated as limits, rather than as a research page:
+it measures no land or property rent and there is no democracy problem page to wire into.
+
+T1 corrections this pass: two more "the wiki's"/"for the wiki" self-references in the
+writer's draft, the same class as yesterday's. Lint 0 errors; inventory 1012 pages, 0
+orphans. Ledger: 0 pending, 390 consumed. Merged to main and Ghost-synced.

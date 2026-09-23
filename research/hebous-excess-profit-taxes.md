@@ -69,6 +69,7 @@ This paper is the clearest explicit **rent-gradient design lesson** among the wi
 - [Objection: Taxing Quasi-Rents Kills Innovation](/wiki/taxing-quasi-rents-kills-innovation/)
 - [Corporate profits increasingly reflect economic rents](/wiki/corporate-profits-increasingly-rents/)
 - [Economic Rent](/wiki/economic-rent/)
+- [Hebous & Mengistu (2024)](/wiki/hebous-mengistu-rent-taxation-global-minimum-tax/) — a companion Hebous-authored IMF analysis of rent-tax design, showing the global minimum tax (rather than profit shifting) is a second constraint on an ACC/ACE-style rent tax
 
 ## Sources
 

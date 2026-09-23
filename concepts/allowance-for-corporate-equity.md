@@ -100,6 +100,23 @@ an honestly mixed one:
   line — a transitional-gains-trap-adjacent fragility that Geoist instruments
   in every domain share.
 
+## The Global Minimum Tax Hits It Harder Than a Cash-Flow Tax
+
+The OECD/G20 "Pillar Two" 15% global minimum tax treats the ACE more harshly than
+its rent-tax counterpart, the [cash-flow tax](/wiki/cash-flow-tax/).
+[Hebous & Mengistu (2024)](/wiki/hebous-mengistu-rent-taxation-global-minimum-tax/)
+show that because the ACE's notional deduction is added back into the minimum
+tax's own profit base, it "can prompt a top-up tax" on its own, lowering the
+Pillar Two effective rate and raising the top-up base — whereas an R-based
+cash-flow tax's immediate expensing is classified as a mere timing difference that
+leaves the minimum-tax calculation unchanged. A cash-flow tax stops triggering the
+top-up tax once the statutory rate reaches exactly 15%; the ACE keeps triggering it
+at statutory rates well above 15% — in the paper's own numerical illustration, a
+25% statutory rate still leaves the ACE's marginal effective tax rate at 13.8%
+(non-refundable) or 0.4% (refundable), against 0.0% for the cash-flow tax.[14] The
+minimum tax thus reopens, for a different reason, the same equivalence the
+Hebous–Ruf "double dip" finding above already complicates for the ACE specifically.
+
 ## Incidence — the Claim and Its Limit
 
 US Treasury's own distributional methodology treats the supernormal-return
@@ -191,3 +208,9 @@ report.)*
     archived copy linked below).
     [IMF](https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf) ·
     [Internet Archive snapshot](http://web.archive.org/web/20260124074910/https://www.imf.org/-/media/files/publications/cr/2017/cr1770.pdf)
+14. Shafik Hebous & Andualem Mengistu (2024), "Efficient Economic Rent Taxation
+    under a Global Minimum Corporate Tax," Oxford CBT WP 24/10 / IMF WP 2024/057
+    — used for the Pillar Two/ACE interaction and the 13.8%/0.4%/0.0% METR
+    illustration (working paper, Tier 1 IMF authorship; not yet peer-reviewed).
+    [Wiki summary](/wiki/hebous-mengistu-rent-taxation-global-minimum-tax/) ·
+    [PDF](https://oxfordtax.sbs.ox.ac.uk/sitefiles/wp2410-hebous-shafik.pdf)
