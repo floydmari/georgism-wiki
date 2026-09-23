@@ -5054,3 +5054,21 @@ its one lead, Mushtaq Khan's rents framework, is queued as a Tier 1 source to fe
 
 Lint 0 errors; inventory 1011 pages, 0 orphans. Ledger: 1 pending (the Khan lead), 387
 consumed. Merged to main and Ghost-synced at the end of this entry.
+
+## 2026-09-23 — Khan on rents, and a source the proxy would not give up
+
+One item, the Mushtaq Khan lead queued from yesterday's rejected op-ed. T0 could not reach
+Khan's 2000 framework chapters by any route — eprints.soas.ac.uk is blocked at the session
+proxy, and every mirror answered with a bot challenge — but did read his 2010 SOAS paper on
+political settlements in full from an author-posted copy. That paper never mentions land rent,
+so T0's "new research page" verdict was narrowed: a standalone page would have overstated
+the paper's bearing on the wiki. Instead `concepts/rent-seeking.md` gains a Tier 1
+qualification section — Khan's argument that some rents are damaging, some stabilising and
+some productive, with the Korea/South Asia contrast and his "not necessarily damaging"
+conclusion, quotes verified verbatim against the saved text — and a paragraph explaining why
+the qualification does not reach land rent, which carries no learning or investment
+condition. `concepts/resource-rents.md` gets his Tanzania sentence on aid and resource
+rents weakening the incentive to build a productive sector. Khan added to the Tier 1 list.
+The 2000 chapters are filed in BACKLOG as SOURCE-BLOCKED rather than re-queued.
+
+Lint 0 errors; ledger 0 pending, 388 consumed. Merged to main and Ghost-synced.

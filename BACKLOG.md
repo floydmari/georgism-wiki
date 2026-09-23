@@ -88,6 +88,8 @@ NOW/NEXT. Below reflects true state as of this reconciliation; treat anything no
 
 ## NOW (in flight today, 2026-07-10)
 
+- [ ] [SOURCE-BLOCKED] tier:T1 status:open (2026-09-23) — Mushtaq Khan's framework chapters in Khan & Jomo (eds.), *Rents, Rent-Seeking and Economic Development* (CUP 2000): the rent typology, the land/natural-resource rent passage and the explicit Krueger/Tullock critique. eprints.soas.ac.uk is blocked at the session proxy and every mirror served a bot challenge; needs a fetch from a different network or a library copy. Until then concepts/rent-seeking.md carries only the 2010 working paper.
+
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
 ### ≥2 big-name anchors claim-level verified before leaving stub, counter-evidence mandatory)
 **[RECONCILED 2026-07-15, session 2z2oww — this block was stale: every NOW item below has

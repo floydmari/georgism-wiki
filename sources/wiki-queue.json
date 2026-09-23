@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.cambridge.org/core/books/rents-rentseeking-and-economic-development/",
-      "title": "Rents, Rent-Seeking and Economic Development: Theory and Evidence in Asia (Khan & Jomo eds., 2000) — Khan's framework chapter",
-      "reason": "Lead from the rejected Cachalia op-ed (2026-09-22): Mushtaq Khan (SOAS) is an established academic on rents and development with no wiki coverage; his distinction between growth-enhancing and growth-reducing rents bears directly on concepts/rent-seeking.md and concepts/economic-rent.md. Fetch Khan's own chapter (or his 2010 'Political Settlements and the Governance of Growth-Enhancing Institutions', SOAS eprints) rather than the op-ed.",
-      "context": "Mushtaq H. Khan, 'Rents, Efficiency and Growth' and 'Rent-seeking as Process', in Khan & Jomo K.S. (eds.), Rents, Rent-Seeking and Economic Development, Cambridge University Press, 2000. Open-access alternative: eprints.soas.ac.uk/9968/ (Political Settlements, 2010).",
-      "author": "T1",
-      "source": "T1 lead from queue item",
-      "queued_at": "2026-09-22T19:21:31.894244+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4594,9 +4583,23 @@
       "wiki_page": "places/kentucky.md",
       "triage_date": "2026-09-22",
       "notes": "T1 concurs with T0 (new places page). KCEP as Tier 2 proponent, out of the lead; Constitution §172 verified at apps.legislature.ky.gov as the Tier 1 anchor; HB 607 material linked to the existing event page. T1 corrections: removed a think-tank characterisation from the lead, fixed a wrong claim that Proposition 13 needed no constitutional amendment, source URL and date normalised."
+    },
+    {
+      "url": "https://www.cambridge.org/core/books/rents-rentseeking-and-economic-development/",
+      "title": "Rents, Rent-Seeking and Economic Development: Theory and Evidence in Asia (Khan & Jomo eds., 2000) — Khan's framework chapter",
+      "reason": "Lead from the rejected Cachalia op-ed (2026-09-22): Mushtaq Khan (SOAS) is an established academic on rents and development with no wiki coverage; his distinction between growth-enhancing and growth-reducing rents bears directly on concepts/rent-seeking.md and concepts/economic-rent.md. Fetch Khan's own chapter (or his 2010 'Political Settlements and the Governance of Growth-Enhancing Institutions', SOAS eprints) rather than the op-ed.",
+      "context": "Mushtaq H. Khan, 'Rents, Efficiency and Growth' and 'Rent-seeking as Process', in Khan & Jomo K.S. (eds.), Rents, Rent-Seeking and Economic Development, Cambridge University Press, 2000. Open-access alternative: eprints.soas.ac.uk/9968/ (Political Settlements, 2010).",
+      "author": "T1",
+      "source": "T1 lead from queue item",
+      "queued_at": "2026-09-22T19:21:31.894244+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "concepts/rent-seeking.md",
+      "triage_date": "2026-09-23",
+      "notes": "T1 narrowed T0's 'new research page': the accessible text (Khan 2010, political settlements) never discusses land rent, so a standalone research page would overstate its relevance. Folded instead as a Tier 1 qualification section on concepts/rent-seeking.md (quotes verified verbatim, pp. 31, 72–73, 75) and one sentence on concepts/resource-rents.md. Khan added to people-tiers Tier 1. The queued CUP volume's 2000 chapters could not be fetched (eprints.soas.ac.uk proxy-blocked; all mirrors bot-walled) — filed in BACKLOG as SOURCE-BLOCKED rather than re-queued."
     }
   ],
-  "last_updated": "2026-09-22T19:28:29.468028+00:00",
+  "last_updated": "2026-09-23T03:21:46.445554+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 388
 }
