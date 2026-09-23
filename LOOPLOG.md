@@ -5097,3 +5097,26 @@ it measures no land or property rent and there is no democracy problem page to w
 T1 corrections this pass: two more "the wiki's"/"for the wiki" self-references in the
 writer's draft, the same class as yesterday's. Lint 0 errors; inventory 1012 pages, 0
 orphans. Ledger: 0 pending, 390 consumed. Merged to main and Ghost-synced.
+
+## 2026-09-23 (night) — a columnist's oration, and the numbers behind it
+
+One item: Adam Creighton's *Australian* column on his 135th Henry George Oration, queued as
+an archive.is copy. Both the archive and News Corp's site are walled from here; the IPA's
+republication gave the full text. Creighton is Tier 2 and is cited as a proponent only.
+The column earned its place as a pointer, not a source: its Australian Bureau of Statistics
+figures were pulled directly from the 2024-25 national accounts and taxation spreadsheets —
+land $10.37 trillion, residential land $8.32 trillion, dwellings $3.25 trillion at June 2025;
+conveyance duties $34.4 billion, company tax $143.7 billion, individual income tax $347.1
+billion in 2024-25 (his company and personal-tax figures differ from the ABS totals, so the
+ABS numbers are used and the difference noted in Sources). `places/australia.md` gains a
+section on what the land is worth and what a uniform land charge would replace, with the
+substitution ratios stated as arithmetic on published totals and nothing more.
+
+The column's hook exposed a real gap: New South Wales's 2023 First Home Buyer Choice — an
+opt-in $400 + 0.3%-of-land-value annual tax in place of stamp duty for six months until the
+Minns government closed it — was nowhere on the wiki. It is now a section on
+`places/new-south-wales.md`, sourced to Revenue NSW and the government's own release, with
+the ABC's "almost 5,000 properties" as the only uptake figure located. Creighton and the
+Institute of Public Affairs added to the Tier 2 list.
+
+Lint 0 errors; ledger 0 pending, 391 consumed. Merged to main and Ghost-synced.
