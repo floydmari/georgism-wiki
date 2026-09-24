@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://doi.org/10.63642/1357-1419.1157",
-      "title": "Land value capture in policy and practice",
-      "source": "lvt-paper-scanner",
-      "reason": "Foundational, heavily cited (54+) peer-reviewed review of land value capture policy goals and practical requirements across countries — never previously captured by the wiki. Distinguishes infrastructure-cost-recovery vs unearned-increment approaches; a standard citation in the LVC literature (Alterman, Suzuki et al., Smolka all cite it). Enriches land value capture and property tax assessment pages.",
-      "context": "Land value capture in policy and practice — Lawrence C. Walters (Brigham Young University). Journal of Property Tax Assessment & Administration 10(2):5-21, 2013. DOI 10.63642/1357-1419.1157 (verified via Crossref). A 2013 paper outside the 30-day window but genuinely new to the wiki — surfaced by EXA via recent ResearchGate re-indexing (published_date 2026-09-09 on the scan). Free full PDF at the IAAO repository: researchexchange.iaao.org/cgi/viewcontent.cgi?article=1157&context=jptaa. Not in registry, wiki-inventory, queue, consumed, or any wiki page.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-24T11:10:46.202807+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4692,9 +4681,23 @@
       "wiki_page": "concepts/land-value-capture.md",
       "triage_date": "2026-09-24",
       "notes": "T1 concurs with T0 (enrich only). Lower-tier venue (IIETA), single-reviewer screening, reconstructed 20-study corpus, no quantified synthesis — added as a dated bullet in the LVC page's recent-cases section with those limits stated in Sources (C-claim). Authors are TU Munich, not TU Delft as the queue context said."
+    },
+    {
+      "url": "https://doi.org/10.63642/1357-1419.1157",
+      "title": "Land value capture in policy and practice",
+      "source": "lvt-paper-scanner",
+      "reason": "Foundational, heavily cited (54+) peer-reviewed review of land value capture policy goals and practical requirements across countries — never previously captured by the wiki. Distinguishes infrastructure-cost-recovery vs unearned-increment approaches; a standard citation in the LVC literature (Alterman, Suzuki et al., Smolka all cite it). Enriches land value capture and property tax assessment pages.",
+      "context": "Land value capture in policy and practice — Lawrence C. Walters (Brigham Young University). Journal of Property Tax Assessment & Administration 10(2):5-21, 2013. DOI 10.63642/1357-1419.1157 (verified via Crossref). A 2013 paper outside the 30-day window but genuinely new to the wiki — surfaced by EXA via recent ResearchGate re-indexing (published_date 2026-09-09 on the scan). Free full PDF at the IAAO repository: researchexchange.iaao.org/cgi/viewcontent.cgi?article=1157&context=jptaa. Not in registry, wiki-inventory, queue, consumed, or any wiki page.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-24T11:10:46.202807+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/walters-property-taxes-value-capture-instruments.md",
+      "triage_date": "2026-09-24",
+      "notes": "T1 narrowed T0's verdict: the queued 2013 JPTAA article could not be obtained (IAAO Cloudflare wall, ResearchGate 403, no OA copy), so the research page is on the closely related 2012 Lincoln Institute chapter that WAS read in full ('Are Property-Related Taxes Effective Value Capture Instruments?', Ingram & Hong eds.), Tier 1, with the 2013 article cited from its abstract framing only (C) and its unread status stated in Sources. Key content: four conditions for property-tax value capture, instrument taxonomy, 156-MSA panel (1% cash-flow rise → 0.27% property-tax revenue rise 3–5 years later). Linked from land-value-capture (Instruments paragraph), danandjojo-jakarta and lincoln-institute-past-forward. T1 corrections: a dated check-stamp and access narration moved out of the body, one wiki self-reference removed."
     }
   ],
-  "last_updated": "2026-09-24T11:30:09.553206+00:00",
+  "last_updated": "2026-09-24T11:32:11.419572+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 395
 }

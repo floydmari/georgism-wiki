@@ -5,7 +5,7 @@ subcategory: wiki-research-urban
 tags: [research, land-value-capture, indonesia, jakarta, decentralization, transit, governance]
 authors: [Yescha Nuradisa Ekarachmi Danandjojo, Samira Ramezani, Johan Woltjer]
 year: 2026
-last_reviewed: 2026-08-17
+last_reviewed: 2026-09-24
 source_url: https://research.rug.nl/en/publications/layered-land-rights-under-government-led-decentralization-implica/
 tier: important
 stub: false
@@ -95,6 +95,7 @@ A 2026 engineering-journal study by Fery Safaria and Carunia Mulya Firdausy of U
 - [India's Value Capture Financing Framework (MoHUA, 2017)](/wiki/india-mohua-value-capture-framework/)
 - [Hernandi et al.: The SALAD Model (Indonesia)](/wiki/hernandi-salad-indonesia-lvt/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
+- [Walters (2012)](/wiki/walters-property-taxes-value-capture-instruments/) — sets out the practical conditions (timely reassessment, a maintained effective rate, adequate resulting revenue) that this paper's governance-fragmentation finding shows breaking down in Jakarta before valuation and rate-setting even come into play
 
 ## Sources
 

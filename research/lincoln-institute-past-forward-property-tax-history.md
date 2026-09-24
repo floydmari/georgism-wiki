@@ -5,7 +5,7 @@ subcategory: wiki-research-lvt
 tags: [research, property-tax, history, valuation, netherlands, united-kingdom, lincoln-institute]
 authors: [Luc Hermans]
 year: 2026
-last_reviewed: 2026-08-14
+last_reviewed: 2026-09-24
 source_url: https://www.lincolninst.edu/publications/land-lines-magazine/articles/past-forward-tracing-the-property-tax-through-time-and-place/
 tier: supplementary
 stub: false
@@ -79,6 +79,7 @@ split-rate taxation, predictably changes what gets built.
 - [Split-Rate Taxation](/wiki/split-rate-taxation/)
 - [Netherlands](/wiki/netherlands/)
 - [Germany](/wiki/germany/) — another European property-tax-design comparison point
+- [Walters (2012)](/wiki/walters-property-taxes-value-capture-instruments/) — a Lincoln Institute chapter on the same tax, asking whether it functions as an effective value-capture instrument rather than tracing its historical design quirks
 - [Dray, Landais & Stantcheva (2026)](/wiki/dray-landais-stantcheva-wealth-property-taxation-us/) — a data-driven, U.S.-specific companion on how the General Property Tax's own design shaped its long-run revenue and eventual narrowing
 
 ## Sources

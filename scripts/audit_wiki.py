@@ -27,7 +27,7 @@ BODY_PATTERNS = {
         r"\bnot independently (?:verified|confirmed|checked)\b[^.]{0,40}\b(?:this session|this pass|this environment)\b",
         r"\bindependently (?:extracted|re-extracted) ",
         r"\bthis (?:page|entry) (?:is|was) (?:built|reconstructed) from\b",
-        r"\b(?:Corrected|Reattempted|Re-?verified|Confirmed|Verified|Re-?fetched|Fetched|Sharpened|Updated|Checked(?: again)?|Resolved|FLAGGED|RESOLVED)\s*(?:verbatim\s*)?(?:on\s*)?\(?20\d\d-\d\d-\d\d\b",
+        r"\b(?:Corrected|Reattempted|Re-?verified|Confirmed|Verified|Re-?fetched|Fetched|Sharpened|Updated|Checked(?: again)?|[Ll]ast checked|Resolved|FLAGGED|RESOLVED)\s*(?:verbatim\s*)?(?:on\s*)?\(?20\d\d-\d\d-\d\d\b",
         r"\bChannels (?:tried|exhausted)\b",
         r"\b(?:this wiki's|the wiki's) (?:egress|drafting session|discovery(?: notes| report| summary)?|existing verified summary)\b",
         r"\bverified (?:verbatim )?this (?:session|pass)\b|\bthis (?:session|pass)['\u2019]s\b",

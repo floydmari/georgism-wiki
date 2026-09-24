@@ -5120,3 +5120,35 @@ the ABC's "almost 5,000 properties" as the only uptake figure located. Creighton
 Institute of Public Affairs added to the Tier 2 list.
 
 Lint 0 errors; ledger 0 pending, 391 consumed. Merged to main and Ghost-synced.
+
+## 2026-09-24 — a QJE history of property taxation, Walters on value capture, Doucet five years on
+
+Four scanner items, four accepted: two new research pages, two enrichments.
+
+Dray, Landais & Stantcheva's *QJE* article on wealth and property taxation in the United
+States is a new research page, read from the NBER working-paper text. Property tax revenue
+was under 2% of GDP in 1850, about 5% in the 1920s and 2.5–3% after 1950; the effective rate
+on assessed wealth rose from 0.6% to 1.35% between 1850 and 1930 before the base narrowed as
+financial and intangible property escaped the General Property Tax. The page says plainly
+that land is never separated from buildings in the series. A short General Property Tax
+subsection went onto the United States page.
+
+Walters is a T1 narrowing of the T0 verdict. The queued 2013 IAAO-journal article could not
+be obtained from any route, so the page is on his 2012 Lincoln Institute chapter, which was
+read in full: four conditions for property-tax value capture, an instrument taxonomy, and a
+156-metro panel in which a 1% rise in cash-flow value lifts property-tax revenue about 0.27%
+three to five years on. The 2013 article is cited from its abstract framing only, with its
+unread status stated in Sources. The land-value-capture concept page gains Walters's
+conditions in its Instruments section.
+
+Doucet's "Five Years Later" went onto his 2021 series page as a Tier 2 retrospective: his
+Danish rent-control explanation of the Nielsson et al. zero-price result is carried as his
+gloss, since the authors do not state it; his South Korea land-to-GDP figures as his own
+calculation. The heritage-led LVC systematic review (IIETA venue, single-reviewer screening,
+reconstructed 20-study corpus) went onto the LVC page as a C-claim bullet.
+
+Three writers this pass; T1 corrections were the now-familiar class — "the wiki's",
+"for the wiki", "this page treats them accordingly" — plus one dated "last checked" stamp
+and access narration in a body section, which the scanner now catches ("last checked
+<date>" added to the dated-stamp pattern). Lint 0 errors; inventory 1014 pages, 0 orphans;
+scanner 0 hits wiki-wide. Ledger: 0 pending, 395 consumed. Merged to main and Ghost-synced.
