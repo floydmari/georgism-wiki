@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "url": "https://blog.landeconomics.org/p/does-georgism-work-five-years-later",
-      "title": "Does Georgism Work? Five Years Later",
-      "source": "internet-scan",
-      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
-      "context": "Does Georgism Work? Five Years Later ",
-      "author": "research-scanner",
-      "queued_at": "2026-09-24T10:01:40.754559+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjag038/8786007",
-      "title": "Wealth and Property Taxation in the United States",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed QJE advance article (Dray/Landais/Stantcheva) constructing long-run US wealth series from historical property tax records (General Property Tax, early 1800s onward) at state, county and national level. Stantcheva is already a registry author (Taxation and Innovation). Direct enrichment for US property tax history, land/property wealth shares, and assessment-practice coverage.",
-      "context": "Wealth and Property Taxation in the United States — Sacha Dray (World Bank), Camille Landais (LSE), Stefanie Stantcheva (Harvard/NBER/CEPR). The Quarterly Journal of Economics, advance article 2026-09-04. DOI 10.1093/qje/qjag038. Found by EXA scanner (30-day lookback); metadata verified via Crossref. OUP landing page has full abstract; not in registry, wiki-inventory, queue, consumed, or any wiki page.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-24T11:10:46.202807+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://iieta.org/journals/ijsdp/paper/10.18280/ijsdp.210802",
-      "title": "Cultural Heritage, Land Value Dynamics, and Land Value Capture Governance in Asia: A Systematic Literature Review",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed systematic literature review (IIETA) on land value capture governance in Asian cities through a cultural-heritage lens — conservation, tourism, public investment and regulation as drivers of land value dynamics. Fresh LVC governance material for the land value capture and urban-finance pages.",
-      "context": "Cultural Heritage, Land Value Dynamics, and Land Value Capture Governance in Asia: A Systematic Literature Review — Kartika Listriana and Walter Timo de Vries (TU Delft). International Journal of Sustainable Development and Planning, available online 2026-08-31. DOI 10.18280/ijsdp.210802. Found by EXA scanner (30-day lookback); metadata verified via Crossref. Open access at IIETA. Not previously known to the wiki.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-24T11:10:46.202807+00:00",
-      "reported": false
-    },
-    {
       "url": "https://doi.org/10.63642/1357-1419.1157",
       "title": "Land value capture in policy and practice",
       "source": "lvt-paper-scanner",
@@ -4680,9 +4650,51 @@
       "wiki_page": "places/australia.md",
       "triage_date": "2026-09-23",
       "notes": "Archive.is and theaustralian.com.au both blocked (proxy reset / News Corp bot wall); full text obtained from the IPA's republication. Creighton is Tier 2 (journalist, IPA chief economist) — used as proponent only. The op-ed's value was as a pointer: its ABS balance-sheet and tax figures were verified from the ABS 2024-25 spreadsheets (land $10.37tn, residential $8.32tn, dwellings $3.25tn; conveyance duties $34.4bn; company tax $143.7bn; individuals $347.1bn — his company/individual figures differ from ABS) and added to places/australia.md as a new section with the substitution arithmetic; and its hook, NSW's 2023 First Home Buyer Choice and repeal, was a genuine wiki gap now filled on places/new-south-wales.md from Revenue NSW and the NSW Government release (A). Creighton and the IPA added to Tier 2."
+    },
+    {
+      "url": "https://blog.landeconomics.org/p/does-georgism-work-five-years-later",
+      "title": "Does Georgism Work? Five Years Later",
+      "source": "internet-scan",
+      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
+      "context": "Does Georgism Work? Five Years Later ",
+      "author": "research-scanner",
+      "queued_at": "2026-09-24T10:01:40.754559+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/doucet-does-georgism-work.md",
+      "triage_date": "2026-09-24",
+      "notes": "T1 concurs with T0 (enrich, not new). Queue URL is a teaser; full essay read on Astral Codex Ten. Tier 2 practitioner retrospective (D-claim) added as a 'Five Years Later' section: reaffirms magnitude and incidence, narrows incidence with a Danish rent-control exception attributed to Doucet's gloss (Nielsson et al. do not state that mechanism), South Korea land-to-GDP figures carried as his own calculation, assessment revisions. No new Tier 1 evidence the wiki lacked. Unsourced Qingdao claim omitted."
+    },
+    {
+      "url": "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjag038/8786007",
+      "title": "Wealth and Property Taxation in the United States",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed QJE advance article (Dray/Landais/Stantcheva) constructing long-run US wealth series from historical property tax records (General Property Tax, early 1800s onward) at state, county and national level. Stantcheva is already a registry author (Taxation and Innovation). Direct enrichment for US property tax history, land/property wealth shares, and assessment-practice coverage.",
+      "context": "Wealth and Property Taxation in the United States — Sacha Dray (World Bank), Camille Landais (LSE), Stefanie Stantcheva (Harvard/NBER/CEPR). The Quarterly Journal of Economics, advance article 2026-09-04. DOI 10.1093/qje/qjag038. Found by EXA scanner (30-day lookback); metadata verified via Crossref. OUP landing page has full abstract; not in registry, wiki-inventory, queue, consumed, or any wiki page.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-24T11:10:46.202807+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/dray-landais-stantcheva-wealth-property-taxation-us.md",
+      "triage_date": "2026-09-24",
+      "notes": "T1 concurs with T0 (new research page, Tier 1). Text read from NBER w31080 (rev. May 2026); QJE typeset text not consulted, stated in Sources. Key series: property tax <2% GDP (1850) → ~5% (1920s) → 2.5–3% (1950s+); effective rate 0.6% (1850) → 1.35% (1930). Page states plainly that land is not separated from buildings. Linked from saez-zucman, lincoln-institute-past-forward and a new short subsection on places/united-states.md. T1 corrections: two wiki self-references reworded."
+    },
+    {
+      "url": "https://iieta.org/journals/ijsdp/paper/10.18280/ijsdp.210802",
+      "title": "Cultural Heritage, Land Value Dynamics, and Land Value Capture Governance in Asia: A Systematic Literature Review",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed systematic literature review (IIETA) on land value capture governance in Asian cities through a cultural-heritage lens — conservation, tourism, public investment and regulation as drivers of land value dynamics. Fresh LVC governance material for the land value capture and urban-finance pages.",
+      "context": "Cultural Heritage, Land Value Dynamics, and Land Value Capture Governance in Asia: A Systematic Literature Review — Kartika Listriana and Walter Timo de Vries (TU Delft). International Journal of Sustainable Development and Planning, available online 2026-08-31. DOI 10.18280/ijsdp.210802. Found by EXA scanner (30-day lookback); metadata verified via Crossref. Open access at IIETA. Not previously known to the wiki.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-24T11:10:46.202807+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "concepts/land-value-capture.md",
+      "triage_date": "2026-09-24",
+      "notes": "T1 concurs with T0 (enrich only). Lower-tier venue (IIETA), single-reviewer screening, reconstructed 20-study corpus, no quantified synthesis — added as a dated bullet in the LVC page's recent-cases section with those limits stated in Sources (C-claim). Authors are TU Munich, not TU Delft as the queue context said."
     }
   ],
-  "last_updated": "2026-09-24T11:10:46.202807Z",
+  "last_updated": "2026-09-24T11:30:09.553206+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 4
+  "total": 395
 }

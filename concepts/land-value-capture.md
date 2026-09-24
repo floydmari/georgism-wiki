@@ -5,7 +5,7 @@ tags: [concepts, land-value-capture, betterment, public-finance, infrastructure]
 stub: false
 excerpt: "The broad family of public-finance tools that recover, for public benefit, the land-value increases created by public investment and community growth."
 pd_quotes: true
-last_reviewed: 2026-08-10
+last_reviewed: 2026-09-24
 ---
 
 ## Definition
@@ -23,6 +23,8 @@ last_reviewed: 2026-08-10
 - **Negotiated PILOTs and community-benefit funds** — for large, discrete land uses without a formula-based instrument, capture is sometimes bargained case-by-case instead. Data centers, now among the highest-value land uses in many US jurisdictions, show how much this depends on negotiating leverage: Loudoun County, Virginia's data-center tax base generates roughly $1.3 billion a year (about 45% of the county's total tax revenue), letting the county cut its residential property-tax rate over a decade, while Columbus, Ohio granted a 100%, 15-year property-tax abatement worth roughly $54 million to a Google data center that created only about 20 jobs — the same land use, capturing public value or forfeiting it entirely, depending on the deal a local government secures.[4]
 
 For a current practitioner-level survey of these instruments — Canadian and international case studies, mechanism comparisons, and an honest account of administrative complexity and typical yields — see the [CIB-commissioned Land Value Capture Study](/wiki/cib-land-value-capture-study/) (Siemiatycki, Fagan & Arku, 2023).
+
+[Walters (2012)](/wiki/walters-property-taxes-value-capture-instruments/) sets out four practical conditions a property tax must meet to function as an LVC instrument — rising private land values, timely reassessment, a maintained effective rate, and adequate resulting revenue — and argues that the recurring annual property tax, not one-time betterment charges, is the more reliable long-run LVC instrument once those conditions hold. In a fixed-effects panel of 156 US metropolitan areas, he finds a 1% rise in a metro's income-based cash-flow measure was followed by roughly a 0.27% rise in property tax revenue three to five years later.[10]
 
 ## Significance
 
@@ -104,6 +106,31 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   routes to the same outcome, non-TIF taxpayers paying more than the "growth pays for
   itself" framing implies.[8]
 
+- **Heritage-led LVC in Asia: a systematic review (2026).** A systematic literature review
+  by **Kartika Listriana** and **Walter Timo de Vries** (both Technical University of
+  Munich), published in the *International Journal of Sustainable Development and
+  Planning*, reconstructs a corpus of 20 studies (2018–2025, concentrated in 2020 and
+  2023) covering China, Hong Kong, India, Indonesia, Singapore, Taiwan, Thailand, and
+  Vietnam, plus one comparative China/US study. Drawing on that corpus, the review builds
+  a typology of how heritage designation, conservation controls, tourism activity, public
+  investment, and adaptive-reuse or planning regulation move land and property values —
+  through amenity and prestige effects, scarcity from conservation restrictions,
+  accessibility gains, and redevelopment-pressure or displacement effects that can run in
+  either direction — and pairs these channels with the LVC instruments the literature
+  applies to them: betterment levies and development charges where a public improvement
+  produces measurable uplift, transferable development rights and land readjustment where
+  conservation restrictions constrain on-site redevelopment, and joint development or
+  public-private partnership where public land or public assets are involved. Named
+  intersection cases include heritage-protection value capture at West Lake, heritage-led
+  redevelopment and "uneven community outcomes" in Xi'an, LVC-linked heritage financing at
+  Kota Lama Tangerang (Indonesia), and a Dihua Street (Taiwan) transfer-of-development-rights
+  case tied to moderating displacement. The review is explicit that it offers a qualitative
+  governance-conditions typology rather than a quantified synthesis: it reports no pooled
+  or quantified effect sizes for any instrument, states that its 20-study corpus "is too
+  small to support robust network inference," and concludes that current studies do not
+  establish that captured LVC revenues have systematically produced conservation,
+  resilience, or equity outcomes across Asian cities.
+
 ## Book Findings
 
 ### Howard: Garden City as LVT Application
@@ -162,3 +189,5 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 6. Edward Shepherd & Tim White, "Who should own the value of land? Housing, power and the deep politics of land value capture," UK Collaborative Centre for Housing Evidence (CaCHE), Cardiff University, 2026. [CaCHE project page](https://housingevidence.ac.uk/project/who-should-own-the-value-of-land-housing-power-and-the-deep-politics-of-land-value-capture/) · [ORCA repository copy](https://orca.cardiff.ac.uk/id/eprint/186157/) — used for the report's core argument, now with two direct quotations from the project page's own summary, read 2026-08-10 (D-claim; the full report PDF is not publicly accessible, so quotation is limited to what the project page itself reproduces).
 7. Shari Biediger, "TIRZ explained: It's how SA will fund the new ballpark, Spurs arena," *San Antonio Report*, August 2026. [sanantonioreport.org](https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/) — article read in full, 2026-08-14; used for the nine-zone count, the FY2025 $45M/~5%-of-$819M capture figures (attributed in the article to city CFO Troy Elliott), the ballpark financing shares, the Heather Way quotations and sunset-extension critique, and the board-meeting/minutes transparency details (B-claims; local journalism, quoted figures are the article's own).
 8. Patrick McIlheran, "How a development tool can increase property taxes," *Badger Institute*, 20 August 2026. [badgerinstitute.org](https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/) — read in full, 2026-08-23; used for the Wisconsin net-new-construction levy-limit mechanism, the Wisconsin Legislative Council's own mill-rate explanation (quoted verbatim), the up-to-27-year TIF diversion period, the local-official-denial point, and the Port Washington-area 647-acre data-center TIF example (B-claim; local policy journalism from a free-market-oriented think tank).
+9. Kartika Listriana & Walter Timo de Vries, "Cultural Heritage, Land Value Dynamics, and Land Value Capture Governance in Asia: A Systematic Literature Review," *International Journal of Sustainable Development and Planning* 21(8) (2026): 3423–3437, IIETA. [DOI](https://doi.org/10.18280/ijsdp.210802) — full text read, 2026-09-24; used for the 20-study corpus profile, the heritage-value/LVC-instrument typology, and the named intersection case studies (West Lake, Xi'an, Kota Lama Tangerang, Dihua Street) (C-claim; a qualitative synthesis review, not quantified evidence). Venue and methodology caveats: IJSDP/IIETA is a broad-scope, lower-tier venue rather than a specialist planning or public-finance journal; the review's own methodology discloses single-reviewer screening with no independent dual-reviewer check, and a revision-stage "corrective audit" in which the original 2025 record-level search export was not preserved, so the final 20-study corpus was reconstructed de novo from a 64-reference working pool rather than verified against the original search. The second author (Technical University of Munich) has a peer-reviewed land-administration research record; the first author's academic standing is unconfirmed. Cited here as "a 2026 systematic review found," not as settled research findings.
+10. Lawrence C. Walters, "Are Property-Related Taxes Effective Value Capture Instruments?," ch. 8 in Gregory K. Ingram & Yu-Hung Hong, eds., *Value Capture and Land Policies* (Lincoln Institute of Land Policy, 2012), 187–206. [lincolninst.edu](https://www.lincolninst.edu/publications/books/value-capture-land-policies/) — used for the four practical conditions for property-tax LVC and the 156-MSA cash-flow-to-property-tax-revenue finding (A-claim; peer-reviewed-adjacent edited academic volume). [Wiki summary](/wiki/walters-property-taxes-value-capture-instruments/).

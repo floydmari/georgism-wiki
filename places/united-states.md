@@ -23,6 +23,20 @@ The clearest US concentration of land value taxation is in **[Pennsylvania](/wik
 - **[Proposition 13](/wiki/proposition-13/)** (California, 1978) shows the opposite political pole: the country's most consequential property-tax *revolt*, capping assessed-value growth rather than shifting the tax base toward land.
 - **[1886 New York City mayoral election](/wiki/1886-nyc-mayoral-election/)** — Henry George's own campaign, and the highest-profile electoral moment in American Georgist history.
 
+## The General Property Tax and Its Narrowing
+
+Before the modern, real-estate-only property tax, most states levied a **General Property
+Tax** that aspired to reach "all property" — land, buildings, business assets, money, and
+securities alike. Newly digitized assessment records analyzed by [Dray, Landais &
+Stantcheva (2026)](/wiki/dray-landais-stantcheva-wealth-property-taxation-us/) show its
+revenue rising from under 2% of GDP in 1850 to about 5% in the 1920s, then falling to
+roughly 2.5–3% after the 1930s as federal spending expanded, new state revenue sources
+appeared, and a "classification movement" carved out lower rates for intangible financial
+property that local assessors struggled to value.[6] The paper does not separate land from
+buildings — its "real property" category bundles both — so it documents the historical
+taxation of wealth through property generally, of which land is a large but unmeasured
+part, rather than a land-specific series.
+
 ## 2026: A Wave of State Enablement Legislation
 
 2026 brought the country's most active year yet for *state-level* land value tax enablement, though still no enacted LVT anywhere in the country. **New York, Virginia, and [Kentucky](/wiki/kentucky/)** each passed or renewed state legislation letting specific local governments adopt land-value-based taxation — see **[The 2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/)** for the details (and the important caveat that enablement is not enactment); Kentucky's own page covers how that enabling law sits alongside a same-year assessment-cap debate under its constitution's fair-cash-value clause. **[Washington State](/wiki/washington-state/)** saw a parallel but earlier-stage push the same year: a legal-feasibility analysis for working around its constitutional uniformity clause, a Spokane City Council member's parcel study, and Seattle Mayor Katie Wilson's stated intent to pursue a land value tax — none of which had produced even enabling legislation by mid-2026.
@@ -57,3 +71,11 @@ The US case is a patchwork, not a program: Pennsylvania's split-rate cities are 
 3. See the [2026 State Land Value Tax Enablement Wave](/wiki/2026-state-lvt-enablement-wave/) and [Washington State](/wiki/washington-state/) pages for full sourcing on the 2026 New York/Virginia/Kentucky enablement legislation and the Washington State feasibility/Spokane/Seattle activity summarized above.
 4. City of Kansas City, Missouri, 2012 Report to the City of Kansas City, Missouri, Citizens' Commission on Municipal Revenue. [kcmo.gov](https://www.kcmo.gov/home/showpublisheddocument/1369/636958591562500000) — used for the Parkway Maintenance Tax and Trafficway Maintenance Tax figures (~$9.9M/year combined, land-only assessments), corroborated via KCUR's reporting on the commission's recommendations. [KCUR](https://www.kcur.org/government/2012-05-01/kc-revenue-commission-keep-e-tax-raise-sales-and-property-taxes)
 5. Show-Me Institute articles, all read directly, 2026-08-10: Christine Harbin, "A Land Tax Is Preferable to the Earnings Tax" (Jan. 11, 2010, [showmeinstitute.org](https://showmeinstitute.org/article/taxes/untitled-2010-01-11-090704/)); David Stokes, "Great Article About the Land Tax in the Kansas City Star" (Feb. 22, 2010, [showmeinstitute.org](https://showmeinstitute.org/article/municipal-policy/untitled-2010-02-22-112526/)); David Stokes, "Kansas City Should Expand, Not Remove, Land Taxes" (Aug. 2, 2012, [showmeinstitute.org](https://showmeinstitute.org/article/municipal-policy/untitled-2012-08-02-102631/)); Joseph Haslag & David Stokes, "Kansas City Land Tax Should Be Expanded, Not Eliminated" (July 21, 2012, [showmeinstitute.org](https://showmeinstitute.org/article/taxes/untitled-2012-07-20-214958/)); Michael Rathbone, "Land Taxes and Columbia" (July 15, 2015, [showmeinstitute.org](https://showmeinstitute.org/article/taxes/untitled-2015-07-15-000000-2/)); David Stokes, "It's Time to Phase Out the Earnings Tax. Honestly, Nothing Else Has Worked . . ." (Mar. 12, 2026, [showmeinstitute.org](https://showmeinstitute.org/article/taxes/its-time-to-phase-out-the-earnings-tax-honestly-nothing-else-has-worked/)) — used for the full 2010–2026 advocacy record summarized above; also see [Show-Me Institute](/wiki/show-me-institute/) for the organization profile.
+6. Sacha Dray, Camille Landais & Stefanie Stantcheva, "Wealth and Property Taxation in the
+   United States," *Quarterly Journal of Economics*, advance article, 4 September 2026,
+   [DOI 10.1093/qje/qjag038](https://doi.org/10.1093/qje/qjag038) — read from the NBER
+   working-paper version, revised May 2026; the QJE typeset text was not consulted. Used for
+   the property-tax revenue-to-GDP series and the classification-movement mechanism behind
+   its narrowing. See the [full research summary](/wiki/dray-landais-stantcheva-wealth-property-taxation-us/)
+   for the complete sourcing. A-claim: peer-reviewed QJE article; all three authors are Tier 1
+   academic economists.

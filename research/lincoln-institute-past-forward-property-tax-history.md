@@ -79,6 +79,7 @@ split-rate taxation, predictably changes what gets built.
 - [Split-Rate Taxation](/wiki/split-rate-taxation/)
 - [Netherlands](/wiki/netherlands/)
 - [Germany](/wiki/germany/) — another European property-tax-design comparison point
+- [Dray, Landais & Stantcheva (2026)](/wiki/dray-landais-stantcheva-wealth-property-taxation-us/) — a data-driven, U.S.-specific companion on how the General Property Tax's own design shaped its long-run revenue and eventual narrowing
 
 ## Sources
 

@@ -48,4 +48,5 @@ Verified against the published QJE PDF:[1]
 - [AEI Land Price and Land Share Indicators](/wiki/aei-land-price-indicators/) — the Part 1 land-share companion
 - [What's Manhattan Worth? (Barr, Smith & Kulkarni)](/wiki/barr-smith-kulkarni-manhattan-land/) — the Part 1 land-magnitude companion
 - [Piketty, *Capital in the Twenty-First Century*](/wiki/piketty-capital-21st-century/) — the wealth-in-land framing
+- [Dray, Landais & Stantcheva (2026)](/wiki/dray-landais-stantcheva-wealth-property-taxation-us/) — this study's 19th- and early-20th-century predecessor, built from General Property Tax assessment records rather than capitalized income-tax flows
 - [Land Value Tax](/wiki/land-value-tax/)
