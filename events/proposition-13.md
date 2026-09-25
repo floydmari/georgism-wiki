@@ -56,6 +56,7 @@ Proposition 13 helped touch off a wider tax-limitation wave; the best-known para
 
 ## See Also
 
+- [California](/wiki/california/) — the state page, including the 2026 Center for Land Economics land-value estimate that treats Prop 13's assessment gap as its starting problem
 - [Cabral & Hoxby (2012): The Hated Property Tax](/wiki/cabral-hoxby-hated-property-tax/) — the empirical paper explaining property-tax unpopularity via salience, a mechanism underlying revolts like Proposition 13
 - [San Francisco](/wiki/san-francisco/) — Prop 13's ~1% rate cap and acquisition-value lock-in applied to a supply-constrained, high-land-value city
 - [Coven, Golder, Gupta & Ndiaye (2026)](/wiki/coven-property-taxes-housing-allocation/) — models lock-in as an intergenerational allocation problem: who ends up living in the housing stock under a California- vs. Texas-style property tax

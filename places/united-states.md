@@ -57,6 +57,7 @@ The US case is a patchwork, not a program: Pennsylvania's split-rate cities are 
 - [Pennsylvania](/wiki/pennsylvania/) — the state enabling law and split-rate laboratory
 - [Pittsburgh](/wiki/pittsburgh/) — the largest and longest-running US split-rate city (1913–2001)
 - [Alaska](/wiki/alaska/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/) — the resource-rent dividend case
+- [California](/wiki/california/) — Henry George's own state, the single-tax movement's electoral peak, Proposition 13, and a 2026 land-value estimate
 - [Proposition 13](/wiki/proposition-13/) — the countervailing property-tax revolt
 - [Henry George](/wiki/henry-george/) · [1886 NYC Mayoral Election](/wiki/1886-nyc-mayoral-election/)
 - [Progressive Era Georgism](/wiki/progressive-era-georgism/) — the movement's historical high-water mark in US politics

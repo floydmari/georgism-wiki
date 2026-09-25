@@ -16,6 +16,7 @@ Later campaigns continued into the 1920s and 1930s. The lawyer and Stanford lect
 
 ## See Also
 
+- [California](/wiki/california/) — the state page situating these campaigns alongside Henry George's California years and Proposition 13
 - [Single Tax](/wiki/single-tax/) — the policy these campaigns sought to enact
 - [Henry George](/wiki/henry-george/) — originator of the single-tax idea the campaigns drew on
 - [1886 New York City Mayoral Election](/wiki/1886-nyc-mayoral-election/) — the movement's earlier electoral high point

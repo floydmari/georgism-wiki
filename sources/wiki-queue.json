@@ -11,16 +11,6 @@
       "reported": false
     },
     {
-      "url": "https://landeconomics.org/reports/california-billionaire-wealth-tax",
-      "title": "Land, the Wealth We Can Actually Tax",
-      "source": "lvt-paper-scanner",
-      "reason": "Original institutional research report (Center for Land Economics). First parcel-level estimate of California total land value: $8.14tn, triangulated 3 ways; argues 0.25% LVT raises the $20bn/yr the Billionaire Wealth Tax promises, on an immovable base ~8x larger. Companion SF Chronicle op-ed by Miller & Doucet.",
-      "context": "Land, the Wealth We Can Actually Tax — Center for Land Economics (Greg Miller, Lars Doucet et al.), September 2026. Discovered via lavx.hu rewrite and landeconomics.org blog pointer.",
-      "author": "UBU8GSB5N",
-      "queued_at": "2026-09-25T11:15:00.000000Z",
-      "reported": false
-    },
-    {
       "url": "https://www.science.org/doi/10.1126/science.280.5364.698",
       "title": "Heller & Eisenberg (1998), Can Patents Deter Innovation? The Anticommons in Biomedical Research (Science 280:698)",
       "reason": "Lead from a rejected 2026-09-25 essay: the 'tragedy of the anticommons' — fragmented exclusion rights blocking use — is the mirror of the commons problem and bears on concepts/ip-rents.md and concepts/land-monopoly.md (assembly problems, holdouts). Tier 1 (Science; Heller, Columbia Law). Also consider Heller's 1998 Harvard Law Review 'The Tragedy of the Anticommons: Property in the Transition from Marx to Markets'.",
@@ -4766,9 +4756,23 @@
       "verdict": "rejected",
       "triage_date": "2026-09-25",
       "notes": "Tier 2 newsletter essay with no new empirical content; superseded by concepts/rentier.md's Hudson/Mazzucato/Standing/Christophers coverage. Its one traceable Tier 1 lead — Heller & Eisenberg's anticommons (Science, 1998) — queued as a separate item to fetch directly."
+    },
+    {
+      "url": "https://landeconomics.org/reports/california-billionaire-wealth-tax",
+      "title": "Land, the Wealth We Can Actually Tax",
+      "source": "lvt-paper-scanner",
+      "reason": "Original institutional research report (Center for Land Economics). First parcel-level estimate of California total land value: $8.14tn, triangulated 3 ways; argues 0.25% LVT raises the $20bn/yr the Billionaire Wealth Tax promises, on an immovable base ~8x larger. Companion SF Chronicle op-ed by Miller & Doucet.",
+      "context": "Land, the Wealth We Can Actually Tax — Center for Land Economics (Greg Miller, Lars Doucet et al.), September 2026. Discovered via lavx.hu rewrite and landeconomics.org blog pointer.",
+      "author": "UBU8GSB5N",
+      "queued_at": "2026-09-25T11:15:00.000000Z",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "places/california.md",
+      "triage_date": "2026-09-25",
+      "notes": "T1 concurs with T0 (new places/california.md). The CLE report is Tier 2 and carried as the organisation's own estimate ($8.14tn parcel pipeline; $8.76tn FHFA; $10.12tn time-trended; three self-stated downward biases), out of the lead. The page is anchored on Tier 1 material: George's California, the single-tax campaigns, Proposition 13, and the Billionaire Wealth Tax identified as Proposition 40 with the LAO ballot analysis (A) and the Secretary of State voter guide (A); the $20bn/yr comparison figure traced to the measure's own Galle/Gamage/Saez/Shanske report (B), not the LAO. Report date is June 2026, not September as queued. Linked from proposition-13, california-single-tax-campaigns and united-states."
     }
   ],
-  "last_updated": "2026-09-25T11:22:46.708717+00:00",
+  "last_updated": "2026-09-25T11:27:46.878747+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 401
 }
