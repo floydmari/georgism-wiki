@@ -54,6 +54,20 @@ Chicago's political history is needed." Full detail, and the same caveat, are ca
 wiki's [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/)
 page.
 
+## Tax Increment Financing, 1984–2025
+
+Separately from Hoyt's land-value cycle, a 2026 [UIC Great Cities Institute
+report](/wiki/uic-chicago-tif-who-paid-who-gained/) audited four decades of Chicago's use of
+[Tax Increment Financing](/wiki/land-value-capture/) (TIF), the city's first district dating
+to 1984. Using a parcel-level panel of the city's property-tax base matched against
+city-tracked TIF projects, the report found TIF raised citywide property-tax rates by an
+average of 13.7 percent over 2014–2023 (growing to 18.6 percent by 2023), while only about
+1.8 percent of the property-value growth captured inside TIF districts was attributable to
+TIF investment itself — the rest would have appeared regardless. Roughly 51 percent of
+tracked TIF spending since 1986 went to downtown Chicago and its immediate neighbors. Unlike
+Hoyt's study, this is a direct empirical case study of a land-value-capture instrument's
+distributional effects, not a study of the underlying land-value cycle.
+
 ## Relation to the Georgist Case
 
 Hoyt's study is a **historical-empirical source for the premise that land markets exhibit a recurring speculative boom-bust cycle** — the phenomenon that the Georgist land-cycle tradition built on. The Georgist author and campaigner [Fred Harrison](/wiki/fred-harrison/) drew directly on Hoyt's Chicago chronology in *The Power in the Land* (1983) and *Boom Bust* (2005) to argue the same land-and-credit rhythm recurs in modern economies, using it to forecast the [2008 financial crisis](/wiki/2008-financial-crisis/).[3][5] [Fred Foldvary](/wiki/fred-foldvary/) independently reached a similar forecast in 1997, writing that "the next major bust, 18 years after the 1990 downturn, will be around 2008."[6]
@@ -77,6 +91,7 @@ It is important to be precise about what this study does **not** do. **Hoyt's di
 - [Fred Harrison](/wiki/fred-harrison/) — popularised Hoyt's findings as a forecasting tool
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) — the crash forecast using Hoyt-derived cycle analysis
 - [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) — Gaffney's separate 1890s growth-and-politics case for Chicago, including his own hedge on its evidentiary strength
+- [UIC Great Cities Institute (2026)](/wiki/uic-chicago-tif-who-paid-who-gained/) — the 40-year audit's tax-rate-shift and attribution findings in full
 
 ## Sources
 
@@ -87,3 +102,4 @@ It is important to be precise about what this study does **not** do. **Hoyt's di
 5. Fred Harrison, *Boom Bust: House Prices, Banking and the Depression of 2010*, Shepheard-Walwyn, 2005. [Publisher](https://shepheardwalwyn.com/product/boom-bust/) — used for Harrison's use of Hoyt's Chicago data to build the modern 18-year cycle forecasting tradition.
 6. Fred Foldvary, "The Business Cycle: A Georgist-Austrian Synthesis," *American Journal of Economics and Sociology* 56(4), 1997, pp. 521–541. [JSTOR](https://www.jstor.org/stable/3487330) — used for Foldvary's 1997 prediction of the 2008 bust (quotation under 50 words).
 7. Mason Gaffney, "Chicago's Growth Spurt, 1890-1900" (workpaper WP091, undated) — read in full; used for the 54% 1890-1900 growth figure and its annexation caveat, the Altgeld/Dunne network, the 1894 Illinois Bureau of Labor Statistics Loop study, and Gaffney's own hedge on the case's evidentiary strength. Full detail on this wiki's [Gaffney's Georgist City-Growth Case Studies](/wiki/gaffney-georgist-city-growth-cases/) page.
+8. Juan D. González, Matthew D. Wilson, Teresa Córdova & Jason "Jay" Campos, *Chicago's Tax Increment Financing: Who Paid, Who Gained?*, UIC Great Cities Institute, August 2026. [greatcities.uic.edu](https://greatcities.uic.edu/news-stories/chicagos-tax-increment-financing-who-paid-who-gained/) — used for the 1984 first-TIF-district date, the 13.7%/18.6% tax-rate-shift figures, the 1.8% but-for attribution figure, and the 51% downtown-spending figure (B-claim, Tier 1). Full detail on this wiki's [dedicated summary](/wiki/uic-chicago-tif-who-paid-who-gained/).

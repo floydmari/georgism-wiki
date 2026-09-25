@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "url": "https://greatcities.uic.edu/news-stories/chicagos-tax-increment-financing-who-paid-who-gained/",
-      "title": "Chicago's Runaway Development Tool: Who Paid and Who Gained from 40+ Years of Tax Increment Financing",
-      "source": "lvt-paper-scanner",
-      "reason": "Institutional research report (UIC Great Cities Institute). 40-year audit of Chicago TIF: $16.6bn captured, raised citywide property tax rates ~13.7% (2014-23), only 1.8% of in-district value growth attributable to TIF, 51% of spending went downtown. Strong land-value-capture / TIF-critique material.",
-      "context": "Chicago's Runaway Development Tool: Who Paid and Who Gained from 40+ Years of Tax Increment Financing — Juan D. González, Matthew D. Wilson, Teresa Córdova, Jason 'Jay' Campos. UIC Great Cities Institute, August 26, 2026. Discovered via PBS Chicago Tonight segment.",
-      "author": "UBU8GSB5N",
-      "queued_at": "2026-09-25T11:15:00.000000Z",
-      "reported": false
-    },
-    {
       "url": "https://www.science.org/doi/10.1126/science.280.5364.698",
       "title": "Heller & Eisenberg (1998), Can Patents Deter Innovation? The Anticommons in Biomedical Research (Science 280:698)",
       "reason": "Lead from a rejected 2026-09-25 essay: the 'tragedy of the anticommons' — fragmented exclusion rights blocking use — is the mirror of the commons problem and bears on concepts/ip-rents.md and concepts/land-monopoly.md (assembly problems, holdouts). Tier 1 (Science; Heller, Columbia Law). Also consider Heller's 1998 Harvard Law Review 'The Tragedy of the Anticommons: Property in the Transition from Marx to Markets'.",
@@ -4770,9 +4760,23 @@
       "wiki_page": "places/california.md",
       "triage_date": "2026-09-25",
       "notes": "T1 concurs with T0 (new places/california.md). The CLE report is Tier 2 and carried as the organisation's own estimate ($8.14tn parcel pipeline; $8.76tn FHFA; $10.12tn time-trended; three self-stated downward biases), out of the lead. The page is anchored on Tier 1 material: George's California, the single-tax campaigns, Proposition 13, and the Billionaire Wealth Tax identified as Proposition 40 with the LAO ballot analysis (A) and the Secretary of State voter guide (A); the $20bn/yr comparison figure traced to the measure's own Galle/Gamage/Saez/Shanske report (B), not the LAO. Report date is June 2026, not September as queued. Linked from proposition-13, california-single-tax-campaigns and united-states."
+    },
+    {
+      "url": "https://greatcities.uic.edu/news-stories/chicagos-tax-increment-financing-who-paid-who-gained/",
+      "title": "Chicago's Runaway Development Tool: Who Paid and Who Gained from 40+ Years of Tax Increment Financing",
+      "source": "lvt-paper-scanner",
+      "reason": "Institutional research report (UIC Great Cities Institute). 40-year audit of Chicago TIF: $16.6bn captured, raised citywide property tax rates ~13.7% (2014-23), only 1.8% of in-district value growth attributable to TIF, 51% of spending went downtown. Strong land-value-capture / TIF-critique material.",
+      "context": "Chicago's Runaway Development Tool: Who Paid and Who Gained from 40+ Years of Tax Increment Financing — Juan D. González, Matthew D. Wilson, Teresa Córdova, Jason 'Jay' Campos. UIC Great Cities Institute, August 26, 2026. Discovered via PBS Chicago Tonight segment.",
+      "author": "UBU8GSB5N",
+      "queued_at": "2026-09-25T11:15:00.000000Z",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/uic-chicago-tif-who-paid-who-gained.md",
+      "triage_date": "2026-09-25",
+      "notes": "T1 concurs with T0 (new research page, Tier 1 university institute, B-claim as non-peer-reviewed institutional research). Full 108-page report read. The two rate-shift figures are defined separately on the page: 13.7% average / 18.6% by 2023 is one scenario across years; the rebuttal's 17–19% holds 2023 fixed across four attribution scenarios. The 1.8% but-for share is stated as the preferred of four scenarios (0–6%), with the tax-shift finding robust and the attribution share not. Crain's counter-view (Hinz) noted from its accessible headline and dek only, Tier 2. New TIF section on places/chicago.md; dated bullet on land-value-capture; See Also on betterment-levy. T1 corrections: three wiki self-references reworded."
     }
   ],
-  "last_updated": "2026-09-25T11:27:46.878747+00:00",
+  "last_updated": "2026-09-25T11:28:33.160220+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 401
 }

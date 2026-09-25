@@ -5152,3 +5152,39 @@ Three writers this pass; T1 corrections were the now-familiar class — "the wik
 and access narration in a body section, which the scanner now catches ("last checked
 <date>" added to the dated-stamp pattern). Lint 0 errors; inventory 1014 pages, 0 orphans;
 scanner 0 hits wiki-wide. Ledger: 0 pending, 395 consumed. Merged to main and Ghost-synced.
+
+## 2026-09-25 — Chicago's TIF audit, a California page at last, and two rejections
+
+Five scanner items: two new pages, one enrichment, two rejections, one lead queued.
+
+The UIC Great Cities Institute's 40-year audit of Chicago tax increment financing is a new
+research page, read from the full 108-page report. Its two headline numbers are kept
+apart, as T0 warned they must be: a 13.7% average rise in the citywide rate over 2014–23
+(reaching 18.6% by 2023) is one scenario tracked across years, while the rebuttal's "17 to
+19 percent in 2023" holds the year fixed across four attribution scenarios. The 1.8%
+but-for share is stated as the preferred of four (0–6%), with the report's own point that
+the tax-shift finding is robust and the attribution share is not. Georgist reading on the
+page: most of what TIF captured was location value the general levy would have received
+anyway, redirected zone by zone and made up by higher rates on everyone else. Chicago's
+places page gains a TIF section; the LVC page a dated bullet.
+
+California finally has a places page. The wiki had George's San Francisco years, the
+single-tax campaigns and Proposition 13 as separate pages and no hub; the Center for Land
+Economics' June 2026 land-value report ($8.14 trillion by a parcel pipeline, $8.76 trillion
+by FHFA tract rates, $10.12 trillion time-trended) gave the occasion. It is carried as the
+organisation's own estimate, method and self-stated biases described, out of the lead. The
+rival measure it argues against was identified as Proposition 40 and described from the
+Legislative Analyst's Office ballot analysis and the Secretary of State's guide, with the
+$20 billion-a-year comparison traced to the measure's own expert report rather than the LAO.
+
+The Greensboro article was the same Lee Enterprises piece already cited on the split-rate
+page; the pass added what that citation had skipped — the revenue-neutral versus
+class-based comparison, and the November 2026 levy-limit amendment verified at ncleg.gov —
+and put DC's own Class 1–4 rate schedule on the DC bill page in place of the newspaper's
+multipliers. The Standard's Burnham piece duplicated PolicyEngine figures already on the
+Burnham page; the Humans on the Loop essay added nothing to the rentier page, but its
+Heller & Eisenberg anticommons lead is queued for direct fetch.
+
+Writer output again needed the same small class of fixes ("the wiki's", "for the wiki").
+Lint 0 errors; inventory 1016 pages, 0 orphans. Ledger: 1 pending, 400 consumed. Merged
+to main and Ghost-synced.

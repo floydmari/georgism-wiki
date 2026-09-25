@@ -111,6 +111,7 @@ Betterment levies in various forms exist or have existed in several countries be
 - [Objection: the symmetry/decrement objection](/wiki/symmetry-decrement-objection/) — why event-based betterment capture that ignores "worsenment" is the instrument most exposed to the compensation-symmetry critique (the Uthwatt compensation-and-betterment problem)
 - [McAllister: Developer or Land Owner Contributions?](/wiki/mcallister-developer-contributions-tpr/) — a taxonomy of developer-contribution mechanisms and their incidence
 - [O'Brien & Dembski: Land Value Capture for Place Quality](/wiki/obrien-dembski-lvc-place-quality/) — comparative evidence that planning-system design, not just instrument choice, determines whether betterment-style capture works
+- [UIC Great Cities Institute: Chicago's Tax Increment Financing — Who Paid, Who Gained?](/wiki/uic-chicago-tif-who-paid-who-gained/) — a 40-year Chicago case study of the same zone-bound capture problem: value diverted into a geographically narrow TIF fund while other neighborhoods and taxing bodies pay a higher rate on everyone else's property to make up the shortfall
 
 ## Sources
 

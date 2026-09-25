@@ -131,6 +131,22 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   establish that captured LVC revenues have systematically produced conservation,
   resilience, or equity outcomes across Asian cities.
 
+- **Chicago's TIF program at scale (2026).** A [UIC Great Cities
+  Institute](/wiki/uic-chicago-tif-who-paid-who-gained/) audit of four decades of Chicago
+  TIF — a parcel panel of roughly 750,000 properties a year matched against 346 tracked TIF
+  projects — is the largest and most methodologically developed TIF case study the wiki
+  currently carries. Its headline pairing sharpens the San Antonio and Wisconsin cases
+  above into a single number: TIF raised Chicago property-tax rates for all city property
+  owners by an average of 13.7 percent over 2014–2023 (18.6 percent by 2023), while the
+  report's preferred estimate is that only 1.8 percent of the property-value growth TIF
+  captures is attributable to TIF investment itself — the rest is organic appreciation the
+  general tax base would have received regardless. That finding is robust to how much
+  credit TIF is given for the value it captures (the rate-shift figure stays within a
+  17–19 percent band across four scenarios spanning "TIF causes nothing" to a deliberately
+  pro-TIF stress test); the exact attribution share is not, ranging from 0 to about 6
+  percent across the same four scenarios. About 51 percent of tracked TIF spending since
+  1986 went to downtown Chicago and its immediate neighbors.
+
 ## Book Findings
 
 ### Howard: Garden City as LVT Application
@@ -151,6 +167,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 - [California Irrigation Districts and the Wright Act (1887)](/wiki/california-irrigation-districts/) — the early American land-value-financed infrastructure experiment
 - [Sampat: The Rentier Economy of Growth Infrastructures in India](/wiki/sampat-india-rentier-growth-infrastructure/) — a cautionary case where value capture by capital outpaces actual infrastructure delivery
 - [Troy, Randolph & Pinnegar: Value Switching — Extracting Profit from the City](/wiki/troy-randolph-pinnegar-value-switching/) — Sydney evidence of hundred-million-dollar value uplifts triggered by rezoning decisions alone
+- [UIC Great Cities Institute: Chicago's Tax Increment Financing — Who Paid, Who Gained?](/wiki/uic-chicago-tif-who-paid-who-gained/) — a 40-year, parcel-panel audit finding Chicago TIF raised citywide tax rates by an average of 13.7 percent while only 1.8 percent of the value it captured was TIF-attributable
 - [Liu & Zhu: Contested Rent-Based Urban Governance in China](/wiki/liu-zhu-china-scalar-rent-politics/) — even public capture of land rent raises live governance questions about which government tier captures it
 - [Shepherd: The Ideological Morphology of Land Value Capture](/wiki/shepherd-ideological-morphology-lvc/) — a political-theory account of why UK LVC policy has cycled between active and passive state roles for 80 years
 - [Alvarez & Biderman: Market Power in Housing Markets](/wiki/lincoln-sao-paulo-market-power-housing/) — uses a São Paulo LVC instrument's own rate-schedule kinks to measure builder market power
@@ -191,3 +208,4 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 8. Patrick McIlheran, "How a development tool can increase property taxes," *Badger Institute*, 20 August 2026. [badgerinstitute.org](https://www.badgerinstitute.org/how-a-development-tool-can-increase-property-taxes/) — read in full, 2026-08-23; used for the Wisconsin net-new-construction levy-limit mechanism, the Wisconsin Legislative Council's own mill-rate explanation (quoted verbatim), the up-to-27-year TIF diversion period, the local-official-denial point, and the Port Washington-area 647-acre data-center TIF example (B-claim; local policy journalism from a free-market-oriented think tank).
 9. Kartika Listriana & Walter Timo de Vries, "Cultural Heritage, Land Value Dynamics, and Land Value Capture Governance in Asia: A Systematic Literature Review," *International Journal of Sustainable Development and Planning* 21(8) (2026): 3423–3437, IIETA. [DOI](https://doi.org/10.18280/ijsdp.210802) — full text read, 2026-09-24; used for the 20-study corpus profile, the heritage-value/LVC-instrument typology, and the named intersection case studies (West Lake, Xi'an, Kota Lama Tangerang, Dihua Street) (C-claim; a qualitative synthesis review, not quantified evidence). Venue and methodology caveats: IJSDP/IIETA is a broad-scope, lower-tier venue rather than a specialist planning or public-finance journal; the review's own methodology discloses single-reviewer screening with no independent dual-reviewer check, and a revision-stage "corrective audit" in which the original 2025 record-level search export was not preserved, so the final 20-study corpus was reconstructed de novo from a 64-reference working pool rather than verified against the original search. The second author (Technical University of Munich) has a peer-reviewed land-administration research record; the first author's academic standing is unconfirmed. Cited here as "a 2026 systematic review found," not as settled research findings.
 10. Lawrence C. Walters, "Are Property-Related Taxes Effective Value Capture Instruments?," ch. 8 in Gregory K. Ingram & Yu-Hung Hong, eds., *Value Capture and Land Policies* (Lincoln Institute of Land Policy, 2012), 187–206. [lincolninst.edu](https://www.lincolninst.edu/publications/books/value-capture-land-policies/) — used for the four practical conditions for property-tax LVC and the 156-MSA cash-flow-to-property-tax-revenue finding (A-claim; peer-reviewed-adjacent edited academic volume). [Wiki summary](/wiki/walters-property-taxes-value-capture-instruments/).
+11. Juan D. González, Matthew D. Wilson, Teresa Córdova & Jason "Jay" Campos, *Chicago's Tax Increment Financing: Who Paid, Who Gained?*, UIC Great Cities Institute, August 2026. [greatcities.uic.edu](https://greatcities.uic.edu/news-stories/chicagos-tax-increment-financing-who-paid-who-gained/) — used for the Chicago TIF tax-rate-shift, but-for attribution, and downtown-spending-concentration figures (B-claim, Tier 1 institutional report). Full detail on this wiki's [dedicated summary](/wiki/uic-chicago-tif-who-paid-who-gained/).
