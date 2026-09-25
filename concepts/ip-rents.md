@@ -101,7 +101,13 @@ documents for land assembly: in both cases a party with a blocking legal claim c
 surplus it did nothing to create, and in both cases the costly workarounds that emerge are
 themselves a measure of the underlying privilege's social cost. It is also a caution for the
 "just calibrate term and scope" conclusion above — some of IP's deadweight loss lives in
-contracting behavior downstream of the patent grant, not only in the grant's own breadth.
+contracting behavior downstream of the patent grant, not only in the grant's own breadth. The
+canonical case for the underlying dynamic is older than Choi's contracting result: reach-through
+license agreements — where an upstream patent owner retains a claim on whatever a downstream
+user later discovers — are what [Heller & Eisenberg (1998)](/wiki/heller-eisenberg-anticommons-biomedical-research/)
+call "stacking licenses," one of two mechanisms by which they argue fragmented patent rights can
+produce an "anticommons" in which a resource goes underused because too many owners can block
+each other.[6]
 
 ## Honest Limits
 
@@ -157,3 +163,8 @@ blanket levy — and the calibration is where the genuine disagreement lives.
    framing, both quoted directly from the abstract (§"Royalties as a Rent-Protection Device"
    above). Peer-reviewed, but abstract-level only: the full paper is paywalled at the journal
    and its model, assumptions, and secondary results were not read (B-claim).
+6. Michael A. Heller & Rebecca S. Eisenberg (1998), "Can Patents Deter Innovation? The
+   Anticommons in Biomedical Research," *Science* 280(5364), 698–701, DOI
+   10.1126/science.280.5364.698 — read in full — used for the "stacking licenses" /
+   reach-through license agreement mechanism and the anticommons concept it exemplifies
+   (A-claim). [Wiki page](/wiki/heller-eisenberg-anticommons-biomedical-research/)

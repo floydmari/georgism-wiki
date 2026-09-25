@@ -5188,3 +5188,19 @@ Heller & Eisenberg anticommons lead is queued for direct fetch.
 Writer output again needed the same small class of fixes ("the wiki's", "for the wiki").
 Lint 0 errors; inventory 1016 pages, 0 orphans. Ledger: 1 pending, 400 consumed. Merged
 to main and Ghost-synced.
+
+## 2026-09-25 (evening) — the anticommons
+
+One item, the Heller & Eisenberg lead queued this morning. The *Science* paper was read in
+full — science.org, SSRN and the Michigan repository all bot-walled, a mirror copy did not —
+and is a new research page: the anticommons as the mirror image of the commons, too many
+rights to exclude leaving a resource underused; two mechanisms, concurrent fragments and
+stacked licences; the authors' own word "holdout" for the first. The founding Harvard Law
+Review paper, with the Moscow storefronts, could not be fetched and is cited as origin
+only. The bridge to land — fragmented exclusion over a scarce input letting each holder
+charge a toll unrelated to contribution — is marked on the page as interpretation, since
+the paper says nothing about land. Paragraph on the holdout-problem page, sentence on the
+IP-rents page, See Also on land-monopoly; Heller and Eisenberg added to Tier 1.
+
+Lint 0 errors; inventory 1017 pages, 0 orphans. Ledger: 0 pending, 401 consumed. Merged to
+main and Ghost-synced.

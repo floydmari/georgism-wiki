@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.science.org/doi/10.1126/science.280.5364.698",
-      "title": "Heller & Eisenberg (1998), Can Patents Deter Innovation? The Anticommons in Biomedical Research (Science 280:698)",
-      "reason": "Lead from a rejected 2026-09-25 essay: the 'tragedy of the anticommons' — fragmented exclusion rights blocking use — is the mirror of the commons problem and bears on concepts/ip-rents.md and concepts/land-monopoly.md (assembly problems, holdouts). Tier 1 (Science; Heller, Columbia Law). Also consider Heller's 1998 Harvard Law Review 'The Tragedy of the Anticommons: Property in the Transition from Marx to Markets'.",
-      "context": "Michael A. Heller & Rebecca S. Eisenberg, Science 280(5364): 698–701, 1 May 1998. Likely paywalled at science.org; author-hosted PDFs exist (Columbia Law / Michigan Law repositories).",
-      "author": "T1",
-      "source": "T1 lead from queue item",
-      "queued_at": "2026-09-25T11:22:46.708584+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4774,9 +4763,23 @@
       "wiki_page": "research/uic-chicago-tif-who-paid-who-gained.md",
       "triage_date": "2026-09-25",
       "notes": "T1 concurs with T0 (new research page, Tier 1 university institute, B-claim as non-peer-reviewed institutional research). Full 108-page report read. The two rate-shift figures are defined separately on the page: 13.7% average / 18.6% by 2023 is one scenario across years; the rebuttal's 17–19% holds 2023 fixed across four attribution scenarios. The 1.8% but-for share is stated as the preferred of four scenarios (0–6%), with the tax-shift finding robust and the attribution share not. Crain's counter-view (Hinz) noted from its accessible headline and dek only, Tier 2. New TIF section on places/chicago.md; dated bullet on land-value-capture; See Also on betterment-levy. T1 corrections: three wiki self-references reworded."
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.280.5364.698",
+      "title": "Heller & Eisenberg (1998), Can Patents Deter Innovation? The Anticommons in Biomedical Research (Science 280:698)",
+      "reason": "Lead from a rejected 2026-09-25 essay: the 'tragedy of the anticommons' — fragmented exclusion rights blocking use — is the mirror of the commons problem and bears on concepts/ip-rents.md and concepts/land-monopoly.md (assembly problems, holdouts). Tier 1 (Science; Heller, Columbia Law). Also consider Heller's 1998 Harvard Law Review 'The Tragedy of the Anticommons: Property in the Transition from Marx to Markets'.",
+      "context": "Michael A. Heller & Rebecca S. Eisenberg, Science 280(5364): 698–701, 1 May 1998. Likely paywalled at science.org; author-hosted PDFs exist (Columbia Law / Michigan Law repositories).",
+      "author": "T1",
+      "source": "T1 lead from queue item",
+      "queued_at": "2026-09-25T11:22:46.708584+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/heller-eisenberg-anticommons-biomedical-research.md",
+      "triage_date": "2026-09-25",
+      "notes": "T1 concurs with T0 (new research page, Tier 1, A-claim; Science paper read in full from a mirror after science.org, SSRN and the Michigan repository were bot-walled). The Harvard Law Review founding paper remains unread and is cited as origin only (C). Georgist bridge (anticommons as the mirror of the commons; concurrent fragments = land-assembly holdout, which the authors themselves call holdout; stacking = reach-through royalties) is marked as interpretation. Enrichments on holdout-problem and ip-rents; See Also on land-monopoly. Heller and Eisenberg added to Tier 1."
     }
   ],
-  "last_updated": "2026-09-25T11:28:33.160220+00:00",
+  "last_updated": "2026-09-25T19:26:44.810504+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 401
 }

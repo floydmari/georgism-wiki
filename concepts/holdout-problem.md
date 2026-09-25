@@ -17,6 +17,8 @@ The holdout problem is fundamentally a **land-specific** market failure. Unlike 
 
 This uniqueness is what links the holdout problem to the broader Georgist analysis of [economic rent](/wiki/economic-rent/): the surplus a holdout owner can extract is not a return on production or investment, but a capture of value created by the assembler's complementary investments and by the geographic necessity of that particular site. The problem is most acute in dense urban areas where [agglomeration economies](/wiki/agglomeration-economies/) make specific locations especially valuable and where parcels are small and numerous.[1] Tideman and Plassmann caution, however, that reliable measurement is elusive: they write that "the lack of reliable estimates of the frequency and cost of holdouts makes it impossible to determine whether either private bargaining or government intervention minimizes the expected social cost of land assembly," and note that the economics literature "has analyzed the motivation of owners to engage in strategic holding out, but has not offered compelling bargaining solutions."[1] A later empirical study partly fills this gap: using a panel of 2.3 million Los Angeles County parcels over twelve years, Brooks and Lutz (2016) find that land later sold into an assembly trades at a **15–40% premium** over otherwise-comparable land sold for other uses, and attribute a significant share of that premium to private-market frictions such as holdouts rather than to land-use regulation alone.[4]
 
+The same dynamic recurs outside land entirely. [Heller & Eisenberg (1998)](/wiki/heller-eisenberg-anticommons-biomedical-research/) describe a "tragedy of the anticommons" in biomedical patents: when a product requires licenses from many separate owners of complementary, non-substitutable patent rights — individual gene fragments, or patents on members of a receptor family — the bargaining challenge can be severe enough that development stalls or proceeds on incomplete information. The authors use the word "holdout" for this themselves, writing that "the lack of substitutes for certain biomedical discoveries (such as patented genes or receptors) may increase the leverage of some patent holders, thereby aggravating holdout problems."[6]
+
 ## Traditional Solutions and Their Limits
 
 The conventional legal response to the holdout problem is **eminent domain** (compulsory purchase), under which a government or authorised entity can force the sale of land for public purpose at fair market value. While this resolves the bargaining failure, it raises separate concerns: it requires a political determination of "public purpose," it can be abused to benefit private developers, and it compensates owners at a price that may not reflect their subjective valuation. Tideman and Plassmann treat eminent domain (which they call "takings") as the principal benchmark alternative to their mechanisms: they observe that "governments can ameliorate the holdout problem by taking the properties of those owners under eminent domain," but that "public takings may lead to the implementation of projects that should not be implemented because their net benefits are smaller than the sum of the owners' losses," so that the holdout problem is "only a part of the more general problem of land assembly."[1] Their own contribution is framed explicitly as two mechanisms that "solve the holdout problem and lead to efficiency in land assembly without resorting to governmental takings."[1] They note their motivating context is the 2005 US Supreme Court decision *Kelo v. City of New London*, which upheld the taking of property for transfer to a private developer as part of an urban-renewal plan.[1]
@@ -50,6 +52,7 @@ The problem also connects to [land speculation](/wiki/land-speculation/): an own
 - [Land Speculation](/wiki/land-speculation/)
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Nicolaus Tideman](/wiki/nicolaus-tideman/)
+- [Heller & Eisenberg (1998)](/wiki/heller-eisenberg-anticommons-biomedical-research/) — the same many-blocking-rights-holders dynamic, in biomedical patents rather than land
 
 ## Sources
 
@@ -75,3 +78,8 @@ The problem also connects to [land speculation](/wiki/land-speculation/): an own
    "discourages the magnitude of seller holdout (but not its frequency) and
    increases the rate of successful land assembly by almost 60%"; the body
    reports the assembly rate increasing by 58.4%.
+6. Michael A. Heller & Rebecca S. Eisenberg, "Can Patents Deter Innovation? The Anticommons
+   in Biomedical Research," *Science* 280(5364), 698–701 (1 May 1998), DOI
+   10.1126/science.280.5364.698 — read in full — used for the concurrent-fragments patent
+   dynamic and the authors' own use of "holdout" for it (A-claim). See
+   [Heller & Eisenberg (1998)](/wiki/heller-eisenberg-anticommons-biomedical-research/).
