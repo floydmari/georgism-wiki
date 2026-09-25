@@ -50,6 +50,8 @@ fully return to in-person work post-pandemic and following federal workforce red
 under the Trump administration; the federal government is separately selling off some
 large DC buildings for private redevelopment that could, over time, restore tax base.
 
+The District already runs a steeply classified property tax, which is the base any land-value reform would replace. Residential property (Class 1) is taxed at $0.85 per $100 of assessed value, with the portion of a home above $2.558 million at $1.00; commercial property (Class 2) at $1.65 rising to $1.89 for assessments above $10 million; vacant property (Class 3) at $5.00; and blighted property (Class 4) at $10.00.[4] The vacant and blighted classes are the District's existing, use-based penalty on holding land idle, at roughly six and twelve times the residential rate; a land-value assessment would replace that blunt instrument with a continuous one, since an idle parcel valued at its highest and best use pays the same as its developed neighbour without any classification decision.
+
 ## The Congressional Veto Threat
 
 The bill's timing intersects with a separate, unrelated threat to DC's fiscal autonomy:
@@ -119,3 +121,4 @@ jurisdiction's more basic fiscal-autonomy fight.
    text itself). [Bill text/status](https://lims.dccouncil.gov/Legislation/B26-0777) via
    the DC Council's own legislative information system (not independently fetched this
    session).
+4. District of Columbia Office of Tax and Revenue, "Real Property Tax Rates" (current classes and rates). [otr.cfo.dc.gov](https://otr.cfo.dc.gov/page/real-property-tax-rates) — used for the Class 1–4 rates per $100 of assessed value and the Class 1B and Class 2 thresholds (A-claim; official schedule, rates set annually by the Council and subject to change).
