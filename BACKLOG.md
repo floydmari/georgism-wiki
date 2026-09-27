@@ -88,6 +88,9 @@ NOW/NEXT. Below reflects true state as of this reconciliation; treat anything no
 
 ## NOW (in flight today, 2026-07-10)
 
+- [ ] [SOURCE-BLOCKED] tier:T1 status:open (2026-09-27) — Shibani Mishra & Alok Kumar Mishra, *Public Finance for Cities* (OUP, publishes 29 Oct 2026): ch. 3 "Land and Property Tax as Benefit Taxes" (India ULB property-tax experience: Patna, Hyderabad, Bengaluru) and ch. 5 "Designing Urban Finance on the Benefit Principle" (Wicksell → Mohring–Harwitz → Stiglitz synthesis). Abstract-only in September; re-queue both DOIs (10.1093/9780198998075.003.0003 and .0005) after publication for concepts/henry-george-theorem.md and the India research pages. A places/india.md hub is also still missing.
+- [ ] [SOURCE-BLOCKED] tier:T2 status:open (2026-09-27) — Baik & Lee, "Endogenous syndicate formation in (rent-seeking) contests," JEBO 2026, DOI 10.1016/j.jebo.2026.107736: no abstract or text reachable from this network. Retry elsewhere; at most a sentence for concepts/rent-seeking.md.
+
 - [ ] [SOURCE-BLOCKED] tier:T1 status:open (2026-09-23) — Mushtaq Khan's framework chapters in Khan & Jomo (eds.), *Rents, Rent-Seeking and Economic Development* (CUP 2000): the rent typology, the land/natural-resource rent passage and the explicit Krueger/Tullock critique. eprints.soas.ac.uk is blocked at the session proxy and every mirror served a bot challenge; needs a fetch from a different network or a library copy. Until then concepts/rent-seeking.md carries only the 2010 working paper.
 
 ### Problems/benefits Phase 2 — stub waves (the main event; acceptance rule EDITORIAL §5b:
