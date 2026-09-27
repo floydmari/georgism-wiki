@@ -82,6 +82,7 @@ verified aggregate G7 foregone-output loss.
 - [Goodhart, Hudson, Kumhof & Tideman (2021)](/wiki/goodhart-stimulus/) — the modern successor
 - [Harrison, Boom Bust (book)](/wiki/harrison-boom-bust/) — carries the figure at Ch. 14
 - [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — the immediately following chapter of the same *Losses of Nations* volume
+- [Gross & Klein (2026)](/wiki/gross-klein-partial-equilibrium-welfare-market-power-taxes/) — a more recent deadweight-loss formula, for commodity taxes and market power rather than labour and capital taxes
 
 ## Sources
 

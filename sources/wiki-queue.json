@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://doi.org/10.1016/j.jebo.2026.107747",
-      "title": "A new partial-equilibrium approach to approximating the welfare effects of market power and taxes",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed journal article (JEBO). Extends the deadweight-loss formula beyond the unstated assumption that all other markets are undistorted — directly relevant to the wiki's excess-burden comparisons between land/rent taxes and taxes on labor and capital in distorted economies.",
-      "context": "A new partial-equilibrium approach to approximating the welfare effects of market power and taxes — Till Gross & Paul Klein. Journal of Economic Behavior & Organization, 2026. DOI 10.1016/j.jebo.2026.107747 (resolved from exa.ai library proxy via Crossref; published version of SSRN 5046463/5342477). Not in registry, inventory, queue, consumed, or any wiki page.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-27T11:08:53.999968+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4827,9 +4816,23 @@
       "verdict": "rejected",
       "triage_date": "2026-09-27",
       "notes": "Access failure, not a merits judgment: no abstract or full text reachable (Crossref/Semantic Scholar/Unpaywall/OpenAlex empty or closed; ScienceDirect bot-walled; no working-paper copy found). Filed in BACKLOG for retry from a different network. Pure contest-theory extension of Tullock; would at most be a sentence on concepts/rent-seeking.md."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jebo.2026.107747",
+      "title": "A new partial-equilibrium approach to approximating the welfare effects of market power and taxes",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed journal article (JEBO). Extends the deadweight-loss formula beyond the unstated assumption that all other markets are undistorted — directly relevant to the wiki's excess-burden comparisons between land/rent taxes and taxes on labor and capital in distorted economies.",
+      "context": "A new partial-equilibrium approach to approximating the welfare effects of market power and taxes — Till Gross & Paul Klein. Journal of Economic Behavior & Organization, 2026. DOI 10.1016/j.jebo.2026.107747 (resolved from exa.ai library proxy via Crossref; published version of SSRN 5046463/5342477). Not in registry, inventory, queue, consumed, or any wiki page.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-27T11:08:53.999968+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/gross-klein-partial-equilibrium-welfare-market-power-taxes.md",
+      "triage_date": "2026-09-27",
+      "notes": "T1 concurs with T0 (new research page, Tier 1, B-claim: text read from the June 2025 author manuscript via the author's site; SSRN/ScienceDirect bot-walled). Core result verified against the tables: with 90% of markets already taxed, removing the last exemption raises welfare (GE +0.46 to +0.11 across labour-tax rates) while the standard and Goulder–Williams formulas predict losses. The paper never mentions land; the page says so and marks the bearing on the zero-DWL argument as interpretation. Paragraph on concepts/deadweight-loss; See Also on tideman-plassmann-losses-of-nations and lvt-is-just-a-property-tax. T1 corrections: a search-narration sentence and a wiki self-reference reworded."
     }
   ],
-  "last_updated": "2026-09-27T11:27:34.694769+00:00",
+  "last_updated": "2026-09-27T11:32:23.466162+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 405
 }

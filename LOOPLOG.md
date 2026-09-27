@@ -5204,3 +5204,27 @@ IP-rents page, See Also on land-monopoly; Heller and Eisenberg added to Tier 1.
 
 Lint 0 errors; inventory 1017 pages, 0 orphans. Ledger: 0 pending, 401 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-09-27 — second-best deadweight loss, and three papers the network would not give up
+
+Four academic items from the scan. Only one could be read: Gross & Klein's *JEBO* paper on
+approximating welfare effects when other markets are already distorted, obtained as the
+June 2025 author manuscript from Gross's own site after SSRN and ScienceDirect refused. It
+is a new research page. The textbook Harberger formula assumes every other market is
+undistorted; with 90% of markets already taxed, the paper's own formula and full general
+equilibrium both show that removing the last exemption *raises* welfare (+0.46 to +0.11
+across labour-tax rates) where the standard and Goulder–Williams formulas predict losses.
+The paper never mentions land; the page says so, and marks as interpretation the point that
+land's fixed-supply argument concerns the taxed market's own elasticity and is untouched by
+cross-market terms. Paragraph on the deadweight-loss concept page.
+
+The two Mishra & Mishra chapters in OUP's *Public Finance for Cities* are abstract-only
+until the book publishes on 29 October 2026; rather than add abstract-only sentences to the
+Henry George Theorem page, both DOIs are filed in BACKLOG to re-queue after publication (and
+the missing places/india.md hub is noted again). Baik & Lee's contest-theory paper yielded
+no abstract or text from any route and is filed for retry from another network.
+
+T1 corrections this pass: one "full-text search … returns no matches" sentence — research
+narration of the kind §4b forbids, phrased as a fact about the paper — and one "the wiki's".
+Lint 0 errors; inventory 1018 pages, 0 orphans. Ledger: 0 pending, 405 consumed. Merged to
+main and Ghost-synced.
