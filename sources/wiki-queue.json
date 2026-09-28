@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://doi.org/10.35293/srsa.v48i1.7468",
-      "title": "A Heterodox Developmental Economics Understanding of Systemic Corruption: The Case of South Africa",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed article applying heterodox developmental economics to systemic corruption and state capture in post-apartheid South Africa: developmental states must manage economic rents by disciplining vested interests and directing capital to productive investment; states that fail create extractive rent-seeking elites, with financialisation intensifying speculative rent-seeking. Enriches rent-seeking and rent-governance content.",
-      "context": "A Heterodox Developmental Economics Understanding of Systemic Corruption: The Case of South Africa — Seeraj Mohamed. The Strategic Review for Southern Africa 48(1), 2026. DOI 10.35293/srsa.v48i1.7468. Not in registry, inventory, queue, or consumed.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-09-28T11:09:00.510549+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4882,9 +4871,23 @@
       "verdict": "rejected",
       "triage_date": "2026-09-28",
       "notes": "T1 took the reject side of T0's close call: a 66-page trade-policy model (negative optimal tariff of −8% to −12% when importers are few, large and high-markup) with no mention of rent or land. Too remote for the wiki; the market-power cluster already has Kaplow for the taxation side."
+    },
+    {
+      "url": "https://doi.org/10.35293/srsa.v48i1.7468",
+      "title": "A Heterodox Developmental Economics Understanding of Systemic Corruption: The Case of South Africa",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed article applying heterodox developmental economics to systemic corruption and state capture in post-apartheid South Africa: developmental states must manage economic rents by disciplining vested interests and directing capital to productive investment; states that fail create extractive rent-seeking elites, with financialisation intensifying speculative rent-seeking. Enriches rent-seeking and rent-governance content.",
+      "context": "A Heterodox Developmental Economics Understanding of Systemic Corruption: The Case of South Africa — Seeraj Mohamed. The Strategic Review for Southern Africa 48(1), 2026. DOI 10.35293/srsa.v48i1.7468. Not in registry, inventory, queue, or consumed.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-09-28T11:09:00.510549+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/mohamed-south-africa-systemic-corruption-rents.md",
+      "triage_date": "2026-09-28",
+      "notes": "T1 concurs with T0 (new research page, Supplementary; the one item of the batch with a clean full-text fetch). Interpretive synthesis carried as 'Mohamed argues'; Khan (2000) quotations taken from Mohamed's text; REI4P contingent liabilities (ZAR 303.1bn / 244.3bn) carried as his citation of the 2026 Budget Review. Georgist bridge to site-value rating marked as interpretation. Paragraph on rent-seeking's Khan section, new section on south-africa, See Also on gaffney-rent-seeking-global-conflict. T1 corrections: five wiki self-references reworded, applied across two follow-up commits after the first edit script aborted."
     }
   ],
-  "last_updated": "2026-09-28T11:23:47.591802+00:00",
+  "last_updated": "2026-09-28T11:31:55.566655+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 409
 }
