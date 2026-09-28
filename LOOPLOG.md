@@ -5228,3 +5228,28 @@ T1 corrections this pass: one "full-text search … returns no matches" sentence
 narration of the kind §4b forbids, phrased as a fact about the paper — and one "the wiki's".
 Lint 0 errors; inventory 1018 pages, 0 orphans. Ledger: 0 pending, 405 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-09-28 — German land-price spillovers, a market-power survey behind a wall, and South Africa's rents
+
+Four academic items. Mohamed's *Strategic Review for Southern Africa* article on systemic
+corruption was the only one the network gave up in full, and it is a new research page: a
+Khan-style argument that post-apartheid South Africa never built a state able to discipline
+rent-holding elites, so state capture is a symptom of an extractive structure rather than
+its cause — the minerals-energy complex surviving the transition, GEAR, Eskom, and the
+renewable-IPP "derisking" regime with its contingent liabilities cited from the 2026 Budget
+Review. Carried as "Mohamed argues"; the pairing with the country's own municipal
+site-value-rating tradition is marked as interpretation. Paragraph on the rent-seeking
+page's Khan section, a new section on the South Africa page.
+
+Braun & Lee's Emerald paper on German land prices was abstract-only but the abstract carries
+the numbers: a 1% rise in county median income lifts land prices 1.5–2.5% locally and
+0.5–0.9% in neighbouring counties, density 2–3% and 1.5–2%, strongest in the metropolitan
+suburbs — a measured spillover of location value across county lines, now on the
+agglomeration-economies and Germany pages as B-claims. Rossi's *Journal of Economic Surveys*
+review is CC-BY open access and still unreachable through Wiley's wall; its abstract went in
+as annotated See Also entries on two market-power pages, with a BACKLOG entry to fetch it
+elsewhere. Becker, Boar & Midrigan's optimal-tariff paper, with no rent or land content,
+was rejected as too remote. Four authors added to Tier 1.
+
+Lint 0 errors; inventory 1019 pages, 0 orphans. Ledger: 0 pending, 409 consumed. Merged to
+main and Ghost-synced.

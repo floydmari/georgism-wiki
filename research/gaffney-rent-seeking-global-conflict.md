@@ -96,6 +96,7 @@ argument was in developed form by 1988, not that 1988 is its origin.
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Resource Rents](/wiki/resource-rents/)
 - [Mason Gaffney](/wiki/mason-gaffney/)
+- [Mohamed (2026): A Heterodox Developmental Economics Understanding of Systemic Corruption in South Africa](/wiki/mohamed-south-africa-systemic-corruption-rents/) — a contemporary, non-Georgist case of undisciplined elite rent-seeking around minerals and land, argued through the developmental-state framework rather than Gaffney's land-tenure thesis
 
 ## Sources
 
