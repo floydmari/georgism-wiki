@@ -259,6 +259,8 @@ have roughly tripled since 1980" as settled fact.
 
 ## See Also
 
+- Maria Alessandra Rossi, "Aggregate Market Power: Measurement, Drivers, and Macroeconomic Effects," *Journal of Economic Surveys* (2026), [doi.org/10.1111/joes.70160](https://doi.org/10.1111/joes.70160) — a 2026 survey of the macro market-power literature whose abstract summarises the post-1980s pattern as stable median markups with rising upper-tail dispersion and reallocation toward a few high-markup firms, and calls the evidence linking market power to falling labour shares and rising inequality strong while productivity and investment effects are "more nuanced and non-monotonic" (open-access article; abstract only, full text not yet read)
+
 - [De Loecker, Eeckhout & Mongey — Quantifying Market Power and Business Dynamism in the Macroeconomy](/wiki/de-loecker-eeckhout-mongey-market-power-dynamism/) — a 2026 structural general-equilibrium follow-up by two of these three authors, estimating *why* markups rose (overhead costs, productivity dispersion, and fewer potential competitors) and finding a net 5% welfare / 6% output loss from the same 1980–2023 period
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)

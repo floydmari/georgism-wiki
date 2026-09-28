@@ -88,6 +88,8 @@ NOW/NEXT. Below reflects true state as of this reconciliation; treat anything no
 
 ## NOW (in flight today, 2026-07-10)
 
+- [ ] [SOURCE-BLOCKED] tier:T2 status:open (2026-09-28) — Rossi, "Aggregate Market Power" (JOES 2026, DOI 10.1111/joes.70160) is CC-BY open access but Wiley's bot wall blocks every route from this network. Fetch from elsewhere and promote from the See Also entries on de-loecker-eeckhout-unger-markups and kaplow-market-power to a research page anchoring the market-power cluster.
+
 - [ ] [SOURCE-BLOCKED] tier:T1 status:open (2026-09-27) — Shibani Mishra & Alok Kumar Mishra, *Public Finance for Cities* (OUP, publishes 29 Oct 2026): ch. 3 "Land and Property Tax as Benefit Taxes" (India ULB property-tax experience: Patna, Hyderabad, Bengaluru) and ch. 5 "Designing Urban Finance on the Benefit Principle" (Wicksell → Mohring–Harwitz → Stiglitz synthesis). Abstract-only in September; re-queue both DOIs (10.1093/9780198998075.003.0003 and .0005) after publication for concepts/henry-george-theorem.md and the India research pages. A places/india.md hub is also still missing.
 - [ ] [SOURCE-BLOCKED] tier:T2 status:open (2026-09-27) — Baik & Lee, "Endogenous syndicate formation in (rent-seeking) contests," JEBO 2026, DOI 10.1016/j.jebo.2026.107736: no abstract or text reachable from this network. Retry elsewhere; at most a sentence for concepts/rent-seeking.md.
 

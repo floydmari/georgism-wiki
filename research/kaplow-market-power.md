@@ -36,6 +36,8 @@ The paper is a caution against a facile move: the presence of rents does not, by
 
 ## See Also
 
+- Maria Alessandra Rossi, "Aggregate Market Power: Measurement, Drivers, and Macroeconomic Effects," *Journal of Economic Surveys* (2026), [doi.org/10.1111/joes.70160](https://doi.org/10.1111/joes.70160) — a 2026 survey of the macro market-power literature whose abstract summarises the post-1980s pattern as stable median markups with rising upper-tail dispersion and reallocation toward a few high-markup firms, and calls the evidence linking market power to falling labour shares and rising inequality strong while productivity and investment effects are "more nuanced and non-monotonic" (open-access article; abstract only, full text not yet read)
+
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Economic Rent](/wiki/economic-rent/)
 - [The Profit Paradox (Eeckhout)](/wiki/eeckhout-profit-paradox/)
