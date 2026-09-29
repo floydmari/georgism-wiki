@@ -29,6 +29,16 @@
       "author": null,
       "queued_at": "2026-09-29T11:16:08.078706+00:00",
       "reported": false
+    },
+    {
+      "url": "https://www.resolutionfoundation.org/publications/home-economics/",
+      "title": "Home economics — reforming England's housing tax system (Resolution Foundation, 24 Sep 2026)",
+      "reason": "Lead from the Fairer Share release (2026-09-29): the Resolution Foundation (an established research foundation; Mike Brewer is a Tier 1 academic economist) proposes replacing council tax and stamp duty with a single revenue-neutral 0.7% annual tax on current home value, paid by occupiers with rebates and deferral, plus a valuation database and a commission. A property-value tax, not LVT — but the most authoritative current UK reform proposal and directly relevant to people/andy-burnham.md, places/united-kingdom.md and research/muellbauer-property-tax-reform-england.md (compare Muellbauer's PHVCTS design).",
+      "context": "Hannah Aldridge, Mike Brewer & Matthew Cavanagh, 'Home economics', Resolution Foundation, 24 September 2026.",
+      "author": "T1",
+      "source": "T1 lead from queue item",
+      "queued_at": "2026-09-29T19:26:01.890823+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -4945,7 +4955,7 @@
       "wiki_page": "people/andy-burnham.md"
     }
   ],
-  "last_updated": "2026-09-29T19:25:22.340967+00:00",
+  "last_updated": "2026-09-29T19:26:01.890856+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 414
+  "total": 415
 }
