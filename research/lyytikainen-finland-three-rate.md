@@ -78,6 +78,7 @@ from "true in one US state" toward "true across tax systems."
 - [Banzhaf & Lavery (2010)](/wiki/banzhaf-lavery-pa-sprawl/) — the Pennsylvania density decomposition
 - [The Bentick–Mills timing critique](/wiki/bentick-mills-timing-neutrality/) — the timing/density nuance this paper independently surfaces
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) — the general policy family
+- [Falkenbach et al. (2026)](/wiki/falkenbach-helsinki-land-lease-information-capitalization/) — Finland cross-reference: Helsinki's 2008 land-lease rent renewal policy and how slowly leasehold prices absorbed it
 
 ## Sources
 

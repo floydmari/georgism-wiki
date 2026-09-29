@@ -62,6 +62,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/)
 - [Sistemas del impuesto predial en América Latina y el Caribe (2nd ed.)](/wiki/lincoln-institute-latam-property-tax-book/) — the Lincoln Institute's regional-survey counterpart for Latin America and the Caribbean
 - [India's Value Capture Financing Framework (MoHUA, 2017)](/wiki/india-mohua-value-capture-framework/) — a third developing-region case: India's property-tax take (under 0.2% of GDP) is even further below the OECD average than the African cases this page documents
+- [Nigeria](/wiki/nigeria/) — the book's Lagos land use charge (ch. 32) read against the Land Use Act 1978's state-held land and statutory ground rent
 
 ## Sources
 

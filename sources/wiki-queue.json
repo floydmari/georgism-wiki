@@ -11,26 +11,6 @@
       "reported": false
     },
     {
-      "url": "https://doi.org/10.1111/1540-6229.70073",
-      "title": "Information Capitalization in the Housing Market: Evidence from Land Leases",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper. Causal evidence on how information shocks about large future land-rent increases capitalize into transaction prices of leasehold homes in Helsinki, Finland — directly relevant to land-rent capitalization, leasehold, and land-value-assessment pages.",
-      "context": "Information Capitalization in the Housing Market: Evidence from Land Leases — Heidi Falkenbach, Oskari Harjunen, Erik Mäkelä & Elias Oikarinen. Real Estate Economics, Sept 2026. DOI 10.1111/1540-6229.70073 (resolved from exa.ai library proxy via Crossref; earlier ERES 2023 conference version 10.15396/eres2023_220). Not in registry, inventory, queue, or consumed.",
-      "author": null,
-      "queued_at": "2026-09-29T11:16:08.078706+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://www.theinfostride.com/niesv-advocates-ground-rent-as-sustainable-revenue-source-for-housing-and-infrastructure-development/",
-      "title": "NIESV Advocates Ground Rent As Sustainable Revenue Source For Housing And Infrastructure Development",
-      "source": "lvt-paper-scanner",
-      "reason": "Nigeria's professional valuation body (NIESV) advocating ground rent as a sustainable revenue source for housing/infrastructure — registry has no Nigeria coverage; fills a country gap for the wiki's international ground-rent pages.",
-      "context": "NIESV Advocates Ground Rent As Sustainable Revenue Source For Housing And Infrastructure Development — Temitope Nlewemchi. InfoStride News, Sept 26 2026. Not in registry, inventory, queue, or consumed.",
-      "author": null,
-      "queued_at": "2026-09-29T11:16:08.078706+00:00",
-      "reported": false
-    },
-    {
       "url": "https://www.resolutionfoundation.org/publications/home-economics/",
       "title": "Home economics — reforming England's housing tax system (Resolution Foundation, 24 Sep 2026)",
       "reason": "Lead from the Fairer Share release (2026-09-29): the Resolution Foundation (an established research foundation; Mike Brewer is a Tier 1 academic economist) proposes replacing council tax and stamp duty with a single revenue-neutral 0.7% annual tax on current home value, paid by occupiers with rebates and deferral, plus a valuation database and a commission. A property-value tax, not LVT — but the most authoritative current UK reform proposal and directly relevant to people/andy-burnham.md, places/united-kingdom.md and research/muellbauer-property-tax-reform-england.md (compare Muellbauer's PHVCTS design).",
@@ -4953,9 +4933,37 @@
       "triage_date": "2026-09-29",
       "notes": "T1 went one step beyond T0's reject: added one attributed paragraph on people/andy-burnham.md carrying the campaign's own September 2026 figures (£566, 279 of 295 councils, £10.1bn) as a C-claim with its modelling basis and lack of independent review stated, plus the Fairer Council Tax Group, petition and poll. Its linked Resolution Foundation 0.7% property-tax plan queued separately from the Foundation's own site.",
       "wiki_page": "people/andy-burnham.md"
+    },
+    {
+      "url": "https://doi.org/10.1111/1540-6229.70073",
+      "title": "Information Capitalization in the Housing Market: Evidence from Land Leases",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper. Causal evidence on how information shocks about large future land-rent increases capitalize into transaction prices of leasehold homes in Helsinki, Finland — directly relevant to land-rent capitalization, leasehold, and land-value-assessment pages.",
+      "context": "Information Capitalization in the Housing Market: Evidence from Land Leases — Heidi Falkenbach, Oskari Harjunen, Erik Mäkelä & Elias Oikarinen. Real Estate Economics, Sept 2026. DOI 10.1111/1540-6229.70073 (resolved from exa.ai library proxy via Crossref; earlier ERES 2023 conference version 10.15396/eres2023_220). Not in registry, inventory, queue, or consumed.",
+      "author": null,
+      "queued_at": "2026-09-29T11:16:08.078706+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/falkenbach-helsinki-land-lease-information-capitalization.md",
+      "triage_date": "2026-09-29",
+      "notes": "T1 concurs with T0 (new research page, Tier 1, A-claim; CC-BY full text read from the Oulu repository). Helsinki's 2008 renewal-rent announcement (about 4% of appraised land value, phased over ten years): no price reaction for years, then a leasehold discount of about −10.5% (€28,331) by 2017–21, implied real discount rates 2.5% (50-year) / 3.7% (perpetuity), segmented market with the uncapitalized share falling from ~70% to ~30%. Enrichments on tax-capitalization, public-land-leasing and ground-rent; Finland cross-reference on lyytikainen. Four authors added to Tier 1."
+    },
+    {
+      "url": "https://www.theinfostride.com/niesv-advocates-ground-rent-as-sustainable-revenue-source-for-housing-and-infrastructure-development/",
+      "title": "NIESV Advocates Ground Rent As Sustainable Revenue Source For Housing And Infrastructure Development",
+      "source": "lvt-paper-scanner",
+      "reason": "Nigeria's professional valuation body (NIESV) advocating ground rent as a sustainable revenue source for housing/infrastructure — registry has no Nigeria coverage; fills a country gap for the wiki's international ground-rent pages.",
+      "context": "NIESV Advocates Ground Rent As Sustainable Revenue Source For Housing And Infrastructure Development — Temitope Nlewemchi. InfoStride News, Sept 26 2026. Not in registry, inventory, queue, or consumed.",
+      "author": null,
+      "queued_at": "2026-09-29T11:16:08.078706+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "places/nigeria.md",
+      "triage_date": "2026-09-29",
+      "notes": "T1 concurs with T0's supported option (new short places/nigeria.md). The news item is Tier 2 and sits only in a Current Debate paragraph; the page is anchored on the Land Use Act 1978 text (FAOLEX; ss.1, 5, 10, 16, 19 quoted) and Franzsen & McCluskey ch. 32 (Lagos 2001 Land Use Charge folding ground rent into a capital-value charge). Writer corrected the brief's overstatements: penal rent applies only on breach of a development covenant; the book is silent on rent revision practice. Linked from namo-nasarawa, franzsen-mccluskey and public-land-leasing."
     }
   ],
-  "last_updated": "2026-09-29T19:26:01.890856+00:00",
+  "last_updated": "2026-09-29T19:28:48.893401+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 415
 }

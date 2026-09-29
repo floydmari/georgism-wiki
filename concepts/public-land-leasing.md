@@ -57,6 +57,21 @@ still fund themselves from land.[1]
   anti-speculation rules — an administrative-capacity failure rather than
   Canberra's political abandonment of rent revaluation.[9] See
   [Ethiopia](/wiki/ethiopia/) for the full case.
+- **Helsinki.** The city owns land leased for 1950s–60s housing, mostly held by
+  condominiums, on cost-of-living-indexed rents that fell far below market land rents.
+  In January 2008 it announced that renewed leases would be priced at about 4% of
+  appraised land value, phased in over ten years after renewal.[10] A difference-in-differences
+  study of the 2021 renewals found no reaction in leasehold flat prices at first, then a
+  discount against comparable freehold flats of about 5% in 2008–16 and about 10.5% in
+  2017–21 — repricing at renewal was enforced and did reach prices, but only gradually
+  ([Falkenbach et al. (2026)](/wiki/falkenbach-helsinki-land-lease-information-capitalization/)).
+- **Nigeria.** The Land Use Act of 1978 vests each state's land in its Governor,
+  in trust, and lets the Governor grant rights of occupancy, charge and revise
+  rent on them, exclude the occupier's own capital from that rent, and add a penal
+  rent where a development covenant is breached — a statutory-rent structure
+  rather than a premium-at-grant one. Lagos later folded ground rent into a
+  general land use charge assessed on capital value.[11] See
+  [Nigeria](/wiki/nigeria/).
 
 ## The Georgist Reading — and the Structural Caveat
 
@@ -146,3 +161,14 @@ Public Land* (Lincoln Institute, 2003).[8]
    [fig.net PDF](http://www.fig.net/pub/fig2014/papers/ts07k/TS07K_adamu_6825.pdf)
    — used for the Ethiopia summary; full sourcing on the
    [Ethiopia](/wiki/ethiopia/) page (B-claim).
+10. Heidi Falkenbach, Oskari Harjunen, Erik Mäkelä & Elias Oikarinen (2026), "Information
+   Capitalization in the Housing Market: Evidence from Land Leases," *Real Estate
+   Economics*, DOI 10.1111/1540-6229.70073, pp. 4–5, 14
+   <https://doi.org/10.1111/1540-6229.70073> — used for the Helsinki renewal policy
+   (about 4% of appraised land value; ten-year phase-in) and the estimated leasehold
+   discounts (A-claim: peer-reviewed, open access, read in full).
+   [Research page](/wiki/falkenbach-helsinki-land-lease-information-capitalization/)
+11. Land Use Act (Nigeria), 1978 (FAOLEX text), ss.1, 5, 10, 16, 19; Riël Franzsen &
+    William McCluskey (eds.), *Property Tax in Africa*, Lincoln Institute, 2017, ch. 32,
+    pp. 484–486 — used for the Nigeria summary; full sourcing on the
+    [Nigeria](/wiki/nigeria/) page (A-claim; statute and Lincoln Institute chapter).

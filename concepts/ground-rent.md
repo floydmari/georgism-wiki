@@ -40,7 +40,10 @@ The two came apart sharply in recent UK policy. The **Leasehold Reform (Ground R
 unearned charge on leaseholders.[2] Note the irony from a Georgist angle: abolishing
 *contract* ground rent removes a private rentier's toll but does nothing to capture the
 *economic* ground rent of the site, which continues to accrue to whoever owns the freehold.
-The two reforms are complements, not substitutes.
+The two reforms are complements, not substitutes. The gap can also open through
+indexation: Helsinki's city-owned leasehold sites carried rents tied to the cost-of-living
+index that became negligible next to market land rents, until the city announced in 2008 that
+renewals would be priced at about 4% of appraised land value (see [Falkenbach et al. (2026)](/wiki/falkenbach-helsinki-land-lease-information-capitalization/)).[4]
 
 ## The Classical Lineage
 
@@ -134,3 +137,10 @@ Daly argues that the costs of depletion — "depletion, pollution, disruption of
 3. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) —
    used for the extension of ground rent to resource depletion and the analysis of unmeasured
    ecological costs (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
+4. Heidi Falkenbach, Oskari Harjunen, Erik Mäkelä & Elias Oikarinen (2026), "Information
+   Capitalization in the Housing Market: Evidence from Land Leases," *Real Estate
+   Economics*, DOI 10.1111/1540-6229.70073, pp. 4–5
+   <https://doi.org/10.1111/1540-6229.70073> — used for the Helsinki example of
+   indexed contract rents falling far below market land rents and the 2008 renewal-rent
+   policy (A-claim: peer-reviewed, open access, read in full).
+   [Research page](/wiki/falkenbach-helsinki-land-lease-information-capitalization/)

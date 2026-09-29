@@ -92,6 +92,7 @@ receiving a windfall.
 - [Sachs & Warner: The Curse of Natural Resources](/wiki/sachs-warner-resource-curse/)
 - [Martinez: Colombia's Local Resource Rents](/wiki/martinez-colombia-resource-rents/)
 - [Acemoglu, Johnson & Robinson: Botswana](/wiki/acemoglu-johnson-robinson-botswana/)
+- [Nigeria](/wiki/nigeria/) — the Land Use Act 1978's state-held land and statutory rent, the legal frame for land rent in the same country
 
 ## Sources
 

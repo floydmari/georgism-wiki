@@ -68,6 +68,16 @@ The wiki carries the capitalization literature directly:
 - **Anticipation matters.** Only *unanticipated* tax changes are cleanly
   capitalized at announcement; phased or long-expected reforms diffuse the price
   effect — the design lever behind transition-softening proposals.
+
+  A Finnish natural experiment shows how slow the adjustment can be even for a
+  fully announced change. When Helsinki announced in 2008 that expiring city land
+  leases would be repriced to about 4% of appraised land value, prices of the
+  affected leasehold flats did not react at first; the discount relative to
+  comparable freehold flats averaged about 5% in 2008–16 and about 10.5% in
+  2017–21, with the share of sales priced as if the higher rent were ignored
+  falling from 67–72% to about 30%.[6] The case concerns a contract rent, not a
+  tax, and the authors note that capitalization and the discount rate cannot be
+  separately identified; see [Falkenbach et al. (2026)](/wiki/falkenbach-helsinki-land-lease-information-capitalization/).
 - **Timing neutrality is contested at the margin:**
   [Bentick and Mills](/wiki/bentick-mills-timing-neutrality/) argue that taxing
   assessed *value* (rather than pure rent) can distort development timing even
@@ -106,3 +116,10 @@ The wiki carries the capitalization literature directly:
    survey count (13+ studies, 12 supportive; A-claim; Heavy scan); the five studies in
    Ch. 21's landlords-incidence cluster are cited here from their own primary sources.
    [Book page](/wiki/land-is-a-big-deal/)
+6. Heidi Falkenbach, Oskari Harjunen, Erik Mäkelä & Elias Oikarinen (2026), "Information
+   Capitalization in the Housing Market: Evidence from Land Leases," *Real Estate
+   Economics*, DOI 10.1111/1540-6229.70073, pp. 5, 14, 21
+   <https://doi.org/10.1111/1540-6229.70073> — used for the Helsinki leasehold
+   discount path and the fall in the noncapitalized share of sales (A-claim:
+   peer-reviewed, open access, read in full).
+   [Research page](/wiki/falkenbach-helsinki-land-lease-information-capitalization/)
