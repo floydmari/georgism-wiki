@@ -5290,5 +5290,5 @@ source; its unsourced Maryland, Colorado and Minnesota bills are filed as leads.
 Resolution Foundation's 24 September "Home economics" report (a 0.7% tax on current home
 value replacing council tax and stamp duty) is queued from the Foundation's own site.
 
-Lint 0 errors; inventory 1023 pages, 0 orphans. Ledger: 1 pending, 414 consumed. Merged to
+Lint 0 errors; inventory 1022 pages, 0 orphans. Ledger: 1 pending, 414 consumed. Merged to
 main and Ghost-synced.
