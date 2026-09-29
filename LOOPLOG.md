@@ -5253,3 +5253,42 @@ was rejected as too remote. Four authors added to Tier 1.
 
 Lint 0 errors; inventory 1019 pages, 0 orphans. Ledger: 0 pending, 409 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-09-29 — Helsinki's ground rent, Shanghai's property tax, Nigeria's Land Use Act
+
+Five scanner items: three new pages, one attributed sentence, one rejection, and two leads
+queued.
+
+Falkenbach, Harjunen, Mäkelä & Oikarinen's *Real Estate Economics* paper is the find of the
+week and is open access: when Helsinki announced in 2008 that renewal rents on its leasehold
+land would rise to about 4% of appraised land value, leasehold prices did not move for
+years, then fell to a discount of roughly a tenth (€28,000) by 2017–21, with a third of
+transactions still uncapitalized at the end. Implied real discount rates of 2.5–3.7% sit in
+the normal range; the paper says capitalization and the discount rate are not separately
+identified, and the page says so too. It now anchors the anticipation caveat on the
+tax-capitalization page and a Helsinki entry on public land leasing.
+
+Cho, Park & Zhang on China's property tax was walled in its published form; the July 2025
+working paper was read in full and every number is cited to it, with the abstract's 55%
+against the working paper's 58% of losing households stated as a discrepancy. The Shanghai
+pilot moved prices insignificantly; in the general-equilibrium model a universal 0.5% tax
+cuts prices 3.7%, raises rents 2.8%, and leaves newborns better off through the rebate.
+Cross-linked both ways with the Liu pilots page, which found the opposite on affordability.
+
+Nigeria has a places page built on the Land Use Act's own text — land vested in each
+Governor in trust, statutory rent that may be revised, a rule excluding the occupier's
+capital from the rent, a penal rent on breach of a development covenant — with Franzsen &
+McCluskey for Lagos folding ground rent into a capital-value charge. The writer corrected two
+overstatements in the brief (penal rent is not a general charge on undeveloped land; the book
+is silent on revision practice), and the valuers' body's advocacy sits in a current-debate
+paragraph as Tier 2.
+
+The Fairer Share release went onto the Burnham page as one attributed paragraph carrying the
+campaign's own £566 / 279-of-295 / £10.1 billion claims with their basis and lack of review
+stated. The Shelterforce op-ed was rejected as duplicating coverage the wiki already has from
+source; its unsourced Maryland, Colorado and Minnesota bills are filed as leads. The
+Resolution Foundation's 24 September "Home economics" report (a 0.7% tax on current home
+value replacing council tax and stamp duty) is queued from the Foundation's own site.
+
+Lint 0 errors; inventory 1023 pages, 0 orphans. Ledger: 1 pending, 414 consumed. Merged to
+main and Ghost-synced.

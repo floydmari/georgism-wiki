@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "url": "https://doi.org/10.1111/1540-6229.70074",
-      "title": "Taxing homeowners in China: Who are the winners and losers?",
-      "source": "lvt-paper-scanner",
-      "reason": "Peer-reviewed paper. Reduced-form evidence that Shanghai's property-tax pilot had little impact on the overall housing market (suggestive reduction in unit prices of larger homes), plus a general-equilibrium model of the welfare winners and losers from a national property tax. Directly relevant to the wiki's China property-tax and housing pages.",
-      "context": "Taxing homeowners in China: Who are the winners and losers? — Yunho Cho, Jinseong Park & Sisi Zhang. Real Estate Economics, Sept 2026. DOI 10.1111/1540-6229.70074 (resolved from exa.ai library proxy via Crossref; SSRN preprint 4995324). Not in registry, inventory, queue, or consumed.",
-      "author": null,
-      "queued_at": "2026-09-29T11:16:08.078706+00:00",
-      "reported": false
-    },
-    {
       "url": "https://www.resolutionfoundation.org/publications/home-economics/",
       "title": "Home economics — reforming England's housing tax system (Resolution Foundation, 24 Sep 2026)",
       "reason": "Lead from the Fairer Share release (2026-09-29): the Resolution Foundation (an established research foundation; Mike Brewer is a Tier 1 academic economist) proposes replacing council tax and stamp duty with a single revenue-neutral 0.7% annual tax on current home value, paid by occupiers with rebates and deferral, plus a valuation database and a commission. A property-value tax, not LVT — but the most authoritative current UK reform proposal and directly relevant to people/andy-burnham.md, places/united-kingdom.md and research/muellbauer-property-tax-reform-england.md (compare Muellbauer's PHVCTS design).",
@@ -4961,9 +4951,23 @@
       "wiki_page": "places/nigeria.md",
       "triage_date": "2026-09-29",
       "notes": "T1 concurs with T0's supported option (new short places/nigeria.md). The news item is Tier 2 and sits only in a Current Debate paragraph; the page is anchored on the Land Use Act 1978 text (FAOLEX; ss.1, 5, 10, 16, 19 quoted) and Franzsen & McCluskey ch. 32 (Lagos 2001 Land Use Charge folding ground rent into a capital-value charge). Writer corrected the brief's overstatements: penal rent applies only on breach of a development covenant; the book is silent on rent revision practice. Linked from namo-nasarawa, franzsen-mccluskey and public-land-leasing."
+    },
+    {
+      "url": "https://doi.org/10.1111/1540-6229.70074",
+      "title": "Taxing homeowners in China: Who are the winners and losers?",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed paper. Reduced-form evidence that Shanghai's property-tax pilot had little impact on the overall housing market (suggestive reduction in unit prices of larger homes), plus a general-equilibrium model of the welfare winners and losers from a national property tax. Directly relevant to the wiki's China property-tax and housing pages.",
+      "context": "Taxing homeowners in China: Who are the winners and losers? — Yunho Cho, Jinseong Park & Sisi Zhang. Real Estate Economics, Sept 2026. DOI 10.1111/1540-6229.70074 (resolved from exa.ai library proxy via Crossref; SSRN preprint 4995324). Not in registry, inventory, queue, or consumed.",
+      "author": null,
+      "queued_at": "2026-09-29T11:16:08.078706+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/cho-park-zhang-china-property-tax-winners-losers.md",
+      "triage_date": "2026-09-29",
+      "notes": "T1 concurs with T0 (new research page, Tier 1, B-claim: published text walled; the July 2025 KDI working paper read in full plus the published abstract, with the 55%/58% and price-effect discrepancy between versions stated). Shanghai pilot reduced-form effects insignificant; GE model: universal 0.5% tax cuts prices 3.7%, raises rents 2.8%, newborn welfare +0.69% with rebate, 58% of existing households lose. Land/structure distinction stated. Cross-linked both ways with liu-shanghai-chongqing (contrasting affordability finding); See Also on hou-kumhof-shao and xu-china-land-finance."
     }
   ],
-  "last_updated": "2026-09-29T19:28:48.893401+00:00",
+  "last_updated": "2026-09-29T19:29:50.603880+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 415
 }

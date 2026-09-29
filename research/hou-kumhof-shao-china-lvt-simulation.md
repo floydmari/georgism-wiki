@@ -94,6 +94,7 @@ China land-policy cluster.
 - [Xu, Huang & Li: Did Henry George Inspire China's Economic Miracle?](/wiki/xu-huang-li-china-hcrs-george/)
 - [Gaffney: A Real-Assets Model of Economic Crises (China)](/wiki/gaffney-real-assets-model-china/)
 - [Liu: Shanghai and Chongqing's Real Estate Tax Pilots](/wiki/liu-shanghai-chongqing-property-tax-pilots/)
+- [Cho, Park & Zhang (2026)](/wiki/cho-park-zhang-china-property-tax-winners-losers/) — a general-equilibrium model of a universal 0.5% tax on land and buildings together, rebated to households, for comparison with this paper's land-only tax
 
 ## Sources
 

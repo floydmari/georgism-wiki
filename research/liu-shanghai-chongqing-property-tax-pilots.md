@@ -5,7 +5,7 @@ bears_on_objections:
 - lvt-not-enough-revenue
 category: research
 excerpt: "A synthetic-control evaluation of China's only recurrent residential property tax pilots — Shanghai and Chongqing, running since 2011 — finds both cities show improved (lower) housing-price-to-income ratios relative to synthesized control cities, with Shanghai's gains growing over time."
-last_reviewed: 2026-08-27
+last_reviewed: 2026-09-29
 source_url: https://doi.org/10.66393/j7q8n338
 stub: false
 subcategory: wiki-research-lvt
@@ -81,6 +81,7 @@ supplies a rare non-Western, non-common-law data point for that claim.
   fiscal-federalism system (land finance, hukou-linked property markets, capital controls)
   that differs sharply from most jurisdictions the wiki otherwise covers; generalizing the
   magnitude of the effect elsewhere should be done cautiously.
+- **A contrasting finding on the same pilots.** [Cho, Park & Zhang (2026)](/wiki/cho-park-zhang-china-property-tax-winners-losers/) apply synthetic difference-in-differences to new-home transactions in Shanghai and find no statistically significant price effect (log-price estimates of -0.3% to -2.1%, working-paper version); their outcome, comparison cities and controls differ from Liu's price-to-income ratios, and neither result is settled.
 - **Abstract-level summary.** This entry rests on the article's abstract; specific
   synthetic-control weights, the exact pre-treatment fit quality, and full placebo-test
   results are not covered here.
@@ -97,6 +98,7 @@ supplies a rare non-Western, non-common-law data point for that claim.
 - [Xu, Huang & Li: Did Henry George Inspire China's Economic Miracle?](/wiki/xu-huang-li-china-hcrs-george/)
 - [Split-Rate Taxation](/wiki/split-rate-taxation/)
 - [Housing Unaffordability Is a Land Problem](/wiki/housing-unaffordability-is-a-land-problem/)
+- [Cho, Park & Zhang: Taxing Homeowners in China](/wiki/cho-park-zhang-china-property-tax-winners-losers/) — a contrasting reading of the Shanghai pilot (no significant price effect) plus a general-equilibrium model of who gains and loses from a universal housing tax
 
 ## Sources
 
@@ -108,3 +110,10 @@ supplies a rare non-Western, non-common-law data point for that claim.
    pilot dates, the 2008–2023 panel, the synthetic-control methodology, the improved
    price-to-income-ratio finding, Shanghai's growing gains, and the placebo-test
    robustness check (B-claim; read at abstract level, 2026-08-27).
+2. Yunho Cho, Jinseong Park & Sisi Zhang (2026), "Taxing homeowners in China: Who are the
+   winners and losers?," *Real Estate Economics*, published online 17 September 2026, DOI
+   10.1111/1540-6229.70074. [doi.org](https://doi.org/10.1111/1540-6229.70074) — used for the
+   contrasting Shanghai result (no significant price effect; ATT on log price -0.003 to -0.021
+   in the July 2025 working-paper version, KDI School Working Paper 25-08, Table 2, PDF p. 14);
+   the published abstract reports little overall impact with suggestive price reductions for
+   larger homes (B-claim; working-paper text and published abstract).
