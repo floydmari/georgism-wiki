@@ -16,7 +16,7 @@ category: research
 excerpt: The UK's most authoritative modern tax review, chaired by Nobel laureate
   Sir James Mirrlees, concludes that land value should be taxed and proposes replacing
   business rates with a land value tax.
-last_reviewed: 2026-07-03
+last_reviewed: 2026-09-30
 source_url: https://ifs.org.uk/books/tax-design
 stub: false
 subcategory: wiki-research-lvt
@@ -99,6 +99,7 @@ The Review's importance for the Georgist case is less about novelty of theory â€
 - [The Modern Georgism of Respected Economists](/wiki/modern-georgism-respected-economists/)
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - [Objection: LVT would hurt farmers and rural landowners](/wiki/lvt-hurts-farmers/)
+- [Resolution Foundation (2026)](/wiki/resolution-foundation-home-economics/) â€” a 2026 English reform proposal that follows the Review's one-rate approach on land and buildings together and explains why it declines a land-only base
 
 ## Sources
 

@@ -5,7 +5,7 @@ authors:
 bears_on_objections: []
 category: research
 excerpt: "A PolicyEngine microsimulation replacing UK council tax — still assessed on 1991 valuations — with a flat land value tax finds roughly two-thirds of households gain, with losses concentrated in the top wealth deciles; the burden tracks wealth (Gini 0.70) far more than income (Gini 0.37), and absolute poverty falls."
-last_reviewed: 2026-08-29
+last_reviewed: 2026-09-30
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7242479
 stub: false
 subcategory: wiki-research-lvt
@@ -98,6 +98,7 @@ reform proposal faces.
 - [Wales](/wiki/wales/)
 - [Andy Burnham](/wiki/andy-burnham/)
 - [Henry George Foundation's Hybrid LVT Proposal](/wiki/henry-george-foundation-hybrid-lvt-proposal/) — a different UK LVT design proposal, useful comparison
+- [Resolution Foundation (2026)](/wiki/resolution-foundation-home-economics/) — a property-value alternative for the same council-tax replacement question, reporting the regional pattern of winners and losers under the current system
 
 ## Sources
 

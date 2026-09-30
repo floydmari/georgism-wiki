@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.resolutionfoundation.org/publications/home-economics/",
-      "title": "Home economics — reforming England's housing tax system (Resolution Foundation, 24 Sep 2026)",
-      "reason": "Lead from the Fairer Share release (2026-09-29): the Resolution Foundation (an established research foundation; Mike Brewer is a Tier 1 academic economist) proposes replacing council tax and stamp duty with a single revenue-neutral 0.7% annual tax on current home value, paid by occupiers with rebates and deferral, plus a valuation database and a commission. A property-value tax, not LVT — but the most authoritative current UK reform proposal and directly relevant to people/andy-burnham.md, places/united-kingdom.md and research/muellbauer-property-tax-reform-england.md (compare Muellbauer's PHVCTS design).",
-      "context": "Hannah Aldridge, Mike Brewer & Matthew Cavanagh, 'Home economics', Resolution Foundation, 24 September 2026.",
-      "author": "T1",
-      "source": "T1 lead from queue item",
-      "queued_at": "2026-09-29T19:26:01.890823+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4965,9 +4954,23 @@
       "wiki_page": "research/cho-park-zhang-china-property-tax-winners-losers.md",
       "triage_date": "2026-09-29",
       "notes": "T1 concurs with T0 (new research page, Tier 1, B-claim: published text walled; the July 2025 KDI working paper read in full plus the published abstract, with the 55%/58% and price-effect discrepancy between versions stated). Shanghai pilot reduced-form effects insignificant; GE model: universal 0.5% tax cuts prices 3.7%, raises rents 2.8%, newborn welfare +0.69% with rebate, 58% of existing households lose. Land/structure distinction stated. Cross-linked both ways with liu-shanghai-chongqing (contrasting affordability finding); See Also on hou-kumhof-shao and xu-china-land-finance."
+    },
+    {
+      "url": "https://www.resolutionfoundation.org/publications/home-economics/",
+      "title": "Home economics — reforming England's housing tax system (Resolution Foundation, 24 Sep 2026)",
+      "reason": "Lead from the Fairer Share release (2026-09-29): the Resolution Foundation (an established research foundation; Mike Brewer is a Tier 1 academic economist) proposes replacing council tax and stamp duty with a single revenue-neutral 0.7% annual tax on current home value, paid by occupiers with rebates and deferral, plus a valuation database and a commission. A property-value tax, not LVT — but the most authoritative current UK reform proposal and directly relevant to people/andy-burnham.md, places/united-kingdom.md and research/muellbauer-property-tax-reform-england.md (compare Muellbauer's PHVCTS design).",
+      "context": "Hannah Aldridge, Mike Brewer & Matthew Cavanagh, 'Home economics', Resolution Foundation, 24 September 2026.",
+      "author": "T1",
+      "source": "T1 lead from queue item",
+      "queued_at": "2026-09-29T19:26:01.890823+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/resolution-foundation-home-economics.md",
+      "triage_date": "2026-09-30",
+      "notes": "T1 concurs with T0 (new research page; Tier 1 research institute; A-claim for the proposal, B for modelled figures; 43-page report read in full). 0.7% of current home value replacing council tax and main-rate stamp duty (£74bn in 2030-31; 0.66% neutral before rebates and ≥£3bn of second/empty-home surcharges); equity-tested rebate and deferral; four-year phase-in; 61% of households overpay under the current system, London underpays £3.1bn. Box 1 (p.14) considers and declines a land-only base on transition grounds — quoted on the page and set against the wiki's capitalization material without editorialising. The press release's '100,000 purchases' is labelled as a rounding of the report's ~92,000. Paragraph on andy-burnham (report never names him), sentence on united-kingdom, See Also on muellbauer (now 'five reforms'), mirrlees-review and ahmadi-ghenis. Authors added to Tier 1."
     }
   ],
-  "last_updated": "2026-09-29T19:29:50.603880+00:00",
+  "last_updated": "2026-09-30T03:22:31.809338+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 415
 }

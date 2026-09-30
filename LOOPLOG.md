@@ -5292,3 +5292,27 @@ value replacing council tax and stamp duty) is queued from the Foundation's own 
 
 Lint 0 errors; inventory 1022 pages, 0 orphans. Ledger: 1 pending, 414 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-09-30 — the Resolution Foundation's property tax, and its page on land
+
+One item, the lead queued from Fairer Share's release. The Resolution Foundation's "Home
+economics" (Aldridge, Brewer & Cavanagh, 24 September 2026) was read in full and is a new
+research page: a single 0.7% annual tax on current home value, paid by the occupier,
+replacing council tax and main-rate stamp duty at £74 billion in 2030-31; 0.66% is neutral
+before rebates and at least £3 billion of second- and empty-home surcharges; an
+equity-tested rebate with deferral to sale; a valuation database, a stamp-duty freeze with
+credits, a four-year phase-in and a commission. Under the current system 61% of households
+overpay against a uniform proportional tax and 36% underpay; the North East overpays and
+London underpays £3.1 billion a year. The page's centre for this wiki is Box 1, where the
+report grants "a very strong theoretical case" for a land-only base and declines it because
+land shares are larger where values are higher, so an LVT's changes would be "even more
+extreme and the transition harder"; the page quotes it, notes the box carries no land-share
+figures or model, and sets it against the transition and capitalization material without
+editorialising. The press release's "100,000 purchases prevented" is labelled as a rounding
+of the report's own 92,000.
+
+The Burnham page gains an attributed paragraph noting the report never names him; the UK
+page a sentence; the Muellbauer page now counts five reforms in circulation rather than
+four. Two pre-existing "this wiki" phrasings on the Muellbauer page — my own, from the
+09-19 pass — were reworded. Lint 0 errors; inventory 1023 pages, 0 orphans. Ledger: 0
+pending, 415 consumed. Merged to main and Ghost-synced.
