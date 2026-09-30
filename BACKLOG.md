@@ -88,6 +88,8 @@ NOW/NEXT. Below reflects true state as of this reconciliation; treat anything no
 
 ## NOW (in flight today, 2026-07-10)
 
+- [ ] [DEFERRED] tier:T1 status:open (2026-09-30) — Common Wealth Canada's BC LVT hub (commonwealth.ca/lvt-hub-bc) and homepage widget: preliminary V13C model results (2025 BC Assessment roll, 2021 Census tenure), documentation pending, figures unreconciled with the October 2025 /bc-lvt numbers on places/british-columbia.md. Re-queue when CWC publishes the model note; then reconcile or replace the BC page's figures rather than carrying both.
+
 - [ ] [LEAD] tier:T2 status:open (2026-09-29) — US split-rate enablement bills not yet on events/2026-state-lvt-enablement-wave.md: Maryland HB 1178 (2026), and the Colorado and Minnesota bills a Shelterforce op-ed mentions without citation. Fetch from the legislatures' own bill pages (mgaleg.maryland.gov; leg.colorado.gov; revisor.mn.gov) before adding.
 
 - [ ] [SOURCE-BLOCKED] tier:T2 status:open (2026-09-28) — Rossi, "Aggregate Market Power" (JOES 2026, DOI 10.1111/joes.70160) is CC-BY open access but Wiley's bot wall blocks every route from this network. Fetch from elsewhere and promote from the See Also entries on de-loecker-eeckhout-unger-markups and kaplow-market-power to a research page anchoring the market-power cluster.

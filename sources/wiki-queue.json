@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "url": "https://www.commonwealth.ca/bc-lvt-widget",
-      "title": "BC LVT Widget",
-      "source": "bc-lvt",
-      "reason": "policy domain (commonwealth.ca) with keyword (lvt)",
-      "context": "new widget for BC LVT options as portal to full page. preparing for homepage after demo and review\n\n<https://www.commonwealth.ca/bc-lvt-widget|commonwealth.ca/bc-lvt-widget>",
-      "author": "UNYCKRMC6",
-      "queued_at": "2026-09-30T10:00:42.378129+00:00",
-      "reported": false
-    },
-    {
       "url": "https://www.taxpayer.net/energy-natural-resources/oil-and-gas/royalty-rip-off/",
       "title": "Royalty Rip-Off: How below-market federal oil and gas royalty rates cost taxpayers $25 billion over a decade",
       "source": "lvt-paper-scanner",
@@ -4989,9 +4979,22 @@
       "wiki_page": "research/resolution-foundation-home-economics.md",
       "triage_date": "2026-09-30",
       "notes": "T1 concurs with T0 (new research page; Tier 1 research institute; A-claim for the proposal, B for modelled figures; 43-page report read in full). 0.7% of current home value replacing council tax and main-rate stamp duty (£74bn in 2030-31; 0.66% neutral before rebates and ≥£3bn of second/empty-home surcharges); equity-tested rebate and deferral; four-year phase-in; 61% of households overpay under the current system, London underpays £3.1bn. Box 1 (p.14) considers and declines a land-only base on transition grounds — quoted on the page and set against the wiki's capitalization material without editorialising. The press release's '100,000 purchases' is labelled as a rounding of the report's ~92,000. Paragraph on andy-burnham (report never names him), sentence on united-kingdom, See Also on muellbauer (now 'five reforms'), mirrlees-review and ahmadi-ghenis. Authors added to Tier 1."
+    },
+    {
+      "url": "https://www.commonwealth.ca/bc-lvt-widget",
+      "title": "BC LVT Widget",
+      "source": "bc-lvt",
+      "reason": "policy domain (commonwealth.ca) with keyword (lvt)",
+      "context": "new widget for BC LVT options as portal to full page. preparing for homepage after demo and review\n\n<https://www.commonwealth.ca/bc-lvt-widget|commonwealth.ca/bc-lvt-widget>",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-09-30T10:00:42.378129+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-09-30",
+      "notes": "Deferred, not a merits rejection: the widget is a hard-coded five-tab teaser with no inputs, not linked from the homepage, and its hub page (/lvt-hub-bc) calls its V13C model results preliminary with documentation still to come; the hub's new figures (5% LVT → −39% median house value; 10% → −52%) are a different model run from the October 2025 /bc-lvt figures places/british-columbia.md already cites (0.8% → −16%; 1.8% → −40%) and are not reconciled. Common Wealth Canada is Tier 2 and Floyd is its founder, so the treatment must stay origin/proponent only. Re-queue the hub page by hand once CWC publishes the model documentation; flagged to Floyd that the two figure sets differ."
     }
   ],
-  "last_updated": "2026-09-30T11:07:05.773268+00:00",
+  "last_updated": "2026-09-30T11:20:41.039732+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 2
+  "total": 417
 }
