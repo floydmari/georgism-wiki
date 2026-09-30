@@ -5316,3 +5316,31 @@ page a sentence; the Muellbauer page now counts five reforms in circulation rath
 four. Two pre-existing "this wiki" phrasings on the Muellbauer page — my own, from the
 09-19 pass — were reworded. Lint 0 errors; inventory 1023 pages, 0 orphans. Ledger: 0
 pending, 415 consumed. Merged to main and Ghost-synced.
+
+## 2026-09-30 (midday) — the federal royalty floor, and a widget not yet ready
+
+Two items. Taxpayers for Common Sense's "Royalty Rip-Off" arrived from the scanner; it is
+a Tier 2 watchdog report, so the wiki went to what it stands on. The result is a new
+research page anchored on GAO-17-540 (2017), read in full, and on the statute itself: the
+onshore royalty floor sat at 12.5% from the 1920 Mineral Leasing Act, rose to 16.67% for new
+leases under the Inflation Reduction Act in August 2022, and fell back to 12.5% under Pub. L.
+119-21 on 4 July 2025 — the last step corrects the report's "stuck since 1920" shorthand.
+GAO's finding is carried as its title states it: higher rates could cut production on
+federal lands modestly and raise revenue (its own net figure $5–38 million a year), with
+the caveats that only new leases are affected and bonus bids may fall; CBO's "small or even
+negligible" is cited only as GAO quotes it, since CBO's page was unreachable. The watchdog's
+$25 billion is shown as a static retroactive counterfactual. Georgist reading, marked as
+such: a gross-output royalty is the blunt instrument Gaffney criticised, and the
+production-versus-revenue trade-off GAO describes is the margin a rent charge avoids. New
+section on the resource-rents concept page; sentence on the resource-rent-capture benefit
+page; See Also on both Gaffney leasing pages.
+
+The other item was Common Wealth Canada's BC LVT homepage widget, queued from an internal
+note. The widget is a hard-coded teaser; its hub page presents preliminary V13C model runs
+with documentation still to come, and those runs (5% LVT → −39% median house value; 10% →
+−52%) are a different exercise from the October 2025 figures the British Columbia page
+already cites. Deferred with a BACKLOG entry, and flagged to Floyd since it is his
+organisation's site: the two figure sets should be reconciled before either is carried.
+
+Lint 0 errors; inventory 1024 pages, 0 orphans. Ledger: 0 pending, 417 consumed. Merged to
+main and Ghost-synced.

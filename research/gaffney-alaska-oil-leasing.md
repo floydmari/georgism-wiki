@@ -385,6 +385,7 @@ AVC proposal specifically for Alaska's actual post-Prudhoe-Bay tax debate.
 - [Alaska](/wiki/alaska/) · [Alaska Permanent Fund](/wiki/alaska-permanent-fund/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page
 - [Resource Rents](/wiki/resource-rents/)
+- [GAO (2017): Federal Oil and Gas Royalty Rates — Production Versus Revenue](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — the modern federal onshore royalty debate, with the production-versus-revenue trade-off Gaffney's instrument comparison addresses
 
 ## Sources
 

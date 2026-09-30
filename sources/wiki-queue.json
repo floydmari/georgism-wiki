@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.taxpayer.net/energy-natural-resources/oil-and-gas/royalty-rip-off/",
-      "title": "Royalty Rip-Off: How below-market federal oil and gas royalty rates cost taxpayers $25 billion over a decade",
-      "source": "lvt-paper-scanner",
-      "reason": "Institutional research report (Taxpayers for Common Sense, nonpartisan budget watchdog). Resource-rent capture: quantifies ~$25bn foregone 2016-25 because the federal onshore royalty rate stays at the 1920 minimum (12.5%) vs 18.75-25% charged by states; CBO/GAO analyses cited show little production effect. Directly on-topic for resource rent / public capture of common resource rents.",
-      "context": "Royalty Rip-Off — Taxpayers for Common Sense (Autumn Hanna et al.), report released Sep 23, 2026. Canonical report page; news-item writeup at /century-old-oil-and-gas-royalty-rate-costs-taxpayers-billions/. Found by LVT paper scanner (broad economic-rent scan).",
-      "author": null,
-      "queued_at": "2026-09-30T11:07:05.773268+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -4992,9 +4981,23 @@
       "verdict": "rejected",
       "triage_date": "2026-09-30",
       "notes": "Deferred, not a merits rejection: the widget is a hard-coded five-tab teaser with no inputs, not linked from the homepage, and its hub page (/lvt-hub-bc) calls its V13C model results preliminary with documentation still to come; the hub's new figures (5% LVT → −39% median house value; 10% → −52%) are a different model run from the October 2025 /bc-lvt figures places/british-columbia.md already cites (0.8% → −16%; 1.8% → −40%) and are not reconciled. Common Wealth Canada is Tier 2 and Floyd is its founder, so the treatment must stay origin/proponent only. Re-queue the hub page by hand once CWC publishes the model documentation; flagged to Floyd that the two figure sets differ."
+    },
+    {
+      "url": "https://www.taxpayer.net/energy-natural-resources/oil-and-gas/royalty-rip-off/",
+      "title": "Royalty Rip-Off: How below-market federal oil and gas royalty rates cost taxpayers $25 billion over a decade",
+      "source": "lvt-paper-scanner",
+      "reason": "Institutional research report (Taxpayers for Common Sense, nonpartisan budget watchdog). Resource-rent capture: quantifies ~$25bn foregone 2016-25 because the federal onshore royalty rate stays at the 1920 minimum (12.5%) vs 18.75-25% charged by states; CBO/GAO analyses cited show little production effect. Directly on-topic for resource rent / public capture of common resource rents.",
+      "context": "Royalty Rip-Off — Taxpayers for Common Sense (Autumn Hanna et al.), report released Sep 23, 2026. Canonical report page; news-item writeup at /century-old-oil-and-gas-royalty-rate-costs-taxpayers-billions/. Found by LVT paper scanner (broad economic-rent scan).",
+      "author": null,
+      "queued_at": "2026-09-30T11:07:05.773268+00:00",
+      "reported": false,
+      "verdict": "accepted",
+      "wiki_page": "research/gao-2017-federal-oil-gas-royalty-rates.md",
+      "triage_date": "2026-09-30",
+      "notes": "T1 concurs with T0: the watchdog report is Tier 2 and cited only as the proponent of the 'rip-off' framing; the page is anchored on GAO-17-540 (Tier 1, read in full) and the statute (30 U.S.C. §226; 43 U.S.C. §1337 via LII): onshore floor 12.5% from 1920, 16.67% under the Inflation Reduction Act (Aug 2022), back to 12.5% under Pub. L. 119-21 (July 2025). GAO's finding carried as mixed (production could fall modestly, revenue rise $5–38m/yr; CBO 'small or even negligible' as GAO quotes it; CBO not obtained directly). TCS's $25bn shown as a static retroactive counterfactual. New section on concepts/resource-rents; sentence on resource-rent-capture-works' honest-scope paragraph; See Also on both Gaffney leasing pages. Three pre-existing 'the wiki's' phrasings on resource-rents reworded."
     }
   ],
-  "last_updated": "2026-09-30T11:20:41.039732+00:00",
+  "last_updated": "2026-09-30T11:27:00.434498+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 417
 }

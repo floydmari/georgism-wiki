@@ -324,6 +324,7 @@ corpus already on the wiki.
 - [Gaffney (2006): A Severance Tax on California Oil?](/wiki/gaffney-california-severance-tax/)
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/)
 - [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the same institutional-leakage logic applied to water
+- [GAO (2017): Federal Oil and Gas Royalty Rates — Production Versus Revenue](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — the modern federal onshore royalty debate, with the production-versus-revenue trade-off Gaffney's instrument comparison addresses
 - [Resource Rents](/wiki/resource-rents/)
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 - [Mason Gaffney](/wiki/mason-gaffney/) — author page

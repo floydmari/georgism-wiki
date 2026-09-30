@@ -10,7 +10,7 @@ excerpt: 'High-rate capture of natural-resource rent is workable and durable: No
   taxes petroleum at a 78% marginal rate on a cash-flow basis, has banked over $2
   trillion in the world''s largest sovereign wealth fund, and spends only ~3% a year
   — the textbook escape from the resource curse.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-09-30
 stub: false
 supported_by:
 - resource-rents
@@ -323,7 +323,7 @@ capture-and-reinvest model itself is [Hartwick's rule](/wiki/hartwick-rule/)
 across generations — the logic a sovereign wealth fund institutionalizes. And "capture works" is a claim about revenue,
 investment, and — conditionally — the curse; it is not a claim that any resource-rich
 state will replicate Norway by copying its tax schedule. The instrument is
-necessary; the institutions are what make it sufficient.
+necessary; the institutions are what make it sufficient. The US federal onshore royalty shows how blunt the instrument can be: a flat percentage of gross value, set at 12.5 percent in statute, raised to 16⅔ percent in 2022 and returned to 12.5 percent in 2025, on which GAO's 2017 review of simulation studies found that a higher rate could reduce production on federal lands while raising federal revenue, with marginal wells the exposed margin ([GAO (2017)](/wiki/gao-2017-federal-oil-gas-royalty-rates/)).[18]
 
 ## See Also
 
@@ -341,6 +341,7 @@ necessary; the institutions are what make it sufficient.
 - [Gaffney (1967, ed.): Extractive Resources and Taxation](/wiki/gaffney-extractive-resources-taxation/) — early (1967) empirical anchor for the scale of capturable rent in extractive industries
 - [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the eighth failure mode: water rights assigned by legal doctrine rather than price
 - [Gaffney (2015): A Real-Assets Model of Economic Crises — Will China Crash?](/wiki/gaffney-real-assets-model-china/) — cited lightly, outside the failure-mode catalogue above, as a mechanism argument for why land/resource-rent taxation (not credit regulation alone) addresses crisis prevention at its root
+- [GAO (2017): Federal Oil and Gas Royalty Rates — Production Versus Revenue](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — the flat-percentage-royalty limit case: the US onshore rate and its production-versus-revenue trade-off
 - [Geoism](/wiki/geoism/) — the umbrella program and rent-domain table
 
 ## Sources
@@ -446,3 +447,4 @@ necessary; the institutions are what make it sufficient.
     — used for the six-fallacy case for taxing water withdrawals (advocacy/
     policy-journal essay, not peer-reviewed; corroborating, not
     load-bearing).
+18. U.S. Government Accountability Office (2017), *Oil, Gas, and Coal Royalties: Raising Federal Rates Could Decrease Production on Federal Lands but Increase Federal Revenue*, GAO-17-540, [gao.gov/products/gao-17-540](https://www.gao.gov/products/gao-17-540) — [wiki summary](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — used for the mixed production-versus-revenue finding on federal onshore royalties (p. 16), and, with 30 U.S.C. §226 and its amendment notes (Cornell LII), for the 12.5 / 16⅔ / 12.5 percent rate history (B-claim for the modelled effects, from simulation studies; A-claim for the statutory history; a limit on, not support for, the high-rate capture claim).

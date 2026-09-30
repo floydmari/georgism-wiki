@@ -5,7 +5,7 @@ tags: [concepts, resource-rents, natural-resources, severance-tax, resource-curs
 stub: false
 supports_outcomes: [resource-rent-capture-works]
 excerpt: "The economic rent from natural resources — oil, minerals, spectrum, fisheries — which Georgist analysis treats like land rent: socially capturable without efficiency loss."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-09-30
 ---
 
 ## Definition
@@ -191,11 +191,15 @@ advocacy essays, not econometric estimates — see the [full
 page](/wiki/gaffney-mineral-leasing-tax-reform/) for the complete taxonomy
 and honest scope caveats.)
 
+## US Federal Onshore Oil and Gas Royalties, 2022–2025
+
+The US federal onshore royalty is a fixed percentage of the value of production rather than a charge on rent. Its statutory floor for competitive leases was 12½ percent until the Inflation Reduction Act (Pub. L. 117-169, §50262, August 2022) raised it to 16⅔ percent for new leases; Pub. L. 119-21, §50101(a) (July 2025) repealed that change and restored 12½ percent.[15] The Government Accountability Office's 2017 review of four simulation studies, [GAO (2017)](/wiki/gao-2017-federal-oil-gas-royalty-rates/), found that raising federal royalty rates could decrease production on federal lands while increasing federal revenue, with the two oil-and-gas studies suggesting production would fall by "a small amount or not at all" (p. 16).[16] GAO's caveats are that any change reaches only new leases and takes a decade or more to show, that lower bonus bids may offset part of the revenue gain, and that marginal wells are the exposed margin, which is the point at which a flat royalty and a rent charge diverge.
+
 ## Water as a Resource Rent — Gaffney's Kaweah Case Study and Taxable-Surplus Proposal
 
 Water is named in this page's opening definition as a resource-rent domain
 but was previously undeveloped here; two Gaffney essays, read as a pair,
-extend the wiki's rent-capture argument to water specifically. His **1961**
+extend the rent-capture argument to water specifically. His **1961**
 case study of California's Kaweah River system, ["Diseconomies Inherent in
 Western Water Laws"](/wiki/gaffney-water-rent-taxation/), shows the marginal
 productivity of water varying by a factor of ten or more between adjacent,
@@ -205,7 +209,7 @@ rights (riparian, appropriative "first in time," correlative) assigns water
 by productivity: appropriative rights specifically reward premature,
 inflated diversion claims, since "a cost to society — withdrawing water —
 is made a revenue to the appropriator." He further documents a self-
-reinforcing cycle distinct from anything else in the wiki's Gaffney
+reinforcing cycle distinct from anything else in the Gaffney
 corpus — the **"price umbrella"**: because private land development lags
 decades behind the public water projects meant to serve it, inflated land
 prices persist long enough to entice more competing project starts than
@@ -216,7 +220,7 @@ the 1893 and 1929 US land collapses.
 His **1992** synthesis, ["The Taxable Surplus in Water
 Resources"](/wiki/gaffney-water-rent-taxation/), proposes taxing water
 withdrawals — severance, net-proceeds, property, transfer, and gains
-taxes — the same public-landlord logic as the wiki's oil, gas, and mineral
+taxes — the same public-landlord logic as the oil, gas, and mineral
 rent-capture material, structured as a rebuttal of six fallacies: that
 water rights are real property (they are a revocable public-trust license);
 that a water charge would be shifted to consumers (water bears rent, so a
@@ -280,6 +284,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Gaffney: Objectives of Government Policy in Leasing Mineral Lands & Oil and Gas: The Unfinished Tax Reform](/wiki/gaffney-mineral-leasing-tax-reform/) — Canadian Crown-land leasing errors and US federal oil-tax loopholes as two distinct rent-leakage channels
 - [Gaffney (1961, 1992): Diseconomies Inherent in Western Water Laws & The Taxable Surplus in Water Resources](/wiki/gaffney-water-rent-taxation/) — the Kaweah River misallocation case study and the six-fallacy case for taxing water withdrawals
 - [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — a 23-point taxonomy of devices that understate land value ("falsified land values"), plus a US-state property-tax-reliance comparison
+- [GAO (2017): Federal Oil and Gas Royalty Rates — Production Versus Revenue](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — the 12.5% onshore royalty, its 2022–2025 history, and the production-versus-revenue trade-off
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
 
 ## Sources
@@ -298,3 +303,5 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 12. Mason Gaffney, "Objectives of Government Policy in Leasing Mineral Lands" (c. 1975) and "Oil and Gas: The Unfinished Tax Reform" (1982) — used for the eight Crown-land leasing errors, the rent/profit accounting identity, and the US federal oil-tax loophole catalogue including leasehold abandonment (D-claims, advocacy essays). [wiki summary](/wiki/gaffney-mineral-leasing-tax-reform/) · [PDF (leasing)](https://masongaffney.org/publications/B4-ObjectivesofGovernmentPolicyinLeasingMineralLands.CV.pdf) · [PDF (tax reform)](https://masongaffney.org/publications/B13-Oil%26GasUnfinishedTaxReform.CV.pdf)
 13. Mason Gaffney (1961), "Diseconomies Inherent in Western Water Laws: A California Case Study," *Economic Analysis of Multiple Use*, Report No. 9, Western Agricultural Economics Research Council, pp. 55–82, and (1992) "The Taxable Surplus in Water Resources," *Contemporary Policy Issues* 10, pp. 74–82 — used for the Kaweah River marginal-productivity dispersion case study, the price-umbrella/racing/logrolling dynamic, and the six-fallacy case for taxing water withdrawals (D-claims, case study and advocacy essay). [wiki summary](/wiki/gaffney-water-rent-taxation/) · [PDF (1961, OCR-quality caveat applies)](https://masongaffney.org/publications/H3-DiseconomiesInherentinWesternWaterLaws21.CV.CV.pdf) · [PDF (1992)](https://masongaffney.org/publications/H21-TaxableSurplusinWaterResources.CV.pdf)
 14. Mushtaq H. Khan (2010), "Political Settlements and the Governance of Growth-Enhancing Institutions," SOAS, University of London, research paper. [eprints.soas.ac.uk/9968](https://eprints.soas.ac.uk/9968/) — used for the Tanzania sentence on aid and natural-resource rents weakening a ruling coalition's incentive to build the productive sector (p. 75) (B-claim; working paper by an established academic, read from an author-posted mirror). Fuller treatment on the [rent-seeking](/wiki/rent-seeking/) page.
+15. 30 U.S.C. §226 with amendment notes, Cornell Legal Information Institute, [law.cornell.edu/uscode/text/30/226](https://www.law.cornell.edu/uscode/text/30/226) — used for the 12½ percent competitive-lease royalty floor, the 2022 change to 16⅔ percent (Pub. L. 117-169, §50262) and its 2025 repeal (Pub. L. 119-21, §50101(a)) (A-claim; statute text and codifier's notes).
+16. U.S. Government Accountability Office (2017), *Oil, Gas, and Coal Royalties: Raising Federal Rates Could Decrease Production on Federal Lands but Increase Federal Revenue*, GAO-17-540, [gao.gov/products/gao-17-540](https://www.gao.gov/products/gao-17-540) — [wiki summary](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — used for the production-versus-revenue finding and its caveats (p. 16 and passim) (B-claim; official audit-body review of simulation studies, not observed rate changes).
