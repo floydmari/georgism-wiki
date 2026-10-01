@@ -31,6 +31,7 @@ London's transit-driven land value uplifts are frequently cited in the Georgist 
 
 - [Land Value Capture](/wiki/land-value-capture/) — the general policy family these London findings motivate
 - [Betterment Levy](/wiki/betterment-levy/) — one-off UK mechanism proposed to capture this kind of uplift
+- [São Paulo](/wiki/sao-paulo/) — a city that captures zoning-created value at the point of grant, through charges and auctioned building rights, rather than through a betterment levy
 - [Harrison, Ricardo's Law](/wiki/harrison-ricardos-law/) — uses London house-price data as a worked example of the [tax clawback](/wiki/tax-clawback/) thesis
 - [Unearned Increment](/wiki/unearned-increment/) — the underlying concept these uplifts illustrate
 - [Smith, Brown, Dunning & Lord: How Land Value Capture Supported Crossrail](/wiki/smith-brown-dunning-lord-crossrail-lvc/) — an independent academic evaluation of the Mayoral Community Infrastructure Levy's role, complementing the 2017 TfL self-report above

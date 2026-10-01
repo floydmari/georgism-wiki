@@ -5344,3 +5344,31 @@ organisation's site: the two figure sets should be reconciled before either is c
 
 Lint 0 errors; inventory 1024 pages, 0 orphans. Ledger: 0 pending, 417 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-01 — São Paulo's building rights, and a student essay that pointed at better sources
+
+Three scanner items. Two rent-seeking papers were abstract-only and added nothing: Duan's
+T&F article turned out to be a single principal-agent case rather than the inter-locality
+subsidy bidding the queue note implied, and Mukwepa's SSRN preprint is a solo non-academic
+typology naming only Krueger and Tullock. Both rejected.
+
+The third, a Zenodo working paper on land value capture in England and Brazil, is itself
+rejected as a source — an MSc coursework essay with several mis-sourced figures — but T0
+traced every claim in it to Tier 1 sources and read those in full, and the pass used them.
+São Paulo now has a places page built from Peterson (World Bank 2009), Sandroni (Lincoln
+2011), Friendly (IMFG 2017) and Mahendra et al. (WRI/Lincoln 2020): the OODC charge for
+building rights above the basic floor-area ratio (about R$1.9 billion in 2004–15), CEPAC
+auctions inside the Faria Lima and Água Espraiada Urban Operations (3.4 million certificates
+for R$2.9 billion in 2004–12 at Água Espraiada), FUNDURB's governance, and the
+distributional record — 59.6% of Água Espraiada spending on roads, 22.4% on social housing,
+at least 8,000 families displaced. The assessment, marked as interpretation, places the
+instruments with betterment charges and building-rights sales rather than with a recurring
+land tax. The London page gains a section on why Jubilee Line uplift estimates diverge: the
+£40 million figure is a residential surrogate whose own authors call bracketing the
+commercial stations "dubious", so the spread is partly a scope mismatch. The betterment-levy
+page's UK dates were corrected from Gibson's Cambridge paper and the Conservative 1973
+Development Gains Tax, which the page had omitted, added — which softens the "Labour
+introduces, Conservatives repeal" cycle the page had implied.
+
+Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 420 consumed. Merged to
+main and Ghost-synced.

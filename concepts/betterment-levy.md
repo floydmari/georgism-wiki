@@ -104,6 +104,7 @@ Betterment levies in various forms exist or have existed in several countries be
 - [K'Akumu: The Principles of Land Value Capture in the Perspective of Georgist Political Economy](/wiki/kakumu-lvc-georgist-political-economy/) — draws the conceptual distinction between site-value taxation and betterment-family instruments like this one
 - [Prosper Australia](/wiki/prosper-australia/) — the Melbourne organisation whose decades of advocacy the WGT's 2023 passage is credited with vindicating
 - [Land Value Capture](/wiki/land-value-capture/) — the broader family of instruments this levy belongs to
+- [São Paulo](/wiki/sao-paulo/) — a formula-based Brazilian charge for building rights above a basic floor-area ratio (OODC), plus auctioned building-rights certificates (CEPACs) in two Urban Operations: an event-based capture of zoning value rather than a recurring tax
 - [Land Value Tax](/wiki/land-value-tax/) — the recurrent alternative to event-based betterment charges
 - [Land Value Increment Tax](/wiki/land-value-increment-tax/) — Taiwan's institutionalized version
 - [The German Reich Wertzuwachssteuer (1911–1913)](/wiki/wertzuwachssteuer-germany/) — the continental parallel to Britain's serial betterment-levy repeals

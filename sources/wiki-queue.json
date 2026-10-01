@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://doi.org/10.5281/zenodo.23002575",
-      "title": "Governance, Not Instruments: Institutional Constraints on Land Value Capture in England and Brazil",
-      "source": "lvt-paper-scanner",
-      "reason": "Substantive LVC essay (Zenodo deposit, not peer-reviewed): argues LVC under-deployment is institutional/political, not technical. England vs Brazil: negotiated viability assessments and information asymmetry, divergent Jubilee Line Extension uplift estimates, the repeal-and-reintroduce cycle of English betterment taxation; Sao Paulo OODC formula, CEPAC building-rights auctions, FUNDURB participatory oversight, Agua Espraiada segregation risk. Concludes publicly created land value should be treated as a public asset rather than a private entitlement. Directly relevant to the wiki's land value capture governance coverage.",
-      "context": "Governance, Not Instruments: Institutional Constraints on Land Value Capture in England and Brazil — Beatriz Frasao Tonon. Zenodo, published 2026-09-27, DOI 10.5281/zenodo.23002575 (OpenAlex-indexed; DataCite also lists sibling deposit 10.5281/zenodo.23002574, same title, likely earlier version — dedup both). Exa proxy URL (exa.ai/library/publication/b1dkm177n36) resolved via OpenAlex/DataCite. Found by LVT paper scanner (broad economic-rent scan). Grading note: solo-author essay deposit, h-index 0 — tier accordingly.",
-      "author": null,
-      "queued_at": "2026-10-01T11:20:57.125179+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -5032,9 +5021,23 @@
       "verdict": "rejected",
       "triage_date": "2026-10-01",
       "notes": "Solo SSRN preprint by a non-academic author (affiliation unconfirmed; ORCID shows no peer-reviewed work), text unreachable; the abstract's five-type typology of rent transfers names only Krueger 1974 and Tullock 1967, both already on the wiki. Tier 2, D-grade, no Tier 1 lead."
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.23002575",
+      "title": "Governance, Not Instruments: Institutional Constraints on Land Value Capture in England and Brazil",
+      "source": "lvt-paper-scanner",
+      "reason": "Substantive LVC essay (Zenodo deposit, not peer-reviewed): argues LVC under-deployment is institutional/political, not technical. England vs Brazil: negotiated viability assessments and information asymmetry, divergent Jubilee Line Extension uplift estimates, the repeal-and-reintroduce cycle of English betterment taxation; Sao Paulo OODC formula, CEPAC building-rights auctions, FUNDURB participatory oversight, Agua Espraiada segregation risk. Concludes publicly created land value should be treated as a public asset rather than a private entitlement. Directly relevant to the wiki's land value capture governance coverage.",
+      "context": "Governance, Not Instruments: Institutional Constraints on Land Value Capture in England and Brazil — Beatriz Frasao Tonon. Zenodo, published 2026-09-27, DOI 10.5281/zenodo.23002575 (OpenAlex-indexed; DataCite also lists sibling deposit 10.5281/zenodo.23002574, same title, likely earlier version — dedup both). Exa proxy URL (exa.ai/library/publication/b1dkm177n36) resolved via OpenAlex/DataCite. Found by LVT paper scanner (broad economic-rent scan). Grading note: solo-author essay deposit, h-index 0 — tier accordingly.",
+      "author": null,
+      "queued_at": "2026-10-01T11:20:57.125179+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "wiki_page": "places/sao-paulo.md",
+      "triage_date": "2026-10-01",
+      "notes": "The essay itself is rejected as a source: a Zenodo working paper by an Oxford continuing-education MSc student (Tier 2, D-grade) with several mis-sourced figures (Amigo 2007 cited for post-2007 data; unverified 'Jardim Edite 800 families', '25% of Urban Operations funds', 'OODC fell by half'). But T0 traced its claims to Tier 1 sources and read them in full, and the pass used those: a new places/sao-paulo.md built from Peterson (World Bank 2009), Sandroni (Lincoln 2011), Friendly (IMFG 2017) and Mahendra et al. (WRI/Lincoln 2020); a London section on why Jubilee Line uplift estimates diverge (Peterson; Mitchell & Vickers 2003, whose £40m is a residential surrogate the authors themselves call 'dubious' to bracket); and corrected UK development-tax dates plus the 1973 Development Gains Tax from Gibson (Cambridge 2025). The sibling DOI 10.5281/zenodo.23002574 is the same record's concept DOI."
     }
   ],
-  "last_updated": "2026-10-01T19:23:11.425451+00:00",
+  "last_updated": "2026-10-01T19:28:35.361451+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 420
 }

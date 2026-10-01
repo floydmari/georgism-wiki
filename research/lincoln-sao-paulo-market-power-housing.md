@@ -80,6 +80,7 @@ pure land-rent framing does not resolve on its own.
 - [Objection: Planning Restrictions Cause High Prices](/wiki/planning-restrictions-cause-high-prices/)
 - [De Loecker, Eeckhout & Unger: The Rise of Market Power](/wiki/de-loecker-eeckhout-unger-markups/)
 - [Residual Land Valuation](/wiki/residual-land-valuation/)
+- [São Paulo](/wiki/sao-paulo/) — how the Outorga Onerosa charge, CEPACs and the FUNDURB fund work, and what they have raised and funded
 
 ## Sources
 
