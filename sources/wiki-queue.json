@@ -8,7 +8,8 @@
       "context": "Evaluating the Dissociation of Land Value from Homeownership in a Community Land Trust \u2014 Ada Pistola, Elena Todella, Isabella Maria Lami. Sustainability 18(19):9738, Sept 2026. DOI 10.3390/su18199738 (resolved from exa.ai proxy URL via Crossref at triage).",
       "author": null,
       "queued_at": "2026-10-02T11:11:06.995904+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-02T11:11:29.934257+00:00"
     },
     {
       "url": "https://www.independent.org/article/2026/09/23/thinking-twice-property-tax-reforms/",
@@ -18,7 +19,8 @@
       "context": "Thinking Twice About Property Tax Reforms \u2014 Shelton Weeks (Florida Gulf Coast Univ.) & Nikolai G. Wenzel (Independent Institute / Universidad de las Hesp\u00e9rides). Independent.org, Sept 23, 2026.",
       "author": null,
       "queued_at": "2026-10-02T11:11:06.995904+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-02T11:11:29.934257+00:00"
     },
     {
       "url": "https://www.prosper.org.au/about/our-history/land-values-research-group/",
@@ -28,7 +30,8 @@
       "context": "Land Values Research Group \u2014 Prosper Australia (organizational history page). prosper.org.au, accessed Oct 2, 2026. The wiki cites LVRG via a 2011 press release and Harrison (2006); this is the organization's own detailed history.",
       "author": null,
       "queued_at": "2026-10-02T11:11:06.995904+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-02T11:11:29.934257+00:00"
     }
   ],
   "consumed": [
@@ -5068,7 +5071,7 @@
       "notes": "The essay itself is rejected as a source: a Zenodo working paper by an Oxford continuing-education MSc student (Tier 2, D-grade) with several mis-sourced figures (Amigo 2007 cited for post-2007 data; unverified 'Jardim Edite 800 families', '25% of Urban Operations funds', 'OODC fell by half'). But T0 traced its claims to Tier 1 sources and read them in full, and the pass used those: a new places/sao-paulo.md built from Peterson (World Bank 2009), Sandroni (Lincoln 2011), Friendly (IMFG 2017) and Mahendra et al. (WRI/Lincoln 2020); a London section on why Jubilee Line uplift estimates diverge (Peterson; Mitchell & Vickers 2003, whose \u00a340m is a residential surrogate the authors themselves call 'dubious' to bracket); and corrected UK development-tax dates plus the 1973 Development Gains Tax from Gibson (Cambridge 2025). The sibling DOI 10.5281/zenodo.23002574 is the same record's concept DOI."
     }
   ],
-  "last_updated": "2026-10-02T11:11:06.995904+00:00",
+  "last_updated": "2026-10-02T11:11:29.934257+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 3
 }
