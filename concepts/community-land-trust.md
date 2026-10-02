@@ -72,6 +72,10 @@ wealth-building**, a real cost that trades individual asset appreciation for col
 affordability. A Georgist reads the CLT as a voluntary, retail demonstration of the principle
 that a land value tax would apply wholesale.
 
+## A European Case: Giulio34, Turin
+
+The model has begun to travel outside the Anglophone world. An evaluative case study by Ada Pistola, Elena Todella and Isabella Lami describes Giulio34, in Turin's Aurora district, as among the first Italian community land trusts and the first property in Italy bought through one. A grassroots foundation acquired the building on 1 July 2024 for a total of about €516,000, financed by solidarity loans from 82 individuals and five local organisations; a dedicated foundation holds the land, and buyers take their dwellings under the Italian *diritto di superficie*, a surface right standing in for the Anglo-American ground lease, with a term of thirty years or more still under design. The resale rules as drafted cap the seller's share of any rise in value at 25%, exclude land value from the price altogether, confine resale to the foundation or its waiting list, and require owner-occupation. The authors put the initial price below the neighbourhood market by roughly a quarter, but they are explicit that this cannot be attributed to separating the land alone: philanthropic finance, a degraded building and renovation costs amounting to about three-quarters of the project drove the figure, and no resale had yet tested the retention formula.[6]
+
 ## Scale Today
 
 The model spread from a handful of experiments to a substantial movement: hundreds of CLTs now
@@ -157,3 +161,4 @@ available, so its specific findings remain unverified here.[5]
    no abstract text has been located at last review (2026-08-31); used only for the ACME case's existence, scale (800+ artists, 15
    buildings, founded 1972), and its explicit Henry George framing per the title (§"ACME"
    above) (D-claim; title/metadata only, no verified findings).
+6. Ada Pistola, Elena Todella & Isabella M. Lami (2026), "Evaluating the Dissociation of Land Value from Homeownership in a Community Land Trust," *Sustainability* 18(19): 9738. [doi.org](https://doi.org/10.3390/su18199738) — used for the Giulio34 acquisition date and cost, the solidarity-loan financing, the surface-right device and its draft term, the draft resale rules, the roughly 25% initial discount and the authors' caveats on its attribution (B-claim for the case facts, C-claim for the affordability effect: an exploratory single-case study with the discount estimated by the promoting foundation itself, in a high-volume open-access journal; the price table and one figure are images not consulted).

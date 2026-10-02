@@ -5372,3 +5372,30 @@ introduces, Conservatives repeal" cycle the page had implied.
 
 Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 420 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-02 — a Turin land trust, a think-tank warning, and the LVRG's own history
+
+Three scanner items, three enrichments and no new pages. The Turin case study (Pistola,
+Todella & Lami, *Sustainability* 2026) describes Giulio34, among the first Italian community
+land trusts: a grassroots foundation bought the building in July 2024 for about €516,000 on
+solidarity loans, holds the land, and sells dwellings under a surface right with draft
+resale rules capping the seller's share of appreciation at 25% and excluding land value. T0
+proposed a research page; T1 narrowed it to a section on the community-land-trust page,
+since the roughly 25% initial discount is the promoting foundation's own estimate, the
+resale terms are draft, the price table is an unreadable image, and the venue is a
+high-volume open-access journal. The authors' own caveat — that the discount cannot be
+attributed to land separation alone — is carried.
+
+The Independent Institute commentary on the 2026 property-tax ballot measures was rejected
+as a source (no study, a Florida business-magazine link for its capitalization claim, and a
+state list that conflicts with Ballotpedia's), but its one usable fact — thirteen measures
+across seven states — went onto the Wyoming page, with a BACKLOG lead for a post-election
+overview from official texts. Prosper Australia's history of the Land Values Research Group
+went onto the Prosper page as the organisation's own account (Cowan's 1943 visit,
+Hutchinson's 37 studies, the 1988 and 2008 successions, cross-party patrons), and the
+Kavanagh page gains his 1988 succession, his 1987 recession forecast and the 19%
+turnover-to-GDP rule; "founded in 1943" became "formed after Cowan's 1943 visit", since the
+page gives no founding year.
+
+Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 423 consumed. Merged to
+main and Ghost-synced.
