@@ -5399,3 +5399,17 @@ page gives no founding year.
 
 Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 423 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-03 — two items, nothing to write
+
+Two scanner items, both disposed without page changes. Kang & Yoon's Applied Economics
+Letters paper on property-tax capitalization and local fiscal capacity is closed access with
+no abstract on any index and a 403 from Taylor & Francis on every route, so only its reference
+list could be read; it is deferred as SOURCE-BLOCKED rather than written from a title. An SSRN
+law-student preprint on the Tamil Nadu land-ceiling Act was rejected as a Tier 2 D-grade
+source, but it exposed a gap: there is no India land-reform or land-ceiling page. The Act's
+text was retrieved from the state gazette and a Tier 1 lead (the Act, Besley & Burgess 2000,
+official ceiling-surplus statistics) is logged in BACKLOG for a future pass.
+
+T0 briefs committed to sources/context-briefs/2026-10-03.json. Ledger: 0 pending, 425
+consumed. No pages changed, so no Ghost sync.
