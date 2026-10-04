@@ -5413,3 +5413,24 @@ official ceiling-surplus statistics) is logged in BACKLOG for a future pass.
 
 T0 briefs committed to sources/context-briefs/2026-10-03.json. Ledger: 0 pending, 425
 consumed. No pages changed, so no Ghost sync.
+
+## 2026-10-04 — Tim Wu's *The Age of Extraction*, folded in rather than paged
+
+One scanner item: Wu's 2025 Knopf book on platform "extraction". T0 recommended enrichment over a
+book page, since platform rents, two-sided-market tipping, the DMA record and the DST question
+are already covered, and the book's own text could not be reached (publisher copy, five reviews
+and the Lawfare interview transcript of 12 November 2025 were). T1 agreed. Wu is judged Tier 1
+for antitrust history and his own definitions, and a proponent, not support, for the size of
+platform rents; the book's thesis is a D-claim. The rentier page gains a subsection in its
+modern-literature run (after Standing) with Wu's own definition of extraction as monopoly rent,
+the enablement-to-extraction arc, ILSR's 19% (2014) and 34% (2021) Amazon seller-fee estimates
+carried as an advocacy group's own figures, his regulatory remedy list and the Washington
+Monthly reviewer's criticism that the evidence is thin. Data-rents gets a bullet placing the book
+as the popular statement of the rent reading; the dissolution-versus-capture page gets a
+paragraph on his remedies and the Charles River Bridge analogy. Plain self-references on the
+three touched pages were reworded. The O'Reilly–Strauss–Mazzucato attention-rents paper is
+logged as a Tier 1 lead, and the broader question of the roughly 670 pages that still carry plain
+"the wiki's" cross-references is put to Floyd in BACKLOG rather than swept.
+
+Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 426 consumed. Merged to
+main and Ghost-synced.

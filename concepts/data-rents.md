@@ -38,7 +38,7 @@ To the extent a firm's returns come from *occupying* such a position rather than
 outcompeting rivals on price and quality, they resemble economic rent: income from an
 exclusive, hard-to-reproduce position rather than from the marginal product of what the
 firm adds. That is the digital-economy analogue of land rent, and why the question sits
-in this file. Ünsal Özdilek — the same economist behind the wiki's [Shapley-value
+in this file. Ünsal Özdilek — the same economist behind the [Shapley-value
 land/building separation method](/wiki/mass-appraisal-methods/) — makes this analogy
 explicit in a 2026 paper tracing "digital rent" back to classical natural-advantage and
 locational-rent theory, arguing platform operators capture unearned surpluses from user
@@ -48,11 +48,10 @@ different from, land rent.[3]
 ## Why It's the Steepest Part of the Gradient
 
 Platform and data rents are, with [IP rents](/wiki/ip-rents/), the **most contested
-domain** on the wiki's [rent gradient](/wiki/geoism/). The central dispute is whether
+domain** on the [rent gradient](/wiki/geoism/). The central dispute is whether
 the profits of dominant tech firms are **rent** (from moats, gatekeeping, and data
 monopsony) or **quasi-rent** (the temporary return that rewards genuinely superior
-products, formats, and intangible capital). The wiki carries both sides and does not
-resolve them:
+products, formats, and intangible capital). Both sides are carried here, unresolved:
 
 - **The rent reading.** Aggregate markups have risen sharply and are concentrated in a
   few dominant firms ([superstar firms](/wiki/superstar-firms/); De Loecker–Eeckhout),
@@ -60,6 +59,13 @@ resolve them:
   ([Rochet & Tirole](/wiki/rochet-tirole-two-sided/)). Korinek & Ng model how
   "digital superstars" convert scale into outsized, persistent profit
   ([digital superstars](/wiki/korinek-ng-digital-superstars/)).
+- **The popular statement of the rent reading.** Tim Wu's *The Age of Extraction*
+  (Knopf, 2025) gives the rent side its widest recent hearing: platforms pass from an
+  "enablement" phase to an "extraction" phase once both sides are locked in, and sponsored
+  placement in Amazon's search results works as an implicit toll on sellers who cannot
+  leave. Wu defines extraction as the microeconomist's monopoly rent, and his evidence is
+  largely illustrative, so the book states the case rather than measuring it; see
+  [Rentier](/wiki/rentier/) for the argument and its critics.[4]
 - **The efficiency counter.** [Crouzet & Eberly](/wiki/crouzet-eberly-intangibles/)
   find much of the profit rise traces to **intangible capital** (software, brands,
   processes) — real, productive assets — not to pure market power, which would make a
@@ -68,7 +74,7 @@ resolve them:
 
 The honest position is the gradient's own: *some* of it is rent and some is the return
 to real innovation, the mix is industry- and firm-specific, and no one has a clean
-decomposition of the kind the wiki has for land (Rognlie/Bonnet).
+decomposition of the kind that exists for land (Rognlie/Bonnet).
 
 ## The Data-Monopsony Angle
 
@@ -94,7 +100,7 @@ instruments are largely **untested**:
   leave with their data and still reach their network, the location loses its lock-in.
   This is the logic of the EU's Digital Markets Act "gatekeeper" rules.
 - **Antitrust** aimed at the structural sources of the moat, and the
-  **rent-targeting corporate taxes** the wiki already covers
+  **rent-targeting corporate taxes** covered at
   ([ACE](/wiki/allowance-for-corporate-equity/) / [cash-flow tax](/wiki/cash-flow-tax/))
   for the profit that survives.
 
@@ -156,3 +162,4 @@ land's defining fixed-supply scarcity.
    descriptions of the paper rather than its own text. Used only for the
    natural-advantage/locational-rent framing of digital rent (C-claim; not independently
    verified, no verbatim quotation offered).
+4. Tim Wu (2025), *The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity*, Knopf. [Publisher page](https://www.penguinrandomhouse.com/books/691177/the-age-of-extraction-by-tim-wu/); Wu's definition of extraction as monopoly rent is from the *Lawfare Daily* interview of 12 November 2025, [transcript](https://www.lawfaremedia.org/article/lawfare-daily--tim-wu-on--the-age-of-extraction) — used for the enablement-to-extraction framing and the placement-fee example (D-claim for the thesis; Tier 1 scholar writing as an advocate; book text not consulted).

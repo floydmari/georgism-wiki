@@ -32,7 +32,7 @@ George's period examples — a railroad company threatening to route two miles a
 
 ## Modern Rentier-Capitalism Literature
 
-A body of contemporary economic criticism argues that the rentier has returned or expanded in new forms, extending the classical land-rent analysis to finance, intellectual property, and digital platforms. The wiki's [rentier economy narrative](/wiki/the-rentier-economy/) traces this literature in detail.
+A body of contemporary economic criticism argues that the rentier has returned or expanded in new forms, extending the classical land-rent analysis to finance, intellectual property, and digital platforms. The [rentier economy narrative](/wiki/the-rentier-economy/) traces this literature in detail.
 
 ### Hudson and the FIRE Sector
 
@@ -57,6 +57,37 @@ A body of contemporary economic criticism argues that the rentier has returned o
 ### Standing and the Precariat
 
 [Guy Standing](/wiki/guy-standing/) argues in *The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay* (Biteback, 2016) that modern economic institutions have been captured by a rentier class — income flowing to holders of property, IP, and platform assets — at the expense of a growing precariat, and in *Plunder of the Commons* (2019) proposes levies on rentier income paid into a commons fund (see his [wiki page](/wiki/guy-standing/) for sourcing).
+
+### Wu and Platform Extraction
+
+Antitrust scholar **Tim Wu** (Columbia Law School; White House special assistant for
+technology and competition policy, 2021–23) carries the critique onto digital platforms in
+*The Age of Extraction* (Knopf, 2025). His argument is a life-cycle one: Amazon, Google,
+Meta and Apple spent an "enablement" phase building cheap, open and genuinely better
+products, then, once both sides of their markets were locked in, turned to raising fees and
+degrading quality. He borrows the word from price theory — "in microeconomics, people talk
+about monopoly extracting rent," he said when asked to define it, "the amount of money
+you're able to extract based on having monopoly power" — and summarises the trajectory as
+"the first half of their life was building a better product. The second half of their life
+has been extraction."[22][23] His central exhibit is Amazon Marketplace, where sponsored
+placement in search results works as an implicit fee on sellers who cannot leave. The
+Institute for Local Self-Reliance, an advocacy research group whose estimates the argument
+draws on, puts Amazon's take from third-party sellers (fees plus seller advertising) at 19%
+of their revenue in 2014 and 34% in 2021.[24] Wu extends the pattern beyond tech to
+private-equity medical roll-ups and corporate single-family landlords.[26] His remedies are
+regulatory rather than fiscal — antitrust, utility-style price caps on the model of European
+card-fee caps, common-carrier non-discrimination rules, and line-of-business restrictions —
+a menu that belongs to the dissolve pole of [Taxing Tech Rents](/wiki/taxing-tech-rents/)
+rather than to rent capture.[25]
+
+Two cautions. Wu's "rent" is the microeconomist's monopoly rent, not Ricardian scarcity
+rent, so the book sits on the contested monopoly step of the [rent
+gradient](/wiki/geoism/) rather than extending the land analysis. And a reviewer in the
+*Washington Monthly*, writing from inside the same antitrust-revival camp, found the
+empirical case thin, resting on a few Amazon seller anecdotes and secondary fee estimates
+rather than new measurement.[25] The quasi-rent counter — that much of the profit of
+dominant platforms is a return to real intangible capital — is set out on [Platform and
+Data Rents](/wiki/data-rents/).
 
 ### Measuring the Rentier Turn: Indian Corporates
 
@@ -193,3 +224,8 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
     for the abstract; full text not read).
     [doi.org](https://doi.org/10.1080/09538259.2025.2533856)
 21. Horace A. Bartilow (2026), "Financialization and the global decline of liberal democracy: The mediating effects of rentier capitalism," *The Social Science Journal*, published online 12 September 2026, pp. 1–22. [doi.org](https://doi.org/10.1080/03623319.2026.2727907) — used for the 191-country 2000–2017 panel, the mediation SEM design, the top-1%/top-10% income-share operationalisation of the rentier class, the full-mediation finding and the confounder sensitivity check (A-claim for the abstract's own sentences; peer-reviewed article, abstract and metadata only, article body paywalled and not read; the author's standing verified from his published CV).
+22. Tim Wu (2025), *The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity*, Knopf, 224 pp., ISBN 9780593321249. [Publisher page](https://www.penguinrandomhouse.com/books/691177/the-age-of-extraction-by-tim-wu/) — used for the book's thesis, scope and remedies as described by the author and reviewers (D-claim for the thesis; Tier 1 scholar writing as an advocate; the book's text was not consulted, so no page locators are given).
+23. "Lawfare Daily: Tim Wu on 'The Age of Extraction'," interview with Kate Klonick and Alan Rozenshtein, *Lawfare*, 12 November 2025, transcript. [lawfaremedia.org](https://www.lawfaremedia.org/article/lawfare-daily--tim-wu-on--the-age-of-extraction) — used for Wu's definition of extraction as monopoly rent and the "first half / second half" quotation (A-claim for his own words).
+24. Stacy Mitchell (2021), *Amazon's Toll Road: How the Tech Giant Funds Its Monopoly Empire by Exploiting Small Businesses*, Institute for Local Self-Reliance, December 2021. [PDF](https://ilsr.org/wp-content/uploads/2021/11/ILSR-AmazonTollRoad-Final.pdf) — used for the 19% (2014) and 34% (2021) seller-fee shares, which include seller advertising; ILSR is an advocacy body (Tier 2), so the figures are carried as its estimates, not as support.
+25. Kainoa Lowman, "Monopoly Men," review of *The Age of Extraction*, *Washington Monthly*, 2 November 2025. [washingtonmonthly.com](https://washingtonmonthly.com/2025/11/02/age-of-extraction-tim-wu/) — used for the book's structure, its remedy list and the reviewer's criticism of its evidence (B-claim for the description of the book; journalism).
+26. "The Internet's Tollbooth Operators," review of *The Age of Extraction*, *The American Prospect*, 10 December 2025. [prospect.org](https://prospect.org/2025/12/10/internets-tollbooth-operators-wu-review/) — used for the Charles River Bridge analogy, the placement-fee passage and the non-tech chapters (B-claim; journalism).

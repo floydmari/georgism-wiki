@@ -283,9 +283,21 @@ selections and DAU, not price or profit effects. The app-store and messaging-int
 evidence shows real technical compliance arriving on a multi-year lag with adoption far below
 even the platforms' own targets. And FTC v. Meta is a live reminder that the prior question —
 *is there still a durable position to dissolve at all* — can be litigated to a "no" outcome after
-a full trial, exactly the honesty the wiki's is-it-rent gradient demands. The instrument
+a full trial, exactly the honesty the is-it-rent gradient demands. The instrument
 comparison's B grade for dissolution — "legislated, sidesteps quasi-rent, unproven" — still holds
 after this update; unproven has simply acquired two more years of specific, checkable content.
+
+The convergence has a popular-advocacy counterpart. Tim Wu's *The Age of Extraction* (Knopf,
+2025), a widely reviewed statement of the platform-rent thesis by a Columbia Law antitrust
+scholar, reaches for the same family of remedies — antitrust, common-carrier non-discrimination
+rules of the kind once applied to railroads and telephone networks, utility-style price caps on
+the model of European card-fee caps, and line-of-business restrictions to stop a platform
+leveraging one monopoly into the next — and not for a rent tax.[20] His historical anchor is
+instructive for the Georgist reader: the Charles River Bridge, a private toll bridge opened in
+1786 and paid off by the 1820s that went on collecting tolls from everyone who crossed, which Wu
+calls an "extraction machine." A toll on an unavoidable crossing after the capital has been
+recovered is location rent in its purest form, and Wu's instinct is to regulate the toll rather
+than tax it — the dissolve-versus-capture choice this page tracks, made on the dissolve side.[21]
 
 ## Honest Limits
 
@@ -449,3 +461,5 @@ after this update; unproven has simply acquired two more years of specific, chec
     sources reporting direct statements from an interested party; consulted through secondary summaries, 2026-08-10).
     [Cybernews](https://cybernews.com/privacy/signal-ceo-criticizes-whatsapp/) ·
     [TechCrunch](https://techcrunch.com/2024/03/06/to-comply-with-dma-whatsapp-and-messenger-will-become-interoperable-via-signal/)
+20. Kainoa Lowman, "Monopoly Men," review of Tim Wu, *The Age of Extraction* (Knopf, 2025), *Washington Monthly*, 2 November 2025. [washingtonmonthly.com](https://washingtonmonthly.com/2025/11/02/age-of-extraction-tim-wu/) — used for Wu's remedy list (antitrust, price caps, common-carrier rules, line-of-business restrictions) as the review describes it (B-claim; journalism describing a trade book whose text was not consulted; the book's publisher record is at [penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/691177/the-age-of-extraction-by-tim-wu/)).
+21. "The Internet's Tollbooth Operators," review of *The Age of Extraction*, *The American Prospect*, 10 December 2025. [prospect.org](https://prospect.org/2025/12/10/internets-tollbooth-operators-wu-review/) — used for the Charles River Bridge passage and the "extraction machine" phrase (B-claim; journalism quoting the book).
