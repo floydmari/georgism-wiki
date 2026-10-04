@@ -8,7 +8,9 @@
       "context": "The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity \u2014 Tim Wu. Penguin Random House, 2025 (UK: Bodley Head, Nov 2025). A New Yorker Best Book of 2025. Not in registry, inventory, queue, or consumed; Wu's earlier books (The Master Switch, The Curse of Bigness, The Attention Merchants) also absent from the registry. Resolved from the rewrite article to the primary publisher URL.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-04T11:11:56.394188+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-04T11:12:24.272126+00:00",
+      "report_ts": "1791112337.836449"
     }
   ],
   "consumed": [
@@ -5121,7 +5123,7 @@
       "notes": "rejected 2026-10-03 \u2014 Arvind, SSRN 7476999 (duplicate 7477002): law-student preprint on the Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Act 1961, Tier 2 D-grade, text walled. The underlying Tier 1 material (the Act itself; Besley & Burgess 2000 QJE) is a lead for an India land-ceiling page; BACKLOG LEAD added."
     }
   ],
-  "last_updated": "2026-10-04T11:11:56.394188+00:00",
+  "last_updated": "2026-10-04T11:12:24.272158+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 1
 }
