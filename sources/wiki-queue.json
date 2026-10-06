@@ -8,7 +8,9 @@
       "context": "Land value tax: the perfect tax? \u2014 Stuart Adam & Ben Zaranko. Institute for Fiscal Studies, 7 September 2026. Explainer article + podcast episode: how LVT works, distributional effects for existing landowners vs future buyers, valuation accuracy, and scope to replace council tax/stamp duty.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-06T11:08:52.939163+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-06T11:09:31.343321+00:00",
+      "report_ts": "1791284965.517069"
     },
     {
       "url": "https://blog.michaelwiebe.com/p/why-does-vancouver-treat-new-housing",
@@ -18,7 +20,9 @@
       "context": "Why does Vancouver treat new housing as a problem? What Vancouver's approach to land value capture reveals about its housing priorities \u2014 Michael Wiebe. Substack, 30 September 2026. City policy treats land value uplift as a problem to be mitigated (fourplex/sixplex allowances, streamlining rentals) rather than a surplus to be created by upzoning and captured for public amenities like the VSO music school deal.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-06T11:08:52.939163+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-06T11:09:31.343321+00:00",
+      "report_ts": "1791284965.517069"
     }
   ],
   "consumed": [
@@ -5147,7 +5151,7 @@
       "notes": "used 2026-10-04 \u2014 T0 recommended ENRICH over a book page (platform rents, DMA, DST and two-sided-market theory already covered; book text not reachable, only reviews, publisher copy and the Lawfare 12 Nov 2025 interview). T1 agreed. New subsection 'Wu and Platform Extraction' on concepts/rentier.md; a bullet on concepts/data-rents.md; a paragraph on research/tech-rent-dissolution-vs-capture.md (remedy list, Charles River Bridge). Wu added to tier1_confirmed as proponent for rent size; ILSR to tier2 (19%/34% seller-fee estimates carried as its own). O'Reilly\u2013Strauss\u2013Mazzucato attention-rents paper logged as a BACKLOG lead."
     }
   ],
-  "last_updated": "2026-10-06T11:08:52.939163+00:00",
+  "last_updated": "2026-10-06T11:09:31.343321+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 2
 }
