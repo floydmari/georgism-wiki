@@ -43,6 +43,8 @@ Usage:
 Requires: pip install PyJWT requests markdown python-frontmatter
 """
 import os, sys, glob, time, jwt, requests
+import json
+from datetime import datetime, timezone
 import frontmatter
 import markdown as md
 
@@ -94,6 +96,43 @@ def mark_synced(slug):
                       params={"key": key, "slug": slug}, timeout=10)
     except Exception as e:
         print(f"  ⚠️  could not mark {slug} as a sync echo ({e.__class__.__name__})")
+
+
+# ─── publish-notification signal file (docs/publish-notification-protocol.md) ──
+# Hugh's Slack report reads sources/.publish-notify.json for entries with
+# notified=false and flips them after reporting. One entry per successful
+# upsert; an unnotified entry for the same slug is updated, not duplicated.
+NOTIFY_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                           "sources", ".publish-notify.json")
+
+def record_publish_notification(slug, fm, folder, action, post):
+    try:
+        data = json.load(open(NOTIFY_FILE)) if os.path.exists(NOTIFY_FILE) else {"notifications": []}
+    except (OSError, ValueError):
+        data = {"notifications": []}
+    entries = data.setdefault("notifications", [])
+    entry = {
+        "slug": slug,
+        "title": fm.get("title", slug),
+        "url": f"https://www.progress.org/wiki/{slug}/",
+        "category": folder,
+        "tags": [t for t in (fm.get("tags") or []) if isinstance(t, str) and t != "wiki"],
+        "action": "published" if action == "created" else "updated",
+        "published_at": (post or {}).get("updated_at") or (post or {}).get("published_at")
+                        or datetime.now(timezone.utc).isoformat(timespec="milliseconds").replace("+00:00", "Z"),
+    }
+    for n in entries:
+        if n.get("slug") == slug and not n.get("notified"):
+            n.update(entry)
+            break
+    else:
+        entries.append({**entry, "notified": False})
+    try:
+        with open(NOTIFY_FILE, "w") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+    except OSError as e:
+        print(f"  ⚠️  could not write {NOTIFY_FILE} ({e.__class__.__name__})")
 
 _KEY, GHOST_URL = require_ghost()
 GHOST_URL = GHOST_URL.rstrip("/")
@@ -265,6 +304,11 @@ def upsert(path):
 
     if resp.status_code in (200, 201):
         print(f"  ✅ {action}: {slug}")
+        try:
+            post = resp.json()["posts"][0]
+        except Exception:
+            post = None
+        record_publish_notification(slug, fm, folder, action, post)
     else:
         print(f"  ❌ {slug}: {resp.status_code} {resp.text[:200]}")
 

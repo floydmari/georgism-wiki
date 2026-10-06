@@ -5434,3 +5434,16 @@ logged as a Tier 1 lead, and the broader question of the roughly 670 pages that 
 
 Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 426 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-06 — quiet queue; publish-notification append wired into the sync script
+
+No scanner commit landed on main on 5 October, the first gap since 27 September; the queue is
+empty and nothing was written. Main moved by three archive commits from the archive worker
+(hosted copies of license-cleared sources, including the Pistola et al. CLT study now linked
+from the community-land-trust Sources entry; that page is already live with the link).
+
+One tooling fix. LOOP.md and docs/publish-notification-protocol.md have asked the loop to append
+each Ghost publish to sources/.publish-notify.json so Hugh's Slack report does not wait on its
+48-hour Ghost poll, but the file had never been created. scripts/sync_to_ghost.py now records
+an entry after every successful upsert (dedup on unnotified slugs; created maps to
+"published"); the file is to be committed with the pass that produced it.

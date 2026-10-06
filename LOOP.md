@@ -185,7 +185,9 @@ in the role; `glm_draft_worker.py`'s GLM digest machinery is the offline fallbac
     process; the loop ends at commit + push + preview. **If you do publish** (via
     `scripts/sync_to_ghost.py` or otherwise), append a notification to
     `sources/.publish-notify.json` per `docs/publish-notification-protocol.md` so Hugh can
-    report the new/updated pages to the team Slack channel.
+    report the new/updated pages to the team Slack channel. Since 2026-10-06
+    `scripts/sync_to_ghost.py` writes that entry itself after every successful upsert;
+    commit the file with the pass.
 
 ## The flywheel (why coverage compounds)
 
