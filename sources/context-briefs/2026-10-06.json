@@ -1,0 +1,279 @@
+[
+  {
+    "url": "https://ifs.org.uk/articles/land-value-tax-perfect-tax",
+    "title": "Land value tax: the perfect tax? — IFS Zooms In podcast, series 7 ep. 24 (host Helen Miller; guests Stuart Adam and Ben Zaranko); IFS page dated 7 September 2026; DOI 10.1920/pd.ifs.2026.0025",
+    "what_was_fetched": [
+      "IMPORTANT CORRECTION TO THE SCANNER NOTE: the URL is a PODCAST EPISODE PAGE, not an explainer article. There is no separate written article, no report, no chart data and no figures on the page. The page holds only a ~250-word blurb, three A-Level discussion questions (by teacher Will Haines), host/participant bios, DOI and suggested citation ('Miller, H., Adam, S. and Zaranko, B. (2026)... [Podcast]'). The substantive content is the 53-minute audio (3,179 s per Apple Podcasts; Apple lists release 4 Sept 2026, S7 E24). Helen Miller (IFS Director) is host; the scanner's 'by Stuart Adam & Ben Zaranko' is a mis-attribution.",
+      "curl with browser UA: HTTP 403 (Cloudflare 'Just a moment' challenge, 5.7 KB). Googlebot UA: 403 (same challenge). r.jina.ai: OK (200, 26.6 KB) -> full page text saved as ifs-lvt-perfect-tax-jina.txt.",
+      "YouTube watch link on the page (vS9ClEB7fHo): 429 to curl, not read. Apple Podcasts episode page (podcasts.apple.com/us/podcast/ifs-zooms-in-the-economy/id1511294104) via curl: OK, saved apple-podcast-page.html (metadata only: duration, release date, same blurb, transcriptInfo null = no official transcript offered). Acast RSS feed: OK; supplied the mp3 enclosure URL.",
+      "AUDIO: downloaded the episode mp3 from the acast enclosure (50.9 MB, ifs-lvt.mp3) and transcribed it locally with faster-whisper small.en (CPU, int8). Full machine transcript saved: ifs-podcast-transcript-asr.txt (timestamped lines) and ifs-podcast-transcript-asr-paras.txt (30-second paragraphs). THERE IS NO OFFICIAL IFS TRANSCRIPT. The ASR has errors (e.g. 'Count tax' = council tax, 'Ben Ziranko', 'e-comet's editor' = economics editor, 'Merley's Review' = Mirrlees Review); speaker turns are NOT labelled and attribution below is inferred from content, so any direct quotation must be re-checked against the audio before publication; paraphrase with a timestamp locator is the safer route.",
+      "IFS people pages via r.jina.ai: Stuart Adam OK (Senior Economist, joined IFS 2001, 'author and editor of the Mirrlees Review'); Ben Zaranko page OK but carries no role line. A sibling episode page, 'How to fix business rates' (27 Aug 2026, DOI ...0024; jina-how-fix-business-rates.txt), describes him as 'Observer economics editor'; the audio of this episode says he was 'until recently our colleague here at the IFS'. A web search shows his IFS bio as Senior Research Economist since 2017 and editor of the IFS Green Budget since 2021. So Zaranko is a former IFS economist now a journalist (Observer).",
+      "Related IFS material fetched for context: Adam, 'Land and property taxation' Mirrlees Review slides (ifs.org.uk/sites/default/files/output_url_files/adam_0311.pdf, 23 pp; ifs-adam-0311.pdf/.txt, curl OK); IFS Mirrlees Review ch. 16 page via r.jina.ai (ifs-mirrlees-ch16-jina.txt); IFS 'Business rates and land value taxation' (Adam, 2019 presentation page; ifs-business-rates-and-lvt-jina.txt). Direct curl to ifs.org.uk HTML pages is 403 throughout; PDFs under /sites/default/files are reachable.",
+      "NOT FOUND: any written IFS report or chart data accompanying the episode; IFS 'How to fix council tax' / 'How to fix stamp duty' episode pages (both 404 at guessed URLs, the episode refers listeners to an earlier council-tax episode but its URL was not located). Wayback and the Welsh Government papers the speakers mention were not fetched."
+    ],
+    "verdict": "ENRICH (not NEW). Reasons: (1) the source is a conversational podcast with no figures, model, report or transcript; the wiki's research/ pages are for reports and papers (TPA, Resolution Foundation, Muellbauer each carry a model, a design or numbers) and a research page here would have to be built on an unofficial machine transcript. (2) What it adds is a short, authoritative restatement of the IFS position in September 2026, which belongs on the IFS organisation page (currently thin, last reviewed 2026-07, and its Sources note says the IFS site was not accessible) and as targeted sentences on the objection pages. Specific sentences are in suggested_inbound_links and below. Do not cite anything as a quote until it is checked against the audio; use paraphrase plus a timestamp locator.",
+    "claim_grade": "Mostly C (theoretical/standard-theory: efficiency, capitalisation, one-off wealth-tax incidence) and D (interpretive/opinion: fairness, priority, practicality, 'not worth the faff'); a few spoken A/B figures (CIL under £1bn a year, section 106 about £5bn a year, Estonia's 2026 homeowner discount) are unsourced approximations and should NOT be used without the primary. Source tier under §4c: Tier 1 for the institution (IFS, tier1_confirmed in people-tiers.json) and for Helen Miller (IFS Director, speaking for the institute) and Stuart Adam (IFS Senior Economist since 2001; author and editor of the Mirrlees Review; recognised scholar/official-body standing under the rubric). Ben Zaranko is not independent support: former IFS research economist, now Observer economics editor; treat his remarks (e.g. 'not convinced it's worth the faff') as a named commentator's own view, Tier 3 for opinion, never as corroboration. Helen Miller's and Zaranko's remarks should be attributed to 'the episode participants' unless the audio confirms who spoke.",
+    "content_summary": {
+      "framing": "Miller opens: LVT is 'a tax we don't currently have in the UK, but one that has something of a cult following' [0:31]. Stated aims: what an LVT is, when and why one might want it, whether it can be done in practice, other ways of taxing land. There is no revenue-neutral rate, no land-share estimate, no council tax or stamp duty revenue figure anywhere in the episode.",
+      "how_it_works": "[1:42-5:00] An annual tax on land value distinct from buildings. Efficient because land is fixed in supply, cannot move, and the bill is the same whoever owns it or whatever is built: no substitution effect, only an income effect (Adam/Zaranko). Wrinkle [6:31-8:00]: land value depends on permitted use, so an LVT based on market value can distort incentives to seek planning permission; definitions (market value, best-use value, stripped of 'hope value') differ in how much they do this. Different from a tax on uplift [38:30-40:30].",
+      "who_gains_loses_and_capitalisation": "[9:00-11:30] Whoever owns land when the tax is announced loses the capitalised value of the whole future tax stream whether they keep paying or sell; a later buyer pays a correspondingly lower price and is 'no worse off'. Participants call it 'basically a one-off wealth tax... a one-off windfall tax on people who own land at that point in time' (quote Q2). They add: it hits people at peak wealth (around retirement), those who chose to hold wealth as land rather than spend it or hold it as pension/cash, and includes ordinary freehold houses, not just estates [12:00-14:30]. Efficient is 'not the same thing as saying that they are good': the fairness question is a political judgement about a one-off wealth tax on land-held wealth [11:00, 51:31]. This is a statement of standard capitalisation theory; the episode cites no empirical study.",
+      "valuation_feasibility": "[22:00-30:30] Adam: separating land from buildings is 'the biggest challenge', because land is rarely sold bare in the valuable locations; experts give 'starkly contrasting views' and the truth is 'somewhere in between'. They cite, without naming a paper, the Welsh Government's commissioned studies (Valuation Office Agency, academics, consultancies): relative land values across locations can be estimated fairly reliably from comparable sales, but the land/building split needed 'some very broad brush sweeping assumptions'; 'not impossible' but 'a challenge' [24:00-25:30]. KEY CLAIM: valuation accuracy does not matter for efficiency (even a random per-plot charge is non-distortionary, because the plot's price adjusts and the owner cannot change the bill) but matters for fairness, legitimacy and appeals backlogs [25:30-30:30]. This is the IFS's own position and directly sharpens the wiki's land-cannot-be-assessed page. Not a figure they cite from others: the Welsh studies are named only generically (check against research/welsh-lvt-valuation-testing.md).",
+      "asset_rich_cash_poor": "[31:00-34:00] A reasonable worry but not specific to LVT (council tax has the same problem). Remedies: deferral until sale or death, with interest charged (a high rate if deferral should be a last resort), or a fixed deferral period; risk that people defer in hope a later government repeals the tax, so political durability matters. Matches the wiki's lvt-hurts-asset-rich-cash-poor page and the Resolution Foundation deferral design.",
+      "replace_council_tax_stamp_duty_business_rates": "SINGLE TAX [34:00-36:00]: Adam does 'not find it plausible'; doubts a 100% LVT could raise enough ('the numbers add up' is questioned, no figure given) and says fairness bites harder at near-100% taxation of existing wealth. BUSINESS RATES [36:00-38:00]: 'we've argued that certainly for business rates' that taxing land without buildings would be more efficient (quote Q5), and a revenue-neutral swap makes windfalls less pointed than a net new tax, though there would still be winners and losers (Oxford Street land-heavy vs. a warehouse building-heavy). COUNCIL TAX [38:00]: 'a bit different because actually we think there, we do want to tax the buildings' [ASR 'Count tax'] and listeners are referred to an earlier episode. STAMP DUTY: NOT DISCUSSED in this episode (the blurb's mention is the only reference). So the scanner's 'could it replace council tax and stamp duty' is answered only as: IFS wants council tax reformed on land-plus-buildings value (consistent with Mirrlees Housing Services Tax and the IFS's long-standing stamp-duty abolition line), not replaced by a pure LVT.",
+      "uplift_taxes_and_section_106": "[38:30-45:00] Adam: a stronger fairness case exists for taxing the uplift (infrastructure, planning permission) than for taxing the stock, because a current owner has paid market price for past uplift. But a stand-alone uplift tax invites owners to delay development hoping for repeal; an annual LVT does not, since abolition relieves the future bill. UK has partial instruments: Community Infrastructure Levy ('less than a billion pounds a year', per the speakers), section 106 agreements ('about five billion a year or so'), and the Crossrail business rate supplement. Adam on s.106: 'we don't really want taxes to be negotiated on a case by case basis... costly and uncertain and unsatisfactory' (Q7). CIL and s.106 totals are spoken approximations; use an official source (MHCLG developer contributions monitoring) if the figures are wanted.",
+      "why_not_adopted_and_conclusions": "[44:30-52:30] Participants' explanations: the UK already taxes property unusually heavily (IFS point, no OECD figure cited here; the wiki's united-kingdom page already carries 2.8% of GDP), existing council tax and business rates, losers 'always unhappy and the winners never grateful', valuation disputes. Places with LVTs mostly levy them at 'very low' rates; Estonia is called the purest case, exempting homeowners until this year then moving to a discount that still removes most homeowners (a spoken claim to verify against Estonian law); Denmark and subnational US/Australia/NZ taxes mentioned; Welsh Government groundwork and Mark Drakeford's interest noted; Burnham's 'proportional property tax' is distinguished from an LVT because it taxes land plus building [49:30]. Closing positions: Adam would 'absolutely' replace business rates with an LVT 'if you can iron out the practicalities' but doubts it is a top priority; Zaranko is 'not necessarily convinced it's worth the faff' and expects big carve-outs (homeowners, farmers, Church of England). Miller's summary: 'efficient ways to raise revenue. That is not the same thing as saying that they are good' (Q12).",
+      "figures_and_who_owns_them": "No figures originate with the authors beyond the spoken CIL/s.106 approximations. Third-party items only referenced: Mirrlees Review 2011 ('the Bible of tax design', argued for an LVT at least for businesses) [44:30]; Churchill's landlord passage and Henry George [16:30-18:00]; 1909 People's Budget 'legislated but never happened' [47:30]; Welsh Government studies; Estonia/Denmark. The episode does NOT mention the Resolution Foundation 'Home economics' report (24 Sept, i.e. after recording), Muellbauer, Tax Policy Associates/Neidle, PolicyEngine, or any revenue-neutral rate.",
+      "quotes_asr_to_verify_against_audio": [
+        {
+          "id": "Q1",
+          "locator": "[9:33-10:01] capitalisation",
+          "text": "the value of the whole stream of taxes that's attached to this land gets built into the value of the land on the day you announce you're going to do this thing.",
+          "words": 30
+        },
+        {
+          "id": "Q2",
+          "locator": "[10:49-11:00] capitalisation",
+          "text": "It's basically a one-off wealth tax. It's a one-off windfall tax on people who own land at that point in time.",
+          "words": 21
+        },
+        {
+          "id": "Q3",
+          "locator": "[25:30-26:01] valuation",
+          "text": "for efficiency, you don't actually need accuracy of the land value.",
+          "words": 11
+        },
+        {
+          "id": "Q3b",
+          "locator": "[25:30-26:01] valuation",
+          "text": "the question about can you value it is partly a technical practical question, but it's really a question about fairness.",
+          "words": 20
+        },
+        {
+          "id": "Q4",
+          "locator": "[34:30] single tax",
+          "text": "Personally, I don't find it plausible.",
+          "words": 6
+        },
+        {
+          "id": "Q5",
+          "locator": "[36:31-37:00] business rates",
+          "text": "business rates discourages the development and use of property for business purposes. If you could raise the same revenue by taxing the land without taxing the buildings on it, that would be more economically efficient.",
+          "words": 35
+        },
+        {
+          "id": "Q6",
+          "locator": "[38:00] council tax",
+          "text": "[Council] tax is a bit different because actually we think there, we do want to tax the buildings",
+          "words": 18,
+          "note": "ASR rendered 'council' as 'Count'"
+        },
+        {
+          "id": "Q7",
+          "locator": "[42:33] section 106",
+          "text": "we don't really want taxes to be negotiated on a case by case basis like section 106 agreements are. And it becomes very costly and uncertain and unsatisfactory in various ways.",
+          "words": 31
+        },
+        {
+          "id": "Q8",
+          "locator": "[50:31-51:00] closing view",
+          "text": "for non-residential property, I would absolutely have a land value tax in place of business rates if you can iron out the practicalities.",
+          "words": 23
+        },
+        {
+          "id": "Q9",
+          "locator": "[50:00] closing view (Zaranko, inferred)",
+          "text": "I'm not necessarily convinced it's worth the faff.",
+          "words": 8
+        },
+        {
+          "id": "Q12",
+          "locator": "[51:31] closing summary (Miller, inferred)",
+          "text": "Land value taxes, we have discussed, are efficient ways to raise revenue. That is not the same thing as saying that they are good.",
+          "words": 24
+        }
+      ]
+    },
+    "existing_wiki_coverage": "No wiki page or registry row cites this episode (grep for 'perfect-tax', 'Zooms In', 'Zaranko' finds only sources/wiki-queue.json). Coverage of the IFS and its position is, however, deep: organizations/institute-for-fiscal-studies.md (IFS as home of Meade, Mirrlees, ACE; 'Honest Limits' section already stresses that the IFS frames LVT as one component, not a single tax; Sources note says the IFS site was not accessible; body gives the address as 7 Ridgmount Street whereas the IFS site footer now reads 2 Marylebone Road, London NW1 4DF, so the address looks stale); research/mirrlees-review.md (Stuart Adam is listed as a Review author; Ch. 16: business rates -> LVT 'if practicable', council tax -> Housing Services Tax, abolish SDLT; carries a '*Verification note*' paragraph in the body that may be a §4b process-narration issue); concepts/land-value-tax.md (one Mirrlees paragraph, line 42; no 2026 UK material); places/united-kingdom.md (2026 LVT Moment section covers Burnham, Resolution Foundation 24 Sept, Leunig exchange, HGF essays; no IFS podcast); research/tpa-what-would-lvt-do.md (Neidle 2026 model: revenue-neutral 1.28-1.46%, 55% land-share calibration; handles an analysis article, the IFS appears there only as corroborating Neidle's 2024 buyback analysis); research/resolution-foundation-home-economics.md (0.7% on property value replacing council tax + main-rate SDLT; declines land-only base citing Mirrlees); research/muellbauer-property-tax-reform-england.md. The objection pages land-cannot-be-assessed, lvt-transition-wealth-shock and lvt-hurts-asset-rich-cash-poor exist and the episode bears directly on each. Gap: there is no 2026 IFS statement anywhere on the wiki; the IFS organisation page has no entry after 2011/2019.",
+    "uncertainties": [
+      "All episode content rests on an automatic transcription of the audio; speaker labels are inferred. Do not quote without checking the audio; do not attribute a remark to Adam vs Zaranko vs Miller unless confirmed (the reliable attributions are Miller = host/director, Adam = lead voice on tax design).",
+      "The IFS page date is 7 Sept 2026 but Apple Podcasts shows a 4 Sept 2026 release; cite the IFS page date and DOI.",
+      "Zaranko's current role is established from an IFS sibling-episode page ('Observer economics editor') and the audio; the IFS people page for him shows no role line.",
+      "Spoken numbers (CIL < £1bn, s.106 ~ £5bn, Estonia homeowner discount 'new this year') are unsourced; the Welsh studies are unnamed. Treat as pointers only.",
+      "The scanner note's 'explainer article' does not exist; the podcast blurb is the only written text. No written IFS output on LVT in 2026 was located (searched IFS site pages and web); a 'How to fix council tax' episode is referenced but its page was not located.",
+      "ifs.org.uk HTML is Cloudflare-blocked to curl; only r.jina.ai and PDFs were readable, and r.jina.ai was intermittently refused later in the session."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://ifs.org.uk/articles/land-value-tax-perfect-tax",
+        "note": "The episode page itself (Tier 1 institution). Cite as Miller, Adam & Zaranko (2026), IFS Zooms In, DOI 10.1920/pd.ifs.2026.0025; access via browser only, curl gets 403."
+      },
+      {
+        "url": "https://ifs.org.uk/articles/how-fix-business-rates",
+        "note": "Sibling episode, 27 Aug 2026 (DOI ...0024), Miller/Adam/Zaranko on business rates, incidence and taxing land rather than buildings; ends by pointing to the LVT episode. Page text only; audio not transcribed."
+      },
+      {
+        "url": "https://ifs.org.uk/books/16-taxation-land-and-property",
+        "note": "Mirrlees Review ch. 16 (IFS, Tier 1). Wiki already read it; the podcast restates its business-rates conclusion."
+      },
+      {
+        "url": "https://www.ifs.org.uk/sites/default/files/output_url_files/adam_0311.pdf",
+        "note": "Stuart Adam's Mirrlees Review slide deck 'Land and property taxation' (23 pp). Tier 1; curl-fetchable PDF, saved; gives Adam's own summary of the land, stamp duty and council tax recommendations."
+      },
+      {
+        "url": "https://ifs.org.uk/publications/business-rates-and-land-value-taxation",
+        "note": "Adam (2019) presentation page on business rates and LVT, Tier 1."
+      },
+      {
+        "url": "https://sphinx.acast.com/p/open/s/5ea004d9fbcc383829c71657/e/6a9ac7bcffe0e2749147fdb1/media.mp3",
+        "note": "Audio enclosure of the episode; the only primary record of the conversation. A human listener can verify the ASR quotes against this."
+      },
+      {
+        "url": "https://podcasts.apple.com/us/podcast/ifs-zooms-in-the-economy/id1511294104",
+        "note": "Series page with release date (4 Sept 2026) and duration (53 min); no transcript offered."
+      }
+    ],
+    "suggested_inbound_links": [
+      "ENRICH organizations/institute-for-fiscal-studies.md: add a short section 'IFS in the 2026 UK debate' or extend 'Honest Limits'. Suggested text (paraphrase, no ASR quotes): 'In a September 2026 episode of its IFS Zooms In podcast, IFS Director Helen Miller and senior economist Stuart Adam, an author of the Mirrlees Review, with Observer economics editor and former IFS economist Ben Zaranko, restated the institute's position: a land value tax is among the least distorting taxes, because land cannot be moved or reduced in supply, but efficiency is distinct from fairness. They described the introduction of an LVT as in effect a one-off tax on whoever owns land at the time, since the future tax stream is capitalised into the price and later buyers pay correspondingly less. Adam said he would replace business rates with a land value tax if the practicalities could be resolved, while doubting that an LVT could or should replace all other taxes.' Also correct the address to 2 Marylebone Road (IFS site footer) and refresh last_reviewed. Cite the IFS page with DOI; Sources annotation: 'audio only; no transcript published by the IFS; summary rests on the episode page and a transcription of the audio (reviewed 2026-10-06)'.",
+      "ENRICH research/mirrlees-review.md: one sentence in 'Significance' or 'Nuances': Stuart Adam, an author of the Review, said in 2026 that the IFS still argues for replacing business rates with an LVT, but that council tax should keep a building component (consistent with the Housing Services Tax). Add link to the IFS page. (Also consider moving the bottom '*Verification note*' paragraph out of reader-facing prose per §4b.)",
+      "ENRICH objections/land-cannot-be-assessed.md: add under Response/Limits that IFS economists distinguish efficiency from fairness: valuation error does not undermine the non-distortion property (a mis-set bill is capitalised into price and cannot be avoided) but does matter for perceived fairness, appeals and legitimacy (IFS episode, 2026, ~25-30 min); they also describe the Welsh Government's commissioned valuation studies as feasible for relative land values but needing 'broad-brush' assumptions for the land/building split. Link to research/welsh-lvt-valuation-testing.md for the primary.",
+      "ENRICH objections/lvt-transition-wealth-shock.md: IFS economists frame LVT introduction as in effect a one-off tax on existing landowners (capitalisation of the future tax stream), hitting those near peak wealth and those holding wealth as land; a revenue-neutral swap against existing property taxes (e.g. business rates) makes the windfall question less pointed. Standard-theory statement (C-claim), no empirical study cited.",
+      "ENRICH objections/lvt-hurts-asset-rich-cash-poor.md: the IFS discussion of deferral with interest and the repeal-risk problem for deferral schemes.",
+      "ENRICH places/united-kingdom.md (2026 LVT Moment): one sentence that the IFS, in a September 2026 podcast, repeated its Mirrlees-era preference for an LVT on business property, while Adam doubted it would be a priority and noted council tax should tax buildings too. Link to the IFS page. Optional: concepts/land-value-tax.md line 42 area, a clause linking the 2026 IFS restatement.",
+      "Cross-links worth adding on the TPA, Resolution Foundation and Muellbauer pages' See Also: the IFS page, as the institutional voice that sits alongside those 2026 proposals (the episode itself does not discuss them)."
+    ]
+  },
+  {
+    "url": "https://blog.michaelwiebe.com/p/why-does-vancouver-treat-new-housing",
+    "title": "Why does Vancouver treat new housing as a problem? (Michael Wiebe, Substack 'Michael Wiebe', 30 September 2026; subtitle 'What Vancouver's approach to land value capture reveals about its housing priorities'; ~950 words, public)",
+    "what_was_fetched": [
+      "Essay: curl with browser UA OK (200, 144 KB). Full text extracted from the Substack JSON and saved as wiebe-text.txt (+ wiebe.html). It is short, free, 949 words, no data, no tables, no footnotes beyond two hyperlinks to City of Vancouver PDFs.",
+      "The two City documents the essay links, both FAILED: rezoning.vancouver.ca/applications/mm-rs/multiplex-proposal-density-bonus-update-2023-06-30.pdf and council.vancouver.ca/20211005/documents/spec1.pdf. curl (browser UA) 403 Cloudflare; Googlebot UA 403; r.jina.ai 403 'Just a moment' (and later 401 for bad IP reputation); WebFetch 403; web.archive.org connection reset by the proxy. Also blocked: vancouver.ca (all pages), council.vancouver.ca PDFs (rr2 25 July 2023 referral report, 14 Sept 2023 minutes, 2025 CAC memo), guidelines.vancouver.ca. SO THE ESSAY'S QUOTATIONS FROM THE CITY REPORTS ARE UNVERIFIED AGAINST THE PRIMARY.",
+      "Reachable corroboration: City of Vancouver Shape Your City multiplex page (shapeyourcity.ca/multiplexes; saved shapeyourcity-multiplexes.html/.txt); Shape Your City 'Streamlining Rental' pages (rental-rz, 'approved at council', 'council report'; saved); BC Legislature Bill 46 (2023) third-reading text from bclaws (bclaws-bill46-text.txt) and Bill 44 (2023) text (bclaws-bill44-text.txt), plus MLT Aikins note on Bill 46 (mltaikins-bill46.txt); Daily Hive 9 July 2026 on Vancouver's city-wide Amenity Cost Charge (dailyhive-vancouver-acc.txt); HAVAN (builders' association) note on the 2026 financing-growth vote (havan-vancouver-acc-vote.txt); VSO School of Music 'About' page and Georgia Straight 27 May 2011 (vso-about.txt, straight-vso.txt); Wiebe's own About and home pages (read, not saved separately); Russil Wvong's 'Vancouver Needs More Housing' Substack post of 11 July 2023 on the density-bonus fee schedule (morehousing-multiplex-fee-schedule.txt; a pro-housing blogger, used only as a pointer to the City's numbers).",
+      "WebSearch snippets (not full documents) gave: City density bonus rationale ('limiting any potential land value escalation and discouraging speculation'), Council public hearing 14 Sept 2023, R1-1 in force 17 Oct 2023; City 2022 annual CAC/DBZ report ($63M cash CACs + $29M density bonus zoning = $92M); Council approval of the ACC by-law on 21 July 2026 effective 30 Sept 2026. These snippet-level statements need confirmation from the City PDFs from an unblocked network."
+    ],
+    "verdict": "ENRICH places/vancouver.md and concepts/land-value-capture.md (with a one-line cross-reference from objections/planning-restrictions-cause-high-prices.md). Not NEW: a ~950-word blog essay by a Tier 2 author that contributes an interpretation, not data, does not justify a research/ page; and the genuinely useful gap it exposes (the wiki has no coverage of Vancouver's density bonusing, Community Amenity Contributions, or BC's 2023 amenity cost charge reform) is best filled from Tier 1 primaries on the place and concept pages, with Wiebe cited once as a proponent view in a labelled 'Current debate' sentence. Suggested sentences below. DEFER the Wiebe-quoted City-report passages until the two PDFs can be read.",
+    "claim_grade": "Central thesis (Vancouver treats uplift as a problem and density as a harm to neighbourhood character; the city ought to upzone more and capture more): D-claim (interpretive/argumentative), Tier 2 per people-tiers.json (independent economist-blogger; origin/proponent only, never support, never in a lead). Factual sub-claims about City policy (multiplex rules, rental streamlining, the VSO deal) are A-claims that must be anchored on the City/Province primaries listed below; as presented in the essay they are unverified quotations. The value-capture mechanics paragraph ($2M to $3M hypothetical) is a C-claim illustration (explicitly hypothetical).",
+    "content_summary": {
+      "thesis": "Value capture means the city trades extra development rights for public amenities; done well it is a win-win (more housing plus amenities). Wiebe argues Vancouver 'treats land value uplift as a problem, and use[s] value capture as a way to prevent it', and that this is explained by treating density as a harm to neighbourhood character, in which case value capture becomes a win-lose trade-off. He asks the city to be 'honest about the choices being made'.",
+      "his_examples_and_the_primary_status_of_each": [
+        {
+          "policy": "VSO School of Music (2011)",
+          "wiebe_says": "In 2011 the Vancouver Symphony Orchestra got a music school paid for by a housing developer, which the city allowed to build a larger apartment building with the school in the lower floors.",
+          "verified": "Broadly true but incomplete. VSO School of Music, 843 Seymour St, opened May 2011 on the former Capitol 6 cinema site, occupying the lower floors of a residential tower; the school's own site says it was 'made possible through the City of Vancouver's Cultural Amenity Bonus Program' (vsoschoolofmusic.ca/about, org's own account). Georgia Straight (27 May 2011, Jessica Werb, journalism) reports a $30M, 25,000 sq ft facility, that Macdonald Development Corporation 'in 2005 received the largest cultural-amenity density bonus in the city's history', and that it was 'financed through the density transfer, as well as support from the provincial and federal governments, in addition to private donations' (including a $365,705 Cultural Spaces Canada grant). So the bonus was granted in 2005 and the building opened in 2011; and 'a developer paid for it' omits the public and philanthropic funding.",
+          "tier1_primary_needed": "City of Vancouver Council report granting the Capitol 6 rezoning/cultural amenity bonus (c. 2004-05; the search tool surfaced council.vancouver.ca/20050721/documents/pe2.pdf but its content was not confirmed or readable) and the Cultural Amenity Bonus policy; City annual CAC and density bonus reports."
+        },
+        {
+          "policy": "2023 multiplexes (fourplex on standard lots, sixplex on larger lots)",
+          "wiebe_says": "The city's report said fourplexes would not raise land values but sixplexes 'could impact land values significantly unless a [fee to capture that value] is required'; fourplexes were allowed only about 600 extra sq ft; a stronger policy would allow sixplexes on every lot with about 2,600 extra sq ft.",
+          "verified": "Partly. City page confirms Council approved the multiplex proposal at the 14 Sept 2023 public hearing (referred 25 July 2023) and enacted the by-laws on 17 Oct 2023 creating the R1-1 Residential Inclusive Zone (all former RS areas); the density-bonus update document is on the project page. Other sources: multiplex = 3-8 units; R1-1 allows 3-6 strata units or up to 8 secured rental units; access to extra density requires a set-rate density bonus payment, a below-market ownership unit, or secured rental; FSR cap 1.0 (City FAQ title 'Why can't the density allowed for multiplexes be greater than 1.0 FSR?'); about 370 applications / 1,500 units by March 2025 per City. The quotation about land values, the 600 and 2,600 sq ft figures and the fee rates are NOT confirmed (PDF blocked). A pro-housing blogger (Wvong, July 2023) reports from the same City document that the fee is nominal on a 33-ft lot and about $117,000 on a 50-ft lot on the west side, set from a consultancy (Coriolis) feasibility study; treat as pointer only.",
+          "tier1_primary_needed": "City of Vancouver, 'Multiplex proposal density bonus update' (30 June 2023), Council referral report 25 July 2023 (council.vancouver.ca/20230725/documents/rr2.pdf), Public Hearing minutes 14 Sept 2023, R1-1 District Schedule in the Zoning and Development By-law. Sources named exist; all blocked here."
+        },
+        {
+          "policy": "2021 Streamlining Rental",
+          "wiebe_says": "A 2021 initiative allowed four- to six-storey rental buildings; the report said six-storey buildings could raise land values but the policy 'would mitigate' this by requiring below-market units, 'thus absorbing any increases in land value'.",
+          "verified": "Partly. City page: Council approved the Streamlining Rental changes on 14 Dec 2021 (referral report to Council 5 Oct 2021, which is the document Wiebe links), effective 14 Feb 2022: C-2 zones allow six-storey rental through the same process as four-storey condo buildings (no rezoning); standardised rental zones for rezonings in nearby RS/RT areas; all six-storey projects must secure a minimum 20 per cent of the building at below-market rents (City search-result text); City estimated it 'could help deliver over 4,000 new rental units over the next 10 years'. The land-value sentences Wiebe quotes are unconfirmed. Note a public submission on the City's engagement page that questioned the report's statement that 'no increase in land value or speculation is anticipated'.",
+          "tier1_primary_needed": "City Council referral report, Special Council 5 Oct 2021 (council.vancouver.ca/20211005/documents/spec1.pdf), Public Hearing 2 Nov-14 Dec 2021 documents, Secured Rental Policy (Nov 2019)."
+        }
+      ],
+      "arguments_vs_facts": "FACT-CLAIMS (anchor on Tier 1): the three policy descriptions above, the existence of the fee/bonus requirement, who approved what and when. ARGUMENT (Wiebe's, D-claims): that 'higher land values should be celebrated'; that preventing uplift reveals the city sees housing as a harm; that the 600 sq ft allowance is 'stingy' and sixplexes on every lot would be better; that planners would be more honest to say they are preserving neighbourhoods. INTERPRETIVE GAP: the essay offers no evidence of motive beyond the city's wording of two reports. A rival reading, consistent with the City's own stated rationale, is that setting a fee ex ante limits land-price escalation and speculation so that projects remain viable (the density-bonus update is described by the City as set from economic feasibility testing 'while limiting any potential land value escalation and discouraging speculation'); the wiki's own objection page already carries evidence (Freemark 2020; Greenaway-McGrevy et al. 2021) that upzoning capitalises into land prices. The essay does not engage with this, or with Bill 46's shift away from negotiated per-project contributions. The first paragraph's illustrative $2M to $3M example is explicitly hypothetical and also appears in his earlier essay already cited on the wiki.",
+      "recent_context_the_essay_omits": "Provincial Bill 46 (Housing Statutes (Development Financing) Amendment Act, 2023; third reading 29 Nov 2023, royal assent 30 Nov 2023) added amenity cost charges (ACCs) to the Local Government Act (new Division 19.1) and the Vancouver Charter (new Part XXIV-B, ss. 523E ff.) and, in new s.565.1(2.1) of the Charter and s.482(2.1) of the LGA, provides that a zoning by-law 'must not establish conditions relating to the conservation or provision of an amenity that is specified in an amenity cost charge by-law' (text read, bclaws). Vancouver Council approved a city-wide ACC by-law on 21 July 2026 (per City release/snippet), effective 30 Sept 2026 (the day Wiebe's essay appeared): per Daily Hive (9 Jul 2026) on the staff report, rates of $2.32/sq ft at or below 1.2 FSR, $5/sq ft for 1.2-1.5 FSR and $10/sq ft above 1.5 FSR (high-density rate phased at half rate for the first year), 3 per cent annual indexation to 2029, intended to replace most negotiated CACs and density bonusing except for larger rezonings; ACC-funded programme about $483 million of a $7.7 billion 10-year capital programme; rental waivers; Northeast False Creek exempt. City CAC reporting: 2022 cash CACs $63M and density bonus zoning $29M (search snippet of City annual report; unconfirmed). The Bill 44 (2023) small-scale multi-unit housing framework came after Vancouver's R1-1 decision (Bill 44 third reading 29 Nov 2023; City complied for restricted zones in spring 2024; Bill 25 revisions in fall 2025) and is a provincial upzoning mandate, so it is a mistake to read the 2023 multiplex policy as a response to Bill 44.",
+      "no_cmhc_statcan_claims": "The essay contains no CMHC, StatCan or price data; no figures to anchor. Existing wiki objection page cites Wiebe's earlier essay for Vancouver prices ($400,000 in 2000 to over $3,000,000 'today'); that is a separate anchoring problem (see existing_wiki_coverage).",
+      "quotes_locators": [
+        {
+          "text": "city planners treat land value uplift as a problem, and use value capture as a way to prevent it.",
+          "words": 16,
+          "locator": "paragraph beginning 'That's the source of the win-win' (sentence 3)"
+        },
+        {
+          "text": "Higher land values should be celebrated, because they mean we're creating value that we can capture for the public.",
+          "words": 19,
+          "locator": "paragraph after the multiplex quotation, 'Notice the odd phrasing'"
+        },
+        {
+          "text": "All that's required is honesty about the choices being made",
+          "words": 10,
+          "locator": "paragraph beginning 'Why don't city planners just say that?'"
+        }
+      ]
+    },
+    "existing_wiki_coverage": "Wiebe: objections/planning-restrictions-cause-high-prices.md, Response point 4 and Source 7 cite his earlier post 'Do rising land values explain high housing prices?' (blog.michaelwiebe.com/p/do-rising-land-values-explain-high). The new essay is not cited anywhere. TIER 2 COMPLIANCE OF THE EXISTING CITATION: largely compliant. Good: introduced as 'Proponents further argue... The economics blogger Michael Wiebe makes the point', the quotations are framed as his conclusion, and Source 7 states 'Independent economics blog commentary, not peer-reviewed (D-claim)'; it is not in the lead; it is listed after Tier 1 sources. Points a Tier 1 editor should tidy: (a) it sits inside 'The Response' (an evidence section) rather than a labelled proponent section; §4c says Tier 2 names belong in a clearly labelled section, and the economic mechanism it states (rezoning capitalises a larger permitted use into land price) is already supported by Tier 1 items in the same list (Freemark 2020; Greenaway-McGrevy et al. 2021), so either relabel point 4 or substitute those and keep Wiebe as origin; (b) the Vancouver house-price figures ($400,000 in 2000 to over $3,000,000) are his unsourced numbers and should be dropped or replaced by an official series (Statistics Canada/CMHC/BC Assessment); (c) Source 7's wording 'article fetched and read 2026-08-14' is borderline process-narration under §4b rule 3; 'accessed 2026-08-14' is the impersonal form. His status: Substack bio 'economist interested in housing and replication'; his own site says PhD Economics, University of British Columbia, 2020, independent (reanalysis of empirical research, available for hire and as an expert witness in housing cases). The scanner's '(UBC)' is an alumnus link, not a current appointment. Consistent with people-tiers.json Tier 2. Note a queue item records a different 'Michael Wiebe' who is a Vancouver councillor; do not confuse.\n\nVancouver and BC coverage: places/vancouver.md and places/british-columbia.md cover only the 1910-1984 single-tax history, the Empty Homes Tax and the Speculation and Vacancy Tax; there is NO coverage of density bonus zoning, Community Amenity Contributions, the Cultural Amenity Bonus, Streamlining Rental, the R1-1 multiplex zone, Bill 44, Bill 46 or the 2026 ACC. concepts/land-value-capture.md lists instruments (betterment levies, TIF, leasing, LVIT, Ontario Community Benefit Charges, negotiated PILOTs) but not density bonusing, CACs or amenity cost charges; the word Vancouver does not appear there. research/cib-land-value-capture-study.md (Siemiatycki, Fagan & Arku 2023) defines density bonuses and cites Vancouver Capstan Station ($31.5M of a $52M station cost, 61 per cent, after nine years of negotiation; and one Vancouver mechanism that raised 'only $32 million'). research/dachis-buyers-beware-housing-barriers.md recommends land-value capture over per-unit development charges for Canadian cities and gives Vancouver's 2011-21 price-cost gap ($1.3M). research/nielsen-buitelaar-spatial-planning-anticipatory-rules.md (spatial planning as eliminating land rents) is a conceptually adjacent Tier 1 source. concepts/betterment-levy.md, problems/public-investment-capitalizes-into-land.md, concepts/residual-land-valuation.md, research/mcallister-developer-contributions-tpr.md and research/walters-property-taxes-value-capture-instruments.md are adjacent. No page for 'community amenity contribution' or 'density bonus' exists.",
+    "uncertainties": [
+      "Both City documents the essay quotes are Cloudflare-blocked from this environment on every route tried, so the quoted phrases ('could impact land values significantly unless...'; 'would mitigate... thus absorbing any increases in land value') and the 600 / 2,600 sq ft figures are unverified. A Tier 1 editor on an unblocked network (or a human with a browser) should read them before any factual sentence is drafted from them.",
+      "Search-snippet items (City CAC annual-report totals, ACC adoption on 21 July 2026, 14 Sept 2023 hearing date, 3-6/8-unit rules) come from search-engine summaries of City pages and, for Shape Your City, from pages actually fetched. Items marked snippet-only should be confirmed from the City PDFs.",
+      "Vancouver ACC rate details come from a Daily Hive account of the staff report and the HAVAN trade summary; final by-law rates were not read. The by-law is expected at council.vancouver.ca/20260728/documents/Bylaws34to38.pdf (surfaced in search, not fetched).",
+      "Date of the VSO bonus (2005) rests on a single 2011 news article; the Council report was not located or read.",
+      "Whether Wiebe's reading (hostility to density) or the City's stated reading (limit land-price escalation and speculation so the policy remains viable) better explains the design is a matter of interpretation. The fee level is described by the City as feasibility-tested; the essay does not test its claim that a more permissive allowance would have raised more.",
+      "Wiebe's essay is one data point from a blogger who markets consulting/expert-witness services in housing cases; there is no peer-reviewed analysis behind it in this essay."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://www.bclaws.gov.bc.ca/civix/document/id/bills/billsprevious/4th42nd:gov46-3",
+        "note": "Bill 46 (2023) third-reading text, Tier 1 statute: ACCs for LGA and Vancouver Charter; s.565.1(2.1) limit on amenity conditions in zoning by-laws. Fetched OK; use for the legal-framework sentence."
+      },
+      {
+        "url": "https://www.bclaws.gov.bc.ca/civix/document/id/bills/billsprevious/4th42nd:gov44-3",
+        "note": "Bill 44 (2023) Housing Statutes (Residential Development) Amendment Act text, Tier 1: provincial small-scale multi-unit housing mandate. Fetched OK."
+      },
+      {
+        "url": "https://www.shapeyourcity.ca/multiplexes",
+        "note": "City of Vancouver multiplex project page (official body): timeline (referral, 14 Sept 2023 hearing, R1-1 in force 17 Oct 2023, Bill 44 compliance, Bill 25), FAQ, links to the proposal and density-bonus update PDFs. Fetched OK. Tier 1 for dates; the FAQ answer on property values is hidden in the page and was not extracted."
+      },
+      {
+        "url": "https://shapeyourcity.ca/rental-rz/news_feed/streamlining-rental-approved-at-council",
+        "note": "City page: Streamlining Rental approved by Council 14 Dec 2021, effective 14 Feb 2022. Fetched OK. Related: shapeyourcity.ca/rental-rz."
+      },
+      {
+        "url": "https://rezoning.vancouver.ca/applications/mm-rs/multiplex-proposal-density-bonus-update-2023-06-30.pdf",
+        "note": "The City document Wiebe quotes. BLOCKED here (403). Read from a browser before relying on any quote."
+      },
+      {
+        "url": "https://council.vancouver.ca/20211005/documents/spec1.pdf",
+        "note": "The 5 Oct 2021 referral report on Streamlining Rental that Wiebe quotes. BLOCKED here (403)."
+      },
+      {
+        "url": "https://council.vancouver.ca/20230725/documents/rr2.pdf",
+        "note": "Council referral report 25 July 2023 on the multiplex and RS simplification proposals (surfaced in search; blocked)."
+      },
+      {
+        "url": "https://vancouver.ca/files/cov/2025-05-23-2024-annual-reporting-on-community-amenity-contributions.pdf",
+        "note": "City annual CAC and density bonus report for 2024 (surfaced in search; blocked). Earlier years: .../2022%20Annual%20Report%20on%20CACs%20-%20DBZs%20-%202023-07-25.pdf."
+      },
+      {
+        "url": "https://guidelines.vancouver.ca/cac-policy-for-rezonings.pdf",
+        "note": "City 'CAC Policy for Rezonings' (blocked); the primary definition of CACs as voluntary contributions on Council-approved rezonings."
+      },
+      {
+        "url": "https://vancouver.ca/news-calendar/update-housing-jobs-complete-neighbourhoods-july-2026.aspx",
+        "note": "City news release, July 2026, on the financing-growth update and the ACC by-law (blocked here)."
+      },
+      {
+        "url": "https://council.vancouver.ca/20260714/documents/r4.pdf",
+        "note": "Staff report to Council on the 2026 financing growth update and ACC (surfaced in search; blocked)."
+      },
+      {
+        "url": "https://dailyhive.com/vancouver/vancouver-amenity-cost-charge-dcls-introduction-changes",
+        "note": "Daily Hive/Urbanized, Kenneth Chan, 9 July 2026; serious journalism, Tier 5, useful for ACC rates and CAC exemptions until the City report is read. Fetched OK."
+      },
+      {
+        "url": "https://www.straight.com/article-395271/vancouver/vso-school-music-unveiled",
+        "note": "Georgia Straight, 27 May 2011: VSO School of Music opening; 2005 largest cultural-amenity density bonus; funding mix. Journalism; use for the 2005/2011 chronology until the Council report is found."
+      },
+      {
+        "url": "https://vsoschoolofmusic.ca/about/",
+        "note": "The school's own account: made possible through the City's Cultural Amenity Bonus Program (organisation's self-description)."
+      },
+      {
+        "url": "https://www.mltaikins.com/?p=7710",
+        "note": "MLT Aikins (law firm) note on Bill 46: commentary only (Tier 2 for characterisation; the statute is the Tier 1 source)."
+      }
+    ],
+    "suggested_inbound_links": [
+      "ENRICH places/vancouver.md: new section 'Density bonusing and amenity contributions' placed after 'Modern Relevance'. Draft (every factual clause to be anchored on the City or Province before publication): 'Alongside annual taxation, Vancouver captures part of the land value created by rezoning and density increases through negotiated Community Amenity Contributions and density bonus zoning, under which a base density may be exceeded in exchange for cash or in-kind public amenities. The 2011 VSO School of Music, built in the lower floors of a residential tower under the City's Cultural Amenity Bonus Program, is a frequently cited example. In 2023 Council approved the R1-1 zone permitting multiplexes in former single-family areas, with extra density conditional on a density bonus payment, a below-market ownership unit or secured rental. British Columbia's Bill 46 (2023) introduced amenity cost charges, and Vancouver's city-wide charge took effect on 30 September 2026, replacing most negotiated contributions.' Then a labelled 'Current debate' sentence: 'The independent economist Michael Wiebe argues that the City frames land value uplift as a harm to be prevented rather than a surplus to be created and captured; this is an interpretation, and the City describes its density-bonus rates as set to limit land value escalation and speculation while keeping projects viable.' (Tier 2 as origin/proponent only; state his status.)",
+      "ENRICH concepts/land-value-capture.md: add to 'Instruments' two bullets: 'Density bonusing and community amenity contributions — extra density granted in return for cash or in-kind amenities, used in Vancouver, where Bill 46 (2023) has since moved municipalities toward standardised amenity cost charges' (cite Bill 46 text and the City), and a link to the Vancouver page. Also link research/cib-land-value-capture-study.md (it already treats density bonuses and Vancouver's Capstan Station).",
+      "ENRICH places/british-columbia.md: one sentence under 'Recent Fiscal Proposals' on Bills 44 and 46 (provincial small-scale multi-unit housing mandate; amenity cost charges), linked to Vancouver. Both bills are Tier 1 statutes read in full.",
+      "ENRICH objections/planning-restrictions-cause-high-prices.md: (i) Tier 2 tidy-ups listed in existing_wiki_coverage; (ii) one 'See Also' link to the Vancouver section as a worked example of the 'upzoning plus capture' pairing, flagged as a policy-design case rather than evidence that LVT lowers prices.",
+      "Possible but not recommended this pass: a concept page 'Density Bonusing and Community Amenity Contributions' would need ≥2 inbound links (Vancouver, land-value-capture, cib study, betterment-levy would qualify) and a Tier 1 spine (City reports, Bill 46, Siemiatycki et al.); better done once the City PDFs can be read.",
+      "Cross-reference with the IFS item: the IFS episode's criticism of negotiated section 106 agreements as 'costly and uncertain' (England) parallels Bill 46's stated rationale for replacing negotiated CACs with standard charges; it is a parallel, not support for Wiebe's argument."
+    ]
+  }
+]

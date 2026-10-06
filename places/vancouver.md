@@ -29,6 +29,38 @@ Period and official sources independently confirm most of this timeline, while a
 
 Vancouver, and British Columbia generally, does not currently levy a general land value tax; the city's exemption of improvements ended for good in 1984.[1] The nearest modern echoes are two vacancy taxes. The City's own instrument is the **[Empty Homes Tax (EHT)](/wiki/vancouver-empty-homes-tax/)**, enacted in 2017 as North America's first municipal vacancy tax, levied at up to 3 percent on the assessed value of homes left empty; the City reports vacant properties fell 54 percent from 2017 to 2022, while an independent difference-in-differences study finds a smaller, cleanly causal ~21 percent reduction and no effect on rents. Layered above it is the province's **Speculation and Vacancy Tax (SVT)**, a 2018 levy applied to residential property — land and improvements together, not land alone — in designated urban areas including Metro Vancouver; it is a provincial instrument rather than a City of Vancouver one. Both — together with the now-wound-down federal Underused Housing Tax, which could stack on the same dwelling — share the [speculative vacancy](/wiki/speculative-vacancy/) rationale for LVT, even though their tax base is broader than land value alone. For the EHT's rate history, revenue, and evaluation see [Vancouver's Empty Homes Tax](/wiki/vancouver-empty-homes-tax/); for the SVT's rates, revenue, coverage, and the case that BC's assessment infrastructure leaves the province well-placed to revive a fuller land value tax, see [British Columbia](/wiki/british-columbia/).
 
+## Modern Value Capture: Density Bonusing, Amenity Contributions and the 2026 Amenity Cost Charge
+
+Although the land-value tax is gone, Vancouver captures uplift by another route: it trades
+extra development rights for public benefits. In 2005 Macdonald Development Corporation
+received what the *Georgia Straight* described as the largest cultural-amenity density bonus
+in the city's history for the former Capitol 6 cinema site on Seymour Street; the Vancouver
+Symphony Orchestra's School of Music opened there in May 2011 in the lower floors of a
+residential tower, financed by the density transfer together with provincial and federal
+support and private donations.[13][14] Larger rezonings have carried negotiated Community
+Amenity Contributions, and the low-density zones have been opened step by step: the
+Streamlining Rental changes approved on 14 December 2021 and in effect from 14 February 2022
+allowed secured rental housing in more neighbourhoods,[15] and the Residential Inclusive
+(R1-1) zone in force from 17 October 2023 permits multiplexes on former single-family lots
+after Council approved the Missing Middle Housing proposal in the autumn of 2023.[16]
+
+The province then changed the rules. Bill 46 of 2023, the Housing Statutes (Development
+Financing) Amendment Act, created amenity cost charges under both the Local Government Act and
+the Vancouver Charter and barred zoning by-laws from imposing conditions for an amenity that
+such a charge already funds, pushing cities from case-by-case negotiation toward published
+rates.[17] Vancouver's response, as the staff proposal was reported, is a city-wide amenity
+cost charge taking effect on 30 September 2026, with lower-density residential development
+paying $2.32 per square foot and denser projects more, within a ten-year growth-related capital
+programme the City put at $7.7 billion.[18]
+
+The design has its critics. The independent economist and blogger Michael Wiebe argues that
+Vancouver's planners treat land-value uplift as a problem to be prevented rather than a
+surplus to be created by upzoning and then captured for amenities, and that the modest size
+of the multiplex allowances reflects a view of density as a harm to neighbourhood character;
+on his reading a city that wanted both more housing and more music schools would permit more
+and capture more.[19] The charge is too new for its effect on either housing supply or
+amenity funding to be assessed.
+
 ## See Also
 
 - [Transitional Gains Trap](/wiki/transitional-gains-trap/)
@@ -56,3 +88,10 @@ Vancouver, and British Columbia generally, does not currently levy a general lan
 10. City of Vancouver (2019), *Land Value Capture as a Source of Revenue for Local Government* — council report package of 18 October 2019, including the December 2018 council motion and the Coriolis Consulting discussion paper. [vancouver.ca PDF](https://vancouver.ca/files/cov/2019-10-18-land-value-capture.pdf) — used for the statements that BC's system of taxing 100 percent of land and improvement value "has been in place since 1984" (discussion paper, p. 20) and that "Vancouver had a Land Value Tax from 1910 to 1984" (council motion). Read in full, 2026-07-26, via the Internet Archive copy.
 11. Douglas A. Stewart (1974), *Land Value Taxation: Some Effects on Land Speculation and the Burden of Municipal Taxation* (M.A. thesis, University of British Columbia, May 1974). [UBC Open Collections](https://doi.org/10.14288/1.0099988) — quotes a report of the City of Vancouver's Department of Finance stating that "improvements are only taxed at 75% of their assessed value," independently confirming that the 75-percent-of-land-rate regime was in force by the early 1970s and thereby narrowing the reliance on England (source 1) to the precise 1969 start-year alone. Read in full, 2026-07-26.
 12. Daily Hive (Urbanized), "Vancouver councillor proposes new tax to 'capture' property value increase" (30 November 2018). [dailyhive.com](https://dailyhive.com/vancouver/vancouver-land-value-capture-tax-proposal-november-2018) — used to identify Christine Boyle as the December 2018 motion's sponsor and to describe its stated aim (exploring land value capture as an alternative to or supplement for the city's community-amenity-contribution and development-contribution system). A contemporaneous op-ed by activist Jennifer Maiko Bradshaw in support of the same motion (Georgia Straight, 3 December 2018, [straight.com](https://www.straight.com/news/1173051/jennifer-maiko-bradshaw-support-land-value-tax-motion)) was also reviewed; it does not identify Bradshaw as a councillor or as the motion's sponsor (she is a renter and housing activist writing in support of Boyle's motion) and adds no fact beyond what sources 10 and 12 already establish, so it is not cited as a primary source here.
+13. Jessica Werb, report on the opening of the VSO School of Music, *The Georgia Straight*, 27 May 2011. [straight.com](https://www.straight.com/article-395271/vancouver/vso-school-music-unveiled) — used for the 2005 density bonus, the May 2011 opening, the $30-million facility and its mixed financing (B-claim; journalism).
+14. VSO School of Music, "About". [vsoschoolofmusic.ca](https://www.vsoschoolofmusic.ca/about) — used for the school's own account of the site's origin (C-claim; the institution's own account).
+15. City of Vancouver, Shape Your City, "Streamlining Rental Approved by Council". [shapeyourcity.ca](https://shapeyourcity.ca/rental-rz/news_feed/streamlining-rental-approved-at-council) — used for the 14 December 2021 approval and the 14 February 2022 effective date (A-claim; official).
+16. City of Vancouver, Shape Your City, "Multiplexes". [shapeyourcity.ca](https://www.shapeyourcity.ca/multiplexes) — used for Council's autumn 2023 approval of the Missing Middle Housing proposal and the R1-1 zone taking effect on 17 October 2023 (A-claim; official).
+17. British Columbia, Bill 46 – 2023, Housing Statutes (Development Financing) Amendment Act, 2023, third reading. [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca/civix/document/id/bills/billsprevious/4th42nd:gov46-3) — used for the creation of amenity cost charges and the limit on amenity conditions in zoning by-laws (A-claim; statute).
+18. Daily Hive Urbanized, "City plans Vancouver-wide amenity cost charge on development to help pay for growth", 9 July 2026. [dailyhive.com](https://dailyhive.com/vancouver/vancouver-amenity-cost-charge-dcls-introduction-changes) — used for the 30 September 2026 start, the $2.32 rate and the $7.7-billion programme as the article relays the staff report (B-claim; journalism; the by-law itself was not consulted).
+19. Michael Wiebe, "Why does Vancouver treat new housing as a problem?", Substack, 30 September 2026. [blog.michaelwiebe.com](https://blog.michaelwiebe.com/p/why-does-vancouver-treat-new-housing) — used only for his argument (D-claim; independent economist and blogger, Tier 2: origin of the critique, not support; his quotations from City reports are not relied on).

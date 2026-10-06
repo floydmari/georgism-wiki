@@ -5447,3 +5447,29 @@ each Ghost publish to sources/.publish-notify.json so Hugh's Slack report does n
 48-hour Ghost poll, but the file had never been created. scripts/sync_to_ghost.py now records
 an entry after every successful upsert (dedup on unnotified slugs; created maps to
 "published"); the file is to be committed with the pass that produced it.
+
+## 2026-10-06 (11:12) — an IFS podcast and a Vancouver essay, both folded in
+
+Two scanner items after a one-day gap. The IFS item turned out to be a podcast episode, not
+the explainer article the scanner described: Helen Miller with Stuart Adam and Ben Zaranko,
+no figures, no report, no published transcript. T0 recommended enrichment and T1 agreed. The
+IFS organisation page gains a section restating the institute's September 2026 position,
+paraphrased from the audio with timestamps and no quotations, since the only transcript is
+machine-generated; the transition-shock objection page gains the one-off-levy sentence; the
+IFS address is corrected to the site footer's Marylebone Road; five self-references on the
+page were reworded. Adam and Miller go to tier1_confirmed, Zaranko (now at the Observer) to
+tier3 as a commentator.
+
+Michael Wiebe's 950-word essay on Vancouver's value capture is a Tier 2 argument with no
+data, but it exposed a real gap: nothing on density bonusing, community amenity contributions
+or British Columbia's 2023 Bill 46. The Vancouver page gains a section built on the statute,
+the City's own Shape Your City pages (Streamlining Rental, the R1-1 multiplex zone), the
+Georgia Straight's account of the 2005 VSO density bonus and Daily Hive's report of the
+September 2026 amenity cost charge, with Wiebe carried once as a named proponent. The City
+PDFs he quotes are Cloudflare-blocked, so his quotations and square-footage figures are not
+used and the documents are logged as SOURCE-BLOCKED. The land-value-capture concept page
+gains a bullet; the planning-restrictions objection gains a See Also and an access-note
+tidy.
+
+Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 428 consumed. Merged to
+main and Ghost-synced.
