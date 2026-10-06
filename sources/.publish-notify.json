@@ -1,0 +1,91 @@
+{
+  "notifications": [
+    {
+      "slug": "institute-for-fiscal-studies",
+      "title": "Institute for Fiscal Studies",
+      "url": "https://www.progress.org/wiki/institute-for-fiscal-studies/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "ifs",
+        "uk",
+        "tax-policy",
+        "public-finance",
+        "meade-report",
+        "mirrlees-review",
+        "allowance-for-corporate-equity"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-06T11:35:34.000Z",
+      "notified": false
+    },
+    {
+      "slug": "vancouver",
+      "title": "Vancouver",
+      "url": "https://www.progress.org/wiki/vancouver/",
+      "category": "places",
+      "tags": [
+        "places",
+        "vancouver",
+        "british-columbia",
+        "canada",
+        "single-tax",
+        "land-value-tax",
+        "l-d-taylor",
+        "speculation-vacancy-tax"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-06T11:35:36.000Z",
+      "notified": false
+    },
+    {
+      "slug": "land-value-capture",
+      "title": "Land Value Capture",
+      "url": "https://www.progress.org/wiki/land-value-capture/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "land-value-capture",
+        "betterment",
+        "public-finance",
+        "infrastructure"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-06T11:35:38.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-transition-wealth-shock",
+      "title": "Objection: LVT inflicts a one-time wealth shock on current owners",
+      "url": "https://www.progress.org/wiki/lvt-transition-wealth-shock/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "transition",
+        "capitalization",
+        "fairness",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-06T11:35:39.000Z",
+      "notified": false
+    },
+    {
+      "slug": "planning-restrictions-cause-high-prices",
+      "title": "Objection: Planning and Zoning Restrictions, Not Land, Cause High House Prices",
+      "url": "https://www.progress.org/wiki/planning-restrictions-cause-high-prices/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "housing",
+        "zoning",
+        "land-use-regulation",
+        "yimby",
+        "feasibility"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-06T11:35:40.000Z",
+      "notified": false
+    }
+  ]
+}
