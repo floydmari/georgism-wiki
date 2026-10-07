@@ -8,7 +8,9 @@
       "context": "Class-monopoly rent and contested retail spaces under financialization: Small businesses, landlord power, and policy interventions in Singapore and Hong Kong \u2014 Mingze Bai & Shenjing He. Environment and Planning A: Economy and Space, published 27 September 2026, DOI 10.1177/0308518X261480524. Scan surfaced an exa.ai library proxy; canonical DOI resolved via Crossref (title+author query, exact match).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-07T11:16:09.209469+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-07T11:16:24.379568+00:00",
+      "report_ts": "1791371778.267439"
     }
   ],
   "consumed": [
@@ -5169,7 +5171,7 @@
       "notes": "used 2026-10-06 \u2014 ~950-word Tier 2 essay, D-claim argument, no data; T0 recommended ENRICH over a page; T1 agreed. New section on places/vancouver.md built from Tier 1 primaries (Bill 46 2023 text; City Shape Your City pages for Streamlining Rental and the R1-1 multiplex zone; Georgia Straight on the 2005 VSO density bonus; Daily Hive on the Sept 2026 amenity cost charge) with Wiebe's argument carried once as a named proponent; bullet on concepts/land-value-capture.md; See Also and an access-note tidy on objections/planning-restrictions-cause-high-prices.md. City PDFs he quotes are Cloudflare-blocked \u2014 BACKLOG SOURCE-BLOCKED entry; his quotations from them are not used."
     }
   ],
-  "last_updated": "2026-10-07T11:16:09.209469+00:00",
+  "last_updated": "2026-10-07T11:16:24.379568+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 1
 }
