@@ -5473,3 +5473,25 @@ tidy.
 
 Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 428 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-07 — Bai & He on retail class-monopoly rent: the primaries carried the pages
+
+One scanner item, a day late: Bai and He's *Environment and Planning A* paper applying
+Harvey's class-monopoly rent to REIT landlords and small retailers in Singapore and Hong Kong.
+SAGE's wall blocked the body on every route, so only the abstract and reference list were
+read; T0 recommended enriching now and deferring the research page, and T1 agreed. What made
+enrichment possible was the Tier 1 record T0 pulled in full around the paper: Singapore's 2008
+Competition Commission study (developers 64%, REITs 29% of private retail space, no dominant
+landlord), the Ministry of Trade and Industry's 2014 test of 111 malls (no REIT rent premium
+after controls, no acquisition effect), the 2023 CCCS market inquiry (market power at
+planning-area level, exclusivity clauses in 18 of 530 leases, market power not itself
+anti-competitive), the Fair Tenancy code's third edition, and the Hong Kong Government's 2019
+LegCo paper on the Link REIT divestment and the rejected tenancy-control bill. The Singapore
+and Hong Kong pages each gain a section built on those, with the paper's argument carried
+once at abstract level; financialization-of-land gains a paragraph and
+government-granted-privileges a sentence. The MTI counter-evidence sits beside the critique
+rather than beneath it. Shenjing He goes to tier1_confirmed; Bai is not Tier 1 on his own
+standing and is not used as an authority. The research page waits in BACKLOG for the body.
+
+Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 429 consumed. Merged to
+main and Ghost-synced.

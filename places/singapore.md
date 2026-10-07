@@ -28,6 +28,34 @@ As the [public land leasing](/wiki/public-land-leasing/) page details, the state
 
 Singapore's 1975 **Area Licensing Scheme (ALS)** was the world's first congestion-pricing scheme to be successfully implemented anywhere, and remains the largest single quasi-experimental effect in the road-pricing literature: morning-peak traffic entering the central Restricted Zone fell from about 32,500 vehicles to about 7,700 — roughly **76%** — almost immediately after the manual paper-licence charge began, with a large shift onto public transport.[3] The standard scholarly account (Phang & Toh, 2004) is also the wiki's source for an honest counterweight to that headline: the ALS's flat, coarse charge did not eliminate congestion so much as displace it — "the problem of congestion had merely shifted in time and place" — which forced a 23-year cascade of corrective add-ons (the Weekend Car Scheme, the Off-Peak Car Scheme, the Road Pricing Scheme) before the manual licence was finally replaced in 1998 by **Electronic Road Pricing (ERP)**, an automated toll varying "by vehicle size, route taken, and time of the day."[3] ERP is the finely-differentiated, per-passage price that [William Vickrey](/wiki/william-vickrey/)'s congestion-pricing theory had long pointed toward, and its adoption is read as the fix for the ALS's "wrong price, wrong margin" problem.[3]
 
+## Retail Space, REIT Landlords and the Fair Tenancy Framework
+
+Public ownership of land has not meant public control of the retail property built on it. A
+2008 study by the Competition Commission of Singapore found that developers held about 64% and
+real estate investment trusts about 29% of some 2.03 million square metres of private
+non-strata retail space, and judged that no landlord was likely to hold a dominant position,
+since retailers could negotiate and choose between malls.[5] A Ministry of Trade and Industry
+analysis of 111 malls over 2000–2013 then tested the common complaint that REIT acquisitions
+drive up rents: after controlling for location and asset-enhancement works, rents in REIT-owned
+malls were not statistically different from those in single-owner malls, and acquisition by a
+REIT showed no detectable effect on a mall's rents.[6] The Competition and Consumer
+Commission's 2023 market inquiry, opened in April 2020 after reports of unequal bargaining,
+drew a finer line: tenants treat only malls within roughly the same planning area as
+substitutes and face high switching costs, so some malls may hold market power within their
+planning area, though the Commission stressed that market power and higher rents are not in
+themselves anti-competitive and found exclusivity-radius clauses in only 18 of the 530 tenancy
+agreements it examined.[7]
+
+Policy moved from competition law to tenancy governance. Alongside the Lease Agreements for Retail Premises Act 2023, the Fair Tenancy Industry
+Committee's Code of Conduct for Leasing of Retail Premises governs qualifying leases;
+the Code's third edition applies to leases of one year or more signed from 1 February 2024,
+treats exclusivity clauses as impermissible unless both parties declare a permitted deviation,
+and provides a dispute process, but it governs terms and procedure rather than capping
+rent.[8][9] Urban scholars Mingze Bai and Shenjing He (2026) read the Singapore and
+[Hong Kong](/wiki/hong-kong/) cases through David Harvey's concept of class-monopoly rent,
+arguing that REIT landlords' power over small retailers is clearest at the submarket level and
+that Singapore's compulsory tenancy framework answers a structurally unequal negotiation.[10]
+
 ## Significance
 
 Singapore shows a different route to the Georgist goal — public land leasing instead of a land value tax — and is a standard reference for advocates arguing that capturing land rent is compatible with rapid, market-driven growth. Its state-ownership model is also a structural contrast to **[land pooling](/wiki/land-pooling/)** schemes such as Gujarat's Town Planning Scheme, which recover land-value uplift by returning serviced plots to private owners rather than retaining title — a different route to the same underlying goal of capturing the [unearned increment](/wiki/unearned-increment/) that public planning creates.[4] Singapore's model is also the sovereign-scale cousin of smaller land-rent institutions such as the [Fairhope Single Tax Corporation](/wiki/fairhope-single-tax-corporation/).
@@ -47,3 +75,9 @@ Singapore shows a different route to the Georgist goal — public land leasing i
 2. Yu-Hung Hong (1996), "Can Leasing Public Land Be an Alternative Source of Local Public Finance?", Lincoln Institute — used for the public-land-leasing revenue mechanism. [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf)
 3. Sock-Yong Phang & Rex S. Toh (2004), "Road Congestion Pricing in Singapore: 1975 to 2003," *Transportation Journal* 43(2), pp. 16–25 — used for the ALS's ~76% traffic-reduction figure, the congestion-displacement finding, the corrective-scheme cascade, and the ERP-as-Vickrey-pricing quotation (A/B/C-claims), via the wiki's [research page](/wiki/phang-toh-singapore-congestion-pricing/). [SMU repository](https://ink.library.smu.edu.sg/soe_research/117/)
 4. Wiki corpus, [Land Pooling](/wiki/land-pooling/) — used for the contrast between Singapore's state-ownership leasehold model and land-pooling's ownership-retaining route to the same value-capture goal (D-claim, analysis).
+5. Competition Commission of Singapore (2008), *Market Study on Retail Mall Rental Space in Singapore*, summary report, 31 October 2008. [PDF](https://isomer-user-content.by.gov.sg/45/d0ff60ab-5473-42a0-90c1-58605e6fd271/SummaryReportforRetailSpaceMarketStudyFinal.pdf) — used for the 64% / 29% ownership shares of 2.03 million sq m and the finding that no landlord was likely dominant (A-claim for the Commission's findings; official body).
+6. Ministry of Trade and Industry, Singapore (2014), "Have REIT acquisitions led to an increase in retail rents?", feature article, *Economic Survey of Singapore*, First Quarter 2014. [PDF](https://isomer-user-content.by.gov.sg/166/0a316a26-16d2-4cdc-9ac9-3242c93c6e84/fa_1q14.pdf) — used for the 111-mall, 2000–2013 result (B-claim; the paper states that its views are the authors' and not the Ministry's).
+7. Competition and Consumer Commission of Singapore (2023), *Market Inquiry into the Leasing of Private Retail Spaces in Singapore*, 1 August 2023. [PDF](https://isomer-user-content.by.gov.sg/45/22b69c3e-3119-4c7c-8e91-c53b424890fd/CCCS%20Private%20Retail%20Spaces%20Market%20Inquiry%20Report.pdf) — used for the planning-area market-power finding, the Commission's caveat that market power is not itself anti-competitive, and the 18-of-530 exclusivity-clause count (A-claim for the Commission's conclusions; official body).
+8. Singapore Statutes Online, *Lease Agreements for Retail Premises Act 2023*. [sso.agc.gov.sg](https://sso.agc.gov.sg/Act/LARPA2023) — used for the existence and title of the Act (A-claim; statute; detailed provisions not relied on).
+9. Fair Tenancy Industry Committee (2023), *Code of Conduct for Leasing of Retail Premises in Singapore*, third edition, dated 1 November 2023, effective 1 February 2024. [PDF](https://www.ftic.org.sg/wp-content/uploads/2023/11/Code-of-Conduct-for-Leasing-of-Retail-Premises-Version-3-dated-1-November-2023.pdf) — used for the Code's scope (leases of one year or more signed from 1 February 2024), its treatment of exclusivity clauses and its dispute process (A-claim; statutory committee's code).
+10. Mingze Bai & Shenjing He (2026), "Class-monopoly rent and contested retail spaces under financialization: Small businesses, landlord power, and policy interventions in Singapore and Hong Kong," *Environment and Planning A: Economy and Space*, published online 27 September 2026, DOI 10.1177/0308518X261480524. [doi.org](https://doi.org/10.1177/0308518X261480524) — used for the authors' framing and argument as stated in the abstract (B-claim at abstract level, D-claim for the normative conclusions; abstract only consulted, the full text sitting behind the publisher's access wall; Tier 1 on He's standing as a University of Hong Kong urban-studies scholar).

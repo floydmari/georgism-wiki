@@ -93,6 +93,9 @@ critical urban geography and media-studies scholarship, using "rent" in a looser
 sociological sense than the wiki's economic-rent definition, but the underlying structure —
 privileged access to a scarce, publicly-visible position, capitalized by those who control
 it — is the same one this page documents for spectrum, medallions, and land titles.[4]
+The same Harvey-derived concept is applied to real estate investment trusts as retail
+landlords in Hong Kong and Singapore by Bai and He (2026), whose argument and the official
+competition findings around it are set out on the [Singapore](/wiki/singapore/) page.[5]
 
 ## Is It Necessarily a "Rent"?
 
@@ -143,3 +146,4 @@ rather than assumed from the land case.
    studies, and the "necessary interfaces" smart-city framing (§"A Media-Studies Case"
    above) (A-claim for the abstract; full text not read).
    [doi.org](https://doi.org/10.1080/10630732.2025.2605620)
+5. Mingze Bai & Shenjing He (2026), "Class-monopoly rent and contested retail spaces under financialization: Small businesses, landlord power, and policy interventions in Singapore and Hong Kong," *Environment and Planning A: Economy and Space*, published online 27 September 2026, DOI 10.1177/0308518X261480524. [doi.org](https://doi.org/10.1177/0308518X261480524) — used for the authors' framing and argument as stated in the abstract (B-claim at abstract level, D-claim for the normative conclusions; abstract only consulted, the full text sitting behind the publisher's access wall; Tier 1 on He's standing as a University of Hong Kong urban-studies scholar).

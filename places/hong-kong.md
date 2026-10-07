@@ -29,6 +29,24 @@ Hong Kong shows the revenue power of capturing land value — alongside [Singapo
 
 It also illustrates a tension: because the government benefits from high land prices, the system is criticised for contributing to some of the world's least affordable housing. This anchors the [objection that land value capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/). The response is that the objection conflates two goals: capturing rent for revenue does not by itself produce low prices — a government funded from land has an incentive to keep land *values high* — and affordability depends on housing **supply**, not on who collects the rent.[2] Hong Kong is a reminder that *how* captured land revenue is used, and whether supply is allowed to respond, matters as much as capturing it.
 
+## Divested Public Retail Assets and Link REIT
+
+The public landlord's reach stops at the shopfront. In 2005 the Housing Authority divested
+180 retail and car-parking properties through what is now Link Real Estate Investment Trust,
+to concentrate on subsidised housing and strengthen its finances; the Court of Final Appeal
+held that year that the divestment was consistent with the Housing Ordinance, which requires
+the Authority to provide housing and such ancillary amenities as it thinks fit.[4] Rents in
+the divested estates' shopping centres and markets became a standing grievance. In 2019 a
+private member's bill proposed tenancy control, including a vacancy tax, on 147 of the
+divested properties; the Government declined to support it, citing its free-market policy,
+the risk of legal challenge from the owners, and the Competition Commission's view that
+whether an owner monopolises a retail market cannot be judged without examining the actual
+conditions of specific locations, while committing itself to a programme of new public
+markets.[4] Urban scholars Mingze Bai and Shenjing He (2026) read the episode, together with
+[Singapore](/wiki/singapore/)'s retail-tenancy reforms, through David Harvey's concept of
+class-monopoly rent: the landlord's power is clearest at the submarket level, and publicly
+owned marketplaces are the answer Hong Kong chose.[5]
+
 ## See Also
 
 - [MTR Corporation](/wiki/mtr-corporation/) — the rail operator whose Rail + Property model captures land-value uplift to fund transit
@@ -45,3 +63,5 @@ It also illustrates a tension: because the government benefits from high land pr
 1. Wiki corpus, [Public Land Leasing](/wiki/public-land-leasing/) (consolidating primary sources): Yu-Hung Hong (1996), "Can Leasing Public Land Be an Alternative Source of Local Public Finance?", Lincoln Institute [PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/145_hong96web.pdf); HK Lands Department and LegCo materials on the all-leasehold structure and St John's Cathedral exception; LegCo Research Office, "Major sources of government revenue" (ISSF03/2023) for the ~13–24% land-premium revenue range; Hong & Lam (1998), Lincoln Institute, for the 39%-capture / 79%-of-infrastructure figures (1970–1991); and HK Lands Department "Lease Extension" for the post-1997 no-premium 50-year extension at 3% of rateable value. Used for the leasehold structure, the revenue share, and the between-repricing capture gap.
 2. Wiki corpus, [Objection: capture didn't make housing cheap](/wiki/land-capture-didnt-make-housing-cheap/) and [LVT can improve housing affordability](/wiki/lvt-improves-housing-affordability/) — used for the revenue-vs-affordability distinction and the supply-constraint point (Singapore/Hong Kong capture large land value yet have costly housing where supply is administratively constrained).
 3. Matti Siemiatycki, Drew Fagan & Robert Nutifafa Arku (2023), "Land Value Capture Study: Paying for Transit-Oriented Communities," Infrastructure Institute, University of Toronto School of Cities (supported by the Canada Infrastructure Bank) — used for the HK$171.8 billion (1980–2005) MTR Rail + Property figure, the Crossrail and Scarborough comparisons, and the public-land-ownership precondition caveat (B-claims), via the wiki's [research page](/wiki/cib-land-value-capture-study/). [PDF](https://cdn.cib-bic.ca/files/documents/Corporate/Land-Value-Capture-Study-April-2023.pdf)
+4. Transport and Housing Bureau, Hong Kong SAR Government (2019), "Government's views on the Regulation of Commercial Facilities in Public and Subsidized Housing (Legislative Provisions) Bill," paper for the Legislative Council Panel on Housing, LC Paper No. CB(1)1104/18-19(04), 3 June 2019. [legco.gov.hk](https://www.legco.gov.hk/yr18-19/english/panels/hg/papers/hg20190603cb1-1104-4-e.pdf) — used for the 2005 divestment of 180 properties, the Court of Final Appeal ruling, the 147-property bill, the Competition Commission's location point and the public-market commitment (A-claim for the Government's statements; official body).
+5. Mingze Bai & Shenjing He (2026), "Class-monopoly rent and contested retail spaces under financialization: Small businesses, landlord power, and policy interventions in Singapore and Hong Kong," *Environment and Planning A: Economy and Space*, published online 27 September 2026, DOI 10.1177/0308518X261480524. [doi.org](https://doi.org/10.1177/0308518X261480524) — used for the authors' framing and argument as stated in the abstract (B-claim at abstract level, D-claim for the normative conclusions; abstract only consulted, the full text sitting behind the publisher's access wall; Tier 1 on He's standing as a University of Hong Kong urban-studies scholar).

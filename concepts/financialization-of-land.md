@@ -61,6 +61,15 @@ have not blunted the same concentration dynamic. This adds a Latin American
 data point to a literature otherwise anchored in UK and Canadian evidence
 above.[3]
 
+Retail property supplies an Asian counterpart. Mingze Bai and Shenjing He (2026), writing in
+*Environment and Planning A*, describe how a substantial share of retail space in Hong Kong
+and Singapore has come under real estate investment trusts over two decades and argue, in
+David Harvey's terms of class-monopoly rent, that the resulting landlord power over small
+retailers is most evident at the submarket level, with Hong Kong answering through new
+publicly owned marketplaces and Singapore through a compulsory tenancy code; the cases and
+the official evidence on both sides are set out on [Hong Kong](/wiki/hong-kong/) and
+[Singapore](/wiki/singapore/).[4]
+
 ## See Also
 
 - [Rethinking the Economics of Land and Housing (research summary)](/wiki/ryan-collins-rethinking-land-housing/) — the primary source for this concept
@@ -84,3 +93,4 @@ above.[3]
    money-creation point summarized above.
 2. New Economics Foundation (2018), *What Lies Beneath: How to Fix the Broken Land System at the Heart of Our Housing Crisis*. [PDF](https://neweconomics.org/uploads/files/what-lies-beneath.pdf) — used for the UK advocacy restatement of the financialization-of-land diagnosis (think-tank report, cited as the advocates' own position).
 3. Norma Lacerda & Raúl Fiorentino (2026), "Financialization of the real estate sector and costly access to low-income housing," *Revista Brasileira de Estudos Urbanos e Regionais* 28(1), 21 August 2026, DOI 10.22296/2317-1529.rbeur.202625en. [rbeur.anpur.org.br](https://rbeur.anpur.org.br/rbeur/article/view/8465) — fetched and read (abstract/summary level) 2026-08-24; used for the Brazil case, the market-concentration/oligopoly-theory framing, and the France/Spain/Argentina/Chile comparative scope (B-claim; full text not independently verified).
+4. Mingze Bai & Shenjing He (2026), "Class-monopoly rent and contested retail spaces under financialization: Small businesses, landlord power, and policy interventions in Singapore and Hong Kong," *Environment and Planning A: Economy and Space*, published online 27 September 2026, DOI 10.1177/0308518X261480524. [doi.org](https://doi.org/10.1177/0308518X261480524) — used for the authors' framing and argument as stated in the abstract (B-claim at abstract level, D-claim for the normative conclusions; abstract only consulted, the full text sitting behind the publisher's access wall; Tier 1 on He's standing as a University of Hong Kong urban-studies scholar).
