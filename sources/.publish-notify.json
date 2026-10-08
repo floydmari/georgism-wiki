@@ -152,6 +152,151 @@
       "action": "updated",
       "published_at": "2026-10-07T19:27:21.000Z",
       "notified": false
+    },
+    {
+      "slug": "spain",
+      "title": "Spain",
+      "url": "https://www.progress.org/wiki/spain/",
+      "category": "places",
+      "tags": [
+        "places",
+        "spain",
+        "property-tax",
+        "ibi",
+        "catastro",
+        "assessment",
+        "land-value-tax",
+        "wealth",
+        "land-value-capture"
+      ],
+      "action": "published",
+      "published_at": "2026-10-08T19:26:11.000Z",
+      "notified": false
+    },
+    {
+      "slug": "united-kingdom",
+      "title": "United Kingdom",
+      "url": "https://www.progress.org/wiki/united-kingdom/",
+      "category": "places",
+      "tags": [
+        "places",
+        "united-kingdom",
+        "enclosure",
+        "peoples-budget",
+        "betterment",
+        "land-value-tax",
+        "housing-crisis",
+        "financialisation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:13.000Z",
+      "notified": false
+    },
+    {
+      "slug": "estonia",
+      "title": "Estonia",
+      "url": "https://www.progress.org/wiki/estonia/",
+      "category": "places",
+      "tags": [
+        "estonia",
+        "land-value-tax",
+        "georgism",
+        "fiscal-policy",
+        "eastern-europe"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:15.000Z",
+      "notified": false
+    },
+    {
+      "slug": "germany",
+      "title": "Germany",
+      "url": "https://www.progress.org/wiki/germany/",
+      "category": "places",
+      "tags": [
+        "places",
+        "germany",
+        "house-prices",
+        "rental-housing",
+        "tenant-protection",
+        "relationship-banking",
+        "grundsteuer",
+        "baden-wurttemberg",
+        "land-value-tax",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:17.000Z",
+      "notified": false
+    },
+    {
+      "slug": "olea-hoyos-bizkaia-land-value-tax",
+      "title": "Paving the Way Towards Predistribution: Introducing a Land Value Tax in Bizkaia (Olea, Hoyos & García Enríquez, 2025)",
+      "url": "https://www.progress.org/wiki/olea-hoyos-bizkaia-land-value-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "spain",
+        "basque-country",
+        "bizkaia",
+        "land-value-tax",
+        "predistribution",
+        "ecological-tax-reform"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:20.000Z",
+      "notified": false
+    },
+    {
+      "slug": "julio-senador-gomez",
+      "title": "Julio Senador Gómez",
+      "url": "https://www.progress.org/wiki/julio-senador-gomez/",
+      "category": "people",
+      "tags": [
+        "people",
+        "spain",
+        "georgism",
+        "regeneracionismo",
+        "land-reform",
+        "intellectual-history"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:22.000Z",
+      "notified": false
+    },
+    {
+      "slug": "valencia-land-grab-law",
+      "title": "Valencia \"Land Grab\" Law (LRAU, 1994)",
+      "url": "https://www.progress.org/wiki/valencia-land-grab-law/",
+      "category": "events",
+      "tags": [
+        "events",
+        "land-value-capture",
+        "spain",
+        "betterment-levy",
+        "cautionary-case"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:24.000Z",
+      "notified": false
+    },
+    {
+      "slug": "blanco-spain-two-lands",
+      "title": "Blanco, Bauluz & Martínez-Toledano (2018): Wealth in Spain, 1900-2014",
+      "url": "https://www.progress.org/wiki/blanco-spain-two-lands/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land",
+        "wealth",
+        "spain",
+        "capital-share",
+        "inequality",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-08T19:26:26.000Z",
+      "notified": false
     }
   ]
 }
