@@ -5495,3 +5495,27 @@ standing and is not used as an authority. The research page waits in BACKLOG for
 
 Lint 0 errors; inventory 1025 pages, 0 orphans. Ledger: 0 pending, 429 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-08 — a Spain page, and the OECD series in place of a think-tank tracker
+
+Two scanner items, delivered in the afternoon again. The Spanish under-assessment working
+paper (Fernandez, Arundel & Duque-Calvache, SSRN) was unreachable beyond its abstract, so no
+research page; but T0 found four Spain pages already on the wiki with no hub, and T1 agreed
+that a places/spain.md built on the consolidated BOE statutes and the OECD Revenue Statistics
+series could carry the paper at abstract level and draw the Senador Gómez, Blanco, LRAU and
+Bizkaia pages together. The page states the IBI's cadastral base (land plus construction,
+capped at market value), the 0.4–1.10% urban rate band, the nine-year phase-in after
+revaluation, and 0.89% of GDP in 2024, 99.8% municipal; the paper's abstract is quoted and its
+silence on direction and size is stated. Four pages gained See Also links.
+
+The Tax Foundation Europe tracker was rejected as a source: a Tier 2 compilation whose metric
+is tax as a share of IMF private capital stock and whose earlier tables carry unit errors. The
+OECD 4100 series it compiles was pulled directly instead and corrected one standing claim:
+the UK page said recurrent property taxes at 2.8% of GDP were "second only to Canada"; in the
+OECD series the UK is first among members with data in 2022, 2023 and 2024, ahead of the
+United States and Canada. Estonia's "significant source of local revenue" was qualified to
+0.15% of GDP, all of it municipal, and Germany's Grundsteuer given its 0.37%. Arundel to
+tier1_confirmed; the Tax Foundation to tier2 with a note to cite the primary.
+
+Lint 0 errors; inventory 1026 pages, 0 orphans. Ledger: 0 pending, 431 consumed. Merged to
+main and Ghost-synced.

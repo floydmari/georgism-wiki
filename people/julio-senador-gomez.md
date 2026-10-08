@@ -63,6 +63,7 @@ increment tax.
 
 ## See Also
 
+- [Spain](/wiki/spain/) — the country page, from the IBI's cadastral base to the modern LVT debate
 - [Henry George](/wiki/henry-george/)
 - [Georgism](/wiki/georgism/)
 - [Blanco, Bauluz & Martínez-Toledano: A Century of Spanish Wealth](/wiki/blanco-spain-two-lands/) — a separate, unrelated Spain page (wealth-inequality data, not Georgist reception history)

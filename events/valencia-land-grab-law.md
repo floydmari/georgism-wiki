@@ -63,6 +63,7 @@ about legacy cases continued for years afterward.[2][5]
 
 ## See Also
 
+- [Spain](/wiki/spain/) — the country page: property-tax mechanics, revenue and the Georgist thread
 - [Betterment Levy](/wiki/betterment-levy/) — the land-value-capture concept the LRAU nominally implemented
 - [Boom Bust (Harrison, book)](/wiki/harrison-boom-bust/) — cites this episode as a land-value-capture case study
 - [Fred Harrison](/wiki/fred-harrison/)

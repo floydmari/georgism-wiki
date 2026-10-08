@@ -85,6 +85,7 @@ that may travel better in policy debates wary of "redistribution" as a loaded te
 
 ## See Also
 
+- [Spain](/wiki/spain/) — the national context: the municipal IBI, its cadastral base and the under-assessment question
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/)
 - [Objection: LVT Doesn't Raise Enough Revenue](/wiki/lvt-not-enough-revenue/)

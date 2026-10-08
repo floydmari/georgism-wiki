@@ -1,0 +1,220 @@
+[
+  {
+    "url": "https://doi.org/10.2139/ssrn.7417258",
+    "title": "Who Benefits from Property Undertaxation? Housing Values and Tax Inequity in Urban Spain (Fernandez, Arundel & Duque-Calvache, SSRN working paper, 2026)",
+    "what_was_fetched": [
+      "FULL TEXT NOT REACHED. Everything below rests on the abstract and bibliographic metadata, not on the paper's body, tables or figures.",
+      "https://doi.org/10.2139/ssrn.7417258 (curl, browser UA, following redirects) -> 403, Cloudflare 'Just a moment' challenge at www.ssrn.com/abstract=7417258.",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7417258 (browser UA) -> 403 Cloudflare challenge.",
+      "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=7417258 (browser UA) -> 403 Cloudflare; (Googlebot UA) -> 403 'Content Blocked ... automated script or search engine' (Elsevier content-protection page); (browser UA with Google Scholar Referer) -> 403; WebFetch -> 403. Google Scholar lists this exact Delivery.cfm URL as the [PDF] link, so a PDF exists but is not retrievable from this network.",
+      "https://r.jina.ai/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7417258 and r.jina.ai on the doi.org URL and on www.ssrn.com/abstract=7417258 -> 403 Cloudflare challenge relayed (reader proxy also blocked).",
+      "https://web.archive.org/web/2026/https://papers.ssrn.com/... -> 404 (no snapshot); archive.org availability API -> 429.",
+      "https://api.crossref.org/works/10.2139/ssrn.7417258 -> 200. Returns the FULL ABSTRACT, three authors with authenticated ORCIDs, type posted-content, publisher Elsevier BV (SSRN), indexed 2026-09-14. No page count, reference list (reference-count 0) or full text. Saved as ssrn-7417258.crossref.json.",
+      "https://api.openalex.org/works/doi:10.2139/ssrn.7417258 -> 200. Affiliations (Fernandez: Universidad de Granada; Arundel: University of Amsterdam; Duque-Calvache: Universidad de Granada), OpenAlex concept keywords (property tax, cadastral valuation, land appreciation, economic rent, vertical inequity, microsimulation, Henry George, Spain), no abstract index, pdf_url null. Saved as ssrn-7417258.openalex.json.",
+      "https://api.unpaywall.org/v2/10.2139/ssrn.7417258 -> 200: green OA, url_for_pdf null (only the SSRN landing page). Semantic Scholar graph API -> 404 (not indexed). OpenAlex search endpoint -> 429 (daily budget exhausted). CORE API -> 500.",
+      "Google Scholar search (browser UA) -> 200, shows the result snippet only (same first two abstract sentences) and the SSRN PDF link. Bing -> 200 but returned irrelevant results; DuckDuckGo -> bot challenge; ResearchGate -> 403 'Temporarily Unavailable'; pure.uva.nl API -> 401; digibug.ugr.es discovery page -> 200 but no matching record; WebSearch (two queries) -> no hit for the paper.",
+      "Authors' record checked via Crossref (ORCID filter) and OpenAlex author record for Arundel (45 works, 1,774 citations, h-index 18): related peer-reviewed Spain paper retrieved (Arundel, Torrado & Duque-Calvache 2024, Environment and Planning A, DOI 10.1177/0308518X241247738; abstract read).",
+      "Spanish Tier 1 primaries fetched in full: BOE consolidated text of Real Decreto Legislativo 1/2004 (Ley del Catastro Inmobiliario) and Real Decreto Legislativo 2/2004 (Ley Reguladora de las Haciendas Locales) -> 200; saved as boe-rdl-1-2004-ley-catastro.txt and boe-rdl-2-2004-trlrhl.txt. OECD Revenue Statistics series 4100 pulled via the OECD SDMX API (see item 2 brief)."
+    ],
+    "verdict": "NEW places/spain.md (Tier 1 anchors: BOE statutes + OECD Revenue Statistics 4100 + the six Spain-related pages already on the wiki), carrying this paper as ONE hedged, abstract-level sentence in a 'Current research' section. DEFER a standalone research/ page for the paper until the full text is read (the abstract states the method and the simulation headline but reports no estimate of the vertical-inequity test, no assessment ratios and no distributional figures, so a research page today would be a figure-free stub). Re-queue the DOI for a pass by an environment that can open SSRN.",
+    "claim_grade": "B-claim (empirical working paper), read at abstract level only. Source tier: Tier 1 scholars under the section 4c rubric (see below), but an un-refereed SSRN working paper on a topic (public finance / assessment equity) that is new to the authors, so weight it as evidence-ordering class 4 (working papers) and do not cite it as established support. Nothing about magnitudes can be graded: none is in the abstract.",
+    "author_tier_judgment": {
+      "Rowan Arundel": "University of Amsterdam housing/urban geographer; OpenAlex: 45 works, 1,774 citations, h-index 18; peer-reviewed record in Urban Studies, Transactions of the Institute of British Geographers, Environment and Planning A, Housing Studies, Urban Geography, Housing Theory and Society. Tier 1 as a recognised scholar of housing wealth and inequality. His record is on housing wealth and tenure, not on property-tax design or assessment, so Tier 1 applies to the housing-wealth findings, not automatically to tax-administration claims.",
+      "Alex (Alejandro) Fernandez": "University of Granada; first/corresponding author; ORCID 0000-0002-5725-2570; 8 works in Crossref incl. Cities 2025, Journal of Housing and the Built Environment 2024, Journal of European Real Estate Research 2024, Urban Studies 2026. Early-career scholar with a peer-reviewed record in housing economics; Tier 1 by the 'academic with peer-reviewed body of work' rule, with the same topic caveat. Not the same person as Blanca Fernandez Milan (Fernandez Milan, Kapfer & Creutzig 2016), whose wiki page exists at research/fernandez-milan-location-value-taxes.md; avoid conflating the two Fernandez surnames in links.",
+      "Ricardo Duque-Calvache": "University of Granada sociologist/demographer (Population, Space and Place 2023; European Societies 2020; Revista Espanola de Sociologia 2022); co-author with Arundel of the 2024 EPA paper on Spanish housing-wealth polarisation. Tier 1 as an academic, on social-science (not fiscal) topics.",
+      "Not in sources/audit/people-tiers.json": "none of the three names is listed; judged by the rubric, not assumed."
+    },
+    "content_summary": {
+      "bibliographic": "SSRN working paper, abstract_id 7417258; DOI 10.2139/ssrn.7417258; published 2026 (Crossref indexed 14 September 2026; the exact posting day and the 21-page length come from the scanner note, not from any record fetched here); authors Alex Fernandez (Granada), Rowan Arundel (Amsterdam), Ricardo Duque-Calvache (Granada). Not peer reviewed as of this check.",
+      "abstract_verbatim_key_sentences (Crossref record; each under 50 words; abstract has no page locators)": [
+        "\"In Spain, the Impuesto sobre Bienes Inmuebles (IBI) is levied on registered cadastral values that are revised infrequently and at uneven intervals, so the effective base departs from market value in ways that are neither uniform nor neutral across households.\"",
+        "\"Drawing on Henry George's concept of land rent, this paper examines how increases in land value are captured by particular households across urban Spain.\"",
+        "\"The final simulations suggest that reorienting taxation towards property and away from labour has the potential to improve progressivity and reduce disparities in housing wealth.\""
+      ],
+      "research_design_as_stated_in_abstract": "(1) Data: 'newly available household-level registry data' (the registry is not named in the abstract; whether it is Catastro, Registradores or tax-agency data is NOT known). (2) Method: 'a simplified asset pricing model'. Step one 'tests for vertical inequity in the cadastral base across urban Spain'. Step two 'builds a microsimulation to estimate the capitalised value of the resulting tax saving and to trace its distribution across housing wealth, income, age and location', alongside 'a stylised income-tax-linked scheme for recycling the additional revenue'. Cities, period, the measure of undertaxation (effective IBI rate vs assessment-to-market ratios by value decile) and tenure/owner-type breakdowns are NOT in the abstract.",
+      "authors_own_findings_vs_cited_figures": "The abstract reports no numeric finding. The only result-like statement is the hedged simulation headline above ('suggest ... has the potential to improve progressivity and reduce disparities in housing wealth'), which is the authors' own simulation output, not a measured outcome. The abstract's background sentence ('Existing research has identified land appreciation as a central driver of wealth accumulation') is attributed to unnamed prior literature; the authors' own related evidence is Arundel, Torrado & Duque-Calvache (2024), who found rising spatial polarisation of Spanish housing-value accumulation with expensive areas gaining more in absolute terms and in appreciation rates (EPA, abstract read). No claim about WHO benefits by value decile, tenure or owner type can be reported until the body is read. The scanner note's phrasing ('who gains when urban property is systematically undertaxed') presupposes the finding; the abstract only says the test for vertical inequity is run.",
+      "policy_conclusion_per_abstract": "Shift taxation toward property and away from labour; recycle revenue through the income tax. Framed explicitly with Henry George's land-rent concept, which makes this a rare mainstream-academic housing paper that invokes George in its own abstract (a notable fact for this wiki, but the abstract alone does not show how heavily the paper leans on George).",
+      "tier1_primaries_for_the_spanish_system (all fetched and read)": {
+        "valor_catastral_definition": "RDL 1/2004 (Ley del Catastro Inmobiliario) art. 22: cadastral value is determined objectively from Catastro data and is the sum of the land (suelo) value and the construction value. Land and building are separately valued in the cadastral base, which matters for any land-only reform design.",
+        "market-value ceiling": "RDL 1/2004 art. 23.2 (Spanish): 'El valor catastral de los inmuebles no podra superar el valor de mercado ...' with a 'coeficiente de referencia al mercado' fixed by ministerial order. The statute therefore sets cadastral value as a ceiling at or below market value by design. The numeric coefficient (commonly cited as 0.5) lives in a ministerial order that was NOT fetched; do not state 0.5 without reading that order.",
+        "revaluation_mechanism": "RDL 1/2004 art. 24: values set by municipal 'ponencias de valores' (collective revaluations); art. 32: the annual State Budget Law may update cadastral values by coefficients, and municipalities may request them only if at least five years have passed since the last general collective revaluation and market divergence is substantial (request to the Direccion General del Catastro by 31 May). This is the legal source of 'revised infrequently and at uneven intervals'.",
+        "ibi_base_and_rates": "RDL 2/2004 (TRLRHL) art. 65: the IBI base is the cadastral value. Art. 72: statutory urban rate band 0.4% (minimum/default) to 1.10% (maximum), rural 0.3% to 0.90%; municipalities may add percentage points (0.07 for provincial and autonomous-community capitals, 0.07 where surface public transport runs, 0.06 for extra municipal services) and may differentiate rates for non-residential uses on the top 10% of cadastral values; since the 2023 housing law, municipalities may surcharge permanently vacant residential property by up to 50% (100% after three years, with further points for owners of two or more vacant units).",
+        "transition_smoothing": "RDL 2/2004 arts. 67-68: after a general revaluation the increase in taxable base is phased in over nine years through a declining reduction coefficient (0.9 in year one, falling 0.1 a year). A designed lag that sustains the gap between assessed and market value after every revaluation.",
+        "oecd_revenue_statistics_4100": "Spain: recurrent taxes on immovable property = 0.89% of GDP in 2024 (1.08% in 2019, 1.13% in 2021, 0.93% in 2023) and 2.43% of total taxation in 2024; 99.8% of it local government (0.888% of GDP of 0.890%). In euros the revenue was about EUR 13.5bn in 2019 and EUR 14.2bn in 2024: nominally almost flat for five years, so its GDP share fell. That pattern is consistent with a base indexed only by occasional coefficients, but the OECD series alone cannot show cause (rate cuts and municipal choices are confounders). OECD SDMX dataflow DF_RSGLOBAL v2.1 (flagged NonProductionDataflow in the API metadata), series T_4100, sector S13; saved as oecd-rsglobal-4100.csv; the edition label (Revenue Statistics 2025 vs a later release) is not stated in the API response and must be confirmed against the OECD publication.",
+        "still_to_fetch": "Direccion General del Catastro statistics (the /esp/estadisticas.asp path returned a 'page not found' page; start from the Catastro portal homepage 'El Catastro en cifras'); the ministerial order setting the reference-to-market coefficient; INE housing price index (page reachable: INEbase, Housing price index, Base 2025, last modified 7 Sept 2026) for the market side of any assessed-to-market ratio."
+      }
+    },
+    "existing_wiki_coverage": {
+      "places/spain.md": "Does not exist. No inbound target for 'Spain' as a place.",
+      "spain_content_already_on_the_wiki (candidate inbound links)": [
+        "research/olea-hoyos-bizkaia-land-value-tax.md (Bizkaia 1.05% land-value-tax simulation, Annals of Regional Science 2025; abstract-level)",
+        "research/blanco-spain-two-lands.md (Artola Blanco, Bauluz & Martinez-Toledano: land's share of Spanish national wealth; housing capital gains = 45% of real wealth growth 1950-2010)",
+        "events/valencia-land-grab-law.md (LRAU 1994 land-value-capture failure)",
+        "people/julio-senador-gomez.md (early-20th-century Spanish Georgist popularizer)",
+        "research/sway-lvt-wealth-taxes-review.md (Spain's net wealth tax raised 44.6% of its theoretical maximum in 2014, Duran-Cabre & Esteller-More)",
+        "research/mass-appraisal-international-cases.md section 4 (Aragones-Beltran et al. 2008, Valencia industrial land, paywalled and read only at second hand; says nothing about the IBI or the Catastro)",
+        "research/great-mortgaging.md lists Spain among 17 credit-dataset countries only"
+      ],
+      "assessment_inequity_coverage": "concepts/mass-appraisal-methods.md already carries Berry (2021): US assessments 'typically regressive', bottom-decile homes assessed at roughly twice the ratio to sale price of top-decile homes; the IAAO PRD/PRB vertical-equity metrics (via research/iaao-standards.md); the New York stale-roll case (Times Union, Sept 2026); and a See Also entry for Tubio-Sanchez & Reyes-Bueno (research/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization.md), whose finding is 'systematic underassessment of rapidly appreciating areas' shifting burden to slower-growth zones. There is NO page on Spanish cadastral values, the IBI, or the Direccion General del Catastro; the words catastro/cadastral appear in the wiki only generically. There is no Berry research page (Berry is cited inside mass-appraisal-methods.md source 11 only).",
+      "undertaxation_framing": "places/united-kingdom.md (section 'Is Land Undertaxed in Britain?') holds the wiki's only extended 'is land undertaxed' discussion: Leunig vs Burnham; the Henry George Foundation (Tier 2) argument that revenue as a share of GDP cannot settle the question because of offsets elsewhere in the tax code; council tax regressivity on 1991 valuations (above 1% of value in the North East, as low as 0.02% in central London, per the Foundation essay). The Spain paper's assessed-vs-market-value approach is the academic counterpart to that argument and would be the first Tier 1 item on the wiki to test it with household microdata.",
+      "capitalisation": "concepts/tax-capitalization.md covers Oates, Palmon & Smith, Hoj-Jorgensen-Schou, Borge & Rattso and the Ecuador paper; it has no entry on the capitalised value of an UNDER-assessment (the windfall to owners), which is what this paper's microsimulation estimates.",
+      "no_research_page_for_this_paper": "Searched research/, concepts/, places/ for Fernandez/Arundel/Duque-Calvache and 'undertax': no match other than the UK page's generic 'undertaxed' discussion and the Fernandez Milan (different person) page.",
+      "libraries_checked": "EDITORIAL.md sections 2, 4b, 4c; context-briefs README; people-tiers.json (no entries for these authors or for the Tax Foundation); previous briefs in sources/context-briefs (none for this DOI)."
+    },
+    "uncertainties": [
+      "Full text never read: the body may qualify, contradict or quantify the abstract's claims. In particular the abstract does not say whether the vertical-inequity test found regressivity (higher-value homes assessed at lower fractions of market value), progressivity, or no pattern. Do not write either on the wiki.",
+      "The 'household-level registry data' source and coverage (which cities, which years, whether cadastral values are matched to transaction prices or to self-reported values) are unknown; 'urban Spain' is the abstract's phrase.",
+      "'Simplified asset pricing model' means capitalised value of the tax saving is a modelled quantity under assumed discount rates and horizon, not an observed price effect; wiki pages must call it a simulation.",
+      "The paper's land/building split is unknown: Spanish cadastral values separate land and construction (RDL 1/2004 art. 22), so a land-only counterfactual is feasible, but the abstract talks about 'land and property underassessment' and a shift 'towards property', which may not be land-only.",
+      "The scanner note gives posting date 14 September 2026 and 21 pages; the only machine-readable dates are year 2026 (Crossref) and index time 2026-09-14; page count unconfirmed.",
+      "Peer-review status: working paper; may change on publication. Re-check for a journal version before relying on any number.",
+      "Possible link with Tubio-Sanchez, Lago-Penas & Cadaval-Sampedro (2026), 'Uneven value capture in Spain: Effects on wealth distribution and property prices', Cities 168, DOI 10.1016/j.cities.2025.106389: only the bibliographic record was retrievable (no abstract in Crossref, USC portal shows metadata only). Topic and title suggest a close sibling of this paper, and the lead author already has a wiki page (Ecuador); the content is UNKNOWN and nothing should be claimed from the title.",
+      "The OECD 4100 numbers for Spain are from a dataflow marked NonProductionDataflow and the edition label is unconfirmed; check against the published Revenue Statistics tables before citing."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://doi.org/10.2139/ssrn.7417258",
+        "note": "The paper itself (SSRN abstract page; PDF blocked from this network). Cite only for what the abstract says until the body is read."
+      },
+      {
+        "url": "https://api.crossref.org/works/10.2139/ssrn.7417258",
+        "note": "Crossref record carrying the full abstract; machine-readable provenance for the abstract wording."
+      },
+      {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4163",
+        "note": "Tier 1: Real Decreto Legislativo 1/2004, Ley del Catastro Inmobiliario (arts. 22, 23.2, 24, 32: cadastral value, market-value ceiling, ponencias, update coefficients). Fetched and read."
+      },
+      {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+        "note": "Tier 1: Real Decreto Legislativo 2/2004, Ley Reguladora de las Haciendas Locales (IBI: arts. 61, 65, 67-68, 72). Fetched and read."
+      },
+      {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_REV_COMP_GLOBAL@DF_RSGLOBAL,2.1/ESP.TAX_REV..T_4100._T.PT_B1GQ.A?startPeriod=2019",
+        "note": "Tier 1: OECD Revenue Statistics, Spain, recurrent taxes on immovable property as % of GDP (SDMX CSV). Pointer for a stable citation: OECD Data Explorer, Revenue Statistics, category 4100."
+      },
+      {
+        "url": "https://www.catastro.hacienda.gob.es/",
+        "note": "Tier 1: Direccion General del Catastro portal ('El Catastro en cifras', annual memoria, statistics). Home page reachable; the /esp/estadisticas.asp deep link is dead, find the live statistics path before citing."
+      },
+      {
+        "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736152838&menu=resultados&idp=1254735976607",
+        "note": "Tier 1: INE housing price index (market side of an assessed-to-market comparison). Page reachable; series not extracted."
+      },
+      {
+        "url": "https://doi.org/10.1177/0308518X241247738",
+        "note": "Tier 1 peer-reviewed: Arundel, Torrado & Duque-Calvache (2024), 'The spatial polarization of housing wealth accumulation across Spain', Environment and Planning A (abstract read): same research group, same Spanish housing-value data lineage; useful as the peer-reviewed companion if the working paper cannot be cited."
+      },
+      {
+        "url": "https://doi.org/10.1016/j.cities.2025.106389",
+        "note": "Lead only: Tubio-Sanchez, Lago-Penas & Cadaval-Sampedro (2026), 'Uneven value capture in Spain', Cities 168. Abstract not retrieved."
+      },
+      {
+        "url": "https://doi.org/10.1093/cesifo/ifab004",
+        "note": "Tier 1 peer-reviewed, already cited on the wiki via the SWAY review: Duran-Cabre & Esteller-More (2021) on Spain's net wealth tax gap; reported (in the web search summary of related literature, not verified at source) to flag under-assessment of real estate as a problem in Spanish wealth-tax data."
+      }
+    ],
+    "suggested_inbound_links": [
+      "places/spain.md (new) <- research/olea-hoyos-bizkaia-land-value-tax.md, research/blanco-spain-two-lands.md, events/valencia-land-grab-law.md, people/julio-senador-gomez.md, research/sway-lvt-wealth-taxes-review.md (at least five existing pages can link in with a one-line 'Spain' pointer in See Also).",
+      "concepts/mass-appraisal-methods.md: a Limits/See Also line pointing to places/spain.md for a statutory assessment base (cadastral value capped at market value, revalued by municipal ponencia, nine-year phase-in) as a worked case of a stale-base regime beside Berry 2021 (US regressivity) and New York.",
+      "research/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization.md: See Also, as the second country case on assessment quality determining who benefits.",
+      "concepts/tax-capitalization.md: See Also, once the paper's capitalised-saving estimate is read.",
+      "objections/land-cannot-be-assessed.md and objections/homevoters-will-block-lvt.md: only after the full text is read (the political-economy angle is that under-assessment is a windfall to owners who then resist reform; the abstract does not demonstrate that).",
+      "problems/young-locked-out-of-land-wealth.md: possible, if the full text reports age gradients ('housing wealth, income, age and location' are the abstract's distribution axes)."
+    ],
+    "suggested_wording_for_places_spain": [
+      "Statutory sentences (A-claims, anchored on the BOE texts): 'Spain's annual municipal property tax, the Impuesto sobre Bienes Inmuebles (IBI), is levied on the cadastral value of each property, which the Catastro Inmobiliario determines as the sum of a land value and a construction value and which by statute may not exceed market value (Real Decreto Legislativo 1/2004, arts. 22-23). Municipalities set the rate within a band of 0.4% to 1.10% of cadastral value for urban property (Real Decreto Legislativo 2/2004, art. 72).'",
+      "OECD sentence (A-claim): 'According to the OECD's Revenue Statistics, recurrent taxes on immovable property raised 0.89% of Spanish GDP in 2024, almost all of it at municipal level, down from 1.08% in 2019.'",
+      "Paper sentence (B-claim, hedged, abstract-level): 'A 2026 working paper by Fernandez, Arundel and Duque-Calvache, framed explicitly around Henry George's concept of land rent, tests whether Spanish cadastral values are vertically inequitable across urban Spain and simulates the capitalised value of the resulting tax saving across housing wealth, income, age and location; its summary reports that shifting taxation from labour to property could improve progressivity.' Do not add any number from the paper. Sources entry: 'full text not accessible at last review (2026-10-08); summary rests on the abstract.'"
+    ]
+  },
+  {
+    "url": "https://taxfoundation.org/data/all/eu/real-property-taxes-europe/",
+    "title": "Real Property Taxes in Europe, 2026 (Alex Mengden, Tax Foundation Europe, 5 October 2026)",
+    "what_was_fetched": [
+      "https://taxfoundation.org/data/all/eu/real-property-taxes-europe/ (curl, browser UA) -> 200, full page, saved as taxfoundation-real-property-taxes-europe-2026.raw.html and .txt. All three data tables (as of 2024, 2023, 2022), notes, source lines, text and 'Recent Changes' read. No paywall.",
+      "PRIMARY SOURCE CHECK: the tracker's own source line points to OECD Data Explorer 'Comparative tables of Revenue Statistics in OECD member countries: 4100 Recurrent taxes on immovable property' (http://data-explorer.oecd.org/s/1se, which returns 200 as a JS shell) and to the IMF Investment and Capital Stock Dataset. Re-pulled series 4100 directly from the OECD SDMX API (https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_REV_COMP_GLOBAL@DF_RSGLOBAL,2.1/..S13.T_4100._T..A?startPeriod=2019) -> 200, 3,078 rows, all countries 2019-2024, units % of GDP, % of total taxation, national currency, USD; saved as oecd-rsglobal-4100.csv and oecd-4100-pct-gdp.json. The OECD publication landing pages returned 403/404 to curl, so the Revenue Statistics edition label could not be read; the SDMX dataflow is flagged NonProductionDataflow in its metadata.",
+      "IMF capital-stock dataset and PwC Worldwide Tax Summaries were NOT fetched; the tracker's capital-stock denominator and its 'type of tax/deductibility' columns were therefore not independently checked."
+    ],
+    "verdict": "ENRICH from the OECD primary, not from the tracker. Do not cite the Tax Foundation tracker as a source on the wiki. Specific enrichments: places/united-kingdom.md (re-anchor the '2.8% of GDP' figure to OECD Revenue Statistics 4100, 2024 = 2.80%, and correct 'second in the OECD only to Canada': in the OECD series the UK is first among all 36-38 members with data in 2022, 2023 and 2024); places/estonia.md (OECD 4100: 0.15% of GDP, 0.41% of total taxation in 2024, about EUR 58m a year; check the page's 'significant source of local government revenue' wording); places/germany.md (0.37% of GDP in 2024 beside the Baden-Wurttemberg section); and the proposed places/spain.md (0.89% of GDP). The tracker adds only two items not already on the wiki or in the OECD data (Croatia's new 2025 recurrent property tax; the tracker's own claim that Estonia alone taxes only land) and neither warrants citing it.",
+    "claim_grade": "A-claim for the OECD figures (official statistical series, Tier 1: OECD). The tracker itself is a derived compilation: B/C-grade, Tier 2 under section 4c (think-tank staff). The tracker's normative statements (e.g. Estonia's property tax 'is the most efficient') are interpretive (D-claim) and advocacy from a free-market think tank.",
+    "author_tier_judgment": {
+      "Tax Foundation": "Think tank (non-profit, free-market oriented); not an official or standing body, not a peer-reviewed venue. Tier 2 under section 4c: may be named as the compiler of a tracker, never as support. Not listed in people-tiers.json.",
+      "Alex Mengden": "Economist at Tax Foundation Europe (BA philosophy and economics, Bayreuth; MSc economics, LMU Munich per the tracker's author box). Staff of a think tank with no peer-reviewed record visible on the page: Tier 2. Judged by the rubric.",
+      "primary_data_owner": "OECD Revenue Statistics (category 4100) is Tier 1 (official standing body). IMF Investment and Capital Stock Dataset is Tier 1 for the denominator. PwC Worldwide Tax Summaries (type of tax; deductibility) is a professional-services firm's marketing/reference product: Tier 2 at best, and the only source of the tracker's 'land tax vs real property tax' and 'deductible' columns."
+    },
+    "content_summary": {
+      "what_the_tracker_measures": "NOT revenue as % of GDP or of total taxation. Headline metric is 'Property Tax as Share of Private Capital Stock': OECD 4100 revenue divided by IMF private capital stock (current cost). This differs from every figure the wiki currently uses (% of GDP) and cannot be compared with them.",
+      "headline_table_as_of_2024 (tracker, % of private capital stock; computed by the Tax Foundation, not published by OECD)": "Highest: United Kingdom 2.04, Iceland 1.43, France 1.08 and Greece 1.08, Poland 1.01. Lowest: Liechtenstein 0.00 and Malta 0.00 (no recurrent property tax), Luxembourg 0.05 and Moldova 0.05, Switzerland 0.08, Estonia 0.09, Austria 0.10. Spain 0.58, Germany 0.22, Denmark 0.55, Netherlands 0.40, Latvia 0.38, Lithuania 0.24. Comparators: Canada 1.581, United States 1.882. Tracker text: average 0.45% of private capital stock across 32 European countries with a property tax; households remit about 60% of revenue in the 16 countries that split it (7.4% in the Slovak Republic to 71.4% in France).",
+      "type_of_tax_column": "Estonia is the only country labelled 'Land Tax'; all others 'Tax on Real Property' or 'None'. Text: 'Estonia is the sole country on this map to tax only land, meaning that its real property tax is the most efficient.' (page body, paragraph beginning 'Two of the 34 European countries covered here', 33 words in the quoted clause). Note (b) in the 2024 table: 'Deviations at the state level effective from 2025. Baden-Wurttemberg operates a land value tax.' 'Recent Changes' paragraph: from 2025 Germany devolves its property tax base to states; Baden-Wurttemberg 'apply property taxes only to the value of land'; 'Croatia introduced a recurrent property tax in 2025, levied on the square metres of land and floor area.' Deductibility: 28 of 32 taxing countries allow deduction from corporate income; Austria, Iceland, Italy and Slovenia do not.",
+      "land_value_tax_mentions": "The page does not use the phrase 'land value tax' except in note (b) for Baden-Wurttemberg. It does not mention Denmark's grundskyld, Lithuania's or Latvia's land taxes, or Estonia's exemptions. It states the incentive logic in generic terms: 'high property taxes levied not only on land but also on buildings and structures can also discourage investment' (intro to the 'Ideally, property taxes ...' block; paraphrase, wording not copied beyond this clause).",
+      "data_quality_flags_inside_the_tracker": [
+        "Earlier-vintage tables on the same page contain implausible values that contradict OECD data: the 2023 table gives Iceland 0.010%, Hungary 0.001%, Czech Republic 0.004%, Norway 0.021%, Sweden 0.035%, Turkey 0.008% of private capital stock, whereas OECD 4100 shows Iceland at 1.89% of GDP, Hungary 0.35%, Czechia 0.16%, Norway 0.35%, Sweden 0.65% and Turkey 0.12% for 2023. Only the 2024 table looks internally consistent. Denmark appears as 0.75 (2022), 0.11 (2023), 0.55 (2024).",
+        "The Danish drop is partly a feature of the OECD data itself: Denmark's 4100 revenue falls from DKK 33.5bn (2023) to DKK 26.7bn (2024), i.e. 1.20% to 0.91% of GDP. The cause (reform, reclassification or revaluation timing) is not identified in anything fetched; do not state one.",
+        "The headline year is 2024 in a post titled '2026'. It uses OECD provisional-year data as 'as of 2024'."
+      ],
+      "oecd_4100_primary_values (% of GDP, general government S13, from the SDMX pull; 'OECD Revenue Statistics, category 4100')": {
+        "2024": "United Kingdom 2.80, United States 2.67, Canada 2.64, New Zealand 2.13, Iceland 2.01, France 1.95, Japan 1.87, Belgium 1.26, Italy 1.05, Poland 1.03, Denmark 0.91, Spain 0.89, Finland 0.81, Georgia 0.75, Croatia 0.71, Sweden 0.65, Latvia 0.59, Netherlands 0.57, Portugal 0.57, Germany 0.37, Norway 0.34, Lithuania 0.30, Czechia 0.29, Estonia 0.15, Luxembourg 0.05, Liechtenstein 0.00, Malta 0.00. (Greece 2023 1.40; Greece and Australia lack 2024 values.)",
+        "share_of_total_taxation_2024": "Spain 2.43%, Denmark 2.02%, Latvia 1.68%, Lithuania 0.90%, Estonia 0.41%, Germany 0.98%, United Kingdom 8.14%.",
+        "ranking_note": "Ranking by % of GDP is broadly the tracker's ranking by capital stock at the top (UK, France, Iceland) but not at the bottom or middle: Spain is mid-table on the tracker (0.58) and a little above Germany/Netherlands on % of GDP (0.89).",
+        "spain_series": "1.08 (2019), 1.17 (2020), 1.13 (2021), 1.00 (2022), 0.93 (2023), 0.89 (2024) % of GDP; EUR 13.5bn (2019) to EUR 14.2bn (2024); 99.8% local government."
+      },
+      "land_only_countries_check": "Tracker: Estonia is the only land-only tax. Wiki: Estonia land-only since 1993 (places/estonia.md); Denmark grundskyld is 'separate from and in addition to' a building tax (places/denmark.md); Fernandez Milan, Kapfer & Creutzig (2016) score eight European countries' land/location taxes (Denmark, Lithuania, Slovakia, Estonia, Austria, Hungary, Italy, Romania, plus Slovenia abolished). So the tracker CONFIRMS Estonia as the single pure land-only recurrent property tax and does not CONFLICT with the wiki, but its 'Tax on Real Property' label (from PwC) hides that Denmark, Lithuania and others also levy separate land taxes alongside building taxes. The wiki should state 'Estonia taxes land only; Denmark and Lithuania levy separate land taxes alongside building or property taxes' and cite statutes or Fernandez Milan et al., not the tracker. Latvia: the wiki holds no claim that Latvia has a land tax; its OECD 4100 yield (0.59% of GDP, 1.68% of total taxation) is far above Estonia's.",
+      "oecd_4100_is_not_land_value_tax": "The wiki already states on research/oecd-taxation-economic-growth.md that OECD category 4100 covers land and buildings together; the tracker's figures inherit that limit and add nothing on the land share."
+    },
+    "existing_wiki_coverage": {
+      "cites_tax_foundation": "Only research/digital-services-taxes.md, research/digital-services-tax-incidence.md, research/maryland-digital-ad-tax.md, concepts/taxing-tech-rents.md and objections/taxing-quasi-rents-kills-innovation.md (digital-services-tax context). No page cites a Tax Foundation property-tax tracker.",
+      "oecd_4100_on_the_wiki": "research/oecd-taxation-economic-growth.md and research/arnold-tax-growth-ej.md use category 4100 only for the Johansson et al. growth ranking and note it is land plus buildings. No page cites a country-by-country OECD Revenue Statistics 4100 table. Figures stated without a primary anchor: places/united-kingdom.md ('about 2.8% of GDP from annual property taxes, second in the OECD only to Canada; ... 3.7% with stamp duties', sourced via the Tier 2 Henry George Foundation essay); research/india-mohua-value-capture-framework.md ('OECD average of 1.1% of GDP'); research/lincoln-institute-latam-property-tax-book.md ('OECD's 1%+ average'). The OECD series gives UK 2.80% (matches) but UK is first, not second, in 2022-2024 (2.84, 2.78, 2.80 vs Canada 2.69, 2.69, 2.64; Canada was higher only in 2021: 2.92 vs 2.83). The '3.7% with stamp duties' figure was not checked.",
+      "land_only_countries": "places/estonia.md (land tax on land value only since 1993; says the tax 'is a significant source of local government revenue' without a figure), places/denmark.md (grundskyld, plus the Fernandez Milan 11/20 score), research/fernandez-milan-location-value-taxes.md (eight European location-value taxes scored on 2014 data), places/germany.md (Baden-Wurttemberg Bodenwertsteuer from January 2025: area x Bodenrichtwert, 1.3 per mille reduced 30% to 0.91 per mille for residential; Bundesfinanzhof ruling 20 May 2026). The tracker's Baden-Wurttemberg note is already covered on the wiki from the Bundesfinanzhof press release and state guides (stronger sources). Lithuania and Latvia: no wiki page on their land taxes; Lithuania appears in the Fernandez Milan page (score 8/20) and Raslanas et al. valuation case; Latvia only as the Riga comparator in Tomson (2016) and as a repealed-ACE country.",
+      "european_comparisons_in_place_pages": "places/netherlands.md has no property-tax figures (land-value-capture focus). places/germany.md has no revenue figures. places/united-kingdom.md has the only cross-country statistic (above). There is no Spain page and no page tabulating European recurrent property taxation.",
+      "croatia_2025_tax": "Not on the wiki (Croatia appears as ACE country and in Kilic et al. 2019)."
+    },
+    "uncertainties": [
+      "OECD Revenue Statistics edition not identified: the SDMX response does not label the edition and the OECD landing pages were blocked. The 2024 values are very likely provisional in the latest edition; confirm in the published edition before citing a 2024 number.",
+      "The SDMX dataflow is marked NonProductionDataflow in its metadata; values matched the tracker's cited source (category 4100) and the UK's 2.8% in the wiki, but confirm against the OECD Data Explorer view or the Revenue Statistics country notes before publication.",
+      "The tracker's capital-stock ratios depend on the IMF series (not fetched); the wiki should not republish them.",
+      "The country coverage of 'OECD' in my ranking check: 38 members present for 2022-2023, 36 for 2024 (Australia and Greece missing); a 'highest in the OECD' sentence should say 'among the OECD countries with data'.",
+      "Denmark 2024 break and Czechia 2024 jump (0.16% to 0.29% of GDP) are unexplained and may be revisions or reforms.",
+      "Whether the Estonia page's 'significant' wording is right is untested: 0.15% of GDP and 0.41% of total taxation nationally, but local-government share unknown; a reasonable T1 check is Estonian local-government revenue statistics (Statistics Estonia), not done here.",
+      "The tracker's statement that Estonia is the 'sole' land-only tax rests on PwC summaries, not statute; do not repeat it as the wiki's own claim without a legal source."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://data-explorer.oecd.org/",
+        "note": "Tier 1: OECD Data Explorer, Revenue Statistics (Global), category 4100 'Recurrent taxes on immovable property'; the tracker's stored query is http://data-explorer.oecd.org/s/1se. Cite as 'OECD, Revenue Statistics, table of tax revenue as % of GDP, 4100'."
+      },
+      {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_REV_COMP_GLOBAL@DF_RSGLOBAL,2.1/..S13.T_4100._T.PT_B1GQ.A?startPeriod=2019",
+        "note": "Tier 1: the machine-readable OECD series used for the figures in this brief (SDMX CSV; replicable)."
+      },
+      {
+        "url": "https://www.imf.org/external/np/fad/publicinvestment/",
+        "note": "Tier 1: IMF Investment and Capital Stock Dataset, source of the tracker's denominator. Not fetched; needed only if someone wants capital-stock ratios."
+      },
+      {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+        "note": "Tier 1: Spain, Real Decreto Legislativo 2/2004, IBI rates and base (for places/spain.md)."
+      },
+      {
+        "url": "https://steuerzahler.de/baden-wueerttemberg/grundsteuer/",
+        "note": "Already cited on places/germany.md: BW land-value property tax guide, preferred over the tracker's note (b)."
+      },
+      {
+        "url": "https://www.lincolninst.edu/app/uploads/2024/04/tiits_current_situation_and_practice_in_estonia_0.pdf",
+        "note": "Already cited on places/estonia.md (Tier 1, Lincoln Institute): Estonian Land Tax Act and valuation rounds; the better source for 'land only'."
+      },
+      {
+        "url": "https://stats.oecd.org/Index.aspx?DataSetCode=RS_GBL",
+        "note": "Legacy OECD Global Revenue Statistics link cited by the tracker for 2022 data; legacy portal, superseded by Data Explorer."
+      }
+    ],
+    "suggested_inbound_links": [
+      "places/united-kingdom.md: replace the Henry George Foundation-sourced '2.8% of GDP, second only to Canada' sentence with an OECD-anchored one (suggested: 'According to the OECD's Revenue Statistics, recurrent taxes on immovable property raised 2.8% of UK GDP in 2024, the highest share among OECD countries with data, ahead of the United States (2.7%) and Canada (2.6%).') and keep the Foundation essay as the origin of the disaggregation argument only.",
+      "places/estonia.md: add 'According to the OECD, Estonia's recurrent taxes on immovable property, essentially the land tax, raised 0.15% of GDP (0.41% of total taxation) in 2024, among the lowest in Europe.' and revisit 'significant source of local government revenue'. Caveat: category 4100 is the OECD's, and the page should say that Estonia's land tax is the only recurrent property tax in the category.",
+      "places/germany.md: one sentence with the OECD figure for the old Grundsteuer base (0.37% of GDP in 2024) as the revenue context the Baden-Wurttemberg reform sits in.",
+      "places/spain.md (proposed): 0.89% of GDP, 99.8% municipal, down from 1.08% in 2019 (see item 1 brief).",
+      "research/oecd-taxation-economic-growth.md: a See Also line pointing to places/united-kingdom.md or a new short 'where the revenue sits' paragraph is optional; not required.",
+      "concepts/land-value-tax.md and objections/lvt-is-just-a-property-tax.md: no change needed; the tracker adds nothing the OECD page does not already make about land versus buildings."
+    ],
+    "recommendation_on_citing_the_tracker": "Do not cite it. It (a) is Tier 2, (b) re-expresses OECD data in a non-standard denominator, (c) carries visible unit errors in earlier vintages, and (d) takes its land/building classification from PwC marketing summaries. Everything of value in it is reproducible from the OECD source it names. If the wiki ever wants capital-stock ratios, it should compute them itself from OECD and IMF data and cite those two."
+  }
+]

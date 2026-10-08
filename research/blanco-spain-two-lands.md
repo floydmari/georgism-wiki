@@ -35,6 +35,7 @@ The paper extends the land-decomposition literature associated with [Matthew Rog
 
 ## See Also
 
+- [Spain](/wiki/spain/) — the country page that draws this and the other Spanish pages together
 - [Most of the modern rise in the capital share is land, not capital](/wiki/capital-share-rise-is-land/) — the outcome page this paper's Spanish evidence feeds
 - [Land is a Big Deal](/wiki/land-is-a-big-deal/) — the book that surfaces this paper's findings (Ch. 6, 17)
 - [Rognlie, "Deciphering the Fall and Rise in the Net Capital Share"](/wiki/rognlie-capital-share/) — the parallel US/cross-country decomposition this paper extends to Spain
