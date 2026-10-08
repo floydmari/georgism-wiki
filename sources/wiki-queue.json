@@ -8,7 +8,9 @@
       "context": "Who Benefits from Property Undertaxation? Housing Values and Tax Inequity in Urban Spain \u2014 Alex Fernandez (Univ. of Granada), Rowan Arundel (Univ. of Amsterdam), Ricardo Duque-Calvache (Univ. of Granada). SSRN working paper abstract_id 7417258, posted 14 Sep 2026, 21 pp. (written 5 Sep 2026); DOI 10.2139/ssrn.7417258. Also reachable at papers.ssrn.com/sol3/papers.cfm?abstract_id=7417258. Discovered via EXA scan of papers.ssrn.com (2026-10-08 lvt-paper-scan).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-08T11:13:51.483309+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-08T11:14:53.245337+00:00",
+      "report_ts": "1791458040.381119"
     },
     {
       "url": "https://taxfoundation.org/data/all/eu/real-property-taxes-europe/",
@@ -18,7 +20,9 @@
       "context": "Real Property Taxes in Europe, 2026 \u2014 Alex Mengden. Tax Foundation Europe, published 5 Oct 2026. Annual data tracker comparing recurrent taxes on real property across European countries. Discovered via EXA web scan (2026-10-08 lvt-paper-scan). Registry already carries four Tax Foundation tracker entries (digital services tax series); this real-property edition is new.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-08T11:13:51.483309+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-10-08T11:14:53.245337+00:00",
+      "report_ts": "1791458040.381119"
     }
   ],
   "consumed": [
