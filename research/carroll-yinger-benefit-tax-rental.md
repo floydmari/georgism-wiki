@@ -50,6 +50,7 @@ Two scope qualifications matter for how strongly this paper should be read as ev
 
 ## See Also
 
+- [Bulloch, Gaertner & Hoopes: Commercial Property Taxes and Business Microlocation](/wiki/bulloch-gaertner-hoopes-commercial-property-tax-microlocation/) — for-profit establishments cluster on the low-tax side of US county borders; a combined land-and-building rate, not a test of a land-only base
 - [Löffler & Siegloch — German property-tax pass-through](/wiki/loffler-siegloch-german-pass-through/)
 
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)

@@ -49,6 +49,7 @@ The Tiebout model's relevance to Georgist analysis is primarily indirect — it 
 
 ## See Also
 
+- [Bulloch, Gaertner & Hoopes: Commercial Property Taxes and Business Microlocation](/wiki/bulloch-gaertner-hoopes-commercial-property-tax-microlocation/) — establishments, not households, sorting across county lines by commercial property-tax differentials
 - [Charles Tiebout](/wiki/charles-tiebout/)
 - [Hamilton's Benefit View](/wiki/hamilton-benefit-tax/)
 - [Oates (1969), capitalization of property taxes and public spending](/wiki/oates-1969-capitalization/)

@@ -5519,3 +5519,27 @@ tier1_confirmed; the Tax Foundation to tier2 with a note to cite the primary.
 
 Lint 0 errors; inventory 1026 pages, 0 orphans. Ledger: 0 pending, 431 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-09 — a county-border study, a think-tank's arithmetic, and a rejected Kuwait paper
+
+Three scanner items, on time for once. Bulloch, Gaertner and Hoopes's *Accounting Review*
+article on commercial property taxes and business location was unreachable in full (AAA and
+SSRN both walled), but the published abstract and the open February 2024 working paper were
+enough for a research page: 2.8 million US establishments, for-profits set against
+tax-exempt nonprofits at county borders, a 6–7% shift toward the low-tax side where
+differentials are largest. T1's ruling, carried in the page's Georgist section, is that the
+tax measured combines land and buildings and the paper never tests a land-only base, so the
+Georgist inference stays theory and the page must not be cited as LVT support; the draft's
+larger estimates are flagged as superseded. The writer's draft was tightened by removing
+three access notes from reader prose and one muddled clause on capitalization; four pages
+gained inbound links.
+
+The Property Tax Lab's test of Fairer Share's 0.48% proportional property tax is Tier 2
+work by an independent analyst and went onto the Burnham page as the Lab's own estimates,
+anchored on MHCLG's 2025–26 council-tax requirement; the scanner's £17,173 was a slip for the
+page's £17,183. The Muellbauer page's "a single consultancy's stock estimates" now names the
+PRISM model. The Kuwait economic-voting paper was rejected: no abstract or text anywhere and
+nothing on the wiki to enrich; a Tier 1 alternative is logged as a low-priority lead.
+
+Lint 0 errors; inventory 1027 pages, 0 orphans. Ledger: 0 pending, 434 consumed. Merged to
+main and Ghost-synced.

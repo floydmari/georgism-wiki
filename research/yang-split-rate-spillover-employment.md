@@ -188,6 +188,7 @@ and empirical lineage, not what the (still-unread) published body text argues.
 
 ## See Also
 
+- [Bulloch, Gaertner & Hoopes: Commercial Property Taxes and Business Microlocation](/wiki/bulloch-gaertner-hoopes-commercial-property-tax-microlocation/) — the border-sorting evidence on conventional commercial property taxes that split-rate designs aim to neutralize
 - [Effects of Split-Rate Taxation on Tax Base (Yang & Hawley, 2022)](/wiki/yang-split-rate-tax-base/) — the same author's companion study of tax-base effects within the adopting jurisdiction
 - [Can the Land Tax Help Curb Urban Sprawl? (Banzhaf & Lavery, 2010)](/wiki/banzhaf-lavery-pa-sprawl/)
 - [A Markov Chain Monte Carlo Analysis of the Effect of Two-Rate Property Taxes on Construction (Plassmann & Tideman, 2000)](/wiki/plassmann-tideman-construction/)
