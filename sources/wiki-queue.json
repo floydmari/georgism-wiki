@@ -1,5 +1,36 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://doi.org/10.2308/tar-2025-0248",
+      "title": "Do Commercial Property Taxes Affect Business Microlocation Decisions?",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed article in The Accounting Review (AAA, top-tier journal) on how commercial property taxes shape where businesses locate — direct evidence on the siting distortions of conventional property taxation, the distortion site-value taxation is designed to remove. Not in registry, consumed array, or wiki pages (checked DOI 10.2308/tar-2025-0248, authors, title).",
+      "context": "Do Commercial Property Taxes Affect Business Microlocation Decisions? — Brayden D. Bulloch, Fabio B. Gaertner, Jeffrey L. Hoopes. The Accounting Review, published online 6 Oct 2026. DOI 10.2308/tar-2025-0248 (verified via Crossref). Also reachable at publications.aaahq.org. Discovered via EXA web scan (2026-10-09 lvt-paper-scan).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-09T11:08:53.166025+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://propertytaxlab.org.uk/research/proportional-property-tax",
+      "title": "The Proportional Property Tax: Who Wins and Who Loses",
+      "source": "lvt-paper-scanner",
+      "reason": "Independent quantitative analysis from the Property Tax Lab testing Fairer Share's flat 0.48% Proportional Property Tax against 914,742 valuations in its PRISM residential stock model: 83% of English dwellings pay less, London Band H faces +£17,173/yr, and the revenue-neutral rate has drifted to 0.54-0.64%. Directly serves the UK council-tax-reform cluster (Muellbauer, Fairer Share, Burnham). The Lab's PRISM estimates are cited in-text on the Muellbauer wiki page, but this research page is not in the registry or cited anywhere on the wiki.",
+      "context": "The Proportional Property Tax: Who Wins and Who Loses — Property Tax Lab (independent UK property-tax research org, Michael Dent). Research analysis page, 2026 (uses Council Tax 2025-26 figures). Tests the Fairer Share PPT plan against the PRISM model of England's dwelling stock. Discovered via EXA web scan (2026-10-09 lvt-paper-scan).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-09T11:08:53.166025+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://doi.org/10.1080/25765949.2026.2722759",
+      "title": "Does Economic Voting Operate in Rentier States? Evidence from Kuwait, 1975–2020",
+      "source": "lvt-paper-scanner",
+      "reason": "Peer-reviewed article in the Asian Journal of Middle Eastern and Islamic Studies on whether electorates in rentier states reward or punish governments for economic performance (Kuwait, 1975-2020) — the distribution politics of resource rents complements the wiki's rentier-capitalism and resource-rent coverage (Mintz-Chen, OPEC). Not in registry, consumed array, or wiki pages.",
+      "context": "Does Economic Voting Operate in Rentier States? Evidence from Kuwait, 1975–2020 — Halban Alhalban, Mohammad Alawin. Asian Journal of Middle Eastern and Islamic Studies, published 9 Sep 2026. DOI 10.1080/25765949.2026.2722759 (verified via Crossref). Also reachable at tandfonline.com. Discovered via EXA scan (2026-10-09 lvt-paper-scan).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-09T11:08:53.166025+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -5206,7 +5237,7 @@
       "notes": "rejected as a source 2026-10-08 — Tax Foundation Europe tracker (Tier 2 think-tank compilation; its headline metric is tax as % of IMF private capital stock, not % of GDP, and its earlier-year tables carry unit errors). The OECD Revenue Statistics 4100 series it compiles was used directly instead: the UK page's 'second only to Canada' corrected (UK first among OECD members with data in 2022–2024, 2.80% of GDP in 2024), Estonia's 'significant revenue' wording qualified (0.15% of GDP), Germany's Grundsteuer given its 0.37% figure, and the new Spain page its 0.89%. Tax Foundation added to tier2 with a note to cite the primary."
     }
   ],
-  "last_updated": "2026-10-08T11:13:51.483309+00:00",
+  "last_updated": "2026-10-09T11:08:53.166025+00:00",
   "_readme": "Wiki queue — URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 2
+  "total": 3
 }
