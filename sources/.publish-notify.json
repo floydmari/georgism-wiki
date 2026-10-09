@@ -297,6 +297,131 @@
       "action": "updated",
       "published_at": "2026-10-08T19:26:26.000Z",
       "notified": false
+    },
+    {
+      "slug": "bulloch-gaertner-hoopes-commercial-property-tax-microlocation",
+      "title": "Do Commercial Property Taxes Affect Business Microlocation Decisions? (Bulloch, Gaertner & Hoopes, 2026)",
+      "url": "https://www.progress.org/wiki/bulloch-gaertner-hoopes-commercial-property-tax-microlocation/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "commercial-property",
+        "business-location",
+        "tax-competition",
+        "county-borders",
+        "united-states",
+        "spatial-discontinuity"
+      ],
+      "action": "published",
+      "published_at": "2026-10-09T11:27:52.000Z",
+      "notified": false
+    },
+    {
+      "slug": "deadweight-loss",
+      "title": "Deadweight Loss",
+      "url": "https://www.progress.org/wiki/deadweight-loss/",
+      "category": "concepts",
+      "tags": [
+        "deadweight-loss",
+        "economics",
+        "taxation",
+        "land-value-tax",
+        "efficiency"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-09T11:27:54.000Z",
+      "notified": false
+    },
+    {
+      "slug": "tiebout-model",
+      "title": "Tiebout Model",
+      "url": "https://www.progress.org/wiki/tiebout-model/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "tiebout-model",
+        "local-public-finance",
+        "voting-with-feet",
+        "capitalization",
+        "benefit-view"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-09T11:27:57.000Z",
+      "notified": false
+    },
+    {
+      "slug": "carroll-yinger-benefit-tax-rental",
+      "title": "Is the Property Tax a Benefit Tax? The Case of Rental Housing",
+      "url": "https://www.progress.org/wiki/carroll-yinger-benefit-tax-rental/",
+      "category": "research",
+      "tags": [
+        "research",
+        "tax-incidence",
+        "property-tax",
+        "rental-housing",
+        "benefit-view",
+        "capitalization",
+        "boston",
+        "public-finance"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-09T11:27:59.000Z",
+      "notified": false
+    },
+    {
+      "slug": "yang-split-rate-spillover-employment",
+      "title": "The Spillover Effects of Land Value Taxation: How Can It Affect Your Neighbors' Job Growth?",
+      "url": "https://www.progress.org/wiki/yang-split-rate-spillover-employment/",
+      "category": "research",
+      "tags": [
+        "research",
+        "pennsylvania",
+        "split-rate",
+        "spillover",
+        "employment",
+        "spatial-econometrics",
+        "empirical"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-09T11:28:01.000Z",
+      "notified": false
+    },
+    {
+      "slug": "andy-burnham",
+      "title": "Andy Burnham",
+      "url": "https://www.progress.org/wiki/andy-burnham/",
+      "category": "people",
+      "tags": [
+        "people",
+        "uk",
+        "labour",
+        "prime-minister",
+        "land-value-tax",
+        "council-tax",
+        "mayor-of-greater-manchester"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-09T11:28:03.000Z",
+      "notified": false
+    },
+    {
+      "slug": "muellbauer-property-tax-reform-england",
+      "title": "Property Tax Reform in England: A Fresh Look (Muellbauer, 2026)",
+      "url": "https://www.progress.org/wiki/muellbauer-property-tax-reform-england/",
+      "category": "research",
+      "tags": [
+        "research",
+        "united-kingdom",
+        "property-tax",
+        "council-tax",
+        "stamp-duty",
+        "transition-design",
+        "working-paper"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-09T11:28:05.000Z",
+      "notified": false
     }
   ]
 }
