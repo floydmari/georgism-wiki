@@ -53,7 +53,7 @@ Muellbauer also positions the surcharge as "a first step towards a future reform
 
 ## Limits
 
-- **A working paper, and a short one** (13 pages), written as policy advocacy for a specific government; it is a serious economist's design note, not a peer-reviewed evaluation, and its revenue figures rest on a single consultancy's stock estimates.
+- **A working paper, and a short one** (13 pages), written as policy advocacy for a specific government; it is a serious economist's design note, not a peer-reviewed evaluation, and its revenue figures rest on stock estimates from the Property Tax Lab's PRISM model, an independent analyst's series rather than an official one.[2]
 - **Property value, not land value.** Nothing here tests or claims the efficiency properties of a land tax; the growth arguments are about frictions and incentives at the top of the housing market.
 - **Price effects are explicitly left open.** Muellbauer says the net effect on prices across segments is "hard to predict," and claims only that joint reform moves prices less than either measure alone.
 
@@ -70,3 +70,4 @@ Muellbauer also positions the surcharge as "a first step towards a future reform
 ## Sources
 
 1. John Muellbauer (2026), "Property tax reform in England: a fresh look," INET Oxford Working Paper No. 2026-24, 11 September 2026. [inet.ox.ac.uk](https://www.inet.ox.ac.uk/publications/no-2026-24-property-tax-reform-in-england-a-fresh-look) — full PDF read in full (13 pages), 2026-09-19, with all figures and quotations verified against the text — used for the HVCTS critique, the PHVCTS rates and worked examples, the SDLT taper formula and holding-period comparisons, the recent-purchaser offset, the phasing argument, the valuation/appeal/deferral design, the Dent-based stock and revenue estimates (£2.01bn + £0.2bn = £2.21bn; ~1.3% of properties), the four growth arguments, and the closing "first step" framing (A-claim). The absence of any land-value or Mirrlees discussion is a finding from reading the full text, not an inference.
+2. Property Tax Lab, PRISM residential stock model, model description. [propertytaxlab.org.uk](https://propertytaxlab.org.uk/models/prism) — used for the provenance of the high-value stock counts the paper relies on (C-claim; an independent analyst's model, Tier 2; the paper's own citation is to Dent 2026).

@@ -1,0 +1,261 @@
+[
+  {
+    "url": "https://doi.org/10.2308/tar-2025-0248",
+    "title": "Do Commercial Property Taxes Affect Business Microlocation Decisions? (Bulloch, Gaertner & Hoopes, The Accounting Review, 2026)",
+    "what_was_fetched": [
+      "doi.org/10.2308/tar-2025-0248 -> redirects to publications.aaahq.org/accounting-review/article/doi/10.2308/TAR-2025-0248/...: HTTP 403 (Cloudflare challenge) with a browser user-agent; same 403 with a Googlebot user-agent.",
+      "r.jina.ai/https://doi.org/10.2308/tar-2025-0248: 403 (Cloudflare 'Just a moment' page).",
+      "AAA article-pdf link (from the Crossref record) publications.aaahq.org/accounting-review/article-pdf/doi/10.2308/TAR-2025-0248/206395/tar-2025-0248.pdf: 403.",
+      "Crossref API api.crossref.org/works/10.2308/tar-2025-0248: 200 -- full published abstract, author affiliations, ORCIDs, dates (published-online 2026-10-06; published-print 2026-10-01; pages 1-31; no volume/issue yet; reference-count 0 deposited). Saved as cr_tar.json.",
+      "OpenAlex works/doi:10.2308/tar-2025-0248: 200 -- confirms closed access, journal flags (ABDC A*, CWTS core), 0 citations, no repository full text. Unpaywall: no OA location. Semantic Scholar: abstract only, CLOSED. A second OpenAlex search call was rate-limited.",
+      "SSRN working-paper version 'Borderline Tax Planning' (abstract_id=4882083, posted 10 July 2024): SSRN page and r.jina.ai both 403. Found via the UNC Kenan Institute page kenaninstitute.unc.edu/?p=24803 (200; abstract read).",
+      "Open copy of the February 2024 working paper (same three authors, earlier title 'Borderline Tax Planning') at aaahq.org/portals/0/documents/meetings/2024/ATA/Papers/7.01%20Bullock%20Gaertner%20Hoopes.pdf: 200, 49 pages, READ IN FULL. Text saved as bgh-borderline-tax-planning-ata2024.txt (also bgh_ata2024.pdf).",
+      "NOT reached: the published TAR full text (paywalled, 403 on every route), the SSRN PDF, any author-hosted final version. The details below on design and heterogeneity come from the published ABSTRACT (Crossref) plus the February 2024 working paper, which differs from the published version in title, headline numbers and apparently in design wording. Treat WP numbers as the earlier draft, not the article."
+    ],
+    "verdict": "NEW research/bulloch-gaertner-hoopes-commercial-property-tax-microlocation.md (tier supplementary-to-important; write from the published abstract, describe the design cautiously, and say only the abstract of the published article is publicly available). Frame it as evidence on cross-border (inter-jurisdictional) location response to commercial property-tax differentials -- NOT as support for land-only taxation. Inbound links from at least: research/mirrlees-review.md (business rates -> commercial LVT), places/united-kingdom.md (business-rates passage), concepts/tax-capitalization.md, research/yang-split-rate-spillover-employment.md (firm-relocation mechanism), concepts/tiebout-model.md, research/carroll-yinger-benefit-tax-rental.md (commercial incidence paragraph). Reason for NEW over ENRICH: no wiki page covers firm-location responses to commercial property tax; peer-reviewed top-journal source with a 2.8-million-establishment design is the strongest such evidence the wiki could cite; it also supplies an honest limit on the 'a property tax is just neutral location rent' reading. Reason for caution: published full text unread.",
+    "claim_grade": "B-claim for the published abstract's findings (peer-reviewed empirical, The Accounting Review, a top accounting journal; source tier: Tier 1 -- Gaertner, Univ. of Wisconsin-Madison, and Hoopes, UNC Kenan-Flagler, are established accounting-tax scholars with peer-reviewed records; Bulloch, Wisconsin, has an ORCID but no established record found and is early-career, so Tier 1 rests on the two senior authors and the journal's refereeing, as with the Shenjing He / Mingze Bai precedent in people-tiers.json). Statements drawn only from the Feb 2024 working paper are D-claim (non-peer-reviewed earlier draft; numbers superseded).",
+    "content_summary": {
+      "citation": "Brayden D. Bulloch (Univ. of Wisconsin-Madison), Fabio B. Gaertner (Univ. of Wisconsin-Madison), Jeffrey L. Hoopes (Univ. of North Carolina at Chapel Hill), 'Do Commercial Property Taxes Affect Business Microlocation Decisions?', The Accounting Review, published online 6 October 2026 (print date 1 Oct 2026), pp. 1-31, DOI 10.2308/TAR-2025-0248. JEL H25, H71, H73, R32.",
+      "published_abstract_findings (Crossref abstract, all figures verbatim from the abstract)": [
+        "Data: 'precise geolocations for 2.8 million U.S. establishments'.",
+        "Design: 'a spatial discontinuity density design, comparing for-profit establishments to nonprofits, which are generally exempt from property taxes'. County borders are the discontinuity.",
+        "Main result: for-profit establishments, relative to nonprofits, 'disproportionately locate on the low-tax side of county borders'; the effect strengthens with the size of the tax differential.",
+        "Effect sizes: at borders with differentials in the top decile (top quartile), 'a 6-7 (5-6) percent shift in establishment location toward the low-tax side over a 10-km band'.",
+        "Spatial pattern: businesses 'move from as far as 10 km away on the high-tax side but concentrate within 1 km on the low-tax side'.",
+        "Heterogeneity: low-foot-traffic establishments respond more to tax differentials than high-foot-traffic ones (authors: firms 'trade off tax savings with customer access').",
+        "Survey: a survey of U.S. mayors finds perceptions of property taxes' importance for business location rise with cross-border tax differentials."
+      ],
+      "working_paper_detail_Feb2024 (earlier draft, 'Borderline Tax Planning'; do NOT present as the article's numbers)": [
+        "Data (WP pp. 9-11): SafeGraph Places (Dec 2022) establishment geolocations; CoreLogic Historical Property 2015-2021 (31,452,373 commercial observations) to compute county effective commercial property-tax rates as taxes paid divided by MARKET value (WP p. 10: 'dividing property taxes paid by market value for the commercial properties in the dataset'; assessed value deliberately not used); Compustat for public-firm tests. 2,609 of 3,243 counties usable (CA, CT, DE, DC, HI, MA, ME, NH, RI, VT lost to data gaps). Only within-state county borders; establishments within 10 km of a border; 2,805,455 establishments; manufacturing and medical establishments removed (abatements, non-tax siting factors). Mean county effective rate 2.1% of market value; mean border differential 0.5 percentage points (WP p. 11).",
+        "Identification (WP pp. 14-16): 303,265 nonprofit establishments (churches, schools, public buildings) as the untreated counterfactual density; 'excess' for-profit mass in a 1-km window either side of the border; net bunching = low-side excess minus high-side excess; 200 bootstrap draws; regressions with county fixed effects, SEs clustered at border level (WP pp. 20-22).",
+        "WP headline numbers (differ from the published abstract): establishments within 1 km of a border are 11 percent more likely to be on the low-tax side (WP abstract); for-profits 11.7 percent more likely than nonprofits (WP p. 3); net bunching 11.71% at the highest-differential borders and 2.67% across all borders (WP p. 18); share on the low-tax side rises from 49% to 54.7% from the lowest to highest differential groups (WP p. 14).",
+        "Heterogeneity (WP pp. 18-20): rural net bunching 7.04% vs urban 5.77%; low-foot-traffic net 7.00%, 'more than twice' the high-foot-traffic estimate. Firms with higher federal cash ETR (less income-tax planning) are more likely to sit on the low-tax side -- the authors read property-tax and income-tax planning as substitutes. Firm size, profitability and number of stores were not significant (WP pp. 24-26).",
+        "Owner-occupied vs leased premises: not examined in the WP; its literature review (WP p. 8) only notes disagreement on commercial property-tax incidence (Mieszkowski & Zodrow 1989: consumers; Man 1995 and Wheaton 1984: property owners). Industry: results pooled, mostly retail-type establishments (WP pp. 9-10); no industry split reported."
+      ],
+      "land_vs_building": "The authors' tax measure is the effective rate on the whole commercial property (land plus improvements) -- taxes paid over market value -- so the study cannot separate a land component from a building component. In the WP, searches for 'land value', 'site value', 'land tax' and 'Georg' return nothing; the framing is corporate tax planning and local-government tax competition ('local governments can weigh that importance into their considerations for how to best attract business to their counties', WP p. 27). Whether the published version says anything about site-value taxation could not be checked; the abstract does not.",
+      "quotes (each <=50 words)": [
+        {
+          "text": "for-profit establishments disproportionately locate on the low-tax side of county borders",
+          "locator": "published abstract (Crossref record)"
+        },
+        {
+          "text": "Firms trade off tax savings with customer access: low-foot-traffic establishments respond more to tax differentials than high-foot-traffic ones.",
+          "locator": "published abstract (Crossref record)"
+        },
+        {
+          "text": "We do this by dividing property taxes paid by market value for the commercial properties in the dataset.",
+          "locator": "Feb 2024 working paper, p. 10"
+        },
+        {
+          "text": "property tax differentials may become a more important locational factor as the geographic area of study is narrowed",
+          "locator": "Feb 2024 working paper, p. 1 (quoting Fox 1981)"
+        }
+      ],
+      "implication_for_land_only_base (analysis for the writer -- D-claim, the authors do not make it)": [
+        "What it supports: jurisdiction-level differences in the effective rate on commercial property (land + buildings) shift where establishments sit at the margin, so a recurrent tax on improved commercial value is not locationally neutral. That is modern peer-reviewed evidence for the premise that taxing improved property distorts real decisions.",
+        "What it does NOT show: that a land-only base would avoid this. The response measured is to a rate DIFFERENCE between adjacent counties (tax competition / Tiebout sorting). A land tax levied at different rates by adjacent jurisdictions would create the same border incentive unless the differential is capitalised into land prices. The abstract reports establishment counts, not land prices or rents, so capitalisation is not tested; a persistent location response is, if anything, a sign that the differential is not fully capitalised within the 1-10 km band. The Georgist neutrality claim is about intensity of use within a jurisdiction (the capital-land ratio), which this design does not test.",
+        "Safe wording for the page: 'peer-reviewed evidence that commercial property-tax differentials between neighbouring counties pull establishments toward the lower-taxed side'; relevant to the business-rates-to-commercial-LVT proposal only in that a uniform national land base would remove cross-border rate differentials -- a policy inference, to be labelled as the wiki's analysis or dropped."
+      ]
+    },
+    "existing_wiki_coverage": "None on this paper or topic. grep -ri 'Bulloch|Gaertner|Hoopes|microlocation|borderline' across all .md/.csv returns nothing relevant. No research/concept page on firm-location responses to commercial property tax (grep for 'location decision|site selection|firm location' hits only yang-split-rate-spillover-employment.md [a reference-list note that Hanson 2022 studies split-rate taxation and business-establishment location, plus a relocation-vs-agglomeration mechanism], hebous-excess-profit-taxes.md [a caveat that revenue estimates ignore location responses], concepts/boom-bust-cycle.md, objections/rent-revenue-breeds-corruption.md and benefits/split-rate-increases-construction.md, none substantive on this). Adjacent pages: research/mirrlees-review.md (recommends replacing business rates and non-domestic SDLT with an LVT on business land); places/united-kingdom.md (Henry George Foundation essay: business rates 27.6bn in 2025-26, Mirrlees 'somewhere in the region of 4%' commercial LVT -- itself a Tier 2 source, so only the Mirrlees figure should carry weight); research/carroll-yinger-benefit-tax-rental.md (commercial incidence: Rolheiser 80-90% pass-through to commercial office rents; Loffler & Siegloch German pass-through); concepts/tax-capitalization.md and concepts/deadweight-loss.md (no mention of location or business siting); research/palmon-smith-capitalization.md, research/oates-1969-capitalization.md, concepts/tiebout-model.md (the WP's own theoretical lineage).",
+    "uncertainties": [
+      "Published full text not read. Every number other than the abstract's comes from the Feb 2024 working paper, whose headline figures (11 percent, 11.7 percent, 11.71 percent net) differ from the abstract (6-7 and 5-6 percent) and whose design wording differs ('bunching' vs 'spatial discontinuity density'). The final data window, county coverage, treatment of manufacturing and medical establishments, and any new heterogeneity (owner vs lessee, industry, firm size) are unknown.",
+      "'Microlocation' here means which side of a county line, within 10 km; it is not a within-city or parcel-level siting result.",
+      "Identification relies on nonprofits as a counterfactual for where establishments would sit absent tax; the authors concede the counterfactual is imperfect (school/church siting logic). 'Percent shift' is a change in the density of establishments, not a count of firms that moved: the abstract says businesses 'move from as far as 10 km away' but the design is cross-sectional density, so relocation of existing firms is inferred, not observed (check the full text).",
+      "Effective rates are median county rates on commercial property, not parcel-specific rates; abatements and exemptions are only partly captured.",
+      "Bulloch's standing is not independently established; Tier 1 here rests on Gaertner, Hoopes and the journal.",
+      "Page numbers for quotes from the published article cannot be given; locators are to the abstract and to the WP's printed page numbers.",
+      "Scanner note framed this as 'the siting distortion a site-value tax is designed to remove'; that framing is the scanner's, not the authors', and overstates what the design shows (see land_vs_building and implication notes)."
+    ],
+    "candidate_sources": [
+      "https://doi.org/10.2308/tar-2025-0248 -- the published article (Tier 1, peer-reviewed; paywalled at publications.aaahq.org); cite for the abstract's findings.",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4882083 -- SSRN version 'Borderline Tax Planning' (posted 10 July 2024; open; not retrievable from this environment). Cite only as the earlier version, flagged as differing from the article.",
+      "https://aaahq.org/portals/0/documents/meetings/2024/ATA/Papers/7.01%20Bullock%20Gaertner%20Hoopes.pdf -- open February 2024 working-paper PDF read in full (data and design detail; not the final text).",
+      "https://kenaninstitute.unc.edu/?p=24803 -- UNC Kenan Institute abstract of the SSRN version (institutional page, Tier 1 for the fact of publication, not for results).",
+      "https://api.crossref.org/works/10.2308/tar-2025-0248 -- Crossref record with the full abstract (for a registry row's provenance).",
+      "Literature cited in the WP that could be checked for a second page (not fetched): Giroud & Rauh (2019, JPE) on state taxes and establishment counts; Wheaton (1984) and Man (1995) on commercial property-tax incidence; Dye, McGuire & Merriman (2001) on Chicago property-tax rates and growth."
+    ],
+    "suggested_inbound_links": [
+      "research/mirrlees-review.md",
+      "places/united-kingdom.md",
+      "concepts/tax-capitalization.md",
+      "research/yang-split-rate-spillover-employment.md",
+      "concepts/tiebout-model.md",
+      "research/carroll-yinger-benefit-tax-rental.md",
+      "research/loffler-siegloch-german-pass-through.md"
+    ]
+  },
+  {
+    "url": "https://propertytaxlab.org.uk/research/proportional-property-tax",
+    "title": "The Proportional Property Tax: Who Wins and Who Loses (Property Tax Lab, 2026)",
+    "what_was_fetched": [
+      "propertytaxlab.org.uk/research/proportional-property-tax: 200 with a browser user-agent; full page text read (saved propertytaxlab-ppt.txt; raw HTML raw_https___propertytaxlab.org.uk_research_proportional-property-tax.html). Charts are client-side; the data tables (regional table, region-by-band table, council league tables, break-even table) are in the HTML. No publication date or byline on the page; it was publicly welcomed by Fairer Share on 28 September 2026, so it exists by then.",
+      "propertytaxlab.org.uk/about, /models/prism, /research/business-rates, /research/council-tax, /research/phvcts: 200 (saved as ptl_*.txt, ptl-prism.txt).",
+      "Primary and origin documents: MHCLG release 'Council Tax levels set by local authorities in England 2025 to 2026' (gov.uk, collection page and release page): 200, figures verified. VOA 'Council Tax: stock of properties, 2025' statistical commentary: 200. Fairer Share's WPI Economics report 'Moving to a Proportional Property Tax' (Feb 2021): 200, 23-page PDF read (saved wpi-moving-to-ppt-2021.txt). Fairer Share proportional-property-tax page: 200. HomeOwners Alliance article cited by the Lab: 200.",
+      "Fairer Share 28 Sept 2026 post 'Independent Analysis Strengthens the Case for Property Tax Reform' (already in the 2026-09-29 scratchpad): read for how the campaign reports the Lab's findings.",
+      "Muellbauer's INET paper (already in scratchpad item1/muellbauer2026.txt) re-read for exactly how it cites Dent.",
+      "NOT reached/not fetched: MHCLG Market Value Survey 2024 (Annex Table 1.3), OBR residential SDLT elasticities note, Mirrlees ch. 16 (cited, not re-fetched), PropertyData; the 'Property Industry Eye' article. A web search for independent coverage of the Lab returned nothing."
+    ],
+    "verdict": "ENRICH (no new page). (1) people/andy-burnham.md -- add 2-3 sentences after the Fairer Share 0.48% paragraph (or the 25 September modelling paragraph) attributing the Lab's dwelling-level test and its revenue-neutral-rate finding to the Property Tax Lab, status stated. (2) research/muellbauer-property-tax-reform-england.md -- tighten how the Lab is described (see existing_wiki_coverage). (3) places/united-kingdom.md -- optional one clause updating the ~35 billion pound Fairer Share revenue figure with the Lab's 2025-26 neutral-rate arithmetic. Not a NEW page: Tier 2 source, a single analysis of a proposal the wiki already carries on Burnham's page, and the wiki has no research page for Fairer Share. Reason to enrich rather than reject: it is the first quantitative test of the 0.48% design that is not by the campaign, it reconciles to MHCLG/VOA primaries, and it supplies the missing caveat that 0.48% is calibrated on 2019 revenues.",
+    "claim_grade": "C-claim (Tier 2) for the Lab's modelled distributional and rate findings: independent but unreviewed, single-author-organisation modelling, with the campaign group promoting it. A-claim for what the Lab reports when attributed ('the Lab estimates'). The inputs it quotes from MHCLG (council tax requirement 44.1bn, average Band D 2,280, average per dwelling 1,770) are A-claim Tier 1 and were verified. Source tier under 4c: Property Tax Lab / Michael Dent = Tier 2 (see tier_judgement). Fairer Share = Tier 2 (listed).",
+    "tier_judgement": {
+      "who_they_are": "Property Tax Lab describes itself as 'independent data and policy analysis on residential property taxation in England and Wales', 'not affiliated with any political party, lobbying organisation, or industry group', founded by Michael Dent, 'co-founder of what3words and founder of PropertyData', who 'read Economics at Merton College, Oxford' and has 'more than a decade building property valuation models' (propertytaxlab.org.uk/about; self-description, not independently verified). No institutional host, no peer review, no academic publication record in public finance found. Muellbauer's reference list gives the affiliation as 'Property Tax Lab, PropertyData.co.uk'.",
+      "who_cites_it": "John Muellbauer (Nuffield/INET Oxford, Tier 1) uses PRISM stock estimates throughout his INET Working Paper 2026-24 (Dent 2026a = propertytaxlab.org.uk/models/prism) and cites THIS page as Dent 2026b, 'for an initial assessment' of Fairer Share's transition proposals (paper p. 12), and thanks Dent for 'interactions ... in the last year' (p. 13). Fairer Share publicised the analysis on 28 Sept 2026. No official body (ONS, VOA, OBR, IFS, Resolution Foundation) citation found; the wiki's Resolution Foundation page does not mention the Lab. One Tier 1 academic using the stock model as a data input is not publication or adoption by a Tier 1 body.",
+      "ruling": "Tier 2 under 4c (independent research outfit without institutional or peer-review standing). Cite as the Lab's own modelling, with status stated ('an independent England-and-Wales property-tax research site founded by Michael Dent, founder of the property-data firm PropertyData'); never as evidence that a proportional property tax or LVT is right; for numbers, anchor to MHCLG/VOA where the figure is a primary. Where Muellbauer reproduces a PRISM figure, cite Muellbauer as vehicle and attribute the estimate to Dent. Suggest adding 'Property Tax Lab / Michael Dent' to the tier2 list in sources/audit/people-tiers.json (T1 editor's call; T0 does not edit it)."
+    },
+    "content_summary": {
+      "what_it_is": "A web research article by the Property Tax Lab testing Fairer Share's Proportional Property Tax (PPT) -- a flat 0.48% annual charge on current property value, paid by owners, replacing council tax and SDLT on primary residences; 0.96% on second, empty and non-resident-owned homes; transitional cap of 100 pounds a month (1,200 a year) on increases for a primary residence until sale; deferral for those unable to pay. Fairer Share's design was costed by WPI Economics (Feb 2021): PPT revenue 36.7bn = council tax 31.9bn + primary-dwelling SDLT 4.2bn + 0.6bn adjustments, 'on 2019 revenues' (Lab's phrasing; the WPI report itself, p. 3, states the 0.48% 'makes PPT revenue-neutral upon introduction' and carries a 'PRIVATE & CONFIDENTIAL' cover legend although publicly hosted).",
+      "model_and_method": "PRISM = the Lab's residential stock model. This analysis uses 'the sales sample behind PRISM': 914,742 English properties sold since 2023, each with a current-value estimate and a matched council tax band and local authority. NOTE: these are sold properties with modelled values, not 914,742 valuations of the stock. Recently sold homes are not a random sample, so winner shares and averages are computed within each council-by-band cell and weighted to the VOA's dwelling count for the cell; 301 cells with fewer than 10 sales (139,000 dwellings) borrow region-and-band results. Social homes are valued at a 26% (London) to 36% (North East) discount to private homes, calibrated to MHCLG's Market Value Survey 2024 (takes 4.4% off England's total). Each dwelling's current bill = its own council's average Band D including precepts x the statutory band ratio (A = 6/9 ... H = 18/9), compared with 0.48% of modelled value. Scope: England, bands A-H, 25.0m banded dwellings; Wales excluded.",
+      "headline_figures (all the Lab's own estimates unless stated)": {
+        "dwellings_paying_less": "83% of dwellings (~20.7 million) pay less; average saving 784 pounds; those paying more face an average increase of 1,487 pounds (page key findings). Arithmetic checks: 20.7m / 25.0m = 82.8%.",
+        "versus_fairer_share_claim": "Fairer Share claims 77% of HOUSEHOLDS (18 million) pay less, average saving 556 pounds (Fairer Share PPT page); the Lab says the measures differ (dwellings vs households, renters pay no property tax) and 'On our narrower dwelling-level test the claim holds up; if anything it is conservative.' (Fairer Share's 25 Sept 2026 release, already on the wiki's Burnham page, uses 566 pounds for the average English household -- a different release and geography, not an inconsistency in the Lab's figures.)",
+        "london_band_h": "'London Band H faces an average increase of 17,183 pounds a year; 98% of those dwellings would hit Fairer Share's 1,200-a-year transitional cap.' The table and text both give 17,183 (= 20,456 PPT less 3,273 council tax on an average 4.3m home). The scanner note's '17,173' is a transcription slip. Region-and-band table: London Band H +17,183; South West H +7,092; South East H +6,323; East of England H +6,008; Yorkshire & Humber H +5,092; North West H +4,349; West Midlands H +3,676; East Midlands H +3,313; North East Band H omitted (<30 sales). London bands C-H all net losers on average (C +58, D +486, E +932, F +1,821, G +4,300); London A -68, B -140. Outside London bands A-F mostly pay less (bar +15 on East of England F); Band G pays more everywhere except North East (-306) and East Midlands (-69).",
+        "regional": "Share of dwellings paying less: North East 98%, North West 95%, Yorkshire & Humber 96%, East Midlands 97%, West Midlands 95%, South West 90%, East of England 84%, South East 81%, London 39% (England 83%). Average change per dwelling: North East -1,078, London +962, England -391. London: 61% of dwellings pay more.",
+        "councils": "Largest average savings: Hartlepool -1,353 (average value 134,255), Middlesbrough -1,332, Stockton-on-Tees -1,254. Largest increases: Kensington and Chelsea +6,128 (average value 1.74m), Westminster +5,412, Wandsworth +2,769; the ten largest increases are all London boroughs.",
+        "regressivity": "Existing council tax is 1.08% of value for Band A on average versus 0.13% for Band H; the Lab says its figures show council tax 'regressive with respect to property value'.",
+        "revenue_neutral_rate": "'The 0.48% rate is stale.' On the Lab's 9.02tn valuation of England's 25.0m banded dwellings, 0.48% raises 43.3bn versus 48.3bn to replace (44.1bn council tax requirement 2025-26 + 4.2bn SDLT). Neutral rate ~0.54%; on a gross-liability (no discounts) basis gross council tax on the modelled stock is 53.1bn and the neutral rate is 0.64%. The two bounds differ because councils bill ~9bn less than full rates through the 25% single-person discount and Council Tax Support, which PPT has no equivalent of. Arithmetic checks: 9.02tn x 0.48% = 43.3bn; 48.3/9.02 = 0.535%; (53.1+4.2)/9.02 = 0.635%. Council tax requirements up ~38% since 2019 (the Lab's figure); primary-residence SDLT ~5bn in 2024-25 versus the 4.2bn WPI used.",
+        "transitional_cap": "1.3 million dwellings (5.3% of stock) exceed the cap; first-year cost ~3.5bn (~8% of gross PPT yield); 74% of relief goes to London (52% to London G and H). Design flaw per the Lab: the cap ends on sale, re-creating a moving penalty for the largest-increase households (London Band H owner pays 4,473 under the cap but the buyer faces 20,456). Lab suggests a decade-long time-based taper. The Lab notes WPI says the cost of the protection is 'already factored into' the 0.48% but publishes no figure.",
+        "stamp_duty": "SDLT replacement IS included in the revenue arithmetic (4.2bn, 2019 vintage) and has a separate efficiency section: +8.8% transactions on abolition (~76,343 extra sales a year, using OBR semi-elasticities), 804m of deadweight loss removed per year, 16,032 additional long-distance movers. For an average London Band G buyer, SDLT saved 98,107 once vs ~4,299 a year more tax; exhausted after ~23 years. Details are on the Lab's separate Stamp Duty page (not read)."
+      },
+      "assumptions_and_caveats_stated_by_the_Lab (Methodology section)": [
+        "Gross liability basis: 'Council Tax bills are modelled at full rates. Single-person discounts (25%), Council Tax Support, exemptions and premiums are not modelled on either side', so Fairer Share's household-level winner shares are not directly comparable and single occupants' increases are understated.",
+        "SDLT is 2019-vintage (4.2bn); 'main-residence SDLT raised nearer 5bn in 2024-25', so the shortfall and neutral rates are slightly understated.",
+        "Average Band D including precepts per authority; no parish-level variation.",
+        "Social-housing valuation approximate; too many social homes placed in upper bands within a council, so band-level winner splits within a region are less certain; for social homes the PPT would fall on the landlord while the tenant pays council tax today.",
+        "Within-cell selection bias from using recently sold homes: stratification removes between-cell bias, not residual within-cell bias.",
+        "The 0.96% surcharge on second/empty/non-resident homes is not modelled and would claw back some of the shortfall; values move (a 2029 start on 2028 values would shift every figure, not the pattern).",
+        "Design reservations (Our Assessment): sale-triggered cap; renters and incidence ('moving legal liability to owners does not settle who ultimately pays'); deferral for asset-rich cash-poor owners; revenue volatility with market values; valuation 'solvable but not free'."
+      ],
+      "quotes (each <=50 words)": [
+        {
+          "text": "The 0.48% rate is stale.",
+          "locator": "Key findings, propertytaxlab.org.uk page"
+        },
+        {
+          "text": "A revenue-neutral rate today is between 0.54% and 0.64%.",
+          "locator": "Key findings; derived in section 'Does 0.48% Add Up?'"
+        },
+        {
+          "text": "None of this breaks the plan, but nobody should legislate expecting 0.48% to be the final number.",
+          "locator": "section 'Does 0.48% Add Up?'"
+        },
+        {
+          "text": "Property Tax Lab is independent and non-partisan; we do not endorse parties or campaigns.",
+          "locator": "section 'Our Assessment'"
+        },
+        {
+          "text": "Council Tax bills are modelled at full rates. Single-person discounts (25%), Council Tax Support, exemptions and premiums are not modelled on either side",
+          "locator": "section 'Methodology', caveat 'Gross liability basis'"
+        },
+        {
+          "text": "the winners outnumber the losers roughly 5 to one, but the losers know exactly who they are",
+          "locator": "section 'Our Assessment'"
+        }
+      ],
+      "context_note": "Footnote 1 of the page says that as PM Burnham ruled the plan out 'for now' ('That won't be happening') and, quoting the BBC via HomeOwners Alliance, said it was 'just not the case that we are bringing forward plans on that scale at this moment in time'; the HomeOwners Alliance article says he 'ruled out scrapping council tax and stamp duty or replacing them with a single property tax at this stage'. The wiki already records the 11 August Guardian report that property-tax overhaul is not in the 28 October 2026 Budget."
+    },
+    "tier1_primaries_behind_the_figures": [
+      {
+        "figure": "Council tax requirement 2025-26 = 44.1bn; average Band D (incl. all precepts) = 2,280; average council tax per dwelling = 1,770; Band D 998 (Wandsworth) to 2,671 (Rutland)",
+        "source": "MHCLG, Council Tax levels set by local authorities in England 2025 to 2026 (accredited official statistics; first published 20 March 2025, revised 22 April 2026)",
+        "url": "https://www.gov.uk/government/statistics/council-tax-levels-set-by-local-authorities-in-england-2025-to-2026",
+        "status": "fetched and verified this pass (release page .../council-tax-levels-set-by-local-authorities-in-england-2025-to-2026)"
+      },
+      {
+        "figure": "Dwelling counts by band and billing authority (the weights); Band H ~0.2 million = 0.6% of English stock; Band A 6.1m = 23.7% (implies ~25.7m English properties at 31 March 2025, which is a derived figure, versus the Lab's 25.0m 'sellable' banded cells)",
+        "source": "Valuation Office Agency, Council Tax: stock of properties 2025 (published 25 September 2025)",
+        "url": "https://www.gov.uk/government/statistics/council-tax-stock-of-properties-2025",
+        "status": "statistical commentary fetched; band-by-authority tables not downloaded"
+      },
+      {
+        "figure": "Social-to-private value ratio by region (26% London to 36% North East discounts)",
+        "source": "MHCLG, Market Value Survey 2024, Annex Table 1.3",
+        "url": "https://www.gov.uk/government/publications/market-value-survey-2024",
+        "status": "linked from the Lab's page; not fetched"
+      },
+      {
+        "figure": "SDLT transaction elasticities behind +8.8% transactions",
+        "source": "OBR, Residential SDLT elasticities (2017)",
+        "url": "https://obr.uk/box/residential-sdlt-elasticities/",
+        "status": "linked; not fetched"
+      },
+      {
+        "figure": "'highly inefficient' characterisation of stamp duty",
+        "source": "Mirrlees Review, Tax by Design (2011), ch. 16, IFS",
+        "url": "https://ifs.org.uk/books/16-taxation-land-and-property",
+        "status": "wiki already cites this chapter on research/mirrlees-review.md"
+      },
+      {
+        "figure": "The proposal itself: 0.48%, 0.96%, 36.7bn / 31.9bn / 4.2bn / 0.6bn, 100-pound-a-month cap, deferral",
+        "source": "WPI Economics for Fairer Share, 'Moving to a Proportional Property Tax' (February 2021) -- Tier 2 ORIGIN document (campaign-commissioned)",
+        "url": "https://fairershare.org.uk/wp-content/uploads/2021/12/Moving-to-PPT-.pdf",
+        "status": "fetched and read; also Fairer Share's page https://fairershare.org.uk/proportional-property-tax/ (77% of households, 556 pounds)"
+      }
+    ],
+    "existing_wiki_coverage": "The Lab is NOT cited on any wiki page by URL; sources/registry.csv has no row for it; it is not in people-tiers.json. Where it appears: research/muellbauer-property-tax-reform-england.md, 'Revenue and Reach': 'Using Michael Dent's Property Tax Lab estimates -- about 159,000 English homes above 2m (average value 3.61m) and 172,000 between 1.5m and 2m (average 1.71m), from 2024-25 transactions matched to stock totals and updated to mid-2026 with Nationwide indices -- and assuming 80%/20% and 90%/10% primary/second-home splits ... the paper puts revenue at 2.01bn ... 0.2bn ... 2.21bn in total', footnoted [1] to Muellbauer; and under Limits: 'its revenue figures rest on a single consultancy's stock estimates'. The Sources section lists only the Muellbauer paper. Assessment: 4c-compliant -- the Lab is a Tier 2 data input, named as the source of the stock estimates, carried through a Tier 1 paper, not used as support for anything, and flagged as single-source. Three small improvements for T1: (a) 'consultancy' is inaccurate (the Lab describes itself as independent data and policy analysis; Dent founded the property-data firm PropertyData) -- say 'a single independent modeller's stock estimates (Michael Dent's Property Tax Lab)'; (b) state Dent's status once, impersonally; (c) the current PRISM page now shows ~163,000 homes above 2m (values indexed to Q2 2026) against Muellbauer's 159,000, so the page should keep the figures attributed to Muellbauer's paper and not update them from the live model. Muellbauer's cite of the Lab's PPT page (Dent 2026b) and acknowledgement are not mentioned on the wiki page and need not be. Other coverage of the Fairer Share design: people/andy-burnham.md (para at line 29: 0.48%/0.96%, 270,000-pound home paying about 1,296, regional price effects, Telegraph via Yahoo Finance [11]; line 31: i Paper 28 July 2026 area savings, 1,200-pound cap and deferral; line 41: Fairer Share's own 25 Sept 2026 modelling -- 566 pounds average, 279 of 295 authorities, 10.1bn -- 'rest on its own 2020-based household modelling ... with no independent review' [20], c-claim); places/united-kingdom.md line 32 (0.48% replacing council tax and SDLT, 'on the order of 35 billion pounds a year' [5], Goodhart's transition warning); research/resolution-foundation-home-economics.md (RF's 0.7% occupier-paid tax; Fairer Share named as promoting the same base; RF's neutral rate 0.66%/0.7% against a 74bn 2030-31 target and 10.9tn stock -- not comparable with the Lab's 0.54-0.64% on a 9.02tn 2025 stock replacing 48.3bn). The wiki has no research page on Fairer Share, WPI Economics or the Lab. Pages checked and silent on the Lab: resolution-foundation-home-economics, andy-burnham, united-kingdom, carroll-yinger-benefit-tax-rental, deadweight-loss, tax-capitalization.",
+    "suggested_enrichment_sentences": [
+      "people/andy-burnham.md (after the line-41 paragraph; attribute, no grade codes): 'The Property Tax Lab, an independent research site on English and Welsh residential property taxes founded by Michael Dent (founder of the property-data firm PropertyData), tested the 0.48% design against a reweighted sample of 914,742 recent English sales and reported, in its own modelling, that 83% of dwellings (about 20.7 million) would pay less than under council tax, against 39% in London, where the average Band H home would pay about 17,183 pounds a year more; 98% of those Band H homes would reach the 1,200-pound transitional cap.' Then: 'It also found the rate calibrated on 2019 revenues: on its valuation of England's homes 0.48% raises 43.3 billion pounds against 48.3 billion to replace (council tax requirement 44.1 billion, MHCLG, plus 4.2 billion of stamp duty), putting a revenue-neutral rate at 0.54% to 0.64% depending on whether discounts are counted; its calculations exclude the 0.96% surcharge and the 25% single-person discount.' Add a Sources entry 'used for ...' with the C-claim grade and a note that the analysis is the Lab's unreviewed modelling, publicised by the campaign.",
+      "research/muellbauer-property-tax-reform-england.md: replace 'a single consultancy's stock estimates' with 'a single independent modeller's stock estimates (Michael Dent's Property Tax Lab)'; optionally add Sources row for PRISM (propertytaxlab.org.uk/models/prism) 'used for the stock estimates Muellbauer relies on', Tier 2.",
+      "places/united-kingdom.md (clause after the 'on the order of 35 billion pounds' figure): 'a figure calibrated on 2019 revenues; one independent modelling exercise puts the amount to be replaced at about 48 billion pounds on 2025-26 figures (council tax requirement 44.1 billion plus 4.2 billion stamp duty).' Anchor the 44.1 billion to MHCLG."
+    ],
+    "uncertainties": [
+      "No publication date, byline or version history on the page; appeared by 28 Sept 2026. The page is live and can change (the PRISM model page already shows a different count of 2m+ homes from the one Muellbauer used).",
+      "The Lab's independence is self-declared; its founder is a property-data entrepreneur and the analysis was welcomed and promoted by Fairer Share (28 Sept post, which reports the 83% finding and the 'if anything conservative' line and says the neutral rate would be 'higher' but omits the 0.54-0.64% numbers and the London Band H figure). No evidence of commissioning or funding by the campaign was found; none was looked for beyond the About page.",
+      "'914,742 valuations' in the scanner note is shorthand for modelled values of 914,742 recent sales, reweighted to the VOA stock; winner shares are therefore model outputs with residual within-cell selection bias, as the Lab states.",
+      "Dwelling-level, gross-liability comparison: not comparable with Fairer Share's household-level 77% and likely understates losses for single occupiers (25% discount) and for council tax support recipients.",
+      "The scanner note's '+17,173' for London Band H is wrong; the page says 17,183 in both text and table.",
+      "The Lab's 25.0m dwelling base differs from the VOA's ~25.7m English properties (Lab excludes annexes, park homes and uncovered cells); effect on rates is small but not nil.",
+      "Charts (distribution of bill changes, share paying less by band, effective rate by band) are not machine-readable; only tables were read.",
+      "Whether the Lab or Dent is cited by any other Tier 1 body is unknown; the search found nothing, but search coverage was thin."
+    ],
+    "candidate_sources": [
+      "https://www.gov.uk/government/statistics/council-tax-levels-set-by-local-authorities-in-england-2025-to-2026 -- MHCLG, Tier 1 primary for 44.1bn requirement, 2,280 Band D, 1,770 per dwelling (verified).",
+      "https://www.gov.uk/government/statistics/council-tax-stock-of-properties-2025 -- VOA stock of properties 2025, Tier 1 primary for dwelling counts by band.",
+      "https://www.gov.uk/government/publications/market-value-survey-2024 -- MHCLG Market Value Survey 2024 (social-home discount calibration).",
+      "https://obr.uk/box/residential-sdlt-elasticities/ -- OBR note behind the transaction-uplift estimate.",
+      "https://ifs.org.uk/books/16-taxation-land-and-property -- Mirrlees Review chapter 16 (already on the wiki).",
+      "https://fairershare.org.uk/wp-content/uploads/2021/12/Moving-to-PPT-.pdf and https://fairershare.org.uk/proportional-property-tax/ -- Tier 2 ORIGIN of the proposal (cite as the campaign's position only).",
+      "https://propertytaxlab.org.uk/research/proportional-property-tax and https://propertytaxlab.org.uk/models/prism -- the Lab's analysis and model (Tier 2; cite attributed).",
+      "https://www.inet.ox.ac.uk/publications/no-2026-24-property-tax-reform-in-england-a-fresh-look -- Tier 1 vehicle for PRISM-derived stock numbers and the only found Tier 1 use of the Lab."
+    ],
+    "suggested_inbound_links": [
+      "people/andy-burnham.md (primary enrichment target)",
+      "research/muellbauer-property-tax-reform-england.md (wording fix and Sources row)",
+      "places/united-kingdom.md (optional clause)",
+      "research/resolution-foundation-home-economics.md (optional: only a plain 'the Lab models a lower neutral rate on a different base' pointer; do not synthesise a comparison without a source that makes it)"
+    ]
+  },
+  {
+    "url": "https://doi.org/10.1080/25765949.2026.2722759",
+    "title": "Does Economic Voting Operate in Rentier States? Evidence from Kuwait, 1975-2020 (Alhalban & Alawin, Asian Journal of Middle Eastern and Islamic Studies, 2026)",
+    "what_was_fetched": [
+      "doi.org/10.1080/25765949.2026.2722759 -> tandfonline.com/doi/full/...: HTTP 403 (Cloudflare) with a browser user-agent and with Googlebot; r.jina.ai: 403; tandfonline /doi/pdf and /doi/full-xml links (from the Crossref record): 403; WebFetch to tandfonline: 403.",
+      "Crossref API: 200 -- metadata only (title, authors, affiliations, ORCIDs, published online 9 Sept 2026, pages 1-23, text-mining licence start 2026-09-09). Crossref carries NO abstract and no references (reference-count 0). Saved cr_tf.json.",
+      "OpenAlex works/doi: 200 -- no abstract; topics: Natural Resources and Economic Development; Electoral Systems and Political Participation; Corruption and Economic Development; closed access; 0 citations. Unpaywall: no OA copy. Semantic Scholar: abstract null.",
+      "Web searches (standard and extended) on the exact title and author names returned nothing for the article. A Crossref listing of the journal's 2026 output shows the article but no abstract.",
+      "NOT reached: the abstract, the text, the data description, the voting measure and the finding. Everything below the metadata is unknown; the scanner note ('whether electorates in rentier states reward or punish governments for economic performance') is an inference from the title."
+    ],
+    "verdict": "REJECT for now (out of scope as a source page; no content accessible). No sentence on concepts/resource-rents.md or concepts/rentier.md is warranted: with neither abstract nor text, any sentence would assert an unseen result, and even if the finding were known the paper concerns voter behaviour in one Gulf state, not rent capture or resource-revenue design, which is what those pages carry. Re-open only if the abstract becomes available AND it reports a clear accountability finding, in which case at most ONE attributed sentence in the resource-curse paragraph of concepts/resource-rents.md, framed as a regional-journal finding. Better-fitting, Tier 1 material on Kuwait's rentier politics exists and is not yet on the wiki (see candidate_sources) -- a separate queue item if the editor wants coverage of rentier-state political accountability.",
+    "claim_grade": "D (unassessed: content not seen). Source tier: peer-reviewed status asserted by the publisher but not confirmed from the article; journal standing modest (see below); neither author is an established political-economy name on this topic. Do not treat as Tier 1 support for any claim until read.",
+    "content_summary": {
+      "citation": "Halban Alhalban (Independent Researcher, Kuwait City; ORCID 0009-0007-8874-7158) and Mohammad Alawin (Department of Economics, College of Business Administration, Kuwait University; ORCID 0000-0002-1553-3139), 'Does Economic Voting Operate in Rentier States? Evidence from Kuwait, 1975-2020', Asian Journal of Middle Eastern and Islamic Studies (Taylor & Francis), published online 9 September 2026, pp. 1-23, DOI 10.1080/25765949.2026.2722759.",
+      "abstract_available": false,
+      "data_economic_voting_measure_finding": "Unknown. Title implies a 1975-2020 series covering Kuwaiti National Assembly elections and an economic-performance test of voting; the scanner note says 'Kuwaiti National Assembly elections 1975-2020' -- both are inferences from the title, not read.",
+      "authors": "Alawin: economist at Kuwait University; his other 2019-2026 outputs found on Crossref are macro and monetary papers (Jordan current account, GCC non-oil production, exchange-rate forecasting, capital mobility) in MDPI and other mid-tier outlets; no political-economy or voting publications found. Alhalban: independent researcher, no other output found. Neither is a recognised scholar of rentier-state politics (Ross, Herb, Beblawi-style standing) on the evidence available.",
+      "journal": "Asian Journal of Middle Eastern and Islamic Studies, Informa UK (Taylor & Francis), ISSN 2576-5949/2576-5957, 299 DOIs in Crossref. OpenAlex: not a CWTS core source; Norwegian register level 1; not in DOAJ. The journal's 2026 listing in Crossref is dominated by Turkey-China and Middle East area-studies articles. Standing: a regional area-studies journal, peer-reviewed per publisher (not verified here), modest rather than top-tier; below the political-science journals where the rentier-state literature mainly sits."
+    },
+    "existing_wiki_coverage": "No Kuwait or economic-voting content beyond a passing mention of Kuwait as a founding OPEC member (organizations/opec.md) and a mention in research/mintz-chen-capturing-resource-rents.md (grep 'kuwait'). Rentier-state coverage is thin and national/subnational resource-curse oriented: research/sachs-warner-resource-curse.md, research/martinez-colombia-resource-rents.md, research/medrano-mamani-peru-mining-canon.md, research/gala-gabriel-latin-america-resource-trap.md, and research/namo-nasarawa-solid-minerals-rentier-state.md (supplementary tier; Nigeria; frames Rentier State Theory as 'revenue substitutes for taxation and weakens government accountability'; abstract-level only; published in an engineering/applied-science journal and flagged as such). concepts/resource-rents.md has a 'Resource Curse' paragraph (rents 'can weaken governance'; Mushtaq Khan on Tanzania; Alaska Permanent Fund as remedy) with no rentier-state-theory or voting content; concepts/rentier.md covers the rentier class broadly (Mazzucato, Standing, Christophers, Bartilow's 2026 financialization-and-democracy mediation paper) and has no passage on classic rentier-state theory (Mahdavy, Beblawi, Ross) or electoral accountability. No page covers retrospective or economic voting.",
+    "uncertainties": [
+      "All substantive content unknown; the only reliable facts are bibliographic.",
+      "Whether the article is peer-reviewed in a conventional sense, its method (e.g. time series on turnout/seat shares vs GDP or oil rent), and whether it finds that rent distribution 'breaks' the economic vote cannot be stated.",
+      "Kuwait's elections before 1992 were restricted-franchise and often suspended (parliament suspended 1976-81 and 1986-92 per general knowledge, not checked here), which would make a 1975-2020 series methodologically delicate; this is a reason for care, not a finding about the paper.",
+      "Scanner note's framing ('reward or punish governments') may not match the paper's actual question."
+    ],
+    "candidate_sources": [
+      "https://doi.org/10.1080/25765949.2026.2722759 -- the article itself (paywalled; abstract not reachable here). A person with institutional access could read the abstract in under a minute.",
+      "https://doi.org/10.1017/s0007123424000371 -- Daniel L. Tavana & Erin York, 'Legislative Cooptation in Authoritarian Regimes: Policy Cooperation in the Kuwait National Assembly', British Journal of Political Science (2025): Tier 1, peer-reviewed, 150,000 roll-call votes; reported (search snippet, not read here) a 2-percentage-point rise in policy cooperation per standard-deviation rise in oil revenue. Closer fit for 'rent distribution and political accountability' than the queued item; not on the wiki.",
+      "https://eprints.lse.ac.uk/65693/1/39_MichaelHerb.pdf -- Michael Herb, 'The Origins of Kuwait's National Assembly' (LSE Kuwait Programme): a Tier 1 scholar on the topic (not read here)."
+    ],
+    "suggested_inbound_links": []
+  }
+]
