@@ -5543,3 +5543,30 @@ nothing on the wiki to enrich; a Tier 1 alternative is logged as a low-priority 
 
 Lint 0 errors; inventory 1027 pages, 0 orphans. Ledger: 0 pending, 434 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-10 — an incidence rebuttal, a rejected coinage, and excess burden as practised
+
+Three scanner items, on time. Doctor Hammer's pseudonymous Substack reply to Doucet's
+five-year retrospective is the first published rebuttal of the incidence claim since the
+Doucet page went up, with Doucet answering in the comments. T0 recommended enriching the
+incidence benefit page and T1 agreed: a new subsection carries the objection (rent stickiness,
+lumpy supply, non-haggling tenants, lease timing) and the reply as origin only, under Tier 3
+and Tier 2 labels, and puts the evidential weight where it belongs: Genesove and Gallin &
+Verbrugge for short-run rent rigidity, Löffler & Siegloch for lease-turnover pass-through, the
+capitalization literature for where a land tax finally rests. The editorial reading is that
+Hammer's frictions are the mainstream model's own short-run mechanisms while his inferences
+from them are not, and that his net-present-value concession is the capitalization result.
+
+The Vermont Law Review blog's "compute rent" was rejected: a student-edited blog post, an
+unused coinage for a data-dividend proposal already covered with Tier 1 sources, and an IMF
+figure misstated. The ANU Press appendix on deadweight loss in Australian and New Zealand
+cost-benefit practice, read with the Treasury working paper it summarises, replaced the
+deadweight-loss page's uncited "20 to 50 cents" and "no excess burden" sentences with
+Treasury's figures (stamp duty 72 cents, company tax about 50, land tax minus 10, zero without
+foreign ownership) and added a paragraph on the plug-in values agencies use, including
+Victoria's 1.08 on the ground that land tax is its most efficient source. The scanner's premise
+that land tax is "near zero" and stamp duty "highest" in the KPMG table was wrong and is
+recorded in the ledger. Cao et al. (2015) is logged as a research-page lead.
+
+Lint 0 errors; inventory 1027 pages, 0 orphans. Ledger: 0 pending, 437 consumed. Merged to
+main and Ghost-synced.

@@ -79,6 +79,7 @@ Read this way, the paper is best summarized as: **strong empirical evidence that
 
 ## See Also
 
+- [Landlords Cannot Pass LVT to Tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — where this paper's lease-turnover dynamics meet the 2026 Hammer–Doucet exchange on short-run frictions
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - [Carroll & Yinger (1994), rental-housing property-tax incidence](/wiki/carroll-yinger-benefit-tax-rental/)
 - [Mieszkowski (1972), the "new view" of property tax incidence](/wiki/mieszkowski-property-tax-incidence/)

@@ -76,6 +76,8 @@ On Part 2, tax incidence, Doucet still holds that the weight of the evidence he 
 
 Part 3, on assessment, is the installment Doucet says has aged least well — not because his hedged 2021 conclusion changed, but because years spent working full-time on property valuation gave him a much more detailed picture of the field. His single largest update again comes from South Korea: he now treats the country's national land-valuation system, which values land itself (not merely total property value) down to the individual parcel every year in about five months, as an existence proof that granular annual land assessment is administratively achievable at national scale. He also reverses part of his earlier skepticism of the "cost approach" to assessment, now calling it "basically fine" when properly implemented, and argues that the single most important discipline is simply keeping valuations current, citing Pittsburgh's split-rate repeal as a case study in what stale assessments do to public trust and political viability. He sets these revisions against a broader claim of growing legislative momentum, pointing to the 2026 [Virginia and Kentucky land value tax enablement laws](/wiki/2026-state-lvt-enablement-wave/) as evidence that implementation work, more than persuasion, is now the active front for the movement.
 
+The four questions drew a published rebuttal from a pseudonymous Substack writer and a reply from Doucet in its comments; the exchange, and what the incidence literature makes of it, is set out on [Landlords Cannot Pass LVT to Tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/).
+
 ## Bears On
 
 - **Outcome:** [Landlords cannot pass LVT on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)

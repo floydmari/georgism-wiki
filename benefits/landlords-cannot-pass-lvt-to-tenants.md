@@ -144,7 +144,15 @@ caveats a fair reader should know:
 - **Short-run frictions are real.** The inelastic-supply argument is a long-run
   equilibrium claim; in the short run individual landlords may attempt pass-through
   in tight markets, and the theory says competition unwinds it, not that no tenant
-  ever sees a rent notice citing taxes.
+  ever sees a rent notice citing taxes. The frictions have a literature of their own:
+  Genesove found substantial nominal rigidity in American apartment rents, with many
+  units seeing no change from one year to the next and rents stickier downward than
+  upward, and Gallin and Verbrugge model sticky rents as the outcome of search and
+  bargaining under incomplete information; the German evidence on building-inclusive
+  property taxes shows pass-through arriving over years as leases turn over
+  ([Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/)). What such
+  stickiness governs is the speed and path of adjustment, not where the burden of a tax
+  on land finally rests.[9][10]
 - **A theory-side challenge to *full capitalization* exists — on a different margin.**
   The claim that the burden lands *entirely* on the owner (full capitalization into a
   lower land price) is not literally unanimous in theory:
@@ -159,6 +167,35 @@ caveats a fair reader should know:
   is itself contested (Calvo-Kotlikoff-Rodriguez 1979; Fane 1984 restore the classical
   answer). It belongs here as an honest caveat to "theory is unanimous," not as
   support for the landlord's side.
+
+### The 2026 Exchange: Hammer and Doucet
+
+The objection surfaced in its sharpest recent form in September 2026, when a pseudonymous
+Substack writer, Doctor Hammer, answered the four "change my mind" questions [Lars
+Doucet](/wiki/doucet-does-georgism-work/) had posed in his five-year retrospective. Hammer's
+argument runs on rental-market frictions rather than on incidence theory: rents respond to
+cost increases faster than to cost decreases; housing supply cannot expand quickly, so a cost
+that hits every landlord at once is passed on; contract rents sit between the parties'
+reservation prices and most tenants do not haggle; and increases arrive as leases renew. "The
+short answer is that they do," he writes of pass-through, "but it takes a long time and is
+often swamped by other factors, so that on net the changes are not obvious" (§1). His examples,
+though, are conventional property and excise taxes, and he treats a tax on land as a cost of
+supplying housing. Doucet's reply in the comments pressed two cruxes, whether landlords already
+charge what the market will bear and whether abolishing property taxes would lower rents and
+prices, and asked what evidence would change his interlocutor's mind; the thread ended on the
+question that matters here, whether a tax on land alone falls on land prices or on rents, with
+Hammer conceding that "the price of the land would be lower after an LVT than before, as a
+matter of net present value."[11]
+
+Neither writer is an authority on incidence, and the exchange settles nothing by itself. Read
+against the literature above, Hammer's frictions are the short-run mechanisms the mainstream
+model already allows for, consistent with slow, asymmetric rent adjustment and with the gradual
+pass-through observed for building-inclusive property taxes; his inferences from them are not.
+Inelastic supply is the reason a tax falls on the owner rather than the tenant; a tax on land is
+not a marginal cost of producing housing and does not shift the supply curve; and the
+concession on net present value is the capitalization result itself. The open empirical
+question remains the one the Danish and Finnish studies address: how fast and how fully land
+taxes capitalize.
 
 ## See Also
 
@@ -206,3 +243,6 @@ caveats a fair reader should know:
    Capitalization: A Synthesis," *Real Estate Economics* 45(2): 301–339.
    [DOI](https://doi.org/10.1111/1540-6229.12129) ·
    [wiki summary](/wiki/hilber-capitalization-synthesis/) — used for the supply-elasticity conditional (capitalization onto owners is fuller where supply is inelastic), the bridge from property-tax pass-through to the pure-land-tax case (C/B-claim).
+9. David Genesove (2003), "The Nominal Rigidity of Apartment Rents," *Review of Economics and Statistics* 85(4): 844–853, DOI 10.1162/003465303772815763 (NBER Working Paper 7137, 1999). [doi.org](https://doi.org/10.1162/003465303772815763) · [NBER](https://www.nber.org/papers/w7137) — used for the nominal rigidity and downward stickiness of US apartment rents (B-claim; peer-reviewed; abstract and working-paper summary consulted).
+10. Joshua Gallin & Randal Verbrugge (2019), "A theory of sticky rents: Search and bargaining with incomplete information," *Journal of Economic Theory* 183: 478–519, DOI 10.1016/j.jet.2019.06.003 (Federal Reserve Bank of Cleveland Working Paper 17-05). [doi.org](https://doi.org/10.1016/j.jet.2019.06.003) — used for the search-and-bargaining account of rent stickiness (C-claim; theory; abstract consulted).
+11. Doctor Hammer, "Georgism Does Not Work The Way Its Advocates Believe," Substack, 26 September 2026, with the comment thread including Lars Doucet's replies of 28–29 September 2026. [dochammer.substack.com](https://dochammer.substack.com/p/georgism-does-not-work-the-way-its) — used only for the objection's own statement and the exchange (D-claims; a pseudonymous writer with no stated credentials, Tier 3, and a practitioner-author, Tier 2: origin of the objection and of the reply, never support; quotations located by the post's section numbers and by comment date).
