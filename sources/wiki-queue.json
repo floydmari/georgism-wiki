@@ -8,7 +8,9 @@
       "context": "Georgist Taxes Are Paid By Renters, Not Landlords \u2014 Doctor Hammer (Substack), 26 Sep 2026. A substantive tax-incidence rebuttal to Lars Doucet's 'Does Georgism Work? Five Years Later' (ACX guest post the wiki already carries at research/doucet-does-georgism-work.md): takes up Doucet's four 'change my mind' questions and argues from rent stickiness, chunky housing production functions, lease renewal timing and negotiation practice that LVT incidence can partly land on renters. Doucet replies directly in the comments (28 Sep) pressing two cruxes and asking for falsifiable evidence. Discovered via EXA web scan (2026-10-10 lvt-paper-scan, --days 30).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-10T11:11:48.456596+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1791630726.047029",
+      "reported_at": "2026-10-10T11:12:14.225217+00:00"
     },
     {
       "url": "https://lawreview.vermontlaw.edu/from-ground-rent-to-compute-rent/",
@@ -18,7 +20,9 @@
       "context": "From Ground Rent to Compute Rent \u2014 Jiayi Jessica Ye & Yanmei Lin, Vermont Law Review blog (VLR Blog), 9 Oct 2026. Argues Thomas Paine's Agrarian Justice ground-rent theory extends to AI: if landowners owed society ground rent for enclosing common land, AI developers owe a 'compute rent' for enclosing the digital commons their models train on; frames UBI as restitution rather than welfare. Engages the non-rivalry objection (Varian/Shapiro) via rivalrous economic opportunity, cites Korinek/Stiglitz and IMF job-disruption figures. Discovered via EXA web scan (2026-10-10 lvt-paper-scan, --days 30).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-10T11:11:48.456596+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1791630726.047029",
+      "reported_at": "2026-10-10T11:12:14.225240+00:00"
     },
     {
       "url": "https://press-files.anu.edu.au/downloads/press/p345233/pdf/app07.pdf",
@@ -28,7 +32,9 @@
       "context": "Appendix 7: Deadweight economic loss caused by raising revenue for projects and programs \u2014 Leo Dobes, Joanne Leung & George Argyrous, in 'Social Cost-Benefit Analysis in Australia and New Zealand: The State of Current Practice and What Needs to be Done' (ANU Press, 2016), open-access PDF. Textbook-grade treatment of excess burden (Bates 2001 lawn-mowing illustration), marginal excess burden plug-in values used in Australian/NZ government CBA (Table A7.2 tax list, Albon 1997 review), and why deadweight-loss estimates are 'rubbery' \u2014 arguing for harmonised METB factors across jurisdictions. Discovered via EXA web scan (2026-10-10 lvt-paper-scan, --days 30).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-10T11:11:48.456596+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1791630726.047029",
+      "reported_at": "2026-10-10T11:12:14.225242+00:00"
     }
   ],
   "consumed": [
