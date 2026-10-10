@@ -330,7 +330,7 @@
         "efficiency"
       ],
       "action": "updated",
-      "published_at": "2026-10-09T11:27:54.000Z",
+      "published_at": "2026-10-10T11:26:05.000Z",
       "notified": false
     },
     {
@@ -421,6 +421,75 @@
       ],
       "action": "updated",
       "published_at": "2026-10-09T11:28:05.000Z",
+      "notified": false
+    },
+    {
+      "slug": "landlords-cannot-pass-lvt-to-tenants",
+      "title": "Landlords cannot pass a land value tax on to tenants",
+      "url": "https://www.progress.org/wiki/landlords-cannot-pass-lvt-to-tenants/",
+      "category": "benefits",
+      "tags": [
+        "outcomes",
+        "incidence",
+        "landlords",
+        "tenants",
+        "lvt",
+        "capitalization"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-10T11:26:02.000Z",
+      "notified": false
+    },
+    {
+      "slug": "australia",
+      "title": "Australia",
+      "url": "https://www.progress.org/wiki/australia/",
+      "category": "places",
+      "tags": [
+        "places",
+        "australia",
+        "land-tax",
+        "henry-george",
+        "unimproved-value"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-10T11:26:07.000Z",
+      "notified": false
+    },
+    {
+      "slug": "doucet-does-georgism-work",
+      "title": "Does Georgism Work? (Doucet, ACX series)",
+      "url": "https://www.progress.org/wiki/doucet-does-georgism-work/",
+      "category": "research",
+      "tags": [
+        "research",
+        "doucet",
+        "incidence",
+        "assessment",
+        "accessible"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-10T11:26:09.000Z",
+      "notified": false
+    },
+    {
+      "slug": "loffler-siegloch-german-pass-through",
+      "title": "Löffler & Siegloch, \"Welfare Effects of Property Taxation\" — German Rent Pass-Through Evidence",
+      "url": "https://www.progress.org/wiki/loffler-siegloch-german-pass-through/",
+      "category": "research",
+      "tags": [
+        "research",
+        "tax-incidence",
+        "property-tax",
+        "grundsteuer",
+        "germany",
+        "rental-housing",
+        "rent-pass-through",
+        "welfare",
+        "counter-evidence"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-10T11:26:11.000Z",
       "notified": false
     }
   ]
