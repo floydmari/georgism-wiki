@@ -8,7 +8,9 @@
       "context": "Land, housing and the British economy \u2014 John Muellbauer. INET Oxford publication page, 21 Sept 2026 (author confirmed in page metadata: author=john-muellbauer). Argues many of the UK's economic and social problems, including the housing affordability crisis, trace to decades of land and housing policy failures: transformative but deleterious 1980s institutional changes (land-use regulation, financial regulation, property taxation) produced high and volatile land prices with repeated credit/house-price booms and busts, and the associated speculation diverted financial flows from productive investment, damaging growth, competitiveness and financial stability. Policy remedies require a holistic package: planning reform, land-value capture, expanding the social housing stock, and reforming the dysfunctional property tax system. Distinct from the wiki's already-carried Muellbauer INET paper 'Property tax reform in England: a fresh look' (WP 2026-24). Discovered via EXA web scan (2026-10-12 lvt-paper-scan, --days 30).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-12T11:07:38.953442+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1791803272.394949",
+      "reported_at": "2026-10-12T11:08:25.895930+00:00"
     },
     {
       "url": "https://coverstory.ph/2026/10/12/surge-in-land-prices-offers-opportunity-for-land-value-capture-in-muntinlupa/",
@@ -18,7 +20,9 @@
       "context": "Surge in land prices offers opportunity for land value capture in Muntinlupa \u2014 Juan V. Sarmiento Jr., Coverstory.ph, 12 Oct 2026 (veteran Filipino business journalist). Philippine LVC case study: the city-funded CARES access road (~PHP 39M, opened 2013) linking the Pleasant Village subdivision to the Filinvest City CBD produced a land-price windfall that the city government has not captured. Walks through the statutory instruments available since the 1991 Local Government Code (RA 7160): the Section 240 special levy on land benefited by publicly funded works (up to 60% of actual project cost, collectible over 5-10 years) and Section 155 user fees for locally built infrastructure, plus a four-step adoption roadmap (impose the levy, set user charges, earmark an infrastructure maintenance fund, institutionalize LVC in future project evaluation). Based on a paper presented 5 Oct 2026 at the 51st Sustainable Shared Growth (KKK51) seminar. Discovered via EXA web scan (2026-10-12 lvt-paper-scan, --days 30).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-12T11:07:38.953442+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1791803272.394949",
+      "reported_at": "2026-10-12T11:08:25.895930+00:00"
     }
   ],
   "consumed": [
