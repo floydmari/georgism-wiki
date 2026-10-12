@@ -68,6 +68,22 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   accessible, so no page-level or section-level claim from the full report is made — only the project page's
   own two direct quotations above.
 
+- **Tax increment as loan security: Transbay, San Francisco.** ICLEI USA, the American arm
+  of the local-government network, published a July 2026 white paper recommending tax
+  increment financing as a land-value-capture tool for transit and climate projects, with
+  the Transbay Transit Center as its lead case. The official record is more precise than the
+  guide. The Transbay Joint Powers Authority's $171 million federal TIFIA loan is secured by
+  a senior lien on project revenues of which 98% are dedicated tax increment from the former
+  state-owned parcels around the terminal, sold and developed, and land sales themselves
+  contributed $515.6 million toward a Phase 1 cost of about $2.26 billion; the financing sits
+  inside the 2005 Transbay redevelopment area, the 2012 Transit Center District Plan and a
+  2014 community facilities district.[15][16] The guide's own figures, a $4.2 billion cost
+  and 40 acres redeveloped, do not match that profile. David Merriman, whose Lincoln Institute
+  report on TIF is the standard reference and who reviewed the ICLEI paper, draws the line the
+  guide blurs: because TIF diverts revenue from appreciation that may partly reflect public
+  investment, "some observers may erroneously believe that TIF is a land value capture tool
+  separate from the property tax"; it captures the existing tax on land and buildings together,
+  not new value.[17][18]
 - **Tax increment financing in practice: San Antonio's TIRZ system (2026).** For a
   ground-level picture of how TIF actually operates — and where it drifts from the
   value-capture ideal — the *San Antonio Report*'s explainer on Texas's **Tax Increment
@@ -227,3 +243,7 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 12. Abigail Friendly, "Land Value Capture and Social Benefits: Toronto and São Paulo Compared," IMFG Papers on Municipal Finance and Governance No. 33, University of Toronto, 2017. [hdl.handle.net/1807/81190](http://hdl.handle.net/1807/81190) — used for the São Paulo OODC revenue series, 2004–2015, and its 2011 peak (printed p. 17) (B-claim; academic working paper). Full detail on the [São Paulo](/wiki/sao-paulo/) page.
 13. Anjali Mahendra et al., "Urban Land Value Capture in São Paulo, Addis Ababa, and Hyderabad," WRI Working Paper commissioned by the Lincoln Institute of Land Policy, December 2020. [wri.org](https://www.wri.org/research/urban-land-value-capture-sao-paulo-addis-ababa-and-hyderabad-differing-interpretations) — used for the Água Espraiada CEPAC revenue, the 59.6 percent road share of spending and the displacement figure (pp. 2–3, 15–16) (B-claim; research-institute working paper).
 14. British Columbia, Bill 46 – 2023, Housing Statutes (Development Financing) Amendment Act, 2023. [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca/civix/document/id/bills/billsprevious/4th42nd:gov46-3) — used for the amenity-cost-charge framework (A-claim; statute); the Vancouver detail is carried on [Vancouver](/wiki/vancouver/).
+15. Federal Highway Administration, Center for Innovative Finance Support, "Project Profile: Transbay Transit Center." [fhwa.dot.gov](https://www.fhwa.dot.gov/ipd/project_profiles/ca_transbay_transit.aspx) — used for the Phase 1 cost ($2,259.4 million), the $515.6 million in land sales, the $171 million TIFIA loan and its security in tax increment from the state-owned parcels (98% of pledged revenues) (A-claim; official body; a pre-completion profile).
+16. Office of the Controller, City and County of San Francisco, memorandum on the Transbay Joint Powers Authority community facilities district, 20 April 2020. [onesanfrancisco.org](https://www.onesanfrancisco.org/sites/default/files/2020-04/Agenda%20Items%204%20and%205%20-%20Transbay%20TJPA%20CFD%20Memo.pdf) — used for the 2005 redevelopment area, the 2012 Transit Center District Plan and CFD No. 2014-1 (A-claim; official body).
+17. ICLEI USA (Brian McCartan), *Tax Increment Financing and Land Value Capture*, white paper, July 2026. [icleiusa.thinkific.com](https://icleiusa.thinkific.com/pages/r99-tax-increment-financing-and-land-value-capture) — used for the practitioner body's recommendation and its Transbay figures (D-claim; Tier 2: a membership association's guidance, carried as its position; its $4.2 billion and 40-acre figures are unmatched to any official source).
+18. David Merriman (2018), *Improving Tax Increment Financing (TIF) for Economic Development*, Lincoln Institute of Land Policy, Policy Focus Report, p. 12 ("TIF Is Not Additional Land Value Capture"). [lincolninst.edu](https://www.lincolninst.edu/sites/default/files/pubfiles/improving-tax-increment-financing-full.pdf) — used for the argument that TIF is a diversion of the existing property tax rather than a separate capture instrument (C-claim; Tier 1 scholar, stated as his argument).

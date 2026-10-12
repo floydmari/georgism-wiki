@@ -5570,3 +5570,28 @@ recorded in the ledger. Cao et al. (2015) is logged as a research-page lead.
 
 Lint 0 errors; inventory 1027 pages, 0 orphans. Ledger: 0 pending, 437 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-12 — Sunday's three items: a consolidation index, Day's inheritance, and TIF as capture
+
+The Saturday evening and Sunday morning wakeups arrived together after an eight-hour delivery
+delay, so one pass handled Sunday's scan. Uyan's *Land Use Policy* paper on land value
+potential after Turkish land consolidation was rejected: abstract only, an index rather than
+prices, and nothing on who captures the uplift; the method family is already covered by the
+Croatia and Konya cases. The essay the scanner credited to Kavanagh and Day turned out to be
+Phil Day's alone, written around 2004–05 and republished on Kavanagh's site; Day is a
+practitioner-academic and proponent, so the Australia page gains a historiography paragraph
+pairing Treasury's own account of the 1910 tax (a wealth tax and estate-breaking device) with
+Day's cautious verdict that "the Georgist influence is nowhere explicit", and the Kavanagh
+page a sentence. The scanner's "no purposeful Georgist rationale" phrase is not in the text.
+Treasury's description of the federal rate as flat conflicts with the Parliamentary Budget
+Office's graduated schedule and is not relied on. ICLEI USA's white paper recommending tax
+increment financing as land value capture went onto the land-value-capture page as a Transbay
+bullet anchored on the FHWA project profile and the San Francisco Controller's memo, with the
+guide's unmatched cost and acreage figures noted and Merriman's argument that TIF is not
+additional capture as the Tier 1 counterpoint.
+
+One process correction: the T0 agent sent the account owner's e-mail to Unpaywall's lookup
+instead of the wiki address; the prompt template now states the rule.
+
+Lint 0 errors; inventory 1027 pages, 0 orphans. Ledger: 0 pending, 440 consumed. Merged to
+main and Ghost-synced.

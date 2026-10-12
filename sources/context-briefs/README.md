@@ -14,6 +14,8 @@ The T0 prompt must carry these instructions verbatim so the rules survive sessio
   `sources/audit/people-tiers.json`; unknown names are judged by the rubric, not assumed Tier 1).
 - Access ladder when blocked: curl with a browser user-agent → r.jina.ai → Googlebot
   user-agent → save PDF and parse locally. Say plainly what could not be fetched.
+  Open-access lookups that require an e-mail (Unpaywall) use `wiki@progress.org`; never
+  the account owner's address or any other personal address.
 - Brief schema per item: `url`, `title`, `what_was_fetched`, `verdict` (ENRICH <page> /
   NEW <page> / REJECT / DEFER with reason), `claim_grade` (A–D with the §4c tier of the
   source), `content_summary` (figures with their named sources), `existing_wiki_coverage`
