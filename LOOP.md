@@ -254,6 +254,13 @@ the team Slack channel. The loop agent's responsibility is documented in the pro
 
 ## Guardrails
 
+- **Ghost sync dependency check (2026-10-12):** if `scripts/sync_to_ghost.py` dies with
+  `pyo3_runtime.PanicException` from `cryptography` (the system PyJWT importing a broken
+  Rust build after a container restart), run it from an isolated venv:
+  `python3 -m venv <scratch>/venv-ghost && <scratch>/venv-ghost/bin/pip install pyjwt
+  cryptography requests markdown python-frontmatter`, then `<scratch>/venv-ghost/bin/python
+  scripts/sync_to_ghost.py …`. Mask output with `sed -E 's/[0-9a-f]{20,}/<masked>/g'` rather
+  than dropping lines, or the traceback disappears with the key names.
 - **Concurrency cap:** ≤3–4 concurrent Claude subagents (session limits are the binding
   constraint; 13 concurrent scanners burned a full quota on 2026-07-04).
 - Never delete an article; never fabricate a citation; quotes ≤50 words with locators;
