@@ -51,7 +51,7 @@
         "infrastructure"
       ],
       "action": "updated",
-      "published_at": "2026-10-06T11:35:38.000Z",
+      "published_at": "2026-10-12T03:24:19.000Z",
       "notified": false
     },
     {
@@ -453,7 +453,7 @@
         "unimproved-value"
       ],
       "action": "updated",
-      "published_at": "2026-10-10T11:26:07.000Z",
+      "published_at": "2026-10-12T03:24:15.000Z",
       "notified": false
     },
     {
@@ -490,6 +490,24 @@
       ],
       "action": "updated",
       "published_at": "2026-10-10T11:26:11.000Z",
+      "notified": false
+    },
+    {
+      "slug": "bryan-kavanagh",
+      "title": "Bryan Kavanagh",
+      "url": "https://www.progress.org/wiki/bryan-kavanagh/",
+      "category": "people",
+      "tags": [
+        "people",
+        "bryan-kavanagh",
+        "land-values-research-group",
+        "kavanagh-putland-index",
+        "australia",
+        "valuer",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T03:24:17.000Z",
       "notified": false
     }
   ]
