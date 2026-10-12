@@ -51,7 +51,7 @@
         "infrastructure"
       ],
       "action": "updated",
-      "published_at": "2026-10-12T03:24:19.000Z",
+      "published_at": "2026-10-12T11:27:45.000Z",
       "notified": false
     },
     {
@@ -133,7 +133,7 @@
         "rentier"
       ],
       "action": "updated",
-      "published_at": "2026-10-07T19:27:19.000Z",
+      "published_at": "2026-10-12T11:27:43.000Z",
       "notified": false
     },
     {
@@ -189,7 +189,7 @@
         "financialisation"
       ],
       "action": "updated",
-      "published_at": "2026-10-08T19:26:13.000Z",
+      "published_at": "2026-10-12T11:27:54.000Z",
       "notified": false
     },
     {
@@ -420,7 +420,7 @@
         "working-paper"
       ],
       "action": "updated",
-      "published_at": "2026-10-09T11:28:05.000Z",
+      "published_at": "2026-10-12T11:28:00.000Z",
       "notified": false
     },
     {
@@ -508,6 +508,151 @@
       ],
       "action": "updated",
       "published_at": "2026-10-12T03:24:17.000Z",
+      "notified": false
+    },
+    {
+      "slug": "muellbauer-land-housing-british-economy",
+      "title": "Land, Housing and the British Economy (Muellbauer, 2026)",
+      "url": "https://www.progress.org/wiki/muellbauer-land-housing-british-economy/",
+      "category": "research",
+      "tags": [
+        "research",
+        "united-kingdom",
+        "land-prices",
+        "financialization",
+        "land-value-capture",
+        "property-tax",
+        "housing"
+      ],
+      "action": "published",
+      "published_at": "2026-10-12T11:27:38.000Z",
+      "notified": false
+    },
+    {
+      "slug": "betterment-levy",
+      "title": "Betterment Levy",
+      "url": "https://www.progress.org/wiki/betterment-levy/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "betterment-levy",
+        "land-value-capture",
+        "uk",
+        "planning-gain",
+        "public-finance"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:27:40.000Z",
+      "notified": false
+    },
+    {
+      "slug": "valorization-tax",
+      "title": "Valorization Tax (Contribución de Valorización)",
+      "url": "https://www.progress.org/wiki/valorization-tax/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "valorization-tax",
+        "special-assessment",
+        "land-value-capture",
+        "colombia",
+        "bogota",
+        "betterment-levy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:27:47.000Z",
+      "notified": false
+    },
+    {
+      "slug": "cycles-are-credit-not-land",
+      "title": "Objection: property cycles are driven by credit, not land",
+      "url": "https://www.progress.org/wiki/cycles-are-credit-not-land/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "business-cycle",
+        "credit",
+        "finance",
+        "land-speculation",
+        "18-year-cycle",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:27:49.000Z",
+      "notified": false
+    },
+    {
+      "slug": "john-muellbauer",
+      "title": "John Muellbauer",
+      "url": "https://www.progress.org/wiki/john-muellbauer/",
+      "category": "people",
+      "tags": [
+        "people",
+        "housing",
+        "credit",
+        "property-tax",
+        "land-value-tax",
+        "oxford",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:27:51.000Z",
+      "notified": false
+    },
+    {
+      "slug": "bencure-ilvm-baybay-philippines",
+      "title": "iLVM: Mass Appraisal in BayBay City, Philippines (Bencure et al.)",
+      "url": "https://www.progress.org/wiki/bencure-ilvm-baybay-philippines/",
+      "category": "research",
+      "tags": [
+        "research",
+        "assessment",
+        "mass-appraisal",
+        "ahp",
+        "valuation",
+        "developing-countries",
+        "philippines"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:27:56.000Z",
+      "notified": false
+    },
+    {
+      "slug": "hirano-stiglitz-credit-land-speculation-growth",
+      "title": "Hirano & Stiglitz: Credit, Land Speculation, and Long-Run Economic Growth / Low-Interest-Rate Policy",
+      "url": "https://www.progress.org/wiki/hirano-stiglitz-credit-land-speculation-growth/",
+      "category": "research",
+      "tags": [
+        "research",
+        "stiglitz",
+        "hirano",
+        "credit",
+        "land-speculation",
+        "monetary-policy",
+        "endogenous-growth",
+        "financial-regulation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:27:58.000Z",
+      "notified": false
+    },
+    {
+      "slug": "ryan-collins-rethinking-land-housing",
+      "title": "Rethinking the Economics of Land and Housing",
+      "url": "https://www.progress.org/wiki/ryan-collins-rethinking-land-housing/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land",
+        "housing",
+        "credit",
+        "financialisation",
+        "land-value-tax",
+        "uk",
+        "book"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-12T11:28:02.000Z",
       "notified": false
     }
   ]
