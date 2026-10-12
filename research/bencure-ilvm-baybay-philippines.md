@@ -63,6 +63,7 @@ Verified against the open-access article (abstract and Results):[1]
 
 ## See Also
 
+- [Betterment Levy](/wiki/betterment-levy/) — the Philippines' unused special levy, where valuation capacity is again the binding constraint
 - [Doucet, *Does Georgism Work?*](/wiki/doucet-does-georgism-work/) — Part 3, where iLVM is the developing-country case
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/) — the AHP/expert-weighted family
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)

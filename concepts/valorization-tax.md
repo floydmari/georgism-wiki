@@ -26,6 +26,7 @@ In the Georgist literature, the British author and Georgist campaigner Fred Harr
 
 ## See Also
 
+- [Betterment Levy](/wiki/betterment-levy/) — including the Philippines' cost-capped special levy, a second special-assessment instrument apportioned by benefit
 - [Betterment Levy](/wiki/betterment-levy/) — the broader category of event-based land value capture this tax belongs to
 - [Land Value Capture](/wiki/land-value-capture/) — the family of instruments valorization tax is a member of
 - [The Power in the Land](/wiki/harrison-power-in-the-land/) — Harrison's discovery-source discussion of valorization tax (Ch. 17)

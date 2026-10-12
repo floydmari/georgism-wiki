@@ -72,6 +72,7 @@ the official evidence on both sides are set out on [Hong Kong](/wiki/hong-kong/)
 
 ## See Also
 
+- [Muellbauer: Land, Housing and the British Economy](/wiki/muellbauer-land-housing-british-economy/) — a mainstream macroeconomist's statement of the land-credit loop, with the crowding-out evidence relayed
 - [Rethinking the Economics of Land and Housing (research summary)](/wiki/ryan-collins-rethinking-land-housing/) — the primary source for this concept
 - [Reisman, Fairbairn & Kish: Agrarian Platform Capitalism](/wiki/reisman-fairbairn-kish-agrarian-platform-capitalism/) — farmland-crowdfunding platforms converting agricultural land into a new tradable financial asset class
 - [Fudge: The Structural Rentier Asset](/wiki/fudge-structural-rentier-asset/) — a formal argument that the land-credit feedback loop this page documents has no stable equilibrium, only intervention or crisis as an endpoint

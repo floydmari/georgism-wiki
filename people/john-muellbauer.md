@@ -26,10 +26,11 @@ From the late 1980s Muellbauer became one of the first economists to study syste
 
 ## The 2026 Property-Tax Proposal
 
-In September 2026, weeks into Andy Burnham's premiership, Muellbauer published an INET Oxford working paper proposing that the Starmer government's banded High Value Council Tax Surcharge be replaced by a **proportional surcharge of 0.5% (1% for second homes) on value above £1.5m**, paired with a stamp-duty cut tapered with value to avoid cliff edges, and framed as a first step toward a proportional council tax.[4] The paper is a property-value reform rather than a land value tax and does not draw on his earlier land-value work; that engagement is deferred to a forthcoming *Journal of the British Academy* article. See [the research page](/wiki/muellbauer-property-tax-reform-england/) for the design and figures.
+In September 2026, weeks into Andy Burnham's premiership, Muellbauer published an INET Oxford working paper proposing that the Starmer government's banded High Value Council Tax Surcharge be replaced by a **proportional surcharge of 0.5% (1% for second homes) on value above £1.5m**, paired with a stamp-duty cut tapered with value to avoid cliff edges, and framed as a first step toward a proportional council tax.[4] The paper is a property-value reform rather than a land value tax and does not draw on his earlier land-value work; that engagement is deferred to a *Journal of the British Academy* article, [published in September 2026](/wiki/muellbauer-land-housing-british-economy/). See [the research page](/wiki/muellbauer-property-tax-reform-england/) for the design and figures.
 
 ## See Also
 
+- [Muellbauer: Land, Housing and the British Economy](/wiki/muellbauer-land-housing-british-economy/) — the 2026 Journal of the British Academy article and its green land value tax
 - [Property Tax Reform in England: A Fresh Look (2026)](/wiki/muellbauer-property-tax-reform-england/) — the September 2026 working paper
 
 - [*Rethinking the Economics of Land and Housing* (book page)](/wiki/rethinking-economics-land-housing/) — the book whose foreword Muellbauer wrote and whose land-tax-and-volatility findings cite his research

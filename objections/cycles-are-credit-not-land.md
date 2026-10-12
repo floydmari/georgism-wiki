@@ -137,6 +137,7 @@ attack the same instability from two ends.** Not "cycles are land, not credit," 
 
 ## See Also
 
+- [Muellbauer: Land, Housing and the British Economy](/wiki/muellbauer-land-housing-british-economy/) — credit deregulation and land prices as a joint cause, with the land share as the amplifier
 - [Vague (2019): A Brief History of Doom](/wiki/vague-brief-history-of-doom/) — 200 years of private-debt-to-GDP data across six countries, showing real-estate lending precedes every major crisis; the credit school's quantitative case
 - [Borio (2012): The Financial Cycle](/wiki/borio-financial-cycle/) — the BIS "financial cycle" steelman: the credit-and-property boom runs on credit creation and shifting risk perception and would operate on any collateral, not land specifically
 - [Hyman Minsky](/wiki/hyman-minsky/) — economist behind the financial instability hypothesis, the objection's central theoretical anchor

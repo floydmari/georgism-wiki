@@ -5595,3 +5595,28 @@ instead of the wiki address; the prompt template now states the rule.
 
 Lint 0 errors; inventory 1027 pages, 0 orphans. Ledger: 0 pending, 440 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-12 (11:12) — Muellbauer's Keynes Lecture in print, and a Philippine levy on paper
+
+Two scanner items. The INET Oxford page led to Muellbauer's open-access *Journal of the
+British Academy* article, the piece two existing pages had called "forthcoming", read in full
+with its 54-page background paper. A Sonnet writer produced the research page; T1 review
+removed a meta-reference to another page's note, a stray access remark and a frontmatter
+outcome slug that does not exist. The page carries the 70% land share, the 300% real
+house-price rise, the 63% income-to-stock decomposition with its caveat against reading it as
+"supply explains 63%", the crowding-out literature as relayed, and the four-part package
+including the green land value tax; six pages link in and the two "forthcoming" references now
+point to it.
+
+The Muntinlupa case is a journalist-author's own seminar paper (Tier 2, origin only), but it
+led to Tier 1 material the wiki lacked: the Local Government Code's special levy, read on
+LawPhil, and Samantela and Maquiling's peer-reviewed finding that Metro Manila's cities have
+never used it. Both the betterment-levy and land-value-capture pages gain a Philippine
+passage anchored on the statute, with the CARES road estimates carried as the author's own and
+two statutory misreadings in the article corrected: the instalment rule is section 241 and
+section 155 is a toll power, and the 60% cost cap makes the levy cost recovery rather than
+uplift capture. A Philippines hub is deferred until the study's full text and the Senate bill
+are reachable.
+
+Lint 0 errors; inventory 1028 pages, 0 orphans. Ledger: 0 pending, 442 consumed. Merged to
+main and Ghost-synced.

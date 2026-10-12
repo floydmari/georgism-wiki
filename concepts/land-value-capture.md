@@ -68,6 +68,17 @@ LVC is the pragmatic, widely-adopted face of Georgist ideas: even governments th
   accessible, so no page-level or section-level claim from the full report is made — only the project page's
   own two direct quotations above.
 
+- **An unused statutory levy: Muntinlupa, Philippines (2026).** The Local Government Code
+  of 1991 gives Philippine cities a special levy on land benefited by locally funded works,
+  capped at 60% of project cost and payable over five to ten years, and a peer-reviewed 2024
+  study found Metro Manila's cities had never used it for want of institutional and technical
+  capacity.[19][20] A journalist-author's case study of Muntinlupa's CARES access road,
+  built by the city for about ₱39 million and opened in 2013, estimates an uplift of roughly
+  ₱476 million across the subdivision it connected to the Filinvest City business district,
+  with the road's cost 8% of the gain and the city collecting nothing while private sticker
+  fees are charged for access; the estimate is the author's own and the paper unpublished.
+  The levy's cost cap means it could recover at most about ₱23 million of that uplift, the
+  limit of a cost-recovery instrument; see [Betterment Levy](/wiki/betterment-levy/).[21]
 - **Tax increment as loan security: Transbay, San Francisco.** ICLEI USA, the American arm
   of the local-government network, published a July 2026 white paper recommending tax
   increment financing as a land-value-capture tool for transit and climate projects, with
@@ -247,3 +258,6 @@ See: [Garden Cities of To-morrow (Howard)](/wiki/garden-cities-of-to-morrow/)
 16. Office of the Controller, City and County of San Francisco, memorandum on the Transbay Joint Powers Authority community facilities district, 20 April 2020. [onesanfrancisco.org](https://www.onesanfrancisco.org/sites/default/files/2020-04/Agenda%20Items%204%20and%205%20-%20Transbay%20TJPA%20CFD%20Memo.pdf) — used for the 2005 redevelopment area, the 2012 Transit Center District Plan and CFD No. 2014-1 (A-claim; official body).
 17. ICLEI USA (Brian McCartan), *Tax Increment Financing and Land Value Capture*, white paper, July 2026. [icleiusa.thinkific.com](https://icleiusa.thinkific.com/pages/r99-tax-increment-financing-and-land-value-capture) — used for the practitioner body's recommendation and its Transbay figures (D-claim; Tier 2: a membership association's guidance, carried as its position; its $4.2 billion and 40-acre figures are unmatched to any official source).
 18. David Merriman (2018), *Improving Tax Increment Financing (TIF) for Economic Development*, Lincoln Institute of Land Policy, Policy Focus Report, p. 12 ("TIF Is Not Additional Land Value Capture"). [lincolninst.edu](https://www.lincolninst.edu/sites/default/files/pubfiles/improving-tax-increment-financing-full.pdf) — used for the argument that TIF is a diversion of the existing property tax rather than a separate capture instrument (C-claim; Tier 1 scholar, stated as his argument).
+19. Republic of the Philippines, Republic Act No. 7160, *Local Government Code of 1991*, ss. 155, 240–243. [lawphil.net](https://lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html) — used for the special-levy power, its 60% cost cap, the five-to-ten-year instalment rule, apportionment by assessed value and the toll-fee power (A-claim; statute).
+20. Sandra S. Samantela & Karl Sam M. Maquiling (2024), "Examining Institutional Challenges of Land Value Capture: The Case of Implementing Land-based Taxes in the Philippines," DOI 10.22004/ag.econ.340794. [AgEcon Search](https://ageconsearch.umn.edu/record/340794) — used for the finding that institutional, financial and technical capacity gaps have kept the special levy unused in Metro Manila (B-claim; peer-reviewed; abstract consulted, full text not retrievable).
+21. Juan V. Sarmiento Jr., "Surge in land prices offers opportunity for land value capture in Muntinlupa," *Coverstory.ph*, 12 October 2026, summarising his paper to the 51st Sustainable Shared Growth seminar, 5 October 2026. [coverstory.ph](https://coverstory.ph/2026/10/12/surge-in-land-prices-offers-opportunity-for-land-value-capture-in-muntinlupa/) — used for the CARES case and the author's own estimates (D-claim; a journalist-author's own study, Tier 2: origin of the case, not support; the paper itself is not published).

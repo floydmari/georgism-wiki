@@ -128,6 +128,7 @@ sector that generates spillover-driven growth.
 
 ## See Also
 
+- [Muellbauer: Land, Housing and the British Economy](/wiki/muellbauer-land-housing-british-economy/) — relays this model as the theoretical basis for crowding-out in the UK
 - [Joseph Stiglitz](/wiki/joseph-stiglitz/) · [Tomohiro Hirano](/wiki/tomohiro-hirano/)
 - [Hirano & Stiglitz: Henry George, Land Speculation, and Economic Growth](/wiki/oxford-review-george-2025/)
 - [The growth of modern banking is largely mortgage credit against land](/wiki/finance-growth-is-land-credit/)
