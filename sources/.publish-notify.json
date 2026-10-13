@@ -313,8 +313,8 @@
         "united-states",
         "spatial-discontinuity"
       ],
-      "action": "published",
-      "published_at": "2026-10-09T11:27:52.000Z",
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:32.000Z",
       "notified": false
     },
     {
@@ -653,6 +653,131 @@
       ],
       "action": "updated",
       "published_at": "2026-10-12T11:28:02.000Z",
+      "notified": false
+    },
+    {
+      "slug": "howard-wong-commercial-property-tax-misvaluation",
+      "title": "The Size and Scope of Commercial Property Tax Misvaluation (Howard & Wong, 2026)",
+      "url": "https://www.progress.org/wiki/howard-wong-commercial-property-tax-misvaluation/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "commercial-property",
+        "assessment",
+        "mass-appraisal",
+        "ratio-study",
+        "assessment-error",
+        "united-states"
+      ],
+      "action": "published",
+      "published_at": "2026-10-13T11:30:24.000Z",
+      "notified": false
+    },
+    {
+      "slug": "mass-appraisal-methods",
+      "title": "Mass Appraisal Methods",
+      "url": "https://www.progress.org/wiki/mass-appraisal-methods/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "assessment",
+        "cama",
+        "hedonic-regression",
+        "valuation",
+        "lvt"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:26.000Z",
+      "notified": false
+    },
+    {
+      "slug": "iaao-standards",
+      "title": "IAAO Standards: Ratio Studies & Property Tax Policy",
+      "url": "https://www.progress.org/wiki/iaao-standards/",
+      "category": "research",
+      "tags": [
+        "research",
+        "assessment",
+        "mass-appraisal",
+        "ratio-study",
+        "cod",
+        "prd",
+        "prb",
+        "standards",
+        "iaao",
+        "property-tax"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:28.000Z",
+      "notified": false
+    },
+    {
+      "slug": "land-cannot-be-assessed",
+      "title": "Objection: Land value can't be assessed accurately",
+      "url": "https://www.progress.org/wiki/land-cannot-be-assessed/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "assessment",
+        "valuation",
+        "lvt",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:30.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-invites-assessment-corruption",
+      "title": "\"LVT Enables Corrupt Assessors and Will Be Gamed\"",
+      "url": "https://www.progress.org/wiki/lvt-invites-assessment-corruption/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "assessment",
+        "corruption",
+        "public-choice",
+        "lvt",
+        "political-economy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:31.000Z",
+      "notified": false
+    },
+    {
+      "slug": "rent-seeking",
+      "title": "Rent-Seeking",
+      "url": "https://www.progress.org/wiki/rent-seeking/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "rent-seeking",
+        "tullock",
+        "krueger",
+        "economic-rent"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:34.000Z",
+      "notified": false
+    },
+    {
+      "slug": "martin-adams",
+      "title": "Martin Adams",
+      "url": "https://www.progress.org/wiki/martin-adams/",
+      "category": "people",
+      "tags": [
+        "people",
+        "adams",
+        "author",
+        "land-value-tax",
+        "economic-rent",
+        "land-speculation",
+        "progress-org",
+        "north-atlantic-books"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-13T11:30:35.000Z",
       "notified": false
     }
   ]
