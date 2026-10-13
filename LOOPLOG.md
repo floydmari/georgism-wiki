@@ -5620,3 +5620,29 @@ are reachable.
 
 Lint 0 errors; inventory 1028 pages, 0 orphans. Ledger: 0 pending, 442 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-13 — a ten-item batch: one page, one duplicate caught, eight rejections
+
+The scanner's own triage pass delivered ten items at once. Nine were disposed without page
+changes. Six Georgist blog and educational pieces (two Social Liberty essays, one with an
+AI-assistance disclosure; a Substack explainer; a Thiel commentary citing no primary; two
+Unitism explainers by Martin Adams) are Tier 2 restatements of material already carried, and
+were rejected, with one line on the Adams page noting his Unitism platform. Two Indian SSRN
+papers on land ceilings and constitutional history are student work with unverifiable
+authorship, rejected as sources; the Tier 1 record T0 located while checking them (the
+Legislative Department's Constitution text with article 31A's second proviso and the Ninth
+Schedule entries, and Kesavananda Bharati on Indian Kanoon) now sits on the BACKLOG India
+land-ceiling lead. The MENA rent-seeking paper turned out to be already cited on the
+rent-seeking page; the scanner's dedup missed the Springer URL form, and one inferred
+mechanism on that page was softened to say the abstract does not state it.
+
+The one accepted item is Howard and Wong's national study of commercial property-tax
+misvaluation, read in full from the author's copy: 121,000 commercial sales against four
+million residential across 900 counties, commercial assessment error about two-thirds larger
+in the median county, regressive for low-value parcels, with little support for owner
+influence as the driver. T1's ruling, carried on the page, is that the paper values land and
+buildings together and tests nothing about land, so it is not evidence either way on LVT;
+five pages link in.
+
+Lint 0 errors; inventory 1029 pages, 0 orphans. Ledger: 0 pending, 452 consumed. Merged to
+main and Ghost-synced.

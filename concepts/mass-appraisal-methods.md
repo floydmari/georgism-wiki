@@ -103,6 +103,7 @@ Rather than improving land/building separation techniques, some designs try to a
 
 ## See Also
 
+- [Howard & Wong: Commercial Property Tax Misvaluation](/wiki/howard-wong-commercial-property-tax-misvaluation/) — national ratio-study evidence that commercial assessment error runs about two-thirds above residential in the median county; whole-property values, not land
 - [New York City's Pied-à-Terre Tax (2026)](/wiki/nyc-pied-a-terre-tax/) — a levy whose two-phase design exists because the city's statutory condo and co-op valuations sit far below sale prices
 - [PLACES Lab](/wiki/places-lab/) — Boston University research group whose machine-learning land-value maps are a modern, nationwide-scale demonstration of the assessment feasibility this page argues for
 - [McCanless: Constructing Public Rent — Property Tax Appeals and Rentier Capitalism](/wiki/mccanless-property-tax-appeals-rentier/) — a caution that assessment accuracy alone doesn't guarantee equity if the appeals process is itself unequally accessed

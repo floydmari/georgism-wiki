@@ -63,6 +63,7 @@ For related evidence see the [Carroll & Yinger](/wiki/carroll-yinger-benefit-tax
 
 ## See Also
 
+- [Howard & Wong: Commercial Property Tax Misvaluation](/wiki/howard-wong-commercial-property-tax-misvaluation/) — the other national commercial-property-tax study: how accurately the tax base is measured
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Deadweight Loss](/wiki/deadweight-loss/)
 - [Tax Capitalization](/wiki/tax-capitalization/)

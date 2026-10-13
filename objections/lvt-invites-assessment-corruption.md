@@ -38,6 +38,7 @@ Assessment corruption is a real risk documented under existing property-tax syst
 
 ## See Also
 
+- [Howard & Wong: Commercial Property Tax Misvaluation](/wiki/howard-wong-commercial-property-tax-misvaluation/) — finds little support for owner influence as the national driver of commercial assessment error
 - [Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the companion technical-assessability objection this page is deliberately distinct from
 - [Public Choice Critique](/wiki/public-choice-critique/) — the broader argument that a capturable government lever is dangerous regardless of the base's efficiency
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/) — the transparency-and-standardization response

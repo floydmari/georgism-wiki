@@ -89,6 +89,7 @@ This silence is itself informative for the [mass-appraisal-methods](/wiki/mass-a
 
 ## See Also
 
+- [Howard & Wong: Commercial Property Tax Misvaluation](/wiki/howard-wong-commercial-property-tax-misvaluation/) — a 900-county test against the uniformity standards, failed for commercial parcels
 - [International Association of Assessing Officers (IAAO)](/wiki/iaao/) — the standards body
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/) — the concept page these standards underpin
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
