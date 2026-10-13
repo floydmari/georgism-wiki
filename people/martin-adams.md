@@ -13,6 +13,8 @@ Martin Adams is a systems thinker, software engineer, and author of [*Land: A Ne
 
 Adams is a contributor and editor at [Progress.org](https://www.progress.org/), the long-running Georgist online publication, where his essays (2015–2021) include a memorial for [Fred Foldvary](/wiki/fred-foldvary/), coverage of [Mason Gaffney](/wiki/mason-gaffney/)'s 2015 China-crash prediction, and an introduction of the documentary *Real Estate 4 Ransom* to Progress.org readers. He is listed as an advisor to [Common Wealth Canada](/wiki/common-wealth-canada/).
 
+Adams now publishes short educational pieces on land value and its measurement at Unitism, the site that also hosts his book; they restate the book's argument rather than extend it.[5]
+
 ## Key Works
 
 - *Land: A New Paradigm for a Thriving World* (North Atlantic Books, 2015) — [book page](/wiki/land-a-new-paradigm/)
@@ -30,3 +32,4 @@ Adams is a contributor and editor at [Progress.org](https://www.progress.org/), 
 2. Martin Adams author page, Progress.org. https://www.progress.org/authors/martin-adams/ — used for his contributor/editor role and the range and dates of his Progress.org essays (A-claims).
 3. Martin Adams, *Land: A New Paradigm for a Thriving World* (Berkeley: North Atlantic Books, 2015). [Book page](/wiki/land-a-new-paradigm/) — used for publication details and the Creative Commons release (A-claims).
 4. [Common Wealth Canada](/wiki/common-wealth-canada/) wiki page — used for the advisor listing (A-claim; see that page's sources).
+5. Martin Adams, "What Is Land Value and Why It Shapes Housing Costs" and "How to Determine Value of Land for Reform," Unitism, September 2026. [unitism.com](https://unitism.com/learn/insights/what-is-land-value) · [unitism.com](https://unitism.com/learn/insights/how-to-determine-value-of-land) — used only for the fact that he publishes there (D-claim; Tier 2 educational pieces, not support).

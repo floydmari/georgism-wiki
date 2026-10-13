@@ -114,8 +114,8 @@ the authors distinguish inequality by its *source*: their argument is that "unpr
 inequalities at home driven by rent-seeking institutions are negatively related to
 high-skilled emigration" — that is, once inequality is conditioned on rent-seeking
 institutions, **higher inequality is associated with less** high-skilled emigration, not
-more.[14] Their reading is that rent-seeking institutions do not merely waste talent, they
-*retain* it: where the returns to capture are high, the most talented have reason to stay and
+more.[14] The mechanism the result suggests, though the abstract does not spell it out, is that
+rent-seeking institutions do not merely waste talent, they *retain* it: where the returns to capture are high, the most talented have reason to stay and
 compete for those returns rather than to leave for productive careers abroad. The policy
 conclusion the authors draw is that institutional reform is what reallocates talent "towards
 more productive careers, the latter being the main driver of entrepreneurship and economic
