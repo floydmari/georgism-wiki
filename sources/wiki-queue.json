@@ -69,6 +69,36 @@
       "author": "Martin Adams",
       "queued_at": "2026-10-13T11:10:11.333707+00:00",
       "reported": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7585598",
+      "title": "The Size and Scope of Commercial Property Tax Misvaluation",
+      "source": "lvt-paper-scanner",
+      "reason": "SSRN working paper (abstract_id 7585598). First national evaluation of errors in US commercial property tax valuation \u2014 assessment quality bears directly on land vs improvements taxation and the wiki property-tax-assessment coverage.",
+      "context": "The Size and Scope of Commercial Property Tax Misvaluation \u2014 Troup Howard & Francis Wong. SSRN working paper, October 2026.",
+      "author": "Troup Howard & Francis Wong",
+      "queued_at": "2026-10-13T11:10:11.333707+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7505838",
+      "title": "Land Reforms and Constitutional History in India",
+      "source": "lvt-paper-scanner",
+      "reason": "SSRN paper (abstract_id 7505838). India land reform constitutional history \u2014 zamindari/ryotwari/mahalwari colonial revenue systems background for the wiki land reform coverage.",
+      "context": "Land Reforms and Constitutional History in India \u2014 Divyapriya M. SSRN, September 2026.",
+      "author": "Divyapriya M",
+      "queued_at": "2026-10-13T11:10:11.333707+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7491498",
+      "title": "Land Ceiling Laws in India: Effectiveness and Legal Issues",
+      "source": "lvt-paper-scanner",
+      "reason": "SSRN paper (abstract_id 7491498). Land ceiling laws as Indian land reform; supports land reform / land monopoly coverage.",
+      "context": "Land Ceiling Laws in India: Effectiveness and Legal Issues \u2014 Priya Kumar. SSRN, September 2026.",
+      "author": "Priya Kumar",
+      "queued_at": "2026-10-13T11:10:11.333707+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -5441,7 +5471,7 @@
       "notes": "used 2026-10-12 \u2014 journalist-author's own seminar paper (Tier 2, origin only; paper unpublished). T0 recommended ENRICH, T1 agreed: a Philippines paragraph on concepts/betterment-levy.md and a bullet on concepts/land-value-capture.md anchored on RA 7160 ss. 155, 240\u2013243 (read on LawPhil) and Samantela & Maquiling (2024, peer-reviewed, abstract), with the CARES estimates carried as the author's own. Two statutory misreadings in the article corrected in the wiki text: the 5\u201310-year instalment rule is s.241 not s.240, and s.155 is a toll power on LGU-built roads, not general user fees; the 60% cap makes the levy cost-recovery (at most ~\u20b123m on a \u20b139m road) rather than uplift capture. places/philippines.md hub deferred to BACKLOG."
     }
   ],
-  "last_updated": "2026-10-13T11:10:43Z",
+  "last_updated": "2026-10-13T11:12:28Z",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 7
+  "total": 10
 }
