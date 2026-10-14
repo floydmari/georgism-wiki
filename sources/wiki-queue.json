@@ -9,6 +9,36 @@
       "author": "UKTJP503G",
       "queued_at": "2026-10-14T10:01:10.457686+00:00",
       "reported": false
+    },
+    {
+      "url": "https://blog.landeconomics.org/p/is-land-supply-fixed-part-1-the-netherlands",
+      "title": "What does \"Land supply is fixed\" really mean?",
+      "source": "lvt-paper-scanner",
+      "reason": "Tier-1 Georgist author whose research page the wiki already carries (research/doucet-does-georgism-work.md \u2014 built from his 'Five Years Later' piece \u2014 plus his ACX series and gameofrent in the registry). The land-reclamation objection is a stock anti-LVT argument and this is the sharpest recent statement of the location-vs-improvement answer, citable wherever the wiki treats fixed land supply or LVT-on-reclaimed-land. Not in registry, consumed array, live queue or triaged file (checked URL, 'is-land-supply-fixed', normalized titles).",
+      "context": "What does 'Land supply is fixed' really mean? \u2014 Lars Doucet, Progress and Poverty (blog.landeconomics.org), 7 Oct 2026. Part 1 of a three-part series answering critics of the fixed-land-supply claim; this installment takes the Netherlands land-reclamation objection ('they made new land!') head on: 'land' in the Georgist/LVT sense means location, and reclaimed polders are improvements applied to previously useless submerged locations \u2014 like buildings, produced assets on non-produced land \u2014 not new land; distinguishes 'non-produced' (supply cannot increase, e.g. dinosaur fossils can be destroyed) from 'fixed in supply', the basis of the no-deadweight-loss case for LVT, and works through how an LVT could treat reclamation value. Series announced: part 2 = land offered to market vs amount existing; part 3 = NIMBY value-reduction. Sibling Part 2 queued in the same batch. Discovered via the 2026-10-14 lvt-paper-scan (EXA surfaced Part 2; Part 1 located via the blog sitemap during triage).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-14T11:08:36.246846+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://blog.landeconomics.org/p/is-land-supply-fixed-part-2-a-parable",
+      "title": "Is land supply fixed? Part 2: A parable of pencils and parcels",
+      "source": "lvt-paper-scanner",
+      "reason": "Tier-1 Georgist author (see Part 1 entry): this installment is the cleanest recent worked contrast of sales vs holding taxes \u2014 directly citable on concepts/deadweight-loss.md and any land-supply/amount-vs-supply treatment, and a natural companion to the existing Gaffney excess-burden and Doucet research pages. Not in registry, consumed array, live queue or triaged file (checked URL, 'is-land-supply-fixed', normalized titles).",
+      "context": "Is land supply fixed? Part 2: A parable of pencils and parcels \u2014 Lars Doucet, Progress and Poverty (blog.landeconomics.org), 13 Oct 2026. Part 2 of the series: meets the Econ 101 'amount offered to market vs amount that exists' critique via a parable applying a sales tax and a holding tax to produced pencils vs non-produced land. Sales taxes drive a wedge between buyer and seller prices (deadweight loss, destroyed marginal production); holding taxes create no wedge, and land \u2014 non-produced, rival, necessary, locational \u2014 is the asset on which a holding tax generates no deadweight loss. Previews Part 3 (NIMBY value-reduction, building up, search costs). Sibling Part 1 queued in the same batch. Discovered via EXA web scan (2026-10-14 lvt-paper-scan, --days 30).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-14T11:08:36.246846+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004",
+      "title": "Does the gas industry pay its fair share of tax?",
+      "source": "lvt-paper-scanner",
+      "reason": "National-broadcaster journalism squarely in the scanner's resource-rent scope. The wiki's PRRT coverage exists (research/australia-mining-royalties-prrt.md and research/nassios-australia-lng-prrt-structural-limits.md, concepts/resource-rents.md) but was built from a business-intelligence source the loop agent itself graded as neither government nor peer-reviewed; this ABC piece is a step up in source tier and carries the 2024-25 revenue figures those pages may lack. URL and '106602004' appear nowhere in registry, consumed array, live queue or the wiki repo (the only abc.net.au citation on the wiki is an unrelated 2023 NSW first-home-buyer piece).",
+      "context": "Does the gas industry pay its fair share of tax? \u2014 Samantha Dick (political reporter), ABC News, 29 Apr 2026. Explainer on Australia's resource-rent framework: PRRT is a 40% profits-based tax on offshore projects that raised only ~$1.3B in 2024-25 against $65B+ LNG export revenue (Chevron's $70B Gorgon made its first PRRT payment only in 2025); corporate tax ~$13.5B with deductions often zeroing it out; state royalties 5-10% of wellhead value; industry claims $21.9B total. Covers the 2026 debate over a flat 25% gas-export tax vs a super-profits tax, the Pocock 'beer excise raises more than PRRT' line, and investment-deterrence evidence from the UK windfall tax. PRIMARY source behind an AI-slop rewrite (kpcomaha.org, auto-dated +07:00 SEO explainer) surfaced by the 2026-10-14 EXA scan and rejected at triage; queued per the slop-remediation rule.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-14T11:08:36.246846+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -5521,7 +5551,7 @@
       "notes": "rejected 2026-10-13 \u2014 SSRN abstract only; the Crossref ORCID is registered under a different name at the same law university, so authorship cannot be established; Tier 2/3. Folded into the BACKLOG India land-ceiling lead."
     }
   ],
-  "last_updated": "2026-10-14T10:06:23Z",
+  "last_updated": "2026-10-14T11:08:36.246846+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 1
+  "total": 4
 }
