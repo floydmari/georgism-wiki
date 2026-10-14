@@ -1,0 +1,275 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=suiU5b9tmoE",
+    "title": "Why 98% of economists support a land value tax",
+    "what_was_fetched": "Watch page fetched with a browser user-agent (title, channel, upload date, view/like counts, full description with its 21-item source list and chapter timestamps); r.jina.ai returned the same page metadata but no transcript. The public timedtext endpoint (including the signed caption-track URL from ytInitialPlayerResponse) returned empty bodies; the English auto-caption transcript was then obtained with yt-dlp (installed in the scratchpad), 205 caption lines, about 3,400 words, covering the whole 21-minute video. The survey the video cites in its description (item 5, kentclarkcenter.org/surveys/land-value-tax/) was fetched in full, including the panelist-by-panelist votes and the poll's embedded result data. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-14/yt_watch.html, yt_description.txt, yt_transcript_suiU5b9tmoE.txt, yt_jina.txt, igm_lvt.html, igm_lvt.txt.",
+    "verdict": "ENRICH concepts/land-value-tax.md, events/detroit-lvt-proposal.md and objections/lvt-not-widely-adopted.md, anchored on the Clark Center (Chicago Booth) Economic Experts Panel poll of 2 November 2023, NOT on the video. REJECT the video itself as a citation (popular, sponsored explainer; Tier 2 at best, grade D). Optional: one general-audience listing line on research/georgism-video-explainers.md, flagged as an explainer and not evidence. The enrichment must also correct the video's framing: the poll does not show that 98% of economists support a land value tax.",
+    "claim_grade": "Video: D-claim, Tier 2 (educational channel; host is a credentialed economist but the piece is a commercial, Economist-sponsored explainer, not peer-reviewed, and its headline number is misdescribed). Clark Center poll: B-claim for 'what a panel of prominent US economists said', Tier 1 (University of Chicago Booth's Kent A. Clark Center for Global Markets; panelists are named, tenured academics). It is evidence of expert opinion on one narrow question, not evidence of LVT effects.",
+    "content_summary": {
+      "channel_and_presenter": "Channel: Money & Macro (youtube.com/@MoneyMacro, channel ID UCCKpicnIwBP3VPxBAZWDeNA), 678K subscribers per the page. Posted 8 October 2026 (YouTube uploadDate 2026-10-08T05:30 PDT), runtime 21:13; 257,756 views and 4,653 likes when fetched on 14 October 2026 (the queue's '249K' and '9 October' are slightly stale/off). Description credit: 'Written and researched by Dr. Joeri Schasfoort and Dr. Alejandro Iribas De La Puerta; edited by Natalia Karpacz'. The on-screen host speaks in the first person ('in our research', 'I did see...' in Seoul). Schasfoort is an economist associated with the University of Groningen (agent-based macro modelling; a 2017 Advances in Complex Systems paper per RePEc/INET listings); whether his PhD is completed was not confirmed from an official profile, though the channel styles him 'Dr.'. Standing: a credentialed but non-specialist (not a public-finance or land-economics scholar) popular educator. The video is sponsored by The Economist (the description and the final 90 seconds are an ad read).",
+      "what_98_percent_refers_to": "The video says (00:00:58-00:01:11, auto-caption): 'according to a University of Chicago survey, 98% of economists that had an opinion on the matter agreed that a land value tax would be a great idea.' It does not name the survey on screen or in prose, but source 5 in the description is kentclarkcenter.org/surveys/land-value-tax/, i.e. the IGM/Clark Center Economic Experts Panel poll 'Land Value Tax', dated 2 November 2023. The poll statement (paraphrased; verbatim is 51 words): shifting municipal property tax from buildings towards land, as in Detroit's plan, will enhance owners' incentives to develop and thereby give a substantial boost to local economic growth over a ten-year horizon.",
+      "poll_figures_from_primary": "Panel: 41 US panelists. Raw votes tallied from the panelist list on the page: Strongly agree 3, Agree 19, Uncertain 7, Disagree 1 (Richard Thaler), No opinion 1 (David Autor), Did not answer 10. Raw percentages in the page data: 7.3 / 46.3 / 17.1 / 2.4 / 0 / 2.4 / 24.4 of the 41. Confidence-weighted (the Clark Center's headline chart): Strongly agree 13%, Agree 70%, Uncertain 14%, Disagree 2%, Strongly disagree 0% (page data array weightedPV7634_0). Reconstruction (T0 inference, not stated by either source): '98%' is most plausibly 100% minus the 2% weighted 'Disagree', i.e. the share of confidence-weighted votes that did NOT disagree, which includes the 14% 'Uncertain'. Weighted agreement is about 83%; among panelists casting any substantive vote (30), 22 agree (73%); excluding 'Uncertain', 22 of 23 agree (96%). Qualifying comments on the page: Thaler (the lone Disagree) says 'substantial' overstates the effect because land's market value in Detroit is low; Schmalensee 'agree with the direction of the effect but choke on \"substantial\"'; Duffie 'Directionally, yes'; Acemoglu 'More generally, Georgist ideas may be worth revisiting.' (all page comments, short). The video's other named supporters (Friedman, Stiglitz, Krugman) are not among the 41 panelists, so the poll does not document their views; Friedman's 'least bad tax' is already carried on concepts/land-value-tax.md from a primary.",
+      "what_the_video_otherwise_says": "Standard explainer content: Henry George history, land fixed so no deadweight loss, split-rate shift cuts building tax and raises land tax, Cincinnati modelling by the Center for Land Economics (Tier 2 partner), Pittsburgh/Denmark/Estonia/Australian states, Kentucky and Virginia 2026 enabling laws (already covered at events/2026-state-lvt-enablement-wave.md), 1910 People's Budget valuation problem, Korea representative-plots method, and the host's own conclusion that LVT 'can absolutely help' but is not a magic bullet without zoning reform and public housing. Nothing here is a new primary finding. The video explicitly says (about 00:12:36-00:13:11) that the empirical studies of LVT are thin and 'suffer from a lack of reliable data', which is consistent with the wiki's cautious grading.",
+      "suggested_enrichment_sentences": [
+        "concepts/land-value-tax.md (new short paragraph under or after 'Friedman's Endorsement'): 'In a November 2023 poll of the Clark Center's US Economic Experts Panel at Chicago Booth, 22 of 41 panelists agreed or strongly agreed that shifting municipal property tax from buildings to land, as in Detroit's plan, would substantially boost local growth over ten years; 7 were uncertain, 1 disagreed, 1 had no opinion and 10 did not respond. Weighted by confidence, 83% agreed, 14% were uncertain and 2% disagreed; several agreeing panelists questioned the word 'substantial'.' (B-claim; cite the Clark Center page; state that the counts are tallied from the published panelist votes.)",
+        "events/detroit-lvt-proposal.md (Rationale or Status): one sentence that the plan prompted the expert poll above, noting the question asked about the growth-incentive effect of the split-rate shift, not about LVT in general.",
+        "objections/lvt-not-widely-adopted.md (The Objection or Net Assessment): qualify the unreferenced 'rare policy \"all economists agree on\"' phrasing with the poll: expert support is broad but not unanimous and was measured on a narrow question; popular claims of '98% of economists' overstate it (the figure appears to be the confidence-weighted share not disagreeing)."
+      ]
+    },
+    "existing_wiki_coverage": "Corpus digest and greps (case-sensitive 'IGM', 'Clark Center', 'kentclarkcenter', 'igmchicago') find NO wiki page citing the IGM/Clark Center panel or any economist-survey result; sources/registry.csv has no row for it. Related existing coverage: concepts/land-value-tax.md 'Friedman's Endorsement' (1978 Times Herald interview, 'least bad tax', sourced to the School of Cooperative Individualism transcription); research/modern-georgism-respected-economists.md (Progress and Poverty Substack roll-call, Tier 2 compilation of Friedman/Stiglitz/Krugman, no survey data); objections/lvt-not-widely-adopted.md (asserts 'the rare policy \"all economists agree on\"' with no citation); events/detroit-lvt-proposal.md (legislative history only, no expert-opinion material); concepts/land-value-tax.md has no survey passage. Money & Macro / Schasfoort appear nowhere in the wiki. research/georgism-video-explainers.md lists general-audience videos 'cited as such, not as evidence' and does not include this one. Kentucky/Virginia enablement is covered at events/2026-state-lvt-enablement-wave.md.",
+    "uncertainties": [
+      "The derivation of '98%' is inferred (weighted 'did not disagree'); neither the video nor the Clark Center states it. The poll page's rendered chart could not be viewed, only its embedded data arrays; the weighted percentages sum to 99 through rounding.",
+      "Only the November 2023 US-panel poll was checked. Whether the Clark Center or its European panel ran any other land-tax question was not searched exhaustively; a site search of kentclarkcenter.org for 'land' or 'property tax' is worth one T1 minute.",
+      "Schasfoort's doctoral status and current affiliation were not confirmed from an official university page (third-party listings only).",
+      "The three Economist articles named in the description (2014, 2018, 2023) are paywalled and were not read; they are not needed for the verdict.",
+      "Transcript is YouTube auto-captioning (minor mis-transcriptions possible); quotes above are lightly cleaned and kept under 50 words."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://kentclarkcenter.org/surveys/land-value-tax/",
+        "note": "Tier 1 primary: Clark Center Economic Experts Panel poll 'Land Value Tax', 2 Nov 2023, 41 named panelists with votes, confidence weights and comments; the survey the video actually relies on. Fetched in full."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=suiU5b9tmoE",
+        "note": "Tier 2 explainer; usable only as an optional listing on research/georgism-video-explainers.md, never as evidence."
+      }
+    ],
+    "suggested_inbound_links": [
+      "concepts/land-value-tax.md",
+      "events/detroit-lvt-proposal.md",
+      "objections/lvt-not-widely-adopted.md",
+      "research/modern-georgism-respected-economists.md (See Also: a primary survey versus the roll-call)",
+      "research/georgism-video-explainers.md (optional listing)"
+    ]
+  },
+  {
+    "url": "https://blog.landeconomics.org/p/is-land-supply-fixed-part-2-a-parable",
+    "title": "Is land supply fixed? Part 2: A parable of pencils and parcels",
+    "what_was_fetched": "Full post text fetched with a browser user-agent (about 2,340 words including two reader comments); publication timestamp 2026-10-13T13:01:42Z in the page metadata. The blog is now hosted at blog.landeconomics.org under the Center for Land Economics (page footer: 'Center for Land Economics'). The post's one empirical link (German real estate transfer tax welfare cost) was followed and its ifo/CESifo abstract page fetched. Syndicated Part 1 on progress.org was fetched (title confirmed: 'Is land supply fixed? Part 1: The Netherlands and land reclamation'). Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-14/doucet_part2.html, doucet_part2.txt, ifo_rett.html, pp_part1.html.",
+    "verdict": "ENRICH, as attributed Tier 2 proponent argument only: (1) concepts/deadweight-loss.md, a short new paragraph on the 'amount offered versus amount in existence' objection (Doucet as proponent) plus the Tier 1 transfer-tax comparator Büttner (2017); (2) concepts/land-value-tax.md 'Why Land Supply Is Inelastic', one hedging sentence; (3) research/doucet-does-georgism-work.md, a 'Related series (2026)' sentence and Sources entry. Do NOT create a separate series page yet: DEFER any NEW research page on the three-part 'Is land supply fixed?' series until Part 3 (NIMBY value-reduction, building up, search and entitlement costs) appears around 20 October 2026, then assess a single page with Part 1 (progress.org URL) and Parts 2-3. Correct the queue's description of Doucet as 'Tier-1 Georgist author': he is Tier 2 (sources/audit/people-tiers.json), so he is cited as origin/proponent, never as support.",
+    "claim_grade": "D-claim (interpretive/argumentative, with C-claim theoretical content), Tier 2 practitioner-author and movement-institute blog. The wedge result itself is standard public-finance theory (C-claim) that has Tier 1 backing already on the wiki (Mirrlees Review at concepts/deadweight-loss.md source 1; Cao et al. 2015); what is Doucet's is the framing and the pencils/parcels contrast.",
+    "content_summary": {
+      "the_argument": "Target: a critique that LVT advocates conflate the amount of land that exists with the amount offered to the market, and that Econ 101 sales-tax analysis shows the offered amount falls under a tax. Method: apply two taxes, a sales tax (10% of pre-tax selling price) and a holding tax (a recurring annual tax on the market value of every unit that exists, assumed as easy to observe as land), to a produced asset (pencils) and a non-produced asset (land). Pencils, sales tax: buyer pays $1.10, seller gets $1.00, a 'wedge'; deadweight loss from forgone trades; existing stock sells through more slowly; marginal producers exit, so future stock shrinks. Pencils, holding tax: no wedge (buyer and seller trade at the same, lower price); the tax is capitalised once into a lower price borne by whoever holds the asset at enactment; holders offload or destroy pencils they do not need, so the amount OFFERED rises; low-margin producers still exit, so the long-run stock falls; hence 'Both taxes introduce deadweight loss through the loss of future production' but only the sales tax adds a wedge. Land, sales tax (a transfer tax / stamp duty): same wedge and less offered, 'significant deadweight loss, even though land is non-produced and its supply is fixed'; he cites a German estimate of 67 euro cents of deadweight loss per 100 raised (linked: CESifo Working Paper 6321). Land, holding tax: no wedge; amount offered increases because the liability bites 'no matter what is done with the land or who owns it'; idle holders of valuable land face the strongest incentive to sell; unlike pencils nobody can destroy land, so 'Who holds land changes, but not whether it's held', making reallocation neutral at worst and beneficial when land moves from idle speculators to users; capitalisation into a lower price is a one-time loss to the holder at announcement. Concession: 'Critics are right to point out that the Econ 101 textbook supply curve refers to the amount offered for sale', but 'land value tax is not a sales tax, but a holding tax'. Caveat he states: untaxing buildings raises land prices and may offset the capitalisation effect of a higher land tax, 'beyond the scope of this article'; holding taxes 'are not magical' and can still be destructive on produced assets.",
+      "role_of_non_produced_rival_necessary_locational": "'Non-produced' is the efficiency hinge: it removes the production margin, so neither stock nor future supply responds to either tax. 'Rival', 'necessary' and 'locational' are not used in the wedge argument; they are the stated reasons (alongside 'others') why LVT advocates single out this holding tax: a rival asset (one person's ownership excludes another), a necessary asset (everyone must access it to exist) and a locational asset that 'passively obtains value from the labor and investment of its neighbors'. They carry the fairness/justification case, not the zero-deadweight-loss case.",
+      "quotes": [
+        {
+          "locator": "section 'Pencils vs. Parcels', first paragraph",
+          "text": "Pencils are produced, and land is non-produced.",
+          "words": 7
+        },
+        {
+          "locator": "section 'Holding tax on pencils', second paragraph",
+          "text": "a holding tax on pencils does not produce a wedge the way a sales tax does",
+          "words": 14
+        },
+        {
+          "locator": "section 'Holding taxes on land', third paragraph",
+          "text": "Who holds land changes, but not whether it's held.",
+          "words": 9
+        },
+        {
+          "locator": "section 'The supply of land is fixed', first paragraph",
+          "text": "land value tax is not a sales tax, but a holding tax",
+          "words": 11
+        },
+        {
+          "locator": "section 'The supply of land is fixed', second paragraph",
+          "text": "it is a rival asset where one person's ownership means another's exclusion, a necessary asset that everyone must access simply to exist, and a locational asset which passively obtains value from the labor and investment of its neighbors",
+          "words": 38
+        }
+      ],
+      "series_context": "Part 1 (reclamation / Netherlands) argued that reclaimed land is an improvement on previously useless submerged land and that LVT advocates mean 'location'; Part 3 will address the value-versus-amount dispute (owners lowering land value to cut tax, e.g. NIMBYism or dumping waste, building up, search and entitlement costs). Reader comments on the page (two visible) are not citable; one notes that deadweight loss does not by itself imply value destruction if government money is worth more than private money.",
+      "what_it_adds_beyond_existing_pages": "concepts/deadweight-loss.md states the zero-deadweight-loss result as a consequence of fixed supply and never states or answers the 'amount offered versus amount in existence' objection; it says 'its quantity is fixed regardless of price' without distinguishing the stock from the quantity offered. The post supplies (a) a plain statement of that objection, (b) the concession that the offered quantity responds to price, (c) the rejoinder that the result rests on the tax being a holding tax with no wedge, not on supply elasticity of offered units, and (d) a worked sales-tax versus holding-tax contrast. It adds no new empirical evidence and no new theorem; it is a pedagogical restatement of standard wedge logic by a Tier 2 proponent. The only data point, the German transfer-tax estimate (Büttner, CESifo WP 6321, 2017, abstract: 'about 67 cents' of additional deadweight loss per extra euro of revenue), is a Tier 1 comparator that the wiki lacks and that pairs naturally with the Treasury/Cao et al. 72 cents for conveyancing stamp duty already on concepts/deadweight-loss.md.",
+      "suggested_enrichment_sentences": [
+        "concepts/deadweight-loss.md (new paragraph after 'Why Land Value Tax Has Zero Deadweight Loss', under an attributed heading such as 'The \"Amount Offered\" Objection'): 'A common objection is that the relevant supply in textbook tax analysis is the quantity offered for sale, not the quantity in existence, and that the offered quantity does respond to price and to taxes. The practitioner-author and proponent Lars Doucet (2026) accepts the premise but argues it does not reach a recurring tax on holding land: a sales or transfer tax opens a wedge between buyer's and seller's prices and reduces the amount offered, whereas a holding tax opens no wedge and, he argues, increases the amount offered, because land cannot be destroyed and can only change hands.' (Cite the post as origin/proponent only; D-claim.)",
+        "concepts/deadweight-loss.md ('The Excess Burden of the Current Tax System', next to Cao et al.): 'A German study of state transfer-tax increases estimates that each additional euro of real estate transfer tax revenue carried about 67 cents of additional deadweight loss (Büttner 2017).' (B-claim, working paper; cite CESifo WP 6321. Confirm author and sample from the PDF before publishing; the abstract page fetched does not list the author.)",
+        "concepts/land-value-tax.md ('Why Land Supply Is Inelastic', one sentence): 'Critics note that what is offered for sale can vary even though the stock of land cannot; proponents reply that a recurring holding tax, unlike a transfer tax, creates no price wedge on the units offered.' Link to deadweight-loss for the attribution.",
+        "research/doucet-does-georgism-work.md ('Five Years Later' or a new 'Related series (2026)' line): 'In October 2026 Doucet began a three-part series on the Center for Land Economics blog, \"Is land supply fixed?\", whose Part 1 (syndicated on progress.org) treats land reclamation and whose Part 2 contrasts sales and holding taxes on pencils and parcels.' Sources entry: Tier 2, D-claim, cite progress.org for Part 1 and the Substack for Part 2."
+      ]
+    },
+    "existing_wiki_coverage": "Searched: grep of concepts/objections/research/benefits/problems/narratives for 'land supply', 'supply of land', 'fixed supply', 'perfectly inelastic', 'amount offered', 'reclaim', plus the digest. No page states or answers the 'offered versus existing' objection or cites the series. concepts/deadweight-loss.md (last_reviewed 2026-07-16): zero-deadweight-loss section rests on 'perfectly inelastic' land supply; carries Smith 1776, Pigou 1920, the Gaffney 2005 attributed critique of Harberger-triangle measurement, Gross & Klein 2026, and Cao et al. 2015 (marginal excess burden: stamp duty 72 cents, company tax about 50, flat labour tax 21, broad land tax minus 10) plus Dobes et al.; no transfer-tax study outside Australia and no mention of the Büttner RETT paper (the wiki's research/buettner-german-land-tax-capitalization.md is a different Büttner paper). concepts/land-value-tax.md 'Why Land Supply Is Inelastic' (lines 22-24): states inelasticity flatly, in two sentences, with no objection or reply. research/gaffney-excess-burden-shiftable-taxes.md: Gaffney's alternative excess-burden metric (land-use shifting), attributed. research/doucet-does-georgism-work.md: Parts 1-3 of the 2021-22 ACX series and the September 2026 'Five Years Later' post (Tier 2, navigation source); no mention of the 2026 land-supply series. people/lars-doucet.md and organizations/center-for-land-economics.md exist. objections/laffer-curve-applies-to-lvt.md and objections/land-is-just-capital.md rely on fixed supply without the offered-quantity distinction. The syndicated Part 1 (https://www.progress.org/articles/is-land-supply-fixed-part-1-the-netherlands-and-land-reclamation/) is cited nowhere on the wiki; the only occurrence of the series' URLs in the repository is sources/wiki-queue.json. The Netherlands/reclamation topic has no coverage (grep 'land reclamation', 'polder': only an unrelated Dutch polder-maintenance exemption on research/lincoln-institute-past-forward-property-tax-history.md).",
+    "uncertainties": [
+      "Part 3 is unpublished, so the series' answer to the value-versus-amount dispute (the objection that owners can lower land value to cut tax) is unknown; no verdict on the series as a whole should be final.",
+      "The post's claim that a holding tax increases the amount offered is a theoretical prediction; it is not tested against data in the post, and in practice assessment error or taxes that fall partly on improvements (ordinary property tax) can reintroduce margins Doucet's stylised holding tax assumes away.",
+      "Büttner (2017) author attribution comes from a search of RePEc/CESifo listings, not from the fetched ifo abstract page; the 67-cent figure and wording are from that fetched abstract. The post says 'real estate transfer taxes in Germany' and the paper's preferred estimate is a marginal figure (per additional euro), which the post paraphrases as 'for every 100 raised'.",
+      "The post's date is 13 October 2026 (page metadata) and the blog URL domain differs from the queue's older Substack naming; the same text may also be available at progressandpoverty.substack.com. The wiki's other 2026 Doucet pieces cite blog.landeconomics.org.",
+      "Whether T1 wants a series page after Part 3 is an editorial call; the delta rule used elsewhere (no new page for a restatement without new evidence) argues for ENRICH only."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://www.ifo.de/en/cesifo/publications/2017/working-paper/welfare-cost-real-estate-transfer-tax",
+        "note": "Tier 1 (academic working paper, CESifo WP 6321, 2017, Thiess Büttner per RePEc): preferred estimate about 67 cents additional deadweight loss per extra euro of German real estate transfer tax revenue; abstract fetched, PDF not read."
+      },
+      {
+        "url": "https://www.progress.org/articles/is-land-supply-fixed-part-1-the-netherlands-and-land-reclamation/",
+        "note": "Tier 2 (Doucet, syndicated on progress.org since 11 Oct 2026): Part 1 on reclamation; cite this URL for Part 1, not the Substack original. Page fetched (title confirmed), body not summarised."
+      },
+      {
+        "url": "https://blog.landeconomics.org/p/is-land-supply-fixed-part-2-a-parable",
+        "note": "Tier 2 (Doucet, 13 Oct 2026): the parable; fetched in full."
+      }
+    ],
+    "suggested_inbound_links": [
+      "concepts/deadweight-loss.md",
+      "concepts/land-value-tax.md",
+      "research/doucet-does-georgism-work.md",
+      "people/lars-doucet.md",
+      "organizations/center-for-land-economics.md (series mention)",
+      "objections/laffer-curve-applies-to-lvt.md (See Also, optional)"
+    ]
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004",
+    "title": "Does the gas industry pay its fair share of tax?",
+    "what_was_fetched": "Full article text fetched with a browser user-agent (Samantha Dick, political reporter, ABC News, 29 April 2026; about 1,500 words). Primaries then located and fetched: ATO PRRT transparency pages for 2022-23, 2023-24 and 2024-25 (direct fetch returned Akamai 'Access Denied'; r.jina.ai succeeded), ATO PRRT deductions-cap, new-legislation and updates pages (r.jina.ai); Budget Paper No. 1 2026-27 Statement 5 PDF and Budget Paper No. 2 (budget.gov.au, direct, parsed locally with pdftotext); DISR Resources and Energy Quarterly December 2025 (r.jina.ai); the Senate Select Committee on the Taxation of Gas Resources report, chapter 1 and the Greens', Labor, Coalition and Pocock additional comments (aph.gov.au, direct); the Senate Economics Committee chapter on the 2023 PRRT bill (r.jina.ai). Saved under /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-14/: abc_gas.html, abc_gas.txt, ato_prrt_2022-23.jina.txt, ato_prrt_2023-24.jina.txt, ato_prrt_2024-25.jina.txt, ato_cap.txt, ato_newleg.txt, ato_updates.txt, budget/bp1_bs5.pdf and bp1_bs5.txt, budget/bp2.pdf, req_resources-and-energy-quarterly-december-2025.txt, aph_ch1.txt, aph_pocock.txt, aph_Labor_Senators_Additional_Comments.txt, aph_Australian_Greens_Additional_Comments.txt, aph_Coalition_Senators_Additional_Comments.txt, aph_ch3_prrt.txt.",
+    "verdict": "ENRICH research/australia-mining-royalties-prrt.md (primary target; it needs a factual correction and a primary-source upgrade regardless), with one-sentence cross-wiring on concepts/resource-rents.md and places/australia.md, and a reconciliation note on research/nassios-australia-lng-prrt-structural-limits.md. Anchor every figure on the ATO, Budget Paper No. 1 2026-27, the DISR Office of the Chief Economist and the Senate select committee report; cite the ABC article only as the reporting source for the 2026 debate and for industry claims attributed to Australian Energy Producers. A separate NEW page (events/2026-australia-gas-export-tax-debate, with inbound links from australia-mining-royalties-prrt, resource-rents, places/australia and the Nassios page) is defensible because the Senate committee report is a rich Tier 1 record, but is not needed to fix the existing page; offer it to T1 as an option, not the verdict.",
+    "claim_grade": "B-claim for the article (serious national-broadcaster journalism, Tier 1 for reported facts, but most figures are industry- or think-tank-attributed and should be re-anchored). The ATO, Treasury Budget Paper and DISR figures below are A-claims (official primaries, Tier 1). Think-tank and industry numbers (Australia Institute, Future Group/Arthur D. Little, Superpower Institute, AEP) are Tier 2 and carried only as the proponents' own.",
+    "content_summary": {
+      "article_figures_and_attribution": [
+        {
+          "figure": "PRRT: profits-based Commonwealth tax on offshore oil and gas at 40%; 'Labor amended the tax in 2024'",
+          "attributed_to": "article's own description; Deakin law professor Samantha Hepburn on uplift provisions",
+          "primary_check": "40% rate and 2023 deductions cap confirmed (ATO). Amendment enacted in 2024 but applies from 1 July 2023."
+        },
+        {
+          "figure": "PRRT raised about $1.3bn in 2024-25 'a year when LNG export revenues exceeded $65bn'",
+          "attributed_to": "unattributed in the article; $1.3bn matches Australian Energy Producers' own $1.3bn",
+          "primary_check": "Budget Paper No. 1 2026-27 Table 5.7 actual cash receipts 2024-25: $1,420m. ATO transparency: PRRT payable 2024-25 $1.87bn (21 entities). LNG export earnings 2024-25: $65bn (DISR REQ Dec 2025). So the article's $1.3bn is below both official measures."
+        },
+        {
+          "figure": "PRRT 'forecast to raise about $2 billion' this financial year (2025-26)",
+          "attributed_to": "unattributed; article predates the 12 May 2026 Budget",
+          "primary_check": "Budget 2026-27 Table 5.7: $1,400m for 2025-26 (cash), $1,900m 2026-27, $1,750m, $1,550m, $1,250m in 2029-30. MYEFO 2025-26 cash $1,500m (accrual $1,820m, BP1 Table 5.9), the likely basis for 'about $2bn'. The article's number is not in the Budget."
+        },
+        {
+          "figure": "Chevron's Gorgon (about $70bn to build, production from 2016) made its first PRRT payment in 2025",
+          "attributed_to": "article (supplied Chevron photo)",
+          "primary_check": "Not confirmed from a primary. The Greens' additional comments (committee report) say Chevron paid $0 PRRT in 2023-24 on $26.9bn of income, consistent with a later first payment. ATO 2024-25 page attributes rising payer numbers to the deductions cap."
+        },
+        {
+          "figure": "Corporate tax about $13.5bn (2024-25); PRRT $1.3bn; royalties $6.6bn; other taxes $492m; total 'nearly $22bn' / $21.9bn",
+          "attributed_to": "Australian Energy Producers (AEP), the industry peak body",
+          "primary_check": "Components sum to $21.89bn. Not an official figure. Coalition and Labor committee comments cite ATO transparency data of $10.4bn oil-and-gas corporate tax for 2023-24. Pocock's additional comments say a Parliamentary Library reconciliation of ATO data, budget papers and reported state royalties gives $15.165bn in tax, excise and royalties in 2023-24 against AEP's $21.5bn for the same year (second-hand via Pocock; Library paper not located)."
+        },
+        {
+          "figure": "Santos and Ichthys LNG paid zero corporate tax in 2023-24",
+          "attributed_to": "ATO data per the article",
+          "primary_check": "ATO Corporate Tax Transparency Report 2023-24 (entity-level; not independently re-pulled)."
+        },
+        {
+          "figure": "State royalties typically 5-10% of wellhead value; Queensland plus WA petroleum and gas royalties $3.7bn in 2022-23; LNG exports $36bn (Qld) and about $56bn (WA) in 2022-23",
+          "attributed_to": "Australia Institute modelling (think tank)",
+          "primary_check": "Not checked against state budget papers. Royalties not paid on offshore projects (article); Australia Institute also says 56% of LNG exported is royalty-free (cited in Pocock's comments)."
+        },
+        {
+          "figure": "Flat 25% tax on gas exports or a super profits tax; Pocock: federal government raises more from beer excise than PRRT",
+          "attributed_to": "advocates; Senator David Pocock",
+          "primary_check": "25% levy is the headline proposal of the Greens and Pocock additional comments to the Senate committee report. No Parliamentary Budget Office costing was found in the committee documents or searches; revenue estimates ($17bn a year, $80-120bn over ten years) come from Arthur D. Little for Future Group and from the Australia Institute."
+        },
+        {
+          "figure": "PM killed off gas-tax moves ahead of next month's Budget; Ken Henry says under-taxed resources hollowed out the economy; Kristen Sobeck (Canberra) says a super-profits tax should have little investment impact; AIG's Tennant Reid on the UK windfall tax and Hepburn on long-term contracts; AEP CEO Samantha McCulloch: higher taxes make Australia 'uninvestable'",
+          "attributed_to": "named people in the article",
+          "primary_check": "Budget Paper No. 2 2026-27 contains no PRRT or gas export tax measure (searched). Henry's views are in his Submission 8 and Hansard 21 April 2026 as quoted in the committee comments."
+        }
+      ],
+      "tier1_primaries_found": [
+        "ATO Corporate Tax Transparency, PRRT data: payable $1,996.6m (2021-22), $1,867.1m (2022-23, 11 entities), $1,483.3m (2023-24, 16 entities), $1.87bn (2024-25, 21 entities; +26.3%, +$389.6m on the prior year, 'mainly driven by' entities paying under the deductions cap; page published 1 October 2026).",
+        "ATO PRRT deductions cap: entity 'taken to have a taxable profit of 10% of the assessable receipts' where the cap applies (qualifying LNG projects, excluded for the first financial year of receipts and the following 7); 'applies from 1 July 2023'; the instalment regime for the cap applies from years beginning on or after 1 July 2024. ATO new-legislation page: enacted as Schedule 5 of the Treasury Laws Amendment (Tax Accountability and Fairness) Act 2024, taking effect 1 July 2023; deductions limited to 90% of assessable receipts per project interest; disallowed amounts carried forward and uplifted at the long-term bond rate; purpose 'bring forward PRRT receipts from LNG projects'.",
+        "Budget Paper No. 1 2026-27 (12 May 2026), Statement 5, Table 5.7 cash receipts: PRRT $1,420m (2024-25 actual), $1,400m (2025-26), $1,900m (2026-27), $1,750m, $1,550m, $1,250m (2029-30); text: revised up $400m in 2026-27 and $1.6bn over 2025-26 to 2029-30 since MYEFO because of the Middle East conflict oil price and volumes; Table 5.5 shows the 2025-26 figure revised down $100m from MYEFO ($1,500m to $1,400m).",
+        "DISR Office of the Chief Economist, Resources and Energy Quarterly December 2025: LNG export earnings forecast to fall from $65bn in 2024-25 to $47bn by 2026-27.",
+        "Senate Select Committee on the Taxation of Gas Resources (established 30 March 2026; report due 7 May 2026): chapter 1 records over 230 submissions and three hearings (21, 22, 24 April 2026), found that lack of timely, transparent entity-level data makes revenue, profits and PRRT liabilities hard to assess, and could not agree recommendations (views in additional comments). ATO evidence to the committee (Assistant Commissioner Suzie Emery, Hansard 22 April 2026 p.63, quoted via Pocock/Greens comments): carry-forward expenditure of $282.6bn as at 2023-24; total assessable receipts of all PRRT projects $46.18bn in 2023-24 against about $1.5bn PRRT collected (roughly 3%, derived). Treasury evidence (Marty Robinson, 22 April 2026 p.63): with exports under long-term or spot global-price sales, the burden of an export tax 'would be more likely to fall on the producers' (second-hand via committee comments). Labor senators: Recommendation 1 (Treasury or Productivity Commission report on petroleum revenue and tax paid) and 2 (modelling of reform proposals after the Middle East crisis); Treasury forecasts $5.4bn PRRT over four years; combined marginal rate once PRRT bites 54-58%. Coalition senators cite ATO transparency data of $10.4bn oil-and-gas company tax in 2023-24.",
+        "Senate Economics Committee report on the 2023 deductions-cap bill, chapter 3: Treasury officials said the 90% cap guarantees upfront payments and was 'carefully considered' not to deter investment; the committee found it 'strike[s] the right balance'; Australia Institute argued the cap holds revenue steady in nominal terms only. Treasury 2023 Review of PRRT Gas Transfer Pricing Arrangements (7 May 2023) and the 2017 Callaghan Review are cited in the committee comments (not fetched)."
+      ],
+      "comparison_with_existing_pages": [
+        "research/australia-mining-royalties-prrt.md says the 2023 reform 'capped annual deductions at roughly 90% of assessable receipts, effective 1 July 2024'. That date is wrong: the cap applies from 1 July 2023 (ATO); 1 July 2024 is when the cap's instalment regime began, and the legislation passed in 2024 (which is the likely origin of the error and of the ABC's 'amended the tax in 2024'). The sentence also says the reform front-loaded collections 'without raising the total lifetime tax take'; the ATO and Treasury describe it as bringing forward receipts, so this is consistent but unsourced.",
+        "The same page's PRRT mechanics, royalty rates and the 2023/2024 reform rest on kurums.com, a business-intelligence explainer the page itself flags as unverified against ATO/Treasury/state sources (its 'Nuances and Limits' section); the primaries above now verify the 40% rate, the cap, its 10% deemed-profit mechanics and the date, and can replace that source for those claims. Its $282bn carried-forward figure (from Diane Kraal, The Conversation, Aug 2026) is corroborated by the ATO evidence ($282.6bn at 2023-24).",
+        "research/nassios-australia-lng-prrt-structural-limits.md (CoPS WP G-372, 2026) gives PRRT revenue of A$1.5bn (2014) rising to A$2.3bn (2023) and a ~15% capture rate. The ATO payable series puts 2022-23 at $1,867.1m and 2023-24 at $1,483.3m, so the A$2.3bn does not reconcile with ATO payable (possibly a cash-receipts or calendar-year measure; check Nassios's data note). It also predates the 2024-25 jump to $1.87bn and the deductions cap's first full effect; the paper does not mention the cap in the wiki summary, so a one-line update is warranted. Its structural diagnosis (transfer-pricing opacity, uplifted deferral) is consistent with the ATO carry-forward figure and the committee's data-transparency finding.",
+        "research/total-resource-rents-australia.md uses Prosper Australia (Karl Fitzgerald, 2013; Tier 2 advocacy) figures for 2010-11 (PRRT 'effective 3.2%' for Woodside and Santos; $20.2bn EBITDAX base); these are 15 years old and Tier 2, and are now superseded for current PRRT performance by the ATO series. Derived cross-check: 2023-24 PRRT of about $1.5bn on $46.18bn assessable receipts is about 3.2%, a coincidence of ratios rather than a corroboration (different measures)."
+      ],
+      "suggested_enrichment_sentences": [
+        "research/australia-mining-royalties-prrt.md, PRRT section: replace 'effective 1 July 2024' with: 'The deductions cap, enacted in 2024 as Schedule 5 of the Treasury Laws Amendment (Tax Accountability and Fairness) Act 2024, applies from 1 July 2023: for a qualifying LNG project, deductions are limited to 90% of assessable receipts, so the entity is treated as having a taxable profit of 10% of receipts in years when deductions would otherwise cut PRRT to zero; disallowed deductions are carried forward and uplifted at the long-term bond rate.' (A-claim; ATO PRRT deductions-cap and new-legislation pages.)",
+        "same page, new 'Recent revenue' paragraph: 'ATO transparency data show PRRT payable of $1.87 billion in 2024-25 across 21 entities, up 26.3% on 2023-24 ($1,483.3 million, 16 entities) despite lower oil prices, which the ATO attributes mainly to entities paying under the deductions cap. Budget cash receipts differ in timing and measure: $1.42 billion in 2024-25, with $1.4 billion estimated for 2025-26 and $1.9 billion for 2026-27 (Budget Paper No. 1, 2026-27, Table 5.7). LNG export earnings were about $65 billion in 2024-25 (Office of the Chief Economist).' Derived and labelled as such: PRRT is therefore a low single-digit percentage of LNG export earnings, with the caveat that PRRT also covers non-LNG petroleum.' (A-claims; leave the ratio out if T1 does not want a derived number.)",
+        "same page, '2026 Update' (extend the Kraal paragraph): 'A Senate select committee on the taxation of gas resources (March-May 2026) received over 230 submissions but could not agree recommendations; it found that the lack of timely, entity-level data makes PRRT liabilities hard to assess. The Greens and independent senator David Pocock urged a 25% levy on gas export revenue, Labor senators asked Treasury or the Productivity Commission to report and model reform options, and the Coalition senators stressed investment and trading-partner risk. The ATO told the committee that carried-forward PRRT expenditure stood at $282.6 billion at 2023-24. The Budget of 12 May 2026 contained no gas export tax. Revenue estimates for the 25% levy (about $17 billion a year) come from consultancy modelling commissioned by the Future Group and from the Australia Institute, not from the Parliamentary Budget Office or Treasury.' (A-claims for committee/ATO/Budget facts; the $17bn is Tier 2 and attributed.)",
+        "same page, Relation to the Georgist Case (D-claim, analysis): a flat 25% levy on export revenue is a revenue-based, royalty-type instrument rather than a tax on rent; the profit-based alternatives in the debate (a super-profits tax, a full cash-flow tax) are closer to rent taxes. Treasury told the committee that, with exports sold on long-term or global spot prices, the burden of an export levy would more likely fall on producers than on buyers (committee Hansard, quoted in additional comments).",
+        "research/nassios-australia-lng-prrt-structural-limits.md (Nuances and Limits): 'The paper's A$2.3 billion 2023 PRRT figure uses a different measure from the ATO's payable series ($1.87 billion in 2022-23); the ATO series reaches $1.87 billion again in 2024-25 after the deductions cap took effect.' (Check Nassios's data note before publishing.)",
+        "concepts/resource-rents.md (body, a short Australian sentence before the See Also link) and places/australia.md (a one-sentence resource-rent paragraph with link): Australia combines state royalties with a federal 40% profit-based PRRT; see australia-mining-royalties-prrt."
+      ]
+    },
+    "existing_wiki_coverage": "research/australia-mining-royalties-prrt.md (143 lines, tier supplementary, last_reviewed 2026-09-03): state royalty structures, the 40% PRRT, the 2023/24 deductions cap (dated 1 July 2024, see above), the failed MRRT 2012-14, and a 2026 Update from Diane Kraal's The Conversation piece on Richard Denniss's proposed 25% gas export tax (AU$282bn carry-forward, Queensland onshore royalty reintroduction, WA 15% domestic reservation, 2017 Callaghan Review). Its first source is kurums.com (C-claim) and its Nuances section says figures need ATO/Treasury corroboration. No ATO transparency data, Budget figures, LNG export values, Senate committee, Ken Henry, Pocock, AEP or Chevron/Santos/Ichthys. research/nassios-australia-lng-prrt-structural-limits.md (106 lines, tier important, full-text read): transfer-pricing and uplift-deferral mechanisms, A$1.5bn (2014) to A$2.3bn (2023) PRRT against an A$4.6bn to A$18.1bn rent proxy, Norway comparison (22% + 56%), five reform options; no deductions cap and no 2024-25 data. research/total-resource-rents-australia.md: Prosper Australia 2013 (Tier 2) with 2010-11 oil-and-gas figures and a hypothetical 40% EBITDAX tax. concepts/resource-rents.md: no body passage on Australia (only See Also links to the Nassios and royalties pages and a US onshore royalty section). places/australia.md (84 lines): land-tax history and Dwyer; no resource-rent or PRRT passage. concepts/cash-flow-tax.md cites the Callaghan Review and Garnaut & Clunies Ross for the PRRT design. Not on the wiki: the ABC article, the Senate committee, the 2026-27 Budget figures, the ATO transparency data, the DISR REQ, any Parliamentary Budget Office material. LOOPLOG records the Kraal piece as accepted 2026-09-03 and used on the royalties page.",
+    "uncertainties": [
+      "The 'first PRRT payment by Chevron in 2025' and the Santos/Ichthys zero-corporate-tax claims were not re-pulled from the ATO entity-level transparency tables (the 2024-25 PRRT page itself is aggregate-only).",
+      "Three official measures of 2024-25 PRRT disagree because they measure different things: ATO payable $1.87bn, Budget cash receipts $1.42bn, AEP/ABC about $1.3bn. T1 should state the measure each time and not mix them.",
+      "ATO evidence quotes (assessable receipts $46.18bn; carry-forward $282.6bn) were read second-hand in Greens, Labor and Pocock additional comments to the Senate report; Hansard (22 April 2026) and the ATO's answers to questions on notice (received 1 May 2026) were not fetched. Pocock's and the Greens' statements are Tier 3 for their own opinions but reproduce official evidence.",
+      "The Parliamentary Library $15.165bn reconciliation is cited only via Pocock; the Library paper itself was not located, and no Parliamentary Budget Office costing of a 25% export tax was found in any fetched document (searches also returned none). Treat the $17bn a year as an advocacy-commissioned estimate until an official costing is located.",
+      "Several figures in web-search summaries (for example '$108 billion' LNG earnings, and a '2026-27 Budget' 90% cap measure) conflicted with the primaries or conflate the 2023 cap with later budgets; only primary-document readings are used above.",
+      "The Treasury 2023 Review of PRRT Gas Transfer Pricing Arrangements and the Callaghan Review (2017) were not fetched; the August 2024 government statement on implementing reforms is cited in the committee comments only.",
+      "The ABC article is dated 29 April 2026, before the 7 May report and the 12 May Budget, so its forward statements ('next month's budget', 'this financial year') are superseded by the Budget figures above."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2024-25/prrt-data-in-the-corporate-tax-transparency-report-2024-25",
+        "note": "Tier 1: ATO PRRT payable 2024-25 $1.87bn, 21 entities, +26.3% (direct fetch blocked by the ATO's CDN; readable via r.jina.ai)."
+      },
+      {
+        "url": "https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2023-24/prrt-data-in-the-corporate-tax-transparency-report-2023-24",
+        "note": "Tier 1: 2023-24 PRRT payable $1,483.3m, 16 entities; five new payers because of the cap."
+      },
+      {
+        "url": "https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2022-23/prrt-data-in-the-corporate-tax-transparency-report-2022-23",
+        "note": "Tier 1: 2022-23 $1,867.1m, 11 entities; 2021-22 $1,996.6m."
+      },
+      {
+        "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/petroleum-resource-rent-tax/prrt-deductions-cap",
+        "note": "Tier 1: how the cap works (10% deemed taxable profit, exclusions, instalments from 1 July 2024)."
+      },
+      {
+        "url": "https://www.ato.gov.au/about-ato/new-legislation/in-detail/businesses/prrt-government-response-to-the-review-of-the-prrt-gas-transfer-pricing-arrangements",
+        "note": "Tier 1: cap law = Treasury Laws Amendment (Tax Accountability and Fairness) Act 2024, from 1 July 2023, 90% of receipts."
+      },
+      {
+        "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/petroleum-resource-rent-tax/prrt-updates",
+        "note": "Tier 1: 'The PRRT deductions cap applies from 1 July 2023'."
+      },
+      {
+        "url": "https://budget.gov.au/content/bp1/download/bp1_bs-5.pdf",
+        "note": "Tier 1: Budget Paper No. 1 2026-27, Statement 5, Table 5.7 PRRT cash receipts 2024-25 to 2029-30 and the PRRT paragraph; read locally."
+      },
+      {
+        "url": "https://www.industry.gov.au/publications/resources-and-energy-quarterly-december-2025",
+        "note": "Tier 1: DISR Office of the Chief Economist, LNG export earnings $65bn (2024-25) falling to $47bn (2026-27)."
+      },
+      {
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Taxation_of_Gas_Resources/TaxationofGasResources/Report/Chapter_1_-_Report",
+        "note": "Tier 1: Select Committee on the Taxation of Gas Resources, chapter 1 (inquiry facts, data-transparency finding, no agreed recommendations)."
+      },
+      {
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Taxation_of_Gas_Resources/TaxationofGasResources/Report/Australian_Greens_Additional_Comments",
+        "note": "Tier 1 for the reproduced official evidence (ATO, Treasury, DISR Hansard); the senators' conclusions are partisan opinion (Tier 3)."
+      },
+      {
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Taxation_of_Gas_Resources/TaxationofGasResources/Report/Labor_Senators_Additional_Comments",
+        "note": "Same: government-side reading and Recommendations 1-2 (Treasury/Productivity Commission report and modelling)."
+      },
+      {
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Taxation_of_Gas_Resources/TaxationofGasResources/Report/Additional_Comments_from_Senator_David_Pocock",
+        "note": "Opinion (Tier 3) but gives the ATO assessable-receipts evidence, AEP's $21.9bn claim and the Parliamentary Library reconciliation by reference."
+      },
+      {
+        "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/TLABTaxAcctFairness/Report/Chapter_3_-_PRRT_-_Key_issues_and_committee_view",
+        "note": "Tier 1: Senate Economics Committee chapter on the 2023 PRRT deductions-cap bill; Treasury's rationale for the 90% cap."
+      },
+      {
+        "url": "https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004",
+        "note": "Tier 1 for reporting the 2026 debate and quoting AEP, Pocock, Hepburn, Sobeck, Reid and Henry; not for the figures."
+      }
+    ],
+    "suggested_inbound_links": [
+      "research/australia-mining-royalties-prrt.md",
+      "research/nassios-australia-lng-prrt-structural-limits.md",
+      "concepts/resource-rents.md",
+      "places/australia.md",
+      "concepts/cash-flow-tax.md (optional See Also)",
+      "research/total-resource-rents-australia.md (dated-figures note)"
+    ]
+  }
+]

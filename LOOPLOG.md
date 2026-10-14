@@ -5646,3 +5646,27 @@ five pages link in.
 
 Lint 0 errors; inventory 1029 pages, 0 orphans. Ledger: 0 pending, 452 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-14 — the poll behind "98% of economists", a parable of pencils, and what the PRRT raises
+
+Three scanner items, all enrichments, each leading to a Tier 1 primary the wiki lacked. A
+Money & Macro video viewed a quarter of a million times in a week claims 98% of economists
+back a land value tax; the figure traces to the Clark Center's November 2023 expert-panel
+poll on Detroit's split-rate plan, which the wiki had never carried. The land-value-tax page
+gains a section with the exact votes (22 of 41 agree, 7 uncertain, 1 disagree, 10 silent;
+weighted 83/14/2) and the observation that 98% is not stated in the poll and that the
+question was about one city's growth, not LVT in general; the Detroit page and the
+not-widely-adopted objection, which had an uncited "all economists agree" line, carry the
+same record. Doucet's Part 2 parable on sales versus holding taxes answers an objection the
+deadweight-loss page never stated; it now does, with Doucet as Tier 2 origin and Büttner's
+CESifo estimate of 67 cents of deadweight loss per euro of German transfer-tax revenue as
+the anchor. The scanner's "Tier-1 Georgist author" label for Doucet was wrong and is corrected
+in the ledger. The ABC's gas-tax explainer led to the ATO transparency series, Budget Paper 1's
+Table 5.7 and the Senate committee record: the mining-royalties page gains a "What the PRRT
+Raises" section and a corrected cap date (1 July 2023, not 2024), and the Nassios page a note
+that its revenue series does not reconcile with the ATO's. The ABC's $1.3bn PRRT figure, below
+both official measures, was not used; an industry company-tax comparison the brief offered
+could not be verified in the saved committee texts and was dropped.
+
+Lint 0 errors; inventory 1029 pages, 0 orphans. Ledger: 0 pending, 455 consumed. Merged to
+main and Ghost-synced.

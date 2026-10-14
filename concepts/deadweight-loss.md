@@ -35,6 +35,22 @@ The size of the deadweight loss depends on the elasticity of supply and demand. 
 
 The textbook Harberger-triangle formula above carries a further, usually unstated assumption: that every other market in the economy is perfectly competitive and untaxed. [Gross & Klein (2026)](/wiki/gross-klein-partial-equilibrium-welfare-market-power-taxes/) derive an extended formula that adds a term for the average distortion elsewhere in the economy, and show that once a substantial share of other markets already carry taxes or market power, the standard formula can get the direction of the welfare change wrong, not just its size.[5]
 
+### Holding Taxes and Sales Taxes
+
+The objection that a textbook supply curve refers to the amount offered for sale, which does
+respond to price, rather than to the amount that exists, is met by distinguishing two kinds of
+tax. A sales or transfer tax drives a wedge between what the buyer pays and what the seller
+receives, so some trades do not happen. A recurring holding tax on the value of everything that
+exists leaves buyer and seller trading at one price, capitalises into a lower asset price borne
+once by whoever holds the asset at enactment, and if anything raises the amount offered, since
+the liability runs whether or not the asset is used. For a produced good both taxes still cut
+future output by pushing marginal producers out; for land, which can be neither produced nor
+destroyed, the holding tax changes who holds it but not whether it is held. The
+practitioner-author Lars Doucet sets the contrast out as a parable of pencils and parcels,
+conceding that "critics are right to point out that the Econ 101 textbook supply curve refers
+to the amount offered for sale" while insisting that a "land value tax is not a sales tax, but
+a holding tax."[8] The transfer-tax side has its own evidence: Thiess Büttner's estimate for Germany's real estate transfer tax puts the additional welfare cost at about 67 cents per extra euro of revenue, of a piece with the 72-cent Australian stamp-duty figure below.[9]
+
 ## Why Land Value Tax Has Zero Deadweight Loss
 
 Land is unique in being perfectly inelastic in supply: its quantity is fixed regardless of price. No matter how high the tax on land, there will be the same amount of land. There is therefore no quantity of land that is "lost" to the tax; no productive use of land that is forgone because the tax made it unprofitable. The entire incidence of the tax falls on the landowner, with no reduction in the quantity or use of land supplied.
@@ -88,3 +104,5 @@ How these numbers enter public decisions is less tidy. A review of cost-benefit 
 5. Till Gross & Paul Klein (2026), "A New Partial-Equilibrium Approach to Approximating the Welfare Effects of Market Power and Taxes," *Journal of Economic Behavior & Organization* — used for the qualification that the standard formula assumes all other markets are undistorted, and for the finding that this assumption can flip the sign of the estimated welfare change (B-claim: peer-reviewed article, text read from the June 2025 author manuscript; the published pagination was not consulted). [wiki summary](/wiki/gross-klein-partial-equilibrium-welfare-market-power-taxes/)
 6. Liangyue Cao, Amanda Hosking, Michael Kouparitsas, Damian Mullaly, Xavier Rimmer, Qun Shi, Wallace Stark & Sebastian Wende (2015), *Understanding the economy-wide efficiency and incidence of major Australian taxes*, Treasury Working Paper 2015-01, Australian Government, April 2015. [treasury.gov.au](https://treasury.gov.au/publication/understanding-the-economy-wide-efficiency-and-incidence-of-major-australian-taxes) · [PDF](https://treasury.gov.au/sites/default/files/2019-03/TWP2015-01.pdf) — used for the marginal excess burdens of stamp duty (72 cents), company income tax (about 50), flat labour income tax (21) and a broad-based land tax (minus 10, zero without foreign ownership) (A-claim for the published model results; official body; the paper notes its views are the authors').
 7. Leo Dobes, Joanne Leung & George Argyrous (2016), "Appendix 7: Deadweight economic loss caused by raising revenue for projects and programs," in *Social Cost-Benefit Analysis in Australia and New Zealand: The State of Current Practice and What Needs to be Done*, ANU Press, pp. 203–212, DOI 10.22459/SCBAANZ.04.2016. [PDF](https://press-files.anu.edu.au/downloads/press/p345233/pdf/app07.pdf) — used for the default plug-in values in use, Victoria's 1.08 factor, the KPMG Econtech (2010) table of marginal excess burdens as reproduced there, and the authors' critique (B-claim for the tabulated values, reported at second hand from the KPMG Econtech report; C-claim for the critique; peer-reviewed open-access monograph).
+8. Lars Doucet, "Is land supply fixed? Part 2: A parable of pencils and parcels," *Progress and Poverty* (blog.landeconomics.org), 13 October 2026. [blog.landeconomics.org](https://blog.landeconomics.org/p/is-land-supply-fixed-part-2-a-parable) — used for the sales-tax versus holding-tax parable and the two quotations (D-claim; Tier 2 practitioner-author, origin of the argument, not support).
+9. Thiess Büttner (2017), "Welfare Cost of the Real Estate Transfer Tax," CESifo Working Paper No. 6321. [ifo.de](https://www.ifo.de/en/cesifo/publications/2017/working-paper/welfare-cost-real-estate-transfer-tax) — used for the German transfer-tax excess-burden estimate (B-claim; working paper; abstract consulted).

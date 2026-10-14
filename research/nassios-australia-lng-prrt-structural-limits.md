@@ -77,6 +77,7 @@ rent-capture literature already documents.
   specific to PRRT's design; the general lesson (base design matters more than the rate)
   generalizes, but the specific figures do not automatically transfer to other resource-tax
   regimes.
+- **Revenue series differ by measure.** The paper's A$2.3 billion for 2023 does not match the Taxation Office's PRRT-payable series ($1,867 million for 2022–23, $1,483 million for 2023–24) or the Budget's cash receipts; the bases differ (payable by entity, cash receipts, calendar against fiscal years), and the level figures on [Australia's mining tax system](/wiki/australia-mining-royalties-prrt/) use the official series.[2]
 - **The complete 33-page working paper is publicly available**, and the summary above
   rests on the full text rather than the abstract.
 
@@ -104,3 +105,4 @@ rent-capture literature already documents.
    A$4.6bn→A$18.1bn rent-proxy figures, the stylized A$10bn/A$25.9bn uplift example, the
    Norway comparison (22%/56%/~78% rates, Equinor state equity), and the five-option reform
    ranking (A-claim; full text, 33 pages).
+2. Australian Taxation Office, PRRT data in the corporate tax transparency reports for 2022–23 and 2023–24. [ato.gov.au](https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2023-24/prrt-data-in-the-corporate-tax-transparency-report-2023-24) — used for the PRRT-payable figures (A-claim; official body).

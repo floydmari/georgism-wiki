@@ -55,6 +55,22 @@ In 2007, Denmark redrew all municipal boundaries, creating a semi-random shuffli
 
 Asked in a 1978 interview which taxes were least harmful, [Milton Friedman](/wiki/milton-friedman/) answered that "the least bad tax is the property tax on the unimproved value of land, the Henry George argument of many, many years ago."[19] The remark is widely quoted because Friedman opposed most government intervention and had no Georgist commitments, yet still singled out the tax on unimproved land value for its efficiency properties.
 
+## The Economists' Survey
+
+The claim that nearly all economists support a land value tax traces to one poll. In November
+2023 the Clark Center at the University of Chicago Booth School of Business asked its Economic
+Experts Panel whether shifting municipal property taxes from buildings toward land, as in
+Detroit's plan, would enhance owners' incentives to develop and so give a substantial boost to
+local economic growth over ten years. Of the 41 panelists, 22 agreed or strongly agreed, 7
+were uncertain, 1 disagreed, 1 had no opinion and 10 did not answer; weighted by the
+respondents' confidence, 83% agreed, 14% were uncertain and 2% disagreed.[20] The widely
+repeated figure of 98% is not stated in the poll; it matches the confidence-weighted share that
+did not disagree, which counts the uncertain, and the question concerned one city's split-rate
+proposal rather than land value taxation in general. The panel's comments include doubts about
+whether Detroit's vacant land would attract development at any tax rate. A Money & Macro video
+of October 2026, viewed a quarter of a million times in its first week, carried the 98% figure
+to a wide audience without naming the poll on screen.[21]
+
 ## Modern Extensions: Posner & Weyl's COST
 
 Eric Posner and E. Glen Weyl extend George's land tax to all property in *Radical Markets* (2018, Ch. 1). Their **Common Ownership Self-Assessed Tax (COST)** combines LVT with Harberger self-assessment: possessors declare their asset's value, pay an annual tax on it (~7% for typical assets), and must sell to anyone willing to pay the declared price. Unlike George's 100% land-rent tax, the COST sets the rate below full rent to preserve investment incentives, and extends the tax base beyond land to all property — a departure George himself would have resisted, since he distinguished land (natural, taxable) from "artificial capital" (human-made, exempt). See [*Radical Markets* (book page)](/wiki/posner-weyl-radical-markets/).
@@ -158,3 +174,5 @@ Martin Adams makes a contemporary popular case for LVT in [*Land: A New Paradigm
 17. Greg Miller & Lars Doucet, "Property Taxes are Not Land Value Taxes," *Progress and Poverty* (Substack), 2026. [progressandpoverty.substack.com](https://progressandpoverty.substack.com/p/property-taxes-are-not-land-value) — used for the rebuttal of the property-tax-as-LVT equivalence claim and the building-tax net-present-value cost estimates (advocacy-institute source, attributed; B/D-claim).
 18. William Larson (2015), "New Estimates of Value of Land of the United States," BEA Working Paper WP2015-3 (April 3, 2015; also catalogued as BEA Working Paper No. 0120). [BEA landing page](https://www.bea.gov/research/papers/2015/new-estimates-value-land-united-states) · [full-text PDF](https://www.bea.gov/sites/default/files/papers/WP2015-3.pdf) — used for the official US estimate of total land value (~$23 trillion, 2009) that anchors §"Empirical Revenue Estimates" above. [wiki summary](/wiki/larson-us-land-value/)
 19. Milton Friedman, interview, "Milton Friedman Interviewed" (unsigned news story), *The Times Herald*, Norristown, Pennsylvania, December 1, 1978. [Full text reproduced by the School of Cooperative Individualism](https://www.cooperative-individualism.org/the-times-herald_milton-friedman-interviewed-1978-dec.htm) — used for the "least bad tax" quotation in §"Friedman's Endorsement" above; see [Milton Friedman](/wiki/milton-friedman/) (A-claim for the quotation).
+20. Clark Center for Global Markets, University of Chicago Booth School of Business, "Land Value Tax," Economic Experts Panel (US), 2 November 2023. [kentclarkcenter.org](https://kentclarkcenter.org/surveys/land-value-tax/) — used for the question put to the panel, the 41 panelists' votes (3 strongly agree, 19 agree, 7 uncertain, 1 disagree, 1 no opinion, 10 not answering) and the confidence-weighted shares (A-claim; primary survey record).
+21. Money & Macro (written by Joeri Schasfoort and Alejandro Iribas De La Puerta), "Why 98% of economists support a land value tax," YouTube, 8 October 2026. [youtube.com](https://www.youtube.com/watch?v=suiU5b9tmoE) — used only for the fact that the figure was popularised this way and that the poll is linked in the description rather than named on screen (D-claim; Tier 2 explainer, sponsored content).

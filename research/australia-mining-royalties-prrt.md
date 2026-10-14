@@ -46,9 +46,10 @@ after cost deductions and an uplift on carried-forward expenditure — the close
 to a textbook rent tax. Because it only bites after a project has recovered its
 investment plus a threshold return, large LNG developments have historically paid very
 little PRRT in their early years despite substantial export volumes — the flip side of
-being a genuine profits-based rent tax rather than a revenue royalty. A 2023 reform capped
-annual deductions at roughly 90% of assessable receipts, effective 1 July 2024,
-front-loading collections in time without raising the total lifetime tax take.
+being a genuine profits-based rent tax rather than a revenue royalty. A reform enacted in
+2024 capped annual deductions for LNG projects at 90% of assessable receipts with effect
+from 1 July 2023, with instalments from 1 July 2024, front-loading collections in time
+without raising the total lifetime tax take.[6]
 
 ## The Minerals Resource Rent Tax (2012–2014): A Design-Failure Case Study
 
@@ -80,6 +81,12 @@ the rent tax's cost-deduction structure lets a project defer liability indefinit
 notes Western Australia reserves 15% of extracted gas for in-state consumer and business use,
 and that the 2017 Callaghan Review of the PRRT identified the underlying political-economy
 failures but resulted only in "minor tweaks."[2]
+
+## What the PRRT Raises
+
+The Australian Taxation Office's transparency reports put PRRT payable at $1,996.6 million in 2021–22, $1,867.1 million in 2022–23 (11 entities), $1,483.3 million in 2023–24 (16 entities, five of them new payers because of the cap) and $1.87 billion in 2024–25 (21 entities), the last a rise of 26.3% despite lower oil prices, which the Office attributes mainly to taxpayers brought in by the deductions cap.[3][4][5] On the Budget's cash basis receipts were $1,420 million in 2024–25, with estimates of $1,400 million for 2025–26 and $1,900 million for 2026–27, falling to $1,250 million by 2029–30.[7] Against that, the Office of the Chief Economist forecast LNG export earnings of $65 billion in 2024–25, declining to $47 billion by 2026–27.[8]
+
+The gap between export earnings and rent-tax receipts drove a 2026 political debate, reported by the ABC in April: a flat 25% gas-export tax, advanced by economist Richard Denniss and taken up by Senator David Pocock, against a reformed super-profits tax favoured by others; the industry body Australian Energy Producers answered with its own tally of $21.9 billion in taxes and royalties for 2024–25, including $13.5 billion of company tax.[10] Evidence the Taxation Office gave the Senate's select committee, as recorded in the Australian Greens' additional comments, put carry-forward expenditure for gas projects at $282.6 billion as at 2023–24, the stock of deductions that stands between export earnings and rent-tax liability.[9] The Senate Select Committee on the Taxation of Gas Resources could not agree on recommendations, and the Budget of 12 May 2026 contained no gas-export tax.[9][7]
 
 ## Relation to the Georgist Case
 
@@ -141,3 +148,11 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
    domestic gas reservation, and the 2017 Callaghan Review finding (§"2026 Update" above).
    Author is an academic (Monash Business School) writing in a policy-commentary venue, not
    a peer-reviewed journal (B/C-claim).
+3. Australian Taxation Office, "PRRT data in the Corporate tax transparency report 2024–25," 1 October 2026. [ato.gov.au](https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2024-25/prrt-data-in-the-corporate-tax-transparency-report-2024-25) — used for the 2024–25 PRRT payable, entity count and the 26.3% rise (A-claim; official body).
+4. Australian Taxation Office, "PRRT data in the Corporate tax transparency report 2023–24." [ato.gov.au](https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2023-24/prrt-data-in-the-corporate-tax-transparency-report-2023-24) — used for the 2023–24 figures (A-claim; official body).
+5. Australian Taxation Office, "PRRT data in the Corporate tax transparency report 2022–23." [ato.gov.au](https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/in-detail/tax-transparency/corporate-tax-transparency-report-2022-23/prrt-data-in-the-corporate-tax-transparency-report-2022-23) — used for the 2021–22 and 2022–23 figures (A-claim; official body).
+6. Australian Taxation Office, "PRRT deductions cap" and "PRRT: government response to the review of the PRRT gas transfer pricing arrangements." [ato.gov.au](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/petroleum-resource-rent-tax/prrt-deductions-cap) · [ato.gov.au](https://www.ato.gov.au/about-ato/new-legislation/in-detail/businesses/prrt-government-response-to-the-review-of-the-prrt-gas-transfer-pricing-arrangements) — used for the cap's 90% design, its application from 1 July 2023 under the Treasury Laws Amendment (Tax Accountability and Fairness) Act 2024, and instalments from 1 July 2024 (A-claim; official body).
+7. Commonwealth of Australia, *Budget 2026–27, Budget Paper No. 1*, Statement 5, Table 5.7 (general government cash receipts) and the PRRT paragraph. [budget.gov.au](https://budget.gov.au/content/bp1/download/bp1_bs-5.pdf) — used for the 2024–25 actual and 2025–26 to 2029–30 estimates and for the absence of a gas-export tax (A-claim; official body).
+8. Department of Industry, Science and Resources, Office of the Chief Economist, *Resources and Energy Quarterly*, December 2025. [industry.gov.au](https://www.industry.gov.au/publications/resources-and-energy-quarterly-december-2025) — used for LNG export earnings of $65 billion in 2024–25 and the $47 billion forecast for 2026–27 (A-claim; official body).
+9. Senate Select Committee on the Taxation of Gas Resources, *Report*, 2026, chapter 1 and senators' additional comments. [aph.gov.au](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Taxation_of_Gas_Resources/TaxationofGasResources/Report/Chapter_1_-_Report) — used for the committee's failure to agree recommendations and, as recorded in the Australian Greens' additional comments, the Taxation Office's evidence that carry-forward expenditure stood at $282.6 billion as at 2023–24 (A-claim for the committee's own statements; B-claim for the figure relayed in additional comments).
+10. Samantha Dick, "Does the gas industry pay its fair share of tax?", ABC News, 29 April 2026. [abc.net.au](https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004) — used for the shape of the 2026 debate and the industry body's $21.9 billion and $13.5 billion claims as reported (B-claim; national-broadcaster journalism; its $1.3 billion PRRT figure is below both official measures and is not used).

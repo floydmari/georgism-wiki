@@ -32,7 +32,7 @@ dozens of democracies that were free to adopt it, essentially none runs a pure o
 something real — assessment is harder than admitted, the transition too disruptive, the revenue
 too thin — or the [single tax](/wiki/single-tax/) is a perennial economists' daydream that
 founders on contact with reality. A policy the experts love but no electorate keeps should make
-you suspect the experts.
+you suspect the experts. The consensus is also thinner than the phrase suggests: the one systematic poll, the Clark Center's 2023 expert panel on Detroit's split-rate plan, had 22 of 41 panelists agree that it would boost local growth, with 7 uncertain and 10 not answering (see [Land Value Tax](/wiki/land-value-tax/)).[5]
 
 ## The Strongest Form
 
@@ -136,3 +136,4 @@ promise the historical record has not yet been allowed to test.**
    Tallinn (pure land tax since 1993) vs Riga comparison finding higher inner-city density
    and construction under the land-only base, as concrete evidence that the adopted pure
    form works.
+5. Clark Center for Global Markets, University of Chicago Booth School of Business, "Land Value Tax," Economic Experts Panel (US), 2 November 2023. [kentclarkcenter.org](https://kentclarkcenter.org/surveys/land-value-tax/) — used for the question put to the panel, the 41 panelists' votes (3 strongly agree, 19 agree, 7 uncertain, 1 disagree, 1 no opinion, 10 not answering) and the confidence-weighted shares (A-claim; primary survey record).
