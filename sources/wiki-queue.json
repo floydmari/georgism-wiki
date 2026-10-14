@@ -11,21 +11,11 @@
       "reported": false
     },
     {
-      "url": "https://blog.landeconomics.org/p/is-land-supply-fixed-part-1-the-netherlands",
-      "title": "What does \"Land supply is fixed\" really mean?",
-      "source": "lvt-paper-scanner",
-      "reason": "Tier-1 Georgist author whose research page the wiki already carries (research/doucet-does-georgism-work.md \u2014 built from his 'Five Years Later' piece \u2014 plus his ACX series and gameofrent in the registry). The land-reclamation objection is a stock anti-LVT argument and this is the sharpest recent statement of the location-vs-improvement answer, citable wherever the wiki treats fixed land supply or LVT-on-reclaimed-land. Not in registry, consumed array, live queue or triaged file (checked URL, 'is-land-supply-fixed', normalized titles).",
-      "context": "What does 'Land supply is fixed' really mean? \u2014 Lars Doucet, Progress and Poverty (blog.landeconomics.org), 7 Oct 2026. Part 1 of a three-part series answering critics of the fixed-land-supply claim; this installment takes the Netherlands land-reclamation objection ('they made new land!') head on: 'land' in the Georgist/LVT sense means location, and reclaimed polders are improvements applied to previously useless submerged locations \u2014 like buildings, produced assets on non-produced land \u2014 not new land; distinguishes 'non-produced' (supply cannot increase, e.g. dinosaur fossils can be destroyed) from 'fixed in supply', the basis of the no-deadweight-loss case for LVT, and works through how an LVT could treat reclamation value. Series announced: part 2 = land offered to market vs amount existing; part 3 = NIMBY value-reduction. Sibling Part 2 queued in the same batch. Discovered via the 2026-10-14 lvt-paper-scan (EXA surfaced Part 2; Part 1 located via the blog sitemap during triage).",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-10-14T11:08:36.246846+00:00",
-      "reported": false
-    },
-    {
       "url": "https://blog.landeconomics.org/p/is-land-supply-fixed-part-2-a-parable",
       "title": "Is land supply fixed? Part 2: A parable of pencils and parcels",
       "source": "lvt-paper-scanner",
-      "reason": "Tier-1 Georgist author (see Part 1 entry): this installment is the cleanest recent worked contrast of sales vs holding taxes \u2014 directly citable on concepts/deadweight-loss.md and any land-supply/amount-vs-supply treatment, and a natural companion to the existing Gaffney excess-burden and Doucet research pages. Not in registry, consumed array, live queue or triaged file (checked URL, 'is-land-supply-fixed', normalized titles).",
-      "context": "Is land supply fixed? Part 2: A parable of pencils and parcels \u2014 Lars Doucet, Progress and Poverty (blog.landeconomics.org), 13 Oct 2026. Part 2 of the series: meets the Econ 101 'amount offered to market vs amount that exists' critique via a parable applying a sales tax and a holding tax to produced pencils vs non-produced land. Sales taxes drive a wedge between buyer and seller prices (deadweight loss, destroyed marginal production); holding taxes create no wedge, and land \u2014 non-produced, rival, necessary, locational \u2014 is the asset on which a holding tax generates no deadweight loss. Previews Part 3 (NIMBY value-reduction, building up, search costs). Sibling Part 1 queued in the same batch. Discovered via EXA web scan (2026-10-14 lvt-paper-scan, --days 30).",
+      "reason": "Tier-1 Georgist author (see Part 1 entry): this installment is the cleanest recent worked contrast of sales vs holding taxes \u2014 directly citable on concepts/deadweight-loss.md and any land-supply/amount-vs-supply treatment, and a natural companion to the existing Gaffney excess-burden and Doucet research pages. Not in registry, consumed array, live queue or triaged file (checked URL, 'is-land-supply-fixed', normalized titles). Update 2026-10-14: sibling Part 1 turned out to be already syndicated on progress.org (11 Oct 2026), so only Part 2 is queued \u2014 mirrors the 'Five Years Later' precedent (Substack piece \u2192 wiki research page) rather than the syndication pipeline.",
+      "context": "Is land supply fixed? Part 2: A parable of pencils and parcels \u2014 Lars Doucet, Progress and Poverty (blog.landeconomics.org), 13 Oct 2026. Part 2 of the series: meets the Econ 101 'amount offered to market vs amount that exists' critique via a parable applying a sales tax and a holding tax to produced pencils vs non-produced land. Sales taxes drive a wedge between buyer and seller prices (deadweight loss, destroyed marginal production); holding taxes create no wedge, and land \u2014 non-produced, rival, necessary, locational \u2014 is the asset on which a holding tax generates no deadweight loss. Previews Part 3 (NIMBY value-reduction, building up, search costs). Sibling Part 1 queued in the same batch. Discovered via EXA web scan (2026-10-14 lvt-paper-scan, --days 30). UPDATE 2026-10-14: Part 1 is NOT queued separately \u2014 it is already syndicated as the site's own article since 11 Oct 2026 at https://www.progress.org/articles/is-land-supply-fixed-part-1-the-netherlands-and-land-reclamation/ (cite that URL for Part 1, not the Substack original). This entry is the Substack Part 2, not yet syndicated; Part 3 (NIMBY value-reduction) is announced for next week.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-14T11:08:36.246846+00:00",
       "reported": false
@@ -5551,7 +5541,7 @@
       "notes": "rejected 2026-10-13 \u2014 SSRN abstract only; the Crossref ORCID is registered under a different name at the same law university, so authorship cannot be established; Tier 2/3. Folded into the BACKLOG India land-ceiling lead."
     }
   ],
-  "last_updated": "2026-10-14T11:08:36.246846+00:00",
+  "last_updated": "2026-10-14T11:10:24.466880+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 4
+  "total": 3
 }
