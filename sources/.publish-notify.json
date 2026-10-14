@@ -330,7 +330,7 @@
         "efficiency"
       ],
       "action": "updated",
-      "published_at": "2026-10-10T11:26:05.000Z",
+      "published_at": "2026-10-14T11:31:59.000Z",
       "notified": false
     },
     {
@@ -469,7 +469,7 @@
         "accessible"
       ],
       "action": "updated",
-      "published_at": "2026-10-10T11:26:09.000Z",
+      "published_at": "2026-10-14T11:32:11.000Z",
       "notified": false
     },
     {
@@ -778,6 +778,108 @@
       ],
       "action": "updated",
       "published_at": "2026-10-13T11:30:35.000Z",
+      "notified": false
+    },
+    {
+      "slug": "land-value-tax",
+      "title": "Land Value Tax",
+      "url": "https://www.progress.org/wiki/land-value-tax/",
+      "category": "concepts",
+      "tags": [
+        "lvt",
+        "taxation",
+        "georgism",
+        "fiscal-policy",
+        "land"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-14T11:32:02.000Z",
+      "notified": false
+    },
+    {
+      "slug": "detroit-lvt-proposal",
+      "title": "Detroit Land Value Tax Proposal (2023–24)",
+      "url": "https://www.progress.org/wiki/detroit-lvt-proposal/",
+      "category": "events",
+      "tags": [
+        "events",
+        "campaigns",
+        "detroit",
+        "split-rate",
+        "modern",
+        "usa"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-14T11:32:04.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-not-widely-adopted",
+      "title": "Objection: if LVT is so good, why has almost no one adopted it?",
+      "url": "https://www.progress.org/wiki/lvt-not-widely-adopted/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "adoption",
+        "political-economy",
+        "revealed-preference",
+        "implementation",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-14T11:32:06.000Z",
+      "notified": false
+    },
+    {
+      "slug": "australia-mining-royalties-prrt",
+      "title": "Australia's Mining Tax System: State Royalties, the PRRT, and the Failed MRRT",
+      "url": "https://www.progress.org/wiki/australia-mining-royalties-prrt/",
+      "category": "research",
+      "tags": [
+        "research",
+        "resource-rents",
+        "australia",
+        "mining",
+        "royalties",
+        "prrt",
+        "mrrt",
+        "taxation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-14T11:32:08.000Z",
+      "notified": false
+    },
+    {
+      "slug": "modern-georgism-respected-economists",
+      "title": "The Modern Georgism of Respected Economists",
+      "url": "https://www.progress.org/wiki/modern-georgism-respected-economists/",
+      "category": "research",
+      "tags": [
+        "research",
+        "online-writing",
+        "mainstream",
+        "endorsements",
+        "stiglitz"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-14T11:32:13.000Z",
+      "notified": false
+    },
+    {
+      "slug": "nassios-australia-lng-prrt-structural-limits",
+      "title": "Structural Limits to Resource Rent Taxation: Evidence from Australia's LNG Industry (Nassios, 2026)",
+      "url": "https://www.progress.org/wiki/nassios-australia-lng-prrt-structural-limits/",
+      "category": "research",
+      "tags": [
+        "research",
+        "australia",
+        "lng",
+        "resource-rent-tax",
+        "prrt",
+        "tax-design"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-14T11:32:15.000Z",
       "notified": false
     }
   ]
