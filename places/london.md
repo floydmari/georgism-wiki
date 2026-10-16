@@ -35,6 +35,7 @@ London's transit-driven land value uplifts are frequently cited in the Georgist 
 - [Harrison, Ricardo's Law](/wiki/harrison-ricardos-law/) — uses London house-price data as a worked example of the [tax clawback](/wiki/tax-clawback/) thesis
 - [Unearned Increment](/wiki/unearned-increment/) — the underlying concept these uplifts illustrate
 - [Smith, Brown, Dunning & Lord: How Land Value Capture Supported Crossrail](/wiki/smith-brown-dunning-lord-crossrail-lvc/) — an independent academic evaluation of the Mayoral Community Infrastructure Levy's role, complementing the 2017 TfL self-report above
+- [Gibson: Revenue from the Community Infrastructure Levy, 2010 to 2025](/wiki/gibson-community-infrastructure-levy-revenue/) — national CIL receipts series showing London, with the Mayoral levy, taking 58% of everything collected in England
 
 ## Sources
 

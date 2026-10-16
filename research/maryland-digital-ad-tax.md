@@ -277,6 +277,7 @@ genuine, valuable matching service — and no one has cleanly separated the two.
 
 ## See Also
 
+- [Maryland](/wiki/maryland/) — the state page, including the stalled 2026 split-rate enabling bill
 - [Romer's Progressive Tax on Digital Advertising](/wiki/romer-digital-advertising-tax/) — the proposal's own design, incidence logic, and the Acemoglu–Johnson variant, not repeated here
 - [Taxing Tech Rents — Instrument Comparison](/wiki/taxing-tech-rents/) — where Romer's ad tax is graded C as a rent instrument against ACE/DBCFT, DSTs, data dividends, and antitrust/DMA dissolution
 - [Digital Services Taxes and Their Incidence](/wiki/digital-services-tax-incidence/) — the sibling revenue-tax instrument and its one rigorous ex-post pass-through estimate (Amazon/UK)

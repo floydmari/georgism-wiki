@@ -101,6 +101,7 @@ than a solved problem.
 - [CIB Land Value Capture Study](/wiki/cib-land-value-capture-study/) — the Canada-focused report whose international benchmarking section cites the BRS/CIL figures this page's figures do not straightforwardly reconcile with
 - [Public Investment Capitalizes Into Land](/wiki/public-investment-capitalizes-into-land/)
 - [Henry George Theorem](/wiki/henry-george-theorem/)
+- [Gibson: Revenue from the Community Infrastructure Levy, 2010 to 2025](/wiki/gibson-community-infrastructure-levy-revenue/) — the England-wide CIL series, in which the Mayoral levy accounts for 40% of London's receipts
 
 ## Sources
 

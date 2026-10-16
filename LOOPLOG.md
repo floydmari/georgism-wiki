@@ -5670,3 +5670,30 @@ could not be verified in the saved committee texts and was dropped.
 
 Lint 0 errors; inventory 1029 pages, 0 orphans. Ledger: 0 pending, 455 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-16 — Maryland's enabling bill, what the CIL actually raises, and a zoning buffer
+
+Four cron wakeups arrived in a bunch after a day's delay and were handled as one pass. Six
+scanner items. The Blanchard–Beck podcast on Baltimore's land value tax led, through the
+Maryland General Assembly record, to a new Maryland page: HB 78 and its Senate cross-file
+SB 457 (2026), the Department of Legislative Services fiscal note, the 1994 enabling bill
+vetoed by Governor Schaefer, and Baltimore's July 2026 council resolution asking for a
+hearing on a split-rate shift. The scanner's "HB 1178" label was an annexation act and is
+corrected in the ledger and on the BACKLOG; the enablement-wave event page and three
+neighbours link in. Gibson's Cambridge reconstruction of Community Infrastructure Levy
+receipts gets a research page, read in full: £6,563m collected to March 2025, a mature-phase
+mean near £765m a year, 58% of it in London once the Mayoral levy is counted, official
+statistics capturing only 48% of the true total, and a peak year at three quarters of what
+the 1967 Betterment Levy would have collected on a collected basis. The brief's "less than a
+third" summary did not match the report and was not used; the writer's draft carried an
+unsupported "91% from the South" line, replaced with the report's 75% London-plus-South-East
+figure. Phillips's UCLA Lewis Center zoning-buffer paper adds a limit to the
+zoning-reform-first objection and a sentence to the planning-restrictions objection.
+Rejected: Thorsnes and McMillen's parcel-size paper (paywalled; BACKLOG lead with Albouy and
+Shin), Cashmore's Harrison interview (paywalled newsletter, Tier 2 on Tier 2), and Go's
+Cook County machine-learning preprint (SSRN blocked, no open copy, outside the wiki's
+land-assessment thread). Tiers: Blanchard and Phillips Tier 1 confirmed; Baltimore Thrive,
+Cashmore and Go placed.
+
+Lint 0 errors; inventory 1031 pages, 0 orphans. Ledger: 0 pending, 461 consumed. Merged to
+main and Ghost-synced.

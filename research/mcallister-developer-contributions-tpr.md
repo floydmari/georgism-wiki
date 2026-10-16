@@ -120,6 +120,7 @@ abstract:
 - [O'Brien & Dembski: Land Value Capture for Place Quality](/wiki/obrien-dembski-lvc-place-quality/) — a companion comparative study whose Scotland case shows the same developer-contribution mechanism in a weak-planning-system setting
 - [CIB-commissioned Land Value Capture Study](/wiki/cib-land-value-capture-study/) — a practitioner survey covering the same "who really pays" incidence question for LVC instruments generally
 - [Land Value Capture](/wiki/land-value-capture/) — the broader instrument family
+- [Gibson: Revenue from the Community Infrastructure Levy, 2010 to 2025](/wiki/gibson-community-infrastructure-levy-revenue/) — the revenue record of the fixed-tariff instrument this taxonomy distinguishes from negotiated obligations
 
 ## Sources
 

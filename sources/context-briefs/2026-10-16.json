@@ -1,0 +1,403 @@
+[
+  {
+    "url": "https://doi.org/10.1023/A:1007772223239",
+    "title": "Land Value and Parcel Size: A Semiparametric Analysis (Thorsnes & McMillen, 1998)",
+    "what_was_fetched": "Publisher full text NOT reached: the Springer article page (curl with browser user-agent) returned only a script shell; r.jina.ai returned the paywall page plus the 32-item reference list; the SSRN green-OA copy (abstract_id=95808, listed by Unpaywall and OpenAlex) is behind a Cloudflare challenge for curl, r.jina.ai and the Googlebot user-agent. Obtained instead: the full abstract (IDEAS/RePEc page, confirmed by a web-search snippet); Crossref metadata and reference list (no abstract deposited); OpenAlex/Semantic Scholar/Unpaywall records (Unpaywall queried as wiki@progress.org). A secondary description of the study was read in full text: Guntermann, Horenstein, Nardari & Thomas, 'Parcel Size and Land Value: A Comparison of Approaches' (author PDF of the Journal of Real Estate Research 37(2), 2015, pp. 281-320), which devotes a paragraph and a methods section to Thorsnes & McMillen. Also read: Albouy & Shin (Philadelphia Fed WP 22-38, 2022), which cites the paper as an early semiparametric land-valuation example. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-16/thorsnes_crossref.json, thorsnes_openalex.json, thorsnes_ideas.html, thorsnes_springer_jina.txt, guntermann.pdf, guntermann.txt, phil.txt.",
+    "verdict": "ENRICH concepts/mass-appraisal-methods.md (low priority, one sentence, hedged to what the abstract and a later survey support). Insert after the hedonic-regression paragraph's sentence listing 'location, lot size, frontage, topography, zoning' (the second sentence of the 'Hedonic regression' passage, around line 20). No new page: the study is a 1998 land-economics methods paper that says nothing about taxation, so it does not clear the bar for a research/ page. Do NOT add to concepts/residual-land-valuation.md or objections/land-cannot-be-assessed.md (neither discusses parcel-size scaling; the paper is not evidence on assessability).",
+    "claim_grade": "B-claim (empirical), Tier 1 (peer-reviewed, JREFE; Thorsnes and McMillen are established urban/land economists; McMillen has a large body of peer-reviewed work on land values and semiparametric methods). Grade limited to what has been read: the abstract (primary) and one secondary description. The shape-of-function statement below rests on the secondary description.",
+    "content_summary": {
+      "design_from_abstract": "Authors use a semiparametric estimator on 'a sample of 158 undeveloped parcels in the Portland, Oregon, metropolitan area'. The value-size relationship is estimated nonparametrically ('which permits the function to be linear, convex, and concave in different regions'); 'a simple log-linear parametric relationship is assumed for the rest of the model, which conserves degrees of freedom and simplifies hypothesis testing'. Headline: 'Our semiparametric estimates do not reject log-linearity for the value-size relationship.' (IDEAS/RePEc abstract, Kluwer 1998.)",
+      "secondary_description_of_findings": "Guntermann et al. (JRER 2015, literature review section) describe the study as using 'a parametric estimator for distance and a semi-parametric estimator for size' on 158 undeveloped residential parcels 'that range in size from less than one-half acre to over 26 acres'. They report: 'Their results are consistent with studies that find the value-size relationship to be concave over the entire range of their data. However, they find no evidence that small parcels sell at a discount or that the value-size relationship is ever convex.' They also note Thorsnes & McMillen test shape only through the AVERAGE first derivative (below 1 = concave, above 1 = convex, equal 1 = linear) and average second derivative, so the study cannot test whether plottage and plattage coexist; the authors themselves recommend averages because 'the non-parametric estimator does not provide accurate point estimates of the second derivatives'.",
+      "plottage_plattage_implication": "On the secondary description: no sign of plottage (a premium for larger, assembled parcels at the small end, i.e. convexity) in this sample, and value rising with size at a decreasing rate (concave). Guntermann et al. add that evidence for concavity at large sizes is considerable but evidence for convexity at small sizes is weak, possibly because datasets lack enough very small parcels; so 'no plottage detected' is not 'no plottage'.",
+      "meaning_for_assessing_land_per_square_foot": "Analytical inference, not a finding stated in the abstract: if land value rises less than proportionally with parcel area, value per square foot falls as parcels get larger, so a flat per-square-foot land rate over-values large parcels and under-values small ones within a neighbourhood. Mass-appraisal land schedules therefore need a size adjustment (an exponent or curve). The wiki's research/gloudemans-lvt-assessment-feasibility.md already describes a calibrated 'size-adjustment exponent' (line 78); Thorsnes & McMillen supplies an independent, older peer-reviewed data point that the size relationship is non-linear and is the sort of function an assessor must calibrate. It is not evidence for or against assessability.",
+      "suggested_sentence": "A semiparametric analysis of 158 undeveloped parcels in the Portland, Oregon area found that the relationship between land value and parcel size could not be distinguished from log-linear; a later survey of the parcel-size literature reads the study as showing land value rising with parcel size at a decreasing rate, with no evidence that small parcels sell at a discount. Land value per square foot therefore falls as parcels grow, which is why assessors' land schedules carry a size adjustment rather than a flat rate.",
+      "suggested_sources_annotation": "Thorsnes & McMillen (1998), JREFE 17(3): 233-244, doi:10.1023/A:1007772223239 — used for the 158-parcel Portland design and the non-rejection of log-linearity (B-claim, Tier 1; full text not accessible at last review (2026-10-16); summary rests on the abstract). Guntermann, Horenstein, Nardari & Thomas (2015), Journal of Real Estate Research 37(2): 281-320 — used for the description of the paper's concave value-size result and parcel-size range (B-claim, Tier 1, secondary)."
+    },
+    "existing_wiki_coverage": "No wiki page cites Thorsnes, McMillen or parcel-size scaling (grep of corpus and digest: no hits; no plottage/plattage page). concepts/mass-appraisal-methods.md (4,351 words) lists lot size as a hedonic land attribute (lines 12 and 20) with no empirical finding about its functional form. research/gloudemans-lvt-assessment-feasibility.md uses a calibrated 'size-adjustment exponent' in its combined vacant+improved model (line 78) without citing any study of the size-value function. concepts/residual-land-valuation.md (661 words) and objections/land-cannot-be-assessed.md (2,105 words) have no parcel-size content. Related but separate: research/tideman-plassmann-land-assembly and concepts/holdout-problem (land assembly), which is the economic setting where plottage matters.",
+    "uncertainties": [
+      "Full text not read. The elasticity (coefficient on ln area), the sign/size of the average derivative, bandwidths, the distance/accessibility controls and the sample year(s) are unknown. Anyone citing a number must obtain the paper (SSRN abstract_id=95808 is open to a human browser; Cloudflare blocks this network).",
+      "The queue note says estimates 'do NOT reject log-linearity'; that is confirmed by the abstract. The concave-over-the-whole-range reading comes only from Guntermann et al. (a log-linear form with coefficient below 1 is concave in levels, which is consistent, but the coefficient has not been seen).",
+      "Sample: undeveloped residential parcels around Portland (urban growth boundary setting), 1990s, 0.5 to 26+ acres. It says little about small infill lots in built-up cores, where land assembly and plottage would matter most for assessment.",
+      "Methodological standing: Guntermann et al. argue Bayesian methods outperform semiparametric kernel estimators at detecting plottage/plattage, so the paper is a methods-era reference point, not the last word.",
+      "The paper is not about taxation and does not mention LVT; any assessment-feasibility reading is the wiki writer's inference and should be labelled as such.",
+      "Queue note says the paper was surfaced by a UIUC Experts portal record dated 2026-10-05; the paper itself is from 1998 (Crossref: 58 citations)."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://ideas.repec.org/a/kap/jrefec/v17y1998i3p233-44.html",
+        "note": "Full abstract, citation metadata (RePEc handle RePEc:kap:jrefec:v:17:y:1998:i:3:p:233-44). Tier 1 bibliographic record."
+      },
+      {
+        "url": "https://doi.org/10.1023/A:1007772223239",
+        "note": "Publisher DOI (Springer; paywalled). Cite this as the canonical reference."
+      },
+      {
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=95808",
+        "note": "Green-OA copy per Unpaywall/OpenAlex/Semantic Scholar; not reachable from this network (Cloudflare 403). A human or other environment may read the full text here."
+      },
+      {
+        "url": "http://www.alexhorenstein.com/uploads/5/8/7/2/58721379/plot-plat_jrer_-_final_edited.pdf",
+        "note": "Guntermann et al., 'Parcel Size and Land Value: A Comparison of Approaches' (author PDF; published JRER 37(2), 2015). Read in full; source for the secondary description and the average-derivative test."
+      },
+      {
+        "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-38.pdf",
+        "note": "Albouy & Shin, 'A Statistical Learning Approach to Land Valuation', Philadelphia Fed WP 22-38 (2022). Cites Thorsnes & McMillen as an early semiparametric land-valuation method. Not in the wiki; a separate, strong lead for concepts/mass-appraisal-methods.md or research/ (Tier 1, official-institution working paper by a recognised urban economist and a Fed economist)."
+      }
+    ],
+    "suggested_inbound_links": [
+      "concepts/mass-appraisal-methods.md (target of the ENRICH)",
+      "research/gloudemans-lvt-assessment-feasibility.md (See Also or the size-adjustment passage, line 78, only if the writer wants a cross-reference; not evidence there)"
+    ]
+  },
+  {
+    "url": "https://www.landecon.cam.ac.uk/news/revenue-community-infrastructure-levy-2010-2025",
+    "title": "Revenue from the Community Infrastructure Levy, 2010 to 2025 (Miles Gibson, Cambridge Land Economy, 22 Sept 2026)",
+    "what_was_fetched": "Landing/news page (curl, browser user-agent, HTTP 200) and the full report PDF (HTTP 200, 1.05 MB, 100 pages; pdftotext). The whole report was read: executive summary, chapter 1 (CIL design), 2.4 (comparison with earlier development taxes), chapter 3 (method and limitations), chapter 4 (results: national, regional, London, local, administration costs, unspent CIL, comparison with Betterment Levy and planning obligations), chapter 5 and Appendix B (recommendations). Chapters 4.3 and 4.5 (regional/local tables) were only skimmed at headline level. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-16/gibson_cil_full.pdf, gibson_cil_full.txt, gibson_news.html.",
+    "verdict": "NEW research/gibson-community-infrastructure-levy-revenue.md (Core/Important tier). Inbound links available (>=2 easily met): concepts/betterment-levy.md (planning-gain passage: add a sentence pointing to the revenue evidence), places/london.md (Mayoral CIL vs borough split), places/united-kingdom.md, research/mcallister-developer-contributions-tpr.md (CIL/s106 taxonomy), research/smith-brown-dunning-lord-crossrail-lvc.md (MCIL series), concepts/land-value-capture.md. If the writer prefers not to add a page, the fallback is ENRICH concepts/betterment-levy.md (planning-gain section) plus places/london.md, but the dataset is large enough and new enough (first complete England-wide series) to justify its own page.",
+    "claim_grade": "B-claim (empirical estimate) for the revenue totals and series, Tier 1 (University of Cambridge Department of Land Economy research report; Miles Gibson is on the wiki's Tier 1 list in sources/audit/people-tiers.json). Not peer-reviewed; the author's cover note says the opinions are his own and not the University's. The Betterment Levy comparison and 'CIL is worse at capturing development value' are D-claim (author's interpretation) built on his own 2025 study.",
+    "content_summary": {
+      "headline_series": {
+        "source": "Gibson (2026), Table 4.2 and Executive Summary; FOI dataset, all figures nominal unless stated",
+        "total_collected_to_31_Mar_2025": "GBP 6,563m (GBP 5,043m by local authorities + GBP 1,520m Mayoral CIL incl. the 4% borough admin share). GBP 7,720m in Q1-2025 prices (ONS GDP deflator, section 3.8.4).",
+        "demanded_by_local_authorities": "GBP 5,741m demanded vs 5,043m collected (88%); the GBP 698m gap is mostly instalment timing.",
+        "annual_collected_all_authorities_GBPm": {
+          "2011-12": "<1",
+          "2012-13": 7,
+          "2013-14": 57,
+          "2014-15": 129,
+          "2015-16": 259,
+          "2016-17": 418,
+          "2017-18": 493,
+          "2018-19": 610,
+          "2019-20": 764,
+          "2020-21": 642,
+          "2021-22": 816,
+          "2022-23": 844,
+          "2023-24": 827,
+          "2024-25": 697
+        },
+        "annual_of_which_Mayoral_CIL_GBPm": {
+          "2012-13": 6,
+          "2013-14": 49,
+          "2014-15": 76,
+          "2015-16": 124,
+          "2016-17": 143,
+          "2017-18": 114,
+          "2018-19": 122,
+          "2019-20": 142,
+          "2020-21": 127,
+          "2021-22": 149,
+          "2022-23": 176,
+          "2023-24": 163,
+          "2024-25": 131
+        },
+        "mature_phase_2019-20_to_2024-25": "mean GBP 765m/yr, SD 73m, coefficient of variation 9.6%; peak GBP 844m (2022-23); low 642m (2020-21).",
+        "recent_years": "2020-21 down 16.0% (COVID), 2021-22 up 27%; 2023-24 down 1.9%; 2024-25 down 15.7% to GBP 697m. Real-terms peak GBP 950m (2021-22, Q1-2025 prices); 2024-25 real burden lowest since 2017-18. Author's provisional 2025-26 estimate GBP 620m (lowest since 2018-19); authority-level 2025-26 data not yet available.",
+        "net_of_admin": "Implied 5% admin allowance GBP 328m cumulative (author's calculation), leaving about GBP 6.2bn for infrastructure."
+      },
+      "who_charges": "161 of 309 English local planning authorities (52%) charged CIL in 2024-25; plus the Mayor of London (162 charging bodies). No authority has ever stopped charging. Five more began charging after 1 April 2025. No equivalent levy in Scotland or Northern Ireland (CIL: England and Wales).",
+      "london": "London boroughs and the LLDC collected GBP 2,276m (35% of the national total); with Mayoral CIL, London = GBP 3,796m (58%). London annual CIL peaked at GBP 449m in 2022-23, GBP 342m in 2024-25 (down 25%). Across all years boroughs collected 60.0% of London CIL and the Mayor 40.0% (63.8%/36.2% in the mature phase), which the author describes as the Mayor in effect 'precepting' about 36%. All London boroughs but one were charging on 31 March 2025. Top five authorities cumulative: Wandsworth 263m, Brent 235m, Westminster 190m, Tower Hamlets 180m, Barnet 148m; largest single authority-year GBP 50m (Tower Hamlets 2020-21). Cumulative Mayoral CIL (own sum of Table 4.2) passes GBP 1bn during 2021-22, which is consistent with the wiki's smith-brown-dunning-lord-crossrail-lvc.md claim of 'over GBP 1 billion' (that page flags a reconciliation problem with a GBP 300m CIL figure for Crossrail; Gibson's series is programme-wide, not Crossrail-specific).",
+      "regions_and_places": "North East 3 charging authorities, collected GBP 16m (0.2% of all); North West 8 authorities, GBP 146m (2.2%); East+West Midlands GBP 279m (4.3%). 77% of CIL collected in urban areas; 56 rural charging authorities collected GBP 1,157m. Mature-phase average per charging authority GBP 3.8m/yr (London GBP 7.7m, North East GBP 0.84m). Bristol GBP 78m, Leeds 61m, Preston 36m, Sheffield 33m, Birmingham 30m; Manchester and Liverpool do not charge.",
+      "comparison_with_section_106": "Planning obligations (s106): Lord et al (2020) found GBP 426m of obligations collected in 2018-19, GBP 384m (90%) in cash; local-authority CIL collected that year was GBP 488m, so 'CIL had already overtaken planning obligations as the main source of cash contributions from developers' by 2018-19. NAO (2025a) reported GBP 974m of non-affordable-housing obligations AGREED in 2019-20, falling to GBP 708m in 2022-23 (agreed, not collected); CIL collected in 2022-23 (GBP 844m) exceeded that. Only about one third of major and 4% of minor planning applications had an obligation (2018-19, Gibson et al 2025); only a third of major and 10% of minor permissions subject to CIL or an obligation are subject to both (Lord et al 2020:35). Author notes obligation values are less reliable than cash and calls for more research.",
+      "comparison_with_earlier_betterment_instruments": "Table 2.7 (peak annual revenue, GBP m, 2024 prices, from Gibson 2025): Development Charge 1948-52: 400; Betterment Levy 1967-70: 1,770 assessed; Development Gains Tax 1973-76: unknown; Development Land Tax 1976-85: 519; CIL: 1,295 (an earlier estimate the new report says 'significantly overestimates' collected CIL). Section 4.8.1: on a collected basis the Betterment Levy would likely have raised GBP 1,140m in 2024 prices in its final year had it not been repealed (the report gives the repeal as 22 July 1970 in Table 2.7 but '20 July 1971' in a Table 4.17 footnote that otherwise describes 1970-71 as a four-month year, so the 1971 looks like a typo), against CIL's peak GBP 844m (2022-23), i.e. CIL's peak is 75% of the comparable Betterment Levy figure. Regional spread: North+Midlands raised 43.4% of Betterment Levy (North 22.4%, Midlands 21.0%) but only 9.0% of CIL (North 4.7%, Midlands 4.3%); South 56.6% vs 91.1% (incl. Mayoral CIL). Administration cost: Development Land Tax about 7% of receipts, Betterment Levy about 12% (Gibson 2025), CIL 5% allowance. Author's conclusion: CIL, 'even in its mature state, is worse at capturing development value than the most successful of Britain's previous national development taxes'; it is 'very unlikely' that CIL will ever raise significantly more in real terms than the Betterment Levy, because the half of authorities not charging are unlikely to raise as much as those that do, though many existing authorities could raise more (wider area, more use types, higher rates), and the government has proposed giving combined-authority Mayors outside London CIL powers (MHCLG 2026a).",
+      "official_statistics": "ONS National Accounts record GBP 3,169m of CIL, 48% of the author's total, an understatement of about GBP 3.4bn (52% of the true total); cause: weak CIL entries in local-authority revenue returns (ROS) to MHCLG. OBR 2025-26 forecast thereby understated by about GBP 200m. Government pre-2010 forecasts were too optimistic short term, broadly right long term. MHCLG's four-year estimates published by NAO (2025) were reasonably accurate but wrong for 2021-22.",
+      "unspent": "Using Home Builders Federation FOI samples (60% of authorities in 2024; 75% in 2026) extrapolated by HBF to GBP 2.2bn unspent (excluding Mayoral CIL), the author expresses this as 47% of all CIL ever collected (GBP 4.7bn ex-Mayor, ex-admin) in 2024-25, up from 42% in 2023-24; about four years of spending delay. The author rates HBF's method as lacking transparency (unstated sample composition, no quality checks, ambiguous dating).",
+      "method_and_caveats": "Legally binding FOI request to all CIL charging authorities except the Mayor of London and a few special cases; 100% response; dataset of 3,163 data points = 96% of the theoretical maximum (3,296); about a third of initial responses challenged through FOI internal review; two series requested: amounts demanded (Demand Notices) and net cash collected. Mayoral CIL taken from GLA data. Demand-notice gaps estimated at about GBP 147m (not added in). Limitations the author states: relies on authorities' own accounts; demand-notice data not retrospectively revised; some discrepancies and missing data remain; in-kind (land) payments, reliefs/exemptions (self-build exemption once estimated at GBP 127m a year, Savills 2014) and spending were out of scope; 2025-26 figure is a tentative forecast; real-terms conversion uses the ONS GDP deflator to Q1 2025, earlier real-terms figures use 2024 prices. Disclosure in the Preface: the author 'was involved as a civil servant in the original design of the Community Infrastructure Levy'. Report thanks two Land Economy academics for 'their willingness to associate the Department with it'.",
+      "policy_conclusions_and_recommendations": "Chapter 5 and Appendix B (12 recommendations, all doable by secondary legislation, guidance or administration): clearer IFS reporting guidance (totals not just lists; exact, annual); London authorities report own and Mayoral demands separately; MHCLG to challenge authorities with poor ROS returns and publish occasional stand-alone CIL statistics; consider dropping the demand-notice reporting requirement; require reporting of reliefs given; review the blanket 5% admin allowance and possible penalties for late/incomplete IFSs (e.g. reduce the allowance); consider moving London (and future combined-authority) CIL to a precepting model. Substantive conclusions: CIL is now a 'stable and mature fiscal instrument' (national volatility low, CV 9.6%) but local revenues are more volatile, it is floorspace-based and cautious rates make it poor in downturns; revenue has fallen since 2022-23 with no recovery in the provisional 2025-26 estimate; official data are inadequate for 'vibrant national policy debates on the taxation of land and development'.",
+      "quotes_le_50_words": [
+        {
+          "quote": "Even in its mature state, CIL is worse at capturing development value than the most successful of Britain's previous national development taxes.",
+          "locator": "Gibson 2026, Executive Summary, p. 5"
+        },
+        {
+          "quote": "It is also alarming that the official statistics on CIL understate its apparent revenue by more than half.",
+          "locator": "Miles Gibson, Cambridge Land Economy news page, 22 Sept 2026"
+        }
+      ]
+    },
+    "existing_wiki_coverage": "No wiki page carries CIL revenue numbers (grep of CIL / Community Infrastructure Levy: places/london.md, places/hong-kong.md, research/smith-brown-dunning-lord-crossrail-lvc.md, research/cib-land-value-capture-study.md, research/mcallister-developer-contributions-tpr.md, concepts/betterment-levy.md). concepts/betterment-levy.md: 'UK Betterment Levy History' section already uses Gibson (2025), 'British development taxes since 1945', as source [7] for the dates and rates of the 1947, 1967, 1973 and 1976 taxes, and a 'Planning Gain and Section 106' passage names CIL (introduced 2010) and s106 qualitatively with no revenue data. research/smith-brown-dunning-lord-crossrail-lvc.md reports Mayoral CIL 'over GBP 1 billion' toward Crossrail and flags an unreconciled GBP 300m CIL figure. research/mcallister-developer-contributions-tpr.md gives a taxonomy of s106/CIL without revenue figures. places/london.md mentions MCIL only via the Crossrail paper; places/united-kingdom.md has no CIL content. Gibson is already on the Tier 1 list; no existing page cites the 2026 report.",
+    "uncertainties": [
+      "All figures are the author's FOI-derived estimates and have not been independently replicated; the author says some discrepancies remain.",
+      "Queue wording: the news page says the National Accounts understate the total 'by around GBP 3.4bn (52% of the likely true total)', i.e. ONS records 48%; the queue's phrase '(52% of the true figure)' reads as if ONS held 52% - the report's own wording is 48% recorded / 52% missing. The queue also says 'average GBP 765m/yr since 2019-20', which is confirmed (mean of 2019-20 to 2024-25).",
+      "The queue's 'Betterment Levy would-be peak GBP 1,140m' is the author's 2024-price estimate on a COLLECTED basis; the assessed-basis figure in the report's own Table 2.7 is GBP 1,770m. Writers must state the basis. Gibson also notes the Table 2.7 CIL figure (GBP 1,295m) is an overestimate, so earlier statements built on it should not be used.",
+      "The report is non-peer-reviewed and the author helped design CIL as a civil servant (disclosed). Treat the comparison with the Betterment Levy and the 'worse at capturing development value' verdict as the author's interpretation (D-claim) and attribute it.",
+      "CIL is a tariff on floorspace, not a levy on land value or on uplift as such; the report itself compares it to development-value taxes. The wiki should avoid presenting CIL revenue as 'land value capture achieved' without that qualification (cf. McAllister's taxonomy on the existing page).",
+      "The 47% unspent figure depends on HBF's extrapolated survey and is flagged by Gibson as provisional.",
+      "Regional/local chapters (4.3, 4.5) and per-borough Mayor-versus-borough tables were read only at headline level; anyone citing a specific borough should consult Tables 4.6-4.12 and Figure 4.11 directly.",
+      "The report PDF's metadata says 77 pages in the file header and 100 pages in pdfinfo; page references above use the report's own printed page numbers."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://www.landecon.cam.ac.uk/sites/default/files/2026-09/cil_research_full_report_final_r1.pdf",
+        "note": "Full report (R1), Tier 1 institutional research. Primary for every figure above."
+      },
+      {
+        "url": "https://www.landecon.cam.ac.uk/news/revenue-community-infrastructure-levy-2010-2025",
+        "note": "Cambridge Land Economy news summary and author quotation, 22 Sept 2026."
+      },
+      {
+        "url": "https://www.landecon.cam.ac.uk/sites/default/files/2025-07/tc4911-research-paper-web.pdf",
+        "note": "Gibson (2025), 'British development taxes since 1945' (already source [7] on concepts/betterment-levy.md); origin of Table 2.7 peak-revenue figures, administration-cost percentages and the Betterment Levy regional analysis."
+      }
+    ],
+    "suggested_inbound_links": [
+      "concepts/betterment-levy.md (planning-gain section; also a line in the UK history list)",
+      "places/london.md (Mayoral vs borough CIL)",
+      "places/united-kingdom.md",
+      "research/mcallister-developer-contributions-tpr.md",
+      "research/smith-brown-dunning-lord-crossrail-lvc.md (MCIL series context; consider whether to reconcile the GBP 300m figure)",
+      "concepts/land-value-capture.md"
+    ]
+  },
+  {
+    "url": "https://lewis.ucla.edu/research/building-up-the-zoning-buffer-using-broad-upzones-to-increase-housing-capacity-without-increasing-land-values/",
+    "title": "Building Up the \"Zoning Buffer\": Using Broad Upzones to Increase Housing Capacity Without Increasing Land Values (Shane Phillips, UCLA Lewis Center, January 2022)",
+    "what_was_fetched": "Lewis Center landing page (curl, HTTP 200; abstract) and the full 20-page report PDF via the eScholarship permalink embedded in the page (https://escholarship.org/content/qt0r53h7pw/qt0r53h7pw.pdf, deposited 2022-01-25; pdftotext, full text read). Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-16/phillips_page.html, phillips_page.txt, phillips_zoning_buffer.pdf, phillips_zoning_buffer.txt.",
+    "verdict": "ENRICH objections/planning-restrictions-cause-high-prices.md (numbered point 2, 'Zoning reform without land value capture can hand the gains straight to landowners': add the counter-position that the capitalisation depends on the size of the zoning buffer, with the report's thought experiment and the Minneapolis figure, attributed). Optionally one sentence in objections/lvt-needs-zoning-reform-first.md (Limits and Caveats) noting that a 'broad upzone' argument implies little windfall to tax. NEW research page not recommended: non-peer-reviewed policy report whose central claim is a theoretical argument plus one case study; the wiki's research/ bar is better met by the empirical papers it argues with. If the writer disagrees, research/phillips-zoning-buffer.md would easily have >=2 inbound links from the two objection pages.",
+    "claim_grade": "D-claim (interpretive/argumentative) for the central thesis, built on a stylised model (C-claim, theoretical); the Bundy Triangle sale prices and Minneapolis effect are B-claims but second-hand/unsourced in the text. Tier 1 as institutional research for the report's own analysis (UCLA Lewis Center for Regional Policy Studies; author is the Center's Housing Initiative project manager), but not peer-reviewed and not an empirical test.",
+    "content_summary": {
+      "definition": "'zoning buffer' = 'the gap between the existing housing stock and the maximum number of homes allowed by current zoning' (abstract); expressed as a percentage of current stock/population.",
+      "thesis": "'When upzoning produces a large zoning buffer, land values should not increase substantially because land with redevelopment potential is no longer scarce; property owners lack the leverage to demand more from a developer than a typical homebuyer.' 'When zoning buffers remain small, upzoning will result in land value increases that are largely captured by incumbent property owners.' (abstract). Broad upzoning is defined as 'zoning changes that allow at least moderate density (roughly 6-10 units) on a large share of parcels (at least 25%-50%)'.",
+      "mechanism": "Stylised town of identical USD 600,000 homes (half land, half building). Scenario 1: 5% of parcels upzoned to triplexes (+10% homes); scarce eligible parcels bid up to about USD 900,000 each (USD 300,000 per buildable unit), so landowners capture the gain. Scenario 2: 50% of parcels upzoned (doubling homes); a neighbour will sell to a developer for USD 800,000, another for 700,000; about 7% of US homeowners move each year so turnover of eligible parcels exceeds developer demand; land falls toward about USD 200,000 per unit and a new unit costs about USD 500,000 instead of 600,000 ('The capacity for housing has increased, but land values have not'). Three framings of a targeted upzone: value capture (inclusionary exactions), windfalls-as-a-price-worth-paying, and broad upzoning; the paper argues only the last can lower prices market-wide, that value capture reduces owners' incentive to sell and 'contains the seeds of its own destruction' if prices fall, and that in a broad upzone value capture is unnecessary and infeasible (lower land prices are 'captured' by renters and buyers).",
+      "los_angeles_and_new_york_figures": "LA population 2.5m (1960) vs zoned capacity for 10m (buffer about 300%+); capacity 3.95m by 1980 with nearly 3m residents; about 4.3m capacity after 30 more years (population +1m); buffer 12% in 2010 (Figure 1; source: 35 community plans, census data, Greg Morrow, used with permission). New York: capacity 55m in 1957 vs 7.9m people; the 1961 zoning rewrite cut capacity to under 12m, buffer about 50% (Figure 2; source: 1957 'Rezoning New York City' guide). LA thought experiment: rezone all R1/R2/RD parcels (more than 400,000, 2019 LA County Assessor roll) to allow up to 10 units: capacity +3.6m units (2.5 times the 1.4m existing homes); about 25,000 single-family sales a year on those parcels (2018-19 assessor sales); redeveloping 5,000 a year yields 45,000 units; rezoning only 25% of parcels would yield about 6,000 eligible sales a year against projected need of close to 60,000 homes a year for eight years.",
+      "case_study_bundy_triangle": "Dec 2019 rezoning of dozens of parcels near the Expo/Bundy Metro station from R1 to R3/RAS4; 15 parcels (16 homes) bought by Carmel Partners at roughly 50-100% above pre-upzoning value; example in footnote 10: 2318 Amherst Ave sold for USD 2m (July 2018) vs USD 3.25m for six adjacent same-size properties sold 2020-21 (five in Feb 2020). Dec 2021 proposal: 455 apartments including 52 for extremely low-income households (about 11%). Phillips' illustrative alternative of an 18% requirement is hypothetical.",
+      "empirical_claims_with_sources_named_in_report": [
+        "Minneapolis (single-unit zoning abolished 2018, triplexes citywide): 'home prices on affected parcels increased by only 3%-5% compared to similar unaffected parcels in neighboring cities' - the report states this without a named citation in the text; and only about 70 units had been produced by the time of writing. Not verified against a source here (a candidate is Kuhlmann 2021, JAPA, doi:10.1080/01944363.2020.1852101, found by Crossref search but not read).",
+        "California ADU laws (from 2016) effectively upzoned most of the state to 2-3 units 'with no obvious impact on land prices'; footnote 8 is the author's own 'simple analysis' of 2017 LA single-family sales in which properties later receiving an ADU permit sold for slightly less on average.",
+        "Terner Center estimate that SB 9 would yield about 400,000 units statewide; US per-capita housing starts less than half the 1960s level (Figure 3).",
+        "Oregon (2019) and California SB 9 (2021): 'results are pending'."
+      ],
+      "auckland": "NOT discussed. The queue prompt anticipated Auckland evidence; the report contains no reference to Auckland or to the Greenaway-McGrevy et al. study. Reference list: the report has no bibliography beyond footnotes and figure sources.",
+      "caveats_by_the_author": "Political vulnerability of broad upzones (benefits are diffuse, may lower prices of existing housing); few modern examples; cities that 'cheat' with a large buffer on a small land area (e.g. 5% of land zoned for 50-storey towers) probably fail because high-rise construction cost eats the land saving; upzoning must be moderate density, widespread, near jobs/transit; regional cooperation or state mandates needed in fragmented regions.",
+      "quotes_le_50_words": [
+        {
+          "quote": "When zoning capacity exceeds population by a wide margin, reductions to the cost of construction will benefit people looking to buy or rent a home. When capacity exceeds population by a narrow margin, cost reductions will benefit people who own land.",
+          "locator": "Phillips 2022, p. 7 (pull-quote)"
+        },
+        {
+          "quote": "Value capture is unnecessary in the context of broad upzoning: Lower land prices will automatically be 'captured' in the form of lower rents and sale prices.",
+          "locator": "Phillips 2022, p. 16 (pull-quote)"
+        }
+      ]
+    },
+    "existing_wiki_coverage": "objections/planning-restrictions-cause-high-prices.md (2,204 words) already argues, in point 2, that upzoning capitalises into land prices and that LVT and upzoning are complements, citing Freemark (2020, Chicago) and Greenaway-McGrevy, Pacheco & Sorensen (2021, Auckland) as peer-reviewed evidence of capitalisation, with Hoskins (Substack) and Wiebe (blog); it has a limits bullet that the windfall evidence 'covers the price effect, not the policy pairing'. It contains no discussion of how the SIZE of the upzone changes the windfall. objections/lvt-needs-zoning-reform-first.md (1,018 words) argues complementarity from Doucet and Hoskins; no upzone-size analysis. research/doucet-does-georgism-work.md and concepts/residual-land-valuation.md contain no zoning-buffer content (residual valuation page explains that land absorbs planning gain, which is the mechanism Phillips relies on). No page mentions 'zoning buffer', Phillips, the Lewis Center, Bundy Triangle or Minneapolis 2040. Related pages: research/gyourko-krimmel-zoning-tax (zoning tax on land values), research/hamilton-benefit-tax, concepts/nimbyism, problems/housing-unaffordability-is-a-land-problem, narratives/the-housing-crisis-is-a-land-crisis, places/vancouver (also uses 'upzon').",
+    "uncertainties": [
+      "The thesis is a model argument and a single case study; it is not an econometric test. The 'broad upzone' prediction (little or no land-value increase) rests on two thin pieces of evidence the report itself calls early or pending (Minneapolis 3-5%; California ADU laws).",
+      "Tension for the writer to handle neutrally: the wiki already cites Auckland as capitalisation evidence. Auckland's 2016 Unitary Plan was a large-scale upzone; whether it counts as a 'broad upzone' in Phillips' sense, and why capitalisation was found there, is not addressed by Phillips and was not researched in this pass. Do not assert either reading without reading Greenaway-McGrevy et al.",
+      "Phillips' framing treats land-value effects as bad for affordability and value capture as a poor tool; a Georgist reading would note that his mechanism (scarcity of permitted development sites generates land rent for incumbents) is the land-rent story and that an LVT would capture the scarcity rent in the targeted-upzone case. That is analysis, not a claim made by the report; label it as such if used.",
+      "The Minneapolis 3-5% figure is unsourced in the report text; later Minneapolis 2040 studies exist (Crossref hits: Hartley 2025 SSRN 5395203; Wang, Marsella & Melo 2025 SSRN 5347379) but were not read here and may differ.",
+      "Funding disclosure: supported by the Randall Lewis Housing Initiative; reviewers named in acknowledgements are Manville, Monkkonen and Lens (informal feedback, not peer review).",
+      "Report date January 2022 (eScholarship publication date 2022-01-25); the queue's 'EXA record dated 2026-09-23' is a re-indexing date, not a new edition."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://escholarship.org/uc/item/0r53h7pw",
+        "note": "UCLA Reports permalink; stable open copy of the report (PDF at /content/qt0r53h7pw/qt0r53h7pw.pdf). Cite this plus the Lewis Center page."
+      },
+      {
+        "url": "https://lewis.ucla.edu/research/building-up-the-zoning-buffer-using-broad-upzones-to-increase-housing-capacity-without-increasing-land-values/",
+        "note": "Institutional landing page (abstract)."
+      },
+      {
+        "url": "https://doi.org/10.1080/01944363.2020.1852101",
+        "note": "Kuhlmann (2021), 'Upzoning and Single-Family Housing Prices', JAPA - probable origin of the Minneapolis price figure; NOT confirmed and not read. Verify before attributing."
+      },
+      {
+        "url": "https://doi.org/10.1177/0042098020940602",
+        "note": "Greenaway-McGrevy, Pacheco & Sorensen (2021), Auckland upzoning and redevelopment premiums (already source [6] on the planning-restrictions objection page): the evidence the writer should set against Phillips."
+      }
+    ],
+    "suggested_inbound_links": [
+      "objections/planning-restrictions-cause-high-prices.md (point 2 and the limits bullet; Sources entry)",
+      "objections/lvt-needs-zoning-reform-first.md (Limits and Caveats; See Also)",
+      "narratives/the-housing-crisis-is-a-land-crisis.md (optional See Also)"
+    ]
+  },
+  {
+    "url": "https://www.landcycleinvestor.com/post/fred-harrison-on-the-future-of-the-18-year-land-cycle-economic-rent-and-the-crisis-ahead",
+    "title": "Fred Harrison on the Future of the 18-Year Land Cycle, Economic Rent and the Crisis Ahead (Catherine Cashmore, Land Cycle Investor, 9 Oct 2026)",
+    "what_was_fetched": "Post page (curl browser user-agent, HTTP 200; also r.jina.ai). Only the editor's introductory text (about 450 words) is public; the post ends 'Want to read more? Subscribe to landcycleinvestor.com to keep reading this exclusive post' (member-only, 44-minute read/watch). Page metadata: datePublished 2026-10-09T11:03Z. The video itself is not embedded in the public HTML (no YouTube/Vimeo ID found; Wix hosted members' area). Cashmore's public YouTube channel (UCog7YjDqdJSVqwFBbLfkAiQ, listed with yt-dlp --flat-playlist) shows no upload of this interview; the newest 25 titles are Australian housing-market commentary; one older public item is titled 'Fred Harrison: The End of the Land Cycle And The Destruction of Civilisation' (id oiQB2z3GySo), but yt-dlp was refused by YouTube's bot check, so it was not read, and it is a different, earlier video. No transcript, no timestamps and no audio were obtainable without subscribing; no attempt was made to bypass the paywall. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-16/cashmore_page.html, cashmore_page.txt, cashmore_jina.txt, lci_yt.html.",
+    "verdict": "REJECT (nothing citable is accessible). The only retrievable text is the editor's promotional introduction, which is Tier 2 on both sides (practitioner-advocate interviewer, practitioner-author Harrison, Tier 2 for everything under his own name by the 2026-09-21 ruling) and gives no content on the cycle's periodicity, no dating, no title for the 'final book'. If the loop wants to keep the lead alive, DEFER until the video/transcript is available to a subscriber; even then the ceiling is at most one attributed clause in people/fred-harrison.md (e.g. that Harrison is reported by his interviewer to be writing a book he describes as his last), which is trivia, not evidence, and does not justify a paywalled citation.",
+    "claim_grade": "D-claim, Tier 2 (Catherine Cashmore, editor of a paid newsletter and former president of Prosper Australia, practitioner-advocate; Fred Harrison, Tier 2 under his own name). Origin/proponent only, never support.",
+    "content_summary": {
+      "what_the_public_intro_says_attributed_to_cashmore": [
+        "Harrison 'is currently working on what he tells me will be his final book' (no title, publisher or date given).",
+        "The interview covers upheaval across Europe, economic grievances behind the protests, the economic rents captured by technology giants, governments letting 'wealth generated through publicly created opportunities' accumulate privately, and 'the potentially catastrophic consequences of the current cycle'.",
+        "Cashmore says she questioned Harrison 'in some detail' towards the end about how his explanation of why the cycle lasts about 18 years has changed in his more recent books, that Harrison 'is prepared to acknowledge what remains unexplained', and that they discussed 'whether the economic and political changes now unfolding could mean that the familiar 18-year pattern ... may not continue in the way we've come to expect'.",
+        "They revisit Homer Hoyt and Roy Wenzlick (Cashmore: Harrison met one of them - not named in the public text) and how their understanding differed from his.",
+        "Technical note: Harrison's connection dropped and the recording was paused several times."
+      ],
+      "answers_to_the_briefed_questions": {
+        "what_harrison_says_is_unexplained": "NOT AVAILABLE. Only Cashmore's one-line characterisation (above); no statement by Harrison is quoted in the public text.",
+        "does_he_expect_the_pattern_to_hold": "NOT AVAILABLE. The intro poses the question; no answer is given publicly.",
+        "dating_of_next_peak_or_downturn": "NOT AVAILABLE in this post. For context only, Cashmore's own public output (video titles such as 'A RECORD PROPERTY CRASH BY CHRISTMAS...', 'Charting the end of Australia's Land Cycle') asserts a late-cycle downturn in Australia; those are her views, not Harrison's.",
+        "final_book": "Named only as 'his final book' by Cashmore; no title. The interviewer notes Harrison has had health problems (personal information; not for the wiki).",
+        "timestamps": "None obtainable."
+      }
+    },
+    "existing_wiki_coverage": "people/fred-harrison.md (1,764 words, last reviewed 2026-07-18) covers The Power in the Land, the 2008 forecast, The Corruption of Economics, Ricardo's Law and The Traumatised Society with a Tier-2 advocacy caveat; no 2026 content, no 'final book', nothing on why the cycle lasts about 18 years. concepts/18-year-land-cycle.md (102 inbound links) states the cycle and cites Hoyt, Harrison, Gaffney (it records Gaffney's open 2012 forecast of a crash around 2026 and says 'no published source confirming or disconfirming' it); concepts/hirano-stiglitz-wobbly-dynamics notes models with no fixed periodicity. research/progress-18-6-year-cycle.md, research/foldvary-business-cycle-synthesis.md and about a dozen concept pages (land-bubble, land-speculation, kondratiev-waves, boom-bust-cycle, ...) reference the 18-year pattern. people/roy-wenzlick.md already cites Cashmore (Fat Tail Daily 2023; Land Cycle Investor 'The Land Cycle Secret') with a practitioner-advocate lineage caveat. The queue's claim that the outlet is already cited is correct.",
+    "uncertainties": [
+      "The video was not seen or heard; every description above is the interviewer's promotional paraphrase. Nothing about Harrison's reasoning can be reported as his.",
+      "Queue wording ('what he acknowledges remains unexplained', 'whether the pattern may not continue') comes from this same intro, so it adds no information.",
+      "Whether the interview is also available free (e.g. a YouTube upload) is unknown; the channel listing showed none as of 2026-10-16.",
+      "The page says '6 days ago' and datePublished 2026-10-09; the queue's 'October 2026' is right."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://www.landcycleinvestor.com/post/fred-harrison-on-the-future-of-the-18-year-land-cycle-economic-rent-and-the-crisis-ahead",
+        "note": "Paywalled members' post; intro public. Tier 2, origin only. Not citable for substantive claims."
+      }
+    ],
+    "suggested_inbound_links": []
+  },
+  {
+    "url": "https://blanchardbaltimore.transistor.fm/episodes/the-case-for-a-land-value-tax-with-vanessa-beck-baltimore-thrive",
+    "title": "The Case for a Land Value Tax with Vanessa Beck (Baltimore Thrive) - Blanchard on Baltimore, episode 6, 17 Sept 2026 (28:44)",
+    "what_was_fetched": "Transistor episode page (HTTP 200: show notes, duration 28:44, audio enclosure URL) and its full timestamped transcript at .../transcript (HTTP 200, about 5,400 words); no audio needed. Tier 1 primaries then located and read: (a) Baltimore City Council record via the Legistar Web API (client name 'baltimore'; the 'baltimorecity' client name errors): matter 26-0062R metadata, sponsors, history and the First Reader PDF (full text), plus the public Legistar page (HTTP 200); (b) Annual Property Tax ordinances: FY2026 (CB 25-0061, Ord. 25-026) 3rd reader and FY2027 (CB 26-0189, Ord. 26-142, enacted 2026-06-25) first and third readers; (c) Maryland General Assembly bill pages (mgaleg.maryland.gov) for HB 78 (2026), SB 457 (2026) and HB 1178 (2026, and 2024/2025 sessions), the HB 78 first-reader bill text and the Department of Legislative Services fiscal and policy note (full text). Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-16/blanchard_ep6_page.txt, blanchard_ep6_transcript.txt, blanchard_ep6_clean.txt, legistar1.json, baltimore_26-0062R.txt, baltimore_26-0062R_1st_reader.pdf, baltimore_26-0189.txt, b_5aaa00fe-753e-4046-a704-fb3dcdc06380.txt, b_fy26_3rd.txt, mga_hb78_2026RS.html/.txt, mga_hb0078F.txt, mga_hb0078_fnote.txt, mga_sb457.txt, mga_hb1178.txt.",
+    "verdict": "ENRICH events/2026-state-lvt-enablement-wave.md with a Maryland section built ONLY from the Tier 1 primaries below (HB 78 / SB 457 of 2026 and their disposition, the DLS fiscal note, Baltimore resolution 26-0062R, Baltimore's tax rate), and ALSO recommend NEW places/maryland.md (state history from the DLS note: 1994 enabling bill vetoed by Gov. Schaefer, Attorney General opinion that municipalities already have the power, failed bills 1996/97/2004/05, the 2024 and 2025 vacant-lot subclass acts, HB 78/SB 457, SDAT cost issue; plus a Baltimore City subsection). Inbound links for the new page: events/2026-state-lvt-enablement-wave.md, concepts/split-rate-taxation.md, places/united-states.md, places/pennsylvania.md, events/detroit-lvt-proposal.md. A separate places/baltimore.md is NOT recommended: the Baltimore content is one committee-stage informational-hearing resolution and a tax rate. The podcast should be cited only (i) as Tier 2 origin for Baltimore Thrive's advocacy account and (ii) as Tier 1 for Blanchard's statements about his own actions; do not cite it for Harrisburg outcomes, displacement, or revenue claims. IMPORTANT CORRECTION to BACKLOG.md line 108: Maryland HB 1178 (2026) is NOT an LVT bill (it is 'Municipalities - Annexation - Limitations', Delegates Harrison and Toles, Chapter 303); the 2026 split-rate enabling bill is HB 78 (Del. Vaughn Stewart) with Senate cross-file SB 457 (Sen. Rosapepe). The lead should be closed with that correction.",
+    "claim_grade": "Primaries: A-claims, Tier 1 (Baltimore City Council legislative record; Maryland General Assembly and its Department of Legislative Services; City ordinances). Podcast: D-claim, Tier 2 (advocacy account by Baltimore Thrive, an advocacy body; host is a sitting councilmember, Tier 1 only for his own legislative actions). Policy-effect statements in the episode (Harrisburg, displacement, revenue neutrality) are Tier 2/3 advocacy and should not be used as support.",
+    "content_summary": {
+      "episode_facts_attributed": {
+        "participants": "Host Zac Blanchard, Baltimore City Councilmember, 11th District; guest Vanessa Beck, Baltimore Thrive ('a grassroots organizing group pushing for a land value tax').",
+        "design_described": "Two-rate (split-rate) property tax: Maryland property tax bills already show land and improvements; lower the rate on improvements and raise it on land (Blanchard 00:00:00-00:00:39; Beck 00:01:20-00:02:17, who prefers 'land value tax shift'). Beck: revenue-neutral for the city 'such as in Harrisburg ... revenue positive over time' (00:23:01-00:23:35); Blanchard notes the current bill would allow but not require revenue neutrality and that this is to be discussed (00:23:35-00:23:47). No tax rates or ratios are proposed in the episode.",
+        "bill_impacts": "No dollar or percentage impact figures are given. Qualitative only: bills fall for 'almost all homeowners and productive commercial properties' (Blanchard 00:00:00); Beck (00:26:15-00:28:21) says modelling would show multifamily buildings, larger apartment buildings, condos and over-assessed West, East and South Side neighbourhoods benefit most; the need for neighbourhood-level modelling is stated as a next step (00:25:42).",
+        "harrisburg_claims_by_beck": "Vacant properties 'from over 5,000 ... to only a few hundred' over 10-15 years after the mid-1970s shift; businesses on the tax roll about 2,000 to about 9,000 by 2005; no mass displacement observed (00:10:38-00:15:14). Unsourced advocacy figures; the wiki's places/harrisburg-pennsylvania.md carries different numbers (vacant structures from over 4,000 to under 500).",
+        "pittsburgh_detroit": "Blanchard says Pittsburgh had a split rate for 'I think it was 70-something years' and attributes repeal to a 40-year gap in reassessment and corruption; says Detroit has been working to implement it but 'the state of Michigan was blocking that' (00:16:29-00:17:50). Casual, unsourced.",
+        "state_level_per_podcast": "Blanchard (00:18:00): the state must explicitly allow Baltimore City and the 23 counties; towns can already do so. 'Legislation was considered in the General Assembly in 2024 and 2025, and the state is funding a study currently.' Beck (00:18:51): last session's bill was cross-filed with co-sponsors; the Maryland Association of Counties has endorsed the enabling legislation 'at least twice'. Blanchard (00:21:18-00:22:00): main sponsor 'this past year' was Delegate Vaughn Stewart; SDAT's vendor estimated USD 36m to change the software; skeptics think it is an order of magnitude less. Beck (00:22:39): the fiscal note attached to 'HB 78' was high while a similar commercial-property bill had a USD 0 fiscal note. Beck (00:24:00): state enabling legislation must pass before the Council can act; a summer study is awaited; Baltimore Thrive has just begun monthly statewide meetings (00:19:28).",
+        "resolution_per_podcast": "Blanchard (00:00:39-00:00:53): 'I also recently introduced legislation to hold a hearing over this on the Baltimore City Council level a couple of weeks ago. We'll hopefully have that hearing in the fall.'"
+      },
+      "tier1_primary_resolution": {
+        "identifier": "Baltimore City Council Resolution 26-0062R, 'Informational Hearing - Land Value Tax' (Legistar matter ID 10605, GUID 7C9D4F11-068A-4601-ADFC-5B74B932B4B5)",
+        "introduced": "13 July 2026, Council Bill type 'City Council Resolution', First Reader; 'Introduced by: Councilmember Blanchard; Cosponsored by: Councilmembers Gray, Bullock, Middleton, and Porter' (Legistar lists Paris Gray, John Bullock, Sharon Green Middleton, Phylicia Porter and Zac Blanchard as sponsors).",
+        "status": "Assigned to the Budget and Appropriations Committee; referred to Housing and Community Development, Finance, Mayor's Office of Small and Minority Business Advocacy and Development, Planning, Live Baltimore and Baltimore Development Corporation. Status 'In Committee'; record last modified 2026-07-14; no hearing date, committee action or adoption recorded as of retrieval 2026-10-16.",
+        "what_it_asks": "'FOR the purpose of requiring the Department of Housing and Community Development, the Department of Finance, the Mayor's Office of Small and Minority Business Advocacy and Development, and the Department of Planning, and inviting Live Baltimore, the Baltimore Development Corporation, the Maryland Department of Assessments and Taxation, and other relevant stakeholders to a hearing to evaluate the benefits of implementing a split-rate property tax system in Baltimore City, including its effect on absentee property ownership and speculation, vacant residential and commercial properties, owner-occupant homeowner property taxes, and housing production.' It enacts nothing and does not endorse a rate.",
+        "recitals_worth_noting": "Recitals assert (not evidence) that 'Baltimore City has the highest property tax rate in Maryland', that lowering the property tax burden is a goal of the City's 10-year financial plan, and that 'municipalities in nearby Pennsylvania with split-rate taxes see more building construction than those with same-rate property taxes'.",
+        "url": "https://baltimore.legistar.com/LegislationDetail.aspx?ID=10605&GUID=7C9D4F11-068A-4601-ADFC-5B74B932B4B5"
+      },
+      "tier1_primary_state_bill": {
+        "HB_78_2026": "House Bill 78, 'Property Taxes - Authority of Counties to Establish Subclasses and Set Separate Rates for Land and Improvements to Land'. Sponsor: Delegate Stewart; pre-filed 17 Sept 2025; first reading and referral to Ways and Means 14 Jan 2026; hearing 27 Jan 2026 (1:00 pm, canceled and reset to 2:00 pm on 26 Jan); MGA record (last updated 30 June 2026) shows no committee vote or floor action - the bill did not advance. Text: authorises the Mayor and City Council of Baltimore City or the governing body of a county to establish land and improvements as subclasses (Tax-Property Art. 6-202.1) and to set separate real property tax rates for each (new 6-302(e)); rates 'are not required to be equal' and each must apply uniformly across the jurisdiction; effective 1 June 2026 and applicable to taxable years beginning after 30 June 2027. The text contains no revenue-neutrality requirement and no cap on the land:improvement ratio.",
+        "SB_457_2026": "Senate cross-file, Senator Rosapepe, first reading Budget and Taxation 2 Feb 2026, hearing 18 Feb 2026 at 1:00 pm; no later action on the MGA page.",
+        "DLS_fiscal_note": "Department of Legislative Services fiscal and policy note, first reader, 27 Jan 2026: State Department of Assessments and Taxation (SDAT) would need about USD 39.1m in FY2027 (computer programming USD 35.26m; 48 positions USD 3.4m; operating USD 0.47m) falling to USD 8.1m in FY2031; of which general funds USD 24.3m (FY2027) and county reimbursements (special funds) USD 14.8m in FY2027 and USD 7.3m in FY2031 (Chapter 604 of 2025 raised the local share of SDAT costs from 50% to 90%). SDAT reports it values land and improvements separately but passes counties only a combined value; SDAT says land typically makes up 20-40% of total real property value. Background in the note: land value taxation in use in 12 Pennsylvania cities and towns (Allentown about 125,000, Scranton 76,000, Harrisburg 50,000); four Virginia cities authorised, none enacted; Connecticut pilot ended in 2020 without implementation; Maryland: a 1994 bill authorising municipalities passed the General Assembly but was vetoed by Governor William D. Schaefer, an Attorney General opinion later concluded municipalities already have the power (none have used it), and bills in 1996, 1997, 2004 and 2005 got unfavourable reports or no action; Chapter 277 of 2024 authorised Baltimore City and counties to create a vacant-lot / vacant-and-unfit-building subclass with a special rate, and Chapter 170 of 2025 lets Baltimore City levy its regular and a special rate on specified vacant property that would otherwise be exempt.",
+        "HB_1178_correction": "HB 1178 (2026 session) is 'Municipalities - Annexation - Limitations', sponsored by Delegates Harrison and Toles, approved by the Governor as Chapter 303. HB 1178 does not exist in the 2024 or 2025 sessions. BACKLOG.md's lead naming it as a Maryland split-rate bill is wrong.",
+        "urls": [
+          "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0078?ys=2026RS",
+          "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0078F.pdf",
+          "https://mgaleg.maryland.gov/2026RS/fnotes/bil_0008/hb0078.pdf",
+          "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0457?ys=2026RS"
+        ]
+      },
+      "baltimore_existing_property_tax_rates": {
+        "FY2026": "Ordinance 25-026 (Council Bill 25-0061; period 1 July 2025 to 30 June 2026): USD 2.248 per USD 100 of assessed value of real property; USD 5.62 per USD 100 on personal property and operating real property (Tax-Property Art. 8-109(c)).",
+        "FY2027": "Ordinance 26-142 (Council Bill 26-0189, introduced 11 May 2026 by the Council President at the Administration's request, enacted 25 June 2026; 1 July 2026 to 30 June 2027): the same USD 2.248 and USD 5.62; semiannual payment service charge 1.21%.",
+        "note": "Both rates are single (same-rate) taxes on land and buildings combined. The resolution's claim that this is the highest rate in Maryland was not checked against other jurisdictions.",
+        "urls": [
+          "https://baltimore.legistar.com/LegislationDetail.aspx?ID=10117",
+          "https://baltimore.legistar.com/LegislationDetail.aspx?ID=10529"
+        ]
+      },
+      "discrepancies_between_podcast_and_primaries": [
+        "Timing: Blanchard says he introduced the hearing legislation 'a couple of weeks ago'; Legistar dates it 13 July 2026 (about nine weeks before the 17 Sept release). The episode was probably recorded earlier or the phrase is loose; no hearing had been scheduled in the record at retrieval.",
+        "Prior bills: the podcast says enabling legislation was 'considered in the General Assembly in 2024 and 2025'; the DLS note for HB 78 says 'Similar legislation has not been introduced within the last three years' (and lists the 2024 and 2025 chapters as vacant-property subclass measures, not a general split rate).",
+        "Cost: Blanchard cites USD 36m from SDAT's vendor; the fiscal note totals USD 39.1m for FY2027 (USD 35.3m of it computer programming) for the State, with USD 14.8m reimbursable by counties.",
+        "Cross-file: first-reader fiscal note says 'Designated Cross File: None'; the MGA page later shows SB 457 as the cross-file, which fits Beck's 'cross-filed'.",
+        "Beck's claim that a similar commercial-subclass bill carried a USD 0 fiscal note, MACo's endorsements, the 'summer study' and the Congressman Mfume call were not checked."
+      ]
+    },
+    "existing_wiki_coverage": "events/2026-state-lvt-enablement-wave.md covers New York (Sec. 119-r), Virginia (HB 282) and Kentucky (HB 607) in depth and says in one sentence that proposals in 'Colorado, Maryland, Maine, Minnesota, Ohio, and New Hampshire' stalled (source: Center for Land Economics tracker); no Maryland detail, no bill number. No places/maryland.md or places/baltimore.md exists (places/ has only research/maryland-digital-ad-tax unrelated). Baltimore appears in concepts/split-rate-taxation, concepts/mass-appraisal-methods, concepts/land-banking, research/gaffney-tax-reform-release-land, research/albouy-what-are-cities-worth, research/nyc-1920s-tax-exemption and organizations/center-for-land-economics in passing; none holds Maryland legislative facts. places/pennsylvania.md (two-rate precedent: Pittsburgh 1913, third-class cities 1951, school districts 1993, Harrisburg 1975, Allentown 1996) and places/harrisburg-pennsylvania.md cover the precedent; events/detroit-lvt-proposal.md covers Detroit. BACKLOG.md line 108 carries the incorrect 'HB 1178' lead. No coverage of Baltimore Thrive or Blanchard.",
+    "uncertainties": [
+      "Legistar and the MGA were read through their own public interfaces; the Legistar record may have changed after the 2026-07-14 modification date shown (no hearing action visible on 2026-10-16). Re-check before publishing a sentence about hearing status.",
+      "HB 78's 'did not advance' conclusion rests on the MGA page showing no action after the 27 Jan 2026 hearing and the 2026 session having ended; the same page's last-updated stamp is 30 June 2026. The wiki's Center for Land Economics tracker source also lists Maryland as not passed.",
+      "The podcast is a self-promotional council podcast; Beck's causal claims about Harrisburg are not evidence. The wiki's own Harrisburg page should govern those numbers.",
+      "Whether the 'state-funded study' Blanchard and Beck mention exists (budget language, statutory study, reporting date) was not located; do not state it as fact.",
+      "Whether Blanchard is the 'author' of the resolution in a stronger sense than lead sponsor: Legistar lists five sponsors, the First Reader says 'Introduced by Councilmember Blanchard'.",
+      "Sponsorship detail 'Paris Gray' etc. is as the Legistar record gives it; titles (e.g. Council President) were not verified."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://baltimore.legistar.com/LegislationDetail.aspx?ID=10605&GUID=7C9D4F11-068A-4601-ADFC-5B74B932B4B5",
+        "note": "Baltimore City Council record for Resolution 26-0062R (Tier 1, official body). First Reader PDF: https://baltimore.legistar1.com/baltimore/attachments/8c431a96-a701-4de2-8c7b-e62547ef187d.pdf"
+      },
+      {
+        "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0078?ys=2026RS",
+        "note": "Maryland General Assembly page for HB 78 (2026): sponsor, history, disposition (Tier 1)."
+      },
+      {
+        "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0078F.pdf",
+        "note": "HB 78 first reader text (Tier 1)."
+      },
+      {
+        "url": "https://mgaleg.maryland.gov/2026RS/fnotes/bil_0008/hb0078.pdf",
+        "note": "DLS fiscal and policy note: SDAT cost USD 39.1m FY2027, state history 1994 veto and prior bills, Pennsylvania/Virginia/Connecticut background (Tier 1, nonpartisan legislative staff)."
+      },
+      {
+        "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0457?ys=2026RS",
+        "note": "SB 457 (2026), Senate cross-file, Sen. Rosapepe (Tier 1)."
+      },
+      {
+        "url": "https://baltimore.legistar.com/LegislationDetail.aspx?ID=10529",
+        "note": "Ordinance 26-142 / CB 26-0189, FY2027 annual property tax: USD 2.248 per USD 100 (Tier 1). Third reader PDF: https://baltimore.legistar1.com/baltimore/attachments/5aaa00fe-753e-4046-a704-fb3dcdc06380.pdf"
+      },
+      {
+        "url": "https://baltimore.legistar.com/LegislationDetail.aspx?ID=10117",
+        "note": "Ordinance 25-026 / CB 25-0061, FY2026 annual property tax: USD 2.248 per USD 100 (Tier 1). Third reader PDF: https://baltimore.legistar1.com/baltimore/attachments/800fe818-7bbe-4aa6-b99a-35596fe02291.pdf"
+      },
+      {
+        "url": "https://blanchardbaltimore.transistor.fm/episodes/the-case-for-a-land-value-tax-with-vanessa-beck-baltimore-thrive/transcript",
+        "note": "Full timestamped transcript. Tier 2 (advocacy) origin for Baltimore Thrive's account; Tier 1 only for Blanchard's own legislative actions."
+      }
+    ],
+    "suggested_inbound_links": [
+      "events/2026-state-lvt-enablement-wave.md (new Maryland paragraph replacing the bare 'Maryland ... stalled' mention; add See Also to places/maryland.md)",
+      "places/maryland.md (NEW)",
+      "concepts/split-rate-taxation.md",
+      "places/united-states.md",
+      "places/pennsylvania.md (the two-rate precedent both Blanchard and the DLS note point to)",
+      "BACKLOG.md line 108: close or correct the HB 1178 lead"
+    ]
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7474498",
+    "title": "Same Data, Different Winners: Valuation Model Uncertainty Sensitivity Analysis (Ethan Go, SSRN 7474498, Sept 2026)",
+    "what_was_fetched": "SSRN abstract and PDF pages are blocked (Cloudflare 403) for curl with a browser user-agent, r.jina.ai (CAPTCHA page) and the Googlebot user-agent, on abstract, Delivery.cfm, ssrn.com/abstract and the DOI redirect. The full abstract was obtained from the Crossref record for doi:10.2139/ssrn.7474498 (deposited 2026-09-19; zero references deposited); OpenAlex lists the author affiliation as Northeastern University. Semantic Scholar has no record. Author standing from the author's public ORCID record (0009-0007-5380-5311, pub.orcid.org). No open full-text copy found (personal site ethantgo.github.io returns GitHub Pages 404; web searches find no author page, repository or earlier version). Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-16/go_crossref.json, go_openalex.json, go_orcid.json, go_site.html. The paper's design and numbers beyond the abstract could not be read.",
+    "verdict": "REJECT (do not cite; DEFER only if a peer-reviewed or institutional version appears). Reasons: a single-author, non-peer-reviewed preprint by a graduate student; only the abstract could be read and it reports no figures (no sample size, no list of alternative models, no measure of how much the winner/loser sets change); the central proposition (model choice changes simulated tax-shift incidence) is unquantified in what is accessible; the wiki already covers assessment uncertainty with better-graded sources. If the loop nevertheless wants a mention, the ceiling is one attributed sentence on concepts/mass-appraisal-methods.md or research/howard-wong-commercial-property-tax-misvaluation.md (not on the objection pages), phrased 'an unreviewed 2026 preprint by a graduate student reports ...', with no numbers; not recommended.",
+    "claim_grade": "D-claim (empirical, unreviewed, unread beyond abstract), Tier 2/3 (graduate-student author, single-author SSRN preprint, self-funded; fails the recognised-scholar test of EDITORIAL.md section 4c).",
+    "content_summary": {
+      "author_standing": "Ethan Go, Northeastern University. His public ORCID record lists an employment entry 'Graduate Student', department 'Bouve' (Northeastern's Bouve College of Health Sciences), with keywords 'Statistics' and 'Causal Inference'; the record was created March 2026 and its only listed work is this preprint. He is therefore a student, not faculty and not a recognised land-economics or public-finance scholar; the queue's 'Northeastern University' is an affiliation, not a faculty appointment. LinkedIn is listed as a researcher URL (not opened).",
+      "abstract_verbatim_extracts_le_50_words": [
+        {
+          "quote": "The Cook County Assessor's Office employs LightGBM to estimate parcel assessed values based on property characteristics, but this is only one modeling choice among many.",
+          "locator": "Crossref abstract, paragraph 1"
+        },
+        {
+          "quote": "model selection is a first-order consideration in tax shift analysis, one that existing policy studies largely overlook.",
+          "locator": "Crossref abstract, paragraph 1"
+        },
+        {
+          "quote": "downstream Uniform-to-LVT simulations yield significantly different outcomes across different metrics used to analyze the shift.",
+          "locator": "Crossref abstract, paragraph 2"
+        }
+      ],
+      "design_as_far_as_known": "Simulated transition from a uniform property tax to an LVT using parcel-level machine-learning predictions of assessed value in Cook County, Illinois; compares LightGBM (the Assessor's production model) with unspecified alternative ML model classes by the distribution of predicted values and by 'different metrics' of who gains and loses. Not in the abstract: which alternative models, the data vintage, whether land and improvement values are separately predicted, the LVT design (revenue-neutral? rate ratio?), the metrics, and any numbers. The abstract's opening sentence cites 'Cord, 1985' for the claim that shifting property tax from buildings to land 'encourages development and improves equity' - Steven Cord is a Georgist scholar-activist (wiki: people/steven-cord), not a neutral empirical source.",
+      "headline_result": "Qualitative only: simulated winners and losers differ 'significantly' depending on the model; no measure of how much the set of winners and losers changes is given in the abstract.",
+      "bibliographic": "SSRN preprint; the queue records 12 pages, written 16 Sept 2026, posted 19 Sept, revised 21 Sept, self-funded, no competing interests (not independently confirmed; the SSRN page was unreachable). Crossref created 2026-09-19."
+    },
+    "existing_wiki_coverage": "No page cites Go, LightGBM or model-uncertainty in LVT simulation. Closest coverage: concepts/mass-appraisal-methods.md cites the Cook County Assessor's open-source residential AVM (source 10, github.com/ccao-data/model-res-avm) as the production example of ML CAMA; objections/lvt-invites-assessment-corruption.md uses Cook County bribery and under-assessment (DOJ press release; ProPublica) as the steelman; research/howard-wong-commercial-property-tax-misvaluation.md (Cook County commercial misvaluation, no ML-model comparison); research/holz-perez-truglia-simon-zentner-ai-tax-appeals.md (AI in tax appeals); objections/land-cannot-be-assessed.md and research/doucet-does-georgism-work.md (Part 3 on assessment; Doucet's Sept 2026 self-assessment says assessment has aged least well). None of these treats model-choice sensitivity of simulated tax-shift incidence; the proposition is new to the wiki but unremarkable (any simulation depends on its inputs) and the stronger wiki evidence on assessment accuracy (IAAO standards, Gloudemans, Howard & Wong, Korea's land valuation system) is better graded.",
+    "uncertainties": [
+      "Only the abstract was read. The summary could understate or overstate the paper; the effect sizes, alternative models and robustness checks are unknown.",
+      "Author standing rests on a self-maintained ORCID employment entry ('Graduate Student', Bouve) and the preprint's Northeastern affiliation; no university profile page was found to confirm programme or supervisor.",
+      "Queue says 12 pages and self-funded; not checked against the SSRN page.",
+      "The finding may well be sound but it is by an unreviewed student preprint; the rubric in section 4c asks for recognised scholars or official bodies for support."
+    ],
+    "candidate_sources": [
+      {
+        "url": "https://doi.org/10.2139/ssrn.7474498",
+        "note": "DOI for the SSRN preprint (abstract in Crossref: https://api.crossref.org/works/10.2139/ssrn.7474498). Blocked here; a human can read the full text. Tier 2/3."
+      },
+      {
+        "url": "https://github.com/ccao-data/model-res-avm",
+        "note": "Cook County Assessor's residential AVM (already source 10 on concepts/mass-appraisal-methods.md): official, Tier 1 source for what model the Assessor actually uses (LightGBM) if a writer needs that fact."
+      }
+    ],
+    "suggested_inbound_links": []
+  }
+]

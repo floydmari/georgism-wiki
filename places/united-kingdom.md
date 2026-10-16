@@ -58,6 +58,7 @@ A follow-up essay in the same Foundation series (10 September 2026) turns from t
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) · [David Lloyd George](/wiki/david-lloyd-george/) · [Winston Churchill](/wiki/winston-churchill/) — the Georgist campaign and its architects
 - [A Short History of Enclosure in Britain](/wiki/fairlie-short-history-enclosure/) — how British land concentration arose
 - [Town and Country Planning Act 1947](/wiki/town-and-country-planning-act-1947/) · [Betterment Levy](/wiki/betterment-levy/) — the planning-based value-capture attempt and its repeal
+- [Gibson: Revenue from the Community Infrastructure Levy, 2010 to 2025](/wiki/gibson-community-infrastructure-levy-revenue/) — what the surviving developer levy actually raises, set against the repealed betterment taxes
 - [Land Value Tax](/wiki/land-value-tax/) — the policy the People's Budget and later reformers have proposed reviving
 - [Rethinking the Economics of Land and Housing (book)](/wiki/rethinking-economics-land-housing/) · [Land Is a Big Deal (book)](/wiki/land-is-a-big-deal/) — the sources behind the contemporary housing-crisis data
 - [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — a 2026 proposal for national rent controls tracing the PRS affordability crisis to 1980s-90s deregulation

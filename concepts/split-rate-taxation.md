@@ -34,6 +34,7 @@ Cohen & Coughlin (2005) is candid about the difficulties, drawing on Edwin Mills
 
 ## See Also
 
+- [Maryland](/wiki/maryland/) — a 2026 enabling bill stalled after hearings; Baltimore's council resolution for a hearing
 - [Brueckner (1986)](/wiki/brueckner-site-value-taxation/) — the canonical theory of why grading the tax toward land raises building intensity
 - [Walczak: Replacing the Irreplaceable — Ohio Property Tax Revenue Alternatives](/wiki/lincoln-ohio-property-tax-alternatives/) — a cautionary quantification of the cost of abandoning the property tax base for income/consumption taxes instead of shifting it toward land
 
