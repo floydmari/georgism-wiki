@@ -147,6 +147,7 @@ The honest assessment is that the theoretical mechanism is well-established and 
 - [Land Speculation](/wiki/land-speculation/)
 - [Speculative Vacancy](/wiki/speculative-vacancy/)
 - [Spatial Misallocation](/wiki/spatial-misallocation/)
+- [Land Value Tax Enables Green Growth (Forrester, 2026)](/wiki/forrester-lvt-green-growth/) — argues that LVT removes homeowners' incentive to lobby for density limits, with dense central locations as the greenest places to live
 
 ## Sources
 

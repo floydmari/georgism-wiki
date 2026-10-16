@@ -5697,3 +5697,28 @@ Cashmore and Go placed.
 
 Lint 0 errors; inventory 1031 pages, 0 orphans. Ledger: 0 pending, 461 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-16 (11:11) — green growth, a diagnostic toolkit, and Ireland's unenforced dereliction levy
+
+Three scanner items from the morning scan. Forrester's "Land Value Tax Enables Green Growth"
+(Erasmus Journal for Philosophy and Economics, open access, read in full) gets a research
+page written as his argument: the growth–environment conflict as contingent on private
+ownership of natural resources, land underused and depletables overused, annual rent
+capture for the one and severance charges for the other, and LVT rather than degrowth as the
+anchor of a green new deal. The page carries the tension between the zero-deadweight-loss
+premise and a severance tax designed to change extraction timing. Five pages link in,
+including a new "Growth, Degrowth and Green Growth" section on ecological-georgism; the
+older Forrester page loses two access notes from its reader prose. The LoGRI diagnostic
+toolkit is a how-to with no findings and nothing on land-value bases, so it gets one Nuances
+bullet on the Franzsen & McCluskey page rather than a page. The #DerelictIreland essay on
+the Derelict Sites Levy is Tier 2, so the new dereliction section on places/ireland.md is
+built from the statute, the Department of Housing 2024 return, Revenue's statistics and the
+two budget documents; five of the essay's figures did not match the primaries (€42m
+outstanding is €26.3m in the return; nine councils, not ten, levied nothing; the Vacant
+Homes Tax count is now 1,655; the 1.8% ratio mixes universes; "95% collection" is 96–97%
+payment compliance) and were left out, with the discrepancies recorded in the ledger. The
+Budget 2027 tax-policy PDF was blocked, so the new tax's design detail and Ireland's
+Residential Zoned Land Tax go on the BACKLOG as leads.
+
+Lint 0 errors; inventory 1032 pages, 0 orphans. Ledger: 0 pending, 464 consumed. Merged to
+main and Ghost-synced.

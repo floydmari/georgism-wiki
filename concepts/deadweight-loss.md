@@ -94,6 +94,7 @@ How these numbers enter public decisions is less tidy. A review of cost-benefit 
 - [Economic Rent](/wiki/economic-rent/) — the base that LVT targets
 - [ATCOR](/wiki/atcor/) — the stronger theorem about tax incidence
 - [Gaffney (2005): A Better Way of Gauging the Excess Burden of Shiftable Taxes](/wiki/gaffney-excess-burden-shiftable-taxes/) — the attributed land-use-shifting critique of conventional excess-burden measurement
+- [Land Value Tax Enables Green Growth (Forrester, 2026)](/wiki/forrester-lvt-green-growth/) — a 2026 philosophical restatement of the fixed-supply argument, extended to depletable resources
 
 ## Sources
 

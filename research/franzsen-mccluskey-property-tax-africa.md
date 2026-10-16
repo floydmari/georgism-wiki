@@ -9,7 +9,7 @@ tier: Important
 source_url: https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/property-tax-in-africa-full_1.pdf
 stub: false
 excerpt: "The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-10-16
 bears_on_objections: [lvt-invites-assessment-corruption]
 supports_outcomes: [property-tax-raises-welfare-developing]
 ---
@@ -43,6 +43,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 - **Heterogeneity across 29 countries is large.** Findings for well-administered systems (e.g., Cape Town's CAMA-based valuation) differ sharply from near-total administrative failure elsewhere (e.g., Gambia, Guinea-Bissau). Continent-wide generalizations understate this variation.
 - **Some country data are dated.** The editors note in the preface that not all country chapters could be fully updated and that some property-tax data reflect the mid-2010s or earlier; a handful of countries were not visited by research fellows at all (e.g., Algeria, Somalia, Zimbabwe among others), relying on secondary sources.
 - **Institutional perspective.** The authors are valuation and property-tax specialists working within the Lincoln Institute/African Tax Institute tradition, which has a general institutional preference for value-based property taxation; this is disclosed rather than hidden (the book itself argues area-based systems are often the pragmatic solution given African administrative realities), but readers should note the authors' disciplinary lens is public finance/valuation administration, not welfare economics.
+- **Later diagnostic practice points the same way.** A 2026 diagnostic toolkit from the Local Government Revenue Initiative at the University of Toronto breaks the property-tax cycle into identification, valuation, rates and exemptions, billing, appeals, payment, voluntary compliance and enforcement, pairs the technical assessment with a political-economy assessment, and treats underperformance as usually political and administrative rather than technical; it states, without citation, that most lower-income countries collect under 0.2 per cent of GDP in property tax against 1–2 per cent in OECD countries, and it does not discuss land-value or site-value bases.[4]
 
 ## Bears On
 
@@ -69,3 +70,4 @@ The book should **not** be read as evidence that raising rates increases welfare
 1. Riël Franzsen and William McCluskey, eds. (2017), *Property Tax in Africa: Status, Challenges, and Prospects*, Lincoln Institute of Land Policy. [Free PDF](https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/property-tax-in-africa-full_1.pdf) — used for all findings above; specifically the Introduction (ch. 1), Policy and Practice (ch. 2), and Challenges, Prospects, and Recommendations (ch. 36), read directly for this page.
 2. Lincoln Institute of Land Policy, book landing page. [lincolninst.edu](https://www.lincolninst.edu/publications/books/property-tax-in-africa/) — used for publication details, page count, and editor affiliations.
 3. Keen, M. (2012), cited in Franzsen & McCluskey (2017) ch. 36 — used for the "persistent and unspectacular effort" characterization of collection reform, as quoted in the source book (secondary citation; the original Keen text has not been independently consulted).
+4. Wilson Prichard (2026), *LoGRI Property Tax Diagnostic Toolkit*, Guidance Note 05 (August 2026) and Policy Brief 15 (September 2026), Local Government Revenue Initiative, University of Toronto. [Summary](https://logri.org/publication/logri-property-tax-diagnostic-toolkit-summary/); [full guidance note (PDF)](https://utoronto.scholaris.ca/server/api/core/bitstreams/2900c048-9e26-441c-887c-68776cb37a09/content) — used for the property-tax-cycle framework, the political-economy component and the sub-0.2-per-cent-of-GDP figure (B-claim for the framework; C-claim for the uncited aggregate; Tier 1 institutional research; read in full).

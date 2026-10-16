@@ -4,8 +4,8 @@ authors:
 bears_on_objections:
 - lvt-is-socialism
 category: research
-excerpt: "A philosophy paper arguing Locke conflated the value of natural resources with the value labor adds to them, and that George's rent-payment argument turns Nozick's own 'taxation as forced labor' objection back against private natural-resource ownership — self-ownership, properly understood, requires free access to natural resources rather than grounding private title to them."
-last_reviewed: 2026-08-27
+excerpt: "A philosophy paper arguing Locke conflated the value of natural resources with the value labor adds to them, and that George's rent argument turns Nozick's forced-labor objection against private natural-resource ownership: self-ownership requires free access to natural resources."
+last_reviewed: 2026-10-16
 source_url: https://doi.org/10.1007/s10982-026-09566-7
 stub: false
 subcategory: wiki-research-georgism
@@ -25,7 +25,7 @@ year: 2026
 ## Summary
 
 "Property Rights and Natural Resources," by **Paul Forrester**, appeared in *Law and
-Philosophy*, published 20 May 2026. The paper opens with a direct statement of the stakes:
+Philosophy*, published 20 May 2026; a companion article, [Land Value Tax Enables Green Growth](/wiki/forrester-lvt-green-growth/), applies its justice argument to environmental policy. The paper opens with a direct statement of the stakes:
 natural resources, especially land, are central to major problems society faces — the
 climate crisis, housing shortages, severe inequality — yet land "has been either entirely
 neglected or seriously misunderstood by contemporary theorists of distributive justice." The
@@ -88,17 +88,15 @@ ownership rather than by simply asserting a competing value judgment.
 
 ## Nuances and Limits
 
-- **Only the abstract is publicly available**; the full article sits behind a Springer
-  paywall, and this summary rests on the abstract. Specific textual arguments, objections
-  Forrester considers and rejects, and any formal argument structure are therefore outside
-  the scope of this page.
+- **Summary at the level of the published abstract.** The specific textual arguments,
+  the objections Forrester considers and rejects, and any formal argument structure are
+  not covered here.
 - **A philosophical argument, not an empirical claim** — this paper contributes to
   distributive-justice theory, not to any empirical question about land markets or tax
   incidence.
-- **The "turns Nozick against himself" framing is this page's own gloss** on the paper's
-  self-ownership argument, based on the available abstract; a full read may qualify or
-  refine how directly the paper engages Nozick specifically versus libertarian
-  natural-rights theory more broadly.
+- **The "turns Nozick against himself" framing is an interpretive gloss** on the paper's
+  self-ownership argument as the abstract states it; the full text may engage Nozick
+  specifically or libertarian natural-rights theory more broadly.
 
 ## Bears On
 
@@ -113,6 +111,7 @@ ownership rather than by simply asserting a competing value judgment.
 - [Geolibertarianism](/wiki/geolibertarianism/)
 - [Land as Commons](/wiki/land-as-commons/)
 - [Narrative: The Community Creates Land Value](/wiki/community-creates-land-value/)
+- [Land Value Tax Enables Green Growth (Forrester, 2026)](/wiki/forrester-lvt-green-growth/) — the companion paper, which cites this one for its justice ground and applies it to the growth-versus-environment debate
 
 ## Sources
 

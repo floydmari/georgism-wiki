@@ -5,7 +5,7 @@ tags: [concepts, ecological-georgism, environment, carbon, pigouvian, resource-r
 stub: false
 supports_outcomes: [carbon-pricing-cuts-emissions]
 excerpt: "The extension of Georgist rent-capture to all natural resources and environmental externalities — taxing pollution, carbon, and resource extraction as forms of rent."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-10-16
 ---
 
 ## Definition
@@ -15,6 +15,10 @@ last_reviewed: 2026-07-18
 ## The Argument
 
 Pollution and resource extraction use commonly-owned natural assets without paying for them — a form of unpriced [resource rent](/wiki/resource-rents/). Ecological Georgists support **carbon taxes, severance taxes, congestion charges, and pollution fees** as the environmental application of rent capture: charge for the use of the commons, and (often) return the proceeds as a [citizen's dividend](/wiki/citizens-dividend/). This aligns the Georgist tradition with **Pigouvian** environmental economics — both charge for socially-costly use of shared resources.
+
+## Growth, Degrowth and Green Growth
+
+The degrowth literature holds that absolute decoupling of output from resource use has not happened and cannot. One peer-reviewed response from within the rent-capture tradition is Paul Forrester's 2026 article in the *Erasmus Journal for Philosophy and Economics*, which argues that the conflict between growth and the environment is contingent on private ownership of natural resources: under private ownership inexhaustible resources such as land are underused and exhaustible ones overused, and an annual tax on land rent together with severance taxes on depletables would correct both tendencies, so that a land value tax rather than degrowth should anchor a green new deal (see [Land Value Tax Enables Green Growth](/wiki/forrester-lvt-green-growth/)).[5] It is a philosophical argument by a single author, with no empirical test of the decoupling claim.
 
 ## Significance
 
@@ -57,6 +61,7 @@ Gaffney's own resolution routes the problem back to land rather than to a clever
 - [The EU ETS reduced CO2 emissions despite low prices (Bayer & Aklin)](/wiki/bayer-aklin-eu-ets/) — empirical evidence that charging for the atmospheric commons curbs its overuse
 - [Carbon Taxes and CO2 Emissions: Sweden (Andersson)](/wiki/andersson-sweden-carbon-tax/) — the cleanest causal carbon-tax case
 - [Gaffney (1988/89): Nonpoint Pollution](/wiki/gaffney-nonpoint-pollution/) — Gaffney's own case that diffuse pollution traces back to land-market failure, not just missing prices
+- [Land Value Tax Enables Green Growth (Forrester, 2026)](/wiki/forrester-lvt-green-growth/) — a peer-reviewed argument that rent capture, not degrowth, reconciles growth with resource limits
 
 ## Sources
 
@@ -64,3 +69,4 @@ Gaffney's own resolution routes the problem back to land rather than to a clever
 2. IMF (2012), "Issues in Extractive Resource Taxation" — used for the mainstream fiscal treatment of resource rents (A/B-claims). [PDF](https://www.imf.org/external/pubs/ft/wp/2012/wp12287.pdf)
 3. Herman E. Daly, *Ecological Economics and the Ecology of Economics* (Edward Elgar, 1999) — used for the steady-state economics framework, throughput limits, and the connection between ecological constraints and rent theory (C/D-claims). [Book page](/wiki/ecological-economics-daly/)
 4. Mason Gaffney (1988/89), "Nonpoint Pollution: Tractable Solutions to Intractable Problems," *JBA* 18(1–2): 133–154 — used for the critique of surrogate-tax Pigouvian design, the land-market-failure diagnosis, and the forestry/urban-sprawl/agriculture case studies (C/D-claims; argued, not modeled). [wiki summary](/wiki/gaffney-nonpoint-pollution/)
+5. Paul Forrester (2026), "Land Value Tax Enables Green Growth," *Erasmus Journal for Philosophy and Economics* 19(1), DOI [10.23941/ejpe.v19i1.1038](https://doi.org/10.23941/ejpe.v19i1.1038) — used for the contingency thesis and the underuse/overuse asymmetry as the author's argument (B-claim; peer-reviewed; Tier 1; read in full). See [Land Value Tax Enables Green Growth](/wiki/forrester-lvt-green-growth/).

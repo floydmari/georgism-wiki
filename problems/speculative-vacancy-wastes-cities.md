@@ -176,6 +176,7 @@ tax it"; they should not say "speculators are the cause of the housing crisis."
 - [Prosper Australia](/wiki/prosper-australia/) · [Narrative: The Housing Crisis Is a Land Crisis](/wiki/the-housing-crisis-is-a-land-crisis/)
 - [High land rents suppress productivity](/wiki/high-land-rents-suppress-productivity/)
 - [Gaffney (2006): New Life in Old Cities](/wiki/gaffney-new-life-in-old-cities/) — the San Diego "frozen skyline" historical illustration
+- [Ireland](/wiki/ireland/) — a status-based derelict-sites levy whose registers and collection fall far short of the measured stock of idle property
 
 ## Sources
 

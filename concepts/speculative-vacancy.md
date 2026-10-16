@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, speculative-vacancy, land-banking, housing, prosper-australia]
 stub: false
 excerpt: "Land or housing deliberately held empty in anticipation of capital gains rather than rented or developed — the visible symptom LVT targets. Covers the option-value theory of why owners wait, the measurement methods, the historical record, and the honest caveats."
-last_reviewed: 2026-07-06
+last_reviewed: 2026-10-16
 ---
 
 ## Definition
@@ -57,6 +57,14 @@ almost no tax — and improving the site *raises* the bill.
 - **Vacancy is the visible tip.** Under-use (a parking lot on a prime corner) is
   economically similar but doesn't register as "vacancy" — which is why the
   outcome literature tests construction and density, not emptiness counts alone.
+- **Vacancy and dereliction charges depend on enforcement design.** A holding charge
+  that bites only after an official finding of vacancy or dereliction captures only what
+  gets registered and collected: Ireland's 7 per cent Derelict Sites Levy covered 2,140
+  registered sites at the end of 2024, against roughly 19,800 derelict dwellings in a
+  private count, and councils received under a tenth of what they levied that year (see
+  [Ireland](/wiki/ireland/)). Where a vacancy tax is administered through the ordinary tax
+  system, measured effects are real but modest ([Ségu on France](/wiki/segu-vacancy-tax-france/),
+  [Vancouver](/wiki/vancouver-empty-homes-tax/)).
 
 ## Book Findings
 

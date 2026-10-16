@@ -5,7 +5,7 @@ tags: [concepts, resource-rents, natural-resources, severance-tax, resource-curs
 stub: false
 supports_outcomes: [resource-rent-capture-works]
 excerpt: "The economic rent from natural resources — oil, minerals, spectrum, fisheries — which Georgist analysis treats like land rent: socially capturable without efficiency loss."
-last_reviewed: 2026-09-30
+last_reviewed: 2026-10-16
 ---
 
 ## Definition
@@ -14,7 +14,7 @@ last_reviewed: 2026-09-30
 
 ## Capturing Resource Rent
 
-Mechanisms include severance and royalty taxes, auctioned extraction rights, spectrum auctions, and resource dividends. As with land, a well-designed rent charge does not reduce the supply of the resource (it is fixed by nature), so it carries little [deadweight loss](/wiki/deadweight-loss/).
+Mechanisms include severance and royalty taxes, auctioned extraction rights, spectrum auctions, and resource dividends. As with land, a well-designed rent charge does not reduce the supply of the resource (it is fixed by nature), so it carries little [deadweight loss](/wiki/deadweight-loss/). The instrument differs by resource type: Forrester (2026) argues that an annual charge on rental value suits land, whose supply is permanent, while an annual charge on a deposit would hasten extraction, so depletable resources call for a severance-type charge collected when the resource is developed (see [Land Value Tax Enables Green Growth](/wiki/forrester-lvt-green-growth/)).[17]
 
 ## The Resource Curse
 
@@ -286,6 +286,7 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 - [Gaffney & Noyes (1998): The Income-Stimulating Incentives of the Property Tax](/wiki/gaffney-noyes-income-stimulating-property-tax/) — a 23-point taxonomy of devices that understate land value ("falsified land values"), plus a US-state property-tax-reliance comparison
 - [GAO (2017): Federal Oil and Gas Royalty Rates — Production Versus Revenue](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — the 12.5% onshore royalty, its 2022–2025 history, and the production-versus-revenue trade-off
 - [Capturing resource rent works — where institutions are strong](/wiki/resource-rent-capture-works/)
+- [Land Value Tax Enables Green Growth (Forrester, 2026)](/wiki/forrester-lvt-green-growth/) — why land takes an annual rent charge and depletables a severance charge
 
 ## Sources
 
@@ -305,3 +306,4 @@ Daly's concept of "uneconomic growth" — growth that costs more in sacrificed e
 14. Mushtaq H. Khan (2010), "Political Settlements and the Governance of Growth-Enhancing Institutions," SOAS, University of London, research paper. [eprints.soas.ac.uk/9968](https://eprints.soas.ac.uk/9968/) — used for the Tanzania sentence on aid and natural-resource rents weakening a ruling coalition's incentive to build the productive sector (p. 75) (B-claim; working paper by an established academic, read from an author-posted mirror). Fuller treatment on the [rent-seeking](/wiki/rent-seeking/) page.
 15. 30 U.S.C. §226 with amendment notes, Cornell Legal Information Institute, [law.cornell.edu/uscode/text/30/226](https://www.law.cornell.edu/uscode/text/30/226) — used for the 12½ percent competitive-lease royalty floor, the 2022 change to 16⅔ percent (Pub. L. 117-169, §50262) and its 2025 repeal (Pub. L. 119-21, §50101(a)) (A-claim; statute text and codifier's notes).
 16. U.S. Government Accountability Office (2017), *Oil, Gas, and Coal Royalties: Raising Federal Rates Could Decrease Production on Federal Lands but Increase Federal Revenue*, GAO-17-540, [gao.gov/products/gao-17-540](https://www.gao.gov/products/gao-17-540) — [wiki summary](/wiki/gao-2017-federal-oil-gas-royalty-rates/) — used for the production-versus-revenue finding and its caveats (p. 16 and passim) (B-claim; official audit-body review of simulation studies, not observed rate changes).
+17. Paul Forrester (2026), "Land Value Tax Enables Green Growth," *Erasmus Journal for Philosophy and Economics* 19(1), DOI [10.23941/ejpe.v19i1.1038](https://doi.org/10.23941/ejpe.v19i1.1038), pp. 10, 13 — used for the annual-rent versus severance distinction as the author's argument (B-claim; peer-reviewed; Tier 1; read in full).
