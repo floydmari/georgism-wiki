@@ -330,7 +330,7 @@
         "efficiency"
       ],
       "action": "updated",
-      "published_at": "2026-10-14T11:31:59.000Z",
+      "published_at": "2026-10-16T11:31:51.000Z",
       "notified": false
     },
     {
@@ -1060,6 +1060,163 @@
       ],
       "action": "updated",
       "published_at": "2026-10-16T03:33:04.000Z",
+      "notified": false
+    },
+    {
+      "slug": "forrester-lvt-green-growth",
+      "title": "Land Value Tax Enables Green Growth (Forrester, 2026)",
+      "url": "https://www.progress.org/wiki/forrester-lvt-green-growth/",
+      "category": "research",
+      "tags": [
+        "research",
+        "green-growth",
+        "degrowth",
+        "ecological-georgism",
+        "severance-tax",
+        "deadweight-loss",
+        "distributive-justice",
+        "urban-density"
+      ],
+      "action": "published",
+      "published_at": "2026-10-16T11:31:42.000Z",
+      "notified": false
+    },
+    {
+      "slug": "ireland",
+      "title": "Ireland",
+      "url": "https://www.progress.org/wiki/ireland/",
+      "category": "places",
+      "tags": [
+        "places",
+        "ireland",
+        "celtic-tiger",
+        "land-bubble",
+        "eurozone",
+        "land-value-tax",
+        "vacancy-tax",
+        "dereliction"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:45.000Z",
+      "notified": false
+    },
+    {
+      "slug": "ecological-georgism",
+      "title": "Ecological Georgism",
+      "url": "https://www.progress.org/wiki/ecological-georgism/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "ecological-georgism",
+        "environment",
+        "carbon",
+        "pigouvian",
+        "resource-rents"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:47.000Z",
+      "notified": false
+    },
+    {
+      "slug": "resource-rents",
+      "title": "Resource Rents",
+      "url": "https://www.progress.org/wiki/resource-rents/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "resource-rents",
+        "natural-resources",
+        "severance-tax",
+        "resource-curse"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:49.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-reduces-sprawl",
+      "title": "Land value taxation reduces urban sprawl",
+      "url": "https://www.progress.org/wiki/lvt-reduces-sprawl/",
+      "category": "benefits",
+      "tags": [
+        "outcomes",
+        "sprawl",
+        "density",
+        "split-rate",
+        "land-use",
+        "empirical"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:53.000Z",
+      "notified": false
+    },
+    {
+      "slug": "forrester-property-rights-natural-resources",
+      "title": "Property Rights and Natural Resources (Forrester, 2026)",
+      "url": "https://www.progress.org/wiki/forrester-property-rights-natural-resources/",
+      "category": "research",
+      "tags": [
+        "research",
+        "philosophy",
+        "locke",
+        "nozick",
+        "self-ownership",
+        "natural-resources",
+        "distributive-justice"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:56.000Z",
+      "notified": false
+    },
+    {
+      "slug": "speculative-vacancy",
+      "title": "Speculative Vacancy",
+      "url": "https://www.progress.org/wiki/speculative-vacancy/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "speculative-vacancy",
+        "land-banking",
+        "housing",
+        "prosper-australia"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:58.000Z",
+      "notified": false
+    },
+    {
+      "slug": "speculative-vacancy-wastes-cities",
+      "title": "Land underuse and speculative vacancy persist in high-demand cities",
+      "url": "https://www.progress.org/wiki/speculative-vacancy-wastes-cities/",
+      "category": "problems",
+      "tags": [
+        "outcomes",
+        "speculative-vacancy",
+        "empty-homes",
+        "land-banking",
+        "underuse",
+        "housing"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:31:59.000Z",
+      "notified": false
+    },
+    {
+      "slug": "franzsen-mccluskey-property-tax-africa",
+      "title": "Property Tax in Africa: Status, Challenges, and Prospects",
+      "url": "https://www.progress.org/wiki/franzsen-mccluskey-property-tax-africa/",
+      "category": "research",
+      "tags": [
+        "research",
+        "africa",
+        "property-tax",
+        "lincoln-institute",
+        "administration",
+        "valuation",
+        "developing-countries"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T11:32:01.000Z",
       "notified": false
     }
   ]
