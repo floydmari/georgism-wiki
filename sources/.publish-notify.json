@@ -84,7 +84,7 @@
         "feasibility"
       ],
       "action": "updated",
-      "published_at": "2026-10-06T11:35:40.000Z",
+      "published_at": "2026-10-16T03:32:54.000Z",
       "notified": false
     },
     {
@@ -189,7 +189,7 @@
         "financialisation"
       ],
       "action": "updated",
-      "published_at": "2026-10-12T11:27:54.000Z",
+      "published_at": "2026-10-16T03:33:00.000Z",
       "notified": false
     },
     {
@@ -542,7 +542,7 @@
         "public-finance"
       ],
       "action": "updated",
-      "published_at": "2026-10-12T11:27:40.000Z",
+      "published_at": "2026-10-16T03:32:56.000Z",
       "notified": false
     },
     {
@@ -880,6 +880,186 @@
       ],
       "action": "updated",
       "published_at": "2026-10-14T11:32:15.000Z",
+      "notified": false
+    },
+    {
+      "slug": "gibson-community-infrastructure-levy-revenue",
+      "title": "Revenue from the Community Infrastructure Levy, 2010 to 2025 (Gibson, 2026)",
+      "url": "https://www.progress.org/wiki/gibson-community-infrastructure-levy-revenue/",
+      "category": "research",
+      "tags": [
+        "research",
+        "united-kingdom",
+        "london",
+        "community-infrastructure-levy",
+        "developer-contributions",
+        "betterment",
+        "land-value-capture",
+        "revenue-data"
+      ],
+      "action": "published",
+      "published_at": "2026-10-16T03:32:39.000Z",
+      "notified": false
+    },
+    {
+      "slug": "maryland",
+      "title": "Maryland",
+      "url": "https://www.progress.org/wiki/maryland/",
+      "category": "places",
+      "tags": [
+        "places",
+        "maryland",
+        "baltimore",
+        "split-rate-taxation",
+        "land-value-tax",
+        "enabling-legislation",
+        "united-states"
+      ],
+      "action": "published",
+      "published_at": "2026-10-16T03:32:42.000Z",
+      "notified": false
+    },
+    {
+      "slug": "2026-state-lvt-enablement-wave",
+      "title": "The 2026 State Land Value Tax Enablement Wave (New York, Virginia, Kentucky)",
+      "url": "https://www.progress.org/wiki/2026-state-lvt-enablement-wave/",
+      "category": "events",
+      "tags": [
+        "events",
+        "land-value-tax",
+        "split-rate-taxation",
+        "state-legislation",
+        "transit-value-capture",
+        "usa",
+        "new-york",
+        "virginia",
+        "kentucky"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:32:44.000Z",
+      "notified": false
+    },
+    {
+      "slug": "pennsylvania",
+      "title": "Pennsylvania",
+      "url": "https://www.progress.org/wiki/pennsylvania/",
+      "category": "places",
+      "tags": [
+        "places",
+        "pennsylvania",
+        "split-rate",
+        "two-rate",
+        "enabling-law"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:32:46.000Z",
+      "notified": false
+    },
+    {
+      "slug": "maryland-digital-ad-tax",
+      "title": "Digital Advertising Taxes After Romer: Maryland's Real-World Test",
+      "url": "https://www.progress.org/wiki/maryland-digital-ad-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "digital-advertising",
+        "romer",
+        "maryland",
+        "tax-incidence",
+        "platform-economy",
+        "data-rents",
+        "geoism",
+        "rent-gradient",
+        "first-amendment"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:32:48.000Z",
+      "notified": false
+    },
+    {
+      "slug": "split-rate-taxation",
+      "title": "Split-Rate Taxation",
+      "url": "https://www.progress.org/wiki/split-rate-taxation/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "split-rate",
+        "two-rate",
+        "property-tax",
+        "pennsylvania"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:32:51.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-needs-zoning-reform-first",
+      "title": "\"LVT Is Useless Without Zoning Reform First\"",
+      "url": "https://www.progress.org/wiki/lvt-needs-zoning-reform-first/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "zoning",
+        "land-use-regulation",
+        "housing-supply",
+        "yimby",
+        "feasibility"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:32:52.000Z",
+      "notified": false
+    },
+    {
+      "slug": "london",
+      "title": "London",
+      "url": "https://www.progress.org/wiki/london/",
+      "category": "places",
+      "tags": [
+        "places",
+        "london",
+        "uk",
+        "land-value-capture",
+        "infrastructure",
+        "crossrail",
+        "jubilee-line"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:32:59.000Z",
+      "notified": false
+    },
+    {
+      "slug": "mcallister-developer-contributions-tpr",
+      "title": "McAllister: Developer or Land Owner Contributions?",
+      "url": "https://www.progress.org/wiki/mcallister-developer-contributions-tpr/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-value-capture",
+        "betterment",
+        "developer-contributions",
+        "planning-obligations",
+        "united-kingdom",
+        "taxonomy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:33:02.000Z",
+      "notified": false
+    },
+    {
+      "slug": "smith-brown-dunning-lord-crossrail-lvc",
+      "title": "A Return Ticket for Transport Investment: How Land Value Capture Supported London's Crossrail (Smith, Brown, Dunning & Lord, 2026)",
+      "url": "https://www.progress.org/wiki/smith-brown-dunning-lord-crossrail-lvc/",
+      "category": "research",
+      "tags": [
+        "research",
+        "london",
+        "crossrail",
+        "land-value-capture",
+        "transit",
+        "infrastructure-finance"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-16T03:33:04.000Z",
       "notified": false
     }
   ]
