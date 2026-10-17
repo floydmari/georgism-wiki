@@ -1,0 +1,69 @@
+[
+ {
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108346",
+  "title": "Land Triadic Nexus: A conceptual framework for land governance through the strategic adaptive alignment of land use, rights, and values",
+  "what_was_fetched": "Abstract and bibliographic metadata only; the full text was NOT reached. Saved: samsura2026_abstract_openalex.txt (abstract reconstructed from the OpenAlex abstract_inverted_index, W7213976470; Crossref carries no abstract); crossref.json (metadata, CC BY 4.0 VoR licence entry dated 2026-09-14, 49-entry reference list); samsura2026_crossref_references.txt (the 49 references as plain text, derived from crossref.json); openalex.json (OA location, affiliation 'Department of Geography, Spatial Planning, and Environment, Radboud University, the Netherlands', volume 172, article 108346, cited_by 0); unpaywall.json; semscholar.json (no abstract); elsevier_api_coredata.xml (Elsevier public API coredata: coverDate 2027-01-31, openaccessType Full, user licence CC BY 4.0, sponsor 'Dutch institutions: Hybrid, Full OA RAP 2025'). Failed to fetch: ScienceDirect /pdfft and /pdf (403 Cloudflare challenge with browser UA and with Googlebot UA); r.jina.ai of the ScienceDirect article page and pdfft (returned only the 'Are you a robot?' captcha shell); Elsevier content API full view (401 invalid API key); Radboud repository (403 / proxy 502); CORE (403/429); ResearchGate (403); Wayback (connection reset); DuckDuckGo via r.jina.ai (no results); scholar.archive.org (no hit). Unpaywall and Semantic Scholar point only at the same ScienceDirect PDF URL; no repository or preprint copy exists. Licence note: Crossref/Elsevier say CC BY 4.0, Unpaywall/OpenAlex say cc-by-nc-nd; either way open access, but the licence statements disagree.",
+  "verdict": "DEFER. Full text is open access but unreachable from this network; the abstract alone does not engage land value, rent, land value tax, betterment or Georgist ideas, so an abstract-level ENRICH would be thin and mostly a bare citation. Re-try the full text (a fetch from a different network, or a human download of the OA PDF to the scratch folder) before any page work. If full text is later obtained and confirms substantive treatment of land value capture or the 'land as a shared trust' foundation, the candidate home is ENRICH concepts/land-as-commons.md (a sentence in the commons-trust/Ostrom comparison paragraph, after the sentence ending 'address different questions: Ostrom asks how commons are governed; George asks who is entitled to the rent they generate.') plus a one-line See Also bullet in research/rahmawati-indonesia-land-banking-housing.md under 'Relation to the Georgist Case' and, only if the Haven-Stad illustration is substantive on land value, one sentence in places/netherlands.md. Not NEW: a conceptual framework with no empirical findings does not merit its own research page on the abstract. Not REJECT: the paper is peer-reviewed, by a recognised Dutch land-policy scholar, and its reference list includes value-capture items.",
+  "claim_grade": "D-claim as to any Georgist or rent content (nothing in the accessible material supports it); the abstract-level descriptive facts (what the paper argues; that its propositions are 'conjectures rather than validated findings') are A-claim on the abstract text. Source tier under EDITORIAL 4c: Tier 1 proposed (see uncertainties) for the author's own scholarly framework, but the paper is a conceptual proposal with no tested findings, so it cannot be cited as evidence that any Georgist claim is right.",
+  "content_summary": [
+   {
+    "point": "Core thesis: land governance fails because land use, land rights and land value are treated as parallel administrative domains instead of mutually constitutive components of one recursive structure; outcomes are a function of alignment among them.",
+    "quote": "treatment of land use, land rights, and land value as parallel administrative domains rather than as mutually constitutive components of one recursive governance structure",
+    "locator": "Abstract",
+    "file": "samsura2026_abstract_openalex.txt",
+    "grep": "parallel administrative domains"
+   },
+   {
+    "point": "Method and status: targeted review of existing frameworks; four foundations (three analytical: institutional economics/property rights, game theory, adaptive governance; one normative: political philosophy and critical land studies); four propositions explicitly labelled conjectures.",
+    "quote": "The propositions are conjectures rather than validated findings",
+    "locator": "Abstract",
+    "file": "samsura2026_abstract_openalex.txt",
+    "grep": "conjectures rather than validated findings"
+   },
+   {
+    "point": "Normative foundation: land as a shared trust 'defining what alignment is for'. The abstract gives no detail on whether this is tied to land rent, land value capture or George; that cannot be asserted from the abstract.",
+    "quote": "establishes land as a shared trust defining what alignment is for",
+    "locator": "Abstract",
+    "file": "samsura2026_abstract_openalex.txt",
+    "grep": "shared trust defining what alignment is for"
+   },
+   {
+    "point": "Three claims: configurations are strategically produced and defended by actors; alignment is the condition for planning interventions to achieve intended outcomes; governance is an ongoing search constrained by path dependence, capture and culturally institutionalised models.",
+    "quote": "constrained by path dependence, capture, and culturally institutionalised models of governance",
+    "locator": "Abstract",
+    "file": "samsura2026_abstract_openalex.txt",
+    "grep": "path dependence, capture"
+   },
+   {
+    "point": "Illustrations: Sayung (Indonesia) and Haven-Stad (Amsterdam); the abstract says only that the framework identifies mechanisms of misalignment existing frameworks struggle to explain; no empirical findings or figures. 'Capture' in the abstract is institutional/regulatory capture, not rent capture.",
+    "quote": "Two illustrations, Sayung in Indonesia and Haven-Stad in Amsterdam",
+    "locator": "Abstract",
+    "file": "samsura2026_abstract_openalex.txt",
+    "grep": "Haven-Stad in Amsterdam"
+   },
+   {
+    "point": "Reference list (49 items) contains value-capture-adjacent works: Alterman 2012 'Land use regulations and property values: the windfalls capture idea revisited'; Samsura 2012 'Negotiating land and property development: A game theoretical approach to value capturing'; Van der Krabben 2013 'Public land development as a strategic tool for redevelopment: Reflections on the Dutch experience'; plus Rawls 1971, Ostrom 2009, North 1990. No entry for Henry George, Progress and Poverty, land value tax, betterment or economic rent (grep for 'george' in the references file returns 0). Whether the body text discusses these is unknown.",
+    "quote": "Land use regulations and property values: the “windfalls capture” idea revisited",
+    "locator": "Reference list (Crossref bib2)",
+    "file": "samsura2026_crossref_references.txt",
+    "grep": "windfalls capture"
+   },
+   {
+    "point": "Reference to the author's own value-capture game-theory work",
+    "quote": "Negotiating land and property development: A game theoretical approach to value capturing",
+    "locator": "Reference list (Crossref bib36)",
+    "file": "samsura2026_crossref_references.txt",
+    "grep": "approach to value capturing"
+   }
+  ],
+  "existing_wiki_coverage": "Not in the wiki (grep for samsura/triadic: only research/rahmawati-indonesia-land-banking-housing.md, research/article33-indonesia-forest-rent.md and concepts/land-banking.md mention Samsura, all via the 2025 Land paper; digest.md line 830 lists the Rahmawati page; no hit for 'triadic', 'land governance' framework or alignment). research/rahmawati-indonesia-land-banking-housing.md exists (Surabaya land banking; has 'Relation to the Georgist Case' section but no mention of this paper). concepts/land-as-commons.md exists (Barnes commons trust; Ostrom v George; Obeng-Odoom), concepts/land-value-capture.md, concepts/public-land-leasing.md, concepts/land-banking.md and places/netherlands.md exist (Netherlands active land policy; Amsterdam leasing; no Haven-Stad). places/indonesia.md and places/amsterdam.md do NOT exist (the Indonesia material sits in research/article33-indonesia-forest-rent.md and the Rahmawati page). Alterman's windfalls-capture work appears in concepts/land-value-increment-tax.md and research/wertzuwachssteuer-germany.md, so that strand is already covered elsewhere. No wiki page uses 'land as a shared trust' in Samsura's sense.",
+  "uncertainties": [
+   "Full text not reached: everything about the body (what 'shared trust' means, any treatment of land value, rent, betterment, LVT or George, the Sayung and Haven-Stad details, quotable passages with page locators) is unknown. The reference list suggests value capturing is a sub-theme (Alterman, Samsura 2012), but a reference list is not a treatment.",
+   "Proposed 4c tier for Samsura: Tier 1 (recognised academic), on these grounds: Radboud University Nijmegen (Department of Geography, Spatial Planning and Environment, per OpenAlex affiliation); peer-reviewed venue (Land Use Policy, an established Elsevier journal, ranked ABDC-A per OpenAlex); a prior body of work on land development and value capturing (Samsura 2010, 2012, listed in the paper's own references; co-author with Erwin van der Krabben on the wiki's existing Rahmawati page). Neither Samsura nor van der Krabben is in sources/audit/people-tiers.json, so this is a rubric judgement, not a listed ruling. Caveat: a Tier 1 standing does not make a self-described conjectural framework evidence; cite it as 'a proposed conceptual framework', never as support for Georgist claims.",
+   "Licence strings conflict (Crossref/Elsevier: CC BY 4.0; Unpaywall/OpenAlex/Semantic Scholar: cc-by-nc-nd). Matters only if the text is later quoted at length; quotes of <=50 words are fine either way.",
+   "Publication metadata: online 2026-09-22 (Crossref created), cover date January 2027, volume 172, article number 108346; cited_by 0, so no secondary commentary exists yet.",
+   "The queue item's description of the paper (Sayung, Haven-Stad, four propositions, shared trust) is confirmed by the abstract; its suggestion that the paper engages 'rent-seeking' and 'land value' as a Georgist-adjacent domain is not confirmed (the abstract says capture, not rent capture).",
+   "Any wiki prose must follow EDITORIAL 4b: access status belongs in Sources only, impersonally (e.g. 'summary rests on the abstract; full text not accessible at last review (2026-10-17)'), no tool names or HTTP codes."
+  ]
+ }
+]

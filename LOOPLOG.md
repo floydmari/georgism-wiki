@@ -5722,3 +5722,16 @@ Residential Zoned Land Tax go on the BACKLOG as leads.
 
 Lint 0 errors; inventory 1032 pages, 0 orphans. Ledger: 0 pending, 464 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-17 — one item, source-blocked
+
+The morning scan delivered one item, Samsura's "Land Triadic Nexus" framework paper in Land
+Use Policy. It is open access on paper, but the only copy sits behind ScienceDirect's
+Cloudflare wall, which blocked every route; the abstract describes a conceptual framework
+whose four propositions the author calls conjectures, with no findings and no mention of
+rent or George. An abstract-level citation would add nothing, so the item is deferred in the
+ledger with a BACKLOG source-blocked entry naming the insertion points if the text is ever
+read. Samsura goes to Tier 1 by rubric. No page changed.
+
+Lint 0 errors; inventory 1032 pages, 0 orphans. Ledger: 0 pending, 465 consumed. Merged to
+main; nothing to Ghost-sync.
