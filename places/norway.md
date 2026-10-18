@@ -4,7 +4,7 @@ category: places
 tags: [resource-rents, sovereign-wealth-fund, nordic, oil-fund]
 stub: false
 excerpt: "Norway's Government Pension Fund Global—the world's largest sovereign wealth fund—captures oil-resource rents through a save-and-budget model, contrasting with Alaska's direct per-capita dividend distribution."
-last_reviewed: 2026-07-05
+last_reviewed: 2026-10-18
 ---
 
 ## Overview
@@ -27,7 +27,7 @@ The key distinction is that Norway captures resource rents for **public revenue*
 
 From a Georgist perspective, Norway's oil fund demonstrates several principles relevant to [resource-rent](/wiki/resource-rents/) capture:
 
-- **Resource rents can be captured at scale.** Norway taxes petroleum profits at a **combined marginal rate of 78%** — the ordinary 22% company tax plus a 71.8% **special petroleum tax** designed to capture the resource rent (the "extraordinary return") — under the Petroleum Taxation Act, and it holds a **direct financial interest** in oil and gas fields (the State's Direct Financial Interest, managed by Petoro) alongside its majority stake in Equinor.[2] Together these capture a substantial share of oil-resource rent for the public rather than letting it accrue as private profit.[2]
+- **Resource rents can be captured at scale.** Norway taxes petroleum profits at a **combined marginal rate of 78%** under the Petroleum Taxation Act: the ordinary 22% company tax, and a **special petroleum tax** designed to capture the resource rent (the "extraordinary return") whose technical rate of 71.8% applies to a base from which the ordinary tax has already been deducted, so that the two together reach 78% rather than their sum, and it holds a **direct financial interest** in oil and gas fields (the State's Direct Financial Interest, managed by Petoro) alongside its majority stake in Equinor.[2] Together these capture a substantial share of oil-resource rent for the public rather than letting it accrue as private profit.[2]
 
 - **A sovereign wealth fund can convert depleting rents into perpetual revenue.** By investing oil revenues rather than spending them immediately, Norway addresses the intergenerational equity problem of a finite resource—a practical application of the principle behind the [Hartwick rule](/wiki/hartwick-rule/). The [sovereign wealth fund](/wiki/sovereign-wealth-fund/) concept page discusses this mechanism in the context of Canadian resource-rent proposals.
 
@@ -54,7 +54,7 @@ From a Georgist perspective, Norway's oil fund demonstrates several principles r
 ## Sources
 
 1. Norges Bank Investment Management (NBIM), "About the fund" and "The fiscal rule," official pages for the Government Pension Fund Global. [nbim.no/en/the-fund/about-the-fund](https://www.nbim.no/en/the-fund/about-the-fund/) — fetched 2026-07-09 — used for the 1990 enabling legislation, the 1996 first deposit, the 2006 renaming, the fund's value (>15,000 billion kroner / ~US$1.7–1.8 trillion, 2024) and status as the world's largest SWF, the save-and-budget model, and the fiscal rule (spend only the expected real return, 3% since 2017).
-2. Norwegian Petroleum (Ministry of Energy / Norwegian Offshore Directorate), "The petroleum tax system." [norskpetroleum.no/en/economy/petroleum-tax](https://www.norskpetroleum.no/en/economy/petroleum-tax/) — fetched 2026-07-09 — used for the 78% combined marginal tax rate (22% ordinary company tax + 71.8% special petroleum tax) under the Petroleum Taxation Act, and the State's Direct Financial Interest (Petoro).
+2. Norwegian Petroleum (Ministry of Energy / Norwegian Offshore Directorate), "The petroleum tax system." [norskpetroleum.no/en/economy/petroleum-tax](https://www.norskpetroleum.no/en/economy/petroleum-tax/) — fetched 2026-07-09 — used for the 78% combined marginal tax rate (22% ordinary company tax, and the 71.8% special tax applied after deducting the ordinary tax, raised from 56% in 2022 when the special tax moved to a cash-flow basis) under the Petroleum Taxation Act, and the State's Direct Financial Interest (Petoro).
 3. Scott Goldsmith (2002), "The Alaska Permanent Fund Dividend: An Experiment in Wealth Distribution," 9th International Congress of BIEN, Geneva. [BIEN PDF](https://basicincome.org/bien/pdf/2002Goldsmith.pdf) — used only for the Alaska dividend side of the contrast (poverty reduction and political durability), not for claims about Norway's fund.
 
 *(Navigation, not evidence: [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/), [Alaska](/wiki/alaska/), [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/), [Hartwick Rule](/wiki/hartwick-rule/).)*
