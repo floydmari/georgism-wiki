@@ -1,17 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.ryanpuzycki.com/p/the-anti-property-property-tax",
-      "title": "The Anti-Property Property Tax",
-      "source": "lvt-paper-scanner",
-      "reason": "Concrete US-municipal LVT case study the wiki lacks — no places/austin page exists (only houston-texas covers Texas), and the post supplies original TCAD figures (Waterline vs parking-lot comparison), documents CLE's Civic Mapper tool and city-modeling results being used in third-party analysis (the Center for Land Economics's own influence trail), and situates LVT within Texas's 3.5% revenue cap and constitutional barriers. Tier 2/3 blog analysis but data-first and by a zoning commissioner. Absent from registry, inventory, consumed, live queue, triaged file, wiki content (grep puzycki: zero hits), and #progressdotorg history.",
-      "context": "The Anti-Property Property Tax — Ryan Puzycki. 'City of Yes' Substack, 16 October 2026. Data-rich Austin LVT analysis by a credible urbanist writer: Puzycki sits on Austin's Zoning & Platting Commission, is a Strong Towns contributor and former equity research analyst, and writes City of Yes (6.6K+ subscribers). Frames Austin's 2025 Proposition Q property-tax defeat and 2026 Proposition I audit fight, the Texas 3.5% municipal revenue cap, and the city's budget structure ($1.54B General Fund, $743.9M property taxes), then makes the LVT case with original Travis Central Appraisal District analysis: the Waterline tower pays ~$1.08M/acre in property tax vs ~$175k for the similar-land-value parking lot across the street; under a pure LVT both would pay ~$650k/$610k per acre at constant city revenue. Features the Center for Land Economics's Civic Mapper (3,650 acres / $4.4B of Austin land devoted to parking) and CLE's city LVT modeling (Cincinnati, Spokane, Syracuse). Notes the Texas barriers: an act of the legislature plus a constitutional amendment.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-10-18T11:07:44.148866+00:00",
-      "reported": true,
-      "report_ts": "1792321673.537639"
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -5732,6 +5720,21 @@
       "wiki_page": null,
       "triage_date": "2026-10-18",
       "notes": "deferred 2026-10-18 — Roy, 'The Fiction of Property', Current History 125(875): 28–29: UC Press Cloudflare-blocked on every route, no repository copy, abstract only (two sentences, no figures, no named sources; the essay has zero references). An abstract-level citation on concepts/speculative-vacancy.md or concepts/rentier.md would be bare. Roy added to tier1_confirmed as a scholar; the essay itself is argument, not findings. Re-queue by hand if the two-page PDF is obtained; candidate homes: speculative-vacancy (Limits), rentier (modern rentier-capitalism section), property-owning-democracy. BACKLOG FIND-FULLTEXT entry added."
+    },
+    {
+      "url": "https://www.ryanpuzycki.com/p/the-anti-property-property-tax",
+      "title": "The Anti-Property Property Tax",
+      "source": "lvt-paper-scanner",
+      "reason": "Concrete US-municipal LVT case study the wiki lacks — no places/austin page exists (only houston-texas covers Texas), and the post supplies original TCAD figures (Waterline vs parking-lot comparison), documents CLE's Civic Mapper tool and city-modeling results being used in third-party analysis (the Center for Land Economics's own influence trail), and situates LVT within Texas's 3.5% revenue cap and constitutional barriers. Tier 2/3 blog analysis but data-first and by a zoning commissioner. Absent from registry, inventory, consumed, live queue, triaged file, wiki content (grep puzycki: zero hits), and #progressdotorg history.",
+      "context": "The Anti-Property Property Tax — Ryan Puzycki. 'City of Yes' Substack, 16 October 2026. Data-rich Austin LVT analysis by a credible urbanist writer: Puzycki sits on Austin's Zoning & Platting Commission, is a Strong Towns contributor and former equity research analyst, and writes City of Yes (6.6K+ subscribers). Frames Austin's 2025 Proposition Q property-tax defeat and 2026 Proposition I audit fight, the Texas 3.5% municipal revenue cap, and the city's budget structure ($1.54B General Fund, $743.9M property taxes), then makes the LVT case with original Travis Central Appraisal District analysis: the Waterline tower pays ~$1.08M/acre in property tax vs ~$175k for the similar-land-value parking lot across the street; under a pure LVT both would pay ~$650k/$610k per acre at constant city revenue. Features the Center for Land Economics's Civic Mapper (3,650 acres / $4.4B of Austin land devoted to parking) and CLE's city LVT modeling (Cincinnati, Spokane, Syracuse). Notes the Texas barriers: an act of the legislature plus a constitutional amendment.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-18T11:07:44.148866+00:00",
+      "reported": true,
+      "report_ts": "1792321673.537639",
+      "verdict": "used",
+      "wiki_page": "places/texas.md",
+      "triage_date": "2026-10-18",
+      "notes": "NEW places/texas.md (state as the unit; no Austin page): Art. VIII §1 proportionality clause, Tax Code §§23.01/26.02, SB 2 (2019) 3.5% voter-approval cap and §26.07 elections, Austin FY2026-27 budget and Prop Q (Nov 2025), and the Waterline-vs-parking-lot comparison re-derived from TCAD 2026 certified records (parcels 860621 and 191605; $1.08M vs $175k per acre at the no-new-revenue rate, 6.2:1; land per acre ratio 1.07). Puzycki Tier 2, origin only; his commission role is unverified and not stated; his legal-route claim dropped. Not carried: CLE '3,650 acres/$4.4B' parking figure (no CLE document states it), Parking Reform Network 15%. Five inbound links; CLE page notes Austin in CivicMapper. BACKLOG: certified Prop Q canvass and the official Tax Code text (statutes.capitol.texas.gov is a JS shell) remain to check."
     }
   ],
   "last_updated": "2026-10-18T11:07:44.148866+00:00",

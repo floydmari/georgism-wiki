@@ -29,6 +29,7 @@ The Houston Plan is a largely forgotten early-20th-century American case of spli
 - [Pittsburgh](/wiki/pittsburgh/) — the best-documented modern American split-rate case
 - [Split-rate taxation increases urban construction](/wiki/split-rate-increases-construction/) — the outcome page this episode's construction claims bear on
 - [Henry George](/wiki/henry-george/) · [Single Tax](/wiki/single-tax/)
+- [Texas](/wiki/texas/) — the constitutional clause that ended the plan as it stands today, and the state's current property-tax rules
 
 ## Sources
 

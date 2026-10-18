@@ -26,6 +26,7 @@ Where older organisations preserve and teach the tradition, the Center for Land 
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the objection the Center's assessment work directly addresses
 - [Land Value Tax](/wiki/land-value-tax/) — the policy the Center's LVTShift tool models
 - [Common Wealth Canada](/wiki/common-wealth-canada/) — a comparable data-driven organisation focused on Canada
+- [Texas](/wiki/texas/) — a worked Austin parcel comparison of the kind the Center's mapping tools are built to surface
 - [Miller & Hoskins — College-Town LVT Shift Simulations](/wiki/miller-hoskins-college-town-lvt/) and [Notre Dame SPN's Cincinnati LVT Analysis](/wiki/ndspn-cincinnati-lvt-analysis/) — the Center's partnered student-policy parcel simulations
 
 ## Sources

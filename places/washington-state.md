@@ -50,6 +50,7 @@ No Washington jurisdiction currently has legal authority to levy a land value ta
 - [Miller & Hoskins — College-Town Land Value Tax Shift Simulations](/wiki/miller-hoskins-college-town-lvt/) — the same organization's comparable parcel-shift simulations for South Bend, IN and Princeton, NJ
 - [Split-Rate Taxation](/wiki/split-rate-taxation/) — the design Washington's building-exemption model is engineered to replicate under a uniformity-clause constraint
 - [United States](/wiki/united-states/) — the wiki's US hub page
+- [Texas](/wiki/texas/) — another state whose uniformity-and-proportionality clause blocks a split rate, with a 1915 ruling on point
 
 ## Sources
 

@@ -5735,3 +5735,26 @@ read. Samsura goes to Tier 1 by rubric. No page changed.
 
 Lint 0 errors; inventory 1032 pages, 0 orphans. Ledger: 0 pending, 465 consumed. Merged to
 main; nothing to Ghost-sync.
+
+## 2026-10-18 — a Texas page from one blog post, a Norway correction, and two deferrals
+
+Three scanner items. Puzycki's Austin post on the "anti-property property tax" is Tier 2,
+but every figure in it traced to a primary: the Travis Central Appraisal District's 2026
+certified export reproduces his Waterline-tower-versus-parking-lot comparison to three
+figures ($1.08M against $175k of city tax per acre on nearly equal land value), the FY2026-27
+budget supplies the rates and the General Fund shares, the ordinance and election-night
+reports cover Proposition Q, and the constitution, Tax Code and SB 2 of 2019 give the
+proportionality clause and the 3.5 percent cap. That material had no home, so places/texas.md
+is new, with the state as the unit and Austin as the worked case; five pages link in and the
+Center for Land Economics page notes Austin in CivicMapper. His commission role, his
+legal-route claim and the CLE parking-acreage figure were all unverified and are not carried.
+Benin et al. on petroleum fiscal regimes was read in full and rejected: the scanner's
+"empirical analysis" label was wrong, the paper is a document review with no rent measure.
+Reading it surfaced an error on places/norway.md, which had the 71.8 percent special tax as
+additive to the 22 percent ordinary tax; corrected to the 78 percent combined rate with the
+special tax applied net of ordinary tax. Roy's two-page Current History essay is deferred,
+abstract only, UC Press blocked. BACKLOG leads for the Roy PDF and for the IMF/Tordo
+royalty-versus-rent-tax anchors.
+
+Lint 0 errors; inventory 1033 pages, 0 orphans. Ledger: 0 pending, 468 consumed. Merged to
+main and Ghost-synced.

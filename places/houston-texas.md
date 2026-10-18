@@ -21,6 +21,7 @@ Houston is a standard reference case in the debate over how much land-use regula
 - [Land Speculation Causes Cycles](/wiki/land-speculation-causes-cycles/) — the narrative this case study is cited to support
 - [Saiz: Housing Supply Elasticity](/wiki/saiz-housing-supply-elasticity/) — mainstream research on geographic and regulatory determinants of metro housing supply, which lists Houston among the most supply-elastic large US metros
 - [The Houston Plan of Taxation (1912-1915)](/wiki/houston-plan-of-taxation/) — an earlier, unrelated episode of Georgist tax reform in the same city
+- [Texas](/wiki/texas/) — the state-level constitutional and revenue-cap rules that govern any property-tax reform in Houston
 
 ## Sources
 

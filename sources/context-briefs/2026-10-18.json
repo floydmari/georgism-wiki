@@ -1,0 +1,476 @@
+[
+ {
+  "url": "https://doi.org/10.1016/j.exis.2026.102076",
+  "title": "Petroleum fiscal regimes and contractor returns: empirical analysis of the North Sea and Gulf of Guinea (Benin, Bawa, Hussien & Tehrani; The Extractive Industries and Society 29, art. 102076, Mar 2027)",
+  "what_was_fetched": "FULL TEXT REACHED (open access, Crossref VoR licence CC BY 4.0 dated 2026-10-09; Unpaywall/OpenAlex say cc-by-nc-nd). Saved in item1/: benin2027_fulltext_clean.txt (full article text, sections 1-6, Tables 1-6, via r.jina.ai of the ScienceDirect article page; jina_sciencedirect_page.txt is the unprocessed copy, benin2027_fulltext_clean.txt only strips the bibliography link anchors); benin2027_abstract_openalex.txt (abstract from OpenAlex inverted index; Crossref carries no abstract); benin2027_crossref_references.txt (37 references, from crossref.json); crossref.json, openalex.json (affiliations: University of the West of Scotland x2, Xi'an Fanyi University, Ravensbourne University London), unpaywall.json, semscholar.json. Primaries pulled to test the paper's Norway/UK figures: norskpetroleum_tax.txt (Norwegian Ministry of Energy / Offshore Directorate petroleum-tax page, text of norskpetroleum.no/en/economy/petroleum-tax/) and govuk_rfct.txt (HMRC/GOV.UK Ring Fence Corporation Tax guidance). NOT reached: ScienceDirect article page and /pdfft directly (403 Cloudflare with browser and Googlebot UAs); r.jina.ai of the /pdfft URL (captcha shell); Elsevier API full view (INVALID_INPUT); no repository copy exists (Unpaywall/OpenAlex: any_repository_has_fulltext false). The first r.jina.ai call returned a 3.6KB shell and a repeat call returned the full 105KB text, so r.jina.ai of this page is intermittent. The GOV.UK Energy Profits Levy guidance URL I guessed returned 404 and was discarded, so the EPL 38% rate and the 1 Nov 2024 date rest on the paper alone.",
+  "verdict": "DEFER (no NEW page; no ENRICH recommended as primary action). Reason: the queue description is wrong about the content. The paper does NOT empirically compare contractor returns or government take across regimes. It is a qualitative document analysis of 20 legal/regulatory/technical sources plus a stylised 100-unit cash-flow illustration that the authors say is 'not jurisdiction-specific', is 'not used to rank jurisdictions', and omits discounting; it reports no IRR, NPV or government-take percentage for the UK, Norway, Ghana or Nigeria, no sample of projects, and no estimate of resource-rent share. The one genuinely rent-relevant, citable material is (a) the royalty-versus-profit-tax mechanism (royalty fixed at 10 units while concession profit tax falls 18 to 8 as costs rise 45 to 70), which is textbook IMF/Tordo material the paper itself cites, and (b) the UK and Norway both at a 78% headline marginal rate on upstream profits, which makes the paper's point that identical headline rates hide different deduction, loss and administration rules. Neither justifies a research page; the better route is to cite the Tier 1 primaries (IMF 2012 'Fiscal Regimes for Extractive Industries'; Tordo 2007, World Bank WP 123; HMRC; Norwegian Tax Administration) directly. BACKLOG lead: [FIND] IMF (2012) Fiscal Regimes for Extractive Industries: Design and Implementation (doi 10.5089/9781498340069.007) and Tordo (2007) World Bank WP 123 as the Tier 1 anchors for a royalty-vs-rent-tax paragraph in concepts/resource-rents.md. OPTIONAL low-value ENRICH if T1 wants something now (T1's call; I do not recommend it): places/norway.md, section 'Caveats', after the bullet ending 'rather than spent down.[1]' add one sentence that the UK also carries a 78% headline marginal rate on upstream profits from 1 Nov 2024 (RFCT 30% + SC 10% + EPL 38%, EPL scheduled to end 31 Mar 2030) so the headline rate alone does not distinguish regimes; cite HMRC primaries, not Benin et al., for the rates. HOUSEKEEPING FINDING (independent of this paper, worth a separate fix): places/norway.md line 30 says 'the ordinary 22% company tax plus a 71.8% special petroleum tax'. The Norwegian primary says the 71.8% special rate is applied to a base net of the ordinary tax paid, so the two do not add to 78% (22% + 56% effective = 78%; 56% is the pre-2022 special rate, also the figure used on research/nassios-australia-lng-prrt-structural-limits.md). The sentence should say the combined marginal rate is 78%, with a 71.8% technical special-tax rate applied after deducting the ordinary tax.",
+  "claim_grade": "Paper: C/D-claim on rent capture as such (qualitative mechanism argument and an illustrative model, not an estimate; the authors disclaim causal and ranking inferences). Factual descriptions of statutory rates in the paper (UK 30/10/38, Norway 78%) are A-claims only once confirmed against the primaries: Norway CONFIRMED against norskpetroleum.no (saved); UK RFCT 30% CONFIRMED against GOV.UK (saved); UK SC 10% and EPL 38% NOT independently confirmed. EDITORIAL 4c tier: peer-reviewed article in an established Elsevier journal (EIS is a CWTS-core, ANVUR class A title per OpenAlex) = source-quality level 2, but the four authors (University of the West of Scotland, Xi'an Fanyi University, Ravensbourne) have no established body of work on petroleum fiscal design visible in the paper's own reference list, are not in sources/audit/people-tiers.json, and the paper has 0 citations. Judged by the rubric: usable as a peer-reviewed synthesis of what the cited primaries say, not as 'prominent authority' social proof. Cite the Tier 1 anchors it rests on.",
+  "content_summary": [
+   {
+    "point": "What the paper is: a qualitative documentary-comparative design with a supporting model, not an empirical returns study.",
+    "quote": "The study uses a comparative qualitative document-analysis design supported by a petroleum fiscal cash-flow model.",
+    "locator": "Section 3.1 Design",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "comparative qualitative document-analysis design"
+   },
+   {
+    "point": "Sample = a document corpus, not projects or contracts.",
+    "quote": "The core documentary corpus comprised 20 authoritative sources published or effective between 1999 and 2025.",
+    "locator": "Section 3.3",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "20 authoritative sources published or effective between 1999 and 2025"
+   },
+   {
+    "point": "Cases: UK and Norway (North Sea); Ghana and Nigeria (Gulf of Guinea). Selected 'not to rank regions'.",
+    "quote": "The cases were therefore selected not to rank regions",
+    "locator": "Section 3.2",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "selected not to rank regions"
+   },
+   {
+    "point": "The cash-flow model is stylised and disclaimed as non-empirical.",
+    "quote": "These values are illustrative rather than empirically derived",
+    "locator": "Section 3.5",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "illustrative rather than empirically derived"
+   },
+   {
+    "point": "No ranking, no effective-rate claim, no NPV: scope limits stated by the authors.",
+    "quote": "It does not treat headline statutory rates as effective tax rates or use the stylised model to rank jurisdictions.",
+    "locator": "Section 3.6",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "use the stylised model to rank jurisdictions"
+   },
+   {
+    "point": "No causal estimation (relevant because the queue item called it 'empirical analysis').",
+    "quote": "does not estimate causal effects",
+    "locator": "Section 3.4",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "does not estimate causal effects"
+   },
+   {
+    "point": "Only quantitative results: normalised model, gross revenue 100 units. High-cost PSC row: 54 recovered, 16 carried, tax 5.94, contractor NCF -2.14, government take 32.14 (units, not %). Low-cost concession: tax 18, government take 28; high-cost concession: tax 8, government take 18.",
+    "quote": "| High cost: PSC | 100 | 10 | 70 | 54 | 16 | 5.94 | −2.14 | 32.14 |",
+    "locator": "Table 5 (all rows 'not jurisdiction-specific empirical estimates')",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "| High cost: PSC | 100 | 10 | 70 | 54 | 16 | 5.94 | −2.14 | 32.14 |"
+   },
+   {
+    "point": "Same table, concession rows: profit tax responds to costs, royalty does not.",
+    "quote": "| Low cost: Concession | 100 | 10 | 45 | n/a | n/a | 18 | 27 | 28 |",
+    "locator": "Table 5",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "| Low cost: Concession | 100 | 10 | 45 | n/a | n/a | 18 | 27 | 28 |"
+   },
+   {
+    "point": "Paper's reading of the model: profit taxation more responsive to profitability than a fixed royalty (tax falls from 18 to 8 units as expenditure rises from 45 to 70; royalty stays 10).",
+    "quote": "profit taxation is therefore more responsive to profitability than a fixed revenue-based levy",
+    "locator": "Section 4.7",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "more responsive to profitability than a fixed revenue-based levy"
+   },
+   {
+    "point": "UK: combined headline 78% on relevant upstream profits from 1 Nov 2024 (RFCT 30% + Supplementary Charge 10% + EPL 38%); PRT 0% since 1 Jan 2016; EPL scheduled to end 31 Mar 2030; draft 35% Oil and Gas Revenue Levy proposed (July 2026 draft legislation, not enacted).",
+    "quote": "producing a combined headline rate of 78% on relevant upstream profits",
+    "locator": "Section 4.1",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "combined headline rate of 78% on relevant upstream profits"
+   },
+   {
+    "point": "UK RFCT 30% is confirmed by GOV.UK; SC/EPL not independently confirmed.",
+    "quote": "The main rate of tax on RFCT is 30%.",
+    "locator": "GOV.UK Ring Fence Corporation Tax guidance",
+    "file": "item1/govuk_rfct.txt",
+    "grep": "main rate of tax on RFCT is 30%"
+   },
+   {
+    "point": "Norway: overall marginal petroleum rate 78%; special tax cash-flow based from the 2022 income year; special-tax rate adjusted to keep 78%.",
+    "quote": "The technical special-tax rate is adjusted to preserve the combined 78% burden after the ordinary corporate-tax deduction",
+    "locator": "Section 4.1",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "technical special-tax rate is adjusted to preserve the combined 78% burden"
+   },
+   {
+    "point": "Norwegian primary: 22% ordinary tax is written off in the special base, hence a 71.8% special rate to hold 78% combined (the pre-2022 special rate was 56%).",
+    "quote": "This entails a special tax rate of 71,8 % in order to maintain a combined marginal tax rate of 78 %.",
+    "locator": "norskpetroleum.no petroleum-tax page, intro",
+    "file": "item1/norskpetroleum_tax.txt",
+    "grep": "71,8 % in order to maintain a combined marginal tax rate of 78 %"
+   },
+   {
+    "point": "Same primary: the 56 to 71.8 change was technical.",
+    "quote": "the special tax rate was technically increased from 56 to 71.8 per cent",
+    "locator": "norskpetroleum.no, 'Cash-flow model in the special petroleum tax'",
+    "file": "item1/norskpetroleum_tax.txt",
+    "grep": "technically increased from 56 to 71.8 per cent"
+   },
+   {
+    "point": "Ghana and Nigeria are described institutionally with NO rates or government-take figures; Ghana's profitability-linked 'Additional Oil Entitlement' is tied to the contractor's after-tax rate of return.",
+    "quote": "an Additional Oil Entitlement linked to the contractor's after-tax rate of return",
+    "locator": "Section 4.1",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "Additional Oil Entitlement linked to the contractor's after-tax rate of return"
+   },
+   {
+    "point": "Resource-rent statement (as design principle, citing IMF 2012 and Wen 2018): a moderate royalty plus a progressive profit-based instrument lets the state share respond to economic rent.",
+    "quote": "A moderate royalty combined with a progressive profit-based instrument can preserve predictable public revenue while allowing the overall state share to respond more closely to economic rent",
+    "locator": "Section 4.2",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "allowing the overall state share to respond more closely to economic rent"
+   },
+   {
+    "point": "Table 6 row: profit tax or special levy 'captures a share of economic rent' but depends on tax-base definition and audit capacity.",
+    "quote": "Captures a share of economic rent but requires credible tax-base definition, loss administration and audit capacity.",
+    "locator": "Table 6",
+    "file": "item1/benin2027_fulltext_clean.txt",
+    "grep": "Captures a share of economic rent but requires credible tax-base definition"
+   },
+   {
+    "point": "Abstract headline findings (qualitative): royalties secure early revenue; cost-recovery ceilings defer reimbursement and need audit capacity; profit taxes track profitability but need transparent bases.",
+    "quote": "royalties primarily secure early public revenue while reducing pre-payout contractor cash flow",
+    "locator": "Abstract",
+    "file": "item1/benin2027_abstract_openalex.txt",
+    "grep": "royalties primarily secure early public revenue"
+   }
+  ],
+  "existing_wiki_coverage": "Petroleum-rent coverage is Australia-led. Greps of the repo: 'Energy Profits Levy' 0 hits; 'Petroleum Industry Act' 0 hits; 'production-sharing' only research/baunsgaard-vernon-windfall-profits.md; 'Benin|Bawa|Hussien|Tehrani' 0 hits; no places/ghana.md; places/nigeria.md is entirely about the 1978 Land Use Act (no petroleum); places/united-kingdom.md has no oil/petroleum content. Norway: places/norway.md 'Relevance to Resource-Rent Capture' already carries the 78% combined marginal rate, the 22%/71.8% description (sloppy, see verdict), the Petoro state financial interest, cites norskpetroleum.no as source [2]. research/nassios-australia-lng-prrt-structural-limits.md section 'Norway Comparison and Reform Options' carries 22% + 56% = ~78%, Equinor equity and the inferred ~48% vs ~15% capture-rate contrast. concepts/resource-rents.md 'Capturing Resource Rent' lists severance/royalty/auction instruments and its 'US Federal Onshore Oil and Gas Royalties' section already says a flat royalty and a rent charge diverge at the marginal well (GAO 2017). research/australia-mining-royalties-prrt.md and research/nz-minerals-royalty-regime-review.md cover revenue-royalty versus profits-based tax. So the paper's central mechanism (early revenue royalty vs profit tax) is already on the wiki via Tier 1/official sources; the new facts are UK EPL/78% and a Ghana/Nigeria institutional description, neither of which the wiki currently needs.",
+  "uncertainties": [
+   "The queue item (and its title word 'empirical') over-describes the paper. Everything about returns/IRR/NPV/government take in the queue text is absent from the paper; the only numbers are the normalised units in Tables 3 and 5 and statutory rates. T1 should not write 'empirical comparison of contractor returns' anywhere.",
+   "Full text was obtained from an r.jina.ai rendering of the publisher page, not the PDF. Table and equation content is present; figures (Fig. 2, Fig. 3) are images and were not read. Page numbers/locators: use section and table numbers; the print pagination (art. 102076) is not in the text.",
+   "The UK EPL 38%, SC 10%, 1 Nov 2024 date, EPL end date 31 Mar 2030 and the 35% OGRL are taken from the paper only; the HMRC/HMT sources it cites were not fetched (the GOV.UK RFCT page confirms only the 30% RFCT rate). The paper's own reference to a July 2026 HMRC policy paper cannot be checked here.",
+   "Publication dates: Crossref licence/VoR date 2026-10-09; Crossref 'issued' March 2027, volume 29; r.jina header 'Published Time: 2026-10-09'. The queue says online 13 October; Unpaywall oa_date is 2026-10-13. Cite as Extr. Ind. Soc. 29 (2027), art. 102076, doi given.",
+   "Licence strings conflict (Crossref/Elsevier CC BY 4.0 versus Unpaywall/OpenAlex cc-by-nc-nd). Immaterial for quotes of 50 words or fewer.",
+   "Author tier is a rubric judgement, not a listed ruling (see claim_grade). Zero citations to date, no secondary commentary.",
+   "Rent-gradient note for any page that uses it: the paper treats royalties, state participation and local content as parts of 'government take' and does not separate rent from the incentive-bearing return to capital; it never defines or measures resource rent. It is therefore not evidence for how much rent North Sea or Gulf of Guinea regimes capture.",
+   "EDITORIAL 4b: if cited, access status goes in Sources only, impersonally (for example 'open access; full text read at last review (2026-10-18)'), no tool names."
+  ]
+ },
+ {
+  "url": "https://doi.org/10.1525/curh.2026.125.875.28",
+  "title": "The Fiction of Property (Ananya Roy; Current History 125(875), November 2026, pp. 28-29)",
+  "what_was_fetched": "ABSTRACT AND METADATA ONLY; the essay text was NOT reached. Saved in item2/: roy2026_abstract_crossref.txt (the two-sentence abstract, from Crossref's jats:abstract; identical in OpenAlex), crossref.json (publisher University of California Press, pages 28-29, published-print 2026-11-01, reference-count 0, link to the UC Press PDF), openalex.json (W7221751079, publication_date 2026-10-14, no affiliation recorded for this record, cited_by 0, abstract_inverted_index same as Crossref), openalex_author_roy.json (author record A5101929900: ORCID 0000-0003-4967-9117, 117 works, 13,070 citations, h-index 35, affiliations UCLA / University of California system / UC Berkeley), unpaywall.json (is_oa false, oa_status closed, no repository copy), semscholar.json (429 rate-limit message only), luskin_policing_tenancy_category.txt (UCLA Luskin Institute on Inequality and Democracy page listing Roy's co-authored property/policing/Los Angeles articles, 2021-2024). Failed: online.ucpress.edu article page, article-pdf URL and doi.org redirect (403, Cloudflare 'Just a moment'); r.jina.ai of both UC Press URLs, three tries (Cloudflare verification shell, 532 bytes); Googlebot UA on the PDF (403); currenthistory.com (redirects to UC Press, 403); escholarship.org search (202, no body); DuckDuckGo HTML (202 challenge); WebSearch found no repository copy or excerpt; challengeinequality.luskin.ucla.edu keyword search for the title returned no hit.",
+  "verdict": "DEFER. Only a two-sentence abstract is available and the essay is two printed pages (28-29) with zero references. The abstract supports a statement of what Roy argues but contains no figures, no named sources, and no detail on the 'luxury vacancy' stories it mentions, so an ENRICH of concepts/speculative-vacancy.md (which is built on measurement: Prosper Australia, Vancouver, France) or research/prosper-speculative-vacancies.md would be a bare citation with nothing to measure. BACKLOG lead: [FIND-FULLTEXT] Roy, 'The Fiction of Property', Current History 125(875): 28-29 (2026), doi 10.1525/curh.2026.125.875.28 - obtain the 2-page PDF by a human download or from a different network; then re-brief. If the full text is later obtained and the LA luxury-vacancy passage names a dataset, a count or a source, candidate homes (T1 to confirm against the page text): (a) concepts/speculative-vacancy.md, section 'Limits and Caveats' or a short new bullet at the end of 'Measuring It' (after the sentence ending 'speculative land-holding through a century of cycles.') framing a critical-urban-theory reading of vacancy as an effect of property regimes; (b) concepts/rentier.md, section 'Modern Rentier-Capitalism Literature', after the final sentence of that section (currently the Mushtaq-Khan-style/democracy paragraph ending 'not only of growth.'), one attributed sentence that Roy frames property as a social fiction that legitimises rent extraction; (c) concepts/property-owning-democracy.md Overview only if the essay engages homeownership/wealth-vehicle claims. None of these can be written from the abstract beyond a single attributed sentence, and I do not recommend writing even that, because a reader would take the sentence as evidence when it is a framing.",
+  "claim_grade": "D-claim (interpretive/argumentative essay in a current-affairs magazine; no findings). The abstract itself is an A-claim only about what the essay argues. EDITORIAL 4c: Roy is a recognised scholar - OpenAlex author record shows 13,070 citations and h-index 35 with UCLA as her institution (she is not listed in sources/audit/people-tiers.json, so this is a rubric judgement) - so Tier 1 as a scholar and citable for her own argument; but a Tier 1 name does not turn an interpretive essay into support for an empirical claim. Cite as 'Roy argues', never as evidence that luxury vacancy is large or caused by speculative holding.",
+  "content_summary": [
+   {
+    "point": "Argument as stated in the abstract: speculative property regimes reproduce urban inequality by turning housing into a wealth-accumulation vehicle while deepening scarcity and displacement.",
+    "quote": "Speculative property regimes reproduce urban inequality by transforming housing into a vehicle for wealth accumulation while deepening scarcity and displacement.",
+    "locator": "Abstract, sentence 1",
+    "file": "item2/roy2026_abstract_crossref.txt",
+    "grep": "transforming housing into a vehicle for wealth accumulation"
+   },
+   {
+    "point": "Method/evidence as stated: contrasting 'stories' of luxury vacancy and tenant organizing in Los Angeles (narrative, not data).",
+    "quote": "Through contrasting stories of luxury vacancy and tenant organizing in Los Angeles",
+    "locator": "Abstract, sentence 2",
+    "file": "item2/roy2026_abstract_crossref.txt",
+    "grep": "contrasting stories of luxury vacancy and tenant organizing in Los Angeles"
+   },
+   {
+    "point": "Conceptual claim: property as a social fiction that legitimises rent extraction.",
+    "quote": "property emerges as a social fiction that legitimizes rent extraction",
+    "locator": "Abstract, sentence 2",
+    "file": "item2/roy2026_abstract_crossref.txt",
+    "grep": "social fiction that legitimizes rent extraction"
+   },
+   {
+    "point": "Bibliographic facts: pages 28-29, zero references, print date 1 Nov 2026.",
+    "quote": "\"page\":\"28-29\"",
+    "locator": "Crossref record",
+    "file": "item2/crossref.json",
+    "grep": "\"page\":\"28-29\""
+   },
+   {
+    "point": "Zero references in the Crossref deposit (so no named sources to trace).",
+    "quote": "\"reference-count\":0",
+    "locator": "Crossref record",
+    "file": "item2/crossref.json",
+    "grep": "\"reference-count\":0"
+   },
+   {
+    "point": "Access status: closed, no repository copy.",
+    "quote": "\"oa_status\":\"closed\"",
+    "locator": "Unpaywall record",
+    "file": "item2/unpaywall.json",
+    "grep": "\"oa_status\":\"closed\""
+   },
+   {
+    "point": "Author standing: 13,070 citations, h-index 35 (OpenAlex author record).",
+    "quote": "\"h_index\":35",
+    "locator": "OpenAlex author A5101929900",
+    "file": "item2/openalex_author_roy.json",
+    "grep": "\"h_index\":35"
+   },
+   {
+    "point": "Roy's earlier peer-reviewed work on the same Los Angeles property/policing theme (co-authored, Urban Geography 2024; Antipode 2021) is where any evidence for the essay's stories would live.",
+    "quote": "Policing Tenancy: The Struggle for Housing and Land in Los Angeles",
+    "locator": "Luskin Institute publications page",
+    "file": "item2/luskin_policing_tenancy_category.txt",
+    "grep": "Policing Tenancy: The Struggle for Housing and Land in Los Angeles"
+   }
+  ],
+  "existing_wiki_coverage": "Not in the wiki. Greps of the repo for 'Ananya', 'Roy' as author, 'luxury vacan', 'social fiction', 'fiction of property': 0 hits. Nearest pages: concepts/speculative-vacancy.md (sections Definition, Why Owners Wait: the Option Theory, Measuring It, Limits and Caveats, Book Findings; no Los Angeles content; its measurement base is Prosper Australia, Harrison, Vancouver, Segu/France, Ireland), research/prosper-speculative-vacancies.md, concepts/rentier.md (rent-extraction literature: Standing, Christophers, Hudson, the democracy/rentier paper), concepts/property-owning-democracy.md (a short Overview; the Ryan-Collins/Lloyd/Macfarlane homeowner-bloc point). The wiki has no page on critical urban theory or on property-as-social-construction (Polanyi-style fictitious commodities); Roy's framing would be a new type of source (critical-urban-studies, anti-landlord) rather than a gap in any existing evidence section.",
+  "uncertainties": [
+   "Everything beyond the abstract is unknown: whether the essay cites vacancy figures for Los Angeles (for example census/ACS vacancy counts, the LA Controller's or UCLA's counts, or a named development), what 'luxury vacancy' covers (empty luxury units, speculative land banking, or both), and whether it mentions land value, ground rent or Georgist remedies. Do not infer any of these.",
+   "The queue item's description ('speaks directly to the wiki's rent-extraction, speculative-vacancy ... themes', 'challenging conventional understandings') paraphrases the abstract, but the claim that it is 'a direct mainstream academic statement of the wiki's core claims' is the queue's inference. Critical urban theory (Roy's tradition) typically critiques the commodification of housing and property rights and does not endorse land value taxation as a remedy; the essay may be as much a challenge to Georgist framings of 'ownership' as support. Unknown from the abstract.",
+   "OpenAlex records no affiliation for this item and Crossref has an empty affiliation list; the UCLA tie comes from the OpenAlex author record and the Luskin Institute publications page, not from the essay's byline. The queue's 'Luskin / Institute on Inequality and Democracy' attribution is consistent with the saved Luskin page (it lists Roy as co-author on Institute-published work) but the director/chair titles were not confirmed in any saved file.",
+   "Current History is a magazine (UC Press) with essay-style, editor-reviewed pieces; it is not peer-reviewed in the journal sense. Grade accordingly.",
+   "Publication dates: OpenAlex publication_date 2026-10-14; Crossref published-print 2026-11-01 (issue 875). Cite as November 2026.",
+   "EDITORIAL 4b: if a source line is ever added, phrase access impersonally ('summary rests on the abstract; full text not accessible at last review (2026-10-18)'); no tool names or HTTP codes in reader-facing prose."
+  ]
+ },
+ {
+  "url": "https://www.ryanpuzycki.com/p/the-anti-property-property-tax",
+  "title": "The Anti-Property Property Tax (Ryan Puzycki, 'City of Yes' Substack, 16 October 2026)",
+  "what_was_fetched": "FULL POST REACHED (plain curl, 200). Saved in item3/: puzycki_post_2026-10-16.txt (body text with link targets and footnotes). Traced to primaries and saved: (1) TCAD: tcad_2026_waterline_and_parking_lot_extract.txt (rows pulled from the TCAD 2026 Certified Appraisal Export, PROP.TXT, Supp 0 dated 2026-07-19, a 557 MB zip downloaded from traviscad.org/publicinformation and filtered; the same two rows are unchanged in Supp 335 dated 2026-10-06), tcad_export_layout.txt (the Legacy 8.0.33 field layout used to read it), tcad_recompute.txt (arithmetic reproducing the post's numbers). (2) Austin budget: austin_FY2026-27_approved_budget_vol1.pdf/.txt (City of Austin FY2026-27 Approved Budget Volume I, from austintexas.gov budget page via austin.widen.net), austin_news_2026-27_budget_adoption.txt (city release 12 Aug 2026), communityimpact_austin_adopts_66b_budget.txt, communityimpact_austin_unveils_proposed_budget_2026-27.txt, cbsaustin_proposed_budget_2026-27.txt, communityimpact_taxrolls.txt (15 Apr 2026, TCAD tax-roll outlook). (3) Texas law: texas_tax_code_26.04_publiclaw.txt, texas_tax_code_26.07_publiclaw.txt, texas_tax_code_26.012_publiclaw.txt, texas_tax_code_26.02_publiclaw.txt, texas_tax_code_23.01_publiclaw.txt (texas.public.law copies of the Tax Code, 'updated May 26, 2025'), texas_sb2_2019_enrolled.txt and texas_sb2_2019_history.txt (capitol.texas.gov enrolled SB 2, 86th Leg., signed 12 June 2019), texas_constitution_art8.txt (official Texas Legislative Council PDF of Article VIII, pdftotext). (4) Elections: edims_457193.txt (Austin Ordinance 20250813-010 ordering the 4 Nov 2025 Proposition Q election, with ballot wording), communityimpact_austinites_reject_prop_q.txt, citycast_prop_q_result.txt, kut_prop_q_2025-10-20.txt, kut_prop_q_2025-11-05.txt, fox7_prop_q.txt (election-night coverage), votetravis_results_page.txt (Travis County Elections results index) and votetravis_G25_reconciliation.pdf (scanned reconciliation, no text layer, per-measure totals not in it), fox7_austin_2026_propositions.txt, spectrum_dueling_audit_proposals_2026-07-14.txt, cbsaustin_prop_i_debate.txt (Prop I). (5) CLE: cle_reports.txt (CLE reports index), cle_spokane_report.txt, cle_cincinnati_report.txt, civicmapper_cities.txt, civicmapper_github_README.md, civicmapper_austin_config_snippet.txt. NOT reached: the official certified canvass of Prop Q (Travis County Clerk results are on a JavaScript Clarity ENR site, the reconciliation PDF is a scan; only election-night unofficial counts via news); any CLE document stating Austin's '3,650 acres / $4.4 billion of land devoted to parking' (not in the CLE reports index, no Austin report exists, Civic Mapper computes it in the browser from a parquet file I could not read, Austin is a configured city there); Parking Reform Network's '15% of Downtown Austin' (403, r.jina.ai also 403); a CLE Syracuse report (404); the Tarrant/Texas legal-feasibility analysis (none located); statutes.capitol.texas.gov is a JavaScript shell from this network so the Tax Code text is from texas.public.law, a non-official mirror dated May 2025.",
+  "verdict": "NEW places/texas.md (Tier 2 origin attribution for the Austin comparison; primaries carry the page), NOT a separate places/austin.md and NOT merely an ENRICH on houston-texas.md. Reasoning: the barrier (Texas Constitution Art. VIII s.1(b), 'taxed in proportion to its value'; Tax Code s.26.02 100% assessment; s.23.01 market value) and the cap (Tax Code s.26.04(c): voter-approval rate = no-new-revenue M&O rate x 1.035 plus debt; s.26.07 automatic election) are statewide, so the state is the right unit; places/ already has the precedent places/washington-state.md (state uniformity clause plus local activity). The wiki already holds the Texas history (events/houston-plan-of-taxation.md: 1915 Baker v. City of Houston ruling on the same constitutional clause) and the Texas empirical study (research/plummer-lvt-distribution.md, Tarrant County), but nothing joins them or states the current law. A places/texas.md would have sections: Overview; The constitutional barrier (Art. VIII s.1; 1915 Houston Plan, linked); The 3.5% revenue cap and tax-rate elections (s.26.04, s.26.07, SB 2 of 2019); A worked Austin example (Prop Q Nov 2025 failed; FY2026-27 budget; the Waterline-vs-parking-lot comparison reproduced from TCAD, attributed to Puzycki as origin with the TCAD records as primaries); Evidence from Texas (Plummer 2010); See Also; Sources. Alternative if T1 prefers a lighter touch: ENRICH events/houston-plan-of-taxation.md section 'Significance' (after the sentence ending 'a legal, not empirical, verdict on land-favoring taxation.') with one sentence that the same clause (Art. VIII s.1(b)) remains in the current constitution, plus ENRICH organizations/center-for-land-economics.md (see below); that loses the cap/Prop Q/Austin material, which has no other home. Not a separate Austin page: Austin has done nothing Georgist (no LVT, no split rate, no study); the interesting facts are state-law facts and one reproducible parcel pair. Not worth a page of its own; a section on a Texas page is proportionate. ENRICH organizations/center-for-land-economics.md: section 'Focus', in the sentence beginning 'The Center has also built land-value-transparency mapping tools, including **CivicMapper**' (it lists 'New York, St. Paul, and Cincinnati'; T1 to add Austin to the city list or a following clause) add that Austin, Texas is among the cities configured in CivicMapper, citing civicmapper.org/cities.html (A-claim, config snippet saved); do NOT carry the 3,650-acre/$4.4B figure until it is traced (see uncertainties). Cheap and safe, low priority.",
+  "claim_grade": "Post: D-claim overall (advocacy-adjacent blog analysis); EDITORIAL 4c Tier 2: Puzycki is a blogger and zoning/platting commissioner and Strong Towns contributor (queue says; his role is not verified in any saved primary), so ORIGIN/PROPONENT only, never support. Component grades after tracing: A-claim (primary, verified): Austin FY2026-27 General Fund $1,543,720,835; GF property tax $743.9M (48.2% of GF revenue); total property tax $1,282.5M; the other three streams sum to $538.7M; FY2026-27 rate $0.579948 vs FY2025-26 $0.524017; 3.5% column in the approved budget's rate table; ballot wording of Prop Q ($0.574017, $0.05 above the voter-approval rate, prior year $0.4776); Tax Code s.26.04/26.07 mechanics; Texas Constitution Art. VIII s.1; TCAD land/improvement values and acreage for parcels 860621 and 191605. A/B-claim (secondary, consistent): Prop Q failed with more than 63% against (election-night unofficial counts 109,262 vs 62,882; later table 109,375 vs 62,952); TCAD projects Austin taxable value down 3.1% to $210.6B in 2026 and new construction value $2.8B vs a nearly $5.5B peak two years earlier (Community Impact, April 2026, quoting TCAD and the city budget office). B-claim (CLE own modelling, secondary): Cincinnati 'about one in four paying more'; Spokane median SF about -4%, small MF -10%, vacant land and parking +110% or more; Pittsburgh ~13% more housing units under construction and a 12% rise in business establishments (Hanson 2022) as CLE reports them. C/D-claim (blogger's own computation, reproducible): $1.08M vs $175k per acre and the $650k/$610k pure-LVT figures (reproduced; see summary and uncertainties). UNVERIFIED (blogger-only for now): CLE's 3,650 acres / $4.4B parking land; Parking Reform Network's 15% of Downtown; Syracuse split-rate results; the claim that implementation 'would take an act of the legislature and a constitutional amendment' (a legal conclusion; the constitutional text and the 1915 ruling support the barrier but no legal analysis of the route was located); the characterisation that groups opposing Prop Q now back Prop I.",
+  "content_summary": [
+   {
+    "point": "Origin claim (Tier 2 attribution): the post's own statement of method for the parcel comparison.",
+    "quote": "All figures are derived from the author's analysis of Travis Central Appraisal District data",
+    "locator": "Footnote 2",
+    "file": "item3/puzycki_post_2026-10-16.txt",
+    "grep": "derived from the author’s analysis of Travis Central Appraisal District data"
+   },
+   {
+    "point": "The post's headline per-acre comparison, as published.",
+    "quote": "the Waterline will pay the city about $1.08 million per acre in taxes versus only $175,000 for the parking lot",
+    "locator": "Body, Waterline paragraph",
+    "file": "item3/puzycki_post_2026-10-16.txt",
+    "grep": "about $1.08 million per acre in taxes versus only $175,000"
+   },
+   {
+    "point": "TCAD primary, Waterline: parcel 860621, 98 Red River, Waller Creek Owner LLC, 3.071 acres, land $107,018,208, improvements $513,625,102, total $620,643,310 (2026 certified; unchanged in Supp 335).",
+    "quote": "ac 3.071 land 107018208 imp 513625102 appr 620643310",
+    "locator": "TCAD 2026 certified export, PROP.TXT row 0860621",
+    "file": "item3/tcad_2026_waterline_and_parking_lot_extract.txt",
+    "grep": "ac 3.071 land 107018208 imp 513625102 appr 620643310"
+   },
+   {
+    "point": "TCAD primary, the best-fit parking lot: parcel 191605, 604 Driskill, Waller Creek Block 190 LLC, 1.3968 acres, land $45,633,000, improvements $27,875 (one improvement record, 'PAVED AREA', year built 2009), total $45,660,875. The post never names the parcel; this is identified by reproducing its numbers, see next two rows.",
+    "quote": "ac 1.3968 land 45633000 imp 27875 appr 45660875",
+    "locator": "TCAD row 0191605; IMP_DET 'PAVED AREA'",
+    "file": "item3/tcad_2026_waterline_and_parking_lot_extract.txt",
+    "grep": "ac 1.3968 land 45633000 imp 27875 appr 45660875"
+   },
+   {
+    "point": "Reproduction: total value per acre x FY2026-27 NO-NEW-REVENUE city rate $0.535466 gives $1,082,167 (Waterline) and $175,042 (lot), matching the post's $1.08M and $175k to three figures. (The post says 'will pay'; at the ADOPTED rate $0.579948 the same parcels pay about $1.17M and $190k per acre, ratio unchanged at 6.2:1.)",
+    "quote": "Waterline 98 Red River city tax/acre = $1082167",
+    "locator": "tcad_recompute.txt, second recompute",
+    "file": "item3/tcad_recompute.txt",
+    "grep": "Waterline 98 Red River city tax/acre = $1082167"
+   },
+   {
+    "point": "Reproduction of the lot figure.",
+    "quote": "Lot 604 Driskill (prop 191605) city tax/acre = $175042",
+    "locator": "tcad_recompute.txt",
+    "file": "item3/tcad_recompute.txt",
+    "grep": "Lot 604 Driskill (prop 191605) city tax/acre = $175042"
+   },
+   {
+    "point": "Land values per acre are close, as the post says: Waterline $34.85M vs lot $32.67M (ratio 1.067; post's pure-LVT bills 650/610 = 1.066).",
+    "quote": "land/acre ratio Waterline:lot = 1.0667",
+    "locator": "tcad_recompute.txt, first recompute",
+    "file": "item3/tcad_recompute.txt",
+    "grep": "land/acre ratio Waterline:lot = 1.0667"
+   },
+   {
+    "point": "The post's pure-LVT figures ($650k/$610k) reproduce ($648,885/$608,324) only if the two parcels are weighted equally per acre. Weighted by actual acreage (3.071 vs 1.397) a revenue-neutral pure LVT on the pair would give about $814k and $764k per acre, so the post's numbers are a per-acre illustration, not the pair's actual revenue-neutral bills (conclusion of near-equal bills holds).",
+    "quote": "Acreage-weighted revenue-neutral pure LVT on the pair: Waterline $814483/acre, lot $763570/acre",
+    "locator": "tcad_recompute.txt, second recompute",
+    "file": "item3/tcad_recompute.txt",
+    "grep": "Acreage-weighted revenue-neutral pure LVT on the pair: Waterline $814483/acre"
+   },
+   {
+    "point": "Budget primary: FY2026-27 General Fund total requirements.",
+    "quote": "TOTAL REQUIREMENTS      $1,485,785,895    $1,543,720,835",
+    "locator": "FY2026-27 Approved Budget Vol. I (General Fund summary)",
+    "file": "item3/austin_FY2026-27_approved_budget_vol1.txt",
+    "grep": "$1,543,720,835"
+   },
+   {
+    "point": "Budget primary: GF property tax $743.9M, 48.2% of GF revenue; total property tax $1,282.5M; Project Connect $194.0M, debt service $290.6M, TIRZ/HPZ $54.1M (sum $538.7M, matching the post).",
+    "quote": "The City’s General Fund receives 48.2% of its total revenue, $743.9 million, from property tax",
+    "locator": "Vol. I, 'Taxes' narrative",
+    "file": "item3/austin_FY2026-27_approved_budget_vol1.txt",
+    "grep": "$743.9 million, from property tax"
+   },
+   {
+    "point": "Budget primary: total property tax revenue and its increase.",
+    "quote": "Total property tax revenue for FY 2027 is projected at $1,282.5 million",
+    "locator": "Vol. I, 'Taxes' narrative",
+    "file": "item3/austin_FY2026-27_approved_budget_vol1.txt",
+    "grep": "Total property tax revenue for FY 2027 is projected at $1,282.5 million"
+   },
+   {
+    "point": "Budget primary: FY2027 approved overall rate $0.579948, up 5.5931 cents from $0.524017.",
+    "quote": "an increase of 5.5931 cents from the FY 2026 tax rate of $0.524017",
+    "locator": "Vol. I, 'Taxes' narrative",
+    "file": "item3/austin_FY2026-27_approved_budget_vol1.txt",
+    "grep": "increase of 5.5931 cents from the FY 2026 tax rate of $0.524017"
+   },
+   {
+    "point": "Budget primary: No-New-Revenue rate used in the post's comparison.",
+    "quote": "No-New-Revenue Tax Rate                   0.483319       0.535466",
+    "locator": "Vol. I, 'City of Austin Property Tax Rates' table",
+    "file": "item3/austin_FY2026-27_approved_budget_vol1.txt",
+    "grep": "0.535466"
+   },
+   {
+    "point": "Budget primary: the cap enters the manager's message as a real constraint.",
+    "quote": "most significantly the state’s\n3.5% cap on property tax revenue growth",
+    "locator": "City Manager's budget message",
+    "file": "item3/austin_FY2026-27_approved_budget_vol1.txt",
+    "grep": "3.5% cap on property tax revenue growth"
+   },
+   {
+    "point": "Statute: the 3.5% is a multiplier on the no-new-revenue maintenance-and-operations rate for a non-special unit, plus debt and unused-increment rates; 8% for special taxing units. (So it caps the operating RATE applied to property already on the rolls; debt is outside it.)",
+    "quote": "VOTER-APPROVAL TAX RATE = (NO-NEW-REVENUE MAINTENANCE AND OPERATIONS RATE x 1.035)",
+    "locator": "Tex. Tax Code s.26.04(c)(2)(B)",
+    "file": "item3/texas_tax_code_26.04_publiclaw.txt",
+    "grep": "NO-NEW-REVENUE MAINTENANCE AND OPERATIONS RATE x 1.035"
+   },
+   {
+    "point": "Statute: a municipality of 30,000 or more that adopts a rate above its voter-approval rate must put it to a November election; if the proposition fails the rate is the voter-approval rate (the Prop Q mechanism).",
+    "quote": "If the proposition is not approved as provided by Subsection (d), the taxing unit’s tax rate for the current tax year is the taxing unit’s voter-approval tax rate.",
+    "locator": "Tex. Tax Code s.26.07(e)",
+    "file": "item3/texas_tax_code_26.07_publiclaw.txt",
+    "grep": "tax rate for the current tax year is the taxing unit’s voter-approval tax rate"
+   },
+   {
+    "point": "Statute: SB 2 (86th Leg.) signed by the Governor 12 June 2019; Tax Code s.26.07 shows 'Acts 2019 ... (S.B. 2) ... eff. January 1, 2020'.",
+    "quote": "Acts 2019, 86th Leg., R.S., Ch. 944 (S.B. 2), Sec. 51, eff. January 1, 2020.",
+    "locator": "s.26.07 amendment history",
+    "file": "item3/texas_tax_code_26.07_publiclaw.txt",
+    "grep": "Ch. 944 (S.B. 2)"
+   },
+   {
+    "point": "Constitution: real property 'shall be taxed in proportion to its value'; subsection (a) 'Taxation shall be equal and uniform' (the pdftotext layout splits subsection (a) across lines; grep the heading).",
+    "quote": "shall be taxed in proportion to its value, which shall be ascertained as may be provided by law",
+    "locator": "Tex. Const. art. VIII, s.1(b)",
+    "file": "item3/texas_constitution_art8.txt",
+    "grep": "shall be taxed in proportion to its value"
+   },
+   {
+    "point": "Constitution heading (a) is 'EQUALITY AND UNIFORMITY OF TAXATION'.",
+    "quote": "EQUALITY AND UNIFORMITY OF TAXATION",
+    "locator": "Tex. Const. art. VIII, s.1 heading",
+    "file": "item3/texas_constitution_art8.txt",
+    "grep": "UNIFORMITY OF TAXATION"
+   },
+   {
+    "point": "Statute: all property is assessed at 100% of appraised value; appraisal is at market value (no differential ratio for land and improvements).",
+    "quote": "All property shall be assessed on the basis of 100 percent of its appraised value.",
+    "locator": "Tex. Tax Code s.26.02",
+    "file": "item3/texas_tax_code_26.02_publiclaw.txt",
+    "grep": "All property shall be assessed on the basis of 100 percent of its appraised value"
+   },
+   {
+    "point": "Statute: market-value rule.",
+    "quote": "all taxable property is appraised at its market value as of January 1",
+    "locator": "Tex. Tax Code s.23.01(a)",
+    "file": "item3/texas_tax_code_23.01_publiclaw.txt",
+    "grep": "all taxable property is appraised at its market value as of January 1"
+   },
+   {
+    "point": "Prop Q primary (ballot): $0.574017, $0.05 above the voter-approval rate; prior-year rate $0.4776.",
+    "quote": "Approving the ad valorem tax rate of $0.574017 per $100 valuation",
+    "locator": "Austin Ordinance 20250813-010, Part 1",
+    "file": "item3/edims_457193.txt",
+    "grep": "Approving the ad valorem tax rate of $0.574017 per $100 valuation"
+   },
+   {
+    "point": "Prop Q result (secondary, election-night unofficial): 109,262 against (more than 63%) vs 62,882 for. Official certified canvass NOT reached.",
+    "quote": "The proposition failed with 109,262 votes against, more than 63% of the vote",
+    "locator": "Community Impact, 4-5 Nov 2025",
+    "file": "item3/communityimpact_austinites_reject_prop_q.txt",
+    "grep": "109,262 votes against, more than 63% of the vote"
+   },
+   {
+    "point": "Prop Q aftermath: council-approved policy bars another larger hike until at least 2029; FY2026-27 rate is the maximum allowed without voter approval.",
+    "quote": "a council-approved policy keeps city officials from seeking another larger hike until at least 2029",
+    "locator": "Community Impact, Aug 2026 (budget approved 12 Aug)",
+    "file": "item3/communityimpact_austin_adopts_66b_budget.txt",
+    "grep": "from seeking another larger hike until at least 2029"
+   },
+   {
+    "point": "Tax-roll context: TCAD projects 2026 taxable value down 3.1% to $210.6B after a 2.7% drop in 2025; cap 'down from' 8%; new construction $2.8B vs nearly $5.5B two years ago (post says 'about half').",
+    "quote": "fall by 3.1% this year to $210.6 billion",
+    "locator": "Community Impact, 15 Apr 2026",
+    "file": "item3/communityimpact_taxrolls.txt",
+    "grep": "fall by 3.1% this year to $210.6 billion"
+   },
+   {
+    "point": "Tax-roll context: new construction peak.",
+    "quote": "new construction value peaked at nearly $5.5 billion",
+    "locator": "Community Impact, 15 Apr 2026",
+    "file": "item3/communityimpact_taxrolls.txt",
+    "grep": "peaked at nearly $5.5 billion"
+   },
+   {
+    "point": "Prop I (2026): charter amendment requiring an external audit regularly and before a tax rate increase election; on the 3 Nov 2026 ballot (news description; not the ballot text).",
+    "quote": "would require an external audit of the city's spending on a regular basis and before a tax rate increase election",
+    "locator": "Fox 7 Austin, 2026 propositions",
+    "file": "item3/fox7_austin_2026_propositions.txt",
+    "grep": "external audit of the city's spending on a regular basis"
+   },
+   {
+    "point": "CLE Cincinnati report (July 2026): median single-family homeowner pays less; about one in four pays more.",
+    "quote": "roughly half paying less and about one in four paying more",
+    "locator": "CLE Cincinnati report, summary bullets",
+    "file": "item3/cle_cincinnati_report.txt",
+    "grep": "about one in four paying more"
+   },
+   {
+    "point": "CLE Spokane report (June 2026): the post's 4% / 10% figures are CLE's rounded medians; exact modelled values are -3.6% (SF) and -9.5% (2-4 unit); vacant land +118.4%, parking +111.5%.",
+    "quote": "The median single-family home sees around a 4 percent tax decrease, and the median small multifamily property sees a 10 percent decrease.",
+    "locator": "CLE Spokane report, overview",
+    "file": "item3/cle_spokane_report.txt",
+    "grep": "median single-family home sees around a 4 percent tax decrease"
+   },
+   {
+    "point": "CLE Spokane report: the Pittsburgh 13% (as CLE reports it; the wiki's primary is Oates & Schwab / Bourassa, not this) and the Hanson 2022 12% business-establishment figure.",
+    "quote": "about a 13 percent increase in housing units under construction",
+    "locator": "CLE Spokane report, 'A Proven Policy'",
+    "file": "item3/cle_spokane_report.txt",
+    "grep": "about a 13 percent increase in housing units under construction"
+   },
+   {
+    "point": "CLE has no Austin report; its Civic Mapper registry lists Austin TX as a configured city with a parcels file and a parking-lots file (the source of the 3,650 acres / $4.4B claim, which is computed in-browser and not published as a figure anywhere I could reach).",
+    "quote": "austin-tx-parking-lots.parquet",
+    "locator": "Civic Mapper city registry excerpt",
+    "file": "item3/civicmapper_austin_config_snippet.txt",
+    "grep": "austin-tx-parking-lots.parquet"
+   },
+   {
+    "point": "The post's CLE parking claim, as published (UNVERIFIED against a CLE document).",
+    "quote": "some 3,650 acres of land worth $4.4 billion devoted to parking",
+    "locator": "Body, parking paragraph",
+    "file": "item3/puzycki_post_2026-10-16.txt",
+    "grep": "some 3,650 acres of land worth $4.4 billion devoted to parking"
+   },
+   {
+    "point": "The post's legal claim (Puzycki's conclusion, unsourced in the post).",
+    "quote": "would take an act of the legislature and a constitutional amendment",
+    "locator": "Body, final paragraph",
+    "file": "item3/puzycki_post_2026-10-16.txt",
+    "grep": "would take an act of the legislature and a constitutional amendment"
+   }
+  ],
+  "existing_wiki_coverage": "No Austin or Texas state page. Greps: 'Puzycki' 0 hits; 'City of Yes' none; 'Austin' appears incidentally on a handful of pages (none about Austin's taxes; no Prop Q, no 3.5% cap, no voter-approval rate, no TCAD); places/texas.md does not exist. Texas content that does exist: places/houston-texas.md (a STUB about Houston's lack of zoning; nothing on tax), events/houston-plan-of-taxation.md (the 1912-15 Houston Plan struck down in 1915 under the Texas Constitution's proportionality/exemption clauses; its Significance section calls it 'a legal, not empirical, verdict'), research/plummer-lvt-distribution.md (Tarrant County, TCU, Plummer 2010: revenue-neutral LVT cuts average SF liability about 30% in her county), research/yang-split-rate-tax-base.md (Texas-based authors, Pennsylvania data), benefits/lvt-improves-housing-affordability.md and benefits/land-value-tax-can-be-progressive.md (cite Plummer). State-barrier model pages: places/washington-state.md (uniformity clause + 2026 CLE Spokane report, building-exemption workaround), events/2026-state-lvt-enablement-wave.md (NY, Virginia, Kentucky; no Texas). CLE: organizations/center-for-land-economics.md covers CivicMapper (nine cities including New York, St. Paul, Cincinnati; Austin not named) and LVTShift; research/ndspn-cincinnati-lvt-analysis.md covers the Cincinnati figures; places/washington-state.md covers the Spokane report. Municipal case-study pattern exists: events/detroit-lvt-proposal, places/pittsburgh, places/harrisburg-pennsylvania. Speculative vacancy / under-use: concepts/speculative-vacancy.md already says 'Vacancy is the visible tip. Under-use (a parking lot on a prime corner) is economically similar but doesn't register as vacancy' - the Waterline pair is a concrete illustration of that sentence. Parking: people/donald-shoup only.",
+  "uncertainties": [
+   "PARCEL IDENTIFICATION is by reproduction, not by the post: Puzycki does not name the parking lot or give parcel IDs. Waterline = 98 Red River St (prop 860621) is certain. The lot = prop 191605 (604 Driskill, Waller Creek Block 190 LLC) because it reproduces BOTH of the post's per-acre numbers ($175,042 vs $175k) and its 650/610 land-value ratio (1.067 vs 1.066) when the Waterline reproduces $1.08M at the same rate; this is a strong fit but I did not verify that the lot is physically 'across the street' from the tower. Say 'a parking lot in the same district', not 'across the street', unless T1 confirms on a map.",
+   "The post's rate is not the adopted rate: it is the FY2026-27 no-new-revenue rate $0.535466 (an unstated modelling choice that matches 'revenue-neutral'). 'Will pay' therefore overstates precision; at the adopted $0.579948 the figures are about $1.17M and $190k per acre. Also the city share only (footnote 2), and TCAD values are Jan-1-2026 certified (July 2026), unchanged in the Oct supplement.",
+   "The $650k/$610k pure-LVT numbers are a per-acre average (equal weighting of the two parcels, 3.07 vs 1.40 acres); acreage-weighted they would be about $814k/$764k. Do not quote them as the pair's revenue-neutral LVT bills. The qualitative point (near-equal bills) holds either way. Also: the Waterline value is mostly improvements ($513.6M of $620.6M), so any LVT bill would depend on how TCAD's land value is assessed; TCAD assigns block-wide per-acre land values ($34.85M/ac at the tower, $32.67M/ac on the lot, Original City blocks showing repeated rates such as $21.8M/ac), i.e. land values are mass-appraised, which is itself relevant to the 'land cannot be assessed' objection.",
+   "Prop Q official numbers: not reached. Election-night counts differ between two Community Impact timestamps (109,262/62,882 vs 109,375/62,952; Axios cited 109,011/62,719, page blocked). Cite as 'more than 63% against' and say unofficial, or fetch the Travis County canvass (Clarity ENR) later.",
+   "'3,650 acres / $4.4B' (CLE) and '15% of Downtown Austin' (Parking Reform Network) are UNVERIFIED. They should not appear on a wiki page unless a CLE or PRN document is found; if used at all, attribute to Puzycki as relaying CLE.",
+   "Texas Tax Code text is from texas.public.law (non-official mirror, 'updated May 26, 2025'); the official statutes.capitol.texas.gov site is a JavaScript shell from this network. The 2025 session may have amended s.26.04 (T1 should check whether the 1.035 multiplier and the 8% special-unit multiplier are still current; the City of Austin's FY2027 budget table shows 3.5% in the FY2027 row, which corroborates that the 3.5% was still operative for the 2026 tax year). Austin's 'unused increment rate' mechanism (the budget's rate table) means the cap is not strictly 3.5% per year in every year.",
+   "The wiki should not say 'a constitutional amendment would be required' on Puzycki's say-so. Supported by primaries: Art. VIII s.1(a)-(b) and Tax Code s.26.02 and s.23.01 put all property on one proportional basis; the 1915 Baker v. City of Houston ruling (already on the wiki) applied the earlier constitutional clause to a land-favouring split. Not located: any current legal opinion or CLE legality analysis for Texas, or whether a building-exemption design (the Washington State workaround) would survive. Hedge accordingly: 'the constitution requires property to be taxed in proportion to its value; the Houston Plan was struck down under that clause in 1915; whether a modern split-rate or building-exemption design is permissible has not been tested'.",
+   "Post characterisations not verified in primaries: that 'some of those same groups who opposed Proposition Q' back Prop I (Fox 7/CBS describe Prop I as a citizen-petition measure by Save Austin Now; the group link is the post's); 'a million-dollar logo boondoggle'; that new construction adds 'about half as much value' (Community Impact: $2.8B vs nearly $5.5B at peak two years ago, which supports it); 'roughly $100 million in planned spending' pared back (Community Impact: $109.5M of lost Prop Q revenue). The parks and library bond amount ($295M) and the 3 Nov 2026 date are in the post only; the city ballot form was not read.",
+   "The CLE evidence the post relays (Pittsburgh +13%, Pennsylvania +12% establishments) is CLE restating Oates-Schwab-type and Hanson (2022) results; the wiki's Tier 1 anchors for those are research/oates-schwab-pittsburgh.md and research/bourassa-pittsburgh-lvt-housing.md. Link there rather than citing the post or CLE for them.",
+   "EDITORIAL 4b and 4c for any page: Puzycki goes in a labelled 'Current debate' / 'Origin of the comparison' paragraph with his status stated ('an Austin zoning and platting commissioner and Strong Towns contributor who writes the City of Yes newsletter'); the numbers cited as support are the TCAD and city-budget records; no process narration ('reproduced this session'): say 'the comparison can be reproduced from the appraisal district's certified export'.",
+   "Frontmatter hints for a Texas page: category places, tags [places, texas, austin, property-tax, revenue-cap, split-rate, usa]; the TCAD export is a 557 MB zip, so the page should cite the TCAD public-information page (traviscad.org/publicinformation) and the property record identifiers (prop_id 860621 and 191605), not a deep link."
+  ]
+ }
+]

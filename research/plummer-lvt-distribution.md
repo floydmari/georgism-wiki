@@ -75,6 +75,7 @@ However, the paper's contribution to the **progressivity** case specifically —
 - [Objection: LVT hurts the "asset-rich, cash-poor"](/wiki/lvt-hurts-asset-rich-cash-poor/)
 - [Land Value Tax](/wiki/land-value-tax/)
 - [Brueckner — A Modern Analysis of the Effects of Site Value Taxation](/wiki/brueckner-site-value-taxation/)
+- [Texas](/wiki/texas/) — the state whose constitution and revenue cap frame this Tarrant County simulation
 
 ## Sources
 
