@@ -1218,6 +1218,128 @@
       "action": "updated",
       "published_at": "2026-10-16T11:32:01.000Z",
       "notified": false
+    },
+    {
+      "slug": "texas",
+      "title": "Texas",
+      "url": "https://www.progress.org/wiki/texas/",
+      "category": "places",
+      "tags": [
+        "places",
+        "texas",
+        "austin",
+        "property-tax",
+        "revenue-cap",
+        "split-rate-taxation",
+        "land-value-tax",
+        "usa"
+      ],
+      "action": "published",
+      "published_at": "2026-10-18T11:34:32.000Z",
+      "notified": false
+    },
+    {
+      "slug": "norway",
+      "title": "Norway",
+      "url": "https://www.progress.org/wiki/norway/",
+      "category": "places",
+      "tags": [
+        "resource-rents",
+        "sovereign-wealth-fund",
+        "nordic",
+        "oil-fund"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-18T11:34:37.000Z",
+      "notified": false
+    },
+    {
+      "slug": "center-for-land-economics",
+      "title": "Center for Land Economics",
+      "url": "https://www.progress.org/wiki/center-for-land-economics/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "research",
+        "assessment",
+        "lvt",
+        "doucet"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-18T11:34:40.000Z",
+      "notified": false
+    },
+    {
+      "slug": "houston-plan-of-taxation",
+      "title": "The Houston Plan of Taxation (1912–1915)",
+      "url": "https://www.progress.org/wiki/houston-plan-of-taxation/",
+      "category": "events",
+      "tags": [
+        "events",
+        "united-states",
+        "single-tax",
+        "split-rate",
+        "history",
+        "texas"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-18T11:34:45.000Z",
+      "notified": false
+    },
+    {
+      "slug": "houston-texas",
+      "title": "Houston, Texas",
+      "url": "https://www.progress.org/wiki/houston-texas/",
+      "category": "places",
+      "tags": [
+        "places",
+        "houston",
+        "texas",
+        "zoning",
+        "land-use-planning",
+        "deed-restrictions",
+        "land-speculation",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-18T11:34:48.000Z",
+      "notified": false
+    },
+    {
+      "slug": "plummer-lvt-distribution",
+      "title": "Evidence on the Distributional Effects of a Land Value Tax on Residential Households",
+      "url": "https://www.progress.org/wiki/plummer-lvt-distribution/",
+      "category": "research",
+      "tags": [
+        "research",
+        "texas",
+        "lvt",
+        "tax-incidence",
+        "distributional-impacts",
+        "property-tax",
+        "empirical"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-18T11:34:53.000Z",
+      "notified": false
+    },
+    {
+      "slug": "washington-state",
+      "title": "Washington State",
+      "url": "https://www.progress.org/wiki/washington-state/",
+      "category": "places",
+      "tags": [
+        "places",
+        "washington-state",
+        "spokane",
+        "seattle",
+        "split-rate-taxation",
+        "land-value-tax",
+        "usa"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-18T11:34:58.000Z",
+      "notified": false
     }
   ]
 }
