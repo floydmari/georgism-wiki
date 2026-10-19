@@ -35,7 +35,7 @@
         "speculation-vacancy-tax"
       ],
       "action": "updated",
-      "published_at": "2026-10-06T11:35:36.000Z",
+      "published_at": "2026-10-19T11:29:06.000Z",
       "notified": false
     },
     {
@@ -133,7 +133,7 @@
         "rentier"
       ],
       "action": "updated",
-      "published_at": "2026-10-12T11:27:43.000Z",
+      "published_at": "2026-10-19T11:29:16.000Z",
       "notified": false
     },
     {
@@ -1339,6 +1339,95 @@
       ],
       "action": "updated",
       "published_at": "2026-10-18T11:34:58.000Z",
+      "notified": false
+    },
+    {
+      "slug": "bhutta-keys-raajkumar-mortgage-pricing-power",
+      "title": "Pricing Power in the Mortgage Market (Bhutta, Keys & Raajkumar, 2026)",
+      "url": "https://www.progress.org/wiki/bhutta-keys-raajkumar-mortgage-pricing-power/",
+      "category": "research",
+      "tags": [
+        "research",
+        "mortgage-market",
+        "subsidy-incidence",
+        "pass-through",
+        "market-power",
+        "search-frictions",
+        "nber",
+        "united-states"
+      ],
+      "action": "published",
+      "published_at": "2026-10-19T11:29:03.000Z",
+      "notified": false
+    },
+    {
+      "slug": "vancouver-empty-homes-tax",
+      "title": "Vancouver's Empty Homes Tax",
+      "url": "https://www.progress.org/wiki/vancouver-empty-homes-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "vacancy-tax",
+        "empty-homes",
+        "vancouver",
+        "british-columbia",
+        "canada",
+        "speculative-vacancy",
+        "housing",
+        "advocacy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-19T11:29:08.000Z",
+      "notified": false
+    },
+    {
+      "slug": "cea-2016-market-power",
+      "title": "Benefits of Competition and Indicators of Market Power",
+      "url": "https://www.progress.org/wiki/cea-2016-market-power/",
+      "category": "research",
+      "tags": [
+        "research",
+        "cea",
+        "market-power",
+        "concentration",
+        "rents",
+        "competition-policy",
+        "obama-administration"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-19T11:29:11.000Z",
+      "notified": false
+    },
+    {
+      "slug": "economic-rent",
+      "title": "Economic Rent",
+      "url": "https://www.progress.org/wiki/economic-rent/",
+      "category": "concepts",
+      "tags": [
+        "economic-rent",
+        "land",
+        "ricardo",
+        "georgism",
+        "rent-theory"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-19T11:29:13.000Z",
+      "notified": false
+    },
+    {
+      "slug": "tax-capitalization",
+      "title": "Tax Capitalization",
+      "url": "https://www.progress.org/wiki/tax-capitalization/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "capitalization",
+        "land-prices",
+        "incidence",
+        "atcor"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-19T11:29:18.000Z",
       "notified": false
     }
   ]
