@@ -8,7 +8,8 @@
       "context": "Fight for Vancouver \u2014 COPE 2026 Platform (28-page PDF, Coalition of Progressive Electors, Vancouver 2026 civic election). Platform planks: 'Support taxation on land value, capture the land-owner windfalls caused by proximity to public amenities, speculation, and zoning to use for public benefit'; city-wide public land trust for democratic community control; penalty on vacant lots; expand the Empty Homes Tax; Multi-Unit Residential Acquisition Fund for land trusts/co-ops/non-profits. Sharer in #bc-lvt notes the 'taxation on land value' plank appears to mean land value capture (land-lift upon upzoning).",
       "author": "U09GHJWK47Q",
       "queued_at": "2026-10-19T10:01:11.448090+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792404333.344029"
     },
     {
       "url": "https://www.nber.org/papers/w35907",
@@ -18,7 +19,8 @@
       "context": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers \u2014 Neil Bhutta (Federal Reserve Bank of Philadelphia), Benjamin J. Keys (Wharton, University of Pennsylvania), Adithya Raajkumar (Wharton). NBER Working Paper 35907, published 15 October 2026, DOI 10.3386/w35907. Abstract: market power may arise not only from firms but from individual salespeople who exploit informational advantages over consumers. Examines a Fannie Mae/Freddie Mac fee waiver targeted at lower-income first-time homebuyers and estimates that mortgage intermediaries capture over 60% of $1.5 billion in total fee waivers during 2023-2024, rather than fully passing the savings through to borrowers. Pass-through varies across loan officers: those with a track record of originating expensive mortgages pass through less than 20% of the waiver; loan officers retain incentives to steer borrowers into higher-rate mortgages despite post-crisis regulations designed to limit such practices. Speaks directly to the wiki's rent-extraction and market-power themes \u2014 citable on concepts/economic-rent.md, narratives/the-rentier-economy.md, concepts/deadweight-loss.md, research/cea-2016-market-power.md \u2014 and to housing-affordability material: rent capture at the point of sale in the largest US household-debt market, by the intermediaries rather than the asset owners.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-19T11:06:31.162711+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792407997.601819"
     },
     {
       "url": "https://doi.org/10.37791/2687-0657-2026-20-4-25-45",
@@ -28,7 +30,8 @@
       "context": "Cross-Subsidization as a Mechanism to Discipline Market Power: An Airport Pricing Model \u2014 Andrey N. Zubenko (Lomonosov Moscow State University; Center for Strategic Research Foundation), Alexander A. Kurdin (Lomonosov Moscow State University; Russian Presidential Academy RANEPA). Journal of Modern Competition (Sovremennaya konkurentsiya; ISSN 2687-0657 online / 1993-7598 print; Synergy University, Moscow; RePEc-indexed), vol. 20 no. 4, pp. 25-45, issued 12 October 2026, DOI 10.37791/2687-0657-2026-20-4-25-45 (Crossref-verified). Peer-reviewed Russian competition-economics paper, a follow-up to the same authors' 2023 JMC airport-regulation paper (10.37791/2687-0657-2023-17-5-19-40, 'Validity of Regulation of Airport Services Fees and Tariffs'). Develops a stylized vertical-structure airport profit-maximization model: because commercialization and growing non-aeronautical (commercial) revenue give airport operators an incentive to keep aeronautical charges low, cross-subsidization can act as a mechanism that disciplines natural-monopoly market power \u2014 a counterpoint to the traditional presumption that unregulated infrastructure monopolies simply exploit their position. In the scanner's broad economic-rent scope (monopoly rent, infrastructure pricing); citable on concepts/economic-rent.md, concepts/deadweight-loss.md, research/cea-2016-market-power.md and natural-monopoly/infrastructure-pricing material. Tier 2/3: niche journal, but a genuine continuing peer-reviewed research line by university-affiliated economists.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-19T11:06:31.162711+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792407997.601819"
     }
   ],
   "consumed": [
@@ -5768,7 +5771,7 @@
       "notes": "NEW places/texas.md (state as the unit; no Austin page): Art. VIII \u00a71 proportionality clause, Tax Code \u00a7\u00a723.01/26.02, SB 2 (2019) 3.5% voter-approval cap and \u00a726.07 elections, Austin FY2026-27 budget and Prop Q (Nov 2025), and the Waterline-vs-parking-lot comparison re-derived from TCAD 2026 certified records (parcels 860621 and 191605; $1.08M vs $175k per acre at the no-new-revenue rate, 6.2:1; land per acre ratio 1.07). Puzycki Tier 2, origin only; his commission role is unverified and not stated; his legal-route claim dropped. Not carried: CLE '3,650 acres/$4.4B' parking figure (no CLE document states it), Parking Reform Network 15%. Five inbound links; CLE page notes Austin in CivicMapper. BACKLOG: certified Prop Q canvass and the official Tax Code text (statutes.capitol.texas.gov is a JS shell) remain to check."
     }
   ],
-  "last_updated": "2026-10-19T11:06:31.162711+00:00",
+  "last_updated": "2026-10-19T11:06:49.036388+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 3
 }
