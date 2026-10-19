@@ -1,0 +1,388 @@
+[
+ {
+  "url": "https://static1.squarespace.com/static/662c77128fa24077e0ad28ea/t/6abb47a3b321440a514cc000/1790658467666/Fight+For+Vancouver+-+COPE+2026+Platform.pdf",
+  "title": "Fight for Vancouver: COPE 2026 Election Platform (Coalition of Progressive Electors, Vancouver; 28-page PDF)",
+  "what_was_fetched": "ALL saved in the scratchpad folder /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-19/. (1) PRIMARY, FULL TEXT: cope-platform-2026.pdf (28 pages, 5.2 MB, InDesign file dated 29 Sep 2026; direct curl with browser UA worked) converted with pdftotext -layout to cope-platform-2026.txt; page breaks are form-feeds and the printed page number equals the PDF page. (2) ELECTION CONTEXT: vancouver-ca-2026-municipal-election-jina.txt (City of Vancouver election page via r.jina.ai: 'Voting closed at 8pm on Saturday, October 17'); vancouver-results-page-unofficial-jina.txt (City results page, title '2026 Election unofficial results', via r.jina.ai: shell only, the live tallies are JavaScript and did NOT render, but the notice 'Official election results ... will be declared on October 21 by 4pm' did); canadian-press-vancouver-progressives-take-power-2026-10-18.txt (Canadian Press, first published 18 Oct 2026); tyee-greening-of-vancouver-city-hall-2026-10-17.txt (The Tyee, 17 Oct 2026); cbc-bc-municipal-election-live-2026-10-17.txt (CBC live page, mayor result only); globe-and-mail-fry-elected-mayor-2026-10-17.txt (Globe fetch returned only a nav/shell, 10 KB, nothing usable: ignore); wikipedia-2026-vancouver-municipal-election.txt/.html (candidate-level results table, used only to reconcile counts; Wikipedia is navigation not evidence); wikipedia-coalition-of-progressive-electors.txt (COPE history, same caveat). COULD NOT BE FETCHED: vote.cope.bc.ca and cope.bc.ca (agent proxy refuses the host; COPE's own 'about' page unread); vancouver.ca/your-government/election-results.aspx and the results.vancouver.ca tally data (HTTP 403 to direct curl; only the jina shell above). No official City tally is therefore saved; the official declaration is not due until 21 Oct 2026 4pm in any case.",
+  "verdict": "ENRICH places/vancouver.md (short paragraph, ~90-120 words, no new page). INSERTION POINT: add a new H2 '## The 2026 Civic Election' immediately AFTER the last sentence of section '## Modern Value Capture: Density Bonusing, Amenity Contributions and the 2026 Amenity Cost Charge', i.e. after the sentence 'The charge is too new for its effect on either housing supply or amenity funding to be assessed.' and BEFORE '## See Also'. SECOND, OPTIONAL one-sentence ENRICH: research/vancouver-empty-homes-tax.md, section '## Design & Rates', after the sentence ending 'and 5% was never levied.[1][2][3]': add that COPE's 2026 platform proposes to reverse the 2023 decision, enforce the tax and phase rates up to 9%. REASON it is not a REJECT: COPE did very well in the Vancouver civic election of 17 Oct 2026 (all 4 of its council candidates, all 4 of its park board candidates and 4 school trustees elected on preliminary results, with its incumbent Sean Orr the top council vote-getter), so the platform is the stated programme of one of the two largest parties on the new council (4 of 10 seats, level with the Greens), not a fringe manifesto. BUT KEEP IT SMALL AND HONEST: the land-value plank is one bullet with no rate, base, mechanism or legal basis; COPE holds 4 of 10 council seats (tied with the Greens), the mayor is Green Pete Fry, whose platform on this was not read; and nothing has been enacted. State it as 'COPE's platform proposes', not as city policy. READING OF THE PLANK (answers the sharer's question): the platform text does NOT say 'land value tax' as a named tax and gives no rate; it says 'Support taxation on land value, capture the land-owner windfalls caused by proximity to public amenities, speculation, and zoning to use for public benefit'. The object is the windfall (unearned value increment) from three named sources: public amenities, speculation, and zoning. Source (3) zoning, i.e. upzoning uplift, and source (1) amenity proximity are land-value-capture / betterment language; 'taxation on land value' in the same clause is compatible with a recurring land tax but is not specified. The sharer's reading (land value capture on upzoning) is supported as the dominant sense; the text neither confirms nor excludes a recurring LVT, and the wiki should say exactly that (the platform 'does not specify the instrument'). Separately, p.25 states a different property-tax plank: 'progressive taxation of property values' / a Mansion Tax, which is a tax on total property (land plus buildings) value, not on land value: do not conflate them.",
+  "claim_grade": "Platform as to what COPE PROPOSES: A-claim (factual: what a document says), primary document. EDITORIAL 4c tier: COPE is a political party, so Tier 3 for policy (own statements only) and at most Tier 2 as origin/proponent; the platform may NOT be cited as evidence that land value capture works or is desirable. Election outcome: A-claim, but PRELIMINARY: Canadian Press says 'Preliminary results show...'; the City's own page says official results are declared 21 Oct 2026 by 4pm. Sources CP, Tyee, CBC = serious journalism (level 5 of the EDITORIAL 3 source hierarchy); the City of Vancouver declaration will be the Tier 1 source once published, so T1 should re-check after 21 Oct before the sentence is written. COPE history (founded 1968): from Wikipedia only (navigation, not citable); COPE's own 'about' page was unreachable, so cite the platform itself (p.3, 'We won the first rent control in BC in 1969, the Empty Homes Tax in 2017') for COPE's self-description or omit the history.",
+  "content_summary": [
+   {
+    "point": "THE land-value plank (verbatim). Instrument unspecified; target is the windfall from amenities, speculation and zoning.",
+    "quote": "Support taxation on land value, capture the land-owner windfalls caused by proximity to public amenities, speculation, and zoning to use for public benefit instead of private profit.",
+    "locator": "p.7, section 1.2 Permanently Affordable Public Housing (bullet 4 of 6)",
+    "file": "cope-platform-2026.txt",
+    "grep": "Support taxation on land value, capture the land-owner windfalls"
+   },
+   {
+    "point": "Vacant-lot penalty ('use it or lose it'); no rate or design given.",
+    "quote": "Use it or lose it. Vancouver doesn't need vacant lots. ... Incentivize development without displacement by placing a penalty on land-banking for profit.",
+    "locator": "p.7, section 1.2 (bullet 5 of 6). Two printed lines; the grep hits line 1, the second line is 'land-banking for profit.'",
+    "file": "cope-platform-2026.txt",
+    "grep": "placing a penalty on"
+   },
+   {
+    "point": "Same section lists the funding sources: wealth, mansions, empty lots.",
+    "quote": "Finance the construction of permanently affordable public housing through taxes on wealth, mansions, and empty lots, bonds, and advocacy to senior governments.",
+    "locator": "p.7, section 1.2 (bullet 3 of 6)",
+    "file": "cope-platform-2026.txt",
+    "grep": "mansions, and empty lots, bonds"
+   },
+   {
+    "point": "City-wide public land trust (it is a public-land-leasing / community-control proposal, not a tax).",
+    "quote": "Preserve, leverage, and expand Vancouver's public lands for public benefit, and implement a city-wide public land trust for democratic community control.",
+    "locator": "p.6, section 1.1 Stop the Loss of Affordable Housing (bullet 6 of 12; the grep hits the 2nd printed line; the hyphen in city-wide is a non-breaking character in the PDF, so grep the string given)",
+    "file": "cope-platform-2026.txt",
+    "grep": "public land trust for democratic"
+   },
+   {
+    "point": "Community-led land trusts (distinct from the city-wide public trust).",
+    "quote": "Support the development of community-led land trusts aimed at protecting land from speculative development and creating permanently affordable housing for public benefit.",
+    "locator": "p.5, section 1.1 (last bullet on page)",
+    "file": "cope-platform-2026.txt",
+    "grep": "Support the development of community-led land"
+   },
+   {
+    "point": "Acquisition fund: named exactly 'Multi-Unit Residential Acquisition Fund' (non-breaking hyphens in the PDF).",
+    "quote": "Create a Multi-Unit Residential Acquisition Fund to help land trusts, co-ops, and non-profits acquire rental housing and prevent displacement.",
+    "locator": "p.5, section 1.1 (bullet 3 of 4). Split over two printed lines; grep hits the second",
+    "file": "cope-platform-2026.txt",
+    "grep": "Acquisition Fund to help land trusts"
+   },
+   {
+    "point": "Empty Homes Tax: first the housing-section pledge to triple it...",
+    "quote": "Triple the empty homes tax to put more rental homes on the market and use the revenues to produce affordable housing.",
+    "locator": "p.5, section 1.1 (bullet 2 of 4)",
+    "file": "cope-platform-2026.txt",
+    "grep": "Triple the empty homes tax"
+   },
+   {
+    "point": "... and the 'People's Audit' version: reverse the 2023 freeze, enforce, close loopholes, phase to 9%.",
+    "quote": "Reverse the cut to the Empty Homes Tax (EHT), and then triple it. ... COPE will enforce the empty homes tax properly, close the loopholes, and phase in increases to 9%.",
+    "locator": "p.10, section 2.1 Reverse Course on Ken Sim and ABC Immediately (bullet 6 of 6, right column). Two grep hits: 'and then triple it' and 'phase in increases to 9%'",
+    "file": "cope-platform-2026.txt",
+    "grep": "phase in increases to 9%"
+   },
+   {
+    "point": "Platform's own account of the 5% history (agrees with the wiki's research/vancouver-empty-homes-tax.md: 5% legislated, cancelled).",
+    "quote": "The EHT was scheduled to go up to 5%. Ken Sim stopped the increase, and then created a new loophole that's leaving more homes empty.",
+    "locator": "p.10, same bullet",
+    "file": "cope-platform-2026.txt",
+    "grep": "The EHT was sched"
+   },
+   {
+    "point": "A separate plank that is a total-property-value tax, NOT a land tax (keep apart from the land-value plank).",
+    "quote": "Use all options available to the city, and pressure all other levels of government, to tax wealth in Vancouver, through measures like a Mansion Tax, or progressive taxation of property values",
+    "locator": "p.25, section 3.11 Fight for a Just Vancouver (bullet 1). Grep hits the line 'taxation of property values'",
+    "file": "cope-platform-2026.txt",
+    "grep": "taxation of property values"
+   },
+   {
+    "point": "Developer-windfall language elsewhere (DTES), showing 'windfall' is used loosely beyond the land-value bullet.",
+    "quote": "Restore the DEOD (Downtown Eastside Oppenheimer District) and end the developer windfall for condos in the DTES.",
+    "locator": "p.9, section 1.4 (bullet 7 of 8, right column)",
+    "file": "cope-platform-2026.txt",
+    "grep": "developer windfall for condos"
+   },
+   {
+    "point": "COPE's self-description of its record, and a candidate list (council: Sean Orr, Chloe Leslie, Devyani Singh, Solomon Yi-Kieran; 4 school, 4 park).",
+    "quote": "We won the first rent control in BC in 1969, the Empty Homes Tax in 2017, and free transit for kids in 2021.",
+    "locator": "p.3 (also lists 12 candidates in the right column)",
+    "file": "cope-platform-2026.txt",
+    "grep": "Empty Homes Tax in 2017"
+   },
+   {
+    "point": "ELECTION DATE: voting closed Saturday 17 Oct 2026 (City of Vancouver).",
+    "quote": "Voting closed at 8pm on Saturday, October 17",
+    "locator": "vancouver.ca 2026 election page, heading",
+    "file": "vancouver-ca-2026-municipal-election-jina.txt",
+    "grep": "Voting closed at 8pm on Saturday, October 17"
+   },
+   {
+    "point": "OFFICIAL RESULTS NOT YET DECLARED as of 19 Oct 2026 (the City results-page notice).",
+    "quote": "Official election results, including the results of the plebiscite questions, will be declared on October 21 by 4pm.",
+    "locator": "results.vancouver.ca/2026 page notice",
+    "file": "vancouver-results-page-unofficial-jina.txt",
+    "grep": "will be declared on October 21 by 4pm"
+   },
+   {
+    "point": "COPE COUNCIL RESULT (Canadian Press): Greens and COPE four of ten seats each.",
+    "quote": "each taking four seats out of 10, and OneCity Vancouver claiming a ninth seat",
+    "locator": "Canadian Press, first published 18 Oct 2026, paragraph 'Pete Fry will become the city's first Green mayor...'",
+    "file": "canadian-press-vancouver-progressives-take-power-2026-10-18.txt",
+    "grep": "each taking four seats out of 10"
+   },
+   {
+    "point": "PARK BOARD and SCHOOL BOARD (Canadian Press, not broken down by party).",
+    "quote": "Green and COPE candidates won all seven commissioners' seats on the Park Board, while Green, COPE, and OneCity candidates won all nine school trustee positions.",
+    "locator": "Canadian Press, same article, paragraph beginning 'Preliminary results show Fry won handsomely'",
+    "file": "canadian-press-vancouver-progressives-take-power-2026-10-18.txt",
+    "grep": "won all seven commissioners"
+   },
+   {
+    "point": "COPE count by party on council (Tyee).",
+    "quote": "four COPE candidates, one OneCity and four Green candidates winning council seats",
+    "locator": "The Tyee, 17 Oct 2026",
+    "file": "tyee-greening-of-vancouver-city-hall-2026-10-17.txt",
+    "grep": "four COPE candidates, one OneCity and four Green"
+   },
+   {
+    "point": "12 of 12 COPE candidates elected, Orr top of the poll (Tyee: 'leading' at midnight; CP: 'top vote-getter ... more than 83,000 votes').",
+    "quote": "All 12 candidates that COPE ran were leading their races",
+    "locator": "The Tyee, section 'A historic night for COPE'",
+    "file": "tyee-greening-of-vancouver-city-hall-2026-10-17.txt",
+    "grep": "All 12 candidates that COPE ran were leading"
+   },
+   {
+    "point": "School board seats by party (COPE 4, OneCity 3, Green 2) and park board (COPE 4, Green 3): only in the Wikipedia tally, not in the news sources.",
+    "quote": "COPE 4 +3 / OneCity 3 +2 / Green 2 0 (school board table)",
+    "locator": "Wikipedia '2026 Vancouver municipal election', School board election table. NAVIGATION ONLY: needs the City's official results to be citable",
+    "file": "wikipedia-2026-vancouver-municipal-election.txt",
+    "grep": "School board election"
+   },
+   {
+    "point": "Mayor: Pete Fry (Green) 98,494 votes, 47.76%; Ken Sim 67,467, 32.73%.",
+    "quote": "Pete Fry 98,494 47.76%; Ken Sim 67,467 32.73%",
+    "locator": "Wikipedia infobox; CP independently gives 'more than 98,000 votes, about 31,000 ahead of Sim' (grep 'more than 98,000 votes')",
+    "file": "canadian-press-vancouver-progressives-take-power-2026-10-18.txt",
+    "grep": "more than 98,000 votes"
+   }
+  ],
+  "existing_wiki_coverage": "Digest: places/vancouver (13 inbound), research/vancouver-empty-homes-tax (5), places/british-columbia (12), concepts/land-value-capture, concepts/community-land-trust, concepts/land-banking, concepts/speculative-vacancy, organizations/common-wealth-canada (17). Repo grep for 'COPE', 'Coalition of Progressive Electors', 'Sean Orr', 'Pete Fry', 'Ken Sim' in places/ concepts/ research/ organizations/: ZERO hits for any of them (the only 'cope' strings are 'scope'). places/vancouver.md has sections Overview; Worldwide Celebrity 1910-1911; The 1913 Crash and a Confounded Case; The Long Rollback 1919-1984; Modern Relevance: The Speculation and Vacancy Tax; Modern Value Capture: Density Bonusing, Amenity Contributions and the 2026 Amenity Cost Charge; See Also; Sources. It already covers the EHT (3%, 54% vs ~21%), SVT, the Amenity Cost Charge effective 30 Sep 2026 ($2.32/sq ft low-density, $7.7bn programme) and a Michael Wiebe critique about uplift being prevented rather than captured: so the platform plank fits naturally right after that passage as a political-demand counterpoint. research/vancouver-empty-homes-tax.md already states the rate history correctly (1% 2017-19, 1.25% 2020, 3% from 2021; 5% legislated then cancelled by 7-3 Council vote on 10 May 2023, ~$3.8M refund; 'never exceeded 3%'), which matches the platform's own account on p.10; it has no 2026 political content. Nothing on Vancouver's 2026 election, the Green/COPE/OneCity cooperation deal, or any city-wide public land trust. concepts/community-land-trust and concepts/land-banking exist and should be linked. organizations/common-wealth-canada is strictly Tier 2 proponent: do NOT use its material to support or characterise the COPE plank; no CWC document was read for this brief and none is needed.",
+  "uncertainties": [
+   "ELECTION RESULTS ARE PRELIMINARY. Official declaration is 21 Oct 2026 by 4pm (City page). The counts above (COPE 4 council, 4 park, 4 school) come from CP/Tyee (council: both agree; park/school by party: CP gives only the blocs, party split is Wikipedia only). T1 should re-fetch after 21 Oct and prefer the City's declaration.",
+   "I could not read the City's tally (403; JS-rendered). The party-by-seat tables for park and school board are therefore from Wikipedia only (not citable); the vote totals (Orr 83,038) are Wikipedia, CP says 'more than 83,000'.",
+   "The Tyee line 'Now city council has a slight COPE majority' is wrong or loose: COPE and the Greens each have 4 of 10 (Tyee's own earlier sentence and CP agree). Do not repeat it.",
+   "The sharer's reading is supported but not proven by the text: the plank never says 'land value tax' as a named instrument and never mentions upzoning uplift by that name; it says 'zoning' as one of three sources of landowner windfall. COPE's own gloss (vote.cope.bc.ca) could not be reached. Whether the City of Vancouver can legally levy a land-only tax or a land-lift capture beyond CACs/ACCs depends on the Vancouver Charter and provincial law; I did not verify that and the brief makes no claim about it.",
+   "Platform is a campaign document dated 29 Sep 2026 (PDF metadata); the wiki must not present any plank as adopted policy. The Greens' (Fry's) position on the same planks, and whether the council will act on them, are unknown.",
+   "COPE history (founded 1968 as the Committee of Progressive Electors; elected Sean Orr in the April 2025 by-election) is Wikipedia-only; COPE's own about page is unreachable from this environment. Platform p.3 supports only 'rent control 1969 / EHT 2017 / free transit for kids 2021' as COPE's own claims, and p.25 says COPE's 2014 mayoral candidate Meena Wong proposed the EHT (grep 'Meena Wong'); the wiki already credits the 2017 enactment to the City, not to COPE.",
+   "Platform quotes in the saved text use non-breaking hyphens (U+2011) in 'city-wide', 'Multi-Unit', 'co-ops', 'non-profits' on pp.5-6: grep with the ASCII substrings given, not the hyphenated compounds.",
+   "The 2026 Amenity Cost Charge and the platform may interact (ACC replaces negotiated CACs): the platform does not mention the ACC at all (no hit for 'amenity cost' or 'CAC'), so do not imply COPE is responding to it."
+  ]
+ },
+ {
+  "url": "https://www.nber.org/papers/w35907",
+  "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers (Neil Bhutta, Federal Reserve Bank of Philadelphia; Benjamin J. Keys and Adithya Raajkumar, Wharton). NBER Working Paper 35907, October 2026, DOI 10.3386/w35907",
+  "what_was_fetched": "Folder: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-19/. FULL TEXT REACHED, but NOT as a PDF: nber.org/system/files/working_papers/w35907/w35907.pdf returns HTTP 403 'Access denied' to curl with a Chrome UA, with a Referer, with a Googlebot UA, and with ?download=1; the DOI and the Wayback route also failed (DOI 404 at this time, Wayback connection reset). Access ladder step that worked: r.jina.ai rendering of the NBER PDF (66 pages incl. appendices). Saved: bhutta-keys-raajkumar-w35907-jina-text.txt (plain-text rendering, 1,567 lines, line-wrapped; USE THIS for grep); bhutta-keys-raajkumar-w35907-jina-markdown.txt (same text in the browser-engine markdown variant, long lines); nber-w35907-landing.html (NBER landing page, HTTP 200: abstract, JEL, citation, acknowledgements); bhutta-w35907-pdf-attempt-403.html (the 403 body, kept as the record of what was refused). Not fetched: Appendices A-F were read only as rendered text (figure panels and Tables 1-3 numbers are present as text; chart images are not). No separate HMDA/GSE data were fetched. Authors' affiliations from the paper's cover: Bhutta, Philadelphia Fed; Keys, Wharton and NBER; Raajkumar, Wharton.",
+  "verdict": "NEW research/bhutta-keys-raajkumar-mortgage-pricing-power.md (suggested slug; category research, tier Supplementary, authors [Neil Bhutta, Benjamin J. Keys, Adithya Raajkumar], year 2026, source_url https://www.nber.org/papers/w35907). Substantive, quasi-experimental (difference-in-differences with placebo, triple-difference and RD checks), national data, three Tier-1-by-rubric authors: it clears the bar for a research page, and the wiki has no mortgage-pricing or intermediary-pass-through page at all (greps below). BE HONEST ABOUT THE LAND LINK: this is NOT a land-rent paper. Its 'rent' is the imperfect-competition / search-friction profit of mortgage lenders and loan officers (Section 2.3 model: all lenders 'earn rents' because some borrowers do not shop), the paper assumes ELASTIC mortgage supply, and the word 'land' never appears in the body. The Georgist-adjacent value is narrow: (a) it is a clean worked case of who captures a demand-side subsidy ('Subsidies delivered through intermediaries may fail to reach intended beneficiaries'), which the wiki treats for land via tax capitalization / subsidy capitalization, and the contrast is instructive: here the capture is by intermediaries under elastic supply and frictions, whereas with land it is by owners under inelastic supply; (b) it is a rent-gradient-frontier datum for finance (EDITORIAL 0: 'finance and credit' is in scope but contested) and an empirical rent-extraction example in a regulated market. Do NOT present it as evidence for LVT or as evidence that mortgage subsidies are capitalised into land prices (the paper does not measure house or land prices). RECOMMENDED PAGE SHAPE: Summary; the programme; design and data; findings (pass-through 31.5-39.3% across specifications; heterogeneity); what it does and does not show; 'Relation to the Georgist case' as a short, hedged section built on the rent-gradient rule; See Also; Sources with the working-paper status noted impersonally. SUPPORTS_OUTCOMES: none strongly. problems/corporate-profits-increasingly-rents is the nearest claim page but concerns corporate markups at the firm level; I would NOT wire it as 'supported_by' (T1 call). Candidate objection lane: none obviously. INBOUND LINKS (>=2 needed): (1) research/cea-2016-market-power.md, See Also (consumer-finance market power at the point of sale, micro-evidence behind the CEA's macro market-power brief); (2) concepts/economic-rent.md, section '## The Neoclassical Redefinition of Rent' (add a one-line example of search-friction rent) or See Also; (3) concepts/rentier.md, section '## The Contested Boundary of \"Rent\"', as a worked example of an intermediary rent; (4) concepts/financialization-of-land.md, See Also (mortgage-market pricing, with the explicit note that the paper concerns credit pricing not land); (5) concepts/tax-capitalization.md or concepts/common-agricultural-policy.md, See Also, as the contrast case for who captures a subsidy; (6) narratives/the-rentier-economy.md, under '## Research That Supports It', labelled as a frontier/IO example. Wire at least (1), (2) and (4).",
+  "claim_grade": "B-claim (empirical, quasi-experimental estimate). NBER working paper: by its own cover statement 'They have not been peer-reviewed or been subject to the review by the NBER Board of Directors', so the page must say it is a non-peer-reviewed working paper and the headline numbers are the authors' estimates. EDITORIAL 4c: authors are Tier 1 by rubric (Philadelphia Fed economist; Wharton professor with a peer-reviewed housing-finance record; neither name is in sources/audit/people-tiers.json, so judged by rubric: established academics/central-bank economists with a body of peer-reviewed work on the topic). Evidence-ordering: class 4 (working papers). The paper is framed by its authors as market power in consumer credit, not as land rent: do not up-grade the claim by implication.",
+  "content_summary": [
+   {
+    "point": "PROGRAMME: FHFA-directed GSE waiver of Loan-Level Pricing Adjustments (LLPAs, the upfront g-fee) for first-time homebuyers below area median income (120% of AMI in high-cost counties); announced 24 Oct 2022; effective for loans purchased on/after 1 Dec 2022.",
+    "quote": "FHFA announced that the GSEs would implement fee waivers that eliminated LLPAs for first-time home-buyers whose income is below the area median income (AMI), or less than 120 percent of AMI in designated high-cost areas",
+    "locator": "p.5, section 2.1 Mortgage Market Fees and Waivers (text spans lines; grep line 1 of the quote's neighbours: 'On October 24, 2022')",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "On October 24, 2022, to support low-income homeownership"
+   },
+   {
+    "point": "Effective date 1 Dec 2022 (announced by Fannie Mae 5 Nov 2022).",
+    "quote": "the LLPA waivers would go into effect for loans purchased on or after December 1, 2022",
+    "locator": "p.6, section 2.1",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "would go into effect for loans purchased on or after December 1, 2022"
+   },
+   {
+    "point": "Worked example of the subsidy size: 650 credit score, 90% LTV: waiver worth 2.75% of the loan, $6,875 on a $250,000 loan.",
+    "quote": "the value of the waiver is 2.75% of the loan amount, or $6,875 for a $250,000 loan",
+    "locator": "p.6, section 2.1",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "$6,875 for a $250,000 loan"
+   },
+   {
+    "point": "Scale: GSEs waive about $2bn of g-fees a year in total (CBO 2024); FY2025 total waivers $1.68bn.",
+    "quote": "The GSEs waive about $2 billion in guarantee fees, or \"g-fees,\" per year",
+    "locator": "p.3 (introduction); FY2025 $1.68 billion on p.4 (grep 'amounted to $1.68 billion')",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "waive about $2 billion in guarantee fees"
+   },
+   {
+    "point": "HEADLINE: intermediaries capture over 60% of $1.5bn of waivers in 2023-2024 (abstract wording is 'mortgage intermediaries'; the body says 'lenders captured').",
+    "quote": "We estimate that mortgage intermediaries capture over 60% of $1.5 billion in total fee waivers during 2023-2024",
+    "locator": "Abstract (cover, unnumbered). Body restatements: p.3 'lenders captured more than 60% of the $1.5 billion of fee waivers in 2023-2024' and p.23 conclusion. NOTE the text uses an en dash in '2023–2024': grep the part before it",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "intermediaries capture over 60% of $1.5 billion in total fee waivers"
+   },
+   {
+    "point": "Average pass-through <40% (the other side of the >60%): baseline 39.3% (Table 2 col 3); range across specifications 31.5%-39.3% (cols 1-4: 0.315, 0.366, 0.393, 0.365).",
+    "quote": "we estimate that lenders pass through less than 40% of the value of the waiver, on average",
+    "locator": "p.1 (introduction); Table 2 on p.31 of the paper (Table 3 p.32); baseline text p.17 'We use the specification in column 3 ... with an estimated pass-through of 39 percent'",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "we estimate that lenders pass through less than 40% of the value"
+   },
+   {
+    "point": "HIGH-PRICE LOAN OFFICERS: most expensive quintile of loan officers passes through <20% (about 25% for the most expensive lenders).",
+    "quote": "less than 20% of the waiver is passed through by the most expensive quintile of loan officers",
+    "locator": "p.2 (introduction); results p.22 ('about 25% for the most expensive lenders, and less than 20% for the most expensive loan officers'); Figures 9-10",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "less than 20% of the waiver is passed through by the most expensive quintile"
+   },
+   {
+    "point": "Abstract's loan-officer framing: pass-through under 20% for officers with a track record of expensive loans 'independent of lender pricing'.",
+    "quote": "those with a track record of originating expensive mortgages (independent of lender pricing) pass through less than 20% of the waiver",
+    "locator": "Abstract",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "pass through less than 20% of the waiver"
+   },
+   {
+    "point": "'PRICING POWER' / 'SALESPEOPLE' framing (verbatim abstract opening) and the mechanism (non-shoppers): market power from individual salespeople with informational advantages.",
+    "quote": "Market power may arise not only from firms, but also from individual salespeople who can exploit informational advantages over consumers.",
+    "locator": "Abstract. The word 'salespeople' appears ONLY here; the body speaks of 'lenders and loan officers', 'intermediaries', 'active price setters'",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "individual salespeople who can exploit"
+   },
+   {
+    "point": "Authors' summary of the finding on the intro.",
+    "quote": "we provide novel evidence that mortgage lenders and loan officers exert pricing power in the post Dodd-Frank era",
+    "locator": "p.3 (introduction); grep hits two lines, use the shorter string",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "exert pricing power in the post Dodd-Frank era"
+   },
+   {
+    "point": "Wording of the competitive-benchmark failure: 'a striking deviation'.",
+    "quote": "our analysis in this paper uncovers a striking deviation from this competitive benchmark",
+    "locator": "p.1; the PDF hyphenates 'com-petitive', so grep 'striking deviation'",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "striking deviation"
+   },
+   {
+    "point": "MECHANISM: some borrowers do not shop, so equilibrium has price dispersion and all lenders earn rents; pass-through equals the shopper fraction (eq. 1).",
+    "quote": "all lenders earn rents of value",
+    "locator": "p.9, section 2.3.3 (search model after Varian 1980 and Burdett-Judd 1983); eq. (1) p.9: dp/dc = alpha (share of shoppers)",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "earn rents of value"
+   },
+   {
+    "point": "DATA: confidential HMDA (near-universe of mortgage applications/originations, with lender and loan officer identifiers) merged to public Fannie/Freddie loan-level data (first-time-buyer flag); NOT Optimal Blue and NOT rate-lock data. About two-thirds of GSE records matched to HMDA.",
+    "quote": "Overall, we are able to match about two-thirds of GSE records to a HMDA record.",
+    "locator": "p.12, section 3.2 Match to GSE Data; HMDA description p.11 section 3.1; confidential version footnote 15 p.11",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "match about two-thirds of GSE records to a HMDA record"
+   },
+   {
+    "point": "Sample: home-purchase loans to first-time buyers originated 2022-2024, credit score at least 620, income 60-140% of AMI, November 2022 applications excluded. NB Section 3.1 says HMDA loans 'originated in 2022 and 2023' whereas Section 4.2 and Table 1 say 2022 to 2024: an internal inconsistency in the working paper.",
+    "quote": "originated from 2022 to 2024 from our matched HMDA-GSE dataset",
+    "locator": "p.14, section 4.2 Sample selection; Table 1 caption p.30; compare section 3.1 p.11 'originated in 2022 and 2023'",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "originated from 2022 to 2024 from our matched HMDA-GSE"
+   },
+   {
+    "point": "IDENTIFICATION: difference-in-differences, eligible (below 100%/120% of AMI) vs. ineligible first-time buyers just above the cut-off, before vs. after 1 Dec 2022; conditional parallel trends; outcome = note rate adjusted for points via a monthly rate-point tradeoff (about 36 bp per point in this period). Robustness: event study, placebo on non-first-time buyers, triple-difference, regression discontinuity.",
+    "quote": "Our identification relies on a clear counterfactual set of fees and total mortgage costs for first-time home buyers who did not qualify as \"low-moderate income\" (LMI) under the program rules",
+    "locator": "p.1 (introduction); design Section 4 pp.13-16; placebo/RD pp.18-19; tradeoff p.15 ('36 basis point')",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "Our identification relies on a clear counterfactual"
+   },
+   {
+    "point": "Measuring 'expensiveness': lender and loan-officer fixed effects from rate regressions over 2018-2022; top vs bottom quintile gap 26 bp for lenders, 22 bp for loan officers (within lender).",
+    "quote": "The gap between the top and bottom quintile of the lender fixed effect distribution, indicated by the vertical lines in Figure 7, is 26 basis points.",
+    "locator": "p.22 (section 5.2.1; loan officer gap '22 basis points' on the same page); method p.16 section 4.5",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "The gap between the top and bottom quintile of the lender"
+   },
+   {
+    "point": "Heterogeneity: Black borrowers about 20% pass-through; ten largest nonbanks under 30%, about half the bank rate; one-standard-deviation more expensive loan officer cuts pass-through by 25% (0.033/0.133), lender by 39% (0.052/0.134) (Table 3).",
+    "quote": "Pass-through is lowest for Black borrowers at just over 20%.",
+    "locator": "p.20, section 5.2; nonbanks p.21 ('less than 30%'); Table 3 interaction text p.22",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "Pass-through is lowest for Black borrowers"
+   },
+   {
+    "point": "Authors' conclusion on the market and on subsidy design (policy sentence safest to quote).",
+    "quote": "Subsidies delivered through intermediaries may fail to reach intended beneficiaries when pricing discretion and borrower inattention are pervasive.",
+    "locator": "p.23, section 6 Conclusion",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "Subsidies delivered through"
+   },
+   {
+    "point": "Authors' own use of 'rents' in the IO sense in the conclusion; no land reference anywhere in the text.",
+    "quote": "loan officers appear to retain meaningful discretion over pricing and extract rents from borrowers who may be less informed",
+    "locator": "p.23, section 6 (grep the string as given; the wrapped line break falls after 'extract rents'). CHECK: grep -c -i -w land on the saved text returns 0",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "loan officers appear to retain meaningful discretion over pricing and extract rents"
+   },
+   {
+    "point": "Working-paper status disclaimer on the NBER cover.",
+    "quote": "They have not been peer-reviewed or been subject to the review by the NBER Board of Directors",
+    "locator": "Cover page (unnumbered)",
+    "file": "bhutta-keys-raajkumar-w35907-jina-text.txt",
+    "grep": "peer-reviewed or been subject to the review by the NBER Board"
+   }
+  ],
+  "existing_wiki_coverage": "Repo greps (all case-insensitive) for 'bhutta', 'raajkumar', 'w35907', 'fee waiver', 'loan officer', 'LLPA', 'g-fee', 'yield spread', 'HMDA' in concepts/ research/ problems/ benefits/ narratives/ objections/: ZERO relevant hits (the only 'GSE' hits are places/hong-kong, concepts/public-land-leasing and people/ramin-shokrizade, unrelated). 'Pass-through' hits are only research/loffler-siegloch-german-pass-through (property-tax-to-rent incidence) and research/fox-liscow-love-tax-business-rents (corporate pass-through entities): different meaning. No page on mortgage price dispersion, search frictions, or intermediary market power in consumer credit. EXISTING PAGES THAT EXIST (verified with ls): concepts/economic-rent.md (sections Definition ... The Neoclassical Redefinition of Rent ... See Also), concepts/rentier.md (section 'The Contested Boundary of \"Rent\"'), concepts/rent-seeking.md, concepts/financialization-of-land.md (tags mortgage-credit, rentier), concepts/deadweight-loss.md, concepts/monopsony.md, concepts/tax-capitalization.md, concepts/common-agricultural-policy.md (subsidy capitalising into land), research/cea-2016-market-power.md (inbound 1; sections Summary, Core Findings, The CEA's Framing of Rents, Relation to the Georgist Case, Nuances and Limits, Bears On), research/kaplow-market-power.md (another NBER market-power working paper, Supplementary: good template for this page's frontmatter), research/de-loecker-eeckhout-mongey-market-power-dynamism, research/lincoln-sao-paulo-market-power-housing (market power in housing, different channel), research/great-mortgaging (NBER, mortgage credit), research/la-cava-housing-capital-share, problems/corporate-profits-increasingly-rents, problems/finance-growth-is-land-credit, narratives/the-rentier-economy.md (sections Research That Supports It / Challenges It). WRONG-PAGE WARNING from the queue text: it says the paper is citable on concepts/deadweight-loss.md: it contains no deadweight-loss estimate, so do not wire it there.",
+  "uncertainties": [
+   "FULL TEXT WAS A TEXT RENDERING (r.jina.ai) NOT THE PDF. The NBER PDF is 403 to every route tried. The text is complete for the body, references and appendices as far as I read (body pp.1-25 read in full; appendices only skimmed by grep), but page numbers in the locators are the working paper's own page numbers inferred from page-number markers in the text (the number sits glued to the first word of each page, e.g. '6Mae, 2023b' = page 6 begins 'Mae'), so they may be off by one for text that straddles a page. T1 should confirm each locator by the grep string, not the page.",
+   "'>60% of $1.5 billion' is stated in the abstract, introduction and conclusion but I found NO derivation of the $1.5bn total in the text (grep for 'billion' returns only the four statements and the CBO figures). It is consistent with 100% minus 39.3% baseline pass-through, but that arithmetic is mine, not the authors', and the origin of $1.5bn (which loans, which years, which volume) is not shown in what I read. Do not present '$0.9 billion' as a paper figure.",
+   "Wording drift inside the paper: abstract says 'mortgage intermediaries'; body says 'lenders captured'. The unit of the estimate is lender-level pass-through (with loan-officer and lender fixed effects); 'intermediaries' in the sense of brokers or realtors are not separately measured. The authors attribute weak pass-through to non-shopping borrowers and to referrals, and say a decomposition of mechanisms would need data on borrower beliefs and search ('Decomposing the mechanisms ... would require additional data').",
+   "Pass-through estimates depend on the rate-point tradeoff (36 bp per point); with a rule-of-thumb 25 bp it is about 50% (fn 25, p.18), and ignoring points it falls to 28% (Appendix E). The 'less than 40%' and '>60%' headline therefore carries a measurable assumption; the page should state the range.",
+   "Counter-reading: the authors say dispersion could reflect unobserved lender costs ('high-touch' lenders), and test it by the expensiveness-pass-through correlation. Earlier full-pass-through results for other g-fee changes (Adelino-Ahsin 2023; Kalda et al. 2023 and others) are cited as contrast; the authors speculate the difference is the less-experienced target population. This is a single study of one programme.",
+   "Not about land. If a writer wants the 'subsidy capture' parallel, it must be explicitly labelled analogy: the paper assumes elastic supply and finds intermediary capture; land capitalisation arises from inelastic supply. The paper does not show the waiver raised house prices. EDITORIAL 0 rent gradient applies: this sits at the finance frontier.",
+   "The FHFA is called 'Federal Housing Finance Administration' once in the intro (sic; the body uses 'Agency'); the sample period inconsistency noted above (2022-2023 in 3.1 vs 2022-2024 in 4.2). Quote carefully.",
+   "Access: nber.org PDF blocked, so no PDF is saved; the figures (event-study charts) are not available as images. Not a candidate for a hosted figure under EDITORIAL 3c without the PDF."
+  ]
+ },
+ {
+  "url": "https://doi.org/10.37791/2687-0657-2026-20-4-25-45",
+  "title": "Cross-Subsidization as a Mechanism to Discipline Market Power: An Airport Pricing Model (A. N. Zubenko and A. A. Kurdin, Lomonosov Moscow State University). Journal of Modern Competition (Sovremennaya konkurentsiya) 20(4): 25-45, 2026",
+  "what_was_fetched": "Folder: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-19/. FULL TEXT REACHED. DOI resolved by direct curl (browser UA) to https://www.moderncompetition.ru/jour/article/view/1258 (landing page, Russian, HTTP 200): saved zubenko-moderncompetition-landing.html and zubenko-landing-en.html. The article PDF is at https://www.moderncompetition.ru/jour/article/viewFile/1258/189 (also /download/1258/189): saved as zubenko-kurdin-2026.pdf (21 pages, 572 KB, application/pdf; the first attempt at /download was reset once and succeeded on retry) and converted with pdftotext -layout to zubenko-kurdin-2026.txt (page numbers 25-45 are printed in the page headers). Also saved: zubenko-jats-1258.xml (JATS metadata with Russian and English abstracts only, no body). LANGUAGE: the full text is RUSSIAN ONLY. The English parts are the title, authors, abstract (journal p.26), keywords, citation line and the reference list (31 refs, 21 of them English-language). The body, model derivations and tables are Russian. The article is under the journal's open (non-exclusive) licence. NOT NEEDED/NOT TRIED: RePEc listing (the journal site itself delivered the PDF); r.jina.ai and Googlebot rungs were not required.",
+  "verdict": "REJECT. Reason: the paper is a stylised airport profit-maximisation model (three-stage game: airport sets the per-passenger charge, representative airline sets fare, passengers demand) about whether growing non-aeronautical (retail, parking) revenue disciplines an airport's charges and so weakens the case for ex ante tariff regulation. It does not engage land rent, airport land value, location rent, Ricardian/ground rent, land-value capture, or any rent-capture instrument. 'Rent' in the paper means monopoly-price extraction ('rent logic' of pricing, 'rent-oriented' business model vs. 'platform' logic), a use already covered at the wiki's level by concepts/economic-rent (Smith: rent as a monopoly price) and concepts/government-granted-privileges. 'Land' (земл*) occurs ZERO times; 'location' only as 'the airport's location influences history of cross-subsidy' (one passing mention, journal p.30); the only land-adjacent sentence is a natural-monopoly entry-barrier remark that sites near cities are scarce (journal p.27). Also: niche Russian-language journal, theory plus a counterfactual calibration on accounting data of 5 Russian airports, a policy conclusion (divergence between private and social optimum is not by itself sufficient justification for ex ante regulation) that is neutral-to-deregulatory and has no bearing on Georgist claims. The wiki's natural-monopoly / infrastructure-pricing coverage is indeed thin, but this single paper would not be the right anchor for filling it (canonical sources there are Baumol-Panzar-Willig, Faulhaber 1975 which this paper cites, Laffont-Tirole, Starkie 2002 etc., none verified here). If a later wave builds an infrastructure-pricing concept, the one hook worth recording is that the paper cites Faulhaber (1975, AER) on cross-subsidy and the 'platform' logic of airports; it is not worth a page now. DEFER-not-REJECT only if T1 specifically wants an 'infrastructure monopoly pricing' page; otherwise REJECT.",
+  "claim_grade": "C-claim (theoretical, stylised model) with a D-style illustrative calibration on 5 airports. EDITORIAL 4c tier: Tier 2/3 by rubric: authors are university economists (a PhD candidate, Zubenko, and a research fellow, Kurdin, per the author notes, p.43) in a niche Russian competition-policy journal (VAK category 5.2.1 per the first page), not a standing body or recognised authority on rent; peer review is asserted by the journal's policy pages but I did not verify review of this specific article. It could never be cited as support for a rent claim on this wiki.",
+  "content_summary": [
+   {
+    "point": "What the paper does (English abstract).",
+    "quote": "develops a stylized airport profit-maximization model using a vertical-structural approach that distinguishes rent and platform pricing logics",
+    "locator": "Abstract, journal p.26 (Russian abstract p.25, grep 'рентная и платформенная логики')",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "distinguishes rent and platform pricing logics"
+   },
+   {
+    "point": "Headline result.",
+    "quote": "the optimal level of an airport charge decreases as non-aeronautical revenue per passenger increases",
+    "locator": "Abstract, journal p.26",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "optimal level of an airport charge decreases as non-aeronautical revenue per"
+   },
+   {
+    "point": "Policy conclusion.",
+    "quote": "a divergence between private and social optima is not sufficient justification per se for introducing ex ante economic regulation",
+    "locator": "Abstract, journal p.26",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "not sufficient justification per se for introducing ex"
+   },
+   {
+    "point": "Empirical application: counterfactual thresholds on accounting data for 5 Russian airports (no airport named in my reading; not land rent).",
+    "quote": "using financial statements for 5 Russian airports, the study assesses threshold values under which a platform business model is economically justified",
+    "locator": "Abstract, journal p.26; body journal p.38",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "financial statements for 5 Russian airports"
+   },
+   {
+    "point": "The only land-adjacent passage (RUSSIAN; my translation: 'the choice of sites for creating an airport is limited because the most attractive territories near the city are already occupied by existing airports'). It is a natural-monopoly entry-barrier remark, not a rent analysis.",
+    "quote": "а выбор участков для создания аэропорта ограничен из-за того, что наиболее привлекательные территории вблизи города уже заняты действующими аэропортами",
+    "locator": "journal p.27, introduction (two-column text; the PDF wraps the sentence across lines, so grep the shorter 'выбор участков')",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "выбор участков"
+   },
+   {
+    "point": "Meaning of 'rent' in the paper: monopoly-price extraction through aeronautical charges (RUSSIAN; my translation: 'the airport thereby abandons the use of market power to extract rent').",
+    "quote": "Тем самым аэропорт отказывается от использования рыночной власти для извлечения ренты.",
+    "locator": "journal p.27 (right column; the grep hits a wrapped line, use 'извлечения ренты')",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "извлечения ренты"
+   },
+   {
+    "point": "Negative check: no land or location-rent vocabulary. grep -c 'земл' = 0 and grep -c -i 'land' = 0 on the saved text; the Russian root for rent appears only as 'рентн-/ренты' (monopoly rent) in 15 of 21 pages.",
+    "quote": "(absence) 0 matches for 'земл' and for 'Land'/'land'",
+    "locator": "whole article. NOTE: 'land' would also match the English reference-list titles; it returns 0 here, so none of the 31 references is land-related",
+    "file": "zubenko-kurdin-2026.txt",
+    "grep": "извлекать ренту через неавиационный"
+   }
+  ],
+  "existing_wiki_coverage": "Digest and repo grep for 'airport', 'natural monopoly', 'cross-subsid', 'infrastructure pricing', 'Zubenko', 'Kurdin', 'Journal of Modern Competition': airports appear only as one row in research/total-resource-rents-australia.md (EBITDA-based charge on airports: 'Flow-based charges ... on airports, gambling, and banking'), as FAA airport slots in one sentence of research/cea-2016-market-power.md, and in research/gaffney-full-employment-tax-reform.md (not an airport-pricing treatment). 'Natural monopoly' appears in concepts/ip-rents.md, concepts/resource-rents.md, research/gaffney-water-rent-taxation.md and research/korinek-vipra-* (all passing). There is NO concept page on natural monopoly, infrastructure pricing, Ramsey-Boiteux pricing, or cross-subsidisation; concepts/government-granted-privileges.md is the nearest umbrella. Zero hits for the authors or journal. The queue text's suggested wiring (concepts/economic-rent, concepts/deadweight-loss, research/cea-2016-market-power) does not fit: the paper has no deadweight-loss analysis and its 'rent' is the monopoly-pricing sense already on economic-rent.md (section 'Smith: Rent as a Monopoly Price').",
+  "uncertainties": [
+   "I read the abstract, introduction, model framing, conclusion and grep-checked the whole text, but I did NOT read the model derivations (journal pp.31-37) or the Russian airport calibration line by line; the claim 'does not engage land rent' rests on zero matches for земл/land and on the abstract, introduction and conclusion, which are consistent with it. Maximum residual risk: a Russian term for airport land (e.g. 'участок', which appears twice on journal p.27) used in the calibration; I checked those two and the one 'местоположение' hit (journal p.30).",
+   "The Russian body is machine-readable text extracted by pdftotext; Cyrillic grep works. Quotes in the content_summary other than the English abstract are my translations from the Russian and must be labelled as such if ever used.",
+   "The queue description says 'peer-reviewed' and 'RePEc-indexed' and 'Crossref-verified': the DOI and journal were confirmed (landing page and PDF match the DOI, volume, issue and pages 25-45). I did not check RePEc or Scopus status (the landing page shows 'Scopus Cited' as a tab, not a count).",
+   "The queue says the paper's authors are affiliated with RANEPA / Center for Strategic Research; the PDF shows only Lomonosov Moscow State University for both authors (p.25-26) and the landing page the same. The queue's extra affiliations are not confirmed.",
+   "The paper is dated 2026 (issue 20(4)); the landing page says issued October 2026; the queue's '12 October 2026' date was not checked."
+  ]
+ }
+]
