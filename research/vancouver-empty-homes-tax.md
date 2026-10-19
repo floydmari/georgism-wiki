@@ -8,7 +8,7 @@ excerpt: 'North America''s first municipal vacancy tax (2017): 1% rising to 3%, 
   empty Vancouver homes. The City reports a 54% fall in vacant properties since 2017;
   an independent difference-in-differences study finds a smaller, cleanly causal ~21%
   (1.5pp) reduction — and no effect on rents.'
-last_reviewed: 2026-07-11
+last_reviewed: 2026-10-19
 source_url: https://vancouver.ca/home-property-development/empty-homes-tax.aspx
 stub: false
 subcategory: wiki-research-urban
@@ -71,7 +71,7 @@ it before it took effect: on 10 May 2023, following a staff report and Ernst & Y
 advice, Council voted **7–3 to keep the rate at 3%** for 2023 and created a new
 exemption for unsold newly built homes — refunding roughly **$3.8 million** already
 levied on developers. **The EHT rate has therefore never exceeded 3%, and 5% was
-never levied.**[1][2][3]
+never levied.**[1][2][3] The Coalition of Progressive Electors, which won four of ten council seats on preliminary results in the October 2026 election, campaigned on reversing the cut, enforcing the tax and phasing its rate up to 9%; that is a party proposal, not an adopted rate.[7]
 
 ## Outcomes
 
@@ -244,3 +244,4 @@ carrying cost changes owner behaviour.
    assent 26 March 2026) makes no UHT payable for 2025 and subsequent years, while
    2022–2024 obligations remain. Accessed 2026-07-11. BC SVT rates in the stack table
    are documented on the [British Columbia](/wiki/british-columbia/) page.
+7. Coalition of Progressive Electors, *Fight for Vancouver: COPE 2026 Platform* (September 2026), pp. 5 and 10. [PDF](https://static1.squarespace.com/static/662c77128fa24077e0ad28ea/t/6abb47a3b321440a514cc000/1790658467666/Fight+For+Vancouver+-+COPE+2026+Platform.pdf) — used for the pledge to reverse the cut and phase the rate to 9% (A-claim for what the platform says; Tier 2 political party, origin only). Seat count from Canadian Press and The Tyee reports of 17–18 October 2026 (preliminary).

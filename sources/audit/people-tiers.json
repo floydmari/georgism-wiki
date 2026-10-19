@@ -70,7 +70,8 @@
     "Ethan Go (Northeastern graduate student; SSRN preprints)",
     "Jude Sherry and Frank O'Connor (Anois, #DerelictIreland campaigners) — origin only; their figures traced to Department of Housing, Revenue and GeoDirectory primaries",
     "GeoDirectory / EY Residential Buildings Reports (private address database used by official bodies) — B-claim for counts",
-    "Ryan Puzycki / City of Yes (Substack; Austin zoning and platting commissioner) — origin only; parcel comparisons re-derived from TCAD records"
+    "Ryan Puzycki / City of Yes (Substack; Austin zoning and platting commissioner) — origin only; parcel comparisons re-derived from TCAD records",
+    "COPE / Coalition of Progressive Electors (Vancouver political party) — platform is primary for its own proposals; origin only, never support"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -155,7 +156,8 @@
     "Paul Forrester (Wharton, University of Pennsylvania — peer-reviewed philosophy of economics; arguments carried as his own, no empirical standing)",
     "Wilson Prichard / LoGRI, Local Government Revenue Initiative (University of Toronto Munk School) — diagnostic and policy-guidance material carried as the initiative's own method, not as causal evidence",
     "D. Ary A. Samsura (Radboud University Nijmegen — peer-reviewed land-governance and value-capture scholar; conceptual papers carried as his own framework, not as evidence)",
-    "Ananya Roy (UCLA Luskin — recognised urban scholar; magazine essays carried as argument, not findings)"
+    "Ananya Roy (UCLA Luskin — recognised urban scholar; magazine essays carried as argument, not findings)",
+    "Neil Bhutta and Benjamin J. Keys (Philadelphia Fed / Wharton — housing-finance economists; NBER working papers graded B, not peer-reviewed)"
   ],
   "tier3": [
     "Mark Carney (as politician)",
@@ -167,6 +169,7 @@
     "Henry Miller",
     "Ben Zaranko (Observer economics editor, formerly IFS — own statements only, not corroboration)",
     "Doctor Hammer (pseudonymous Substack, no stated credentials — origin of the 2026 incidence objection only)",
-    "Benin, Bawa, Hussien & Tehrani (2027 Extractive Industries and Society) — qualitative document review, no rent measures; cite the IMF/Tordo primaries instead"
+    "Benin, Bawa, Hussien & Tehrani (2027 Extractive Industries and Society) — qualitative document review, no rent measures; cite the IMF/Tordo primaries instead",
+    "Zubenko & Kurdin (Journal of Modern Competition, Moscow) — stylised airport-pricing model, no land content"
   ]
 }

@@ -4,7 +4,7 @@ category: places
 tags: [places, vancouver, british-columbia, canada, single-tax, land-value-tax, l-d-taylor, speculation-vacancy-tax]
 stub: false
 excerpt: "From 1910 to 1984, Vancouver taxed land value only, exempting buildings from municipal property tax — a globally celebrated single-tax experiment whose multi-decade rollback, and modern echo in the Speculation and Vacancy Tax, remain touchstones in the LVT debate."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-10-19
 ---
 
 ## Overview
@@ -61,6 +61,10 @@ on his reading a city that wanted both more housing and more music schools would
 and capture more.[19] The charge is too new for its effect on either housing supply or
 amenity funding to be assessed.
 
+## The 2026 Civic Election
+
+Vancouver's general local election of 17 October 2026 returned a council without a majority party: the Green Party and the Coalition of Progressive Electors (COPE) each won four of the ten council seats on preliminary results, with OneCity and ABC Vancouver holding one each, and Green councillor Pete Fry was elected mayor; COPE's incumbent Sean Orr topped the council poll.[20][21] COPE's platform includes a plank to "support taxation on land value, capture the land-owner windfalls caused by proximity to public amenities, speculation, and zoning to use for public benefit", alongside a penalty on land-banking, a city-wide public land trust and a pledge to reverse the Empty Homes Tax cut and phase its rate up to 9 per cent.[22] The land-value plank names no instrument, rate or base: its three named sources of windfall (amenities, speculation, zoning) are the language of [land value capture](/wiki/land-value-capture/) and betterment, and it is compatible with but does not specify a recurring land tax. A separate plank for "progressive taxation of property values" is a tax on total property value, not on land. COPE is a political party, so these are its proposals rather than city policy; nothing has been enacted, and the official count was due to be declared on 21 October.[20]
+
 ## See Also
 
 - [Transitional Gains Trap](/wiki/transitional-gains-trap/)
@@ -95,3 +99,6 @@ amenity funding to be assessed.
 17. British Columbia, Bill 46 – 2023, Housing Statutes (Development Financing) Amendment Act, 2023, third reading. [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca/civix/document/id/bills/billsprevious/4th42nd:gov46-3) — used for the creation of amenity cost charges and the limit on amenity conditions in zoning by-laws (A-claim; statute).
 18. Daily Hive Urbanized, "City plans Vancouver-wide amenity cost charge on development to help pay for growth", 9 July 2026. [dailyhive.com](https://dailyhive.com/vancouver/vancouver-amenity-cost-charge-dcls-introduction-changes) — used for the 30 September 2026 start, the $2.32 rate and the $7.7-billion programme as the article relays the staff report (B-claim; journalism; the by-law itself was not consulted).
 19. Michael Wiebe, "Why does Vancouver treat new housing as a problem?", Substack, 30 September 2026. [blog.michaelwiebe.com](https://blog.michaelwiebe.com/p/why-does-vancouver-treat-new-housing) — used only for his argument (D-claim; independent economist and blogger, Tier 2: origin of the critique, not support; his quotations from City reports are not relied on).
+20. City of Vancouver, 2026 election pages (vancouver.ca and results.vancouver.ca) — used for the 17 October 2026 voting day and the notice that official results would be declared on 21 October by 4pm (A-claim; the live tallies themselves were not published as text at the time of writing).
+21. Canadian Press, "Vancouver progressives take power as Green Pete Fry is elected mayor," 18 October 2026; The Tyee, "The Greening of Vancouver City Hall," 17 October 2026 — used for the preliminary seat counts (Greens and COPE four each, OneCity one, ABC one), Fry's election and Orr topping the council poll (B-claim; serious journalism reporting preliminary counts).
+22. Coalition of Progressive Electors, *Fight for Vancouver: COPE 2026 Platform* (28 pp., September 2026), pp. 5–7, 10, 25. [PDF](https://static1.squarespace.com/static/662c77128fa24077e0ad28ea/t/6abb47a3b321440a514cc000/1790658467666/Fight+For+Vancouver+-+COPE+2026+Platform.pdf) — used for the land-value, land-banking, public-land-trust, Empty Homes Tax and property-value planks as the party's own proposals (A-claim for what the platform says; Tier 2 political party, origin only, never support).
