@@ -81,6 +81,7 @@ the official evidence on both sides are set out on [Hong Kong](/wiki/hong-kong/)
 - [The Rentier Economy](/wiki/the-rentier-economy/) — the broader narrative of asset-income displacing production
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) — the crisis event most cited as the feedback loop's culmination
 - [A Modern System for Fair Rents (NEF, 2026)](/wiki/nef-modern-system-fair-rents/) — a 2026 UK case study of the buy-to-let-mortgage/tenancy-deregulation mechanism at street level
+- [Pricing Power in the Mortgage Market (Bhutta, Keys & Raajkumar, 2026)](/wiki/bhutta-keys-raajkumar-mortgage-pricing-power/) — who captures a mortgage subsidy: intermediaries under elastic credit supply, not landowners
 
 ## Sources
 

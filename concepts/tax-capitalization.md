@@ -98,6 +98,7 @@ The wiki carries the capitalization literature directly:
 - [Objection: Homevoters will never allow it](/wiki/homevoters-will-block-lvt/) — the political economy of capitalization
 - [Tubío-Sánchez & Reyes-Bueno: Ecuador LVT Capitalization](/wiki/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization/) — a 2026 Latin American capitalization estimate (~2.5% price fall per 1pp tax rate in Loja's urban core), the first outside the wiki's OECD case cluster
 - [Han, Ngai & Sheedy: Transaction Taxes on Housing Markets](/wiki/han-ngai-sheedy-transaction-taxes-tenure/) — the mirror-image case: a one-off transaction tax visibly distorts the own/rent decision in a way a capitalized recurring land tax does not
+- [Pricing Power in the Mortgage Market (Bhutta, Keys & Raajkumar, 2026)](/wiki/bhutta-keys-raajkumar-mortgage-pricing-power/) — the contrasting case: a buyer subsidy captured by intermediaries with pricing discretion rather than capitalized into land
 
 ## Sources
 

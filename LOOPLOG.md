@@ -5758,3 +5758,22 @@ royalty-versus-rent-tax anchors.
 
 Lint 0 errors; inventory 1033 pages, 0 orphans. Ledger: 0 pending, 468 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-19 — Vancouver votes, a mortgage subsidy that never reached buyers, and an airport model
+
+Three items. COPE's "Fight for Vancouver" platform arrived from the BC channel two days
+after the civic election in which COPE and the Greens each took four of ten council seats on
+preliminary counts, so the Vancouver page gains a short election section: the land-value
+plank quoted verbatim, read as land-value-capture language that names no instrument, kept
+apart from the party's separate property-value tax plank, and attributed to the party as a
+proposal; the Empty Homes Tax page notes the pledge to phase the rate to 9 percent. The
+official count is declared on 21 October and a BACKLOG item says to confirm. Bhutta, Keys
+and Raajkumar's NBER paper on the GSE fee waiver gets a supplementary research page that
+says in its first line of the Georgist section that the paper is not about land: lenders and
+loan officers kept more than 60 percent of $1.5 billion meant for first-time buyers, and the
+page sets that against tax capitalization as a contrasting answer to who captures a subsidy.
+Four pages link in. Zubenko and Kurdin's airport-pricing model was read in full and rejected,
+with no land content and a monopoly-pricing sense of rent.
+
+Lint 0 errors; inventory 1034 pages, 0 orphans. Ledger: 0 pending, 471 consumed. Merged to
+main and Ghost-synced.

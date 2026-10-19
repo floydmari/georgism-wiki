@@ -1,17 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.nber.org/papers/w35907",
-      "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers",
-      "source": "lvt-paper-scanner",
-      "reason": "Fresh NBER working paper from leading housing-finance economists empirically documenting intermediary rent extraction in the mortgage market: intermediaries capture >60% of a $1.5bn GSE subsidy meant for first-time buyers, with <20% pass-through by loan officers who habitually originate expensive mortgages. Extends the wiki's market-power/rent-extraction coverage into housing finance and links to the housing-affordability narrative. Absent from registry.csv (1415 rows; no w35907/Bhutta/fee-waiver hits), wiki-inventory, consumed array (468), live queue, triaged file, wiki page content (grep w35907/bhutta/raajkumar/fee waiver: zero hits), and #progressdotorg history (406 messages needle-checked: zero hits).",
-      "context": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers — Neil Bhutta (Federal Reserve Bank of Philadelphia), Benjamin J. Keys (Wharton, University of Pennsylvania), Adithya Raajkumar (Wharton). NBER Working Paper 35907, published 15 October 2026, DOI 10.3386/w35907. Abstract: market power may arise not only from firms but from individual salespeople who exploit informational advantages over consumers. Examines a Fannie Mae/Freddie Mac fee waiver targeted at lower-income first-time homebuyers and estimates that mortgage intermediaries capture over 60% of $1.5 billion in total fee waivers during 2023-2024, rather than fully passing the savings through to borrowers. Pass-through varies across loan officers: those with a track record of originating expensive mortgages pass through less than 20% of the waiver; loan officers retain incentives to steer borrowers into higher-rate mortgages despite post-crisis regulations designed to limit such practices. Speaks directly to the wiki's rent-extraction and market-power themes — citable on concepts/economic-rent.md, narratives/the-rentier-economy.md, concepts/deadweight-loss.md, research/cea-2016-market-power.md — and to housing-affordability material: rent capture at the point of sale in the largest US household-debt market, by the intermediaries rather than the asset owners.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-10-19T11:06:31.162711+00:00",
-      "reported": true,
-      "report_ts": "1792407997.601819"
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -5777,6 +5765,21 @@
       "wiki_page": null,
       "triage_date": "2026-10-19",
       "notes": "Full PDF read (Russian body, English abstract). A stylised three-stage airport-pricing game on whether non-aeronautical revenue disciplines aeronautical charges; zero hits for land/земл; its 'rent' is monopoly-pricing rent. No Georgist bearing; niche journal, Tier 3. Scanner's RANEPA/CSR affiliations not on the PDF."
+    },
+    {
+      "url": "https://www.nber.org/papers/w35907",
+      "title": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers",
+      "source": "lvt-paper-scanner",
+      "reason": "Fresh NBER working paper from leading housing-finance economists empirically documenting intermediary rent extraction in the mortgage market: intermediaries capture >60% of a $1.5bn GSE subsidy meant for first-time buyers, with <20% pass-through by loan officers who habitually originate expensive mortgages. Extends the wiki's market-power/rent-extraction coverage into housing finance and links to the housing-affordability narrative. Absent from registry.csv (1415 rows; no w35907/Bhutta/fee-waiver hits), wiki-inventory, consumed array (468), live queue, triaged file, wiki page content (grep w35907/bhutta/raajkumar/fee waiver: zero hits), and #progressdotorg history (406 messages needle-checked: zero hits).",
+      "context": "Pricing Power in the Mortgage Market: Evidence from GSE Fee Waivers — Neil Bhutta (Federal Reserve Bank of Philadelphia), Benjamin J. Keys (Wharton, University of Pennsylvania), Adithya Raajkumar (Wharton). NBER Working Paper 35907, published 15 October 2026, DOI 10.3386/w35907. Abstract: market power may arise not only from firms but from individual salespeople who exploit informational advantages over consumers. Examines a Fannie Mae/Freddie Mac fee waiver targeted at lower-income first-time homebuyers and estimates that mortgage intermediaries capture over 60% of $1.5 billion in total fee waivers during 2023-2024, rather than fully passing the savings through to borrowers. Pass-through varies across loan officers: those with a track record of originating expensive mortgages pass through less than 20% of the waiver; loan officers retain incentives to steer borrowers into higher-rate mortgages despite post-crisis regulations designed to limit such practices. Speaks directly to the wiki's rent-extraction and market-power themes — citable on concepts/economic-rent.md, narratives/the-rentier-economy.md, concepts/deadweight-loss.md, research/cea-2016-market-power.md — and to housing-affordability material: rent capture at the point of sale in the largest US household-debt market, by the intermediaries rather than the asset owners.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-19T11:06:31.162711+00:00",
+      "reported": true,
+      "report_ts": "1792407997.601819",
+      "verdict": "used",
+      "wiki_page": "research/bhutta-keys-raajkumar-mortgage-pricing-power.md",
+      "triage_date": "2026-10-19",
+      "notes": "NEW research page (tier supplementary; B-claim, working paper not peer-reviewed; Tier 1 authors). Full text via r.jina.ai (NBER PDF 403). Page states plainly that the paper is not about land and is no evidence on LVT; relevance is the who-captures-a-subsidy question, contrasted with tax capitalization. Inbound links on cea-2016-market-power, economic-rent, financialization-of-land, tax-capitalization. The $1.5bn total's derivation is not shown in the paper; noted on page."
     }
   ],
   "last_updated": "2026-10-19T11:06:49.036388+00:00",

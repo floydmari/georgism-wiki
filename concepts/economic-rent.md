@@ -112,6 +112,7 @@ Adams presents data showing land values have risen faster than wages, citing Dav
 - [Deadweight Loss](/wiki/deadweight-loss/) — why taxing rent is efficient
 - [With Liberty and Dividends for All](/wiki/with-liberty-and-dividends-for-all/) — Barnes on rent as the "eight-hundred-pound gorilla"
 - [Land: A New Paradigm for a Thriving World](/wiki/land-a-new-paradigm/) — Adams on rent as wealth inequality driver
+- [Pricing Power in the Mortgage Market (Bhutta, Keys & Raajkumar, 2026)](/wiki/bhutta-keys-raajkumar-mortgage-pricing-power/) — a search-friction "rent" in mortgage pricing, distinct from Ricardian rent
 
 ## Sources
 

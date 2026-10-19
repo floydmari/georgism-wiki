@@ -98,6 +98,7 @@ The CEA brief's relevance to the Georgist case is indirect but meaningful:
 - [Economic Rent](/wiki/economic-rent/)
 - [Rent-Seeking](/wiki/rent-seeking/)
 - [Superstar Firms](/wiki/superstar-firms/)
+- [Pricing Power in the Mortgage Market (Bhutta, Keys & Raajkumar, 2026)](/wiki/bhutta-keys-raajkumar-mortgage-pricing-power/) — point-of-sale evidence that lenders and loan officers kept most of a federal fee waiver meant for first-time buyers
 
 ## Sources
 
