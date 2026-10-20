@@ -1429,6 +1429,114 @@
       "action": "updated",
       "published_at": "2026-10-19T11:29:18.000Z",
       "notified": false
+    },
+    {
+      "slug": "thomas-edward-cliffe-leslie",
+      "title": "Thomas Edward Cliffe Leslie",
+      "url": "https://www.progress.org/wiki/thomas-edward-cliffe-leslie/",
+      "category": "people",
+      "tags": [
+        "people",
+        "cliffe-leslie",
+        "historical-school",
+        "irish-land-question",
+        "peasant-proprietorship",
+        "mill",
+        "enclosure",
+        "henry-george"
+      ],
+      "action": "published",
+      "published_at": "2026-10-20T11:25:39.000Z",
+      "notified": false
+    },
+    {
+      "slug": "mill-principles-land",
+      "title": "Mill's Principles of Political Economy: The Land-Taxation Chapters",
+      "url": "https://www.progress.org/wiki/mill-principles-land/",
+      "category": "research",
+      "tags": [
+        "research",
+        "john-stuart-mill",
+        "classical-economics",
+        "unearned-increment",
+        "land-tenure-reform",
+        "ricardian-rent",
+        "taxation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-20T11:25:42.000Z",
+      "notified": false
+    },
+    {
+      "slug": "irish-land-war",
+      "title": "The Irish Land War (1879–82)",
+      "url": "https://www.progress.org/wiki/irish-land-war/",
+      "category": "events",
+      "tags": [
+        "events",
+        "ireland",
+        "irish-land-war",
+        "land-league",
+        "michael-davitt",
+        "henry-george",
+        "history",
+        "three-fs"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-20T11:25:44.000Z",
+      "notified": false
+    },
+    {
+      "slug": "john-stuart-mill",
+      "title": "John Stuart Mill",
+      "url": "https://www.progress.org/wiki/john-stuart-mill/",
+      "category": "people",
+      "tags": [
+        "people",
+        "mill",
+        "classical-economics",
+        "unearned-increment",
+        "land-reform",
+        "land-tenure-reform-association"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-20T11:25:46.000Z",
+      "notified": false
+    },
+    {
+      "slug": "land-tenure-reform-association",
+      "title": "Land Tenure Reform Association",
+      "url": "https://www.progress.org/wiki/land-tenure-reform-association/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "ltra",
+        "john-stuart-mill",
+        "unearned-increment",
+        "uk",
+        "land-reform"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-20T11:25:49.000Z",
+      "notified": false
+    },
+    {
+      "slug": "enclosure",
+      "title": "Enclosure",
+      "url": "https://www.progress.org/wiki/enclosure/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "enclosure",
+        "land-monopoly",
+        "commons",
+        "land-rights",
+        "unearned-increment",
+        "england"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-20T11:25:51.000Z",
+      "notified": false
     }
   ]
 }
