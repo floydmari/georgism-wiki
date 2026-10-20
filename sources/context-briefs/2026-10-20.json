@@ -1,0 +1,312 @@
+[
+ {
+  "url": "https://doi.org/10.1017/S1053837226101382",
+  "title": "Thomas Edward Cliffe Leslie and the Political Economy of British Land Systems: From the Critique of the Classical Landed Property Reform to the Birth of Irish Historical Economics (Manolis Manioudis, Journal of the History of Economic Thought, online 16 June 2026, pp. 1-23)",
+  "what_was_fetched": {
+   "summary": "Full text read in full (23 pp.). Primary: CUP Open Access PDF, fetched with a browser user-agent from the article page link (HTTP 200, no block). SocArXiv preprint sibling also fetched (OSF download is a .docx, converted with pandoc) and compared; it is the peer-reviewed accepted typescript with minor copy-edits; body identical in substance (same quotes, same 'double rejection' heading; no George/tax/nationalisation content in either). All page locators below are to the CUP version (JHET pagination 1-23, printed page = PDF page).",
+   "saved_files_in": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-20/",
+   "files": {
+    "cup-jhet-manioudis-2026-leslie.pdf": "CUP OA PDF (primary)",
+    "cup-jhet-manioudis-2026-leslie.txt": "pdftotext -layout of the PDF (ligature glyphs fi/fl and hard line wraps; avoid for grep)",
+    "cup-jhet-manioudis-2026-leslie-flat-by-page.txt": "same text, ligatures expanded, one line per page prefixed [[JHET p.N]]; USE THIS for every grep string below (grep -F)",
+    "cup-jhet-manioudis-2026-leslie-articlepage.html / .txt": "CUP article landing page (metadata, licence)",
+    "socarxiv-rk8nv_v1-manioudis-leslie.docx / .txt": "SocArXiv preprint (accepted typescript), one paragraph per line, no ligatures; unpaginated",
+    "socarxiv-rk8nv_v1-api.json": "OSF API record (posted 2026-05-15; preprint DOI field null in API, DOI 10.31235/osf.io/rk8nv_v1 per record links)",
+    "newton-1971-aejs-impact-of-george-on-british-economists-scan.pdf": "SUPPLEMENTARY, not the queue item: Bernard Newton, AJES 30:2 (1971), already cited as note 6 on research/mill-principles-land.md. Image-only scan (no text layer, no OCR tool available); T0 read pp.182-183 visually",
+    "newton-1971-manual-transcription-pp182-183.txt": "manual transcription of the few Newton sentences quoted below; T1 should re-check against the scan PDF pp.4-5 of the PDF (journal pp.182-183) by eye"
+   }
+  },
+  "verdict": "NEW people/thomas-edward-cliffe-leslie.md (substantive biographical and doctrinal material is sufficient; moderate-length page). ENRICH research/mill-principles-land.md (one sentence + See Also + Source note); ENRICH events/irish-land-war.md See Also; ENRICH people/john-stuart-mill.md See Also. Optional low-priority See Also: organizations/land-tenure-reform-association.md and concepts/enclosure.md. NO new research/ page for the article itself is recommended (it is a history-of-thought article; its content belongs on the people page, cited in Sources). Honest-scope caveat for the editor: the paper contains NOTHING on land value taxation, taxing rent, the unearned increment, land nationalisation, the LTRA, or Henry George (grep: no hits for 'George', 'Progress and Poverty', 'single tax', 'taxation', 'Land Tenure Reform'; one hit 'nationali' is 'peasant nationalism', p.3). Leslie as presented is a peasant-proprietorship, security-of-tenure, state-aided-purchase liberal, i.e. the position George's The Land Question (1881) argues against (see events/irish-land-war.md 'Henry George's Intervention'). The page must say so; it must not present Leslie as a Georgist precursor.",
+  "insertion_points": {
+   "NEW_people_page": {
+    "path": "people/thomas-edward-cliffe-leslie.md",
+    "suggested_frontmatter": "title: Thomas Edward Cliffe Leslie; category: people; born 1825; died 1882; tags [people, cliffe-leslie, irish-land-question, historical-school, peasant-proprietorship, mill]",
+    "suggested_sections": [
+     "Overview (1825-82; Belfast professor 1853-82; historical-institutionalist; Land Systems 1870) [JHET p.1-2, 7]",
+     "Method: inductive, historical-comparative [p.8, 17-20]",
+     "Enclosure and urbanisation [pp.5-7]",
+     "The Irish land question and small proprietorship [pp.3-4, 8-11, 14-18]",
+     "Double rejection: classical landlord-capitalist solution (Lowe) and Fenian separation [pp.11-14]",
+     "Relationship to Mill and the Irish historical school [pp.12, 17, 20]",
+     "Leslie and Henry George (Newton 1971 pp.182-183; see uncertainties)",
+     "What the sources do not show (no LVT, no nationalisation)",
+     "See Also; Sources (Manioudis tier note: Tier 1 academic, peer-reviewed, evidence about what Leslie wrote)"
+    ]
+   },
+   "ENRICH_mill-principles-land": {
+    "path": "research/mill-principles-land.md",
+    "heading": "## Mill's Design: Prospective Interception",
+    "after_sentence": "…it was also Cairnes who supplied the \"much additional Irish material\" behind the radicalized treatment of Ireland in the sixth (1865) edition of *Principles* itself.[6][7]   (last sentence of the paragraph that begins 'Mill carried this design from theory into a political program', ~line 101; the Leslie roster sentence 'the Land Tenure Reform Association, founded in 1870, had such eminent economists ...[6]' is the sentence just before the Cairnes sentence and should be left as is)",
+    "suggested_sentence": "Cliffe Leslie, who held the chair of jurisprudence and political economy at Queen's College, Belfast, and described himself as a follower of Mill, went further than Mill on tenure: where Mill treated the English landlord, capitalist-farmer and labourer system as unsuitable for Ireland, Leslie held that independent small proprietors would also serve England, and he urged state-advanced purchase money so that Irish tenants could buy their holdings.[N] [Leslie's page link: [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/)]",
+    "claims_supported": "p.8 ('Leslie believed that small proprietorships are appropriate for both England and Ireland'), p.12 (self-proclaimed disciple), p.14 ('to enable Irish tenants to purchase their holdings'), p.2 (chair)",
+    "see_also_line": "- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — LTRA member and Irish historical economist who followed Mill on Irish tenure but not on taxing future rent increments  [REWORD: Manioudis does not say Leslie opposed rent taxation; safer: 'Mill's follower on Irish land tenure and peasant proprietorship']",
+    "sources_note": "New note after note 11 (notes run 1-11+; check tail of Sources): Manolis Manioudis, 'Thomas Edward Cliffe Leslie and the Political Economy of British Land Systems...', Journal of the History of Economic Thought (2026), 1-23, doi:10.1017/S1053837226101382, open access (CC BY-NC-SA 4.0); full text read; used for Leslie's Irish-tenure positions (C-claim for the history-of-thought reading, A-claim for what Leslie wrote as quoted). Do NOT re-attribute the LTRA roster to this article (it does not mention the LTRA); the roster stays on Newton note 6."
+   },
+   "ENRICH_irish-land-war": {
+    "path": "events/irish-land-war.md",
+    "heading": "## See Also",
+    "after_sentence": "last bullet: '- [John Stuart Mill](/wiki/john-stuart-mill/) — precursor whose Land Tenure Reform Association anticipated parts of the argument'",
+    "suggested_bullet": "- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — Belfast political economist and follower of Mill who argued from 1867 for state-aided tenant purchase and small proprietorship, the remedy George's The Land Question rejected"
+   },
+   "ENRICH_john-stuart-mill": {
+    "path": "people/john-stuart-mill.md",
+    "heading": "## See Also",
+    "after_sentence": "'- [Land Tenure Reform Association](/wiki/land-tenure-reform-association/) — the pressure group he founded'",
+    "suggested_bullet": "- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — self-described follower of Mill on the Irish land question; Mill endorsed his views on tenure in 1870 (JHET p.17, 'Mill ([1870] 1875, p. 101) endorsed Leslie’s views')",
+    "optional_body": "Section '## The Land Tenure Reform Association', after the sentence ending '...Through the LTRA, Mill turned a passage in a textbook into a live political demand.' (end of the section): no Leslie sentence recommended; the LTRA roster is already on mill-principles-land."
+   },
+   "OPTIONAL_land-tenure-reform-association": {
+    "path": "organizations/land-tenure-reform-association.md",
+    "heading": "## See Also",
+    "note": "add Leslie bullet only if the people page cites Newton for LTRA membership; Manioudis does not mention the LTRA"
+   },
+   "OPTIONAL_enclosure": {
+    "path": "concepts/enclosure.md",
+    "heading": "## See Also (after the Neeson bullet)",
+    "note": "bullet pointing to Leslie page as a contemporary (1867-70) critic who called enclosure a 'confiscation of the patrimony of the English peasantry'; cite as Leslie's own characterisation; his seven-million-acre figure is a Victorian claim not endorsed by Manioudis"
+   }
+  },
+  "claim_grade": "Tier per EDITORIAL §4c: Manolis Manioudis, Department of Economics, University of Patras, peer-reviewed JHET (History of Economics Society journal, CUP): propose Tier 1 (established academic with a peer-reviewed body of work on exactly this topic: Manioudis 2021, 2024, 2023 with Yiardoglou). Grade: A for what Leslie wrote and held (as reported with page cites to Leslie's own essays and the Land Systems book); C for the interpretive framing ('founder of the Irish historical school', 'revolutionary solution', 'institutionalist critique'); the paper is evidence about what Leslie wrote and argued, not evidence on land economics (enclosure statistics, productivity of small farms, incidence of rent). No economic evidence in it should be wired to benefits/ problems/ objections pages. Leslie himself: canonical-adjacent historical figure, may be cited for his own acts and words (Tier 1 for that); his empirical claims (e.g. small farms twice as productive, seven million acres enclosed) are Victorian claims, attribute only.",
+  "content_summary": {
+   "overview": "A history-of-thought paper. Leslie (1825-82), Irish political economist, TCD gold medallist 1847, LLB 1851, professor of jurisprudence and political economy at Queen's College Belfast 1853-82. Argues that the Irish land question drove Leslie's critique of Ricardian rent theory and the 'classical landed property reform' (consolidation into large capitalist farms on the English tripartite landlord/capitalist-tenant/labourer model), and that Leslie, a self-proclaimed Millian, pushed beyond Mill by recommending small proprietorships for England as well as Ireland. Sections: II enclosure, urbanisation and necessity of land reform (pp.5-7); III Land Systems (1870) as historical-institutionalist critique (pp.7-11); IV the 'double rejection of classical and Fenian solutions' (pp.11-14); V small proprietorship and the state, birth of Irish historical economics (pp.14-20).",
+   "key_points": [
+    "Method: inductive, historical-comparative, institutionalist; law, history, geography; 'relativity of economic doctrines'; influenced by Smith, Mill, Maine (status to contract) and de Laveleye (small-farming surveys), de Lavergne (pp.4, 8, 11, 17).",
+    "Enclosure: reads the 18th-19th C enclosures as a restoration of 'feudal' property rights and 'confiscation' of the peasantry's patrimony; compares with Marx's primitive accumulation (Manioudis's gloss, p.5); commons loss, farm consolidation and rent rises (pp.5-6).",
+    "Urbanisation: forced rural-urban migration, rising house rents, overcrowding, in 'seven large towns' (5,153,157 persons, early 1870s per Leslie 1870c p.205) (p.6); 'status to contract' unfinished in land law, land law 'the radical cause' of pauperism (p.7).",
+    "Irish land: security of tenure as the 'law which has no exceptions' (p.10); short leases, absenteeism (pp.10); Irish rents are 'the surplus above minimum wages, without any profit at all', not the classical rent surplus (p.14); landlords as 'consumers' (p.14, fn 25).",
+    "Double rejection: against Lowe/Ricardian laissez-faire consolidation AND against Fenian separation (Leslie 1868a, 'Ireland in 1868', supplementing Mill's England and Ireland); unionist: small proprietorship as a means of defending the Act of Union (pp.11-14).",
+    "Remedy: long leases, abolition of primogeniture and entail, simple land registration, legal compensation for improvements, sale of absentee lands to tenants, a few millions of Treasury advances for tenant purchase; by 1880 state purchase of landlords' farms, with optional commutation of rents into land annuities; compensation of existing proprietors accepted (pp.14-16, 19).",
+    "1870 Act criticised for not 'boldly creating a great number of small proprietors with full ownership' (p.16); disappointment with Gladstone; no land publications 1870-80 (p.2).",
+    "Rural-urban 'natural course of things' (Smith): towns should follow the country; Irish and English agriculture made 'unnatural' by large farms (pp.7, 10-11).",
+    "Leslie remained a free-trade liberal; not a socialist or nationaliser (p.20)."
+   ],
+   "quotes": [
+    {
+     "claim": "Dates and training",
+     "quote": "Thomas Edward Cliffe Leslie (1825–1882) is one of the most significant Irish political economists",
+     "journal_page": "JHET p.1",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "Cliffe Leslie (1825–1882) is one of the most",
+     "note": ""
+    },
+    {
+     "claim": "Career: Belfast chair 1853-82",
+     "quote": "In 1853, he was appointed professor of jurisprudence and political economy at Queen’s College, Belfast",
+     "journal_page": "JHET p.2",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "professor of jurisprudence and political economy at Queen’s College, Belfast",
+     "note": "Also p.1: King William's College, entered TCD 1840, gold medal logic and ethics 1847, LLB 1851 (grep 'gold medal in logic and ethics')."
+    },
+    {
+     "claim": "Land Systems is his only treatise",
+     "quote": "Leslie’s views on the Irish land question are gathered in his (only) treatise, Land Systems and Industrial Economy of Ireland, England, and Continental Countries (1870a).",
+     "journal_page": "JHET p.7",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "gathered in his (only) treatise",
+     "note": ""
+    },
+    {
+     "claim": "Method: inductive, historical-comparative, institutionalist",
+     "quote": "The inductive historical-comparative method helped Leslie perceive the historical and geographical differences among various land systems.",
+     "journal_page": "JHET p.8",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "The inductive historical-comparative method helped Leslie",
+     "note": ""
+    },
+    {
+     "claim": "Enclosure: 'confiscation' of the peasantry's patrimony (Leslie's own characterisation, 1870)",
+     "quote": "the enclosure movement was the means through which landlords completed “the confiscation of the patrimony of the English peasantry”",
+     "journal_page": "JHET p.6",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "the confiscation of the patrimony of the English peasantry",
+     "note": "Attributed to Leslie 1870c p.213-214; Manioudis's paraphrase wrapping Leslie's words."
+    },
+    {
+     "claim": "Enclosure acreage claim (Leslie 1867c, p.173)",
+     "quote": "“seven million acres had been taken from the patrimony of the poor and added to the private property of the rich”",
+     "journal_page": "JHET p.6",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "seven million acres had been taken from the patrimony of the poor",
+     "note": "Leslie's 1867 figure as quoted; contested by modern enclosure historians, attribute only."
+    },
+    {
+     "claim": "Urbanisation raised house rents",
+     "quote": "Urbanization increased house rents and aggravated the living conditions of laboring people.",
+     "journal_page": "JHET p.6",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "Urbanization increased house rents",
+     "note": "Manioudis's paraphrase of Leslie; Leslie 1870c p.205 (seven large towns, 5,153,157 persons) on same page."
+    },
+    {
+     "claim": "Rural-urban migration 'forced and unnatural'",
+     "quote": "“the immense migration from the country to the city has been a forced and unnatural movement",
+     "journal_page": "JHET p.7",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "the immense migration from the country to the city has been a forced and unnatural movement",
+     "note": "Leslie 1867c p.180 in Manioudis fn 11; the quote continues beyond 50-word cap, truncated here."
+    },
+    {
+     "claim": "Land question is not only Irish",
+     "quote": "“is neither a land question only nor an Irish question only”",
+     "journal_page": "JHET p.4",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "neither a land question only nor an Irish question only",
+     "note": "Leslie [1880] 1881 p.135."
+    },
+    {
+     "claim": "Rent in Ireland is not classical rent",
+     "quote": "not what political economists define it, the surplus above average wages and profit” but “the surplus above minimum wages, without any profit at all”",
+     "journal_page": "JHET p.14",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "the surplus above minimum wages, without any profit at all",
+     "note": "Leslie 1866 p.128. Preceding clause 'not what political economists define it' sits on the same page in the flat file."
+    },
+    {
+     "claim": "Landlords as consumers not producers",
+     "quote": "“economically speaking, landlords are not producers but consumers”",
+     "journal_page": "JHET p.14",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "landlords are not producers but consumers",
+     "note": "Leslie 1866 p.125, fn 25."
+    },
+    {
+     "claim": "Double rejection: Fenianism a product of consolidation",
+     "quote": "“Fenianism, in its worst form, is the direct result of the suspension of leases, the consolidation of farms, and the emigration",
+     "journal_page": "JHET p.13",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "Fenianism, in its worst form, is the direct result",
+     "note": "Leslie 1868a p.44."
+    },
+    {
+     "claim": "Double rejection: separation",
+     "quote": "“inevitable, immediate result of separation would be a furious war of religions and races,”",
+     "journal_page": "JHET p.13",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "furious war of religions and races",
+     "note": "Leslie 1868a p.36. Leslie opposed Irish separation; unionist."
+    },
+    {
+     "claim": "Remedy: state-advanced purchase money",
+     "quote": "a “few millions to enable Irish tenants to purchase their holdings”",
+     "journal_page": "JHET p.14",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "to enable Irish tenants to purchase their holdings",
+     "note": "Leslie 1870b p.82."
+    },
+    {
+     "claim": "Remedy: diffusing land ownership",
+     "quote": "“The great aim of Parliament ought to be to diffuse property in land widely throughout the nation",
+     "journal_page": "JHET p.15",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "diffuse property in land widely throughout the nation",
+     "note": "Leslie 1870b p.84, echoing Mill's England and Ireland; quote runs on ('treating all immediate cost ... in compensating existing proprietors') - compensation is part of the design."
+    },
+    {
+     "claim": "State intervention consistent with laissez-faire",
+     "quote": "is in perfect accordance with the true meaning of the maxim of laissez-faire",
+     "journal_page": "JHET p.15",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "perfect accordance with the true meaning of the maxim of laissez-faire",
+     "note": "Leslie 1866 p.128."
+    },
+    {
+     "claim": "Whose land? (1870)",
+     "quote": "whether the national territory is to be the source of power and luxury to a few individuals, or of prosperity and happiness to the nation at large?",
+     "journal_page": "JHET p.16",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "source of power and luxury to a few individuals",
+     "note": "Leslie 1870c p.229."
+    },
+    {
+     "claim": "1870 Act criticised",
+     "quote": "Instead of boldly creating a great number of small proprietors with full ownership",
+     "journal_page": "JHET p.16",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "boldly creating a great number of small proprietors with full ownership",
+     "note": "Leslie [1880] 1881 p.142."
+    },
+    {
+     "claim": "Optional commutation of rents into annuities (1880), state purchase",
+     "quote": "he concludes that the state must purchase landlords’ farms and grant them to tenants",
+     "journal_page": "JHET p.16",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "state must purchase landlords’ farms and grant them to tenants",
+     "note": "Same page: 'optional commutation of rents into land annuities' (Manioudis, citing Collison Black 2002); also p.20."
+    },
+    {
+     "claim": "Leslie vs Mill: broader than Mill",
+     "quote": "However, in contrast to Mill’s approach, Leslie believed that small proprietorships are appropriate for both England and Ireland.",
+     "journal_page": "JHET p.8",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "Leslie believed that small proprietorships are appropriate for both England and Ireland",
+     "note": ""
+    },
+    {
+     "claim": "Leslie a self-proclaimed disciple of Mill",
+     "quote": "Leslie was a self-proclaimed disciple of J. S. Mill",
+     "journal_page": "JHET p.12",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "self-proclaimed disciple of J. S. Mill",
+     "note": "Manioudis citing Hodgson 2001, Maloney 2016, Manioudis 2021/2024."
+    },
+    {
+     "claim": "Silence 1870-80 and disappointment with Gladstone",
+     "quote": "From 1870 to 1880, he did not publish even a short note.",
+     "journal_page": "JHET p.2",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "From 1870 to 1880, he did not publish even a short note",
+     "note": "Same passage: 'disappointed by William Ewart Gladstone'; last Irish essay 'The Irish Land Question', Frazer's Magazine 1880."
+    },
+    {
+     "claim": "Place in Irish historical school",
+     "quote": "The Irish land question gave rise to Irish historical economics",
+     "journal_page": "JHET p.20",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "gave rise to Irish historical economics",
+     "note": "Manioudis's thesis; 'one of the founders of the British historical school' same sentence."
+    },
+    {
+     "claim": "Still a free-trade liberal",
+     "quote": "Leslie remained a liberal political economist and a proponent of free trade",
+     "journal_page": "JHET p.20",
+     "file": "cup-jhet-manioudis-2026-leslie-flat-by-page.txt",
+     "grep": "Leslie remained a liberal political economist and a proponent of free trade",
+     "note": ""
+    }
+   ],
+   "what_is_absent": "Searched the flat file for: George, Progress and Poverty, single tax, taxation, nationalisation, unearned, Land Tenure Reform (LTRA), Davitt, Land League, famine, Cairnes-as-LTRA. No LVT, no rent-taxation, no nationalisation, no LTRA, no Henry George, no Land League, no Davitt. 'famine' occurs once, inside a Leslie quote (fn 26, p.15: 'Famine and emigration have reduced the population by nearly three millions in twenty-one years', Leslie 1866 p.138). Nothing on the 1879 Progress and Poverty or Leslie's 1880 'Political Economy in the United States'."
+  },
+  "leslie_and_george": {
+   "from_manioudis": "Nothing.",
+   "from_newton_1971_supplementary": {
+    "source": "Bernard Newton, AJES 30:2 (April 1971), p.183, file newton-1971-manual-transcription-pp182-183.txt (hand transcription; verify against the scan PDF pp.4-5)",
+    "points": [
+     "George sent Leslie a promised copy of Progress and Poverty after its publication in November 1879; Leslie replied on 26 November 1879 that although both opposed the 'School of Economics' (the English classical school) he differed from George on some points (Newton fn 14, Henry George Collection, NYPL).",
+     "In September 1880 Leslie wrote again that he had written 'Political Economy in the United States', discussing Progress and Poverty at some length, while he 'by no means sought to disparage the ability shown' (fn 15).",
+     "Newton calls it the first review of Progress and Poverty by an English academic economist (Fortnightly Review 34, 1 Oct 1880, reprinted in Leslie's Essays in Political Economy, 2nd ed. 1888, pp.147-152).",
+     "Newton's summary of Leslie's objections: Leslie, like George, rejected the wages-fund theory but could not accept George's substitute that wages are drawn from the current product of labour; Leslie argued from historical evidence that long-run wages, interest and rents had all risen in the British Isles, so George's central distribution claims were wrong."
+    ],
+    "implication": "Leslie did engage George (1879-80) and rejected key parts of Progress and Poverty's distribution theory. This is a Newton-sourced fact (Tier 1 academic, but 1971 secondary on a primary letter/essay), not a Manioudis one. The primary, Leslie's Fortnightly Review essay 'Political Economy in the United States' (1 Oct 1880; Essays in Political Economy 1888, pp.147-152), is public domain and should be fetched by T1 before the people page states Leslie's objections in his own words (archive.org / Wikisource)."
+   }
+  },
+  "existing_wiki_coverage": {
+   "digest_grep": "grep -i 'cliffe|leslie' digest.md: zero hits in all 1034 pages' title/tags/excerpt. No people page for Leslie, Cairnes, Butt, Maine or Longfield. Existing relevant pages: research/mill-principles-land.md, people/john-stuart-mill.md, organizations/land-tenure-reform-association.md, events/irish-land-war.md, events/great-irish-famine.md, people/michael-davitt.md, concepts/enclosure.md, events/enclosure-movement.md, research/fairlie-short-history-enclosure.md, books/commoners-neeson.md, concepts/land-monopoly.md.",
+   "repo_grep": "'Cliffe Leslie' appears in: research/mill-principles-land.md (body line ~97 and Sources note 6 line ~219-222, both via Newton 1971, LTRA roster only); sources/publicdomain/principles-of-political-economy.md (Laughlin editors' footnotes on Leslie as an opponent of the older English school, lines ~1079, 1237, 24399); sources/wiki-queue.json (this item). Manioudis appears only in research/mill-principles-land.md (Sources note 7, the 2021 paper) and registry.csv line 427 (2021 paper, supplementary tier, row URL progress.org/wiki/mill-principles-land). Note 6 on mill-principles-land.md records a correction: the LTRA roster was once wrongly attributed to Manioudis 2021; this 2026 paper also does not mention the LTRA, so the same trap applies.",
+   "registry": "Add a row for this article (Academic Paper, Manioudis, 2026, Tier supplementary or medium, doi, OA CC BY-NC-SA); sibling preprint DOI 10.31235/osf.io/rk8nv_v1 for dedup.",
+   "benefits_problems_objections": "No wiring recommended. The paper offers no evidence for benefits/problems/objections pages (no incidence, no price, no tax). The one lane touched is concepts/land-monopoly.md (Leslie on rack-rents and landlords as non-producing 'consumers'); better as a sentence on the Leslie people page than as support on the concept page (EDITORIAL §1 rule 7, history-of-thought is not evidence)."
+  },
+  "uncertainties": [
+   "BIRTH YEAR: Manioudis gives 1825-1882 (p.1, no source for 1825), but his own bibliography lists Maloney 2016, 'Cliffe Leslie, Thomas Edward (1827-1882)', New Palgrave (grep -F 'Cliffe Leslie, Thomas Edward (1827–1882)' in the flat file). Other standard references give 1827 (to be checked by T1 against ODNB/Palgrave before the people page states a birth year; the queue brief's 1825 follows this article). Also internally odd: p.1 says he 'entered Trinity College Dublin' in 1840, which is implausible for either birth year; do not repeat the 1840 detail without a second source. Death 1882 is uncontested.",
+   "Page locators are JHET (journal) pagination; the flat file marks each page [[JHET p.N]]. The first page of the PDF is p.1 (title page with abstract and Intro start).",
+   "Almost all Leslie quotations are secondary: Leslie as quoted by Manioudis, with Manioudis's page cites to Leslie's essays (1866 'Political Economy and the Tenure of Land', Fortnightly Review, reprinted in Land Systems pp.117-132; 1867a 'The State of Ireland, 1867', Macmillan's; 1868a 'Ireland in 1868', Fortnightly; 1868b 'Political Economy and Emigration', Fraser's; 1870a Land Systems; 1870b 'The Irish Land Question, 1870'; 1870c 'The English Land Question'; [1880] 1881 'The Irish Land Question', Fraser's). Exact venues in the bibliography, pp.21-23 (flat file: grep -F 'Political Economy and the Tenure of Land'). T1 should not present them as verified against the primaries; Land Systems (1870) is public domain and could be fetched for the people page.",
+   "Manioudis's year for the 1880 Frazer's Magazine essay is given as 1880 in the body and '1880s paper' in the conclusion (p.20), an apparent slip; page should say 1880.",
+   "Collison Black (2002) is cited as the source for the 'revolutionary solution' adopted by 1867 and for the commutation-into-annuities plan; Manioudis gives no independent primary page for the 1867 turn.",
+   "Leslie's seven-million-acre enclosure figure and 'small farms twice as productive' (p.17, fn 30) are Victorian claims; do not state them as fact on any wiki page. Leslie's historical claim that landholders in 1867 were fewer than at the Conquest (p.5) likewise attribute only.",
+   "Manioudis does not cover Leslie's LTRA membership; the wiki's only support is Newton 1971 p.182 (itself citing Geiger 1931 p.232n, per the scan: footnote 12 'Ibid., p. 232n', i.e. Geiger, The Philosophy of Henry George). Treat membership as single-sourced and second-hand; the LTRA's own roster (Mill's Collected Works headnote or the 1871 Programme page on the wiki) should be checked before stating it on the new people page.",
+   "Newton scan has no text layer; T0 transcribed the quoted sentences by eye. Re-check by eye. The Newton phrase that Leslie's article was 'the first review of Progress and Poverty by an English academic economist' is Newton's characterisation.",
+   "Wiki tension to flag for the editor: Leslie's remedy (peasant proprietorship via state purchase) is the one events/irish-land-war.md says George rejected. The Leslie page should state this neutrally and not imply Leslie as a precursor of the single tax.",
+   "Licence: CC BY-NC-SA 4.0: quotes of under 50 words with attribution are fine; any longer reuse must be share-alike and non-commercial.",
+   "Access: no blocks encountered. The OSF preprint is a Word file with no page numbers."
+  ]
+ }
+]
