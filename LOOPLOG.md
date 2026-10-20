@@ -5777,3 +5777,23 @@ with no land content and a monopoly-pricing sense of rent.
 
 Lint 0 errors; inventory 1034 pages, 0 orphans. Ledger: 0 pending, 471 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-20 — Cliffe Leslie, and what he told Henry George in 1880
+
+One scanner item, Manioudis's open-access history-of-thought article on T. E. Cliffe Leslie,
+read in full. It says nothing about land taxation, Davitt or George, so a people page built
+on it alone would have left the Georgist bearing to inference. Two public-domain primaries
+were fetched to close that gap: the 1888 biographical notice prefixed to Leslie's Essays
+(birth "as is believed" 1827, against Manioudis's 1825; death at Belfast, 27 January 1882)
+and Leslie's own Fortnightly Review essay of 1 October 1880, which reviews Progress and
+Poverty: he praises George's imagination, rejects the inverse movement of wages, interest
+and rent, and proposes that all landed property revert to the State "in the year 2001" as a
+fund to extinguish all taxes, against what he calls George's uncompensated confiscation.
+The new people page keeps the two sources apart, states that Leslie's peasant-proprietorship
+remedy was the one George argued against, and places his deferred reversion nearer Mill's
+prospective interception than George's annual tax. One sentence on the Mill-Principles page
+records that Manioudis does not mention the Land Tenure Reform Association, so the roster
+sentence there still rests on Newton alone; See Also links on four neighbours.
+
+Lint 0 errors; inventory 1035 pages, 0 orphans. Ledger: 0 pending, 472 consumed. Merged to
+main and Ghost-synced.

@@ -2,7 +2,7 @@
 category: concepts
 excerpt: The legal conversion of commonly-used land — open fields and commons — into
   exclusive private property, extinguishing the use-rights of commoners.
-last_reviewed: 2026-07-09
+last_reviewed: 2026-10-20
 stub: false
 tags:
 - concepts
@@ -37,6 +37,7 @@ Enclosure matters to the Georgist argument in three connected ways:
 - [Commoners (Neeson 1993)](/wiki/commoners-neeson/) — the scholarly account of English common right and its loss
 - [J.M. Neeson](/wiki/jm-neeson/) — the historian of enclosure
 - [The Right to the Use of the Earth (Spencer, 1851)](/wiki/social-statics-right-to-use-earth/) — the natural-rights case against private property in land
+- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — Victorian economist who called enclosure a confiscation of the English peasantry's patrimony
 
 ## Sources
 

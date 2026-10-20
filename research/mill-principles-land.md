@@ -9,7 +9,7 @@ tier: Core
 source_url: https://www.econlib.org/library/Mill/mlP.html
 stub: false
 excerpt: "Mill's Book V land-taxation chapters argue that the future unearned increase of rent may justly be taxed without disturbing existing purchases — a direct forerunner of Georgism that stops well short of it."
-last_reviewed: 2026-08-10
+last_reviewed: 2026-10-20
 supports_outcomes: []
 ---
 
@@ -95,7 +95,9 @@ rent of land — the LTRA's founding document putting Mill's prospective-interce
 principle directly into a policy platform.[4][5] The LTRA drew support from other classical
 economists of Mill's circle: "the Land Tenure Reform Association, founded in 1870, had such
 eminent economists as John Stuart Mill, Thorold Rogers, Cliffe Leslie and John E. Cairnes
-among its members."[6] Cairnes had separately, in 1865 articles for *The Economist* on the
+among its members."[6] [Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/), a self-described disciple of Mill, pressed the Irish
+programme further than Mill did, wanting security of tenure and state-aided peasant
+proprietorship in England as well as Ireland.[12] Cairnes had separately, in 1865 articles for *The Economist* on the
 Irish land question, challenged the applicability of an absolute, unqualified theory of
 private property to land, arguing that labor is the basis of property in land; it was also
 Cairnes who supplied the "much additional Irish material" behind the radicalized treatment
@@ -289,3 +291,4 @@ on Newton 1971, fetched in full (note 6); the Manioudis and Phemister journal ar
 behind the Irish-land and period-criticism material both proved to be open/free access and
 have been read in full (notes 7, 11), with two earlier misattributions corrected (see the
 parenthetical corrections in notes 1 and 6).
+12. Manolis Manioudis (2026), "Thomas Edward Cliffe Leslie and the Political Economy of British Land Systems," *Journal of the History of Economic Thought*, DOI [10.1017/S1053837226101382](https://doi.org/10.1017/S1053837226101382), p. 8 — used for Leslie's self-description as Mill's disciple and his extension of the small-proprietorship remedy to England (A-claim for what Leslie wrote as quoted; Tier 1; peer-reviewed; read in full). The article does not mention the Land Tenure Reform Association; the roster sentence above rests on Newton (note 6) alone.

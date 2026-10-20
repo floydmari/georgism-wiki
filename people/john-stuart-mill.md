@@ -4,7 +4,7 @@ category: people
 tags: [people, mill, classical-economics, unearned-increment, land-reform, land-tenure-reform-association]
 stub: false
 excerpt: "Philosopher and economist (1806–1873) who gave the 'unearned increment' of land its classical statement and proposed taxing future land-value gains — a direct forerunner of Georgism, though a more gradualist one who would compensate existing owners."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-10-20
 ---
 
 ## Overview
@@ -117,6 +117,7 @@ classical tradition rather than outside it.
 - [Land Tenure Reform Association](/wiki/land-tenure-reform-association/) — the pressure group he founded
 - [Henry George](/wiki/henry-george/) — who took Mill's principle to its radical conclusion
 - [David Ricardo](/wiki/david-ricardo/) · [Adam Smith](/wiki/adam-smith/) — the classical lineage he extends
+- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — self-described disciple who carried Mill's Irish land programme further, to small proprietorship in England as well
 
 ## Sources
 

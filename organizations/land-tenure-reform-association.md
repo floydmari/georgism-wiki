@@ -5,7 +5,7 @@ tags: [organizations, ltra, john-stuart-mill, unearned-increment, uk, land-refor
 founded: 1869
 stub: false
 excerpt: "The reform pressure group John Stuart Mill founded (1869; programme 1871) to campaign for taxing the future unearned increment of land rent — the institutional bridge between classical rent theory and the Georgist movement, and a direct ancestor of the 1909 land duties."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-10-20
 ---
 
 ## Overview
@@ -77,6 +77,7 @@ land-tax politics of the twentieth century. Two lineages run through it:
 - [Unearned Increment](/wiki/unearned-increment/) · [Narrative: The Unearned Increment](/wiki/unearned-increment-narrative/) — the idea it institutionalised
 - [The 1909 People's Budget](/wiki/1909-peoples-budget/) · [Town and Country Planning Act 1947](/wiki/town-and-country-planning-act-1947/) — its legislative descendants
 - [Single Tax](/wiki/single-tax/) — the more thoroughgoing movement it ran parallel to
+- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — economist named among the Association's members in a later account
 
 ## Sources
 

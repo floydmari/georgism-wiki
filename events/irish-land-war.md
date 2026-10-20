@@ -5,7 +5,7 @@ tags: [events, ireland, irish-land-war, land-league, michael-davitt, henry-georg
 year: 1879
 stub: false
 excerpt: "Mass agitation led by the Irish National Land League against evictions and rack-renting by landlords, centred on the 'Three Fs' and peasant proprietorship — the crisis Henry George intervened in with The Land Question (1881)."
-last_reviewed: 2026-07-10
+last_reviewed: 2026-10-20
 ---
 
 ## Overview
@@ -59,6 +59,7 @@ The Irish Land War also stands as the first major real-world crisis to which Geo
 - [Progress and Poverty](/wiki/progress-and-poverty/) — the theoretical work whose analysis George applied to Ireland
 - [Alfred Russel Wallace](/wiki/alfred-russel-wallace/) — contemporary British land reformer shaped by the same "land question" ferment
 - [John Stuart Mill](/wiki/john-stuart-mill/) — precursor whose Land Tenure Reform Association anticipated parts of the argument
+- [Thomas Edward Cliffe Leslie](/wiki/thomas-edward-cliffe-leslie/) — the Belfast economist whose peasant-proprietorship remedy for Irish land was the alternative George argued against
 
 ## Sources
 
