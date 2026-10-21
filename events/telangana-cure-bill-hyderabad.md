@@ -3,7 +3,7 @@ title: "Telangana's CURE Bill (2026): Hyderabad's Proposed Shift to Land-Value-B
 category: events
 tags: [events, india, telangana, hyderabad, property-tax, land-value, urban-governance, transition-design]
 stub: false
-excerpt: "A 2026 bill before the Telangana Assembly would replace Hyderabad's annual-rental-value property tax with rates struck on land value — 0.10–0.50% residential, 0.20–2% non-residential, 0.50% on vacant plots — phased in at 20% a year, in what would be one of the largest land-value-based municipal tax bases in India."
+excerpt: "A 2026 bill before the Telangana Assembly would replace Hyderabad's annual-rental-value property tax with rates struck on land value, 0.10–0.50% residential and 0.50% on vacant plots, phased in at 20% a year: one of the largest land-value-based municipal tax bases in India."
 last_reviewed: 2026-10-21
 ---
 
