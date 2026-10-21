@@ -5797,3 +5797,23 @@ sentence there still rests on Newton alone; See Also links on four neighbours.
 
 Lint 0 errors; inventory 1035 pages, 0 orphans. Ledger: 0 pending, 472 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-21 — Pakistan's property taxes, mapped
+
+One scanner item, the World Bank diagnostic of Pakistan's immovable property taxation,
+read in full. It is a thirty-page report, not the hundred-page study the scanner implied,
+and it never recommends a land value, site value or split-rate tax; its roadmap is a pair of
+activity tables with no dates. It still supplies what a country page needs: the tax map
+across federal, provincial and local tiers, the urban property tax at about 0.13 percent of
+GDP (a figure the report leaves unsourced), Punjab's January 2025 move from rental to
+capital value with the other provinces said to follow, three parallel valuation systems held
+at a rule-of-thumb 80 percent of market value, and land records that cover half of Khyber
+Pakhtunkhwa and 5 percent of Balochistan, with two thirds of Sindh's urban properties outside
+the tax database and Karachi unsurveyed since 2001. The new Pakistan page says plainly what
+the report does not say about land value, and the scanner's "Ordinance 2022" label is
+corrected to section 7E of the 2001 Ordinance as inserted in 2022. The mass-appraisal page
+gains a paragraph on the no-roll failure mode; two research pages and the Telangana page
+link in. Vancouver's official election count was not yet declared at pass time.
+
+Lint 0 errors; inventory 1036 pages, 0 orphans. Ledger: 0 pending, 473 consumed. Merged to
+main and Ghost-synced.

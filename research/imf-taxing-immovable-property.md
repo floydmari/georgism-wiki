@@ -38,6 +38,7 @@ This 2013 IMF working paper by John Norregaard is a standard reference on recurr
 
 - **Objection:** [LVT can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - **Place:** [Denmark](/wiki/denmark/)
+- **Place:** [Pakistan](/wiki/pakistan/) — the World Bank's 2026 roadmap for moving a rental-value property tax to capital value
 
 ## Sources
 

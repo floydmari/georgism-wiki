@@ -32,6 +32,7 @@ Property-tax revenue depends heavily on **administrative capacity** — quality 
 
 - **Objection:** [Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/)
 - **Outcome:** [Property taxes raise welfare in developing countries](/wiki/property-tax-raises-welfare-developing/)
+- **Place:** [Pakistan](/wiki/pakistan/) — a 2026 World Bank diagnostic of one country's recurrent property tax, at about 0.13 per cent of GDP
 
 ## Sources
 

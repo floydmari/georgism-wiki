@@ -4,7 +4,7 @@ category: events
 tags: [events, india, telangana, hyderabad, property-tax, land-value, urban-governance, transition-design]
 stub: false
 excerpt: "A 2026 bill before the Telangana Assembly would replace Hyderabad's annual-rental-value property tax with rates struck on land value — 0.10–0.50% residential, 0.20–2% non-residential, 0.50% on vacant plots — phased in at 20% a year, in what would be one of the largest land-value-based municipal tax bases in India."
-last_reviewed: 2026-09-18
+last_reviewed: 2026-10-21
 ---
 
 ## Overview
@@ -62,6 +62,7 @@ That reception is itself a data point for the wiki's [homevoter](/wiki/homevoter
 - [Objection: LVT transition wealth shock](/wiki/lvt-transition-wealth-shock/) — the phase-in problem this bill's 20%-a-year cap addresses
 - [Objection: homevoters will block LVT](/wiki/homevoters-will-block-lvt/) — the consultation response as a live instance
 - [Land Value Tax](/wiki/land-value-tax/) — the general policy concept
+- [Pakistan](/wiki/pakistan/) — the South Asian contrast: provinces leaving annual rental value for capital value of land and buildings, not land value
 
 ## Sources
 
