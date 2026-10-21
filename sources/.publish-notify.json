@@ -688,7 +688,7 @@
         "lvt"
       ],
       "action": "updated",
-      "published_at": "2026-10-13T11:30:26.000Z",
+      "published_at": "2026-10-21T11:29:14.000Z",
       "notified": false
     },
     {
@@ -1536,6 +1536,78 @@
       ],
       "action": "updated",
       "published_at": "2026-10-20T11:25:51.000Z",
+      "notified": false
+    },
+    {
+      "slug": "pakistan",
+      "title": "Pakistan",
+      "url": "https://www.progress.org/wiki/pakistan/",
+      "category": "places",
+      "tags": [
+        "places",
+        "pakistan",
+        "south-asia",
+        "property-tax",
+        "valuation",
+        "capital-value",
+        "annual-rental-value",
+        "cadastre",
+        "world-bank"
+      ],
+      "action": "published",
+      "published_at": "2026-10-21T11:29:11.000Z",
+      "notified": false
+    },
+    {
+      "slug": "telangana-cure-bill-hyderabad",
+      "title": "Telangana's CURE Bill (2026): Hyderabad's Proposed Shift to Land-Value-Based Property Tax",
+      "url": "https://www.progress.org/wiki/telangana-cure-bill-hyderabad/",
+      "category": "events",
+      "tags": [
+        "events",
+        "india",
+        "telangana",
+        "hyderabad",
+        "property-tax",
+        "land-value",
+        "urban-governance",
+        "transition-design"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-21T11:29:17.000Z",
+      "notified": false
+    },
+    {
+      "slug": "imf-taxing-immovable-property",
+      "title": "Taxing Immovable Property: Revenue Potential and Implementation Challenges",
+      "url": "https://www.progress.org/wiki/imf-taxing-immovable-property/",
+      "category": "research",
+      "tags": [
+        "research",
+        "imf",
+        "property-tax",
+        "global",
+        "implementation",
+        "revenue"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-21T11:29:19.000Z",
+      "notified": false
+    },
+    {
+      "slug": "world-bank-property-tax-determinants",
+      "title": "Determinants of Property Tax Revenue: Lessons from Empirical Analysis",
+      "url": "https://www.progress.org/wiki/world-bank-property-tax-determinants/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "world-bank",
+        "global",
+        "revenue"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-21T11:29:21.000Z",
       "notified": false
     }
   ]
