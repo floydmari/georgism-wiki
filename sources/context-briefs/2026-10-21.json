@@ -1,0 +1,312 @@
+[
+ {
+  "url": "https://doi.org/10.1596/44905",
+  "title": "Strengthening Immovable Property Taxation in Pakistan: Challenges, Mapping of Revenue Sources, Recommendations and Strategic Roadmap (Lucas-Mas & Touqeer, World Bank, 2026)",
+  "what_was_fetched": "Full report fetched and read in full (34 PDF pages; 30 printed pages; printed page = PDF page minus 4). DOI -> hdl.handle.net/10986/44905 -> Open Knowledge Repository item b1ff136f-bd2e-4f47-a7a5-c890558fb32e, resolved via /server/api/pid/find; PDF bitstream f9c75bb8-6611-4739-94f2-01ea8a43fa12 (1.9 MB) downloaded with a browser user-agent (HTTP 200, no ladder fallback needed). All files in /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-21/ : (1) pakistan-immovable-property-tax-wb-44905.pdf (original); (2) pakistan-immovable-property-tax-wb-44905.txt (pdftotext -layout of the PDF; two-column layout, so grep for short single-line fragments, and sentences can be interleaved with the neighbouring column); (3) pakistan-immovable-property-tax-wb-44905-okr.txt (OKR's own text bitstream ef91957d-f823-448d-8951-69e7c8a28ff1, CRLF); (4) okr-item-metadata-44905.json (OKR item metadata: abstract, dates issued 2026-02-25 / disclosed 2026-05-20, licence CC BY 3.0 IGO, report no. 208538). All grep strings below were checked to match in both text files. Nothing was blocked. documents.worldbank.org PDF URL is listed in the metadata (okr.pdfurl) but was not needed. Note: the report is about 30 printed pages, not 100+; it is a compact diagnostic with tax-mapping tables.",
+  "verdict": "NEW places/pakistan (primary). Reason: the report is substantive and unique (a full map of Pakistan's federal/provincial/local property-related levies with rates, the valuation-base transition, land-record coverage by province, and recommendations), the wiki has no Pakistan page and no other Pakistan property-tax source, and the report is Tier 1 institutional. Optional companion NEW research/lucas-mas-touqeer-pakistan-immovable-property-tax (house convention is one research page per source, e.g. research/world-bank-property-tax-determinants); the places page should carry the content and the research page stay short. Not an LVT case: the page must frame Pakistan as a property-tax-administration and valuation-base-transition case (annual rental value to capital value), not as land value taxation. SUGGESTED SECTIONS for places/pakistan.md (follow places/nigeria.md pattern): Overview (lead: recurrent property tax is tiny, UIPT about 0.13 percent of GDP vs 0.3-0.6 / 1.2 percent benchmarks; heavy reliance on transaction taxes); The Tax Map (three taxable events: transfer, ownership, use; federal vs provincial vs local; short table of main levies and rates: stamp duty, CVT, registration/mutation, TTIP, advance taxes, capital gains, deemed rental income s.7E, UIPT, rental income tax, agricultural income tax and land tax); The Urban Immovable Property Tax and the Move from Rental Value to Capital Value (ARV base, exemptions, Punjab Jan 2025 DC-rate capital value with Rs5m exemption, Sindh devolution to local councils Sept 2024, other provinces agreed to follow); Valuation (three tables/two sets of rates, FBR 80 percent rule of thumb, DC rates below FBR, infrequent updating, informal-transfer effect); Land Records and Cadastre (Punjab digitised; KP half; Balochistan 5 percent; Sindh two-thirds of urban properties missing; Karachi survey 2001); Recommendations and Roadmap (rec 1-8, independent valuation agency, 3-5 year table updates, ratio studies, AVMs on pilot basis, merge CVT/stamp duty; the two roadmap tables; state that the report gives no dates); What the Report Does Not Say (see uncertainties/limits below; this section is the guard against overclaiming); See Also; Sources. INBOUND LINK CANDIDATES (>=2): (a) research/world-bank-property-tax-determinants, 'Bears On' or a See Also bullet: Pakistan as a case where the binding constraint is valuation and land-record administration; (b) concepts/mass-appraisal-methods, section 'The Failure Mode Isn't Bad Models - It's Rolls Nobody Updates', insert a short paragraph after the three-bullet list (last bullet begins 'Appeals redistribute rather than correct') and before the paragraph beginning 'The political economy of the fix is the discouraging part': Pakistan's valuation tables not updated regularly and set by incremental uplifts, with the report's recommendation of 3-5 year updates and sales-assessment ratio studies [grep: after every 3-5 years; incremental approach]; (c) research/brockmeyer-property-tax-developing, See Also / Bears On: enforcement/compliance context (report ties higher transfer taxes to informal transfers) - weaker link, use only as a see-also; (d) research/imf-taxing-immovable-property and research/franzsen-mccluskey-property-tax-africa, See Also (comparative administration); (e) events/telangana-cure-bill-hyderabad, See Also, as a South Asian contrast: both move off annual rental value, but Telangana's proposal moves to land value while Pakistan's moves to capital value of land plus buildings (this contrast is the useful one to state); (f) objections/land-cannot-be-assessed (only if the page states the report's land-record findings carefully as an administrative-capacity point). There is no places/india.md and no other South Asian places page (places has no India, Sri Lanka, Bangladesh, Nepal). Also optionally the new page could link concepts/site-value and concepts/split-rate-taxation to show what Pakistan has NOT adopted.",
+  "claim_grade": "A for the statutory rates, tax map and administrative facts the report states from law and official practice (tables 1-24 etc.); B for provincial administrative-coverage figures (land-record coverage, 'two thirds of urban properties', 60-65 percent of KP outside tax net) which are attributed to no dated source in the text (footnote 6 cites World Bank 2020 SCD) and for the 0.13 percent of GDP UIPT figure (no year or citation given); C for recommendations and the 80 percent FBR rule of thumb (the report itself says it is not clear the table-update process uses verifiable data), and for the claim that revised FBR tables 'increased informal property transfers' (the report says 'it is said to have', relaying BoR representatives). Source tier: Tier 1 (World Bank is an official/standing body under EDITORIAL 4c). Caveats: the report carries the standard disclaimer that findings are not necessarily the Bank's views, and the authors are World Bank staff, so cite it as 'a World Bank report' with the authors named and avoid 'the World Bank recommends' for statements that are the authors' own.",
+  "content_summary": [
+   {
+    "claim": "UIPT yields only about 0.13 percent of GDP; the report's benchmark is 0.3-0.6 percent for low- and middle-income countries and about 1.2 percent for higher-income countries. No source, year or total for all recurrent property taxes is given.",
+    "locator": "report p.3 (PDF p.7)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "about 0.13 percent of GDP"
+   },
+   {
+    "claim": "Benchmark sentence (same passage).",
+    "locator": "report p.3 (PDF p.7)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Low- and middle-income countries generate 0.3-0.6"
+   },
+   {
+    "claim": "Exec summary: UIPT 'should serve as the core recurrent tax for local governments' but is based on outdated rental value systems with extensive exemptions.",
+    "locator": "report p.1 (PDF p.5)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Property Tax (UIPT), which should serve as the core"
+   },
+   {
+    "claim": "Land records: Sindh largely outdated; KP records do not cover 50 percent of territory; Balochistan only 5 percent; Punjab has made substantial progress.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "do not cover 50"
+   },
+   {
+    "claim": "Balochistan coverage clause.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "only cover 5"
+   },
+   {
+    "claim": "Sindh: two thirds of urban properties not in the UIPT database; last Karachi property survey 2001; 60-65 percent of KP territory outside the tax net.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "two thirds of urban properties are not"
+   },
+   {
+    "claim": "Karachi survey date.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "property survey dates back to 2001"
+   },
+   {
+    "claim": "Footnote 6: Revenue Records plus housing-agency records cover all of Punjab and Sindh but only half of KP and 5 percent of Balochistan; unrecorded areas are tribal areas under customary tenure.",
+    "locator": "report p.22 fn 6 (PDF p.26)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "only half of KPs territory and 5"
+   },
+   {
+    "claim": "Three valuation systems: FBR tables (capital gains tax), BoRs/DC tables (stamp duty), ETDs (UIPT). FBR and BoRs use capital valuation; ETDs historically rental.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Three valuation systems are being used"
+   },
+   {
+    "claim": "DC rates are lower than FBR rates, which are presumed closer to market value.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "DC rates are"
+   },
+   {
+    "claim": "FBR 'thumb rule of keeping valuation at 80 percent of market value'; consults private property websites (Zameen.com).",
+    "locator": "Box 1, report p.5 (PDF p.9)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "thumb rule of keeping valuation at 80 percent"
+   },
+   {
+    "claim": "Provincial BoRs use an incremental approach (e.g. 10 percent) when transaction data are missing; taxpayers underreport values on transfer documents.",
+    "locator": "Box 1, report p.5 (PDF p.9)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "incremental approach"
+   },
+   {
+    "claim": "Recent revision of FBR valuation tables, adopted by BoRs for stamp duty, is 'said to have increased informal property transfers'.",
+    "locator": "report p.5 (PDF p.9)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "increased informal property transfers"
+   },
+   {
+    "claim": "Sindh ETDs/LGs are gradually transitioning to capital valuation under an IMF programme.",
+    "locator": "report p.5 (PDF p.9)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "gradually transitioning towards"
+   },
+   {
+    "claim": "Federal withholding on transfers: advance tax on purchase (s.236K ITO 2001): filer 1.5/2/2.5 percent by FMV band (under Rs50m, 50-100m, over 100m); non-filer 10.5/14.5/18.5 percent.",
+    "locator": "Table 2, report p.8 (PDF p.12)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "ADVANCE INCOME TAX RATE ON SEC. 236K"
+   },
+   {
+    "claim": "Advance tax on sale (s.236C): filer 4.5/5/5.5 percent.",
+    "locator": "Table 5, report p.10 (PDF p.14)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "ADVANCE INCOME TAX RATE UNDER SEC. 236C"
+   },
+   {
+    "claim": "Capital gains tax on property bought before 30 June 2024: open plots 15 percent in year 1 falling to 0 after 6 years; constructed property and flats reach 0 sooner.",
+    "locator": "Table 3, report p.9 (PDF p.13)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "CAPITAL GAINS TAX ON PROPERTY BOUGHT BEFORE 30 JUNE 2024"
+   },
+   {
+    "claim": "Capital gains tax on property bought on or after 1 July 2024: active-taxpayer individuals 15 percent; non-active individuals progressive 15-40 percent.",
+    "locator": "Table 4, report p.9 (PDF p.13)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "CAPITAL GAIN TAX ON PROPERTY BOUGHT ON OR AFTER 1 JULY 2024"
+   },
+   {
+    "claim": "Stamp duty on transfers: Punjab 1, Sindh 2, KP 1, Balochistan 2 percent; ICT 1 percent (filers) / 2 (non-filers). Assessed on DC tables in provinces, FBR tables in ICT.",
+    "locator": "Table 6, report p.10 (PDF p.14)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "STAMP DUTY RATES ON LEGAL DOCUMENTS OF TRANSFER OF PROPERTY"
+   },
+   {
+    "claim": "Punjab stamp duty is combined with CVT at 2 percent ('the stamp duty rate includes CVT'); Table 6 shows 1% and Table 10 shows 1% for Punjab, so the combined 2% should be stated from the text, not summed from the tables without care.",
+    "locator": "report p.10 (PDF p.14)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "stamp duty is combined with CVT at 2"
+   },
+   {
+    "claim": "Capital value tax (provincial, BoR-administered, buyer-paid, on higher of declared or DC-assessed value): Punjab 1, Sindh 2, KP 1, Balochistan 2, ICT 2 percent.",
+    "locator": "Table 10, report p.12 (PDF p.16)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "CAPITAL VALUE TAX RATES ON IMMOVABLE PROPERTY"
+   },
+   {
+    "claim": "Registration fee 0.5-3 percent and mutation fee schedules; mutation fee set by the Punjab Land Records Authority (PLRA) at 3 percent in Punjab.",
+    "locator": "Tables 7-9, report p.10-11 (PDF p.14-15)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Authority (PLRA) sets the mutation fee"
+   },
+   {
+    "claim": "Local transfer levies: TTIP Punjab 1, KP 2, ICT 3 percent; district council fee/town tax Punjab 1, KP 1, Balochistan 2 percent.",
+    "locator": "Tables 11-12, report p.12 (PDF p.16)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "TAX ON TRANSFER OF IMMOVABLE PROPERTY RATES"
+   },
+   {
+    "claim": "Table 1 map: transactional (advance tax on purchase, capital gains, stamp duty, registration, mutation, CVT, TTIP, district council fee); recurrent on ownership (deemed rental income tax, Balochistan land tax, UIPT); recurrent on use (rental income tax, AIT incl. land tax, super tax, land use conversion fee, abiana, ushr).",
+    "locator": "Table 1, report p.7-8 (PDF p.11-12)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Table 1: Mapping of Immovable Property-Related Revenue Sources"
+   },
+   {
+    "claim": "Deemed rental income tax (s.7E ITO 2001, introduced by Finance Act 2022): federal, FBR-administered, annual; base 5 percent of fair market value as notional income; rate 20 percent on the deemed income; applies to properties exceeding PKR 25 million. Report notes controversy over taxing unrealised gains and a similar tax 'repealed in 2024 by the Balochistan High Court'.",
+    "locator": "report p.13 (PDF p.17)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Tax rate: 20 percent on the deemed income"
+   },
+   {
+    "claim": "Same passage: 5 percent of FMV base.",
+    "locator": "report p.13 (PDF p.17)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "derived income equivalent to 5 percent of the fair"
+   },
+   {
+    "claim": "Same passage: PKR 25 million threshold and Finance Act 2022.",
+    "locator": "report p.13 (PDF p.17)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "exceeding PKR 25 million"
+   },
+   {
+    "claim": "Same passage: court repeal.",
+    "locator": "report p.13 (PDF p.17)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Balochistan High Court"
+   },
+   {
+    "claim": "UIPT is a local tax administered by provincial ETDs (Punjab, KP, Balochistan); in Sindh collection devolved to local councils from September 2024; ICT by CDA.",
+    "locator": "report p.14 (PDF p.18)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "collection function was devolved to LCs as of"
+   },
+   {
+    "claim": "UIPT base is annual rental value in all provinces except Punjab; the report calls it 'a tax on deemed rental income, similar to Sec. 7E'.",
+    "locator": "report p.14 (PDF p.18)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Tax base: it is the annual rental value"
+   },
+   {
+    "claim": "Punjab, from January 2025, shifted to a DC-rate-based capital value system; properties valued at Rs5 million or less exempt; progressive rates above.",
+    "locator": "report p.14 (PDF p.18)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "effective January 2025, valuation has"
+   },
+   {
+    "claim": "'Following Punjab's example, all remaining provinces have agreed to transition to CV by using DC tables for valuation.'",
+    "locator": "report p.14 (PDF p.18)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Following Punjab"
+   },
+   {
+    "claim": "UIPT applies to residential, commercial, 'vacant plots (in some provinces)' and rental properties; rates vary by plot size (5 marla, 6-10 marla, 1 kanal and above); exemptions for government, religious, low-income, widows etc.",
+    "locator": "report p.14 (PDF p.18)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "vacant plots (in some"
+   },
+   {
+    "claim": "Challenges list includes 'challenges in capturing value appreciation of vacant plots'.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "challenges in capturing value appreciation of vacant"
+   },
+   {
+    "claim": "Inspections omit new and redeveloped properties 'like undeveloped land and vacant buildings'.",
+    "locator": "report p.4 (PDF p.8)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "undeveloped land and vacant buildings"
+   },
+   {
+    "claim": "Balochistan land tax (Ordinance 2000): annual presumptive tax on land above 12.5 acres, rates by four productivity zones (Table 14); agricultural, not urban; Punjab and KP land taxes are alternative minimum taxes for agricultural income tax.",
+    "locator": "report p.13-14, 17 (PDF p.17-18, 21)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "3.2.2. Land Tax (Balochistan)"
+   },
+   {
+    "claim": "Rec 1: gradual shift from ARV to CV under IMF best practice and the National Fiscal Pact 2024; harmonise valuation across taxes with formula-based valuation on objective indicators (square footage, location, amenities).",
+    "locator": "report p.20 (PDF p.24)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "National Fiscal Pact 2024, gradual shift from ARV"
+   },
+   {
+    "claim": "Rec 2: update valuation tables every 3-5 years; regular sales-assessment ratio studies; surcharge where declarations fall well below ratio-study estimates.",
+    "locator": "report p.20 (PDF p.24)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "after every 3-5 years"
+   },
+   {
+    "claim": "Rec 3: pilot AI-based automated valuation models before large-scale use.",
+    "locator": "report p.20 (PDF p.24)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "AI-powered Automated"
+   },
+   {
+    "claim": "Rec 4: independent valuation agency (for UIPT, CVT, stamp duty, capital gains tax), separate from tax calculation; Box 4 lists its functions, including a uniform national methodology and yearly valuation tables.",
+    "locator": "report p.20-21 (PDF p.24-25)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Establish independent valuation agency"
+   },
+   {
+    "claim": "Rec 5: citywide surveys; bring newly merged districts (73 TMAs) into the tax net. Rec 6: review UIPT rates against inflation; Punjab reduced UIPT rates after expanding base and valuations, leading to increased collections.",
+    "locator": "report p.22 (PDF p.26)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "73 TMAs"
+   },
+   {
+    "claim": "Rec 8 (medium term): fold CVT into stamp duty as a single transfer tax; or eliminate CVT and stamp duty in favour of an annual property tax for all properties; or replace CVT with a piggyback on federal capital gains tax. Shifting to recurrent taxes 'would help relieve the higher tax burden on land and real estate transactions and encourage more productive use of land and property assets'.",
+    "locator": "report p.22 (PDF p.26)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "relieve the higher tax burden on land"
+   },
+   {
+    "claim": "Roadmap (Tables 25-26): two activity/deliverable/objective tables (tax administration; tax policy); they carry no dates, phases or sequencing columns. Policy deliverables include horizontal expansion of new urban areas into the tax net, linking UIPT rates to service costs, uniform valuation system and capital valuation shift.",
+    "locator": "Tables 25-26, report p.23-24 (PDF p.27-28)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Table 26: Tax Policy Roadmap"
+   },
+   {
+    "claim": "Exec summary timing language: 'Short- to medium-term actions include expanding the tax net...'; 'Over time ... rebalancing the tax mix away from high transfer taxes toward stronger recurrent property taxes'.",
+    "locator": "report p.1 (PDF p.5)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Short- to medium-term actions include expanding the"
+   },
+   {
+    "claim": "Annex 1 classifies 'Intrinsic (or real) value of land (site) ... unaffected by decisions concerning its current use' as the base of a distinct 'Land (Site) Tax', separate from a Property Tax on land plus structures and from a 'Tax on Increase of Urban Land Value'. Annex 2: land (site) base rate structure 'Neutral', economic capacity 'Unrealized value'.",
+    "locator": "Annexes 1-2, report p.25 (PDF p.29)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Annex 1: Each Tax Base is a Different Tax"
+   },
+   {
+    "claim": "Annex 3: valuation method for the land (site) base is 'Area basis', data 'Cost approach (area-based)'; for land plus structures, capital value with depreciated structures.",
+    "locator": "Annex 3, report p.26 (PDF p.30)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Area basis"
+   },
+   {
+    "claim": "Authors: Lucas-Mas is Senior Economist on Tax Policy and Administration, World Bank MENAAP region; Touqeer is Senior Public Sector Specialist on Domestic Resource Mobilization, Pakistan Office.",
+    "locator": "report p.1 fn (PDF p.3)",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "Senior Economist on Tax Policy and Administration"
+   },
+   {
+    "claim": "Licence and citation: CC BY 3.0 IGO; 'product of the staff of The World Bank with external contributions'; views are the authors', not necessarily the Bank's.",
+    "locator": "PDF p.2",
+    "file": "pakistan-immovable-property-tax-wb-44905.txt",
+    "grep": "This work is a product of the staff of The World Bank"
+   }
+  ],
+  "existing_wiki_coverage": "Repo-wide grep (case-insensitive) for 'pakistan' across *.md and the corpus digest (digest.md, 1035 pages): zero Pakistan pages and no page content on Pakistan's tax system; only incidental hits in sources/gaffney/text/L2018-CorporatePowerMilitary.txt and 1972-BenefitsOfMilitarySpending.txt (military regimes / '22 families'), sources/related-box-state.jsonl and scratchpad/related-box-samples/pandemonium-in-pakistan.html (a progress.org essay mapped to land-value-tax), and sources/wiki-queue.json (this item). Grep for 'deemed income|deemed rental|capital value tax|7E' finds no Pakistani content; hits are unrelated (Vancouver, etc.). No lucas-mas or touqeer in people/ or anywhere. Related existing pages: research/world-bank-property-tax-determinants (128-country PRWP 9399, administration as binding constraint), research/brockmeyer-property-tax-developing, research/franzsen-mccluskey-property-tax-africa, research/imf-taxing-immovable-property, research/almy-oecd-valuation-assessment, concepts/mass-appraisal-methods, objections/land-cannot-be-assessed, concepts/site-value, concepts/split-rate-taxation, events/telangana-cure-bill-hyderabad (ARV to land value in Hyderabad), research/duflo-hanna-olken-tandon-chennai-outsourcing, research/india-mohua-value-capture-framework, organizations/iaao. No places/india.md exists.",
+  "uncertainties": [
+   "WHAT THE REPORT DOES NOT SAY ABOUT LAND VALUE TAXATION (for the 'What the Report Does Not Say' section; the page must not overclaim): (1) It never recommends a land value tax, a site value tax, split-rate taxation or taxing land separately from buildings; the recommended base is capital value (land plus buildings, DC-rate-based in Punjab). Grep of the text for 'land value', 'site value', 'unimproved', 'vacant', 'Georg' finds no recommendation. (2) The only appearances of land or site as a base are the three classificatory annexes (Annex 1-3, report p.25-26): a 'Land (Site) Tax' is listed as one possible tax base among seven, 'Neutral' in rate structure and 'Unrealized value', valued 'Area basis' by a cost approach; the report does not say Pakistan has or should adopt it. (3) Vacant land: UIPT applies to vacant plots 'in some provinces' (p.14) and the report lists 'challenges in capturing value appreciation of vacant plots' (p.4) and omission of undeveloped land and vacant buildings from rolls, but proposes no specific vacant-land measure. (4) There is no analysis of tax incidence, capitalisation, land-price effects, windfall or speculation, rent capture, or of the distinction between land and improvement value; the nearest statement is rec 8's remark that recurrent taxes would 'relieve the higher tax burden on land and real estate transactions and encourage more productive use of land and property assets' (p.22) - a transfer-tax-to-recurrent-tax argument, not an LVT argument. (5) 'Land tax' in the report means the agricultural land tax (Balochistan, Punjab, KP: per-acre presumptive tax by productivity zone, alternative minimum tax for agricultural income tax), not a land value tax; the 'land value' phrase appears only for the land-use conversion fee (percentage of the uplift from agricultural to commercial value, p.19). That fee is a partial betterment-type capture and could be mentioned with that limitation, but the report does not call it value capture. (6) 'Value capture' appears only in recommendation 1 ('real time value capture' by shifting from ARV to CV), a generic phrase.",
+   "The roadmap has no dates, phases or sequencing: it is two activity/deliverable/objective tables (tax administration p.23; tax policy p.24). The only timing language is 'short- to medium-term' (exec summary), 'in the medium term' (rec 8), 'in short term' (rec 2) and 'after every 3-5 years' (table updates). The 2025-2035 Country Partnership Framework mentioned in the triage blurb is NOT in this report. Do not invent phases or dates; the brief's request for dates cannot be met from this source.",
+   "Recurrent property tax share of GDP: the only Pakistan figure is UIPT at 'about 0.13 percent of GDP' with no year or source; no total for all recurrent property taxes (deemed income tax, rental income tax, AIT, land tax are not totalled), no revenue figures for stamp duty, CVT or capital gains tax. The benchmarks (0.3-0.6 and 1.2 percent) are unsourced in the text. Treat as the authors' statement.",
+   "Deemed income tax: the report cites it as Sec. 7E of the Income Tax Ordinance, 2001 (introduced by Finance Act 2022), not 'Income Tax Ordinance 2022'. The report says the tax is owner-level, 20 percent of 5 percent of fair market value (so an effective 1 percent of FMV by simple arithmetic; the report does not state this, so any 1 percent figure would be a derived calculation to be labelled as such), on properties exceeding PKR 25 million. The report does not explain how the PKR 25 million threshold is measured. Rate/threshold are as of the report date and the federal budget changes them yearly.",
+   "Capital value tax: the report treats CVT as a provincial tax (taxing right provincial, BoR-administered, buyer-paid, on the higher of declared or DC-assessed value) levied at transfer, not the older federal CVT; in Punjab it is combined with stamp duty into a 2 percent charge. Table 6 (stamp duty) and Table 10 (CVT) each show Punjab at 1 percent; the text says the Punjab stamp duty rate 'includes CVT'. State the combined 2 percent with the text as authority and flag the table ambiguity if the table is cited.",
+   "Internal inconsistency to avoid: p.4 describes UIPT as ARV-based, then p.14 says ARV in all provinces except Punjab; Punjab's capital-value system took effect January 2025. The report says Sindh transferred UIPT collection to local councils in September 2024 and AIT administration to the Sindh Revenue Board in 2025. These legal changes are as of the report's date (revised 20 May 2026) and should be dated on the page ('as of the report's 2026 revision').",
+   "Stated uncertainty in the source: the text says the FBR 80 percent rule of thumb, the use of private property websites and the table-update process are not clearly documented; and that raising federal advance taxes is claimed by BoR representatives to have increased informal transactions. These are relayed assertions, not measured effects; phrase them that way.",
+   "The report is a policy diagnostic by two World Bank staff with a disclaimer that views are not necessarily the Bank's; it relies on roundtable presentations by provincial departments (Oct 2024, Feb 2025) and on World Bank 2020 SCD, not on published datasets. No independent verification of provincial figures was attempted. Source format caveat: pdftotext -layout interleaves the two text columns, so quote verification should rely on the short grep fragments given; if a quotation must be exact, check it against the PDF (pdftotext without -layout keeps column order, e.g. pdftotext -f 17 -l 17).",
+   "Author tiers (EDITORIAL 4c, people-tiers.json lists neither): Cristian Oliver Lucas-Mas, Senior Economist on Tax Policy and Administration, World Bank (MENAAP region): propose Tier 1 as an official-body author on this report only (institutional publication, peer reviewed per acknowledgements: Junquera-Varela and Rajiv Kumar), cite as 'World Bank report by Lucas-Mas and Touqeer', no people/ page warranted. Irum Touqeer, Senior Public Sector Specialist on Domestic Resource Mobilization, World Bank Pakistan Office: same, Tier 1 as World Bank staff on an official report; no standalone people page. Neither is a recognised academic body of work on the wiki's topic, so the safe handling is to cite the institution first and the authors second; do not use either name as stand-alone social proof.",
+   "Licence: CC BY 3.0 IGO, so short quotations and tables may be reproduced with attribution; the page should paraphrase and keep quotes short anyway. Suggested citation per the report: Lucas-Mas, Cristian Oliver and Irum Touqeer. 2026. Strengthening Immovable Property Taxation in Pakistan. Washington, DC: World Bank. DOI 10.1596/44905; handle 10986/44905. Dates: first published 25 February 2026; OKR record disclosed 20 May 2026 (the 'revised May 2026' version). Source-access note for Sources: full text accessible open-access at the OKR."
+  ]
+ }
+]
