@@ -1,0 +1,279 @@
+[
+ {
+  "url": "https://www.lincolninst.edu/publications/land-lines-magazine/articles/understanding-property-tax-revolts-an-explainer/",
+  "title": "Understanding Property Tax Revolts: An Explainer (Jon Gorey, Land Lines, Lincoln Institute of Land Policy, 21 Oct 2026)",
+  "what_was_fetched": [
+   "FULL article fetched (curl, browser user-agent, HTTP 200) -> gorey.html (raw) and gorey-land-lines-property-tax-revolts.txt (plain text, ~2,770 words; byline 'By Jon Gorey, October 21, 2026'; 'Jon Gorey is a staff writer at the Lincoln Institute of Land Policy'). Figures/charts are images with source captions only; chart data not extracted.",
+   "Documents the article links to, saved for verification: gorey-src-taxfoundation-property-tax-repeal-replace.txt (Walczak, Tax Foundation, property-tax repeal/replace), gorey-src-taxfoundation-florida-property-tax-proposal.txt, gorey-src-floridapolicy-amendment-3-voter-guide.txt and gorey-src-floridapolicy-risky-proposition.txt (Florida Policy Institute; advocacy/think-tank, Tier 2), gorey-src-ballotpedia-nc-levy-limit.txt (NC amendment text), gorey-src-wyoming-sos-ballot-propositions.pdf/.txt (Wyoming SoS official ballot language).",
+   "NOT fetched: the Lincoln Institute Walczak Ohio working paper (already a wiki page: research/lincoln-ohio-property-tax-alternatives); FRED series pages; Census historical table; the Governing and Springer links; the Lincoln Institute 'Significant Features of the Property Tax' state pages. Note: the article attributes the '$42 billion' Florida lost-revenue figure and the 7.02-to-15.34 percent sales-tax figure to Tax Foundation's Jared Walczak; the 15.34 figure was found in the saved Tax Foundation pages, but the '$42 billion' figure was NOT found in any saved source."
+  ],
+  "verdict": "ENRICH events/proposition-13.md (primary). Insert a new H2 '## The 2026 Revolt Wave' immediately after the sentence ending 'Proposition 19 (2020), which broadened those transfers while narrowing the inherited-property exclusion.' (last sentence of '## Legacy and Spread') and before '## See Also'. Content (4-6 sentences, Lincoln Institute attributed, Tier 1): the article ties the current wave to fast-rising home values, as in the 1970s-80s revolt (Prop 13 and Prop 2 1/2 named); lists the Nov 2026 measures it names (Florida Amendment 3; North Carolina levy-limit amendment; Wyoming Initiative 1) and notes the Ohio abolition amendment did not make the ballot; and reports its judgment that assessment limits are 'one of the most problematic' tools (Prop 13 and Florida examples). Secondary enrichments: (a) research/cabral-hoxby-hated-property-tax.md '## See Also' add a bullet to the Gorey explainer (its 'highly visible' / 'silent tax increase' passages are the salience mechanism in practitioner-institutional form; do not claim it cites Cabral-Hoxby, it does not); (b) research/lincoln-ohio-property-tax-alternatives.md and places/wyoming.md '## See Also': one bullet each pointing to the explainer; (c) add the Gorey article as a Sources entry on proposition-13.md. NEW events/2026-property-tax-revolt-wave.md is NOT recommended now: the article names only three live measures, Wyoming already has its own page (places/wyoming.md, with SoS-sourced detail), Ohio failed to qualify (page exists), and Florida Amendment 3 and the NC amendment would each need primary verification (Florida EDR impact conference, Ballotpedia/legislature text) beyond what the explainer provides; there would be thin content and no clear 2 inbound links beyond the pages above. Revisit as a NEW page (with outcomes) after the 3 Nov 2026 vote, drawing on Ballotpedia's 13-measures-in-7-states roster already cited at places/wyoming.md.",
+  "claim_grade": "B-claim (synthesized institutional explainer, Tier 1: Lincoln Institute of Land Policy is tier1_confirmed in sources/audit/people-tiers.json; Jon Gorey is staff writer, so cite as 'Lincoln Institute (Land Lines)' not as personal authority). Embedded figures are secondary reports of named sources (Tax Foundation/Walczak, FRED, Census, Ballotpedia); where a figure matters, cite the originating source. Opinions attributed to Adam Langley (Lincoln Institute associate director of tax policy) and Adam Chapdelaine (former Arlington MA town manager) are D-claims/expert opinion and should be attributed by name.",
+  "content_summary": [
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "28.4 percent",
+    "text": "In 2024 property taxes were 'an average of 28.4 percent of local funding nationally'; more than half of local revenue in NH, CT, NJ and ME, under 15 percent in AR, AL and NV.",
+    "locator": "para 3"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "from Florida to Wyoming",
+    "text": "Fall 2026 ballot initiatives 'from Florida to Wyoming' would cut local revenue; major reforms already passed since 2023 in 'more than a dozen states, including Georgia, Texas, Wyoming, and Iowa' (those four are NOT named as Nov 2026 measures).",
+    "locator": "para 4"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "Proposition 13 and Massachusetts",
+    "text": "Earlier 1970s-80s revolt included 'California's Proposition 13 and Massachusetts' Proposition 2 1/2'; the article gives no 1978 date or other years.",
+    "locator": "'The New Property Tax Revolt'"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "skyrocketed more than 50 percent",
+    "text": "Home prices 'have skyrocketed more than 50 percent since January 2020'; 'property taxes nationwide have increased only slightly more than overall inflation since 2020'; homeowners 'often think they do' rise with values.",
+    "locator": "'The New Property Tax Revolt'"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "silent tax increase",
+    "text": "If a locality leaves its rate unchanged as values rise 'the result is a silent tax increase'.",
+    "locator": "'The New Property Tax Revolt'"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "Amendment 3 would increase the exemption",
+    "text": "Florida Amendment 3: non-school homestead exemption to $250,000 by 2028; assessment cap on non-homestead from 10 to 5 percent; restricts spending of property-tax revenue; tasks legislature with raising exemption to full assessed value.",
+    "locator": "'Proposed Property Tax Changes' para 1-2"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "42 billion",
+    "text": "Tax Foundation's Jared Walczak: replacing 'more than $42 billion' (full Florida elimination) would require average state-local sales tax from 7.02 to 15.34 percent.",
+    "locator": "same section"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "fell short of making the ballot",
+    "text": "Ohio abolition amendment 'fell short of making the ballot this November'; Walczak working paper: sales tax 5.75 to 13.36 percent or income tax 2.75 to 8.24 percent to replace $21 billion.",
+    "locator": "same section"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "limiting the amount by which the levy",
+    "text": "North Carolina amendment requires legislature to 'enact general laws limiting the amount by which the levy of taxes on property may increase'; article notes it 'includes no specifics'.",
+    "locator": "same section"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "Wyoming’s Initiative 1",
+    "text": "Wyoming Initiative 1 would exempt half of a homestead's assessed value statewide; outgoing Republican governor warned of an 'immediate and devastating effect'.",
+    "locator": "same section"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "one of the most problematic",
+    "text": "Assessment limits are 'one of the most problematic' tools; LA example: $5,212 vs $11,172 on two $947,000 homes; Prop 13 cap 'lesser of 2 percent or the rate of inflation'; Florida homestead cap lesser of 3 percent or inflation since 1995.",
+    "locator": "'The Distortionary Effect of Assessment Limits'"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "$20,000 to $40,000",
+    "text": "Adam Langley (Lincoln Institute): absent state funding, statewide homestead exemptions of '$20,000 to $40,000' are about right; Florida's is unique in mandating a high exemption with no state reimbursement.",
+    "locator": "'More Effective Ways'"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "truth in taxation",
+    "text": "Recommended alternatives: circuit breakers (more than a dozen states), deferrals, homestead exemptions (30+ states), truth-in-taxation laws (20 states).",
+    "locator": "'More Effective Ways'"
+   },
+   {
+    "file": "gorey-land-lines-property-tax-revolts.txt",
+    "grep": "supply of land can’t be increased",
+    "text": "On land: 'the supply of land can't be increased or reduced in response to a tax'; the property tax 'at least the part levied on unimproved land, doesn't distort behavior'; a combined land-and-buildings tax is still more efficient than sales or income tax. This is the article's ONLY land-tax content: it never uses 'land value tax' or 'split-rate' (grep returns zero).",
+    "locator": "'Property Tax Basics'"
+   }
+  ],
+  "existing_wiki_coverage": "Searched digest.md and repo. events/proposition-13.md covers 1978 Prop 13 mechanics, lock-in, Prop 2 1/2 in one sentence (Legacy and Spread) and ends with a See Also line pointing to places/wyoming; it has no section on the 2026 wave. places/wyoming.md already carries the Wyoming Initiative 1 details (50% exemption, SoS fiscal note $92.6m FY2028) and cites Ballotpedia for 13 measures in 7 states (FL, GA, LA, NC, OK, TN, WY). research/lincoln-ohio-property-tax-alternatives.md already carries Walczak's Ohio replacement-rate figures (8.24% income, 13.36% sales). research/cabral-hoxby-hated-property-tax.md covers salience. events/2026-state-lvt-enablement-wave.md mentions the Ohio abolition measure only via Blessing's SJR 7 quote. No page covers Florida Amendment 3 or the NC levy-limit amendment. Zero hits for 'Gorey', 'Land Lines revolt', 'Amendment 3' outside places/wyoming. Not already in the wiki: Florida Amendment 3 provisions, NC amendment, the LA/Miami assessment-limit disparity illustrations, the national 28.4% local-reliance figure.",
+  "uncertainties": [
+   "The assignment text suggested the article names Michigan, North Dakota, Texas and Georgia ballot measures: it does not. Georgia, Texas, Wyoming and Iowa appear only as states that already enacted reforms since 2023; Michigan and North Dakota do not appear at all. The three live measures it names are Florida Amendment 3, a North Carolina levy-limit amendment and Wyoming Initiative 1; Ohio's failed to qualify.",
+   "The article does not date Prop 13 (1978) or Prop 2 1/2 (1980) and does not discuss 'assessment lag' or 'rate-vs-levy confusion' by name; salience is implicit ('highly visible') and the rate-vs-levy point appears as the 'silent tax increase' passage. Grep 'land value' and 'split' return zero hits: nothing on LVT or split-rate as a response, only the efficiency remark on unimproved land.",
+   "Byline mismatch: the page shows 'By Jon Gorey' but the Yoast JSON-LD metadata lists author 'Katharine Wroth' (grep 'Katharine Wroth' in gorey.html). Cite the visible byline plus institution.",
+   "The '$42 billion' figure is attributed to Walczak/Tax Foundation but is not in the linked Tax Foundation pages that were saved; T1 should hedge or omit the figure. The 7.02 to 15.34 percent figure is in the saved Tax Foundation text (grep '15.34').",
+   "Florida facts beyond the article (EDR scores ~ $12 billion recurring local revenue loss; court-ordered ballot-language rewrite) come from Florida Policy Institute (advocacy/think-tank, Tier 2) in the saved voter guide; use only as origin, not as support.",
+   "Chart data and the Case-Shiller/FRED series behind the 50-percent figure were not independently retrieved."
+  ]
+ },
+ {
+  "url": "https://cavalrycre.com/cavalry-testimony-on-dc-proposed-revenue-stabilization-and-land-value-assessment-amendment-act/",
+  "title": "Cavalry Real Estate Advisors written testimony (Ross Litkenhous, with DCBIA) opposing B26-0777, DC Council Committee of the Whole hearing, 16 Oct 2026",
+  "what_was_fetched": [
+   "Cavalry post (curl, browser UA, 200): cavalry-litkenhous-testimony.txt (page, 19 Oct 2026) and the 7-page signed written testimony PDF: cavalry-litkenhous-written-testimony-pdf.txt (+ cav-testimony.pdf). The testimony states it is 'Submitted in Partnership with the District of Columbia Building Industry Association'. Cavalry's earlier 8 Sep 2026 post: cavalry-sept-2026-split-rate-solution-in-search-of-problem.txt.",
+   "Primaries from DC LIMS (https://lims.dccouncil.gov/api is a JS app/needs token; the bill page was fetched via r.jina.ai): dc-lims-B26-0777-bill-page.txt (legislative history), dc-lims-b26-0777-introduction.txt (Statement of Introduction and full bill text; b26-0777-introduction.pdf), dc-lims-b26-0777-hearing-notice.txt (Committee of the Whole notice; PDF), dc-lims-b26-0777-memorandum.txt (referral memo; PDF has 0 pages in pdftotext, text partially recovered).",
+   "DC Policy Center 2019 piece behind the '36%' figure: dcpc-land-value-tax.txt ('Land Value Tax: Can it Work in the District?', D.C. Policy Center, published 2019-10-21 per page metadata) -- the publication is at dcpolicycenter.org/publications/land-value-tax/. Also DC Policy Center's 2026 hearing testimony: dcpc-fy28-revenue-proposals.txt (Yesim Sayin, ED).",
+   "OCFO (Glen Lee) written testimony of 16 Oct 2026: cfo-lee-testimony-revenue-proposals-2026-10-16.txt (+cfo-testimony.pdf) and cfo-dc-hearing-release.txt. The written text contains no mention of land value or Bill 26-777 (grep 'land' returns nothing).",
+   "Coverage saved: coverage-afslaw-dc-council-holds-hearing.txt (ArentFox Schiff law-firm alert, 20 Oct 2026), coverage-washingtondcmagazine-friday-debating.txt (Substack), coverage-wjla-dc-new-taxes-wealthy.txt (7News, 16 Oct), coverage-wjla-dc-council-considers-new-taxes.txt (7News, 23 Sep), coverage-nadeau-office-council-considers.txt (Councilmember Nadeau's press release, 16 Oct), coverage-dcline-2026-10-19-mendelson-reflects-on-tax-hearing.txt (DC Line, 19 Oct; only a lede is visible, no LVT content), coverage-bgov-dc-lawmakers-debate.txt (paywalled stub), coverage-popville-350203.txt and coverage-dcnewsnow-preview.txt (pre-hearing).",
+   "NOT fetched / could not be reached: the LIMS hearing-management record (witness list, agenda, video, other witnesses' testimony PDFs; lims.dccouncil.gov/hearings is a JS app and the PublicData API returns 401 'Valid Access Token required'); any LIMS committee report or fiscal impact statement (none listed on the bill page); Washington Post, Washington Business Journal and Greater Greater Washington coverage of the hearing (ggwash.org returned 403; searches found none); testimony of NTUF, GGWash, the real-estate appraiser or the academic witnesses named in the ArentFox alert; the Lincoln Institute 'assessing theory/practice of land value taxation' PDF the testimony cites in its footnote; OCFO's September 2026 revenue estimate (the source for Cavalry's 'down about 5 percent')."
+  ],
+  "verdict": "ENRICH events/2026-dc-land-value-assessment-bill.md with a new H2 '## The 16 October 2026 Hearing', inserted immediately after the last sentence of '## The Congressional Veto Threat' (ending '...within Congress's veto reach.') and before '## Relation to the Georgist Case'. Suggested structure (T1 to write): (1) Hearing facts as A-claims from LIMS and the Council notice: Committee of the Whole public hearing on 'Revenue Proposals for the Fiscal Year 2028 Budget', Friday 16 Oct 2026, 10:00 a.m., Room 412, Wilson Building; seven proposals incl. 'Transitioning to a land value tax (Bill 26-777)'; invited witnesses only, written testimony open to all, record to close 5:00 p.m. 30 Oct 2026; the notice says it is not a referendum. (2) Supporters and skeptics as reported by ArentFox (secondary): GGWash and academic experts for; the CFO, an appraiser and NTUF skeptical. (3) DC Policy Center's testimony (Sayin) as the most data-rich skeptical statement, flagged as a think-tank view. (4) Cavalry/DCBIA testimony attributed as opponent testimony (Tier 2, commercial real-estate advisory firm and trade body): zoning constraints, valuation, triple-net pass-through, development-deterrence, existing Class 3/4 tools. (5) One sentence noting the bill remains in committee with no committee report listed. Also required fixes elsewhere on the same page: Overview says it was 'referred to the Committee of the Whole' in July: LIMS shows introduction 14 Jul, Secretary's referral memo 16 Jul, 'Referred to Committee of the Whole' 22 Sep, hearing notice filed 1 Sep; the 'Nuances and Limits - Early-stage' bullet ('referred to committee in July 2026; records introduction') needs updating; bill text sets both quarterly payments and the land component for 'the tax year beginning July 1, 2028'. Source 3 note 'not independently fetched this session' should be replaced by a LIMS citation (the bill text/Statement of Introduction is now primary). Cross-links to add on the hearing section: objections/land-cannot-be-assessed, objections/lvt-needs-zoning-reform-first, places/pittsburgh, concepts/speculative-vacancy (already linked). The hearing was multi-proposal; do not call it a B26-0777 hearing.",
+  "claim_grade": "Hearing facts and bill text: A-claim, Tier 1 (Council of the District of Columbia LIMS, official notice). Cavalry testimony: D/E-claim (objection), Tier 2 (Ross Litkenhous is a practitioner-author, Cavalry is a commercial real-estate tax advisory firm that earns fees from assessment appeals, testimony 'in partnership with' the DC Building Industry Association; not in people-tiers.json, judged by the EDITORIAL 4c rubric) -- origin/opponent only, never support. Sayin / DC Policy Center: think-tank staff, Tier 2 by rubric (T1 may decide), B-claim for its sales-count data, attributed. ArentFox Schiff alert: law-firm marketing, Tier 2, usable only to report who testified. OCFO and Council press release: official but Nadeau's release is the bill sponsor's own account (A for what she said, not for effects). DC Policy Center 2019: B-claim, empirical zoning-capacity analysis by a think tank; use with attribution.",
+  "content_summary": [
+   {
+    "file": "dc-lims-B26-0777-bill-page.txt",
+    "grep": "Jul 14, 2026",
+    "text": "LIMS history: Introduced by Councilmember Nadeau 14 Jul 2026; Notice of Intent to Act published 24 Jul; Notice of Public Hearing filed 1 Sep; 'Referred to Committee of the Whole' 22 Sep; 'Public Hearing on B26-0777' 16 Oct 2026. Committee of the Whole referral only; no committee report listed.",
+    "locator": "Legislative History"
+   },
+   {
+    "file": "dc-lims-B26-0777-bill-page.txt",
+    "grep": "Sep 22, 2026",
+    "text": "Referral to Committee of the Whole dated 22 Sep 2026 on LIMS (the Secretary's memo is dated 16 Jul: grep 'July 16, 2026' in dc-lims-b26-0777-memorandum.txt).",
+    "locator": "Legislative History"
+   },
+   {
+    "file": "dc-lims-b26-0777-hearing-notice.txt",
+    "grep": "Friday, October 16, 2026 at 10:00 a.m.",
+    "text": "Hearing: 10:00 a.m., Friday 16 Oct 2026, Room 412 (Track B), John A. Wilson Building; 'Revenue Proposals for the Fiscal Year 2028 Budget'.",
+    "locator": "p1"
+   },
+   {
+    "file": "dc-lims-b26-0777-hearing-notice.txt",
+    "grep": "Transitioning to a land value tax (Bill 26-777)",
+    "text": "The seven proposals include 'Transitioning to a land value tax (Bill 26-777)', a new business activity tax, a wealth proceeds tax (Bill 26-749), pied-a-terre, sales, real property and income tax proposals.",
+    "locator": "bullet list"
+   },
+   {
+    "file": "dc-lims-b26-0777-hearing-notice.txt",
+    "grep": "limited to invited witnesses",
+    "text": "'This hearing is limited to invited witnesses and agency representatives; however, anyone may submit written testimony.' Record closes 5:00 p.m. Friday 30 Oct 2026 (grep 'October 30, 2026').",
+    "locator": "p3"
+   },
+   {
+    "file": "dc-lims-b26-0777-hearing-notice.txt",
+    "grep": "not intended to be a referendum",
+    "text": "'This hearing is not intended to be a referendum to gauge popular support.'",
+    "locator": "p3"
+   },
+   {
+    "file": "dc-lims-b26-0777-introduction.txt",
+    "grep": "July 1,",
+    "text": "Bill text: for tax year beginning July 1, 2028, land component 'shall reflect the estimated market value of the land as if vacant and available for its highest and best use'; quarterly installments from same year (grep 'quarterly in four equal installments'); ratio studies to include 'a separate land value component'; effective after 30-day congressional review.",
+    "locator": "Sec. 2(a)-(c), Sec. 4"
+   },
+   {
+    "file": "dc-lims-b26-0777-introduction.txt",
+    "grep": "without changing rates",
+    "text": "Nadeau's Statement of Introduction: changes would 'improve the long-term fiscal health of the District without changing rates or increasing taxes'; cites 1997, 2014 and 2024 Tax Revision Commissions (grep 'This aligns with proceedings') and Maryland and Virginia having authorized local LVT.",
+    "locator": "Statement of Introduction"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "respectfully oppose the land value assessment provisions",
+    "text": "Litkenhous: 'I respectfully oppose the land value assessment provisions of Bill 26-777 and any transition to a citywide land value tax or split-rate property tax.' Recommends striking the provisions, considering quarterly billing separately, improving Class 3/4 tools, and requiring a parcel-level study.",
+    "locator": "p1-2"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "36 percent of nearly",
+    "text": "Zoning: DC Policy Center 2019 'found that only about 36 percent of nearly 118,000 examined tax lots potentially had room for growth under existing zoning'; '71 percent of the District's more than 93,000 single-family lots faced a high zoning barrier'. Testimony adds 'Those figures are generous'.",
+    "locator": "'Zoning Constraints'"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "is not an incentive",
+    "text": "'Where development cannot proceed, the tax is not an incentive. It is a penalty for owning land in Washington.' (line-wrapped in the PDF text: grep 'is not an incentive')",
+    "locator": "'Zoning Constraints'"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "does not naturally separate the",
+    "text": "Valuation: OTR uses the income approach for most income-producing property, a methodology that 'does not naturally separate the contribution of land from the contribution of improvements'; too few clean vacant-land comparables.",
+    "locator": "'Valuation Concerns' (spans pp3-4; grep 'for most income-producing property' for the line before)"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "returned to a single-rate system in 2001",
+    "text": "Pittsburgh 'returned to a single-rate system in 2001 ... after a countywide reassessment sharply increased land values and triggered public opposition' (cites Lincoln Institute PDF).",
+    "locator": "'Valuation Concerns' + fn1"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "triple-net commercial lease",
+    "text": "Triple-net leases pass property tax to tenants; a highest-and-best-use land assessment 'can tax the unrealized redevelopment potential' beneath small businesses.",
+    "locator": "'Small Business Impacts'"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "down about 5 percent",
+    "text": "'September 2026 estimate from the Office of the Chief Financial Officer ... total real property tax liability is down about 5 percent', driven by declining commercial/office values (source not independently fetched).",
+    "locator": "'Development Deterrence'"
+   },
+   {
+    "file": "cavalry-litkenhous-written-testimony-pdf.txt",
+    "grep": "D.C. Law 26-41",
+    "text": "Existing tools: Class 3 vacant and Class 4 blighted rates, 'recently refined ... through D.C. Law 26-41 with a newly graduated tax rate schedule' (not independently checked).",
+    "locator": "'Target Actual Vacancy'"
+   },
+   {
+    "file": "dcpc-land-value-tax.txt",
+    "grep": "only about 36 percent potentially could have room for growth",
+    "text": "DC Policy Center 2019 primary: 'Of the nearly 118,000 tax lots for which we could make a determination, only about 36 percent potentially could have room for growth under current zoning laws'; nearly 60 percent of ~7,600 commercial buildings and about 60 percent of 16,376 multifamily buildings potentially have room; 93,835 single-family lots, 71 percent high barrier.",
+    "locator": "'How much room'"
+   },
+   {
+    "file": "dcpc-land-value-tax.txt",
+    "grep": "could be a worthwhile reform",
+    "text": "DC Policy Center's own 2019 conclusion: 'Still, a land value tax could be a worthwhile reform' (introduction) -- the testimony cites the 36 percent figure but not this conclusion or the ~60 percent commercial/multifamily room figures.",
+    "locator": "introduction"
+   },
+   {
+    "file": "dcpc-fy28-revenue-proposals.txt",
+    "grep": "Only 22 of them sold",
+    "text": "Sayin (DC Policy Center) testimony: of 4,110 lots of 25,000 sq ft or more, 315 privately owned, vacant and potentially buildable; 'Only 22 of them sold in the last two years'; OTR values about 21,100 properties on income.",
+    "locator": "'Land Value Tax and Bill 26-0777'"
+   },
+   {
+    "file": "dcpc-fy28-revenue-proposals.txt",
+    "grep": "intellectual merit",
+    "text": "Sayin: taxing land more heavily 'has intellectual merit' but she is 'not convinced that the District can produce land assessments reliable enough to administer a fair tax system, especially for income-producing properties'; recommends narrowing to low-density residential areas and excluding income-producing commercial and multifamily property.",
+    "locator": "same"
+   },
+   {
+    "file": "dcpc-fy28-revenue-proposals.txt",
+    "grep": "failure of the assessment system, not of the idea",
+    "text": "Sayin on Pittsburgh: it 'used a split-rate tax for nearly 90 years before abandoning it in 2001 ... That was a failure of the assessment system, not of the idea.' 12 active split-rate jurisdictions, mostly small Pennsylvania cities.",
+    "locator": "same"
+   },
+   {
+    "file": "dcpc-fy28-revenue-proposals.txt",
+    "grep": "The law already requires separate land and building values",
+    "text": "Sayin: 'The law already requires separate land and building values' (D.C. Code section 47-821), but OTR has focused on the total value -- a qualification to the wiki page's framing of what the bill adds.",
+    "locator": "same"
+   },
+   {
+    "file": "coverage-afslaw-dc-council-holds-hearing.txt",
+    "grep": "Skeptics, including the CFO",
+    "text": "ArentFox Schiff (secondary): supporters GGWash and 'several academic experts' citing Detroit; skeptics 'the CFO, a real estate appraiser, and the National Taxpayers Union Foundation'; CFO said LVT 'would require an entirely new assessment methodology' (grep 'entirely new assessment methodology'). Not found in the CFO's written testimony.",
+    "locator": "'Land Value Tax'"
+   },
+   {
+    "file": "coverage-afslaw-dc-council-holds-hearing.txt",
+    "grep": "more than 20 invite-only public witnesses",
+    "text": "Hearing featured CFO testimony 'and more than 20 invite-only public witnesses'; shortfall roughly $700 million; Mendelson said the proposals are for the FY2028 budget.",
+    "locator": "para 2-3"
+   }
+  ],
+  "existing_wiki_coverage": "Read events/2026-dc-land-value-assessment-bill.md in full. It covers the 14 Jul 2026 introduction, bill purpose, fiscal context, Class 1-4 rates (Class 3 $5.00, Class 4 $10.00), the D.C. Taxing Authority Review Act veto threat, Detroit comparison. It contains NO coverage of the 16 Oct hearing: grep hearing/testimony/Litkenhous/Cavalry/Sayin/October returns nothing relevant. Its Sources 1-3 are press and a tracker; the LIMS bill is cited but 'not independently fetched this session' (a source-annotation that violates EDITORIAL 4b and should be replaced by the LIMS citation). Page links to split-rate-taxation, detroit-lvt-proposal, speculative-vacancy. Inbound links: concepts/split-rate-taxation.md and events/detroit-lvt-proposal.md. The DC Policy Center 2019 paper appears in the wiki only as a one-sentence mention in the DC event page (burden shift to higher-amenity areas) and in three research pages (fuest-peichl-siegloch-incidence, capozza-green-hendershott-residential-land, sources/doucet-acx-dereferencing); the 36 percent / 71 percent zoning-capacity figures are not on any page. Corpus digest has no entry for Cavalry, Litkenhous, Sayin or the hearing. objections/land-cannot-be-assessed, objections/lvt-needs-zoning-reform-first and places/pittsburgh exist and are natural cross-link targets but do not mention the DC hearing.",
+  "uncertainties": [
+   "Official hearing record (witness list, transcript/video, other testimony PDFs, any committee report or fiscal impact statement) could not be reached; the hearing section can state the notice and bill facts firsthand but witness lists rest on secondary coverage (ArentFox, Washington DC Magazine Substack, 7News, Nadeau press release). Washington Post, WBJ and GGWash coverage were not located.",
+   "The hearing was a seven-proposal revenue hearing, not a hearing dedicated to B26-0777. The Cavalry page and testimony header call it a 'Public Hearing on Revenue Proposals for the Fiscal Year 2028 Budget' on 'Bill 26-777'; the bill is written 26-0777 in LIMS and in the wiki.",
+   "Cavalry's characterisation of the DC Policy Center is selective: it uses the 36 percent all-lots figure, which is dominated by 93,835 single-family lots, but the same DCPC piece reports roughly 60 percent of commercial and multifamily buildings potentially having room and concludes an LVT 'could be a worthwhile reform' while 'will do little to increase the housing supply' where supply is short. 'Those figures are generous' is the testifier's own judgment. T1 should state the DCPC figures from DCPC, not from the testimony.",
+   "The CFO's remark that a land value tax would need a new OTR assessment methodology is reported only by ArentFox Schiff; the CFO's written testimony does not contain it (likely oral Q&A). Attribute to the law firm's summary or omit.",
+   "Cavalry's claims 'OCFO September 2026 estimate: liability down about 5 percent' and 'D.C. Law 26-41' graduated vacant-property schedule were not verified against primaries.",
+   "Cavalry earns fees from property tax assessment appeals (testimony states ~two decades representing taxpayers in appeals): a conflict of interest that is stated in the testimony itself; the wiki should describe the firm as a commercial real-estate tax advisory firm, not as neutral experts.",
+   "LIMS 'Referred to Committee of the Whole' 22 Sep vs Secretary's memo 16 Jul (to the Chairman referring to COW): the exact referral date on the wiki page should follow LIMS and say 'introduced 14 July; referred (per LIMS 22 September)' or avoid the issue.",
+   "Cavalry's Sept post says it 'posted arguments against ... back in September'; the Cavalry post date listed on the page is 19 Oct 2026, the hearing 16 Oct."
+  ]
+ }
+]

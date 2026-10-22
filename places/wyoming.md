@@ -4,7 +4,7 @@ category: places
 tags: [places, wyoming, property-tax, ballot-initiative, tax-revolt, united-states]
 stub: false
 excerpt: "Wyoming has spent four years narrowing its residential property tax through exemptions and a 2024 constitutional split; in 2026 its legislature stepped back from full repeal even as a 50% homeowner exemption goes to voters in November."
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-22
 ---
 
 ## Overview
@@ -41,6 +41,7 @@ The Secretary of State's official fiscal note estimates the exemption would redu
 - [Montana](/wiki/montana/) — a neighboring state that in the same period restructured its residential property tax classification rather than repealing it
 - [Objection: Homevoters will never allow it](/wiki/homevoters-will-block-lvt/) — the political-economy pattern of homeowner-driven resistance to and reversal of property taxation
 - [Land Value Tax](/wiki/land-value-tax/) — the policy Wyoming's 2026 debate moves away from, not toward
+- [Proposition 13](/wiki/proposition-13/) — the 2026 revolt-wave section places Initiative 1 beside Florida's and North Carolina's measures
 
 ## Sources
 

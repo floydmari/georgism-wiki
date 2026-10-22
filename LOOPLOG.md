@@ -5817,3 +5817,26 @@ link in. Vancouver's official election count was not yet declared at pass time.
 
 Lint 0 errors; inventory 1036 pages, 0 orphans. Ledger: 0 pending, 473 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-22 — the DC hearing record, and the Lincoln Institute on the 2026 tax revolt
+
+Two scanner items, both enrichments written by T1 from primaries. A commercial
+property-tax advisory firm's testimony against DC's land-value assessment bill led to the
+Council's own record: the 16 October hearing was a seven-proposal revenue hearing, invited
+witnesses only, with the notice disclaiming any gauge of support, and the bill's effective
+tax year is the one beginning 1 July 2028. The DC bill page gains a hearing section that
+puts the DC Policy Center's testimony first (land taxation "has intellectual merit"; only
+22 large buildable vacant lots sold in two years; existing law already requires separate
+land values; Pittsburgh's failure was the assessment system, not the idea) and carries the
+firm's arguments as opponent origin, with its zoning figure restated from the Policy
+Center's 2019 paper, which also reports roughly 60 percent of commercial and multifamily
+buildings with room to grow and calls a land value tax a worthwhile reform. Three stale
+statements on the page were corrected, including a process note in the Sources that §4b
+forbids. The Lincoln Institute's explainer on property-tax revolts names only three live
+November measures (Florida, North Carolina, Wyoming; Ohio failed to qualify) and nothing on
+land value taxation, so it sits as a new section on the Proposition 13 page rather than a
+page of its own; a BACKLOG lead says to revisit after the 3 November vote. The scanner's
+descriptions overstated both items.
+
+Lint 0 errors; inventory 1036 pages, 0 orphans. Ledger: 0 pending, 475 consumed. Merged to
+main and Ghost-synced.

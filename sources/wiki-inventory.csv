@@ -7,7 +7,7 @@ slug,title,category,url,inbound_links,outbound_links,words,stub,orphan,last_revi
 1974-uk-property-crash,1973–74 UK Property Crash and Secondary Banking Crisis,events,https://www.progress.org/wiki/1974-uk-property-crash/,1,6,841,false,false,2026-07-12
 2008-financial-crisis,The 2008 Financial Crisis,events,https://www.progress.org/wiki/2008-financial-crisis/,27,10,1801,false,false,2026-07-05
 2024-india-mineral-royalty-tax-ruling,Mineral Area Development Authority v. Steel Authority of India (2024) and the 2026 MMDR Amendment,events,https://www.progress.org/wiki/2024-india-mineral-royalty-tax-ruling/,2,4,1471,false,false,2026-08-14
-2026-dc-land-value-assessment-bill,Washington DC's Land Value Assessment Bill (2026) and the Congressional Veto Threat,events,https://www.progress.org/wiki/2026-dc-land-value-assessment-bill/,2,3,1200,false,false,
+2026-dc-land-value-assessment-bill,Washington DC's Land Value Assessment Bill (2026) and the Congressional Veto Threat,events,https://www.progress.org/wiki/2026-dc-land-value-assessment-bill/,2,3,2126,false,false,2026-10-22
 2026-nyc-interborough-express-value-capture,"Could a Land Value Tax Fund the Interborough Express? (NYC, 2026)",events,https://www.progress.org/wiki/2026-nyc-interborough-express-value-capture/,3,7,886,false,false,2026-08-16
 2026-state-lvt-enablement-wave,"The 2026 State Land Value Tax Enablement Wave (New York, Virginia, Kentucky)",events,https://www.progress.org/wiki/2026-state-lvt-enablement-wave/,8,9,2272,false,false,2026-08-10
 a-perplexed-philosopher,A Perplexed Philosopher,research,https://www.progress.org/wiki/a-perplexed-philosopher/,8,6,220,false,false,
@@ -124,7 +124,7 @@ buettner-german-land-tax-capitalization,'Buettner (2003): Tiebout Visits Germany
 building-the-wiki,How This Wiki Was Built,guides,https://www.progress.org/wiki/building-the-wiki/,2,5,1773,false,false,2026-07-15
 bulloch-gaertner-hoopes-commercial-property-tax-microlocation,"Do Commercial Property Taxes Affect Business Microlocation Decisions? (Bulloch, Gaertner & Hoopes, 2026)",research,https://www.progress.org/wiki/bulloch-gaertner-hoopes-commercial-property-tax-microlocation/,5,8,1106,false,false,2026-10-09
 buterin-on-radical-markets,'Vitalik Buterin: On Radical Markets',research,https://www.progress.org/wiki/buterin-on-radical-markets/,5,2,479,false,false,
-cabral-hoxby-hated-property-tax,Cabral & Hoxby (2012): The Hated Property Tax,research,https://www.progress.org/wiki/cabral-hoxby-hated-property-tax/,3,4,466,false,false,2026-07-12
+cabral-hoxby-hated-property-tax,Cabral & Hoxby (2012): The Hated Property Tax,research,https://www.progress.org/wiki/cabral-hoxby-hated-property-tax/,3,4,499,false,false,2026-10-22
 california,California,places,https://www.progress.org/wiki/california/,3,8,2160,false,false,2026-09-25
 california-irrigation-districts,California Irrigation Districts and the Wright Act (1887),research,https://www.progress.org/wiki/california-irrigation-districts/,5,10,1246,false,false,2026-07-18
 california-single-tax-campaigns,California Single-Tax Campaigns (1916-1930s),events,https://www.progress.org/wiki/california-single-tax-campaigns/,2,6,469,true,false,2026-07-11
@@ -590,7 +590,7 @@ lincoln-detroit-land-value-increments,"Measuring Land Value Increments from Publ
 lincoln-institute,Lincoln Institute of Land Policy,organizations,https://www.progress.org/wiki/lincoln-institute/,20,12,830,false,false,2026-07-18
 lincoln-institute-latam-property-tax-book,Sistemas del impuesto predial en América Latina y el Caribe (2nd Edition),research,https://www.progress.org/wiki/lincoln-institute-latam-property-tax-book/,3,4,683,false,false,2026-08-14
 lincoln-institute-past-forward-property-tax-history,Past Forward: Tracing the Property Tax Through Time and Place,research,https://www.progress.org/wiki/lincoln-institute-past-forward-property-tax-history/,4,7,717,false,false,2026-09-24
-lincoln-ohio-property-tax-alternatives,"Replacing the Irreplaceable: Analyzing Revenue Alternatives for Ohio Property Taxes (Walczak, 2026)",research,https://www.progress.org/wiki/lincoln-ohio-property-tax-alternatives/,2,4,645,false,false,2026-08-30
+lincoln-ohio-property-tax-alternatives,"Replacing the Irreplaceable: Analyzing Revenue Alternatives for Ohio Property Taxes (Walczak, 2026)",research,https://www.progress.org/wiki/lincoln-ohio-property-tax-alternatives/,2,5,667,false,false,2026-10-22
 lincoln-sao-paulo-market-power-housing,"Market Power in Housing Markets: Evidence from a Tax on Construction Density (Alvarez & Biderman, 2026)",research,https://www.progress.org/wiki/lincoln-sao-paulo-market-power-housing/,3,6,646,false,false,2026-08-30
 lincoln-synchronous-tdr-credits,"Synchronous TDR Credits (Turkienicz, 2026)",research,https://www.progress.org/wiki/lincoln-synchronous-tdr-credits/,2,4,572,false,false,2026-08-30
 liu-shanghai-chongqing-property-tax-pilots,"Reconstruction of Local Tax System and Improvement of Urban Housing Affordability: Shanghai and Chongqing's Real Estate Tax Pilots (Liu, 2026)",research,https://www.progress.org/wiki/liu-shanghai-chongqing-property-tax-pilots/,5,7,918,false,false,2026-09-29
@@ -789,7 +789,7 @@ progressive-era-georgism,Georgism Ran the Progressive Era,narratives,https://www
 property-owning-democracy,Property-Owning Democracy,concepts,https://www.progress.org/wiki/property-owning-democracy/,2,3,383,false,false,2026-07-12
 property-sharemarket-economics,Property Sharemarket Economics,organizations,https://www.progress.org/wiki/property-sharemarket-economics/,2,8,330,true,false,2026-07-11
 property-tax-raises-welfare-developing,Higher property-tax rates raise welfare in developing countries,benefits,https://www.progress.org/wiki/property-tax-raises-welfare-developing/,13,11,1016,false,false,2026-07-13
-proposition-13,Proposition 13,events,https://www.progress.org/wiki/proposition-13/,13,12,2326,false,false,2026-09-06
+proposition-13,Proposition 13,events,https://www.progress.org/wiki/proposition-13/,14,12,2692,false,false,2026-10-22
 prosper-australia,Prosper Australia,organizations,https://www.progress.org/wiki/prosper-australia/,17,10,614,false,false,
 prosper-speculative-vacancies,'Speculative Vacancies 11: Empty Homes in Melbourne',research,https://www.progress.org/wiki/prosper-speculative-vacancies/,6,6,546,false,false,2026-07-10
 protection-or-free-trade,Protection or Free Trade,research,https://www.progress.org/wiki/protection-or-free-trade/,2,4,226,false,false,
@@ -991,8 +991,8 @@ vague-brief-history-of-doom,'Vague (2019): A Brief History of Doom',research,htt
 valencia-land-grab-law,"Valencia \""Land Grab\"" Law (LRAU, 1994)",events,https://www.progress.org/wiki/valencia-land-grab-law/,3,6,848,false,false,2026-07-12
 valorization-tax,Valorization Tax (Contribución de Valorización),concepts,https://www.progress.org/wiki/valorization-tax/,2,4,547,false,false,2026-07-11
 valuing-common-assets-vermont,Valuing Common Assets for Public Finance in Vermont,research,https://www.progress.org/wiki/valuing-common-assets-vermont/,8,19,2113,false,false,2026-07-10
-vancouver,Vancouver,places,https://www.progress.org/wiki/vancouver/,13,11,3437,false,false,2026-10-19
-vancouver-empty-homes-tax,Vancouver's Empty Homes Tax,research,https://www.progress.org/wiki/vancouver-empty-homes-tax/,5,8,2060,false,false,2026-10-19
+vancouver,Vancouver,places,https://www.progress.org/wiki/vancouver/,13,11,3464,false,false,2026-10-19
+vancouver-empty-homes-tax,Vancouver's Empty Homes Tax,research,https://www.progress.org/wiki/vancouver-empty-homes-tax/,5,8,2063,false,false,2026-10-19
 vickrey-counterspeculation-auctions,"'Vickrey (1961): Counterspeculation, Auctions, and Competitive Sealed Tenders'",research,https://www.progress.org/wiki/vickrey-counterspeculation-auctions/,1,4,456,false,false,2026-07-14
 victoria-svr-nav-comparison,'Victoria''s Site-Value vs Net-Annual-Value Rating: A 1966–78 Natural Experiment',research,https://www.progress.org/wiki/victoria-svr-nav-comparison/,5,6,632,false,false,2026-07-26
 virtual-land,Virtual Land and Metaverse Real Estate,concepts,https://www.progress.org/wiki/virtual-land/,2,5,498,true,false,2026-07-12
@@ -1024,7 +1024,7 @@ world-bank-changing-wealth,'The Changing Wealth of Nations 2021: Managing Assets
 world-bank-property-tax-determinants,'Determinants of Property Tax Revenue: Lessons from Empirical Analysis',research,https://www.progress.org/wiki/world-bank-property-tax-determinants/,11,4,185,false,false,
 worldbank-exploring-ubi,"'Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence,",research,https://www.progress.org/wiki/worldbank-exploring-ubi/,4,5,1407,false,false,2026-08-10
 wyatt-critical-view-lvt,'Wyatt (1994): A Critical View of Land Value Taxation as a Progressive Strategy',research,https://www.progress.org/wiki/wyatt-critical-view-lvt/,2,6,530,false,false,2026-07-12
-wyoming,Wyoming,places,https://www.progress.org/wiki/wyoming/,4,5,1453,false,false,2026-09-22
+wyoming,Wyoming,places,https://www.progress.org/wiki/wyoming/,4,5,1470,false,false,2026-10-22
 xu-china-land-finance-active-mode,"China's Land Finance as Active Mode of Land Development and Infrastructure Delivery (Xu, 2025)",research,https://www.progress.org/wiki/xu-china-land-finance-active-mode/,5,7,826,false,false,2026-08-26
 xu-huang-li-china-hcrs-george,"'Xu, Huang & Li (2026): Did Henry George Inspire China''s Economic Miracle?'",research,https://www.progress.org/wiki/xu-huang-li-china-hcrs-george/,8,9,1251,false,false,2026-08-10
 yang-split-rate-spillover-employment,The Spillover Effects of Land Value Taxation: How Can It Affect Your Neighbors' Job Growth?,research,https://www.progress.org/wiki/yang-split-rate-spillover-employment/,4,8,1760,false,false,2026-08-14

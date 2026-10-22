@@ -9,7 +9,7 @@ tier: Important
 source_url: https://www.nber.org/papers/w18514
 stub: false
 excerpt: "NBER working paper arguing the property tax's high visibility to payers — its salience — explains why it is the least popular US tax, and that areas where escrow hides the tax better tolerate higher rates and see fewer tax revolts."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-10-22
 bears_on_objections: [homevoters-will-block-lvt]
 ---
 
@@ -24,6 +24,7 @@ To test this, Cabral and Hoxby exploit variation in **tax escrow** — the commo
 - [Proposition 13](/wiki/proposition-13/) — the canonical US property-tax revolt this paper's salience mechanism helps explain
 - [Tax Capitalization](/wiki/tax-capitalization/) — the related mechanism by which property/land tax changes are absorbed into asset prices
 - [Land Value Tax](/wiki/land-value-tax/) — the Georgist proposal that must reckon with property-tax unpopularity when built on the existing property-tax administrative apparatus
+- [Proposition 13](/wiki/proposition-13/) — its 2026 section carries the Lincoln Institute's explainer on the current revolt wave, whose "highly visible" tax and "silent tax increase" passages state the salience mechanism in practitioner form
 - [Rethinking the Economics of Land and Housing](/wiki/rethinking-economics-land-housing/) — surveys the same political-salience problem for LVT reform (Ch. 7, §7.3)
 
 ## Sources

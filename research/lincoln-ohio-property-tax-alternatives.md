@@ -3,8 +3,8 @@ authors:
 - Jared Walczak
 bears_on_objections: []
 category: research
-excerpt: "Quantifies what a live 2026 Ohio ballot proposal to eliminate property tax entirely would require in replacement revenue: an 8.24% flat state income tax (10.29% combined with local) or a 13.36% state sales tax (14.53% combined) — with 'substantial divergence' in who bears the burden. Notably, the paper does not model a land value tax as an alternative at all."
-last_reviewed: 2026-08-30
+excerpt: "Quantifies what a 2026 Ohio proposal to eliminate property tax would require in replacement revenue: an 8.24% flat state income tax or a 13.36% state sales tax, with substantial divergence in who bears the burden. The paper does not model a land value tax as an alternative."
+last_reviewed: 2026-10-22
 source_url: https://www.lincolninst.edu/publication/working-papers/replacing-irreplaceable-analyzing-revenue-alternatives-ohio-property-taxes/
 stub: false
 subcategory: wiki-research-lvt
@@ -84,6 +84,7 @@ into a paper that never tested one.
 - [NDSPN: Cincinnati LVT Analysis](/wiki/ndspn-cincinnati-lvt-analysis/)
 - [Canons of Taxation](/wiki/canons-of-taxation/)
 - [Land Value Tax](/wiki/land-value-tax/)
+- [Proposition 13](/wiki/proposition-13/) — the 2026 revolt-wave section records that the Ohio abolition amendment did not qualify for the November 2026 ballot
 
 ## Sources
 
