@@ -1609,6 +1609,89 @@
       "action": "updated",
       "published_at": "2026-10-21T11:29:21.000Z",
       "notified": false
+    },
+    {
+      "slug": "2026-dc-land-value-assessment-bill",
+      "title": "Washington DC's Land Value Assessment Bill (2026) and the Congressional Veto Threat",
+      "url": "https://www.progress.org/wiki/2026-dc-land-value-assessment-bill/",
+      "category": "events",
+      "tags": [
+        "events",
+        "campaigns",
+        "washington-dc",
+        "split-rate",
+        "modern",
+        "usa",
+        "congress"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-22T11:22:29.000Z",
+      "notified": false
+    },
+    {
+      "slug": "proposition-13",
+      "title": "Proposition 13",
+      "url": "https://www.progress.org/wiki/proposition-13/",
+      "category": "events",
+      "tags": [
+        "property-tax-revolt",
+        "california",
+        "tax-cap",
+        "acquisition-value",
+        "lock-in"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-22T11:22:31.000Z",
+      "notified": false
+    },
+    {
+      "slug": "cabral-hoxby-hated-property-tax",
+      "title": "Cabral & Hoxby (2012): The Hated Property Tax",
+      "url": "https://www.progress.org/wiki/cabral-hoxby-hated-property-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "salience",
+        "tax-politics",
+        "proposition-13"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-22T11:22:33.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lincoln-ohio-property-tax-alternatives",
+      "title": "Replacing the Irreplaceable: Analyzing Revenue Alternatives for Ohio Property Taxes (Walczak, 2026)",
+      "url": "https://www.progress.org/wiki/lincoln-ohio-property-tax-alternatives/",
+      "category": "research",
+      "tags": [
+        "research",
+        "ohio",
+        "property-tax",
+        "tax-reform",
+        "fiscal-policy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-22T11:22:35.000Z",
+      "notified": false
+    },
+    {
+      "slug": "wyoming",
+      "title": "Wyoming",
+      "url": "https://www.progress.org/wiki/wyoming/",
+      "category": "places",
+      "tags": [
+        "places",
+        "wyoming",
+        "property-tax",
+        "ballot-initiative",
+        "tax-revolt",
+        "united-states"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-22T11:22:38.000Z",
+      "notified": false
     }
   ]
 }
