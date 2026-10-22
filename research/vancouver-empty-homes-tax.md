@@ -71,7 +71,7 @@ it before it took effect: on 10 May 2023, following a staff report and Ernst & Y
 advice, Council voted **7–3 to keep the rate at 3%** for 2023 and created a new
 exemption for unsold newly built homes — refunding roughly **$3.8 million** already
 levied on developers. **The EHT rate has therefore never exceeded 3%, and 5% was
-never levied.**[1][2][3] The Coalition of Progressive Electors, which won four of ten council seats on preliminary results in the October 2026 election, campaigned on reversing the cut, enforcing the tax and phasing its rate up to 9%; that is a party proposal, not an adopted rate.[7]
+never levied.**[1][2][3] The Coalition of Progressive Electors, which won four of ten council seats in the October 2026 election as reported from the preliminary count, campaigned on reversing the cut, enforcing the tax and phasing its rate up to 9%; that is a party proposal, not an adopted rate.[7]
 
 ## Outcomes
 
