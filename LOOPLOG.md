@@ -5840,3 +5840,24 @@ descriptions overstated both items.
 
 Lint 0 errors; inventory 1036 pages, 0 orphans. Ledger: 0 pending, 475 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-23 — Wellington proposes to rate on land value; an Israeli paper stays behind Cloudflare
+
+Two scanner items. Wellington City Council's Rating Policies Review consultation, read from
+the consultation document, the June and October committee papers, minutes and councillor
+Q&A, gets an events page: the committee resolved 16 to 2 in June to consult on moving the
+general rate from capital value to land value, the four-week consultation opened on
+19 October, the Council's reason is that land value rating "may encourage land to be
+developed and used more efficiently", and it says it cannot model the development response
+for want of comparable cases. The page carries the Council's seven hypothetical rating
+units, which sit only in an image on page 14 and were verified by rendering the page, its
+60/80 percent distributional slide as a tabled presentation rather than a study, and the
+national series that 65 percent of councils now rate on capital value. The New Zealand page
+gains a paragraph in its Current Debate section. Dai and Felsenstein's Papers in Regional
+Science article on property-tax redistribution and housing supply is open access but
+Cloudflare-blocked on every route; abstract only, without magnitudes, country or tax base,
+so it is deferred with a source-blocked lead, and the scanner's pairing with the New Zealand
+rating-base evidence is noted as unsupported.
+
+Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 477 consumed. Merged to
+main and Ghost-synced.
