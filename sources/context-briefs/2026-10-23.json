@@ -1,0 +1,205 @@
+[
+ {
+  "url": "https://doi.org/10.1016/j.pirs.2026.100138",
+  "title": "Short and long-run effects of inter-governmental redistribution of property tax on housing supply (Dai & Felsenstein, Papers in Regional Science 105(2): 100138, April 2026)",
+  "what_was_fetched": "FULL TEXT NOT REACHED; abstract and bibliographic metadata only. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/crossref.json (Crossref record: licence list incl. CC BY 4.0 'vor' from 2026-01-30, funders, 52-entry reference list; no abstract field); /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/openalex.json (OpenAlex record: gold OA, CC BY-NC-ND label, oa_url is just the DOI, any_repository_has_fulltext=false); /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/abstract_openalex.txt (abstract reconstructed from the OpenAlex inverted index; the only abstract source); /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/unpaywall.json (Unpaywall via wiki@progress.org: is_oa true, only OA location is the publisher DOI, no repository PDF); /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/crossref_references.txt (the 52 cited works, extracted from crossref.json); /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/elsevier_api_coredata_only_no_fulltext.xml (Elsevier text-mining endpoint returned only the 1.9 KB coredata record: PII S1056-8190(26)00004-7, openaccessArticle true, user licence CC BY 4.0; the body requires an API key). Access attempts that failed: ScienceDirect article page (PII S1056819026000047) via curl browser UA, Googlebot UA, and r.jina.ai twice (Cloudflare 'Just a moment' / 403; one jina call 401 bad IP reputation); /pdfft 403; WebFetch 403; Semantic Scholar API returned abstract=null and the same DOI as openAccessPdf; Hebrew University CRIS portal (cris.iucc.ac.il) search 403; core.ac.uk, SSRN, EuropePMC 403; Wayback has no snapshot; RePEc/IDEAS search found nothing; web search surfaced no author-hosted or repository copy. The queue item's own pii in sources is not needed; the correct PII is S1056819026000047 (an earlier guess S1056819026000090 was wrong and discarded).",
+  "verdict": "DEFER (with BACKLOG lead). Reason: abstract-only; the abstract carries no magnitudes (no coefficients, no percentages, no counterfactual numbers), does not name the country, the reform, the year or the tax base, and does not mention land value taxation. Nothing quotable beyond qualitative direction of effect, and EDITORIAL §3c/§2 B-claims need magnitudes or at least a read of the method. Suggested BACKLOG line: 'Dai & Felsenstein 2026 (PIRS 105(2):100138, doi 10.1016/j.pirs.2026.100138), CC BY 4.0 gold OA at ScienceDirect pii S1056819026000047; retrieve full text from a browser-capable environment (or the Elsevier XML endpoint with a key) and extract: reform, year, PSM-DID estimates for residential vs non-residential starts, cointegration results, counterfactual transfer simulation; then consider NEW research/dai-felsenstein-property-tax-redistribution-housing-supply.md (cross-link concepts/tiebout-model, research/zodrow-three-views, research/hamilton-benefit-tax, research/lyytikainen-finland-three-rate, benefits/split-rate-increases-construction) and an ENRICH of concepts/tiebout-model.md or a fiscal-competition passage.' If a later pass reaches the text and it is substantive on fiscal zoning, NEW research page is the right form (no existing page homes it); ENRICH alone would be wrong because no page covers inter-governmental property-tax equalisation or the residential/non-residential construction split.",
+  "claim_grade": "B (empirical) if the full text is read; for now the only supportable statement is the authors' own abstract, i.e. B-claim at abstract depth. Source tier: Tier 1 (peer-reviewed article, Papers in Regional Science, Elsevier; Felsenstein is an established regional-economics academic with a peer-reviewed body of work). Relevance to the wiki's rent-capture scope is peripheral: the abstract speaks of 'property tax rates', not land value.",
+  "content_summary": [
+   {
+    "point": "Short-run design: a property tax policy reform used as an exogenous shock, identified with propensity score matching difference-in-differences.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/abstract_openalex.txt",
+    "grep": "propensity score matching DID",
+    "locator": "abstract, sentence 2"
+   },
+   {
+    "point": "Short-run finding (direction only): the reform changes local governments' behaviour, 'internalizing fiscal competition between them and encouraging them to promote residential construction in order to increase revenues'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/abstract_openalex.txt",
+    "grep": "internalizing fiscal competition",
+    "locator": "abstract, sentence 3"
+   },
+   {
+    "point": "Long-run design: test for a dynamic spatial equilibrium using cointegration analysis on spatial panel data.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/abstract_openalex.txt",
+    "grep": "cointegration analysis on spatial panel data",
+    "locator": "abstract, sentences 4-5"
+   },
+   {
+    "point": "Long-run finding: residential and commercial construction starts are cointegrated with different variables; residential with property tax rates, resident income and population; non-residential with a local authority's fiscal status and employment.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/abstract_openalex.txt",
+    "grep": "Non-residential construction is cointegrated with a local authority",
+    "locator": "abstract, sentences 6-8"
+   },
+   {
+    "point": "Counterfactual: simulated transfers from fiscally-independent cities to fiscally-weak and peripherally-located municipalities 'promotes housing starts in peripheral localities and discourages non-residential building starts' (no magnitude given).",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/abstract_openalex.txt",
+    "grep": "discourages non-residential building starts",
+    "locator": "abstract, last two sentences"
+   },
+   {
+    "point": "Metadata: authors Xieer Dai (Shenzhen University per OpenAlex) and Daniel Felsenstein; published 2026-02-11 online, April 2026 issue; funders Guangdong Basic and Applied Basic Research Foundation (2023A1515010029) and Tel Aviv University; 52 references.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/crossref.json",
+    "grep": "Tel Aviv University",
+    "locator": "funder array; also 'reference-count\":52'"
+   },
+   {
+    "point": "Country/tax-base inference (NOT stated in the abstract): the reference list is dominated by Israeli sources, e.g. 'Property taxation in Israel: a non ad valorem approach' (Portnov 2001, Land Use Policy), 'Lack of Uniformity in the Israeli Property Tax System 1997-2017' (Perez 2020), 'The effects of intergovernmental transfers on municipalities' budgets' (Dahan 2022, Isr. Econ. Rev.), Mintz 2023 on property taxes collected by local authorities in Israel, Bank of Israel Annual Report 2013. This strongly suggests the study is of Israeli municipal property tax (arnona) and an Israeli equalisation reform, and that arnona is area-based (non ad valorem), hence not a land value tax; but the paper's own statement of base, reform name and year could not be read.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/crossref_references.txt",
+    "grep": "non ad valorem",
+    "locator": "reference list, Portnov (2001); also grep 'Israeli Property Tax' and 'Bank of Israel'"
+   },
+   {
+    "point": "Reference list also cites the fiscalization-of-land-use literature and the wiki's own research: Lewis 'Retail politics: local sales taxes and the fiscalization of land use' (Econ. Dev. Q.), Lyytikainen 2009 three-rate property taxation, Mieszkowski 1989 on Tiebout and head/land/property taxes, Tiebout 1956, Henkel 2021 'Fiscal transfers in the spatial economy', England 2013.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/dai/crossref_references.txt",
+    "grep": "fiscalization of land use",
+    "locator": "reference list"
+   }
+  ],
+  "existing_wiki_coverage": "Repo-wide grep (EDITORIAL-relevant terms) for Felsenstein, Xieer Dai, arnona, 'non-residential bias', 'fiscalization of land use', 'fiscalisation': zero hits for Felsenstein/Dai/arnona/non-residential bias/fiscalization; no places/israel.md exists (ls places has no Israel page). 'fiscal zoning' appears only in research/zodrow-three-views.md (lines ~40, 48, 58), research/hamilton-benefit-tax.md (line ~33) and concepts/tiebout-model.md (line ~26; Hamilton's fiscal-zoning extension of Tiebout) as Hamilton/Fischel theory; none treats inter-governmental equalisation transfers or residential vs non-residential construction. research/hebous-ruf-ace.md is about corporate ACE and does not mention Felsenstein or Israeli municipal tax. research/lyytikainen-finland-three-rate.md exists and is a natural cross-link. Corpus digest has no 'arnona'/'Israel' page other than objections/nationalization-solves-the-land-problem (tag israel, unrelated). Concept home for a future page: concepts/tiebout-model (inbound link), research/zodrow-three-views, benefits/split-rate-increases-construction.",
+  "uncertainties": [
+   "Whether the reform studied is Israeli, which reform, which year, and whether it concerns the arnona equalisation/'fund for reducing gaps' cannot be confirmed from anything saved except by inference from the reference list; do not state any of this on a wiki page until the text is read.",
+   "No magnitudes anywhere; 'promotes'/'discourages' are the authors' qualitative summary.",
+   "The paper may not discuss land value at all; arnona (per the reference title 'non ad valorem') is levied on floor area/use, not value, so even if processed it supports a fiscal-competition/Tiebout/fiscal-zoning page, not an LVT-evidence page. The queue's 'complements the Gemmell-Grimes-Skidmore NZ LV-vs-CV material' framing is not supported by the abstract.",
+   "Full text appears open (CC BY 4.0 vor per Crossref; Elsevier coredata says openaccessArticle true); the block is Cloudflare, not a paywall, so a retry from another network or via a browser-capable fetcher should succeed. Crossref's TDM link works only with an Elsevier API key.",
+   "Licence labels differ between sources (Crossref vor: CC BY 4.0; OpenAlex/Unpaywall: cc-by-nc-nd). T1 should treat the Elsevier user-licence line (CC BY 4.0) as authoritative only after viewing the article page."
+  ]
+ },
+ {
+  "url": "https://www.letstalk.wellington.govt.nz/rating-policies-review",
+  "title": "Wellington City Council, Rating Policies Review (consultation 19 October - 15 November 2026): proposal to consider a change of the general rating base from capital value to land value",
+  "what_was_fetched": "All primary documents reached; saved in /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/ : hub_letstalk.html and hub_letstalk_flat.txt (Let's Talk hub: five proposals, timeline, FAQ, document list); consultation_document.pdf/.txt (22+ page adopted Consultation Document, 'APPROVED | October 2026', v1 06/10/2026, approver Te Taurapa Council Planning and Finance Committee; download_file/5273); consultation_document_p14_image_transcription.txt (hand transcription of the worked-example figures that exist only as a picture on p.14; NOT greppable in the PDF text, T1 must view the page image); summary_document.pdf/.txt, faq.pdf/.txt, submission_form.pdf/.txt (hub documents); cv_lv_tool_page.txt and tool.html (digital.wellington.govt.nz/services/cv-lv-rates-consultation: tool landing page only; the address-lookup results are dynamic and were not run); minutes_planning_finance_2026-10-01.pdf/.txt (hub download_file/5272: minutes of Te Taurapa | Council Planning and Finance Committee, 1 Oct 2026, item 2.2 adopting the consultation document); agenda_2026-10-01.pdf/.txt (agenda 1 Oct 2026, item 2.2 report 'Rating Policy Review Consultation Document', incl. Attachment 1 draft and Attachment 2 engagement plan) and qa_2026-10-01.pdf/.txt (councillor Q&A for that meeting, 40 questions); supp_agenda_2026-06-25.pdf/.txt (supplementary agenda 25 June 2026, item A.1 'Proposed rating policy changes for Consultation to inform the 2027-37 LTP': the report named in the queue item; the decision report with options, modelling and reasons), agenda_2026-06-25.pdf/.txt (main agenda; only useful for the Revenue & Financing Policy extract stating general rates are set under section 13), minutes_2026-06-25.pdf/.txt (minutes incl. the resolution with '[preferred]' and the tabled Calvert presentation containing the QV/Infometrics slides, 65% (51 of 78) CV figure and ~60%/~80% distributional bullets), qa_2026-06-25.pdf/.txt (Q&A for that meeting; saved, not mined); news_release_2026-10-01_rates-review.txt and news_release_2026-10-20_rating-policy-review.txt (wellington.govt.nz news releases, 'Our Wellington'; the queue's 'news announcement' variant). Meeting records were located through the meetings.wellington.govt.nz calendar JSON (meeting ids 613 for 1 Oct; the 25 June CPF meeting) and downloaded from wellington.govt.nz/-/media/...; that site is client-rendered so there is no static report page. NOT fetched: the Local Government (Rating) Act 2002 s.13 text (legislation.govt.nz returned an AWS WAF challenge to curl, Googlebot UA and r.jina.ai); the Infometrics 'Wellington City Rates Affordability' deck (7 Apr 2026) and BERL report as standalone files (slides embedded in the 25 June minutes were read); the survey instrument; Thames-Coromandel and Central Otago rating-base decisions (tcdc.govt.nz returned Akamai 'Access Denied', jina 401; only a web-search snippet exists, nothing saved); the live LV/CV comparison results for any address.",
+  "verdict": "ENRICH places/new-zealand.md AND NEW events/2026-wellington-rating-policies-review.md (recommend the 2026- prefix, matching events/2026-dc-land-value-assessment-bill.md and events/2026-state-lvt-enablement-wave.md, rather than the queue's 'wellington-rating-review-2026'). ENRICH insertion point: places/new-zealand.md, section '## Current Debate', immediately after the first paragraph, i.e. after the sentence ending 'No legislative change of rating base has followed, and the Commission itself was disestablished in 2024.' and before the paragraph that begins '**A 2026 national land tax proposal.**'. Add one new bold-led paragraph ('**Wellington City Council's 2026 rating review.**', 120-180 words) that states: Wellington (a CV-rating city since the late 1990s) is consulting 19 Oct-15 Nov 2026 on whether to move its general rate to land value; Te Taurapa committee voted 16:2 on 25 June 2026 to consult on that as the preferred option; no decision made; further consultation March/April 2027 in the 2027-37 LTP; earliest effect 1 July 2027; modelling shows apartments/utilities better off, underdeveloped sites worse off; link to the event page. Also add the event page to ## See Also, and to Sources. Tension to reconcile on the existing page: the page says 29% of councils used LV by 2019 (71% CV); Wellington's 2026 documents say 65% (51 of 78) use CV, 58% ten years ago, 50% twenty years ago, and Q&A says 'approximately 35%' use LV. The denominators/years differ; do not splice the series without a note, or attribute each to its source. NEW event page is warranted: a substantive 5-proposal consultation document, formal committee resolutions with recorded votes, a dated timeline with a December decision point, and Council-modelled distributional effects; the first move by a major NZ council toward LV after the multi-decade CV drift documented on places/new-zealand.md. Inbound links available (>=2 required): places/new-zealand (Current Debate paragraph + See Also), concepts/split-rate-taxation, concepts/land-value-tax, concepts/speculative-vacancy and concepts/land-banking (vacant/derelict differential), research/gemmell-grimes-skidmore-nz (See Also), events/2026-state-lvt-enablement-wave (peer 2026 event). Keep the page strictly descriptive of a live consultation: outcome unknown; state 'as at 23 Oct 2026'. Frame carefully (EDITORIAL §4b, no process narration): do NOT write 'the Council has decided to adopt land value rating' and do NOT call land value rating a 'land value tax' without noting it is a local general rate on land value with differentials, applied to Wellington's rating units (including commercial land at a differential), and that the consultation also proposes REDUCING the commercial multiple and keeps targeted rates on capital value. Common Ground Aotearoa (a public participant and proponent) is an advocacy body: Tier 2, origin/proponent only; it appears in the minutes' conflict-of-interest note, which is a Council record, so it can be mentioned with status stated or omitted.",
+  "claim_grade": "A for what the Council proposes, resolved, timetabled and says it is considering (Tier 1: official body acting on its own proposals; documents are the Council's own adopted/published records). B for the Council's modelled distributional effects (Tier 1 source for its own modelling, but illustrative, unreviewed so far - the Council says 'Key modelling will be subject to appropriate peer review' - and based on a hypothetical street and an assumed fixed residential:commercial split). The Council's statements of the arguments for/against land value rating are attributed to 'advocates' and to the 2015 Productivity Commission and the 2007 Shand Report; treat as C/D (argument) unless taken from the Commission directly; the Council itself says it cannot model development effects (grade the causal claim 'LV rating encourages development' as unsupported by this source).",
+  "content_summary": [
+   {
+    "point": "Proposal 1 (the LV question): 'We want your feedback on whether to change our rating policy to be set on a land value-based rating system for the general rate.' Currently capital value, 'in place since the late 1990s'. Under LV, 'The value of houses, apartments, commercial buildings and other improvements would not be included.'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "whether to change our rating policy to be set on a land value",
+    "locator": "p.10, Key proposal 1"
+   },
+   {
+    "point": "Council's stated reason: 'The reason for considering land-value rating is that it may encourage land to be developed and used more efficiently.' Also 'Property owners do not pay higher general rates simply because they build new homes'; advocates argue LV 'can discourage land banking and under-utilisation'; cites the Productivity Commission (2015) and says 'There is also evidence that land value rating is a better proxy for income than capital value.'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "The reason for considering land-value rating is that it may encourage land",
+    "locator": "p.11; also grep 'better proxy for income than capital value'"
+   },
+   {
+    "point": "Arguments against stated by Council: higher-capital-value properties 'place greater demands on Council services' and CV may indicate ability to pay; Shand Report (2007) 'noted the increasing pressure on councils to move to capital value rating'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "The Shand Report (2007)",
+    "locator": "p.11"
+   },
+   {
+    "point": "What other councils do: 'In 2026, 65 percent of councils use capital value for their general rates'; 58% ten years ago; 50% twenty years ago; neighbours Porirua, Hutt City, Upper Hutt use CV; 'The trend in New Zealand has been for councils using land value to move to a capital value rating base.'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "In 2026, 65 percent of councils use capital value",
+    "locator": "p.12; QV slide 'How do NZ Councils levy rates?' in minutes_2026-06-25.txt grep '65% (51 of 78 )'"
+   },
+   {
+    "point": "Councils on LV named by officers: Nelson City, Napier City, New Plymouth District, Hastings District, Tararua District; Palmerston North part-LV. Auckland, Christchurch, Hamilton, Tauranga, Dunedin all CV. Recent switches towards CV listed in the tabled slides as HCC, PNCC, TCDC.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/qa_2026-10-01.txt",
+    "grep": "Examples of Councils rate that set general rates on LV include Nelson City",
+    "locator": "Q&A 1 Oct 2026, Q13-14; slide: minutes_2026-06-25.txt grep 'Trend more recently was switching towards CV'"
+   },
+   {
+    "point": "Modelled effects (qualitative, Council): 'properties with high land values but relatively little development could pay a greater share'; intensively developed sites 'could pay a smaller share'; outdoor car parks pay more; 'utilities could pay considerably less'. Total revenue unchanged.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "utilities could pay considerably less",
+    "locator": "p.12 'High-level impacts'"
+   },
+   {
+    "point": "Worked examples for 2026/27 (CV vs LV, GST incl., 51:49 split held, commercial differential 5.8x): 39-unit apartment $37,958 -> $35,095; single residential $4,309 -> $3,626; duplex $4,446 -> $5,437; hillside house $3,351 -> $3,714; mixed-use 5 units $16,752 -> $16,430; industrial/commercial 1 unit $33,487 -> $82,748; CBD mixed use 27 units $73,041 -> $56,767. Figures are in an image on p.14 only.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document_p14_image_transcription.txt",
+    "grep": "Industrial/Commercial 1 Unit",
+    "locator": "consultation_document.pdf p.14 (image); officers' prose reading of the same example is greppable at supp_agenda_2026-06-25.txt 'a highly developed apartment building of 39 units will see a reduction'"
+   },
+   {
+    "point": "Officers' distributional reading: 'a land value system will be beneficial for owners of highly developed properties and/or owners of relatively cheaper land'; the 39-unit apartment sees a reduction, the mixed-use building stays about the same, the duplex pays more; 'the biggest beneficiaries from a land value system would be the utility providers'; the less-developed industrial/commercial unit increases 'substantially'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/supp_agenda_2026-06-25.txt",
+    "grep": "As is evident, a land value system will be beneficial for owners of highly developed",
+    "locator": "report A.1 para 38, p.9 of the supplementary agenda (item A.1 p.8-9)"
+   },
+   {
+    "point": "Tabled slide (Calvert, 25 June 2026, Council modelling): switch to LV for general rate - residential '~60% would be better off, paid for by other 40%'; main beneficiaries 'Inner City Apartments and outer suburbs'; city-fringe residential 'mixed, and would likely pay a bit more'; commercial '~20% would be better off (or neutral), while ~80% would be worse off (mainly driven by utilities benefitting)'. 'We will bring updated modelling next workshop.'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/minutes_2026-06-25.txt",
+    "grep": "~60% would be better off, paid for by other 40%",
+    "locator": "tabled presentation slide 'Efficient use of land'; also grep '~20% would be better off (or neutral)'"
+   },
+   {
+    "point": "Commercial differential interaction: to keep the 51:49 split under LV the commercial differential 'would need to be 5.8 times the base rate' (June report: 5.75x); the LV modelling 'does not assume any changes to the commercial share'; combined LV + 3.0 modelling is promised only for a later stage (57:43 split).",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "would need to be 5.8 times",
+    "locator": "p.14; Q&A 2 and 38: qa_2026-10-01.txt grep 'approximately 5.8' and 'maintaining the 57:43'"
+   },
+   {
+    "point": "Proposal 2 (commercial differential): current 3.7:1; commercial pays 49% of the rates pie; proposal to reduce 'from 3.7:1 to 3.0:1' over six years (status quo and 3.4, 3.25, 2.8 also options). For a $1.5m property: commercial $18,280 -> $16,704 (down 8.6%); residential $4,460 -> $4,861 (up 9%). General-rates split 48/52 -> 43.5/56.5. Council notes 'it remains uncertain whether a reduction in commercial rates will be passed on by commercial landlords to businesses'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "Pays $18,280 in",
+    "locator": "pp.15-18, Table 1; text at 'per year (down 8.6 percent)'"
+   },
+   {
+    "point": "Proposal 3 (vacant land): the inner-city vacant land/derelict buildings differential, introduced in the 2024-34 LTP, means 'Properties in this category pay 5.0 times the base general rate'. Proposed: extend the area to undeveloped property along Adelaide Road, 'including areas around the Basin Reserve and up to Wellington Regional Hospital', and clarify wording. Officers describe the extension as a possible 'limited alternative to a land value rating system' if CV is kept.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "Properties in this category pay 5.0 times the base general rate",
+    "locator": "p.19-20; officers' remark: supp_agenda_2026-06-25.txt grep 'serve as a limited alternative'"
+   },
+   {
+    "point": "Other proposals: new Tiaki Wai (regional water entity) general-rate differential initially equal to the commercial one; simpler earthquake-prone-building and special-circumstances remissions. Not recommended: changes to the Downtown targeted rate; new targeted rates (except as an LV transition tool).",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/consultation_document.txt",
+    "grep": "Tiaki Wai general rate",
+    "locator": "pp.21-25"
+   },
+   {
+    "point": "Cost and limits of evidence: implementation 'estimated at between $600,000 to $2 million', paid through rates, additional to budget (not in the 4% rates-cap budget). Council 'cannot model any increased development, reduced land banking, or increased housing supply' from the switch 'due to a lack of other Councils of similar size undertaking such a transition recently'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/qa_2026-10-01.txt",
+    "grep": "Council cannot model any increased development, reduced land",
+    "locator": "Q&A 22 (1 Oct 2026); cost: consultation_document.txt grep '$600,000 to $2 million'"
+   },
+   {
+    "point": "Risk flagged by officers (June report): 'it may not be the right time for Wellington City Council to diverge from neighbouring councils' given possible amalgamation; also a case for 'rating stability'; the Q&A says staying on CV 'would be a feasible option'. The 25 June report limited the base question to general rates 'as targeted rates have a strong link to consumption which arguably is better proxied by capital value'. A phased transition via an interim LV targeted rate was floated ('gradually increase the share of rates charged on land values').",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/supp_agenda_2026-06-25.txt",
+    "grep": "it may not be the right time for Wellington City",
+    "locator": "report A.1 paras 41-47; also grep 'We limited our' and 'gradually increase the share of rates charged on land values'"
+   },
+   {
+    "point": "Decision record, committee and date: Te Taurapa | Council Planning and Finance Committee (chair Cr Diane Calvert; Mayor Andrew Little a member), 25 June 2026, item A.1: clause 2.2 'Option 2 [preferred]: Consult on changing the rating base for general rates to Land Value (LV) from Capital Value (CV) in time for the 2027-37 Long-Term Plan', carried 16:2 (against: Crs Calvert, Tiefenbacher); commercial option 4 (3.0:1) also marked [preferred]. 1 Oct 2026, item 2.2: consultation document adopted 13:3 (against: Crs Chung, Tiefenbacher, Young), with amendments adding the Productivity Commission paragraph and 'Retaining the status quo, or other differentials are also viable options'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/minutes_2026-06-25.txt",
+    "grep": "Option 2 [preferred]: Consult on changing the rating base for general rates to",
+    "locator": "minutes 25 June 2026 p.6, with 'Majority Vote:     16:2'; 1 Oct: minutes_planning_finance_2026-10-01.txt grep 'Adopt the Consultation Document' and 'Majority Vote:    13:3'"
+   },
+   {
+    "point": "Timeline: consultation 19 Oct-15 Nov 2026 (four weeks); oral hearings November; analysis mid-Nov to early Dec; 'Decision for Inclusion in 2027-37 Long-term Plan: December (Committee/Council meeting)'; committee will vote 'whether all, some, or none of the five proposals' go forward; formal LTP consultation March and April 2027 (resolution) / April 2027 (news release); 2027-37 LTP 'adopted in June 2027'; implemented from the financial year starting 1 July 2027 'only if the Council adopts them following that process'; Q&A: LV would 'officially be implemented from 1 July 2027 if agreed', with a phased transition to be advised. The Council's calendar lists CPF meetings on 12 Nov, 24 Nov and 10 Dec 2026; which one takes the December decision is not stated.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/hub_letstalk_flat.txt",
+    "grep": "Decision for Inclusion in 2027-37 Long-term Plan December",
+    "locator": "hub Timeline; news_release_2026-10-01_rates-review.txt grep 'vote whether all, some, or none of the five proposals'; consultation_document.txt grep '1 July 2027 only if the Council adopts'; supp_agenda_2026-06-25.txt grep 'is adopted in June 2027'; qa_2026-10-01.txt grep 'officially be implemented from 1 July 2027'"
+   },
+   {
+    "point": "Legal basis: the Council's Revenue & Financing extract states 'General rates are set under section 13 of the Act on all rateable rating units' and currently set on capital value; the 1 Oct report says the review 'must be undertaken in accordance with the LGA and the Local Government (Rating) Act 2002', and funding decisions go through LGA s.101(3). The statutory text of s.13 itself (choice of valuation system) was not fetched.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/agenda_2026-06-25.txt",
+    "grep": "General rates are set under section 13",
+    "locator": "Rating policy extract (Wellington General rates table); agenda_2026-10-01.txt grep 'Local Government (Rating) Act 2002 (LGRA)'; consultation_document.txt grep 'sections 101(3)(a) and (b)'"
+   },
+   {
+    "point": "Official status language to preserve: 'No decisions have been made yet' / 'No final decisions have been made' / 'The Council may decide to proceed with all, some, or none of the proposals'; FAQ: 'No decision has yet been made to change the rating basis.' Triennium Plan priority: 'Investigate ways to improve the residential rating system and encourage housing development, including by considering options for a development levy and Land Value Rating'.",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-23/wcc/news_release_2026-10-20_rating-policy-review.txt",
+    "grep": "No decisions about the proposals have been made yet",
+    "locator": "release 20 Oct 2026; hub FAQ: hub_letstalk_flat.txt grep 'No decision has yet been made to change the rating basis'; Triennium: supp_agenda_2026-06-25.txt grep 'development levy and Land Value'"
+   }
+  ],
+  "existing_wiki_coverage": "Repo-wide grep for 'wellington city', 'letstalk.wellington', 'rating policies review', 'rating base': no Wellington-review content anywhere; the corpus digest has no Wellington page (digest grep 'wellington'/'capital value': only concepts/site-value, places/jamaica-land-value-tax, places/pakistan, objections/lvt-destroys-its-own-tax-base, unrelated). places/new-zealand.md (101 lines, last_reviewed 2026-09-09) has: '## Decline to Capital-Value Rating' (McCluskey-Grimes-Timmins 2002: nine authorities switched to CV 1989-2002, none to LV; Productivity Commission analysis: 47% LV in 2007 -> 29% LV by 2019), '## Current Debate' (2019 Productivity Commission: LV rating efficient; no legislative change followed; then the TOP national 1.75%/0.5% land tax, Daniel Eb farm interview, Deloitte/IR LTIB assessment), '## Significance for the Georgist Case' and a See Also including gemmell-grimes-skidmore-nz, split-rate-taxation, split-rate-increases-construction. The page documents the CV drift as a one-way trend; the Wellington consultation is the first reversal signal at a major council. Related pages that exist: research/gemmell-grimes-skidmore-nz.md, concepts/split-rate-taxation.md (58 inbound), concepts/land-value-tax.md (313), concepts/speculative-vacancy.md (47), concepts/land-banking.md (4), benefits/split-rate-increases-construction.md (52), problems/speculative-vacancy-wastes-cities.md (11), research/productivity-commission-first-home-ownership.md (2004 report; the 2015 'Using Land for Housing' inquiry and the 2019 local-government-funding inquiry are not separate pages). events/ has 59 pages incl. 2026-dc-land-value-assessment-bill and 2026-state-lvt-enablement-wave as naming precedents. Other NZ councils: not on the wiki beyond the Auckland 2010 amalgamation.",
+  "uncertainties": [
+   "'Preferred option' provenance: the queue says LV is 'the committee's preferred option'. That is documented only for the 25 June 2026 resolution ('Option 2 [preferred]', 16:2); the adopted 1 Oct consultation document and hub present LV as an open question ('whether to change') and stress 'no decision'. Say 'the committee identified consulting on a move to land value as its preferred option in June 2026; consultation opened 19 October' rather than 'proposes to adopt'. The commercial 3.0:1 option is labelled 'preferred' / 'Council's preferred option' in the 1 Oct amendment 2.17 and Table 1.",
+   "The queue item says the vacant-land differential is 'already 5x the base general rate in the central city'. The hub says 'five times'; the consultation document says '5.0 times'. Property Council material surfaced by web search mentions 5.1:1 in the 2024 LTP proposal; the Council's own current figure is 5.0. Use 5.0 / 'five times' from the Council documents.",
+   "Distributional figures at suburb level: the 25 June minutes contain extensive suburb tables (e.g. Kelburn, Churton Park) but these appear to be affordability (rates as % of income) tables from the Infometrics deck, not LV-vs-CV effects; none was used. No median-bill LV-vs-CV figure exists in the saved texts; the only per-property LV figures are the seven hypothetical-street examples (image) and the $1.5m commercial/residential figures for the differential change (which are CV-based).",
+   "The p.14 worked-example figures were transcribed by eye from a rendered image (220 dpi crop); T1 should confirm digits against the PDF page. Officers' prose in the June report confirms the direction for apartment/mixed-use/duplex/industrial but gives no dollar amounts.",
+   "Share of NZ councils rating on land value: the two sources give different series (Wellington: 65% CV in 2026, 58% in 2016, 50% in 2006, 51 of 78 councils; officers' Q&A text '35% use LV'; wiki's existing figure 29% LV / 71% CV in 2019 from the Productivity Commission analysis). The 2016 figure of 58% CV conflicts with 2019's 71%; probably different denominators (all councils vs territorial authorities; share of rateable properties vs councils). Do not merge.",
+   "Legal basis: only the Council's own statement that general rates are set under s.13 of the Local Government (Rating) Act 2002 and that the review proceeds under that Act and the LGA (ss.76-82, 101(3), 102) was captured. The text of s.13 (council may choose capital, land or annual value for a general rate) and the Rating Valuations Act 1998 were not fetched; do not attribute the statutory wording until retrieved. The existing wiki page already says LV rating is 'possible under current law except for Auckland Council' (citing the Productivity Commission), which is an adequate secondary basis.",
+   "Other NZ councils moving: only the Council's own slide lists HCC (Hutt City), PNCC (Palmerston North) and TCDC (Thames-Coromandel) as recent LV-to-CV switches; no council is documented moving CV-to-LV in the saved texts. A web-search snippet (not saved, not verified) says Thames-Coromandel decided in June 2025 to move LV to CV from 1 July 2026 and Central Otago was consulting on LV to CV from 1 July 2027; treat as a lead requiring retrieval before use.",
+   "The hub says 'Oral hearings: November'; no date or location was found. The December decision meeting is unspecified (CPF meets 10 Dec 2026 per the calendar; Council 17 Dec). The LTP formal consultation window is given as 'March and April 2027' in the resolution and 'April' in the news release.",
+   "Amalgamation of Wellington-region councils is an explicit risk to the timeline (Q&A 8-9, 18-21); regional reform could change the LV question; the page should state the outcome is open.",
+   "Common Ground Aotearoa (advocacy body, a public participant) is named in the 25 June minutes' conflict-of-interest note as a proponent of LV; Tier 2, origin/proponent only. Nine councillors recorded a campaign donation from an individual associated with it. This is a Council record but is not needed for the wiki and risks implying motive; recommend omitting the donation detail.",
+   "Property Council New Zealand also addressed the committee on 25 June (no content captured); it is a lobbying body (Tier 2) and has publicly argued for cutting the commercial differential; not saved.",
+   "wellington.govt.nz news release of 1 Oct 2026 says the consultation materials were approved 'by Te Taurapa'; the Council uses the te reo name with English 'Council Planning and Finance Committee'; use 'Te Taurapa | Council Planning and Finance Committee' on first mention."
+  ]
+ }
+]
