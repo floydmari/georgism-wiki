@@ -8,7 +8,8 @@
       "context": "Short and long-run effects of inter-governmental redistribution of property tax on housing supply \u2014 Xieer Dai & Daniel Felsenstein. Papers in Regional Science 105(2), article 100138, April 2026. Canonical DOI 10.1016/j.pirs.2026.100138 resolved via Crossref from the Hebrew University CRIS portal record surfaced by EXA (portal variant: cris.iucc.ac.il).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-23T11:08:14.526281+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792753730.930939"
     },
     {
       "url": "https://www.letstalk.wellington.govt.nz/rating-policies-review",
@@ -18,7 +19,8 @@
       "context": "Phase 3: Rating Policies Review \u2014 Wellington City Council consultation, 19 October \u2013 15 November 2026. Proposes switching the general rates base from capital value to LAND VALUE (the committee's preferred option), reducing the commercial differential from 3.7:1 to 3.0:1, and extending the vacant-land/derelict-building differential area (already 5x the base general rate in the central city). Canonical consultation hub (proposals + CV/LV rates comparison tool + timeline); the EXA-surfaced wellington.govt.nz news announcement is a same-content variant folded to the reject bucket. Committee report: meetings.wellington.govt.nz \"Proposed Rating Policy Changes for Consultation to Inform the 2027-37 LTP\". Page fetch verified 2026-10-23.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-23T11:08:14.526281+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792753730.930939"
     }
   ],
   "consumed": [
@@ -5861,7 +5863,7 @@
       "notes": "New section 'The 16 October 2026 Hearing' on the DC bill page built from the Council's LIMS record and hearing notice (A), the DC Policy Center's own testimony and its 2019 paper (B), an ArentFox Schiff summary (B) and the Cavalry testimony as Tier 2 opponent origin. The hearing covered seven revenue proposals, not the bill alone. Cavalry's zoning figure is restated from the DC Policy Center primary, which also reports ~60% of commercial and multifamily buildings with room and calls an LVT 'a worthwhile reform'. Page corrections: referral date now follows LIMS (22 Sep), the Early-stage bullet updated, and the \u00a74b 'not independently fetched this session' note removed from source 3. Not carried: the CFO's reported remark (not in his written testimony), Cavalry's OCFO 5% estimate and D.C. Law 26-41 reference. Official witness list and other testimonies unreachable (LIMS API 401)."
     }
   ],
-  "last_updated": "2026-10-23T11:08:14Z",
+  "last_updated": "2026-10-23T11:09:18Z",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 2
 }
