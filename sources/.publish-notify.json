@@ -1692,6 +1692,41 @@
       "action": "updated",
       "published_at": "2026-10-22T11:22:38.000Z",
       "notified": false
+    },
+    {
+      "slug": "2026-wellington-rating-policies-review",
+      "title": "Wellington's Rating Policies Review (2026): From Capital Value to Land Value",
+      "url": "https://www.progress.org/wiki/2026-wellington-rating-policies-review/",
+      "category": "events",
+      "tags": [
+        "events",
+        "new-zealand",
+        "wellington",
+        "local-government",
+        "rating-valuation",
+        "land-value-rating",
+        "split-rate",
+        "modern"
+      ],
+      "action": "published",
+      "published_at": "2026-10-23T11:35:22.000Z",
+      "notified": false
+    },
+    {
+      "slug": "new-zealand",
+      "title": "New Zealand",
+      "url": "https://www.progress.org/wiki/new-zealand/",
+      "category": "places",
+      "tags": [
+        "land-value-tax",
+        "split-rate-taxation",
+        "international-experience",
+        "rating-valuation",
+        "new-zealand"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-23T11:35:23.000Z",
+      "notified": false
     }
   ]
 }
