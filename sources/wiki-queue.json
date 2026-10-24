@@ -8,7 +8,8 @@
       "context": "ATCOR & EBCOR \u2014 Bryan Kavanagh. thedepression.org.au, 23 October 2026. Essay on ATCOR (All Taxes Come Out of Rent) and EBCOR (Excess Burdens Come Out of Rent), the Mason Gaffney\u2013developed cornerstone concepts of Georgist economics, arguing mainstream economists respect LVT efficiency but fail to sub in its revenue capacity. Kavanagh is an Australian Georgist valuer (people/bryan-kavanagh.md stub is thin); his site's prior essay (?p=46147) was consumed 2026-10-12 and used on places/australia.md.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-24T11:05:15.205854+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792839976.084189"
     },
     {
       "url": "https://ideas.repec.org/p/ehl/lserod/139055.html",
@@ -18,7 +19,8 @@
       "context": "Strategic withholding in descending clock capacity auctions: a stage-by-stage analysis of the British electricity capacity market \u2014 Christopher Doyle. LSE Research Online Documents on Economics 139055, London School of Economics and Political Science, 2026 (RePEc handle ehl:lserod:139055). Formal model of strategic capacity withholding by large portfolio bidders in the GB Capacity Market's three-stage procurement (pre-qualification, aggregate-supply disclosure, descending-clock auction): the same rule yields ex-ante entry limits under full information vs post-disclosure/clock withdrawal under imperfect information, plus a closed-form profitability threshold for withdrawal \u2014 withholding is strongest exactly when reliability is most stressed. Stage-specific policy taxonomy; GB auction outcomes related.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-24T11:05:15.205854+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792839976.084189"
     }
   ],
   "consumed": [
