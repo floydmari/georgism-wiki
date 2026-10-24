@@ -6,7 +6,7 @@ excerpt: ATCOR — “All Taxes Come Out of Rent” — is Mason Gaffney’s the
   on labour, capital, and trade ultimately fall on land rent, the residual left after
   other factors earn market returns. If it holds, shifting taxes onto land rent is
   self-financing — though it remains an untested hypothesis.
-last_reviewed: 2026-08-10
+last_reviewed: 2026-10-24
 sources:
 - gaffney-1994
 - george-1879
@@ -62,7 +62,7 @@ Burgess's formulation of the single-tax argument — that abolishing taxation an
 
 ## Caveats
 
-ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not every tax is fully shifted onto land rent, particularly in the short run or in internationally open economies. Gaffney argues the mechanism operates over the medium-to-long term rather than immediately. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
+ATCOR, like many claims in economic theory, depends on assumptions about market completeness and competitive conditions that may not hold in all real-world contexts. Critics argue that not every tax is fully shifted onto land rent, particularly in the short run or in internationally open economies. Mainstream applied modelling points the same way: the Australian Treasury's 2015 computable general equilibrium study of the major taxes, which holds the supply of each type of land fixed but treats Australia as a small open economy with perfectly mobile capital, concludes that "the incidence of major taxes is largely borne by workers through lower real wages caused by lower labour productivity", not by landowners.[9] Gaffney argues the mechanism operates over the medium-to-long term rather than immediately. The premise that the burden settles on land rent as a pure residual also has a direct mainstream theoretical challenger — [Feldstein (1977)](/wiki/feldstein-incidence-pure-rent/), who argues that in a general-equilibrium growth model a tax on pure rent is "at least partly shifted" onto capital via a savings-portfolio channel (though that result is itself contested by Calvo-Kotlikoff-Rodriguez and Fane; see the linked page).
 
 Gaffney invokes the term again, in passing, in his later 2016 essay on European tax policy — "Many of us now hew to the Physiocratic doctrine that All Taxes Come Out of Rents (ATCOR)" — but that essay's substantive argument is about VAT and sales-tax excess burden specifically, not a further development of the theorem itself; see [Gaffney (2016), Europe's Fatal Affair with VAT](/wiki/gaffney-europes-fatal-affair-with-vat/) for that argument, and the 2005 paper above for ATCOR's primary statement.
 
@@ -97,3 +97,4 @@ Gaffney invokes the term again, in passing, in his later 2016 essay on European 
 6. Lars A. Doucet, *Land is a Big Deal*, Shack Simple Press, 2022, Ch. 15 — used for the modern exposition of ATCOR and the Single Tax self-financing argument (A-claim). See [*Land is a Big Deal* (book page)](/wiki/land-is-a-big-deal/).
 7. Ronald Burgess, *Public Revenue Without Taxation* (London: Shepheard-Walwyn, 1993) — used for the Physiocratic version of the ATCOR logic (C/D-claims). [Book page](/wiki/public-revenue-without-taxation/)
 8. Mason Gaffney (1998), "The Philosophy of Public Finance," Ch. 7 in Fred Harrison (ed.), *The Losses of Nations* (Othila Press, 1998) — used for the dating correction on when the named acronym "ATCOR" is first attested (A-claim). [Wiki summary](/wiki/gaffney-philosophy-of-public-finance/)
+9. Liangyue Cao, Amanda Hosking, Michael Kouparitsas, Damian Mullaly, Xavier Rimmer, Qun Shi, Wallace Stark and Sebastian Wende (2015), *Understanding the economy-wide efficiency and incidence of major Australian taxes*, Treasury Working Paper 2015-01, Australian Treasury, abstract and §§3–4 — used for the incidence finding and the model's small-open-economy and fixed-land assumptions (B-claim; Tier 1 official modelling; read in the relevant parts). The same paper supplies the excess-burden figures on [Deadweight Loss](/wiki/deadweight-loss/).

@@ -1,0 +1,138 @@
+[
+ {
+  "url": "https://thedepression.org.au/?p=46799",
+  "title": "ATCOR & EBCOR (Bryan Kavanagh, The Depression / thedepression.org.au, 23 October 2026)",
+  "what_was_fetched": "Full essay fetched directly by curl with a browser user-agent (HTTP 200, ~1,130 words, no paywall) and parsed to text with the inline citation links preserved: kavanagh-atcor-ebcor.html (raw) and kavanagh-atcor-ebcor.txt (clean text). Five of the six documents the essay links were also fetched and saved: cited-treasury-au-twp2015-01.pdf/.txt (Cao et al., Australian Treasury WP 2015-01), cited-treasury-nz-twp03-29.pdf/.txt (Creedy, NZ Treasury WP 03/29), cited-anu-wp652.pdf/.txt (Tran & Wende, ANU WP 652), cited-vu-g337.pdf/.txt (Nassios & Giesecke, CoPS G-337), cited-gaffney-K1-neoclassical-stratagem.pdf/.txt (Gaffney, 'Neo-classical Economics as a Stratagem against Henry George'). NOT fetched: the Parliamentary Budget Office 'tax mix / efficiency' explainer (pbo.gov.au) -- direct curl and Googlebot UA returned no response (connection failed), r.jina.ai returned 401 (IP reputation block); no saved file. The essay's Reddit and Wikipedia links (6 Reddit/Wikipedia citation clusters) were not fetched: they are not citable under EDITORIAL section 1/3 hierarchy (rung 7) and the T1 editor needs only to know they are the essay's actual evidential basis.",
+  "verdict": "REJECT as a source for concepts/atcor.md, concepts/ebcor.md or research/gaffney-excess-burden-shiftable-taxes.md. Reason: (1) it is a short, unfootnoted Tier-2 restatement; every definition it gives is already documented on the wiki from Gaffney (Tier 1), and the essay itself sources its definitions to Wikipedia and Reddit threads, not to any Gaffney text; (2) it contains no figure, no Kavanagh-Putland index reference, no new primary, and no named critic (the 'mainstream' position is argued generically, without naming an economist); (3) the one Tier-1 material it points to is the set of Treasury/university working papers it links, and those are better cited directly (see uncertainties and the side-lead below) than via this essay. Optional, low value: a single fact-of-publication clause on people/bryan-kavanagh.md, in the Overview paragraph that ends '...an assessment set out on the Australia page.[5]' (the paragraph beginning 'Kavanagh's own site, The Depression'), e.g. 'On 23 October 2026 the site carried a short explainer by Kavanagh on ATCOR and EBCOR, which restates Gaffney's formulations and notes the mainstream objection that labour and capital are not perfectly mobile.' T0 recommends declining even that: the essay shows no Kavanagh-specific formulation, and the page's thinness is better addressed by his barometer work than by this piece. Never cite the essay as support for ATCOR/EBCOR.",
+  "claim_grade": "D for any theoretical or empirical claim (secondary restatement, unfootnoted, evidential basis is Wikipedia/Reddit); A only for the bare fact that Kavanagh published the essay on 23 October 2026. Source tier: section 4c Tier 2 (practitioner-advocate, Land Values Research Group; confirmed on sources/audit/people-tiers.json) -- origin/proponent only. Tier-1 material reached through its links (Australian Treasury WP, ANU, NZ Treasury, VU working papers) is B-grade official/academic and citable in its own right.",
+  "content_summary": [
+   {
+    "point": "Definition of ATCOR: because land supply is fixed while labour and capital are mobile, any tax on labour or capital lowers production and demand, depressing land rent; abolishing income or sales taxes means savings 'are eventually bid into land prices'.",
+    "locator": "section 'Understanding the Theories', 2nd bullet-paragraph",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "This theory argues that because the supply of land is fixed"
+   },
+   {
+    "point": "Definition of EBCOR (spelled 'Excess Burden Comes Out of Rent' here; the wiki and Gaffney 2009 use 'Excess Burdens Come Out of Rents'): distorting taxes shrink the economic pie; 'this lost potential wealth also directly reduces total aggregate land rents'; replacing bad taxes with a land tax 'would recover this deadweight loss back into the rental value of land'.",
+    "locator": "section 'Understanding the Theories', 3rd paragraph",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "EBCOR asserts that this lost potential wealth"
+   },
+   {
+    "point": "Framing: 'cornerstone concepts of Lockean and Georgist economics... generally regarded as non-mainstream, or heterodox'. 'While mainstream economists respect the efficiency of land-value taxation, they fail to subscribe to the conclusion that all tax burdens ultimately shift onto land.' NOTE: this is about full tax shifting, not about revenue capacity; the essay never discusses LVT revenue capacity, so the queue's 'fail to sub in its revenue capacity' paraphrase is not in the text.",
+    "locator": "opening paragraph",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "fail to subscribe to the conclusion that all tax burdens"
+   },
+   {
+    "point": "Gaffney texts cited: only one is named -- 'The Corruption of Economics' (the link goes to Gaffney's chapter 'Neo-classical Economics as a Stratagem against Henry George', K1Neo-classical_Stratagem.CV.pdf); no year is given in the essay. Definitions are attributed to Gaffney via Wikipedia pages /wiki/ATCOR and /wiki/EBCOR, not via any Gaffney paper (no mention of Gaffney 1998, 2005 or 2009).",
+    "locator": "'Understanding the Theories' lead-in; section '1. The Political Argument'",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "Mason Gaffney co-authored a famous book, The Corruption of Economics"
+   },
+   {
+    "point": "Political argument: dropping ATCOR/EBCOR was 'a deliberate move to shield landed interests'; Gaffney 'argued that early neoclassical pioneers (like John Bates Clark)... deliberately conflated land with capital'. The saved Gaffney chapter does contain a John B. Clark section and the Simon Patten/neoclassical-as-stratagem thesis (grep 'JOHN B. CLARK' and 'stratagem' in cited-gaffney-K1-neoclassical-stratagem.txt). The essay's 'heavily funded by wealthy landowners and robber baron universities' is loosely paraphrased from the chapter's Stanford/Chicago passages (line 920: 'the new Rockefeller Baptist (aka The University of Chicago)').",
+    "locator": "section '1. The Political Argument'",
+    "file": "kavanagh-atcor-ebcor.txt; cited-gaffney-K1-neoclassical-stratagem.txt",
+    "grep": "deliberate move to shield landed interests; (Gaffney file) JOHN B. CLARK; (Gaffney file) Rockefeller Baptist"
+   },
+   {
+    "point": "Mainstream objections as the essay states them (all generic, no economist named): tax incidence is shared by elasticities ('While land bears a massive chunk of immobile taxes, it doesn't bear 100%'); labour is not perfectly mobile so workers absorb income and corporate taxes via lower real wages; agglomeration economies; global-vs-local capital; deadweight loss is wealth destroyed rather than 'a neat pile of money... subtracted from a landlord's potential ledger'.",
+    "locator": "sections 'Why the Mainstream Differs' and '2. The Analytical Counterargument'",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "Tax Incidence is Shared; Agglomeration Economies; Deadweight Loss is Distributive Destruction"
+   },
+   {
+    "point": "Where mainstream and Georgists agree: 'broad-based land taxes are uniquely efficient because land cannot move or disappear'; stamp duty and capital taxes carry a large marginal excess burden. Cited to Australian Treasury WP 2015-01, VU CoPS G-337 and the PBO explainer.",
+    "locator": "section 'Where Mainstream and Georgists Agree'",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "broad-based land taxes are uniquely efficient because land cannot move"
+   },
+   {
+    "point": "No figures: the essay contains no percentage, dollar amount, rent-share-of-GDP or revenue-capacity number, and no reference to the Kavanagh-Putland index or the barometer (grep for 'Putland' and 'GDP' returns nothing).",
+    "locator": "whole essay",
+    "file": "kavanagh-atcor-ebcor.txt",
+    "grep": "Putland (expect 0 hits)"
+   }
+  ],
+  "existing_wiki_coverage": "Fully covered, from Tier-1 sources. concepts/atcor.md (last_reviewed 2026-08-10) carries the theorem, Gaffney's 'negative shifting' precursor, the 1998 'Philosophy of Public Finance' dating of the acronym, the 2005 WP096 primary, Doucet's modern exposition (Ch. 15), Burgess, a Caveats section with Feldstein (1977) as the named mainstream challenger, and the open/closed-economy and short-run qualifications. concepts/ebcor.md carries Gaffney (2009) Element #12 quotations, the Harberger-triangle rejection, assumptions, Feldstein challenge and the Tideman et al. (2002) independent CGE quantification. research/gaffney-excess-burden-shiftable-taxes.md covers Gaffney 2005. The essay's political-economy argument (neoclassical economics as a stratagem against George, J.B. Clark on land and capital) is already carried by research/gaffney-neoclassical-stratagem.md and books/gaffney-harrison-corruption-of-economics.md (the same chapter PDF the essay links). people/bryan-kavanagh.md (stub: true) already cites thedepression.org.au/?p=46147 (Phil Day essay) as source 5; the repo has no other use of ?p=46799 except the queue entry. SIDE-LEAD (not from the essay's own text but from its links): Cao et al. (2015), Australian Treasury Working Paper 2015-01, is already cited in concepts/deadweight-loss.md (source 6; marginal excess burden figures) but its incidence finding -- 'the incidence of major taxes is largely borne by workers through lower real wages caused by lower labour productivity' (abstract) -- appears nowhere in the wiki (repo grep for 'borne by workers' / 'lower real wages' is empty). That is an official-body (Tier 1), model-based mainstream result that bears directly on the ATCOR Caveats; T1 may wish to consider a one-sentence ENRICH on concepts/atcor.md, section 'Caveats', after the sentence ending '...particularly in the short run or in internationally open economies.' -- attributing the finding to the Treasury model (a static/representative-agent CGE with a stylised land tax), not the Kavanagh essay. T1 should read the paper's closure assumptions before wording it.",
+  "uncertainties": [
+   "Authorship and provenance: the byline is Kavanagh, but the text reads as a compiled/AI-assisted explainer (bracketed numbered citation clusters pointing to Reddit threads, Wikipedia and ScienceDirect topic pages; sentences like 'let's separate the political motive... from the analytical critique'; a pasted comparison table with a typo 'Two Different Lens'; a run-on 'rather than cleanly subtracted them'). T0 cannot tell whether Kavanagh wrote, edited or only republished it. This strengthens the REJECT.",
+   "Queue summary mismatch: the queue context says the essay argues mainstream economists 'respect LVT efficiency but fail to sub in its revenue capacity'. The text says they fail to accept full tax-shifting onto land; revenue capacity is not discussed.",
+   "The essay's own Treasury/ANU/NZ/VU citations are being used loosely: Creedy's NZ Treasury WP 03/29 is a general paper on excess burden quadrupling when the tax rate doubles and does not mention EBCOR or land rent (file has 0 hits for ATCOR/EBCOR/Gaffney/Georg); Tran & Wende ANU WP 652 is about marginal excess burden in an overlapping-generations model and has 1 incidental hit; Cao et al. (Treasury) does not engage Gaffney. None of these 'engages' ATCOR/EBCOR; they are cited for generic mainstream points.",
+   "The PBO explainer could not be fetched, so the essay's claim that the PBO acknowledges land-tax efficiency was not checked against that page.",
+   "The Gaffney chapter linked as 'The Corruption of Economics' is the file K1Neo-classical_Stratagem.CV.pdf, a 135-page PDF that appears to be a book-length CIT-series volume with the chapter title page first; T1 should not infer a page-level locator from the saved .txt without checking the book page's own page mapping."
+  ]
+ },
+ {
+  "url": "https://ideas.repec.org/p/ehl/lserod/139055.html",
+  "title": "Strategic withholding in descending clock capacity auctions: a stage-by-stage analysis of the British electricity capacity market (Christopher Doyle, Utilities Policy 102, article 102273, 2026; LSE Research Online 139055)",
+  "what_was_fetched": "IDEAS/RePEc page (doyle-ideas.html raw, doyle-ideas-page.txt text); the LSE Research Online record at researchonline.lse.ac.uk/id/eprint/139055 (eprints.lse.ac.uk/139055 redirects there) (lse-eprint-page.html, lse-eprint-page.txt); and the full open-access publisher PDF (CC BY 4.0, 'Published Version'), 1.9 MB, from researchonline.lse.ac.uk/id/eprint/139055/1/1-s2.0-S0957178726001323-main.pdf, saved as doyle-2026-utilities-policy.pdf and converted with pdftotext to doyle-2026-utilities-policy.txt (~18,900 words; full text including model, propositions, Tables 1-6, policy section 5, conclusion). All fetched directly with a browser user-agent; nothing blocked. The IDEAS 'Download full text' link points to researchonline.lse.ac.uk/id/eprint/139055/File, which returns 404; the PDF was reached via the repository record page instead. Appendix B proofs are in the PDF but were not read in detail.",
+  "verdict": "REJECT. Reason: no land, location-rent, Georgist or even economic-rent-theory content. The paper is a formal IO/auction-design model of strategic capacity withholding by large portfolio bidders in the GB electricity Capacity Market, with a stage-by-stage regulatory taxonomy. Grep of the full text finds no occurrence of 'land', 'monopol', 'windfall', 'Georg', 'scarcity rent'; the word 'tax' appears only in the policy-taxonomy sense ('a tax on investment' as a risk of over-tight mitigation). 'Rent' appears only as 'inframarginal rents' on existing capacity (ordinary price-above-cost producer surplus under uniform-price clearing). The fit to concepts/rent-seeking.md (Tullock/Krueger resource expenditure to capture rents) and concepts/economic-rent.md is nominal: the paper is about price-making power in a buyer-administered uniform-price auction, not about rent capture by taxation or competition for rents. No quotable sentence supplies something those pages lack. A one-sentence ENRICH was considered and not recommended; no NEW page. (If T1 later builds an electricity/capacity-market or market-power page, the paper would be a Tier-1 peer-reviewed anchor for the 'withholding to raise the uniform clearing price' mechanism; that is a future-use note, not a recommendation.)",
+  "claim_grade": "B -- peer-reviewed journal article (Utilities Policy, Elsevier; received 11 Jan 2026, revised 25 June 2026, accepted 26 June 2026; two referees and the Handling Editor thanked), open access CC BY, published online 2 July 2026; theoretical model (C-claims) plus interpretive empirics that the author expressly says are not causal. Source tier under section 4c: Tier 1 on the venue/peer-review criterion (an academic with a peer-reviewed article on the topic; LSE Law Department affiliation), though the author is a practitioner economist (KPMG UK) with no listed prior body of work on this wiki and is not on sources/audit/people-tiers.json; rubric-judged, not assumed. The queue entry's description of this as a 'working paper' / 'LSE Research Online Documents on Economics' is the IDEAS series label for the repository deposit; the item is in fact the published journal article.",
+  "content_summary": [
+   {
+    "point": "Status and affiliation: Chris Doyle, 'London School of Economics, Department of Law; KPMG UK LLP'; Utilities Policy 102 (2026) 102273; handling editor Janice A. Beecher; received 11 January 2026, accepted 26 June 2026, online 2 July 2026; acknowledgements thank David Newbery and Richard Green and 'two referees and the Editor'. LSE record: Departments 'LSE > Academic Departments > Law School'; JEL D44, L94, Q41.",
+    "locator": "p.1 front matter and footnote; LSE record page",
+    "file": "doyle-2026-utilities-policy.txt; lse-eprint-page.txt",
+    "grep": "London School of Economics, Department of Law; Accepted 26 June 2026; two referees and the Editor; Law School"
+   },
+   {
+    "point": "Model: a three-stage forward capacity market mirroring the GB design -- Stage 1 pre-qualification and capacity entry; Stage 2 disclosure of aggregate qualified supply and opt-outs; Stage 3 descending-clock auction with a uniform clearing price -- with symmetric strategic portfolio bidders (existing price-taking capacity earning inframarginal rents plus new-build price-making capacity) and a competitive fringe of uncertain size.",
+    "locator": "section 1 (Introduction) and section 2.1",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "three-stage formal model of a forward capacity market"
+   },
+   {
+    "point": "Core incentive: 'In multi-unit uniform-price auctions, bidders may have incentives to withhold quantity in order to raise the clearing price on inframarginal units'. This is the paper's only close analogue to a 'rent-extraction' statement and is ordinary uniform-price market-power theory.",
+    "locator": "section 1, para 2",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "withhold quantity in order to raise the clearing price"
+   },
+   {
+    "point": "Main results (abstract and Props 1-5): under full information strategic bidders withhold ex ante by limiting entry at pre-qualification with no later withdrawal (Prop 1); under imperfect information capacity may be withdrawn after disclosure (Prop 2) or during the clock (Props 3-4); 'The absence of visible in-auction withdrawal is therefore consistent with maximal strategic withholding rather than competitive behaviour.' Section 5.1: Proposition 1 'identifies the strongest single conclusion of the analysis'.",
+    "locator": "abstract; section 3; section 5.1",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "absence of visible in-auction withdrawal; strongest single conclusion"
+   },
+   {
+    "point": "Closed-form threshold (Proposition 5, eq. 4): the per-unit withdrawal cost below which withdrawal remains profitable is c-bar = (DeltaP x Q_T_i / DeltaQ) minus (P*(theta-bar) - y), i.e. rises with portfolio size and with the spread DeltaP between tight- and loose-state clearing prices. 'Observed institutional frictions, credit cover, performance bonds, reputational costs, do not deter strategic withdrawal in tight regimes where the price spread is large, but do deter it in loose regimes'. Abstract: 'strategic withholding is strongest precisely when reliability conditions are most stressed.' (The equation is garbled in the pdftotext output; T1 should read it from the PDF page 6, not from the text.)",
+    "locator": "section 1 (contributions), Proposition 5 eq. (4), abstract",
+    "file": "doyle-2026-utilities-policy.txt; doyle-2026-utilities-policy.pdf",
+    "grep": "There exists a threshold; strongest precisely when reliability conditions are most stressed"
+   },
+   {
+    "point": "Empirical GB figures (Table 4, Section 4): T-4 clearing prices for delivery years 2026/27-2028/29 were GBP 63.00, 65.00 and 60.00/kW/yr ('in the range GBP 60-65/kW/yr, well above the historical range of GBP 6.44-30.59/kW/yr'); the March 2026 auctions cleared at GBP 5.00/kW/yr (T-1 for 2026/27) and GBP 27.10/kW/yr (T-4 for 2029/30), 'a year-on-year decrease of 75% in T-1 and 55% in T-4 clearing prices (Energy UK, 2026)'.",
+    "locator": "section 1 para 2; section 4.1 text before Table 4; Table 4",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "£60–65/kW/yr; £6.44–30.59; year-on-year decrease of 75%"
+   },
+   {
+    "point": "2029/30 T-4: 40.1 GW de-rated procured against a 39.4 GW target; 50.4 GW qualified ('a margin of more than 10 GW'); T-1 2026/27: 7.2 GW procured against a 6.3 GW target. In the 2028/29 T-4, gas supplied roughly 63 per cent of the 43.1 GW of de-rated capacity awarded and the ten largest providers accounted for around three-quarters of entered capacity (the intro and section 2.2 are inconsistent on which auction the three-quarters figure refers to: section 2.2 says 2022/23).",
+    "locator": "section 4.4; section 1 para 6; section 2.2",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "40.1 GW procured; 50.4 GW; 63 per cent; nearly three-quarters of total entered capacity"
+   },
+   {
+    "point": "Caution on interpretation: 'We are careful not to claim causal identification: the patterns are consistent with the model but also with non-strategic explanations' and 'The empirical contribution is interpretive, not causal.' Section 4.3: pre-qualification-to-entry drops of 1 to 6 GW 'consistent with the model in one regime and with administrative attrition in another'.",
+    "locator": "section 1; section 4.3",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "interpretive, not causal; administrative attrition"
+   },
+   {
+    "point": "Policy taxonomy (Table 6): Stage 1 -- pivotal-supplier test, conduct-and-impact mitigation, mandatory-offer obligations (trade-off: may deter genuine entry); Stage 2 -- narrower disclosure, opt-out penalties, staggered/aggregated disclosure (reduces transparency); Stage 3 -- tighter price-taker thresholds, in-clock exit monitoring, ex post conduct screens (may chill price discovery); cross-cutting -- grid-connection reform, planning reform, new-build support, longer-duration agreements (slow). Displacement risk: tightening one stage may push behaviour to another.",
+    "locator": "section 5, Table 6",
+    "file": "doyle-2026-utilities-policy.txt",
+    "grep": "Pivotal-supplier test; displace"
+   }
+  ],
+  "existing_wiki_coverage": "None on the topic. Repo grep for 'capacity market', 'withholding', 'descending clock', 'electricity market' finds only incidental uses in unrelated pages; no page covers electricity capacity markets, uniform-price auction market power or capacity withholding. Digest has no entry for capacity auctions. The candidate target pages exist: concepts/rent-seeking.md (Tullock 1967, Krueger 1974, Mazzucato et al. 2023; no auction-design or withholding content), concepts/economic-rent.md (Smith monopoly price, Barnes definition, etc.), concepts/spectrum-auctions.md, research/kaplow-market-power.md, research/de-loecker-eeckhout-mongey-market-power-dynamism.md, research/de-loecker-eeckhout-unger-markups.md, research/gross-klein-partial-equilibrium-welfare-market-power-taxes.md, research/rothschild-scheuer-rent-seeking.md, research/vickrey-counterspeculation-auctions.md (the paper cites Vickrey 1961 as the incentive-compatible benchmark). All of those are about economy-wide markups, taxation of market power, or rent-seeking expenditure; none is about regulator-run procurement auctions. Wiki has no Doyle entry (consumed ledger and repo grep show no hit for lserod/139055 or 'Doyle' capacity).",
+  "uncertainties": [
+   "Only a REJECT-level read of the Georgist bearing was needed; the maths (Propositions 1-5, Appendix B proofs) was not independently checked and the garbled eq. (4) must be read from the PDF if ever cited.",
+   "The paper's empirical section is explicitly non-causal; any wiki use of 'strategic withholding explains the 2023-2025 price spike' would overstate it.",
+   "Inconsistency within the paper on which auction the 'ten largest providers ~three-quarters' share refers to (intro: most recent T-4 for 2028/29; section 2.2: 2022/23 T-4), and 'some 40' vs '41' CCGT assets. Treat these figures as unverified if used.",
+   "Author is a practitioner (KPMG UK) with an LSE Law affiliation; peer review and venue carry the tier rather than a body of work. The email in the PDF is an apexeconomics.com address; the paper states the views are the author's alone, not KPMG's.",
+   "Table 5's row layout is partially garbled in pdftotext output (the 2027/28 and 2028/29 rows are misaligned); do not take cell values from the .txt without checking the PDF."
+  ]
+ }
+]

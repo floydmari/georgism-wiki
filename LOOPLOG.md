@@ -5861,3 +5861,20 @@ rating-base evidence is noted as unsupported.
 
 Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 477 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-24 — two rejections and a Treasury counterpoint on ATCOR
+
+Two scanner items, both rejected after a full read. Kavanagh's "ATCOR & EBCOR" essay is an
+unfootnoted restatement whose definitions cite Wikipedia and Reddit and which names only a
+Gaffney chapter the wiki already covers; the scanner's summary that it concerns revenue
+capacity is not in the text, and its authorship reads as compiled, so it is not cited even
+as a fact of publication. The essay's links did yield one thing worth keeping: the
+Australian Treasury's 2015 general-equilibrium study, already on the deadweight-loss page
+for its excess-burden figures, concludes that the incidence of the major taxes falls
+largely on workers rather than landowners, with land supply fixed but capital perfectly
+mobile; that sentence now sits in the ATCOR page's Caveats as a mainstream counterpoint.
+Doyle's capacity-auction paper turned out to be a peer-reviewed Utilities Policy article,
+not a working paper, with no land or location-rent content; rejected without a page.
+
+Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 479 consumed. Merged to
+main and Ghost-synced.
