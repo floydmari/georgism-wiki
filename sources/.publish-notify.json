@@ -1727,6 +1727,23 @@
       "action": "updated",
       "published_at": "2026-10-23T11:35:23.000Z",
       "notified": false
+    },
+    {
+      "slug": "atcor",
+      "title": "ATCOR",
+      "url": "https://www.progress.org/wiki/atcor/",
+      "category": "concepts",
+      "tags": [
+        "atcor",
+        "georgism",
+        "land-value-tax",
+        "taxation",
+        "mason-gaffney",
+        "fiscal-theory"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-24T11:16:46.000Z",
+      "notified": false
     }
   ]
 }
