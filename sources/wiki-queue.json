@@ -8,7 +8,8 @@
       "context": "The Land Problem Through the Eyes of George and Gesell \u2014 The Henry George School Podcast, Episode 196, Henry George School of Social Science (hgsss.org), published 22 October 2026, 22 min. Guest Cameron Sajedi (scientist and systems architect; geoscience, engineering and financial modelling background) examines the land question through the complementary ideas of Henry George and Silvio Gesell, with a GIS case study of Detroit's land value tax push: land-value, vacancy and speculation mapping across the city; improved-vs-vacant parcel value-per-acre analysis showing prime waterfront land sitting idle for 40-60 years while improved parcels shift every 3-6 years; and interactive visualisation tools the mayor's office needs both to sell and to administer an LVT. Resolved from an EXA library proxy URL (exa.ai/library/podcast/rg31j9ry8tx/episode/x9dbcqm2pql) per the 2026-09-27 proxy rule \u2014 the canonical hgsss.org episode URL is queued instead.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-25T11:04:31.079858+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1792926297.954839"
     }
   ],
   "consumed": [
