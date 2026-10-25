@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://www.hgsss.org/podcast-episode/episode-196-the-land-problem-through-the-eyes-of-george-and-gesell/",
+  "title": "The Land Problem Through the Eyes of George and Gesell (Henry George School Podcast, Episode 196; guest Cameron Sajedi; 22 Oct 2026)",
+  "what_was_fetched": "Fetched: episode page (hgsss-ep196-page.html, hgsss-ep196-page.txt: blurb only, no transcript, embeds Spotify player only); hgsss podcast RSS (hgsss-podcast-feed.xml: blurb only); Spotify embed metadata (spotify-ep196-metadata.txt: 18:30 duration, 30 s preview only; the encrypted full stream was not touched); open RSS feed of the show (anchor-rss.xml; anchor-rss-ep196-item.txt) giving the public MP3 enclosure, downloaded as ep196.mp3 (20.5 MB, ~21 min with inserted ads). No publisher transcript exists. Transcribed locally with faster-whisper small/int8 (venv in scratch): ep196-transcript.txt (timestamps are mm:ss in the downloaded MP3, which includes ads). Key passage re-transcribed with the medium.en model: ep196-clip-0790-1120-medium.txt (offset: its 00:00 = 13:10 in the MP3; run timed out at about 15:00 of the MP3, enough to cover the turnover passage). All files in /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-25/. Not fetched: no slides, no Zoom whiteboard, no maps or code, no named dataset, GitHub repo or publication by the guest (searched; web search returned nothing for the guest's name). ASR errors: Gesell is rendered 'Gisele/Giselle/Gasel', the guest's name 'Segeti' in the host intro; the audio is an edited excerpt of a live Zoom webinar, so the on-screen charts and maps are not recoverable.",
+  "verdict": "REJECT (figures and Detroit GIS claims). Reason: the key numbers are offhand spoken remarks by a Tier 2 guest about his own unpublished, non-reproducible analysis; no parcel counts, no dataset or method named beyond 'the mayor's office data', the chart is described as broken/not interactive on the recording, and the guest himself says the turnover figure is the part 'missing from this figure'. Nothing here is a citable published analysis, so no NEW page. If the T1 editor wants a trace of the episode, the only defensible use is an optional one-sentence ENRICH, with no figures, on events/detroit-lvt-proposal.md, section 'Status', after the paragraph ending '...(see [Land Value Tax](/wiki/land-value-tax/)).[10]' (the Clark Center poll sentence): 'A Henry George School webinar in 2026 presented a guest's own GIS mapping of the Detroit proposal as a tool for voters and the mayor's office.' Graded D, attributed to the guest, cited to the episode URL. Recommendation: skip it unless a registry-only entry is wanted; the wiki loses nothing. Do not add the 40-60 year / 3-6 year figures to concepts/speculative-vacancy.md 'Measuring It'.",
+  "claim_grade": "D (speaker's own unpublished analysis, reported orally). Source tier: Henry George School = Tier 2 (advocacy/education body; origin/proponent only, never support). Guest Cameron Sajedi = Tier 2 practitioner by the rubric: described only in the HGSS blurb as 'a scientist and systems architect with a background in geoscience, engineering, and financial modeling'; no academic or official post found; not in sources/audit/people-tiers.json; no published report, repo, conference paper or Detroit document attributable to him found.",
+  "content_summary": [
+   {
+    "point": "Complementarity, land vs money: host frames Gesell as known for money and demurrage, who also worked on land and so is close to George; calls them 'the two blind spots of modern economics'.",
+    "quote_le_50w": "two blind spots of modern economics",
+    "time": "02:30-02:38",
+    "file": "ep196-transcript.txt",
+    "grep": "two blind spots"
+   },
+   {
+    "point": "Guest: George came first on land; Gesell borrowed George's critiques of land appropriation and applied them to money issuance and banking.",
+    "time": "07:54-08:15",
+    "file": "ep196-transcript.txt",
+    "grep": "applied a lot of that thinking to money"
+   },
+   {
+    "point": "Guest claims Gesell's main complaint against Georgism (beyond the standard ones) was that assessing land value (improved-parcel share) was too great a burden, which Detroit's assessment work has now removed. Unsourced; Freiland is not mentioned by name anywhere in the talk.",
+    "time": "12:36-13:10",
+    "file": "ep196-transcript.txt",
+    "grep": "too much of a burden"
+   },
+   {
+    "point": "Detroit: land values cluster around downtown and parks (and possibly transit); a 261-parcel all-vacant speculator is taken from an unnamed article, not from the guest's analysis.",
+    "quote_le_50w": "owns 261 parcels, all of them vacant",
+    "time": "10:20",
+    "file": "ep196-transcript.txt",
+    "grep": "261 parcels"
+   },
+   {
+    "point": "The central claim as actually spoken: log-scale value per acre, improved (blue) vs vacant (red); high-value vacant parcels 'sit the longest before they sell 60 years, 40 years' while improved parcels 'shift hands every three to six years'. The word 'waterfront' is not attached to the idle-parcel claim in the audio ('downtown rich land, riverfront land' is a guess at the chart); no counts, no sample, no source for the turnover figures; the guest says that part is 'missing from this figure'.",
+    "quote_le_50w": "60 years, 40 years ... every three to six years",
+    "time": "14:17-15:01",
+    "file": "ep196-transcript.txt and ep196-clip-0790-1120-medium.txt",
+    "grep": "60 years, 40 years"
+   },
+   {
+    "point": "Data source: 'recreated ... from the mayor's office data'; the mayor's office is said to have done the land/improvement assessment for most residential and commercial lots. No dataset name.",
+    "time": "12:16-13:08",
+    "file": "ep196-transcript.txt",
+    "grep": "from the mayor's office data"
+   },
+   {
+    "point": "City-sourced figure: '74% of the parcels will pay less', said to come from Detroit's own publications (not checked here; the wiki's Detroit page cites a 17% average homeowner cut from the city plan instead).",
+    "quote_le_50w": "74% of the parcels will pay less",
+    "time": "16:47-16:59",
+    "file": "ep196-transcript.txt",
+    "grep": "74% of"
+   },
+   {
+    "point": "Tools the mayor's office is said to need: interactive mouse-over maps and a millage 'pilot seat' to tune and administer an LVT ('flying blind' without them).",
+    "quote_le_50w": "flying blind if you don't have tools like this",
+    "time": "19:19-19:36",
+    "file": "ep196-transcript.txt",
+    "grep": "flying blind"
+   },
+   {
+    "point": "Industrial parcels 'pretty much except for a handful will pay more' under the plan (guest's reading of the city's map).",
+    "time": "18:18-18:21",
+    "file": "ep196-transcript.txt",
+    "grep": "except for a handful"
+   }
+  ],
+  "existing_wiki_coverage": "Repo grep (EDITORIAL: no 'Sajedi', 'episode-196' or 'george-and-gesell' hits in the wiki or registry; hgsss.org root is registered, row 109 of sources/registry.csv). people/silvio-gesell.md already carries Freiland as Gesell designed it (purchase at capitalised rent, auction leasing) and the George-Gesell complementarity via research/loehr-george-gesell-odd-couple.md; the episode adds no sourced Gesell content. events/detroit-lvt-proposal.md already covers the plan, its legislative death (HB 4966-4970, 2023), Mayor Sheffield and the dormant status, and cites the city's plan PDF; it has no GIS or turnover content and the guest's own remarks (that the state must act and that there is a new mayor) match what the page says. research/lincoln-detroit-land-value-increments.md exists (Land Bank auction synthetic-control study), unrelated to this talk. concepts/speculative-vacancy.md 'Measuring It' has Prosper Australia water-meter data and Harrison's South Wales idle-site figures; no Detroit parcel-turnover content. problems/speculative-vacancy-wastes-cities.md and organizations/henry-george-school.md exist; neither mentions the episode.",
+  "uncertainties": "(1) Whisper small/medium can mishear numbers; the 60/40/3-6 figures were consistent across both models. (2) The audio is an edited excerpt of a live webinar, so unseen slides may hold counts the speaker did not say; none could be recovered. (3) The queue's 'prime waterfront land idle 40-60 years' paraphrase is stronger than the spoken text. (4) The 'great paper that came out this month' (09:04-09:30) and the article cited for the 261-parcel speculator are unidentified. (5) The Gesell-on-assessment-burden claim is the guest's gloss and was not checked against Gesell's text. (6) Mismatch between RSS duration (18:30) and the downloaded file (about 21 min) is due to inserted ads; ad copy appears at 00:00-00:48, 02:51-03:50, 19:36-20:32 and should be ignored. (7) Guest identity and affiliation beyond the HGSS blurb could not be verified."
+ }
+]

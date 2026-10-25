@@ -5878,3 +5878,17 @@ not a working paper, with no land or location-rent content; rejected without a p
 
 Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 479 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-25 — a podcast transcribed and set aside
+
+One item, a Henry George School podcast episode with a guest describing a Detroit GIS
+analysis of vacant land. No transcript exists, so the open RSS audio was transcribed
+locally. The Detroit claims turn out to be offhand remarks over a chart the guest himself
+calls incomplete: high-value vacant parcels sitting "60 years, 40 years" against improved
+parcels turning over every three to six years, with no counts, sample, dataset or source,
+and the scanner's "prime waterfront land" framing is stronger than anything said. The
+George-and-Gesell discussion adds nothing beyond the Gesell and Loehr pages and never names
+Freiland. Rejected; no page touched.
+
+Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 480 consumed. Merged to
+main; nothing to Ghost-sync.
