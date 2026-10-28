@@ -10,6 +10,16 @@
       "queued_at": "2026-10-28T10:01:12.809351+00:00",
       "reported": true,
       "report_ts": "1793181835.726679"
+    },
+    {
+      "url": "https://taxfoundation.org/research/all/state/florida-amendment-3-homestead-property-tax-exemption/",
+      "title": "Amendment 3: A Restructuring of Florida\u2019s Local Tax Base",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: think-tank analysis of a live property-tax restructuring ballot measure (FL Amendment 3, Nov 3 2026); tax-incidence on renters/commercial owners; feeds the revolt-wave section on events/proposition-13.md + Nov 2026 BACKLOG leads.",
+      "context": "Amendment 3: A Restructuring of Florida\u2019s Local Tax Base \u2014 Nicole Fox. Tax Foundation, 20 October 2026. 53K-char analysis of Florida's Nov 3 2026 Amendment 3 homestead-exemption ballot measure: exemption to $150K (2027) / $250K (2028) with inflation adjustment, Revenue Estimating Conference fiscal estimates ($4.9B year one, $8.7B year two, $11.8B annual by tax year 2031), renter/commercial incidence (approx 15% tax increase on rental properties by 2031), SOH assessment-limit interaction, millage-cap offset analysis, alternative local-revenue survey. The in-depth primary for a measure events/proposition-13.md currently covers via the Lincoln explainer only; serves the two open BACKLOG leads on the Nov 2026 ballot-measure wave. Found by EXA site scan.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-28T11:07:15.171391+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -5927,7 +5937,7 @@
       "notes": "Audio obtained from the open Anchor RSS enclosure and transcribed locally (faster-whisper small, key passage re-run with medium.en); no transcript exists on hgsss.org. Tier 2 institution, Tier 2 guest (no published report, repository or paper located). The Detroit GIS claims are offhand remarks over a chart the guest calls not interactive: 'will sit the longest before they sell 60 years, 40 years' versus improved parcels changing hands 'every three to six years', with no counts, sample, dataset name or source; the scanner's 'prime waterfront land idle 40\u201360 years' overstates it. The 74% figure is attributed to Detroit's own publications already covered. Gesell content adds nothing beyond people/silvio-gesell.md and the Loehr pages; Freiland is never named. No defensible enrichment; rejected."
     }
   ],
-  "last_updated": "2026-10-28T10:02:10Z",
+  "last_updated": "2026-10-28T11:07:15.171391+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 1
+  "total": 2
 }
