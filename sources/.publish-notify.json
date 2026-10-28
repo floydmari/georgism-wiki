@@ -1641,7 +1641,7 @@
         "lock-in"
       ],
       "action": "updated",
-      "published_at": "2026-10-22T11:22:31.000Z",
+      "published_at": "2026-10-28T11:26:02.000Z",
       "notified": false
     },
     {
@@ -1743,6 +1743,43 @@
       ],
       "action": "updated",
       "published_at": "2026-10-24T11:16:46.000Z",
+      "notified": false
+    },
+    {
+      "slug": "british-columbia",
+      "title": "British Columbia",
+      "url": "https://www.progress.org/wiki/british-columbia/",
+      "category": "places",
+      "tags": [
+        "places",
+        "british-columbia",
+        "canada",
+        "vancouver",
+        "single-tax",
+        "land-value-tax",
+        "split-rate",
+        "speculation-vacancy-tax",
+        "history"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-28T11:25:59.000Z",
+      "notified": false
+    },
+    {
+      "slug": "common-wealth-canada",
+      "title": "Common Wealth Canada",
+      "url": "https://www.progress.org/wiki/common-wealth-canada/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "canada",
+        "land-value-tax",
+        "economic-rent",
+        "sovereign-wealth-fund",
+        "research"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-28T11:26:04.000Z",
       "notified": false
     }
   ]
