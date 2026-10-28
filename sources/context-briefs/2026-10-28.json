@@ -1,0 +1,278 @@
+[
+ {
+  "url": "https://aroseinthehouse.substack.com/p/how-to-get-elected-as-a-georgist",
+  "title": "How to get elected as a Georgist city councillor",
+  "what_was_fetched": "FETCHED IN FULL (Substack JSON API, browser UA, HTTP 200): rose_post.txt (the 27 Oct 2026 post, ~20.7K chars) and rose_post_author_bio.txt (byline bios from the API); rose_interview_davis_kyle.txt (the full cleaned transcript of the 25 Oct 2026 Rose-Kyle interview the post distils, 67.8K chars) and rose_interview_bylines.txt. PRIMARIES REACHED: kelowna_official_results_2026.txt (City of Kelowna news release 'Kelowna Votes 2026: Official election results', 21 Oct 2026; kelowna.ca returned a 403 bot challenge to browser-UA and Googlebot curl, so it was read through r.jina.ai, which worked for that page only); capnews_council_results_prelim_2026-10-17.txt (Kelowna Capital News preliminary results, 17 Oct 2026); capnews_kyle_candidate_profile_2026-10-02.txt (Kyle's own candidate Q&A in Kelowna Capital News); capnews_kyle_announces_2026-06-02.txt; Kyle's campaign site kyleforkelowna.ca, one file per page: kyle_site_home.txt, kyle_site_about.txt, kyle_site_financial-responsibility.txt, kyle_site_housing-and-planning.txt, kyle_site_jobs-and-the-economy.txt, kyle_site_transportation.txt, kyle_site_public-voice.txt, kyle_site_promise-tracker.txt, kyle_site_media.txt; brady_rogers_platform.txt (fellow newly elected councillor Brady Rogers' platform page, which states an explicit land-value position); cwc_team_page.txt (commonwealth.ca/team, for Rose's role). NOT FETCHED / NOT FOUND: the kelowna.ca past-election-results page (403, jina also blocked); Castanet's Kyle announcement (Googlebot/browser 403, jina returned 538 bytes); the YouTube/livestream recording itself (transcript only); any Kelowna council minutes, motions, notices of motion or UBCM resolutions by Kyle (council is not yet sworn in, see summary); the 2022 official results page; the BC provincial snap election of 24 Oct 2026 mentioned in the interview was confirmed by web search only (CTV, The Hub), no file saved. The interview's 'first avowed Georgist elected in Canada in the better part of a century' / post's 'first Georgist elected in Canada in many decades' is Rose's characterisation and could not be checked against any primary.",
+  "verdict": "ENRICH places/british-columbia.md (short, primary-sourced, 2-3 sentences). REJECT the post itself as a citable source for anything beyond origin attribution: it is campaign how-to by a Common Wealth Canada staffer (Tier 2) with no independently verifiable claim except Kyle's own quoted statements, which are better cited to his campaign site and the City's election record. INSERTION POINT: places/british-columbia.md, section '## Recent Fiscal Proposals, Land-Value Data, and Public Opinion (2024-2026)', as a NEW final paragraph after the sentence ending '...as raising \"about $170 million a year\" in total.[10]'. Suggested content (T1 to word): at the 17 Oct 2026 municipal election two candidates whose published platforms called for the Province to restore municipal power to tax land and buildings at different rates were elected to Kelowna council: Davis Kyle (14,824 votes in the official count, second among the eight councillors) and Brady Rogers (12,637); Kyle's platform says he would direct staff to work with the province on reintroducing split-rate property tax with a revenue-neutral single-rate land value tax as the end goal and lobby for 'land millage' reform; Rogers' says 'I want Kelowna to tax land more and buildings less' and to join the UBCM in pressing the Province; the council is sworn in 2 Nov 2026 and no land-tax motion had yet been tabled. ADD a registry row and Sources entries for: the City of Kelowna release (A), kyleforkelowna.ca pages (Kyle's own statements, Tier 3 for own words), bradythecreator.com platform (own statements). Cite the Rose interview at most once, attributed, for Kyle's on-record remark that 'the Georgist elements of the platform' depend on provincial movement and on 'building that majority at the council table for these lobbying resolutions' (Tier 2 host; Kyle's own words). Do NOT repeat 'first Georgist elected in decades'. DEFER people/davis-kyle.md and places/kelowna.md: the primary material (official result, platform, 2022 ninth-place finish with 'more than 10,000 votes') is thin, there are zero council actions yet (first regular meeting 9 Nov 2026), and the only inbound link would be british-columbia.md. Re-queue after the first quarter of the term once a notice of motion or UBCM resolution exists. Do not write 'first Georgist' or label Kyle 'Georgist' in wiki voice: his campaign pages never use the word Georgist, only 'split-rate' and 'land value tax'; the label comes from the interview and Rose.",
+  "claim_grade": "Election result: A-claim, official body (City of Kelowna, Chief Election Officer) = Tier 1. Kyle's and Rogers' platform content: A-claim as to what they stated (own words, Tier 3 for own statements), not evidence for LVT. Rose's post: D-claim (interpretive campaign advice); Rose is Tier 2 (blogger; bio on both bylines reads 'Staff at Common Wealth Canada, Canada's Georgist policy institute'; team page lists him as 'BC Strategist'). Common Wealth Canada is strictly Tier 2 origin/proponent. Kyle's own connection to Common Wealth Canada: none found in any primary (no mention of Kyle or Kelowna on commonwealth.ca team page; Rose refers to 'my colleague Frank Peddle at Common Wealth Canada' and 'our coalition', and says CWC wants to work with new BC government, but Kyle is not described as CWC staff, member or advisor). Do not state a Kyle-CWC link.",
+  "content_summary": [
+   {
+    "item": "Official result: 38,976 voters, 31.4 per cent of ~124,000 eligible; Davis Kyle 'elected with 14,824 votes' (2nd of 8 councillors; Lovegrove first at 15,466); Tom Dyas re-elected mayor 19,454; Brady Rogers 12,637; confirmed by Chief Election Officer Michael Jud, 21 Oct 2026.",
+    "file": "kelowna_official_results_2026.txt",
+    "grep": "Davis Kyle – elected with 14,824 votes",
+    "also": [
+     "38,976 people voted",
+     "31.4 per cent",
+     "Brady Rogers – elected with 12,637 votes",
+     "Michael Jud, Chief Election Officer"
+    ]
+   },
+   {
+    "item": "Election day 17 Oct 2026 (six mail-in ballots counted afterwards explain the 14,822 preliminary vs 14,824 official figure; Capital News prelim shows Kyle and Kraft both 14,822, Kraft's official figure is 13,509 so the Capital News line is the typo, use the City figure).",
+    "file": "capnews_council_results_prelim_2026-10-17.txt",
+    "grep": "Kyle – 14,822 votes",
+    "also": [
+     "For the first time since 2011"
+    ]
+   },
+   {
+    "item": "Swearing-in Mon 2 Nov 2026; first Regular Meeting Mon 9 Nov 2026 (so no council action on land taxation can yet exist).",
+    "file": "kelowna_official_results_2026.txt",
+    "grep": "Nov. 2 at 7 p.m.",
+    "also": [
+     "first Regular Meeting will take place on Monday, Nov. 9"
+    ]
+   },
+   {
+    "item": "Kyle's own platform (campaign site): 'Directing staff to work with the provincial government on reintroducing split-rate property tax reform, with the end goal of revenue-neutral single-rate land value tax shifts.'",
+    "file": "kyle_site_jobs-and-the-economy.txt",
+    "grep": "end goal of revenue-neutral single-rate land value tax shifts",
+    "also": [
+     "kyle_site_promise-tracker.txt: Directing staff to work with the provincial government on reintroducing split-rate property tax reform"
+    ]
+   },
+   {
+    "item": "Kyle: 'Lobbying the provincial government to allow land millage property tax reform, bonded infrastructure funding models...'",
+    "file": "kyle_site_financial-responsibility.txt",
+    "grep": "Lobbying the provincial government to allow land millage property tax reform"
+   },
+   {
+    "item": "Kyle: 'Supporting an independent review of taxation and permitting fees. When fees for a simple carriage home go from $2,500 to $23,000, we have a problem.' (Kyle's own assertion; Rose reproduces it.)",
+    "file": "kyle_site_financial-responsibility.txt",
+    "grep": "$2,500 to $23,000, we have a problem",
+    "note": "the page uses non-breaking spaces around 'from'; grep the shorter string"
+   },
+   {
+    "item": "Kyle: parking benefit districts and DCC reduction through bonded infrastructure financing (non-LVT items Rose praises).",
+    "file": "kyle_site_jobs-and-the-economy.txt",
+    "grep": "parking benefit districts",
+    "also": [
+     "kyle_site_housing-and-planning.txt: committing to a DCC reduction plan"
+    ]
+   },
+   {
+    "item": "Kyle placed ninth in 2022 'with more than 10,000 votes' (32 candidates per Kyle in interview); cofounded Strong Towns Kelowna.",
+    "file": "capnews_kyle_announces_2026-06-02.txt",
+    "grep": "placed ninth in voting in 2022 with more than 10,000 votes",
+    "also": [
+     "rose_interview_davis_kyle.txt: in 32 candidates, I came ninth",
+     "kyle_site_about.txt: cofounded the local Kelowna chapter of Strong Towns"
+    ]
+   },
+   {
+    "item": "Kyle on the record (interview, Rose's Substack): 'on the Georgist front ... I'm looking forward to the lobbying resolutions ... building that majority at the council table for these lobbying resolutions is going to be a big part of the job ... in there will be the Georgist elements of the platform that I'm desperately hoping will see some provincial movement.' (quote <50 words if trimmed)",
+    "file": "rose_interview_davis_kyle.txt",
+    "grep": "in there will be the Georgist elements of the platform",
+    "also": [
+     "building that majority at the council table for these lobbying resolutions"
+    ]
+   },
+   {
+    "item": "Kyle on the history: BC's split-rate was dropped partly because of 'landlord organizations being upset about the new supply' and 1970s downzonings; BC Assessment kept the separate land/improvement assessment so a change 'would be a line item change' ('50-50 to 60-40'). Kyle's understanding, not a sourced finding; the wiki's BC page has a better-sourced account.",
+    "file": "rose_interview_davis_kyle.txt",
+    "grep": "landlord organizations being upset about the new supply",
+    "also": [
+     "They could allow municipalities to go from 50-50 to 60-40"
+    ]
+   },
+   {
+    "item": "Brady Rogers (also elected): 'I want Kelowna to tax land more and buildings less.' and wants Kelowna to join 'the UBCM in pushing the Province for the ability to shift more of our tax burden onto land'; also quotes 'by 1914, roughly two-thirds of B.C. municipalities used forms of land-value taxation'.",
+    "file": "brady_rogers_platform.txt",
+    "grep": "I want Kelowna to tax land more and buildings less.",
+    "also": [
+     "pushing the Province for the ability to shift more of our tax burden onto land",
+     "roughly two-thirds of B.C. municipalities"
+    ]
+   },
+   {
+    "item": "Rose's post, advice items (all Tier 2 opinion, none verifiable): 8 numbered sections: build a complete platform; make Georgism tangible (lead with savings/affordability); meet voters where they are ('people were asking that as their first question less than 15% of the time' is Kyle's recollection of how often the economy came up at the door); choose locally viable reforms (decline congestion pricing in a 'city of 170,000'); adapt language to left/right audience; sell land use via parking lots not farmland (ALR); pre-empt reasons earlier reforms were reversed; allies list; platform 'a work of genius' (Rose's judgement).",
+    "file": "rose_post.txt",
+    "grep": "less than 15% of the time",
+    "also": [
+     "nobody wants to hear about congestion pricing",
+     "Davis’s platform was a work of genius",
+     "political liability",
+     "Use AI to scour the Internet"
+    ]
+   },
+   {
+    "item": "Rose's only numeric claim from the interview: DCCs 'are $33,000 or more up front' for a backyard carriage home (Kyle's statement, unsourced; compare Kyle's own $2,500-to-$23,000 fee claim, which is a different measure).",
+    "file": "rose_post.txt",
+    "grep": "DCCs) are $33,000 or more up front"
+   },
+   {
+    "item": "Rose's author bio: 'Staff at Common Wealth Canada, Canada's Georgist policy institute. Advisor to the Gelephu Mindfulness City Land Commission.' Team page: 'BC Strategist'.",
+    "file": "rose_post_author_bio.txt",
+    "grep": "Staff at Common Wealth Canada",
+    "also": [
+     "cwc_team_page.txt: BC Strategist"
+    ]
+   }
+  ],
+  "existing_wiki_coverage": "Corpus digest grep for Kelowna / Davis Kyle / Andrew Rose / aroseinthehouse: zero hits. Repo grep: Kelowna appears only in places/british-columbia.md (Common Wealth Canada's list of 1914-era adopting municipalities, line 16; Kelowna among 59 SVT communities, line 26 and its Source 3) and in sources/wiki-queue.json (this queue item, plus an unrelated internal note proposing a Davis Kyle as a possible speaker). No places/kelowna.md, no people/davis-kyle.md, no people/andrew-rose.md. organizations/common-wealth-canada.md lists 'Andrew Rose' as a listed advisor (line ~25), whereas the organisation's team page now says 'BC Strategist' and his own bio says 'Staff'; T1 may want to reconcile that line separately. events/2026-state-lvt-enablement-wave.md is US-only, so not a home. The 1914 Kelowna adoption and 'BC has been here before' history is already carried on places/british-columbia.md, so the Kelowna election is a genuine delta: it is the first recorded 2026 local-election outcome on that page.",
+  "uncertainties": "(1) 'First Georgist elected in Canada in decades/a century' is Rose's claim; unverifiable and likely overbroad (no Canadian register of Georgist officials); do not print. (2) Kyle never uses 'Georgist' on his campaign pages; the self-description appears only in the interview ('the Georgist elements of the platform', 'on the Georgist front'). (3) Only the City release (official 21 Oct figures) should be used for votes: Capital News prelim figures differ by 2 votes. (4) The 'second in the overall election' statement is consistent with the City list (Lovegrove 15,466 first, Kyle 14,824 second). (5) Rose describes a BC provincial snap election 'yesterday' (24 Oct 2026) and a new Conservative government with a 'No new taxes' pledge; web search (CTV, The Hub, 25-26 Oct) corroborates a Conservative majority but no file was saved, and it is not needed for the Kelowna sentence. (6) No council motion, notice of motion, UBCM resolution or provincial response exists yet, so any claim of 'Kelowna council has taken land-value action' would be false; re-check after the 9 Nov meeting and the 2027 UBCM resolution deadline. (7) Conflict-of-interest note for T1: the author is Common Wealth Canada staff and the queue item was shared by the wiki's own team; treat as origin/proponent only (EDITORIAL §4c). (8) Kyle's DCC and carriage-home fee figures are his campaign assertions and were not checked against City bylaws."
+ },
+ {
+  "url": "https://taxfoundation.org/research/all/state/florida-amendment-3-homestead-property-tax-exemption/",
+  "title": "Amendment 3: A Restructuring of Florida’s Local Tax Base",
+  "what_was_fetched": "FETCHED IN FULL (browser UA, HTTP 200): taxfoundation_amendment3.txt (Nicole Fox, Tax Foundation, 20 Oct 2026, 50K chars incl. 38 references) and tf_pdf.txt (the Tax Foundation PDF FF890_Florida.pdf, same text). PRIMARIES AND KEY DOCUMENTS FETCHED: rec_hjr1f.txt (Florida Revenue Estimating Conference revenue-impact analysis for CS/HJR 1F, reviewed 12 Jun and 10 Jul 2026; pages 682-699 of the 2026F impact book, pdftotext; the impact0710.pdf link cited by Walczak is byte-equivalent text); fl_init_fulltext_10-110.txt = flsenate_hjr1f_er.txt (enrolled CS/HJR 1F, 20 pp, from the Division of Elections initiative page and from flsenate.gov via Googlebot UA, identical); house_analysis_h0001z.txt (House State Affairs final bill analysis, 16 Jun 2026); flsenate_hjr1f_page.txt (Senate bill page: last action 6/16/2026 signed by officers and filed with Secretary of State; linked CS/SB 4-F Ch. 2026-240); senate_vote.txt (Senate third reading 2 Jun 2026) and hv1900.txt (House passage vote); doe_amendment3_initdetail.txt (Division of Elections page: ballot number 3, made ballot 06/16/2026, revised title/summary text); fl_init_AG_10-110.pdf (Attorney General's 13 Aug 2026 revised-ballot-statement letter, image-only PDF; ag_letter_transcription.txt is a T0 transcription from the page images ag_page-1.png and ag_page-2.png, so verify by eye against those PNGs); walczak.txt (Jared Walczak, 'Amendment 3 Could Shift Tax Burdens to Renters', Walczak Policy Consulting, Sept 2026, 17 pp. - the actual source of the renter-incidence figures); baker_phil_fed.txt (Sarah Baker, Philadelphia Fed WP 25-41, the pass-through paper both TF and Walczak cite); edr_homestead.txt (EDR presentation 'Property Taxes: Homestead Distribution and Benefits', 22 Sep 2025, TF's source for homestead share of value); COURT RECORD, SECONDARY ONLY: wflx_ruling.txt (WFLX/Gray, 4 Aug 2026, detailed report of Circuit Judge David Frank's 3 Aug ruling in Save Our Voters From Misleading Ballot Language, Inc. v. Byrd), local10_ruling.txt (Local10/AP, 4 Aug), local10_rewrite.txt (Local10/AP, 13 Aug), fpolitics_rewrite.txt (Florida Politics, 13 Aug; says the state did not appeal), fpi_guide.txt (Florida Policy Institute voter guide, advocacy). NOT FETCHED: the Leon County circuit court order itself (Scribd copy blocked by a client challenge; no court-docket URL located); any Florida Supreme Court ruling (none found; a web search for an appeal or a challenge to the rewrite returned nothing, and Florida Politics reports the state declined to appeal); a separate Financial Impact Estimating Conference statement (none exists for this measure: the DOS page's 'Financial Impact Statement Date' fields are blank and the figures come from the REC revenue-impact analysis because this is a legislative joint resolution); the Senate companion SJR 2-F text beyond the bill page; Division of Elections results (vote is 3 Nov 2026); Florida Phoenix 29 Jul article (403). The Florida House docx links returned a 244-byte 'Request Rejected' page; flsenate.gov copies were used instead (Googlebot UA).",
+  "verdict": "ENRICH events/proposition-13.md NOW with a short, primary-sourced paragraph; HOLD the full treatment for the post-vote NEW events/2026-property-tax-revolt-wave.md. Reasons for not waiting: the REC figures and the enrolled text are final and will not change on 3 Nov, and the existing paragraph's description of Amendment 3 (taken from the Lincoln explainer: 'direct the legislature toward exempting homesteads entirely') overstates the text: the enrolled resolution only requires the Legislature to prescribe a uniform procedure by which counties and municipalities may raise the exemption (the 'schedule for full elimination' wording in the original ballot statement was struck by the court as misleading). INSERTION POINT: events/proposition-13.md, section '## The 2026 Revolt Wave', as a NEW paragraph after the final sentence of the existing paragraph, '...it does not discuss land value taxation as a response.[15]' and before '## See Also'. Suggested content (T1 to word, impersonally): (a) the measure is CS/HJR 1F of the 2026 special session F, passed 2 Jun 2026 (Senate 30-9, House 75-26), on the 3 Nov 2026 ballot as Amendment 3 and needing 60 per cent; (b) text: non-school homestead exemption $150,000 in 2027, $250,000 in 2028, CPI-indexed from 2029; the existing 3%-or-CPI Save Our Homes cap and $500,000 portability retained; non-homestead assessment cap 10% to 5% from 1 Jan 2027; newcomers (not Florida residents at 31 Dec 2026) get the lower exemption until the fifth year; counties/municipalities must use property tax revenue only for listed purposes; (c) REC revenue impact (non-school, local): -$4,929.5M in FY2027-28, -$8,714.5M in FY2028-29, -$9,647.9M, -$10,710.2M, recurring -$11,834.7M, with the REC stating that the effect of the provision directing future legislation to exempt homesteads fully 'is unknown'; (d) the ballot-language litigation: Leon County Circuit Judge David Frank held the legislative title and summary 'clearly and conclusively defective' on 3 Aug 2026; the Attorney General issued a revised statement on 13 Aug 2026 and the state did not appeal. SOURCES TO CITE: REC revenue-impact analysis (A, Tier 1 official); enrolled CS/HJR 1F (A, statute/primary); Senate and House vote records (A); Attorney General letter and Division of Elections page (A); House State Affairs bill analysis (A, corroboration: -$4.95B/-$8.78B/-$11.86B). For the court ruling cite the order if T1 can reach it; otherwise cite the Florida Politics/Local10 reports as secondary, attributing 'reported'. TAX FOUNDATION: Tier 2 think tank. Cite only as origin of its own framing and conclusion (that the measure shifts burden to non-homestead owners and renters; the 'restructuring' thesis) in a 'Current debate' sentence, never as support for the fiscal figures. DO NOT cite TF for the renter incidence number: it is Jared Walczak's, not TF's own and not the REC's; cite Walczak (Tier 2: consultant paper supported by the Florida Housing Coalition, Florida Apartment Association and Miami Homes For All, i.e. the rental industry, partnership acknowledged on its first page) as origin of the estimate, with that funding context stated. The Baker (Philadelphia Fed WP 25-41) 50-89 per cent pass-through is the only peer-style anchor and should be cited to the working paper, with the caveat that it is one Berkeley case study of ownership-change reassessments. LVT RELEVANCE for T1: none of the sources discuss land value taxation; the Tax Foundation paper does say property is 'less distortive' and notes land 'cannot be relocated', and the Walczak piece shows the burden shifting to rental and commercial property rather than to land. Use only in the revolt-wave page's context, not on LVT claim pages.",
+  "claim_grade": "REC fiscal estimates, enrolled resolution text, vote records, AG letter, DOS page, House analysis: A-claim, official bodies (Tier 1). Court ruling: A-claim on the event, but sourced here only from news reports (Tier 3 journalistic) until the order is retrieved. Walczak renter-incidence estimates (14.9% rental property 2031; 15.7% apartments; 15.4% single-family rentals; $3.47B shift to non-homestead residential): B-claim (modelled, author's own estimate, not peer reviewed), Tier 2 proponent/consultant with disclosed rental-industry support. Tax Foundation analysis (Fox): D-claim interpretive/B-claim secondary compilation; Tier 2 (think tank, per sources/audit/people-tiers.json 'Tax Foundation ... cite the national primary they compile'). Baker (Philadelphia Fed WP 25-41): B-claim, working paper by a central-bank staff economist (Tier 1 institution, working-paper grade).",
+  "content_summary": [
+   {
+    "item": "TF's headline fiscal sentence: '$150,000 exemption would cost local governments $4.9 billion in the first year, and the $250,000 exemption would cost $8.7 billion in the second year, with annual impacts of $11.8 billion as of tax year 2031' and 'full fiscal impact remains uncertain and could easily exceed current estimates', citing REC. NB: TF attaches the $4.9B to the $150,000 exemption alone; the REC figure is the combined impact of the exemption and the 5% non-homestead cap.",
+    "file": "taxfoundation_amendment3.txt",
+    "grep": "would cost local governments $4.9 billion in the first year",
+    "also": [
+     "full fiscal impact remains uncertain and could easily exceed current estimates"
+    ]
+   },
+   {
+    "item": "REC consensus table (non-school, total local, $ millions, cash by fiscal year): 2026-27 0.0; 2027-28 (4,929.5); 2028-29 (8,714.5); 2029-30 (9,647.9); 2030-31 (10,710.2); recurring (11,834.7) 'with the 6th year cash impact being the recurring impact'. Reviewed 12 June and 10 July 2026. If the amendment fails the impact is zero. Note the 11,834.7 recurring is also printed against 2026-27 in the statewide row, but cash is 0.0 in 2026-27.",
+    "file": "rec_hjr1f.txt",
+    "grep": "(4,929.5)",
+    "also": [
+     "(8,714.5)",
+     "(9,647.9)",
+     "(10,710.2)",
+     "(11,834.7)",
+     "Date(s) Conference Reviewed: June 12, 2026; July 10, 2026",
+     "with the 6th year cash impact being the recurring impact"
+    ]
+   },
+   {
+    "item": "REC: effect of provisions directing the Legislature to prescribe a procedure for full homestead exemption is 'unknown'; provisions letting counties/municipalities shorten the 5-year wait and special districts vote on bigger exemptions are scored zero.",
+    "file": "rec_hjr1f.txt",
+    "grep": "dependent on future legislative",
+    "also": [
+     "The impact of the provisions of the joint resolution allowing counties and municipalities to vote to reduce"
+    ]
+   },
+   {
+    "item": "REC exemption schedule table (second homestead exemption, current law vs resident at 31 Dec 2026): 2027 27,143 vs 150,000; 2028 27,805 vs 250,000; 2029 255,600; 2030 260,993; 2031 267,231 (CPI-indexed); non-resident column 50,000 in 2027, 51,220 in 2028. REC states non-residents get the adjusted $50,000 'for four years, and in the fifth year' the larger exemption.",
+    "file": "rec_hjr1f.txt",
+    "grep": "2031                  29,721                          267,231",
+    "also": [
+     "These individuals receive the adjusted $50,000 exemption for four years",
+     "becomes $150,000 in 2027 and $250,000 in 2028"
+    ]
+   },
+   {
+    "item": "TF's description of the exemption schedule: 'increase the homestead exemption to $150,000 beginning in 2027, and to $250,000 beginning in 2028. Starting in 2029, the $250,000 exemption would be adjusted annually for inflation'; school-district exemption stays $25,000; newcomers 'limited to a $50,000 homestead exemption for the first five years of ownership' (NB: REC and the AG ballot text put the larger exemption at the fifth year of exemption, i.e. four years at the lower amount; wording differs).",
+    "file": "taxfoundation_amendment3.txt",
+    "grep": "to $250,000 beginning in 2028",
+    "also": [
+     "Starting in 2029, the $250,000 exemption would be adjusted annually for inflation",
+     "for the first five years of ownership"
+    ]
+   },
+   {
+    "item": "Enrolled text: non-homestead assessment cap 'Before January 1, 2027, ten percent (10%). / Beginning January 1, 2027, five percent (5%)' (subsections (g) and (h)); Save Our Homes cap retained: lower of '(3%)' or CPI; portability up to $500,000; ballot-statement section; effective 1 Jan 2027.",
+    "file": "fl_init_fulltext_10-110.txt",
+    "grep": "Beginning January 1, 2027, five percent (5%).",
+    "also": [
+     "Three percent (3%) of the assessment for the prior",
+     "equals $500,000. Thereafter, the homestead shall be assessed",
+     "take effect January 1, 2027."
+    ]
+   },
+   {
+    "item": "10-mill cap (Art. VII s. 9(b), unchanged by the amendment): 'for all county purposes, ten mills; for all municipal purposes, ten mills; for all school purposes, ten mills'. TF: 'limits county and municipal millage rates to 10 mills each'; 'most jurisdictions have enough fiscal capacity under the 10 mill cap to adopt revenue-neutral rate increases'; 47.8% of counties above 7 mills, 14.9% of municipalities above 7 mills (Florida DOR tables). Walczak: rate increases 'could recover 96.1 percent of the cost of the $250,000 homestead exemptions, leaving $341 million unrecovered' because of the caps.",
+    "file": "fl_init_fulltext_10-110.txt",
+    "grep": "for all county purposes, ten mills",
+    "also": [
+     "taxfoundation_amendment3.txt: limits county and municipal millage rates to 10 mills each",
+     "taxfoundation_amendment3.txt: most jurisdictions have enough fiscal capacity under the 10 mill cap",
+     "walczak.txt: rate increases could recover 96.1",
+     "walczak.txt: $341 million unrecovered"
+    ]
+   },
+   {
+    "item": "Renter/commercial incidence: TF text 'A recent analysis specific to Amendment 3 concluded that if local governments raised millage rates to compensate for homestead revenue losses, annual property taxes could increase by roughly 15 percent for both apartment and single-family rental properties by 2031', footnote [21] = Jared Walczak, Walczak Policy Consulting, September 2026. It is Walczak's estimate, not TF's and not the REC's.",
+    "file": "taxfoundation_amendment3.txt",
+    "grep": "roughly 15 percent for both apartment and single-family rental properties by 2031",
+    "also": [
+     "[21] Jared Walczak"
+    ]
+   },
+   {
+    "item": "Walczak's own figures: total property tax burden on rental property rises 14.9% by tax year 2031 (14.1% in 2028); apartments +$406 (14.8%) in 2028 and +$554 (15.7%) in 2031; single-family rentals +$1,081 (14.6%) then +$1,471 (15.4%); non-homestead residential +$3.47B (2028); other property +$2.65B; homestead -$6.45B net; 200-unit apartment community about $81,000 more in 2028 and $109,000 in 2031. Assumes revenue-neutral millage increases, uses the REC projections ('We have adopted the REC projections'), and says renters 'bear the majority of this burden through higher rents'. He also states the REC figures 'closely correspond' with the House staff analysis ($4.95B/$8.78B/$11.86B).",
+    "file": "walczak.txt",
+    "grep": "14.9 percent",
+    "also": [
+     "$554 in 2031 (15.7 percent",
+     "Non-Homestead Residential                                        $0.35B",
+     "We have adopted the REC projections",
+     "partnership and support",
+     "Florida Housing Coalition",
+     "Florida Apartment",
+     "Miami Homes For All"
+    ]
+   },
+   {
+    "item": "Pass-through evidence TF cites for renters: Baker (Philadelphia Fed WP 25-41, Dec 2025) finds landlords 'pass through $0.50-$0.89 per $1' of building-level property-tax shocks (Berkeley, post-Prop 13 ownership changes); TF writes 'approximately 50 to 89 percent'. TF also cites Rolheiser 2018/2019 commercial pass-through ($1.06-$1.39 per $1 urban, $0.52-$0.67 suburban) - not fetched.",
+    "file": "baker_phil_fed.txt",
+    "grep": "pass through $0.50–$0.89 per $1",
+    "also": [
+     "taxfoundation_amendment3.txt: landlords passed approximately 50 to 89 percent"
+    ]
+   },
+   {
+    "item": "TF baseline facts: non-school property tax collections grew 68.6% 2019-2025 vs population 9.2% and inflation 25.9%; homestead = 46.7% of parcels, 46.4% of just value, 36.1% of taxable value; business TPP 5.5% of taxable value; about one-third of Floridians rent (14.3% Gilchrist to 47.8% Miami-Dade); property taxes 41.5% of own-source local revenue and 75.8% of local tax collections (FY2024, Census).",
+    "file": "taxfoundation_amendment3.txt",
+    "grep": "grew 68.6 percent from 2019 to 2025",
+    "also": [
+     "46.4 percent of the just value",
+     "Approximately one-third of Floridians are renters",
+     "41.5 percent of own-source local revenues"
+    ]
+   },
+   {
+    "item": "Local-revenue alternatives (TF): Discretionary Sales Surtax = 5.1% of local own-source general revenue, 9.4% of local tax revenue (2024), individual rates typically 0.5%-1%, combined 0.5%-2.0%, restricted uses; Local Business Tax; Municipal Public Service Tax; Communications Services Tax (rate increases barred until 1 Jan 2031); impact fees (new development only); special assessments (proportional benefit). TF's conclusion: 'many are not general-purpose replacements for the property tax'.",
+    "file": "taxfoundation_amendment3.txt",
+    "grep": "accounted for 5.1 percent of total local own-source general revenues",
+    "also": [
+     "until January 1, 2031",
+     "not general-purpose replacements for the property tax"
+    ]
+   },
+   {
+    "item": "Legislative record: Senate third reading 2 Jun 2026, 'Yeas - 30 Nays - 9'; House passage 'Yeas - 75 Nays - 26'; House analysis: three-fifths vote of each chamber; needs 60% of voters; Senate bill page: 'Signed by Officers and filed with Secretary of State' 6/16/2026; Division of Elections: ballot number 3, 'Made Ballot: 06/16/2026'.",
+    "file": "senate_vote.txt",
+    "grep": "Yeas - 30",
+    "also": [
+     "hv1900.txt: Yeas - 75",
+     "house_analysis_h0001z.txt: three-fifths vote",
+     "flsenate_hjr1f_page.txt: Signed by Officers and filed with Secretary of State",
+     "doe_amendment3_initdetail.txt: 06/16/2026"
+    ]
+   },
+   {
+    "item": "Ballot language: original legislative title 'SAVE OUR HOMES FROM EXCESSIVE PROPERTY TAXES' with taglines 'Exempting homestead properties from taxation ... requires, through general law, a schedule for full elimination', 'Ensuring funding for core services', 'Protecting small businesses', 'Ensuring fairness'. Circuit Judge David Frank (Leon County) on 3 Aug 2026 called it 'clearly and conclusively defective' and 'more akin to a political slogan', enjoined Secretary of State Cord Byrd from using it, and ordered the Attorney General to submit corrected language in 10 days; the order was final for appeal. AG James Uthmeier's 13 Aug 2026 letter submitted the revised title 'INCREASED HOMESTEAD EXEMPTION; LOWER CAP ON INCREASES IN NON-HOMESTEAD PROPERTY ASSESSMENTS' and states the state's 'notice declining further appeals'. Ballots printing began 27 Aug.",
+    "file": "wflx_ruling.txt",
+    "grep": "clearly and conclusively defective",
+    "also": [
+     "The title is more akin to a political slogan",
+     "schedule for full elimination",
+     "County election officials may begin printing ballots Aug. 27",
+     "fl_init_fulltext_10-110.txt: a schedule for",
+     "ag_letter_transcription.txt: Our notice declining further appeals",
+     "ag_letter_transcription.txt: INCREASED HOMESTEAD EXEMPTION; LOWER CAP ON",
+     "fpolitics_rewrite.txt: The state did not appeal the ruling"
+    ]
+   }
+  ],
+  "existing_wiki_coverage": "events/proposition-13.md '## The 2026 Revolt Wave' (one paragraph, Source 15 = Lincoln Land Lines explainer, 21 Oct 2026) already describes Amendment 3 as raising the non-school homestead exemption 'to $250,000 by 2028', cutting the non-homestead cap from 10 to 5 per cent, and directing 'the legislature toward exempting homesteads entirely'; it carries NO fiscal estimate, NO REC citation, no vote or ballot-litigation record, no renter-incidence evidence. Digest/repo grep for 'Amendment 3', 'Revenue Estimating', 'HJR 1', 'Walczak': events/proposition-13.md; places/wyoming.md (Wyoming SoS fiscal note, unrelated, mentions 'Consensus Revenue Estimating Group'); research/lincoln-ohio-property-tax-alternatives.md (Walczak's Lincoln working paper on Ohio, a different and more authoritative-venue paper: Walczak is Tier 1-adjacent when publishing through Lincoln, but this Amendment 3 paper is his private consultancy output, so do not conflate); concepts/split-rate-taxation.md and research/ndspn-cincinnati-lvt-analysis.md link that Ohio page. BACKLOG.md carries two open leads (line 99, tier:T1, 2026-10-22: after the 3 Nov vote consider NEW events/2026-property-tax-revolt-wave.md with Florida EDR financial impact statement and Division of Elections results as primaries; line 112, tier:T2, 2026-10-02: after-vote overview of thirteen state measures). No places/florida.md exists. sources/registry.csv has no row for the Tax Foundation paper, Walczak 2026 (Amendment 3), REC HJR 1F, or Baker WP 25-41; add rows. Pass-through/incidence is a live wiki theme (renters; objections pages) but this evidence concerns a non-LVT property-tax shift and should not be wired into LVT incidence claims without T1 review.",
+  "uncertainties": "(1) Financial Impact Estimating Conference: the task note names it, but no FIEC statement exists for this legislatively referred measure; the official fiscal source is the Revenue Estimating Conference revenue-impact analysis (REC page numbers 682-699). The DOS page's financial-impact fields are blank. (2) Fiscal-year vs tax-year labels: TF says 'as of tax year 2031', REC prints cash by fiscal year 2030-31 (-$10,710.2M) and treats the recurring -$11,834.7M as the 6th-year (FY2031-32) cash impact; Walczak says 'FY 2032'. Use the REC wording, or say 'recurring' and 'by 2031-32'. (3) TF's phrase 'the $150,000 exemption would cost $4.9 billion' mis-scopes the REC figure, which includes the 5% non-homestead cap. (4) The ~15% rental incidence is Walczak's modelled upper-bound scenario assuming full revenue-neutral millage backfill; TF reports it without the caveat; Walczak also gives 96.1% recoverability under the 10-mill caps; actual local responses are unknown and the REC explicitly scores local responses as zero. (5) Walczak's study is funded/supported by rental-industry and housing-advocacy partners and is not peer reviewed. (6) Newcomer wait: 'five years' (TF), 'fifth year of exemption' (AG text, DOS), 'four years' at the lower amount (REC) - choose the AG/ballot wording. (7) TF's cited Rolheiser paper and several Census/DOR tables were not independently fetched; TF's own table figures (millage tables) rest on Florida DOR data TF cites. (8) The circuit court order was not retrieved; the quoted phrases come from WFLX/Local10/AP reporting of the order; the AG letter PDF has no text layer so ag_letter_transcription.txt is a T0 hand transcription (confirm against ag_page-1.png/ag_page-2.png). (9) Whether anyone challenged the revised statement within the 10-day window or sought Supreme Court review was not established beyond Florida Politics' statement that the state did not appeal; a docket search is needed before the post-vote page asserts there was no further litigation. (10) Lincoln explainer vs primary: the existing wiki sentence 'direct the legislature toward exempting homesteads entirely' and 'raise ... to $250,000 by 2028' should be tightened against the enrolled text ($150,000 in 2027; Legislature must prescribe a procedure for local governments to opt up to full exemption). (11) Post-vote: the Division of Elections results (3 Nov 2026) and the 60% threshold outcome are unknown; the paragraph should be dated and the page updated or superseded after the vote."
+ }
+]

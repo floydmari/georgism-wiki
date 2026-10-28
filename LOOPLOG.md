@@ -5892,3 +5892,27 @@ Freiland. Rejected; no page touched.
 
 Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 480 consumed. Merged to
 main; nothing to Ghost-sync.
+
+## 2026-10-28 — Kelowna elects two land-tax councillors; Florida's Amendment 3 from the state's own estimates
+
+Two items after a three-day scanner silence. A Substack campaign guide built on an
+interview with a newly elected Kelowna councillor is Tier 2 advice and is not cited, but
+its subject led to primaries: the City of Kelowna's official results of 21 October show
+Davis Kyle elected second of eight on a platform of split-rate reform "with the end goal of
+revenue-neutral single-rate land value tax shifts", and Brady Rogers elected on "tax land
+more and buildings less" with a UBCM request for provincial permission. The British
+Columbia page gains a paragraph; the guide's claim that Kyle is the first Georgist elected
+in Canada in decades is unverified and not carried, and Kyle's own pages never use the
+word. A side fix corrects the Common Wealth Canada page, which listed the guide's author as
+an advisor where the team page lists him as staff. The Tax Foundation's Amendment 3 analysis
+led to the Revenue Estimating Conference's figures ($4.93 billion, $8.71 billion, $11.83
+billion recurring, combining the exemption with the new assessment cap), the enrolled
+resolution and votes, and the August ruling that struck the original ballot language; the
+Proposition 13 page's revolt-wave section gains that paragraph and loses a Lincoln-derived
+clause that overstated what the amendment requires. The 15 percent renter figure turned out
+to be a consultant's estimate published with housing-association support, not the Tax
+Foundation's or the state's, and is attributed as such. BACKLOG lead to watch Kelowna's
+first council meetings.
+
+Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 482 consumed. Merged to
+main and Ghost-synced.

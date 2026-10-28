@@ -5,7 +5,7 @@ tags: [organizations, canada, land-value-tax, economic-rent, sovereign-wealth-fu
 url: https://commonwealth.ca/
 stub: false
 excerpt: "A Canadian think tank advocating a national land value tax and a sovereign 'Common Wealth Fund' to capture economic rent from land and natural resources and redistribute it as citizen dividends."
-last_reviewed: 2026-07-26
+last_reviewed: 2026-10-28
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ Per the organisation's team page, the core team is:[3]
 - **Ben Earle** — Social Policy; lead-bylined co-author of the 2023 report.[3][4]
 - **Philippe Chabot** — Artist & Researcher; **Olivia Jol** — Marketing.[3]
 
-Listed advisors include Francis Peddle (Secretary-Treasurer of the [Henry George Foundation of Canada](/wiki/henry-george-foundation-canada/); past-president of the Robert Schalkenbach Foundation), [Gary Flomenhoft](/wiki/gary-flomenhoft/) (University of Queensland; originator of the Vermont Common Assets Trust Fund proposal), Stefan Horn (UCL Institute for Innovation and Public Purpose), Frank de Jong (Henry George Foundation of Canada; first leader of the Green Party of Ontario), Martin Adams, and Andrew Rose.[3]
+Listed advisors include Francis Peddle (Secretary-Treasurer of the [Henry George Foundation of Canada](/wiki/henry-george-foundation-canada/); past-president of the Robert Schalkenbach Foundation), [Gary Flomenhoft](/wiki/gary-flomenhoft/) (University of Queensland; originator of the Vermont Common Assets Trust Fund proposal), Stefan Horn (UCL Institute for Innovation and Public Purpose), Frank de Jong (Henry George Foundation of Canada; first leader of the Green Party of Ontario) and Martin Adams; Andrew Rose is listed on the staff side as BC Strategist.[3]
 
 ## Research Program
 
