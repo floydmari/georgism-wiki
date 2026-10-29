@@ -5916,3 +5916,25 @@ first council meetings.
 
 Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 482 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-29 — MTR from its own accounts; two paywalls left alone
+
+Three items. A Bloomberg video on Hong Kong's MTR, shared by Floyd, could not itself be
+fetched (YouTube rate-limited the subtitle tools), so it stands as the discovery source
+only; MTR's own Annual Report 2025, interim release and July 2026 company deck were read
+instead, and the MTR Corporation page now carries the company's figures: property
+development supplied HK$13.2 billion of operating profit in 2025, 60 percent of the group
+total, while transport operations lost HK$254 million; the profit is lumpy and MTR calls it
+non-recurrent; and the Northern Link premium is assessed at full market value with the
+railway present, less a fixed reduction. The page's old claim that property supplied more
+than half of revenue was a share of profit, not revenue, and is corrected. Hochman's 1981
+Journal of Public Economics paper has no abstract in any open index and a paywalled text,
+so it is deferred with a lead; the Vickrey page's wrong co-authors for the 1974 Flatters
+paper were corrected on the way. The Washington Post editorial on the November ballot
+measures is subscriber-only and served nothing to an ordinary request; no archives or
+crawler disguises were used, and it is deferred. A first attempt to dispatch the research
+agent was declined by the permission classifier because the brief invited paywall
+workarounds; the pass was rerun under an open-sources-only policy, which is now the rule.
+
+Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 485 consumed. Merged to
+main and Ghost-synced.

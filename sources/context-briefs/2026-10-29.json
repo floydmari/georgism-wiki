@@ -1,0 +1,131 @@
+[
+ {
+  "url": "https://www.youtube.com/watch?v=3kGQ7gsrOeA",
+  "title": "The Most Profitable Subway on Earth (Bloomberg Originals)",
+  "what_was_fetched": "VIDEO: only YouTube's oEmbed metadata was served (3kGQ7gsrOeA.oembed.json: title 'The Most Profitable Subway on Earth', channel 'Bloomberg Originals', https://www.youtube.com/@business). Subtitles, description, upload date and length were NOT obtainable: yt-dlp got HTTP 429 then 'Sign in to confirm you're not a bot'; youtube_transcript_api returned RequestBlocked (cloud IP); plain curl of the watch page redirected to a Google 'sorry' CAPTCHA. No cookies, proxies, third-party transcript sites or archive copies were used (policy). So NO figure, quote, interviewee or timestamp from the video is available to this brief. PRIMARY (MTR, mtr.com.hk, public investor documents, all saved in the scratchpad folder): mtr-AR2025-E07-key-figures.txt/.pdf and mtr-AR2025-E12-financial-performance.txt/.pdf, mtr-AR2025-E13-ten-year-statistics.txt, mtr-AR2025-E11-year-in-review.txt, mtr-AR2025-E10-ceo-review.txt (the Annual Report 2025 sections, https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E07.pdf etc.; the single assembled Annual Report PDF was not located, only these section PDFs E01-E15); mtr-PR020-26-annual-results-2025-press-release.txt/.pdf (PR020/26, 12 Mar 2026); mtr-sehk-annual-results-announcement-2025.txt/.pdf (HKEX results announcement); mtr-annual-results-2025-presentation.txt/.pdf (slides, 12 Mar 2026); mtr-PR050-26-interim-results-2026-press-release.txt/.pdf (PR050/26, 13 Aug 2026); mtr-interim-results-2026-presentation.txt/.pdf; mtr-company-overview-2026-07.txt/.pdf (investor deck, July 2026, has the R+P process slide). Wiki side read: organizations/mtr-corporation.md and places/hong-kong.md section 'Rail Finance: The MTR Rail + Property Model' with Sources.",
+  "verdict": "ENRICH organizations/mtr-corporation.md with MTR's own published figures; the video is at most the discovery source and must not be cited (its content could not be read, so nothing in it can be confirmed or ruled out). INSERTION POINT: section 'Overview', paragraph 1, immediately after the sentence ending 'property-related income has supplied more than half of MTRC's total revenue.[1]' - add 1-2 sentences: in 2025 MTR's Hong Kong transport operations made an EBIT loss of HK$254 million, while Hong Kong property development EBIT was HK$13,212 million, 60.1% of group EBIT (net profit attributable to shareholders HK$14,677 million); property development profit is lumpy (Hong Kong property development EBITDA HK$2,329 million in 2023, HK$13,212 million in 2025) and MTR itself calls it non-recurrent. Cite as a new Sources item 3: MTR Corporation, Annual Report 2025, Key Figures and Financial Performance, plus PR020/26. T1 SHOULD ALSO REVIEW two existing statements against the primary: (a) 'property-related income has supplied more than half of MTRC's total revenue' - in AR2025 Hong Kong property rental and management is 9.1% of total revenue (HK$5,067m of HK$55,465m) and Hong Kong property development is not booked as revenue at all (only HK$14m Chinese Mainland development revenue); the majority share is in EBIT (60.1% development + 17.4% rental = 77.5%), so the sentence appears to mix revenue and profit; (b) 'pays a land premium based on the pre-railway value' - MTR's July 2026 investor deck says for the Northern Link (Part 1) and Hung Shui Kiu projects the premium is assessed at full market value 'taking into account the presence of the railway' less a fixed Reduction Amount (HK$39,050 million; HK$9.85 billion). Whether the older projects used a pre-railway basis is not shown in the saved MTR texts, so (b) needs a source before editing. No change recommended to places/hong-kong.md (HK$171.8bn 1980-2005 figure is a different, historical series). Do not REJECT: the page has no current figures and its revenue claim looks wrong against the primary.",
+  "claim_grade": "A for the MTR-published figures (company's own audited results and official announcements; the issuer is the primary source, a Tier 1 official/standing-body-equivalent filing, though self-reported). Video: Bloomberg is Tier 1 journalism, B-claim for any figure it states, but unrated here because unread. Interviewees unknown.",
+  "content_summary": [
+   {
+    "text": "Hong Kong transport operations EBIT 2025: loss of HK$254 million (2024: loss HK$63 million); EBITDA HK$7,904 million.",
+    "locator": "AR2025 Key Figures table, 'Total EBIT'",
+    "file": "mtr-AR2025-E07-key-figures.txt",
+    "grep": "(254)"
+   },
+   {
+    "text": "Hong Kong property development EBIT HK$13,212 million = 60.1% of total EBIT (2024: HK$12,185 million, 54.7%); total EBIT HK$21,983 million.",
+    "locator": "AR2025 Key Figures, 'Property development business EBIT'",
+    "file": "mtr-AR2025-E07-key-figures.txt",
+    "grep": "13,212             60.1"
+   },
+   {
+    "text": "Hong Kong property rental and management EBIT HK$3,821 million (17.4%); revenue HK$5,067 million = 9.1% of total revenue HK$55,465 million.",
+    "locator": "AR2025 Key Figures",
+    "file": "mtr-AR2025-E07-key-figures.txt",
+    "grep": "5,067"
+   },
+   {
+    "text": "Profit attributable to shareholders HK$14,677 million; property development businesses HK$11,084 million of it (Hong Kong HK$11,066 million), recurrent businesses HK$5,653 million.",
+    "locator": "AR2025 Key Figures, 'Profit for the year attributable to shareholders arising from'",
+    "file": "mtr-AR2025-E07-key-figures.txt",
+    "grep": "11,084"
+   },
+   {
+    "text": "Property development profit (post-tax) HK$11,084 million, 'mainly derived from THE SOUTHSIDE packages 3 and 5, LOHAS Park Package 12 and Ho Man Tin Station packages 1 and 2'.",
+    "locator": "AR2025 Financial Performance, 'Property Development Profit (Post-tax)'",
+    "file": "mtr-AR2025-E12-financial-performance.txt",
+    "grep": "Property Development Profit (Post-tax)"
+   },
+   {
+    "text": "Hong Kong property development EBITDA by year 2025 back to 2016: 13,212; 12,185; 2,329; 11,589; 11,097; 6,491; 4,496; 2,574; 1,097; 228 (HK$ million) - lumpy.",
+    "locator": "AR2025 Ten-Year Statistics, 'Total EBITDA'",
+    "file": "mtr-AR2025-E13-ten-year-statistics.txt",
+    "grep": "13,212     12,185      2,329"
+   },
+   {
+    "text": "H1 2026: about HK$12.2 billion of the HK$15.9 billion net profit was a 'one-off booking of property development profit mainly from Tai Wai Station and THE SOUTHSIDE Package 5'; MTR: 'Property development profit is non-recurrent, subject to fluctuations and used to fund new railway construction'.",
+    "locator": "PR050/26 (13 Aug 2026), page 2",
+    "file": "mtr-PR050-26-interim-results-2026-press-release.txt",
+    "grep": "non-recurrent, subject to fluctuations"
+   },
+   {
+    "text": "MTR's R+P process slide: 'Land premium will be assessed on a full market value basis with certain agreed amounts deducted'; 'Developers usually pay for land premium and development costs'; profit sharing 'by percentage of profits or assets in kind or lump-sum payment'.",
+    "locator": "Company Overview July 2026, 'Rail + Property Business Model' slide (page 17)",
+    "file": "mtr-company-overview-2026-07.txt",
+    "grep": "Land premium will be assessed on a full market value basis"
+   },
+   {
+    "text": "Northern Link (Part 1): 'Land premium shall be assessed at the full market value of the site, taking into account the presence of the railway, less the Reduction Amount'; Reduction Amount HK$39,050 million.",
+    "locator": "Company Overview July 2026, Northern Link slide (page ~44-45)",
+    "file": "mtr-company-overview-2026-07.txt",
+    "grep": "into account the presence of the railway, less the Reduction Amount"
+   },
+   {
+    "text": "PR020/26: net profit 'more than HK$14.6 billion'; MTR 'will continue to leverage the Rail plus Property model to reinvest property development profits into railway construction and operations'; six new projects, about HK$140 billion.",
+    "locator": "PR020/26 (12 Mar 2026), paragraphs 1-2",
+    "file": "mtr-PR020-26-annual-results-2025-press-release.txt",
+    "grep": "reinvest"
+   }
+  ],
+  "existing_wiki_coverage": "organizations/mtr-corporation.md (stub, last_reviewed 2026-07-11): qualitative mechanics only, two Sources (Ryan-Collins et al 2017 Box 7.1; Jauregui-Fung IDOS); NO current MTR figures, no profit split, no R+P land-premium detail; carries the 'more than half of total revenue' claim [1]. places/hong-kong.md section 'Rail Finance: The MTR Rail + Property Model': HK$171.8 billion property-development revenue 1980-2005 (Siemiatycki, Fagan & Arku 2023, via the CIB study) plus the Crossrail/Scarborough comparison; no 2025/26 figures. Neither page cites Bloomberg or the video, and no page cites an MTR annual report (grep of the repo and digest: MTR appears only in those pages, andrew-purves, and See Also links).",
+  "uncertainties": "(1) The video itself is unread: any figure it states (profit, property share, number of developments, fares, interviewees, upload date, length) is unverified and cannot be compared. A retry from a different network, or a human-pasted transcript, is needed before the video is cited at all. (2) A single assembled 'Annual Report 2025' PDF was not located; the section PDFs E01-E15 under /archive/corporate/en/investor/annual2025/ and the HKEX announcement were used instead. The mtr.com.hk financial-reports HTML pages returned a 'temporarily not available' shell, so the page listing was taken from the results-announcements page links and a site-restricted web search. (3) 'More than half of revenue' may be true of a different measure or period in the IDOS source; T1 should check Jauregui-Fung before softening. (4) 60.1% is of EBIT before fair-value loss and interest; shown in the table, not an MTR-headlined statistic. (5) Hong Kong property development 'profit' appears as EBIT HK$13,212m and post-tax HK$11,084m (group incl. mainland); do not mix them. (6) Cite MTR as the issuer's own account, not independent confirmation of the model's merits."
+ },
+ {
+  "url": "https://doi.org/10.1016/0047-2727(81)90053-0",
+  "title": "Land rents, optimal taxation and local fiscal independence in an economy with local public goods (Oded Hochman, Journal of Public Economics 15(1):59-85, 1981)",
+  "what_was_fetched": "Metadata only; no abstract exists in any open record. hochman1981.crossref.json (Crossref REST, mailto wiki@progress.org: no abstract field; 38-item reference list; is-referenced-by 37), hochman1981.openalex.json (OpenAlex: no abstract_inverted_index; cited_by_count 55; closed access; author affiliation Ben-Gurion University of the Negev), hochman1981.s2.json (Semantic Scholar: abstract null - 'elided by the publisher'; citationCount 62; openAccessPdf CLOSED), hochman1981.repec.txt (RePEc/IDEAS listing: 'No abstract is available for this item'; 'Full text for ScienceDirect subscribers only'), hochman1981.unpaywall.json (Unpaywall API with wiki@progress.org: is_oa false, no OA location). The Elsevier/ScienceDirect landing page returned HTTP 403 to an ordinary request (doi.org resolves to linkinghub.elsevier.com, then 403). No scraper or copy sites used. fhm1974.crossref-search.json: Crossref record for the Flatters-Henderson-Mieszkowski (1974) paper, saved to confirm its authorship.",
+  "verdict": "DEFER. The openly available records carry no abstract, so nothing about the paper's result (whether land rents finance local public goods at the optimum, what 'local fiscal independence' means, its relation to Arnott-Stiglitz 1979) can be stated; the title alone is not a basis for a sentence. No ENRICH on concepts/henry-george-theorem.md. BACKLOG LEAD: obtain the abstract/introduction legitimately (publisher abstract viewed in a browser by a human, a library copy, or the author's own page at Ben-Gurion University) and then reconsider a one-sentence addition on concepts/henry-george-theorem.md section 'Origin', after the sentence ending 'an intermediate data point in the Georgist tradition's approach toward the eventual formalization.' naming Hochman (1981) among the early formalisations.",
+  "claim_grade": "Not gradable (no stated result). Source tier: Tier 1 (peer-reviewed, Journal of Public Economics; Hochman is an established urban/public economist, ORCID 0000-0002-4868-4793 per OpenAlex). Bibliographic facts (title, volume, pages, year, DOI) are A-claims from Crossref.",
+  "content_summary": [
+   {
+    "text": "Bibliographic record: Journal of Public Economics 15(1), pages 59-85, February 1981, Elsevier; DOI 10.1016/0047-2727(81)90053-0; sole author Oded Hochman.",
+    "locator": "Crossref record",
+    "file": "hochman1981.crossref.json",
+    "grep": "\"page\":\"59-85\""
+   },
+   {
+    "text": "Hochman's reference list (Crossref deposit) includes Flatters et al. 1974 ('Public good, efficiency and regional fiscal equalization', JPubE 3, p.99) and Stiglitz 1977 ('The theory of local public goods'), plus Hochman's own 1977 'The behavior of municipal governments, land rents and optimal taxation in an economy with local public goods and external returns to scale'; Arnott-Stiglitz 1979 does not appear in the deposited list (Arnott 1980, JUE, does). So the paper is in the same literature, but whether it engages the 1979 result cannot be established from the metadata.",
+    "locator": "Crossref reference list",
+    "file": "hochman1981.crossref.json",
+    "grep": "Public good, efficiency and regional fiscal equalization"
+   },
+   {
+    "text": "Citation counts: OpenAlex 55; Semantic Scholar 62; Crossref 37.",
+    "locator": "API fields",
+    "file": "hochman1981.openalex.json",
+    "grep": "\"cited_by_count\":55"
+   },
+   {
+    "text": "RePEc: 'No abstract is available for this item.'",
+    "locator": "IDEAS listing",
+    "file": "hochman1981.repec.txt",
+    "grep": "No abstract is available"
+   },
+   {
+    "text": "Crossref confirms the 1974 paper is by Flatters, Henderson and Mieszkowski (JPubE, May 1974, DOI 10.1016/0047-2727(74)90028-0).",
+    "locator": "Crossref search result",
+    "file": "fhm1974.crossref-search.json",
+    "grep": "90028-0"
+   }
+  ],
+  "existing_wiki_coverage": "Hochman appears nowhere in the repo's content pages (grep -i hochman: only sources/wiki-queue.json). concepts/henry-george-theorem.md section 'Origin' names Stiglitz and Arnott & Stiglitz (1979) and Gaffney (1972-73); 'Extensions' covers Behrens-Kanemoto-Murata 2015. research/arnott-stiglitz-henry-george-theorem.md has no pointer to earlier or contemporaneous formalisations. Side finding for T1: people/william-vickrey.md (line ~40) names the 1974 paper's authors as 'Flatters, Howrey & Wilson (1974)'; Crossref gives Flatters, Henderson & Mieszkowski (1974) - the author list on the Vickrey page looks wrong and should be checked against its cited 2019 source. No page carries Flatters-Henderson-Mieszkowski as a source.",
+  "uncertainties": "The paper's result is unknown to this run; do not infer it from the title, from Hochman's other titles in the reference list, or from the queue note (which was itself derived from a scraper copy and the same title). Whether Hochman is a 'founding statement' alongside FHM 1974 and Arnott-Stiglitz 1979 is a claim to take only from a source that says so. The 2019 paper cited on the Vickrey page might be the place to check how the literature positions these three; not fetched here."
+ },
+ {
+  "url": "https://www.washingtonpost.com/opinions/2026/10/29/property-tax-revolt-threatens-make-tax-systems-worse/",
+  "title": "Property tax rage is justified. These ballot measures are not. (Washington Post Editorial Board, 29 Oct 2026)",
+  "what_was_fetched": "Nothing from the publisher. Ordinary requests failed: WebFetch HTTP 403; curl (HTTP/2 and HTTP/1.1, browser-style and default user-agent) returned stream error 92 / empty reply with no body; the news sitemap URLs failed the same way; the opinions RSS feed (feeds.washingtonpost.com/rss/opinions) returned 502; a web search on the exact headline surfaced no page carrying it. Log saved as wapo-fetch-attempt.txt. No archive, mirror, scraper or crawler-user-agent access was tried (policy). Only metadata is the queue item's own (items.json): headline, Editorial Board, 29 Oct 2026, online 5:45 a.m. EDT, noted as paywalled - none of it confirmed by a fetch in this run.",
+  "verdict": "DEFER (not REJECT). Full text and any public excerpt are unreachable. The headline, if confirmed by a human viewing the page, states the Board's position by itself (anger over property taxes is justified; the ballot measures are not), but this run cannot confirm the headline, the subhead or the argument. Candidate for later: if a human supplies the visible headline/subhead, a single sentence at the end of events/proposition-13.md section 'The 2026 Revolt Wave' (after the Lincoln explainer / Florida Amendment 3 / Wyoming Initiative 1 paragraphs) recording that the Washington Post Editorial Board (29 Oct 2026) judged the measures worse than the problem, attributed as opinion, no reasons stated. Do not cite the queue item's paraphrase as support.",
+  "claim_grade": "Opinion (D) for judgements; any factual claims in it B-claims once read. Source tier: Tier 1 institutional opinion (Editorial Board), cite as attributed opinion only. Unrated as to content - unread.",
+  "content_summary": [
+   {
+    "text": "No publisher text obtained. Fetch-attempt log only.",
+    "locator": "n/a",
+    "file": "wapo-fetch-attempt.txt",
+    "grep": "Openly visible text obtained by this run: none"
+   }
+  ],
+  "existing_wiki_coverage": "events/proposition-13.md section 'The 2026 Revolt Wave' carries the Lincoln Institute October 2026 explainer (home prices up more than 50 percent since Jan 2020; assessment limits 'one of the most problematic' responses; circuit breakers etc. preferred) and the Florida CS/HJR 1F / Amendment 3 detail, North Carolina and Wyoming Initiative 1 measures. No Washington Post citation anywhere on the topic (the only 'Washington Post' hits in the repo are the Homer Hoyt obituary on people/homer-hoyt.md). The Lincoln explainer already supplies the 'wave is a successor to Prop 13 / Prop 2.5' framing, so an editorial-position sentence adds only a mainstream-press stance.",
+  "uncertainties": "Whether the Board's piece discusses land value taxation or split-rate alternatives is unknown; the headline suggests it is about caps, limits and phase-outs rather than LVT, so the wiki value is low even when readable. Re-queue only if a legitimate full-text route (subscriber access by a human) is supplied."
+ }
+]

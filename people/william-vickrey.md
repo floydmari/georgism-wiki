@@ -4,7 +4,7 @@ excerpt: 'Columbia economist and 1996 Nobel laureate (auctions, asymmetric infor
   and the most distinguished modern economist to identify openly with the Georgist
   tradition: Henry George Theorem contributor, congestion-pricing pioneer, co-author
   of a formal capital-neutrality proof with Mason Gaffney.'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-10-29
 stub: false
 tags:
 - people
@@ -37,7 +37,7 @@ contributed to the [Henry George Theorem](/wiki/henry-george-theorem/) literatur
 on financing city public goods from land rent, and championed marginal-cost
 pricing of urban services with land rents covering the fixed costs.[2] A 2019 paper
 extending the theorem to cities with heterogeneous sites names Vickrey's 1977
-contribution alongside Flatters, Howrey & Wilson (1974) and [Arnott & Stiglitz
+contribution alongside Flatters, Henderson & Mieszkowski (1974) and [Arnott & Stiglitz
 (1979)](/wiki/arnott-stiglitz-henry-george-theorem/) as the three founding
 statements of "the classic 'Henry George Theorem'" — putting Vickrey's HGT work on
 a documented par with Stiglitz's better-known formalization, not merely adjacent to
