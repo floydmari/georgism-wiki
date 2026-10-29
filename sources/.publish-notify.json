@@ -1781,6 +1781,41 @@
       "action": "updated",
       "published_at": "2026-10-28T11:26:04.000Z",
       "notified": false
+    },
+    {
+      "slug": "mtr-corporation",
+      "title": "MTR Corporation (Hong Kong)",
+      "url": "https://www.progress.org/wiki/mtr-corporation/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "hong-kong",
+        "land-value-capture",
+        "transit",
+        "infrastructure",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-29T11:25:18.000Z",
+      "notified": false
+    },
+    {
+      "slug": "william-vickrey",
+      "title": "William Vickrey",
+      "url": "https://www.progress.org/wiki/william-vickrey/",
+      "category": "people",
+      "tags": [
+        "people",
+        "vickrey",
+        "nobel",
+        "public-finance",
+        "congestion-pricing",
+        "henry-george-theorem",
+        "auctions"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-29T11:25:21.000Z",
+      "notified": false
     }
   ]
 }
