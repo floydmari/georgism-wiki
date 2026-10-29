@@ -10,6 +10,26 @@
       "queued_at": "2026-10-29T10:01:35.015340+00:00",
       "reported": true,
       "report_ts": "1793268271.109169"
+    },
+    {
+      "url": "https://doi.org/10.1016/0047-2727(81)90053-0",
+      "title": "Land rents, optimal taxation and local fiscal independence in an economy with local public goods",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: classic Journal of Public Economics paper in the Henry George theorem / local public finance literature (land rents, optimal taxation, local fiscal independence with local public goods), verified absent from registry, wiki content and both queues (0 content hits for Hochman). Surfaced by the 2026-10-29 EXA scan via a scraper copy on lesoutrali.com (rejected + blocklisted); primary resolved via OpenAlex and queued by canonical DOI. Serves research/arnott-stiglitz-henry-george-theorem.",
+      "context": "Land rents, optimal taxation and local fiscal independence in an economy with local public goods \u2014 Oded Hochman. Journal of Public Economics 15(1):59\u201385, 1981. doi 10.1016/0047-2727(81)90053-0. A 55-citation classic (OpenAlex-verified biblio) in the Henry George theorem literature: optimal taxation and local fiscal independence in an economy with local public goods, directly adjacent to the Arnott\u2013Stiglitz (1979) result already covered at research/arnott-stiglitz-henry-george-theorem. Not a new paper \u2014 a 1981 classic resurfaced by the 2026-10-29 LVT/rent scan via a scraper copy on lesoutrali.com (classifieds farm scraping academic citations; never citable \u2014 rejected and blocklisted). Canonical primary queued by DOI.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-29T11:09:29.369274+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.washingtonpost.com/opinions/2026/10/29/property-tax-revolt-threatens-make-tax-systems-worse/",
+      "title": "Property tax rage is justified. These ballot measures are not.",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: Washington Post Editorial Board editorial on the seven-state Nov 3 2026 property-tax ballot-measure wave, published five days before the vote \u2014 the national opinion-of-record framing of the revolt wave. Complements the consumed Lincoln Institute explainer and the queued Tax Foundation Amendment 3 analysis; serves the revolt-wave section on events/proposition-13 and the open BACKLOG leads on the Nov 2026 measure wave.",
+      "context": "Property tax rage is justified. These ballot measures are not. \u2014 Washington Post Editorial Board, 29 October 2026 (online 5:45 a.m. EDT). Editorial on the property-tax ballot measures before seven states on Nov 3 2026: voter anger over rising property taxes is justified, but the caps, limits and phase-outs on offer would make tax systems worse \u2014 there are better and worse ways to reform property taxes. Institutional opinion (Editorial Board, no named author). Paywalled: washingtonpost.com blocks direct fetch and no archive snapshot existed at queue time (archive.ph/is return 404 for the URL on 2026-10-29), so the canonical URL is queued with this note. Serves the revolt-wave section on events/proposition-13 and the Nov 2026 BACKLOG leads.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-29T11:09:29.369274+00:00",
+      "reported": false
     }
   ],
   "consumed": [
@@ -5957,7 +5977,7 @@
       "notes": "Tax Foundation analysis read in full (Tier 2, origin only). Primaries fetched and cited instead: REC revenue impact analysis of CS/HJR 1F ($4.93bn/$8.71bn/$11.83bn recurring, combined exemption and 5% cap), House staff analysis, enrolled text and vote records (30\u20139, 75\u201326), press reports of the 3 Aug 2026 ruling and 13 Aug revised language. Paragraph added to events/proposition-13.md 2026 Revolt Wave; the earlier Lincoln-derived clause 'direct the legislature toward exempting homesteads entirely' corrected to the enrolled uniform-procedure provision. The ~15% renter figure is Walczak's (Sept 2026, housing-association support), not the Tax Foundation's or the REC's; attributed accordingly. No FIEC statement exists for this measure. Full post-vote page still a BACKLOG lead."
     }
   ],
-  "last_updated": "2026-10-29T10:02:24Z",
+  "last_updated": "2026-10-29T11:09:29.369274+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 1
+  "total": 3
 }
