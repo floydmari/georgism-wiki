@@ -5938,3 +5938,26 @@ workarounds; the pass was rerun under an open-sources-only policy, which is now 
 
 Lint 0 errors; inventory 1037 pages, 0 orphans. Ledger: 0 pending, 485 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-30 — Ghana's divergent authorities, Philadelphia's architects, and the Budget read from the Red Book
+
+Three scanner items plus one the scanner delivered as a paywall bypass. King's open-access
+Journal of Institutional Economics article on Ghana gets a research page: local assemblies
+hold the formal power to rate property while stools, skins and families govern land
+information, price evidence, liability and legitimacy, so the building-based rating regime
+persists as a "manageable institutional settlement" and land value stays outside the base;
+a qualitative single-country study, cited as a peer-reviewed article rather than as an
+authority, with five pages linking in. The AIA Philadelphia Housing Committee's land-value-
+tax session earns one sentence on the Pennsylvania page as the chapter's own event; its
+"more than two dozen municipalities" claim contradicts its own linked source and is not
+carried. A Telegraph op-ed arrived as an archive.ph copy and was rejected unread under the
+open-sources-only rule; the Budget measures it describes were instead taken from the Red
+Book, the HVCTS policy papers, the policy costings, the MHCLG empty-homes release and the
+fiscal-devolution roadmap. The Burnham page now records that his government's first
+Budget, delivered by John Healey on 28 October, carried no land value tax, confirmed the
+£2 million surcharge inherited from Budget 2025 with a 100 percent premium on homes empty
+twelve months, and raised property-income rates by two points; three self-referential
+process phrases on that page were removed, and the UK page gains a pointer sentence.
+
+Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 488 consumed. Merged to
+main and Ghost-synced.

@@ -4,7 +4,7 @@ authors:
 bears_on_objections: []
 category: research
 excerpt: "A taxonomic review distinguishing Georgist land value capture — site value taxation, associated with Henry George — from non-Georgist betterment strategies like planning-gain levies and special-assessment rates, aimed at ending a 'fragmentary understanding' of land value capture as a phenomenon."
-last_reviewed: 2026-08-30
+last_reviewed: 2026-10-30
 source_url: https://www.tandfonline.com/doi/abs/10.1080/02665433.2024.2386685
 stub: false
 subcategory: wiki-research-lvt
@@ -74,6 +74,7 @@ from a specific national case into a general conceptual framework.
 - [Site Value](/wiki/site-value/)
 - [Betterment Levy](/wiki/betterment-levy/)
 - [Unearned Increment](/wiki/unearned-increment/)
+- [King: Tax Authority and Land Authority in Ghana (2026)](/wiki/king-tax-authority-land-authority-ghana/) — a West African case of the institutional preconditions for land-based taxation
 
 ## Sources
 

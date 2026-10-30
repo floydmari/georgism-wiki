@@ -4,7 +4,7 @@ category: places
 tags: [places, pakistan, south-asia, property-tax, valuation, capital-value, annual-rental-value, cadastre, world-bank]
 stub: false
 excerpt: "Pakistan has no land value tax. A 2026 World Bank diagnostic maps a fragmented system that leans on transfer taxes, with an urban property tax of about 0.13% of GDP now moving from rental to capital value (land plus buildings); valuation and land records are the weak points."
-last_reviewed: 2026-10-21
+last_reviewed: 2026-10-30
 ---
 
 ## Overview
@@ -73,6 +73,7 @@ The strategic roadmap (Tables 25–26, p.23–24) lists activities, deliverables
 - [Franzsen & McCluskey: Property Tax in Africa](/wiki/franzsen-mccluskey-property-tax-africa/) — comparative administration
 - [Mass Appraisal Methods](/wiki/mass-appraisal-methods/) — ratio studies and automated valuation
 - [Objection: land cannot be assessed](/wiki/land-cannot-be-assessed/) — the administrative-capacity objection
+- [King: Tax Authority and Land Authority in Ghana (2026)](/wiki/king-tax-authority-land-authority-ghana/) — another case where formal tax authority and the institutions that govern land do not coincide
 
 ## Sources
 

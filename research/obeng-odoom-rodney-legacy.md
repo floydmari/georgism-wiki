@@ -10,7 +10,7 @@ subcategory: wiki-research-georgism
 stub: false
 excerpt: "A 2026 article argues Henry George's progress-and-poverty paradox omitted race — neither socialism nor a Georgist single tax alone remedies racialized land dispossession; the author proposes combining land-value capture with reparations in Walter Rodney's tradition."
 tags: [research, henry-george, walter-rodney, race, reparations, colonialism, land-dispossession, ajes]
-last_reviewed: 2026-08-10
+last_reviewed: 2026-10-30
 ---
 
 ## Overview
@@ -43,6 +43,7 @@ The publisher-deposited reference list (Crossref, retrieved 2026-08-25) runs to 
 - [The Great Land Robbery](/wiki/the-great-land-robbery/) — the general dispossession-justice narrative this paper's Guyana case extends internationally
 - [Henry George](/wiki/henry-george/) — the "progress and poverty" paradox this paper argues is incomplete without race
 - [Land as Commons](/wiki/land-as-commons/) — cites Obeng-Odoom's earlier (2016) George/Ostrom comparison
+- [King: Tax Authority and Land Authority in Ghana (2026)](/wiki/king-tax-authority-land-authority-ghana/) — the institutional mechanics of Ghana's property rating, where customary land authority keeps land value outside the local tax base
 
 ## Sources
 

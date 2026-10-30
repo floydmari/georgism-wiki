@@ -9,7 +9,7 @@ tier: Important
 source_url: https://www.lincolninst.edu/app/uploads/legacy-files/pubfiles/property-tax-in-africa-full_1.pdf
 stub: false
 excerpt: "The first comprehensive study of recurrent property taxation across Africa — 29 country reviews showing the tax is efficient in theory but severely constrained by valuation, identification, and enforcement capacity."
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-30
 bears_on_objections: [lvt-invites-assessment-corruption]
 supports_outcomes: [property-tax-raises-welfare-developing]
 ---
@@ -64,6 +64,7 @@ The book should **not** be read as evidence that raising rates increases welfare
 - [Sistemas del impuesto predial en América Latina y el Caribe (2nd ed.)](/wiki/lincoln-institute-latam-property-tax-book/) — the Lincoln Institute's regional-survey counterpart for Latin America and the Caribbean
 - [India's Value Capture Financing Framework (MoHUA, 2017)](/wiki/india-mohua-value-capture-framework/) — a third developing-region case: India's property-tax take (under 0.2% of GDP) is even further below the OECD average than the African cases this page documents
 - [Nigeria](/wiki/nigeria/) — the book's Lagos land use charge (ch. 32) read against the Land Use Act 1978's state-held land and statutory ground rent
+- [King: Tax Authority and Land Authority in Ghana (2026)](/wiki/king-tax-authority-land-authority-ghana/) — a single-country institutional study of why a building-focused rating regime persists where customary authorities hold land
 
 ## Sources
 

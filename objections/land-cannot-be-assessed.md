@@ -5,7 +5,7 @@ tags: [objections, assessment, valuation, lvt, critique]
 stub: false
 status: "Addressed — assessment is a known, solvable problem"
 excerpt: "The most common practical objection to LVT — that you can't separate land value from building value — and the empirical and methodological responses to it."
-last_reviewed: 2026-07-30
+last_reviewed: 2026-10-30
 ---
 
 ## The Objection
@@ -69,6 +69,7 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 - [Land Value Tax](/wiki/land-value-tax/) · [Estonia](/wiki/estonia/)
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)
 - [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak
+- [King: Tax Authority and Land Authority in Ghana (2026)](/wiki/king-tax-authority-land-authority-ghana/) — a case where the prior problem is missing price evidence and unclear interests under customary tenure, not the land-building split
 
 ## Sources
 
