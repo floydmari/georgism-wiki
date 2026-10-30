@@ -1,30 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://doi.org/10.1017/s1744137426100964",
-      "title": "When tax authority and land authority diverge: property tax reform and institutional persistence in Ghana",
-      "source": "lvt-paper-scanner",
-      "reason": "lvt-paper-scanner: peer-reviewed Journal of Institutional Economics article (Cambridge UP, online 22 Oct 2026) on why Ghana's building-focused property rating regime persists: formal tax authority sits with local assemblies while customary authorities still define, allocate and legitimate land rights — land value stays outside the local tax base. Verified absent: registry, inventory, consumed, live queue, triaged buckets, wiki content (author-surname + title-fragment walk over all repo md/csv/json: zero hits), #progressdotorg history (426 msgs, no hit). Canonical DOI resolved via Crossref.",
-      "context": "When tax authority and land authority diverge: property tax reform and institutional persistence in Ghana — Godswill Dormenyo King (College of Business, Technology and Engineering, Sheffield Hallam University). Journal of Institutional Economics, Cambridge University Press, published online 22 October 2026. doi 10.1017/s1744137426100964 (Crossref-verified via query.title). Develops the concept of tax authority/land authority divergence: Ghana's Metropolitan, Municipal and District Assemblies have formal authority to raise property rates, yet the land relations needed for land-based taxation (information, valuation evidence, liability, legitimacy, revenue expectations) remain partly shaped by customary authority — so the fiscally weak, building-focused rating regime stays institutionally durable and land value stays outside the recurrent local tax base. Documentary analysis + historical evidence + 32 semi-structured interviews; property taxes averaged 3.5% of total local government revenue 2010-2016. Surfaced by the 2026-10-30 LVT/rent scan as a cambridge.org Core page; queued by canonical DOI. Serves land-based property tax reform and property-tax-in-Africa coverage (McCluskey and Franzsen, Property Taxation in Africa, is already cited on the Walters research page).",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-10-30T11:12:21.554814+00:00",
-      "reported": true,
-      "report_ts": "1793358776.165079",
-      "reported_at": "2026-10-30T11:13:14.152099+00:00"
-    },
-    {
-      "url": "https://aiaphiladelphia.org/news/equity-justice/1782/1782-Good-Architecture-Shouldnt-Carry-a-Tax-Penalty-A-Land-Value-Tax-Primer",
-      "title": "Good Architecture Shouldn't Carry a Tax Penalty: A Land Value Tax Primer",
-      "source": "lvt-paper-scanner",
-      "reason": "lvt-paper-scanner: professional-body LVT primer by the AIA Philadelphia Housing Committee (Aaron Bell, 29 Oct 2026), documenting an 8 Sep 2026 session with Josie Faass and Russell Richie (Progress and Poverty Institute) and Joshua Vincent (Center for the Study of Economics) in Henry George's birthplace city. Tier-3 genre (professional-association event primer, not research) but a substantive third-party institutional record of current Georgist outreach and of the Philadelphia abatement/split-rate debate; named author, dated event. Serves movement-outreach and Pennsylvania split-rate coverage; the CSE is already referenced on people/steven-cord.md. Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history.",
-      "context": "Good Architecture Shouldn't Carry a Tax Penalty: A Land Value Tax Primer — Aaron Bell, AIA Philadelphia Housing Committee, 29 Oct 2026. Primer summarizing the committee's 8 Sep 2026 session on land value tax: zoning tells what may be built, tax policy helps decide whether it is financially feasible; the current property tax penalizes good architecture (higher-quality materials, sustainable systems raise the assessment) while under-taxing idle well-located land. Covers the Philadelphia 10-year abatement debate (scalpel vs structural fix), Pennsylvania split-rate history (Pittsburgh split-rate 1913-2001, two dozen PA municipalities, Allentown two-tier, several rescissions), open questions (assessment accuracy, transition, historic preservation, fiscal stability, legal pathway), and a member Q&A. Session held blocks from the Henry George Birthplace at 413 S. 10th Street, where George was born in 1839. Guest speakers: Josie Faass and Russell Richie (Progress and Poverty Institute), Joshua Vincent (Center for the Study of Economics); 60 members attended.",
-      "author": "lvt-paper-scanner",
-      "queued_at": "2026-10-30T11:12:21.554814+00:00",
-      "reported": true,
-      "report_ts": "1793358776.165079",
-      "reported_at": "2026-10-30T11:13:14.152143+00:00"
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6031,6 +6006,38 @@
       "wiki_page": null,
       "triage_date": "2026-10-30",
       "notes": "Not fetched. The queue URL is an archive.ph copy of a paywalled Telegraph op-ed (Sam Ashworth-Hayes, Reform UK, 29 Oct 2026). The loop's standing rule since 2026-10-29 is open sources only: no archive, mirror or syndication copies and no crawler user-agents for subscriber-only text, after the permission classifier declined a brief that invited such workarounds. The op-ed is opinion by a party researcher (Tier 2) in any case. The Budget measures it describes (council-tax surcharge on £2m-plus homes, empty-property powers) are being sourced directly from HM Treasury and gov.uk documents in this pass. The scanner's 'The Australian precedent' for archive bypass should not be followed again."
+    },
+    {
+      "url": "https://doi.org/10.1017/s1744137426100964",
+      "title": "When tax authority and land authority diverge: property tax reform and institutional persistence in Ghana",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: peer-reviewed Journal of Institutional Economics article (Cambridge UP, online 22 Oct 2026) on why Ghana's building-focused property rating regime persists: formal tax authority sits with local assemblies while customary authorities still define, allocate and legitimate land rights — land value stays outside the local tax base. Verified absent: registry, inventory, consumed, live queue, triaged buckets, wiki content (author-surname + title-fragment walk over all repo md/csv/json: zero hits), #progressdotorg history (426 msgs, no hit). Canonical DOI resolved via Crossref.",
+      "context": "When tax authority and land authority diverge: property tax reform and institutional persistence in Ghana — Godswill Dormenyo King (College of Business, Technology and Engineering, Sheffield Hallam University). Journal of Institutional Economics, Cambridge University Press, published online 22 October 2026. doi 10.1017/s1744137426100964 (Crossref-verified via query.title). Develops the concept of tax authority/land authority divergence: Ghana's Metropolitan, Municipal and District Assemblies have formal authority to raise property rates, yet the land relations needed for land-based taxation (information, valuation evidence, liability, legitimacy, revenue expectations) remain partly shaped by customary authority — so the fiscally weak, building-focused rating regime stays institutionally durable and land value stays outside the recurrent local tax base. Documentary analysis + historical evidence + 32 semi-structured interviews; property taxes averaged 3.5% of total local government revenue 2010-2016. Surfaced by the 2026-10-30 LVT/rent scan as a cambridge.org Core page; queued by canonical DOI. Serves land-based property tax reform and property-tax-in-Africa coverage (McCluskey and Franzsen, Property Taxation in Africa, is already cited on the Walters research page).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-30T11:12:21.554814+00:00",
+      "reported": true,
+      "report_ts": "1793358776.165079",
+      "reported_at": "2026-10-30T11:13:14.152099+00:00",
+      "verdict": "used",
+      "wiki_page": "research/king-tax-authority-land-authority-ghana.md",
+      "triage_date": "2026-10-30",
+      "notes": "CC BY 4.0 full text read from Cambridge Core (HTML; PDF 504). NEW research page on the tax-authority/land-authority divergence concept, Ghana's Local Governance Act 2016 rating base, customary land authority, 32 interviews (May–Sept 2022), and the article's reform conclusions; the 3.5% of local revenue figure attributed to Oppong 2021 as the article's source. Single-country qualitative study, cited as a peer-reviewed article (Tier 1 venue), author early-career. No places/ghana.md yet; lead if a second primary appears."
+    },
+    {
+      "url": "https://aiaphiladelphia.org/news/equity-justice/1782/1782-Good-Architecture-Shouldnt-Carry-a-Tax-Penalty-A-Land-Value-Tax-Primer",
+      "title": "Good Architecture Shouldn't Carry a Tax Penalty: A Land Value Tax Primer",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: professional-body LVT primer by the AIA Philadelphia Housing Committee (Aaron Bell, 29 Oct 2026), documenting an 8 Sep 2026 session with Josie Faass and Russell Richie (Progress and Poverty Institute) and Joshua Vincent (Center for the Study of Economics) in Henry George's birthplace city. Tier-3 genre (professional-association event primer, not research) but a substantive third-party institutional record of current Georgist outreach and of the Philadelphia abatement/split-rate debate; named author, dated event. Serves movement-outreach and Pennsylvania split-rate coverage; the CSE is already referenced on people/steven-cord.md. Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history.",
+      "context": "Good Architecture Shouldn't Carry a Tax Penalty: A Land Value Tax Primer — Aaron Bell, AIA Philadelphia Housing Committee, 29 Oct 2026. Primer summarizing the committee's 8 Sep 2026 session on land value tax: zoning tells what may be built, tax policy helps decide whether it is financially feasible; the current property tax penalizes good architecture (higher-quality materials, sustainable systems raise the assessment) while under-taxing idle well-located land. Covers the Philadelphia 10-year abatement debate (scalpel vs structural fix), Pennsylvania split-rate history (Pittsburgh split-rate 1913-2001, two dozen PA municipalities, Allentown two-tier, several rescissions), open questions (assessment accuracy, transition, historic preservation, fiscal stability, legal pathway), and a member Q&A. Session held blocks from the Henry George Birthplace at 413 S. 10th Street, where George was born in 1839. Guest speakers: Josie Faass and Russell Richie (Progress and Poverty Institute), Joshua Vincent (Center for the Study of Economics); 60 members attended.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-10-30T11:12:21.554814+00:00",
+      "reported": true,
+      "report_ts": "1793358776.165079",
+      "reported_at": "2026-10-30T11:13:14.152143+00:00",
+      "verdict": "used",
+      "wiki_page": "places/pennsylvania.md",
+      "triage_date": "2026-10-30",
+      "notes": "One sentence on places/pennsylvania.md recording the AIA Philadelphia Housing Committee's 8 Sep 2026 LVT session (Faass, Richie, Vincent; 60 members) and its primer's 'scalpel' framing and open-questions list, attributed as the chapter's own event (Tier 2). Not carried: 'more than two dozen' PA municipalities (the primer's own linked PPI review says 20; the wiki's Hughes count is 21 ever implemented), the venue (not stated on the page), and the speakers' Q&A figures."
     }
   ],
   "last_updated": "2026-10-30T11:12:21.554814+00:00",

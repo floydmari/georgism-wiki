@@ -1,0 +1,278 @@
+[
+ {
+  "url": "https://doi.org/10.1017/s1744137426100964",
+  "title": "When tax authority and land authority diverge: property tax reform and institutional persistence in Ghana (Godswill Dormenyo King, Journal of Institutional Economics 22, e59, online 22 Oct 2026)",
+  "what_was_fetched": [
+   "Crossref record (licence check): ghana_crossref.json - licence URL creativecommons.org/licenses/by/4.0 (start 2026-10-22); article-number e59; volume 22; publisher Cambridge University Press (CUP).",
+   "FULL TEXT (HTML, open access, CC BY 4.0, served to an ordinary request by Cambridge Core): ghana_king_2026_fulltext.txt (abstract, all sections, Tables 1-3 as long descriptions, references). The text printed on the page says 'This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence'.",
+   "Not obtained: the PDF (Cambridge Core PDF URL returned HTTP 504 on one attempt); the HTML full text is complete, so nothing is missing except page-number locators (HTML has none; use section headings and paragraph numbers below). Oppong (2021), the source of the 3.5% figure, was NOT fetched (cited secondary source)."
+  ],
+  "verdict": "NEW research/king-tax-authority-land-authority-ghana (primary; one Important-or-Supplementary research page; tier suggestion: Supplementary). Secondary, optional second deliverable: NEW places/ghana.md as a short, hedged one-source country page on the Pakistan model (Ghana has no wiki page; the article supplies enough verified institutional fact for a short page: who rates, what the base is, the 3.5% figure, the 1912 land-tax history, customary land holding). Do NOT merely ENRICH research/franzsen-mccluskey-property-tax-africa.md: that page is a 2017 29-country survey and the Ghana article adds a distinct causal mechanism, so a standalone page is warranted; add only a See Also line there (after the K'Akumu line in '## See Also') and on research/kakumu-kenya-site-value-tax.md and research/obeng-odoom-rodney-legacy.md. DEFER is not warranted: the full text is open. Suggested wiring on the new page: bears_on_objections [land-cannot-be-assessed] (valuation evidence and non-disclosed transaction prices), supports_outcomes none (descriptive/qualitative; do not wire to benefits/property-tax-raises-welfare-developing as support; it bears on implementation limits only; if wired, as context not evidence). Inbound links needed (>=2): franzsen-mccluskey-property-tax-africa, bergeron-tourek-weigel-drc-property-tax (both the state-capacity literature), obeng-odoom-rodney-legacy, places/nigeria or places/ethiopia.",
+  "claim_grade": "Mechanism (tax authority/land authority divergence): B-claim, qualitative case-study inference from 32 interviews plus documents, peer-reviewed (Tier 1 by venue). Statutory description of the rating base and the history (1894/1897 bills, 1912 land tax proposal): A-claim as reported by the article, secondary to the Local Governance Act 2016 and the cited histories (primary statute not fetched). 3.5% / 0.02% of GDP figures: B-claim, secondary (article cites Oppong 2021; Bahl 2009 for GDP share). Author tier by rubric (EDITORIAL 4c; name not in sources/audit/people-tiers.json): early-career academic (Crossref affiliation College of Business, Technology and Engineering, Sheffield Hallam University; the article states it is based on doctoral research at the University of Reading), single peer-reviewed article in a recognised journal. Propose: citable as Tier 1 on the strength of the peer-reviewed venue and open data description, but cite the ARTICLE as a single-country qualitative study ('a 2026 case study in the Journal of Institutional Economics'), not the person as an authority, and do not use the author's name as social proof for general claims about LVT.",
+  "content_summary": [
+   {
+    "point": "Concept: tax authority/land authority divergence = public institutions hold formal legal/administrative power to tax property while authority to 'define, allocate, legitimate, or disclose land rights' remains partly in customary or informal institutions. Tax authority covers defining the base, assessing liability, billing, collecting, enforcing; land authority covers allocating land, validating rights, controlling or disclosing land information, influencing transactions.",
+    "locator": "Section 'Tax authority/land authority divergence: definition, dimensions, and scope conditions'; also Introduction para 4",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "Tax authority/land authority divergence refers to situations in which public institutions possess formal legal and administrative powers to tax property"
+   },
+   {
+    "point": "Who rates: Metropolitan, Municipal and District Assemblies (MMDAs) 'have authority to mobilise local revenue through rates, rents, fees, fines, and licences, including property rates' under the Local Governance Act 2016.",
+    "locator": "Findings, 'Formal tax authority, the property rating base, and weak fiscal reach', para 1",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "Under the Local Governance Act 2016, MMDAs have authority to mobilise local revenue"
+   },
+   {
+    "point": "The base: general rates on premises are payable by the owner and levied on rateable value; rateable premises comprise buildings, structures or similar developments; rateable value is defined by the replacement cost of the buildings/structures after depreciation. So the main recurrent base is 'anchored to buildings, structures, and structural development rather than the unimproved value of land'.",
+    "locator": "Findings, same subsection, para 2",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "The rateable value is defined by reference to the replacement cost of the buildings"
+   },
+   {
+    "point": "Customary role in allocation: land 'held through stools, skins, families, and other landholding groups', chiefs as custodians or trustees; they retain influence over allocation, local recognition of rights and legitimacy of transactions.",
+    "locator": "Findings, 'Historical reproduction of land sensitivity and the rating settlement', para 1; Methodology, 'Case selection', para 2",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "Land is often held through stools, skins, families, and other landholding groups"
+   },
+   {
+    "point": "Valuation evidence: the land register lacks land-use and land-price data ('only stamp duty assessment information... typically a fraction of the actual land price', Land Registration Official 1); a landowning-group representative: 'we do not disclose information on the prices during our transactions'; customary secretariat records buyers' names but not prices.",
+    "locator": "Findings, 'Land information...' and 'Valuation evidence, liability, and transaction transparency'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "we do not disclose information on the prices during our transactions"
+   },
+   {
+    "point": "Data: qualitative case study; 32 formal semi-structured interviews, May-September 2022, 40-60 minutes, in English, plus documentary analysis (legislation, policy documents, institutional reports, historical materials) and field observations. Breakdown: 13 tax and land policy experts, 7 district assembly officials, 2 each from valuation, registration, survey/mapping and planning, 1 OASL (Office of the Administrator of Stool Lands) official, 1 public/vested land official, 1 Customary Land Secretariat representative, 1 landowning chief/family representative (sums to 32).",
+    "locator": "Methodology, 'Research design and data sources' and Table 1",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "In total, 32 formal interviews were conducted"
+   },
+   {
+    "point": "Only two direct customary voices (one Customary Land Secretariat representative, one landowning chief or family representative); the article says it does not claim to cover all customary authorities' views; single-country case.",
+    "locator": "Methodology, limitations para; Conclusion final para",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "Only a small number of customary land actors were interviewed directly"
+   },
+   {
+    "point": "Revenue figure: 'Between 2010 and 2016, property taxes averaged less than a fifth of internally generated funds and only 3.5% of total local government revenue' and approximately 0.02% of GDP. Source given: Oppong (2021) and Bahl (2009) in the Introduction; Findings text and Table 2 cite Oppong (2021): F. Oppong, 'An analysis of the impact of jurisdictional fragmentation on property taxes in Ghana', Journal of Financial Management of Property and Construction 26(2), 219-235, doi 10.1108/JFMPC-07-2020-0048 (not fetched).",
+    "locator": "Introduction para 1; Findings 'Formal tax authority...' para 3; Table 2 caption; References",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "only 3.5% of total local government revenue"
+   },
+   {
+    "point": "Table 2 (Oppong 2021): property rates as % of total local government revenue 2.9 (2007), 3.6, 3.4, 4.2, 3.2, 3.5, 3.5, 3.6 (2010-2016); as % of own (internally generated) revenue 16.0-20.5; the text states the range 2.9%-4.2%. Mean of the seven 2010-2016 table values is 3.57 (T0 arithmetic), consistent with '3.5%'. Table title says 2007-2016 but eight rows (2007, 2010-2016) are listed.",
+    "locator": "Findings, Table 2 long description and following paragraph",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "Row 7: 2015, 49,245,654"
+   },
+   {
+    "point": "History: Crown Lands Bill 1894 and Lands Bill 1897 treated 'vacant' land as Crown land, opposed through the Aborigines' Rights Protection Society; opposition to direct taxation in Cape Coast (Municipalities Ordinance 1889); 'By 1912, proposals for a land tax intended to encourage productive land use generated renewed opposition from chiefs'.",
+    "locator": "Findings, 'Historical reproduction...' paras 2-3; Table 3",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "By 1912, proposals for a land tax"
+   },
+   {
+    "point": "Land/site value as base: article defines LVT narrowly as 'a recurrent tax on the unimproved value of land, excluding buildings and improvements' (cites George 1879); says raising building rates 'would still focus the recurrent local tax on structures and improvements rather than on the site value created through urban growth, infrastructure provision, planning decisions'; leaves undeveloped land and speculative holding 'only weakly captured'. Compares full LVT, split-rate, vacant/underdeveloped land tax and betterment charges as 'not institutionally equivalent' but each needing reliable land information, defensible valuation, identifiable liability and legitimacy.",
+    "locator": "Framework section 'Legal pluralism...' final paras; Findings first subsection para 3; Discussion penultimate paragraphs",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "rather than on the site value created through urban growth"
+   },
+   {
+    "point": "Conclusion on reform: land-based property taxation 'cannot be treated as a mere technical adjustment'; better rolls, records, billing, digitisation and enforcement are 'necessary' but 'unlikely to be sufficient'; reform would need clearer information-sharing, 'credible engagement with customary land institutions', stronger links between local tax revenue and visible services, and careful sequencing. Not an argument for or against LVT; no empirical test of an LVT.",
+    "locator": "Conclusion para 3; Discussion 'reform implications' paras",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "cannot be treated as a mere technical adjustment"
+   },
+   {
+    "point": "Resistance quotes (respondents): 'I know the chiefs will resist such a thing' (Land Policy Expert 2); landowning group representative: land tax 'is something our ancestors have always fought against' and 'we do not trust these local governments; they are corrupt'. Some officials saw fiscal pressure as 'a golden opportunity' (Land Administrator 1).",
+    "locator": "Findings, 'Legitimacy, political feasibility, and variation across respondents'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/ghana_king_2026_fulltext.txt",
+    "grep": "I know the chiefs will resist such a thing"
+   }
+  ],
+  "existing_wiki_coverage": "Digest and repo grep ('Ghana', 'Oppong', 'Alhassan', 'Local Governance Act', 'stool', 'customary'): no places/ghana.md and no research page on Ghana property tax. Ghana appears only in research/obeng-odoom-rodney-legacy.md (Obeng-Odoom described as Ghanaian-Australian; no tax content) and LOOPLOG.md (a rejected gold-royalty item; a note that Ghana has no page). Customary/dual tenure is mentioned only generically in research/franzsen-mccluskey-property-tax-africa.md ('Land tenure informality and dual/customary tenure systems narrow the effective tax base', Cameroon and Rwanda examples). Adjacent pages: research/bergeron-tourek-weigel-drc-property-tax.md (enforcement-capacity ceiling), research/brockmeyer-property-tax-developing.md, research/kakumu-kenya-site-value-tax.md, places/nigeria.md, places/ethiopia.md, places/pakistan.md (model of a one-report country page, last_reviewed 2026-10-21). The article itself cites McCluskey and Franzsen (2017) and Obeng-Odoom (2016, land reform in Ghana), both of which the wiki can link. objections/land-cannot-be-assessed and objections/lvt-invites-assessment-corruption exist (candidate bears_on_objections).",
+  "uncertainties": [
+   "The 3.5% figure and Table 2 are second-hand from Oppong (2021); the primary dataset was not seen. 'Less than a fifth' is from the article text; table values range 16.0-20.5% (one year, 2011, is 20.5%, slightly over a fifth), so the 'averaged less than a fifth' statement is about the average, not each year.",
+   "Statutory content (rateable value = depreciated replacement cost of buildings) is the article's reading of the Local Governance Act 2016; the Act itself was not fetched, and the article gives no section numbers. T1 should phrase it as 'according to the article' and not cite the Act.",
+   "Qualitative study with interviews from 2022; only two customary voices. The mechanism is argued, not tested; it does not show that a Ghanaian LVT would fail or succeed.",
+   "No page numbers: HTML only; cite as J. Institutional Economics 22 (2026), article e59, doi 10.1017/S1744137426100964, with section headings. Crossref reference-count shows 0 and is-referenced-by 0 (brand-new article).",
+   "Author tier is a judgement call (not on people-tiers.json); one article, early-career; I recommend citing the article not the person. Whether JIE is a 'top-journal' for EDITORIAL 3 evidence ordering is T1's call; treat as 'other peer-reviewed work'.",
+   "Cambridge Core PDF returned 504; HTML text is complete per the page; no archive or mirror was used."
+  ]
+ },
+ {
+  "url": "https://aiaphiladelphia.org/news/equity-justice/1782/1782-Good-Architecture-Shouldnt-Carry-a-Tax-Penalty-A-Land-Value-Tax-Primer",
+  "title": "Good Architecture Shouldn't Carry a Tax Penalty: A Land Value Tax Primer (Aaron Bell, AIA Philadelphia Housing Committee, 29 Oct 2026)",
+  "what_was_fetched": [
+   "aia_philadelphia_lvt_primer_2026-10-29.txt - full text of the public page (HTTP 200), including the Q&A and resource list.",
+   "pa_litreview_ppi.txt - the 'Literature Review: What Happened When Pennsylvania Taxed Land' PDF linked from the page (Progress and Poverty Institute, openly served; pdftotext). This is the document the page's Pennsylvania section rests on.",
+   "Henry George Birthplace address checks: hgb_wikipedia.txt, hgb_upenn_findingaid.txt (University of Pennsylvania finding aid), hgb_philadelphiabuildings.txt (Philadelphia Architects and Buildings), hgb_nps.txt (NPS NRIS/HABS record).",
+   "Not fetched: the slides (Google Drive) and the meeting recording (Dropbox mp4); the Henry George Birthplace / Henry George School of Philadelphia own websites (henrygeorgebirthplace.org and hgsphiladelphia.org failed at the proxy, HTTP 502; henrygeorgeschool.org redirects to the New York school hgsss.org, which is not the Philadelphia site). The primer's unnamed 'recent working paper' behind the 26-78k jobs figure has no resolvable name in the extracted text."
+  ],
+  "verdict": "ENRICH places/pennsylvania.md, short (2-3 sentences, at most), in '## Philadelphia and the Wage-Tax Alternative Argument', inserted after the final sentence of that section's paragraph, which ends '...the estimate should be read as a single, unreplicated empirical study rather than as settled.' Content: the AIA Philadelphia Housing Committee held a session on land value tax on 8 September 2026 with Josie Faass and Russell Richie of the Progress and Poverty Institute and Joshua Vincent of the Center for the Study of Economics, attended by 60 members, and the chapter published a primer on 29 October 2026 that frames Philadelphia's 10-year property tax abatement as a 'scalpel' and lists assessment accuracy, transition effects, historic preservation, fiscal stability and the legal pathway as open questions; attribute everything as the chapter's own event and summary. Add the AIA primer as a Sources entry annotated 'used for the fact and content of the chapter's own event; advocacy-speaker claims in the Q&A not relied on'. Reasons it is worth the sentence: (a) the wiki has no Philadelphia-abatement text at all (grep 'abatement' hits no Pennsylvania or Philadelphia page); (b) it records a professional body (not a Georgist body) taking the issue up; (c) the open-questions list is neutral. REJECT would also be defensible: it adds no verifiable evidence beyond the event; so keep it to the event and the chapter's own framing, no history, no numbers. Do not create a new page. Do not add the Pennsylvania history from the primer (see discrepancies).",
+  "claim_grade": "A-claim for the fact and content of the chapter's own event (date, speakers, attendance, topics), source Tier 2 under EDITORIAL 4c (professional body; the author Aaron Bell is a committee member, not a scholar): origin/proponent only, never support. Abatement characterisations ('one of the most successful bipartisan policies of its era', 'widely credited') are unsourced assertions by the chapter: not usable as facts (D-claim). Pennsylvania history in the primer: A/B-claims that are secondary and unsourced on the page; check against the wiki's Tier 1 sources (see discrepancies). The Q&A answers are the advocacy speakers' (Tier 2/3) and must not be relied on: 'our models show that this cut is progressive by race and income' and the '26-78k jobs' claim are the speakers' own.",
+  "content_summary": [
+   {
+    "point": "Session date and host: 'On September 8, 2026, the AIA Philadelphia Housing Committee gathered to explore... the Land Value Tax (LVT).' Published 29 Oct 2026 under Equity + Justice, by Aaron Bell.",
+    "locator": "Opening paragraph; header date",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "On September 8, 2026, the AIA Philadelphia Housing Committee gathered"
+   },
+   {
+    "point": "Speakers: Josie Faass (Executive Director, Progress and Poverty Institute), Russell Richie (Director of Strategy and Impact, PPI), Joshua Vincent (Executive Director, Center for the Study of Economics). Attendance: 'The meeting drew 60 members'.",
+    "locator": "Paragraph 2; 'Event Resources & Guest Speakers'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "The meeting drew 60 members"
+   },
+   {
+    "point": "The 'good architecture penalty' framing (the page's title phrase, not a defined term): improvements raise the assessment ('higher-quality materials, sustainable systems, or thoughtful design... the assessed value of the improvement rises, and so does the annual tax bill'); 'Advocates argue that, over time, this produces fewer and more modest improvements.' Section heading 'Whatever You Tax, You Get Less Of'. Opening hook: 'Zoning tells us what may be built on a site; tax policy helps determine whether it is financially feasible to build at all.' Note the page attributes the incentive arguments to 'advocates'/'proponents'.",
+    "locator": "Sections 'Whatever You Tax, You Get Less Of' and paragraph 2",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "Whatever You Tax, You Get Less Of"
+   },
+   {
+    "point": "Philadelphia abatement discussion: 'conversations about housing production and tax policy have long centered on the 10-year property tax abatement'; some policymakers call it 'a scalpel rather than a cure' that returns 'every 10 to 15 years'; LVT advocates would remove the improvement-tax penalty structurally; the page concedes the 'abatement's effect on Philadelphia's tax base has been debated for years' and any LVT alternative 'would need to be modeled'.",
+    "locator": "Section 'A Scalpel, Not a Cure: LVT and the Abatement Debate'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "a scalpel rather than a cure"
+   },
+   {
+    "point": "Pennsylvania history as stated: 'Pittsburgh used a split-rate system from 1913 until 2001, and more than two dozen Pennsylvania municipalities have used blended land and building tax rates to varying degrees. Allentown, which adopted a two-tier system in the late 1990s, is frequently cited by advocates as a success story... several municipalities have rescinded their split-rate systems'. Earlier Philadelphia push 'in the 2000s met resistance, including from owners of large surface parking holdings'.",
+    "locator": "Section 'Pennsylvania: A Long-Running Experiment'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "more than two dozen Pennsylvania municipalities"
+   },
+   {
+    "point": "The PPI literature review the page links says: 'various forms of land value tax (LVT) have been implemented in 20 municipalities across Pennsylvania (PA)'. 20 vs 'more than two dozen' is an internal discrepancy between the primer and its own linked source.",
+    "locator": "PPI brief, page 1, opening paragraph",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/pa_litreview_ppi.txt",
+    "grep": "implemented in 20"
+   },
+   {
+    "point": "Open questions listed: assessment accuracy; transition and homeowners; historic preservation; fiscal stability; legal and legislative pathway ('What level of government action would be required to change how Philadelphia levies property tax?').",
+    "locator": "Section 'Open Questions and Practical Considerations'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "Legal and legislative pathway"
+   },
+   {
+    "point": "Birthplace: page caption 'The Henry George Birthplace at 413 S. 10th Street in Philadelphia, where the author of Progress and Poverty was born in 1839.' Independent confirmation of the address: UPenn finding aid 'newly restored Henry George Birthplace at 413 South 10th Street'; Wikipedia infobox 'Location 413 S. 10th Street'; Philadelphia Architects and Buildings lists '413 S 10TH ST' and 'Philadelphia Extension of Henry George School of Social Science (1957)'; NPS record lists 413 S. Tenth St.",
+    "locator": "Figure 1 caption; external records",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/hgb_upenn_findingaid.txt",
+    "grep": "Henry George Birthplace at 413 South 10th Street"
+   },
+   {
+    "point": "The primer does NOT say where the 8 Sep session was held. The queue note that it was 'blocks from the Henry George Birthplace' is not on the page; the chapter's address in the footer is 320 S. Broad Street, Suite 171. Do not state a venue.",
+    "locator": "Page footer",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/aia_philadelphia_lvt_primer_2026-10-29.txt",
+    "grep": "320 S. Broad Street"
+   }
+  ],
+  "existing_wiki_coverage": "places/pennsylvania.md (51 lines): Hughes (2006) count 'Since 1913... 33 Pennsylvania municipalities' = 16 split rates in force, 5 rescinded, 12 considered but never implemented (so 21 ever implemented); 'roughly twenty third-class cities adopted the system'; Allentown 1996; Pittsburgh 1913; Philadelphia section already cites Russell Richie's 8 April 2026 Broad + Liberty op-ed and the Jacob and Livas working paper (roughly 26,000 jobs). places/pittsburgh.md: split rate 1913-2001, 2:1 until 1979, about 5:1 in the 1980s, repeal on 19 Jan 2001 amid the reassessment (no 'two dozen' claim). places/harrisburg-pennsylvania.md: also quotes the 33/16/5/12 count and 'roughly 18 Pennsylvania municipalities inside the state's central natural experiment'. research pages for the studies the PPI brief summarises exist (oates-schwab-pittsburgh, plassmann-tideman-construction, banzhaf-lavery-pa-sprawl, bourassa-pittsburgh-lvt-housing, yang-split-rate-tax-base, yang-split-rate-spillover-employment); no Hanson (2022) page. organizations/progress-and-poverty-institute.md (Josie Faass as ED) exists; no page for the Center for the Study of Economics or for Joshua Vincent (he appears only on research/ndspn-cincinnati-lvt-analysis.md and people/steven-cord.md context). 'Abatement': no Philadelphia 10-year abatement text anywhere in places/events/organizations (grep). Henry George Birthplace: only Barker's quote ('a brick row house on Tenth Street near Pine', books/barker-henry-george-biography.md); no page for the house or its address.",
+  "uncertainties": [
+   "DISCREPANCY: 'more than two dozen Pennsylvania municipalities have used blended rates' conflicts with the wiki (Hughes 2006: 21 ever implemented, 33 engaged) and with the PPI brief the page links (20). Treat the primer's number as unsupported; do not import it.",
+   "Consistent with the wiki: Pittsburgh 1913-2001; Allentown 'late 1990s' (wiki: 1996); 'several municipalities have rescinded' (wiki: 5 per Hughes, plus Pittsburgh's 2001 repeal). The primer is silent on 1979-80 and on the assessment cause of the 2001 repeal.",
+   "The primer says Pittsburgh's system ran 1913-2001 but the PPI brief's own case study says the LVT shifts began 1979 and credits the 1980s revival to them; that is advocacy framing, not to be imported (the wiki's pittsburgh.md carries the contested attribution).",
+   "The primer's Q&A mixes the speakers' voices with the author's ('Aaron's concern is real but smaller than it looks'), so quotes in the Q&A are not cleanly the chapter's own; the 26-78k jobs range refers to an unnamed working paper, probably Jacob and Livas (the wiki cites roughly 26,000); not verified here.",
+   "Attendance of 60 and the date are the chapter's own statements; no independent record (calendar listing, recording) was seen.",
+   "The Henry George Birthplace own site and the Henry George School of Philadelphia site were not reachable, so the address was confirmed from four third-party records, not from the operator."
+  ]
+ },
+ {
+  "url": "https://www.gov.uk/government/collections/budget-2026-in-full",
+  "title": "UK Budget 2026 (delivered 28 October 2026 by Chancellor John Healey): property measures. No queue URL; primaries from gov.uk / HM Treasury. Note: gov.uk titles it 'Budget 2026'; the 'Autumn Budget 2026' label appears in some departmental pages.",
+  "what_was_fetched": [
+   "gov.uk collection and topical-event pages (via the gov.uk content API): govuk_budget_document_page.txt, govuk_supporting_page.txt; collection listing json in dl/budget-collection-in-full.json, dl/budget-collection-tax-related.json, dl/budget-topical-event.json.",
+   "Red Book (Budget 2026 main document, HC 726, PDF): budget2026_redbook_main.txt.",
+   "Policy costings (PDF): budget2026_policy_costings.txt. Impact on households (PDF): budget2026_impact_on_households.txt (saved, not mined for property measures). Table 6.1 xlsx downloaded to dl/table61.xlsx but not converted; the Red Book Table 6.1 text is in the main file.",
+   "Budget speech: govuk_budget_speech_2026-10-28.txt (gov.uk text; contains several '[REDACTED POLITICAL CONTENT]' markers as published). Budget news story: govuk_budget_news_story.txt.",
+   "HVCTS: policy paper / tax information and impact note govuk_hvcts_policy_paper_html.txt; guidance (fact sheet) govuk_hvcts_guidance_html.txt; Summary of Responses and Government response (PDF) hvcts_summary_of_responses_2026-10-28.txt; consultation page govuk_hvcts_consultation_html.txt; the 28 Nov 2025 gov.uk announcement govuk_hvcts_news_2025-11-28.txt.",
+   "Property income rates: tax information and impact note govuk_tiin_property_savings_rates_html.txt; companion govuk_tiin_income_tax_changes_resulting.txt; OOTLAR landing govuk_ootlar_page.txt.",
+   "Empty homes: MHCLG press release of 27 Sept 2026 govuk_empty_homes_edmo_press_release_2026-09-27.txt.",
+   "Fiscal Devolution Roadmap (PDF): fiscal_devolution_roadmap_2026-10-28.txt (para 2.60 on land values and property-related taxation).",
+   "No Telegraph text used or fetched. Not fetched: OBR documents; the OOTLAR annex PDFs; Table 6.1 xlsx not parsed."
+  ],
+  "verdict": "ENRICH people/andy-burnham.md (primary home, one new paragraph) and places/united-kingdom.md (one sentence pointing to it). Insertion points: (1) people/andy-burnham.md, section '## Land Value Tax: From 2010 to the 2026 Campaign': a new paragraph after the paragraph that begins 'On 24 September 2026 the Resolution Foundation...' and before '## Winning the Leadership and Becoming Prime Minister'; also, in the paragraph ending 'no legislation had been published as of 6 September 2026.' (the sentence 'As of 11 August 2026 the reform is confirmed not to be in the 28 October 2026 Budget'), append that the Budget as delivered on 28 October 2026 contained no council-tax replacement or land/property-value tax measure (grep of the Red Book, speech, news story and costings for 'land value tax' and 'proportional property' returns nothing). (2) places/united-kingdom.md, section '## The 2026 LVT Moment: Andy Burnham's Premiership': one sentence after '...per the wiki's one-home-per-finding rule.' stating that the 28 October 2026 Budget, delivered by Chancellor John Healey, carried no LVT but confirmed the High Value Council Tax Surcharge (England, £2m+, from April 2028) and raised property-income tax rates; details on the Burnham page. Keep to the Treasury facts: A-claims from primaries. IMPORTANT CORRECTIONS to the brief's premises: (a) the £2m surcharge (HVCTS) is NOT new at this Budget: it was announced at Budget 2025 (gov.uk announcement dated 28 Nov 2025; Starmer government) and Budget 2026 confirmed its design (deferral, discounts and exemptions, premium); frame it as 'confirmed', never as announced by Burnham's government. (b) The 'doubling for homes empty 12 months' is a '100% premium' within the HVCTS, a surcharge on properties left 'substantially unfurnished and unoccupied for... 12 months or more'; the Budget documents contain no change to the ordinary council-tax empty-homes premium (grep 'empty' in the Red Book returns only a business-rates sentence). Use the sources' words, '100% premium', not 'doubling'. (c) The council takeover power is not a Budget measure and not new: it is an MHCLG press release of 27 Sept 2026 reforming existing Empty Dwelling Management Orders (EDMOs: councils may take over management of long-term empty homes for up to seven years, ownership staying with the owner); the qualifying empty period is cut from two years to six months and evidential requirements are removed. No legislative vehicle, commencement date or named minister is stated in the release; it does not mention the Budget. Present it separately as a 27 September announcement. (d) Property income rates rise by 2 percentage points a second time (Budget 2025 did the first), not a single new rate. Also optional: concepts/speculative-vacancy.md could take one sentence on the HVCTS 100% empty-property premium and the EDMO change (England) if T1 wants a vacancy-policy home; it currently has no England empty-homes policy content.",
+  "claim_grade": "A-claims (official fact: what the government announced, rates, dates, thresholds, costings as the Treasury states them). Source Tier 1 (HM Treasury, HMRC, MHCLG, gov.uk). Revenue and household-count figures are the government's own estimates (official forecasts, not independently tested): B-claims if used as effects; use 'the government estimates'. No interpretive claim about Georgist significance is supported by the sources: the HVCTS is a banded charge on property value (land plus building) on a 2026 valuation, not a land value tax; the Treasury documents never use the term. Do not state it is 'the first step' toward LVT.",
+  "content_summary": [
+   {
+    "point": "Who and when: 'The Chancellor of the Exchequer, the Rt Hon. John Healey MP, delivered Budget 2026 to Parliament on 28 October 2026.' The speech: 'an honour to stand here as Chancellor of the Exchequer to deliver my first Budget'. Red Book: 'Return to an Order of the House of Commons dated 28 October 2026'; HC 726.",
+    "locator": "gov.uk topical event page; speech opening; Red Book cover page",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/govuk_budget_speech_2026-10-28.txt",
+    "grep": "an honour to stand here as Chancellor of the Exchequer to deliver my first Budget"
+   },
+   {
+    "point": "HVCTS definition: 'a new annual charge on owners of residential property in England worth £2 million or above', in force from April 2028 (1 April 2028 'operative date'); Valuation Office to 'conduct a targeted valuation exercise to identify properties in scope'; local authorities collect it on behalf of central government alongside Council Tax. (The gov.uk announcement of 28 Nov 2025 names the Valuation Office Agency and a 2026 valuation; the 2026 documents say 'Valuation Office'.)",
+    "locator": "HVCTS tax information and impact note, 'General description of the measure' and 'Operative date'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/govuk_hvcts_policy_paper_html.txt",
+    "grep": "a new annual charge on owners of residential property in England worth £2 million or above"
+   },
+   {
+    "point": "Bands and charges: £2.0-2.5m £2,500; £2.5-3.5m £3,500; £3.5-5.0m £5,000; £5m+ £7,500. Charges rise with CPI from 2029-30; revaluation every five years, next in 2033; valuation date April 2026; draft bands visible Autumn 2027; first bills March 2028.",
+    "locator": "Impact note table; fact sheet 'Banding and charges', 'Valuation method'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/govuk_hvcts_guidance_html.txt",
+    "grep": "Revaluations will be conducted every five years. The next revaluation will take place in 2033"
+   },
+   {
+    "point": "Scale: about 150,000 individuals and 15,000 businesses/civil society owners liable; 'fewer than 1% of properties in England'; estimated to raise 'around £400 million of revenue per year from 2028/29'; combined Exchequer impact -90, -115, 365, 395, 395, 405 (£m, 2026-27 to 2031-32). Policy objective cites a band D home in Darlington/Blackpool paying £2,400 to £2,600 against about £2,100 for a £10m band H Mayfair property.",
+    "locator": "Impact note 'Impact on individuals' and 'Summary of impacts'; fact sheet para 3",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/govuk_hvcts_policy_paper_html.txt",
+    "grep": "estimated 150,000 individuals"
+   },
+   {
+    "point": "Budget 2026 decision on HVCTS: Red Book 6.234: 'The government has published a Summary of Responses to consultation, confirming it will introduce a deferral scheme, a series of discounts and exemptions, and a 100% premium on properties left empty and unoccupied for 12 months or more. HVCTS applies to England only... introduced through Finance Bill 2026-27.' Costing of this decision: -5m, -5m, -45m, -45m, -50m, -50m (Red Book Table 6.1 line 93).",
+    "locator": "Red Book chapter 6, 'Property taxation', para 6.234; Table 6.1 item 93",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/budget2026_redbook_main.txt",
+    "grep": "6.234 High Value Council Tax Surcharge (HVCTS) – The government has"
+   },
+   {
+    "point": "The empty premium: government response 6.12: 'legislating to levy a 100% premium on homes which are substantially unfurnished and unoccupied for a period of 12 months or more. This premium builds on the approach taken in Council Tax.' Fact sheet: 'a premium of 100% will be charged on properties left substantially unfurnished and unoccupied for a period of 12 months or more'. It replaced a consulted non-resident-owner premium idea (6.11-6.12).",
+    "locator": "Summary of Responses, section 6, paras 6.11-6.12; fact sheet 'Administration, billing and support'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/hvcts_summary_of_responses_2026-10-28.txt",
+    "grep": "it is therefore legislating to levy a 100% premium on homes which are substantially unfurnished"
+   },
+   {
+    "point": "Deferral: available if household income £35,000 or less, or capital savings £16,000 or less, or a member meets disability criteria; payment delayed until change of ownership; 'A fair rate of interest will be applied'.",
+    "locator": "Fact sheet, 'Administration, billing and support'",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/govuk_hvcts_guidance_html.txt",
+    "grep": "Annual household income of £35,000 or less, or"
+   },
+   {
+    "point": "Property income rates: Red Book 6.246: 'The government is increasing all the rates of income tax applied to property income by 2 percentage points. From 2027 to 2028, the property basic rate will be 24%, the property higher rate will be 44%, and the property additional rate will be 49%. These rates will apply across England, Wales and Northern Ireland... take effect from 6 April 2027.' Property trust rate 49%. Speech: 'increasing the rates of tax on income from property and savings by a further two percentage points from April 2027'. Red Book 2.50 says Budget 2025 had already raised these rates by two points; 'Around half of the revenue... from the top 10% of households'.",
+    "locator": "Red Book 6.246 and 2.50; HMRC tax information and impact note; speech",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/budget2026_redbook_main.txt",
+    "grep": "6.246 Changes to tax on property income – The government is increasing all the rates of income tax applied to property income by 2 percentage points"
+   },
+   {
+    "point": "Property-income costing: +0m, +35m, +575m, +435m, +445m, +455m (£m, 2026-27 to 2031-32); base is unincorporated landlords (individuals and partnerships); finance cost relief stays aligned to the property basic rate; some landlords may incorporate, 'expected to be limited'. Scotland and Wales can set property rates under their own powers.",
+    "locator": "Policy costings, 'Property Income: Increase tax rates...'; Red Book Table 6.1 item 61; HMRC note",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/budget2026_policy_costings.txt",
+    "grep": "increases tax on property income for unincorporated landlords"
+   },
+   {
+    "point": "Council takeover power (separate from the Budget): MHCLG, 27 September 2026: 'reforms to Empty Dwelling Management Orders (EDMOs)... EDMOs allow councils to take over the management of long-term empty homes and return them to occupation for up to seven years while ownership remains with the property owner. The changes will reduce the period a property must be empty before it becomes eligible for an EDMO from two years to six months.' Also removes evidential requirements such as anti-social behaviour or community support; 'exploring further changes'.",
+    "locator": "MHCLG press release, paras 1-4",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/govuk_empty_homes_edmo_press_release_2026-09-27.txt",
+    "grep": "from two years to six months"
+   },
+   {
+    "point": "Roadmap line relevant to land-value capture: 'Where local land values increase as a result of development, regeneration and public investment, more of the benefit should accrue to local communities... the government will explore how further reforms, including to property-related taxation, could support this objective.' Only a commitment to explore; no measure.",
+    "locator": "Fiscal Devolution Roadmap para 2.60 (published 28 Oct 2026)",
+    "file": "/tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-10-30/fiscal_devolution_roadmap_2026-10-28.txt",
+    "grep": "explore how further reforms, including to property-related taxation"
+   }
+  ],
+  "existing_wiki_coverage": "places/united-kingdom.md ('The 2026 LVT Moment: Andy Burnham's Premiership') and people/andy-burnham.md (last sections: 11 Aug Guardian explainer that property-tax overhaul was ruled out of the 28 Oct Budget; 25 Sept Fairer Share modelling; 24 Sept Resolution Foundation) carry no Budget 2026 content and no Chancellor; 'Healey' appears nowhere in the wiki. research/muellbauer-property-tax-reform-england.md already describes the HVCTS as 'the Starmer government's November 2025 Budget' measure with bands £2,500/£3,500/£5,000-7,500 and proposes replacing it (sourced to Muellbauer, not to the Treasury) - so the Treasury bands and start date are a primary behind an existing secondary, and the new paragraph should link to that page rather than restate its proposal. research/resolution-foundation-home-economics.md mentions separate surcharges on second homes and empty properties. concepts/speculative-vacancy.md has no England empty-homes policy (no EDMO, no council-tax premium; grep EDMO / 'empty homes premium' finds nothing in the wiki). organizations/institute-for-fiscal-studies.md not checked for Budget content (no Budget 2026 reaction was fetched). No wiki page records the property-income rate rise (grep 'property income' finds no UK tax content).",
+  "uncertainties": [
+   "Naming: gov.uk uses 'Budget 2026'; the gov.uk page titled 'What the Autumn Budget 2026 means for your energy bills' and the queue use 'Autumn Budget 2026'. Cite as 'Budget 2026 (28 October 2026)'.",
+   "The HVCTS tax information and impact note contains a typo, 'The government published its response to the consultation on 28 October 2028'; the Summary of Responses and fact sheet date it to Budget 2026 (28 October 2026). Do not repeat 2028.",
+   "Valuation body: 2025 announcement says 'Valuation Office Agency'; 2026 notes say 'Valuation Office (VO)' / 'HMRC VO'. Use 'Valuation Office' with the source, or avoid the acronym.",
+   "The Budget 2025 original HVCTS costing is in a separate Budget 2025 document not fetched; the combined exchequer table in the 2026 note merges both. 'About £400 million a year' comes from the fact sheet.",
+   "'Doubling' is the T0 task's wording; the sources say '100% premium'. Whether this means exactly twice the surcharge is not stated in the saved text (the premium base is not spelled out); T1 should not write 'doubles'. The Red Book and speech contain no ordinary council-tax empty-property change.",
+   "The EDMO release names no minister, legislative vehicle or start date, was published a month before the Budget, and is not in the Budget documents: do not attribute it to the Budget. EDMOs pre-existing is inferred from the press release's wording ('reforms to', 'reduce the period'), not from a statute fetched here.",
+   "Which Chancellor announced HVCTS at Budget 2025 is not stated in any saved file (the gov.uk pages say 'Budget 2025' only); the wiki's Muellbauer page says 'Starmer government'. Do not name that Chancellor.",
+   "The speech text on gov.uk has '[REDACTED POLITICAL CONTENT]' placeholders (as published); quotations should avoid those passages.",
+   "Red Book is signed 'James Murray' (HM Treasury, 28 October 2026); the HVCTS Summary of Responses foreword is signed by James Murray MP as Financial Secretary to the Treasury and Jim McMahon OBE MP, Minister for Local Government; these are as printed.",
+   "No distributional or reaction analysis (IFS, Resolution Foundation, OBR) was fetched for the Budget; any claim about effects or fairness would need a Tier 1 independent source.",
+   "Telegraph op-ed not fetched or used."
+  ]
+ }
+]
