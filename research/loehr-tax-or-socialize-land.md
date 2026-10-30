@@ -3,7 +3,7 @@ authors:
 - Dirk Loehr
 bears_on_objections: []
 category: research
-excerpt: "A companion piece to Loehr's 'Odd Couple' paper, narrowing the George/Gesell comparison to a concrete policy question: tax private land ownership, or socialize it? The paper's own answer is a hybrid — Gesell-style socialization (public ownership, lease auctions, bond compensation) for high-value urban land, George-style land value taxation for peripheral land."
+excerpt: "A companion to Loehr's 'Odd Couple' paper on George vs. Gesell: tax private land ownership, or socialize it? Its answer is a hybrid: Gesell-style socialization (public ownership, lease auctions, bonds) for high-value urban land, George-style LVT for peripheral land."
 last_reviewed: 2026-08-28
 source_url: https://doi.org/10.1111/ajes.70033
 stub: false

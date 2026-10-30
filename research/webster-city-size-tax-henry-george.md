@@ -7,7 +7,7 @@ authors:
 - Chuyuan Ren
 bears_on_objections: []
 category: research
-excerpt: "Proposes a 'city-size adjusted mean social surplus indicator' as the base for a land value tax calibrated to the power-law relationship between city size and unearned agglomeration benefits — an explicit modern route toward what the authors call a 'Georgist tax,' aimed at housing unaffordability, property bubbles, and imbalanced city systems."
+excerpt: "Proposes a 'city-size adjusted mean social surplus indicator' as the base for a land value tax calibrated to the power-law relationship between city size and unearned agglomeration benefits, an explicit modern route toward what the authors call a 'Georgist tax'."
 last_reviewed: 2026-08-30
 source_url: https://www.researchsquare.com/article/rs-6916007/latest
 stub: false

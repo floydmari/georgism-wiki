@@ -5,7 +5,7 @@ authors:
 bears_on_objections:
 - rent-revenue-breeds-corruption
 category: research
-excerpt: "Bolivia is often cited as a model of 'neo-extractivism' — the state capturing more of the resulting resource rent. But for the country's currently most valuable export, gold produced by small-scale cooperative miners, the pattern reverses entirely: lightly taxed, minimally overseen, with the resulting wealth captured 'from below' by the miners themselves rather than the state."
+excerpt: "Bolivia is often cited as a model of 'neo-extractivism', the state capturing more resource rent. But for its most valuable export, gold from small-scale cooperative miners, the pattern reverses: lightly taxed, minimally overseen, with wealth captured 'from below' by miners, not the state."
 last_reviewed: 2026-08-29
 source_url: https://www.tandfonline.com/doi/abs/10.1080/01436597.2026.2661233
 stub: false

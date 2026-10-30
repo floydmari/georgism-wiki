@@ -5,7 +5,7 @@ authors:
 - Zenia Kish
 bears_on_objections: []
 category: research
-excerpt: "Documents 'digital rentiership' spreading into farming: farmland-crowdfunding platforms (AcreTrader, FarmTogether) convert land into a tradable financial asset class, input suppliers (Bayer, Syngenta) monetize data alongside seed, and Farmer's Business Network — founded on anti-corporate-concentration messaging — partnered with grain giant ADM by 2021, showing how populist framing can obscure growing platform-toll power."
+excerpt: "Documents 'digital rentiership' in farming: crowdfunding platforms (AcreTrader, FarmTogether) make farmland a tradable financial asset, suppliers (Bayer, Syngenta) monetize data, and Farmer's Business Network partnered with ADM by 2021 — populist framing can obscure platform-toll power."
 last_reviewed: 2026-08-31
 source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.13107
 stub: false

@@ -4,7 +4,7 @@ authors:
 - Erin D. Dascher
 bears_on_objections: []
 category: research
-excerpt: "Copenhagen's public land development has succeeded by consolidating all land slated for modern development under a single state-owned entity — pursuing 'state monopoly rent' by stifling competition and controlling supply. The authors argue debt-driven pressure to maximize this rent limits the same entity's capacity to fulfill social-welfare objectives."
+excerpt: "Copenhagen's public land development has succeeded by consolidating all development land under one state-owned entity, pursuing 'state monopoly rent' by stifling competition and controlling supply. The authors argue debt-driven pressure to maximize it limits social-welfare capacity."
 last_reviewed: 2026-08-29
 source_url: https://www.tandfonline.com/doi/abs/10.1080/02723638.2026.2682863
 stub: false

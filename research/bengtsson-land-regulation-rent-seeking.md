@@ -3,7 +3,7 @@ authors:
 - Ingemar Bengtsson
 bears_on_objections: []
 category: research
-excerpt: "A Tullock-inspired decomposition of who gains and loses from land-use regulation: value moves from households needing housing and construction workers to existing homeowners, professionals, and regulatory bureaucracies. Explains persistence via Olson's institutional sclerosis and proposes compensation plus fewer veto points as reforms."
+excerpt: "A Tullock-inspired decomposition of who gains and loses from land-use regulation: value moves from households needing housing and construction workers to existing homeowners, professionals, and bureaucracies. Persistence is explained via Olson's sclerosis; compensation is proposed."
 last_reviewed: 2026-08-29
 source_url: https://lucris.lub.lu.se/ws/portalfiles/portal/246348875/Ingemar_Bengtsson_PCS_2026.pdf
 stub: false

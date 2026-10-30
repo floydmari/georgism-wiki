@@ -5,7 +5,7 @@ authors:
 bears_on_objections:
 - rent-revenue-breeds-corruption
 category: research
-excerpt: "A structuralist account of why Latin America and East Asia diverged so sharply despite riding the same 2003-2013 commodity supercycle: Latin American governments used the windfall to expand consumption rather than build productive linkages, leaving the region with 'more of the same' extraction instead of resource-financed industrialization."
+excerpt: "A structuralist account of why Latin America and East Asia diverged despite the same 2003-2013 commodity supercycle: Latin American governments used the windfall to expand consumption rather than build productive linkages, leaving 'more of the same' extraction, not industrialization."
 last_reviewed: 2026-08-27
 source_url: https://doi.org/10.1080/20780389.2026.2713694
 stub: false
@@ -102,8 +102,7 @@ argument.
    specialisation: Global integration and the destruction of productive capabilities in
    Latin America," *Economic History of Developing Regions*, published online 18 August
    2026 (open access), DOI 10.1080/20780389.2026.2713694.
-   [doi.org](https://doi.org/10.1080/20780389.2026.2713694) — fetched and read (abstract
-   level) 2026-08-27; used for the Latin America/East Asia comparative framing, the
+   [doi.org](https://doi.org/10.1080/20780389.2026.2713694) — used for the Latin America/East Asia comparative framing, the
    1995–2022 period and 2003–2013 commodity-supercycle reference, the
    consumption-vs-productive-linkages mechanism, and the "regressive specialisation"
-   concept (B-claim).
+   concept (fetched and read at abstract level 2026-08-27; B-claim).

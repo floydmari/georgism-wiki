@@ -6,7 +6,7 @@ authors:
 - Shreya Tandon
 bears_on_objections: [land-cannot-be-assessed, lvt-invites-assessment-corruption]
 category: research
-excerpt: "A randomized experiment in Chennai, India finds government tax inspectors raised nearly double the property-tax revenue of outsourced private contractors, and were independently verified as more accurate — a rigid, lowest-bid procurement process, not weak incentives, drove less-skilled private firms to underperform on assessment quality."
+excerpt: "A randomized experiment in Chennai, India finds government tax inspectors raised nearly double the property-tax revenue of outsourced contractors and were verified as more accurate — rigid lowest-bid procurement, not weak incentives, drove private firms' underperformance."
 last_reviewed: 2026-09-02
 source_url: https://www.nber.org/papers/w35610
 stub: false

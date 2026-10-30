@@ -39,6 +39,9 @@ The objection correctly identifies that large rent revenues, public or private, 
 - [Dmitry Lvov](/wiki/dmitry-lvov/) — proposed a rent-based alternative to Russia's privatization
 - [Objection: the public-choice critique](/wiki/public-choice-critique/) — the broader argument that any large, capturable government lever invites rent-seeking
 - [Resource Rents](/wiki/resource-rents/) — the general category this objection's resource-curse framing generalizes from
+- [Gala & Gabriel: Latin America's Resource Trap (2026)](/wiki/gala-gabriel-latin-america-resource-trap/) — a structuralist account in which the windfall failed through a consumption-versus-investment choice rather than through corruption as such
+- [Namo et al.: Nasarawa State Solid Minerals (2026)](/wiki/namo-nasarawa-solid-minerals-rentier-state/) — a Nigerian state case closer to governance atrophy from misaligned federal incentives than to corruption per se
+- [Medrano-Sanchez & Mamani-Salinas: Peru's Mining Canon (2026)](/wiki/medrano-mamani-peru-mining-canon/) — a 13-year panel in which captured mining rent, redistributed by formula, concentrated benefits in already-mining regions; the design of redistribution, not capture, is the weak point
 
 ## Sources
 

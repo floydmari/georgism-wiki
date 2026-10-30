@@ -3,7 +3,7 @@ authors:
 - Philip Coppack
 bears_on_objections: []
 category: research
-excerpt: "Argues competitive markets, by rewarding successful firms, generate concentrations of power that suppress the competition that produced them. Traces this through Smith on chartered monopolies, Ricardo's rent/profit distinction, and Rawls, naming firms like Amazon and Google 'sovereign corporations' that acquire quasi-governmental power through scale."
+excerpt: "Argues competitive markets, by rewarding successful firms, generate concentrations of power that suppress the competition that produced them. Traces this through Smith on chartered monopolies, Ricardo's rent/profit distinction, and Rawls, calling Amazon and Google 'sovereign corporations'."
 last_reviewed: 2026-08-29
 source_url: https://rshare.library.torontomu.ca/ndownloader/files/65647782
 stub: false

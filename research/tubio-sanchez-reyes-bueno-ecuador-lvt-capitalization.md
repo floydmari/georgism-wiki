@@ -5,7 +5,7 @@ authors:
 bears_on_objections:
 - land-cannot-be-assessed
 category: research
-excerpt: "The first empirical Latin American LVT capitalization study: 1,419 repeat land sales in Loja, Ecuador show urban-center land prices fall ~2.5% per 1pp rise in the effective tax rate — but underassessment of fast-appreciating areas shifts the burden to slower-growth zones, undercutting the tax's equity promise."
+excerpt: "The first empirical Latin American LVT capitalization study: 1,419 repeat land sales in Loja, Ecuador show urban-center land prices fall ~2.5% per 1pp rise in the effective tax rate, but underassessment of fast-appreciating areas shifts the burden to slower-growth zones, undercutting equity."
 last_reviewed: 2026-08-28
 source_url: https://doi.org/10.1111/jors.70063
 stub: false

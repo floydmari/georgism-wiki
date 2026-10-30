@@ -3,7 +3,7 @@ authors:
 - David Giesen
 bears_on_objections: []
 category: research
-excerpt: "A short historical case study: FDR championed capturing land-value increments along federal highway corridors, via excess condemnation, to finance an interstate highway system off-budget. Judged infeasible by the Bureau of Public Roads, the scheme was superseded by fuel-tax financing under the 1956 Interstate Highway Act."
+excerpt: "A short historical case study: FDR championed capturing land-value increments along federal highway corridors, via excess condemnation, to finance an interstate system off-budget. Judged infeasible by the Bureau of Public Roads, it gave way to fuel-tax financing in the 1956 Act."
 last_reviewed: 2026-08-28
 source_url: https://doi.org/10.1111/ajes.70014
 stub: false

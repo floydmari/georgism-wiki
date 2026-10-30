@@ -97,10 +97,10 @@ is a useful, honest counterweight to the land-speculation diagnosis.
    Inequality, and Urban Crisis*, *International Journal of Urban and Regional Research*,
    published online 31 October 2025, DOI 10.56949/1xka3791.
    [ijurr.org](https://www.ijurr.org/book_review/broken-city-book-review/) — read in full,
-   2026-08-26; used for the book's central argument, the critique of Glaeser and
+   2026-08-26 — used for the book's central argument, the critique of Glaeser and
    density deregulation, the Vienna proposal, and Fainstein's praise and criticism, all
    quoted verbatim from the review text (B-claim; review read directly, the book
    itself not read).
 2. Patrick M. Condon (2024), *Broken City: Land Speculation, Inequality, and Urban Crisis*
    — publication details (publisher, ISBN) not independently verified at last review
-   (2026-08-26); cited via the Fainstein review above.
+   (2026-08-26); cited via the Fainstein review above — used for the book's title and year only.

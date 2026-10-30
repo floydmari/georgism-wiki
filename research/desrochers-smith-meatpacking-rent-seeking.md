@@ -4,7 +4,7 @@ authors:
 - Andrew Smith
 bears_on_objections: []
 category: research
-excerpt: "A historical case study of the Chicago meatpacking industry argues that by-product innovation — turning waste (blood, offal) into soap, glue, fertilizer, and lubricants — cut both pollution and consumer prices by 30-40%, until rival firms' rent-seeking lobbying secured a 1920 antitrust consent decree that dismantled the vertically integrated system producing those gains."
+excerpt: "A historical case study of Chicago meatpacking argues that by-product innovation (turning blood and offal into soap, glue, fertilizer) cut pollution and consumer prices by 30-40%, until rivals' rent-seeking lobbying secured a 1920 antitrust consent decree dismantling the system."
 last_reviewed: 2026-08-31
 source_url: https://link.springer.com/article/10.1007/s11187-026-01241-4
 stub: false

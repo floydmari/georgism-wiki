@@ -5,7 +5,7 @@ authors:
 - Martijn van den Hurk
 bears_on_objections: []
 category: research
-excerpt: "Argues land value tax should be understood as the paradigm case of an 'anticipatory framework rule' — a general, preventive rule that filters out land rent before it causes downstream symptoms — against 'patterning rules' (zoning, growth boundaries) that overprescribe outcomes and 'reactive rules' (rent control, inclusionary zoning) that respond to visible symptoms without addressing their cause."
+excerpt: "Argues land value tax is the paradigm case of an 'anticipatory framework rule', a general, preventive rule that filters out land rent before it causes symptoms, against 'patterning rules' (zoning, growth boundaries) and 'reactive rules' (rent control, inclusionary zoning)."
 last_reviewed: 2026-08-31
 source_url: https://research-portal.uu.nl/en/publications/spatial-planning-as-eliminating-land-rents-from-symptom-treatment/
 stub: false

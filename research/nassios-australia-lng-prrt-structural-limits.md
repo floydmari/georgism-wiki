@@ -3,7 +3,7 @@ authors:
 - Jason Nassios
 bears_on_objections: []
 category: research
-excerpt: "Despite being a top-3 global LNG exporter riding post-2022 gas-price spikes, Australia's Petroleum Resource Rent Tax collections stay structurally low — PRRT revenue rose from A$1.5bn to A$2.3bn between 2014-2023 while a rent proxy rose from A$4.6bn to A$18.1bn. The paper attributes this to unobservable transfer pricing and decades-long deduction deferral, not the statutory rate, and finds raising the rate alone won't fix it."
+excerpt: "Despite top-3 LNG exporter status, Australia's Petroleum Resource Rent Tax collections stay low: PRRT revenue rose from A$1.5bn to A$2.3bn (2014-2023) while a rent proxy rose from A$4.6bn to A$18.1bn. The paper attributes this to transfer pricing and deduction deferral, not the rate."
 last_reviewed: 2026-08-29
 source_url: https://www.copsmodels.com/ftp/workpapr/g-372.pdf
 stub: false

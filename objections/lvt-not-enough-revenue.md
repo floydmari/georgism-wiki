@@ -154,6 +154,8 @@ theory.
 - [Foldvary: Geo-Rent, A Plea to Public Economists](/wiki/foldvary-geo-rent-plea-public-economists/) — a more optimistic ~50%-of-revenue synthesis estimate, worth reading alongside this page's more conservative figures
 - [Olea, Hoyos & García Enríquez: Bizkaia Land Value Tax](/wiki/olea-hoyos-bizkaia-land-value-tax/) — a rigorous, jurisdiction-specific worked simulation (1.05% suffices) rather than a national estimate
 - [Land is a Big Deal (book)](/wiki/land-is-a-big-deal/) · [Blaug, Economic Theory in Retrospect (book)](/wiki/economic-theory-in-retrospect/)
+- [Liu: Shanghai and Chongqing Property Tax Pilots (2026)](/wiki/liu-shanghai-chongqing-property-tax-pilots/) — indirectly relevant: a recurrent property tax running alongside land-leasing finance, so the two revenue streams are not mutually exclusive
+- [Smith, Brown, Dunning & Lord: Crossrail Land Value Capture (2026)](/wiki/smith-brown-dunning-lord-crossrail-lvc/) — an evaluated case where a dedicated levy raised a substantial, if partial, share of a mega-project's cost
 
 ## Sources
 

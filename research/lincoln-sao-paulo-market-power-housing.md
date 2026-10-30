@@ -4,7 +4,7 @@ authors:
 - Ciro Biderman
 bears_on_objections: []
 category: research
-excerpt: "Exploits kinks in São Paulo's construction-density tax (Outorga Onerosa, a land-value-capture instrument) to identify builder market power directly: an average 45% markup above marginal cost, substantially higher in central areas than competitive suburban markets — evidence that developer market power, not just land-use regulation, shapes housing supply and prices."
+excerpt: "Exploits kinks in São Paulo's construction-density tax (Outorga Onerosa) to identify builder market power: an average 45% markup above marginal cost, higher in central areas than competitive suburbs, suggesting it also shapes housing supply and prices."
 last_reviewed: 2026-08-30
 source_url: https://www.lincolninst.edu/publication/working-papers/market-power-housing-markets/
 stub: false

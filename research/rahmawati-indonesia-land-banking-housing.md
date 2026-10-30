@@ -5,7 +5,7 @@ authors:
 - Erwin van der Krabben
 bears_on_objections: []
 category: research
-excerpt: "In Surabaya, Indonesia, land prices run 300-700% above municipal assessed valuations, and larger developers actively resist infrastructure-handover obligations — a municipal official reports having to blacklist 20 developers for failing to comply despite multiple warnings. A case study in how discretionary enforcement lets private-sector land banking undercut public land policy's affordable-housing intent."
+excerpt: "In Surabaya, Indonesia, land prices run 300-700% above municipal assessed valuations, and larger developers resist infrastructure-handover obligations; an official reports blacklisting 20. A case study in how discretionary enforcement lets land banking undercut affordable housing."
 last_reviewed: 2026-08-31
 source_url: https://www.mdpi.com/2073-445X/14/5/916
 stub: false

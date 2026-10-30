@@ -5,7 +5,7 @@ authors:
 - Dusan Paredes
 bears_on_objections: []
 category: research
-excerpt: "A synthetic-control study of Detroit's Land Bank Authority vacant-home auction and rehab program finds it raised neighboring property prices on average — but with significant price declines in some treated neighborhoods, a spatially uneven result worth weighing before treating public-land-disposition programs as automatically value-positive."
+excerpt: "A synthetic-control study of Detroit's Land Bank Authority vacant-home auction and rehab program finds it raised neighboring property prices on average, but with significant declines in some treated neighborhoods — a spatially uneven result worth weighing."
 last_reviewed: 2026-08-30
 source_url: https://www.lincolninst.edu/publication/working-papers/measuring-land-value-increments-public-action/
 stub: false

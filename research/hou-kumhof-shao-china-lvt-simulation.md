@@ -5,7 +5,7 @@ authors:
 - Lei Shao
 bears_on_objections: []
 category: research
-excerpt: "A DSGE simulation finds that raising China's land value tax from 3.72% to 13.72% over 20 years, while cutting the consumption tax, leaves GDP roughly flat (or raises it, at higher land-wealth-share assumptions) — while financing the same tax cut with higher income taxes causes GDP to fall by up to 8%. Welfare rises more under the land tax than under any alternative."
+excerpt: "A DSGE simulation finds that raising China's land value tax from 3.72% to 13.72% over 20 years while cutting the consumption tax leaves GDP roughly flat (or higher, at higher land-wealth-share assumptions), whereas financing the same cut with income taxes lowers GDP by up to 8%."
 last_reviewed: 2026-08-29
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6223168
 stub: false

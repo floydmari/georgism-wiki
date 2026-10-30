@@ -6,7 +6,7 @@ authors:
 - Alejandro Zentner
 bears_on_objections: []
 category: research
-excerpt: "A Dallas County field experiment finds an AI chatbot raised property-tax appeal filing rates from 41.4% to 50.5% — nearly double the effect of a prior mailed-guide intervention — but the gain was smaller among less-educated, lower-value-home, and minority households, suggestive evidence that AI assistance widens existing disparities in who successfully contests their assessment."
+excerpt: "A Dallas County field experiment finds an AI chatbot raised property-tax appeal filing rates from 41.4% to 50.5%, nearly double a prior mailed-guide effect, but the gain was smaller among less-educated, lower-value-home, and minority households, suggesting AI widens disparities."
 last_reviewed: 2026-09-02
 source_url: https://www.nber.org/papers/w35632
 stub: false

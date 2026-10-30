@@ -3,7 +3,7 @@ authors:
 - Edward Shepherd
 bears_on_objections: []
 category: research
-excerpt: "Applies Freeden's morphological method for analyzing political ideologies to 80 years of UK land-value-capture debate (100+ parliamentary sources, 1941-2023), finding 'the market' migrated from an adjacent to a core organizing concept after 1985 — while homeowners, equally rentier-beneficiaries of land value appreciation, were left a 'conceptual silence' never subjected to the same moral scrutiny as speculators."
+excerpt: "Applies Freeden's morphological method to 80 years of UK land-value-capture debate (100+ parliamentary sources, 1941-2023), finding 'the market' migrated from an adjacent to a core concept after 1985, while homeowners, equally beneficiaries of land value gains, got 'conceptual silence'."
 last_reviewed: 2026-08-30
 source_url: https://www.tandfonline.com/doi/abs/10.1080/13569317.2025.2464674
 stub: false

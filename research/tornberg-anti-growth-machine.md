@@ -3,7 +3,7 @@ authors:
 - Petter Törnberg
 bears_on_objections: []
 category: research
-excerpt: "Inverts Logan & Molotch's classic 'growth machine' urban-political-economy framework: under financialized capitalism, restricting development — not expanding it — now maximizes returns on land as a speculative asset. The resulting 'anti-growth machine' of homeowners, landlords, and neighborhood groups blocks construction under environmental or character cover, while manufactured scarcity actually drives value extraction."
+excerpt: "Inverts Logan & Molotch's 'growth machine' framework: under financialized capitalism, restricting development now maximizes returns on land as a speculative asset. An 'anti-growth machine' of homeowners, landlords, and neighborhood groups blocks construction; scarcity drives extraction."
 last_reviewed: 2026-08-29
 source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.70145
 stub: false

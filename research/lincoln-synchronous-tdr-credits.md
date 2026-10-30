@@ -3,7 +3,7 @@ authors:
 - Benamy Turkienicz
 bears_on_objections: []
 category: research
-excerpt: "Gramado, Brazil's masterplan synchronizes Transferable Development Rights with Payment for Ecosystem Services — the first known integration of the two instruments — using an 'Equivalent Biodiversity Area' method to link ecosystem-loss compensation directly to development-rights pricing, after raising a 90-hectare area's Floor Area Ratio from 0.7 to 2.8."
+excerpt: "Gramado, Brazil's masterplan synchronizes Transferable Development Rights with Payment for Ecosystem Services, the first known integration of the two, using an 'Equivalent Biodiversity Area' method to link ecosystem-loss compensation to development-rights pricing."
 last_reviewed: 2026-08-30
 source_url: https://www.lincolninst.edu/publications/working-papers/synchronous-tdr-credits/
 stub: false

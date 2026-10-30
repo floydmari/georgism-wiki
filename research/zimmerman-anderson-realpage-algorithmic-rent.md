@@ -4,7 +4,7 @@ authors:
 - Matthew B. Anderson
 bears_on_objections: []
 category: research
-excerpt: "RealPage's rent-setting software pools competitor pricing data from landlord clients to recommend coordinated rent levels — achieving class monopoly rent extraction without the explicit collusion antitrust law requires. In Seattle's Belltown/South Lake Union, 70% of apartments were run by 10 property managers, all RealPage clients; in DC, RealPage-priced units make up ~90% of large multifamily buildings."
+excerpt: "RealPage's software pools competitor pricing data from landlord clients to recommend coordinated rent levels, achieving class monopoly rent extraction without explicit collusion. In Seattle's Belltown/South Lake Union, 70% of apartments were run by 10 managers, all RealPage clients."
 last_reviewed: 2026-08-31
 source_url: https://www.mdpi.com/2413-8851/9/8/315
 stub: false

@@ -3,7 +3,7 @@ authors:
 - Michael McCanless
 bears_on_objections: []
 category: research
-excerpt: "A Memphis study (2021-2023) links property ownership to tax-appeal filings and finds institutional single-family-rental investors appeal property-tax assessments nearly 3x as often as other investors, and 6x as often as homeowners — treating the appeals process itself as a fiscal strategy through which capital extracts value from the city's assessment apparatus."
+excerpt: "A Memphis study (2021-2023) finds institutional single-family-rental investors appeal property-tax assessments nearly 3x as often as other investors and 6x as often as homeowners, treating the appeals process itself as a fiscal strategy through which capital extracts value."
 last_reviewed: 2026-08-30
 source_url: https://www.sciencedirect.com/science/article/pii/S0016718525000326
 stub: false

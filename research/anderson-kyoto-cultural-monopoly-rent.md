@@ -3,7 +3,7 @@ authors:
 - Matthew B. Anderson
 bears_on_objections: []
 category: research
-excerpt: "Examines how heritage tourism drives housing commodification in Kyoto, Japan, as landowners pursue 'cultural monopoly rent' through selective (de)commodification of residential and commercial property — preserving the historic character on which the city's tourist appeal depends, while displacing residents and fueling overtourism."
+excerpt: "Examines how heritage tourism drives housing commodification in Kyoto, Japan, as landowners pursue 'cultural monopoly rent' through selective (de)commodification of property — preserving the historic character that tourism depends on, while displacing residents and fueling overtourism."
 last_reviewed: 2026-08-29
 source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2427.13368
 stub: false

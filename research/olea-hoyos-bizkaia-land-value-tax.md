@@ -6,7 +6,7 @@ authors:
 bears_on_objections:
 - lvt-not-enough-revenue
 category: research
-excerpt: "A hedonic spatial simulation for Bizkaia, Spain's fiscally autonomous Basque province, finds a proportional 1.05% land value tax would raise enough revenue to displace existing real-estate taxes and cut income tax for the bottom ~75% of the population — framed as a first step toward 'predistribution' rather than redistribution."
+excerpt: "A hedonic spatial simulation for Bizkaia, Spain's fiscally autonomous Basque province, finds a proportional 1.05% land value tax would raise enough to displace real-estate taxes and cut income tax for the bottom ~75% of the population — framed as 'predistribution', not redistribution."
 last_reviewed: 2026-08-26
 source_url: https://doi.org/10.1007/s00168-024-01353-3
 stub: false
@@ -97,6 +97,6 @@ that may travel better in policy debates wary of "redistribution" as a loaded te
    predistribution: a study on the introduction of a land value tax," *The Annals of
    Regional Science*, published online 17 February 2025, DOI 10.1007/s00168-024-01353-3.
    [doi.org](https://doi.org/10.1007/s00168-024-01353-3) — fetched and read (abstract
-   level) 2026-08-26; used for the Bizkaia jurisdiction, the spatially-correlated hedonic
+   level) 2026-08-26 — used for the Bizkaia jurisdiction, the spatially-correlated hedonic
    modeling method, the Lyons (2012) revenue-target methodology, the bottom-75%-income-tax
    displacement target, and the 1.05% land-value tax rate finding (B-claim).

@@ -3,7 +3,7 @@ authors:
 - John Muellbauer
 bears_on_objections: []
 category: research
-excerpt: "Muellbauer's September 2026 INET Oxford paper proposes replacing the Starmer government's banded High Value Council Tax Surcharge with a proportional 0.5%/1% surcharge on value above £1.5m, paired with a tapered stamp-duty cut — raising about £2.2bn a year from ~1.3% of English homes. It is a property-value reform, not a land value tax, and is framed explicitly as a first step for the Burnham government."
+excerpt: "Muellbauer's September 2026 INET Oxford paper proposes replacing the banded High Value Council Tax Surcharge with a proportional 0.5%/1% surcharge on value above £1.5m, plus a tapered stamp-duty cut, raising about £2.2bn a year. A property-value reform, not a land value tax."
 last_reviewed: 2026-09-30
 source_url: https://www.inet.ox.ac.uk/publications/no-2026-24-property-tax-reform-in-england-a-fresh-look
 stub: false

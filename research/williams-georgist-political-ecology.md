@@ -3,7 +3,7 @@ authors:
 - Joe Williams
 bears_on_objections: []
 category: research
-excerpt: "Argues Georgist rent theory deserves foundational status within political ecology — George's diagnosis that inequality stems from rent's disproportionate growth relative to wages and interest, and his principle of equal rights to nature, are read as directly applicable to environmental justice, the financialization of nature, decolonization, and antiracism debates."
+excerpt: "Argues Georgist rent theory deserves foundational status in political ecology: George's diagnosis that inequality stems from rent outgrowing wages and interest, and his equal-rights-to-nature principle, are read as applicable to environmental justice, decolonization and antiracism."
 last_reviewed: 2026-08-30
 source_url: https://journals.sagepub.com/doi/abs/10.1177/19427786251390972
 stub: false

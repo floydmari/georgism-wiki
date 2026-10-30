@@ -5,7 +5,7 @@ tags: [organizations, uk, advocacy, land-value-tax, london, georgism]
 url: https://www.c4ej.com/
 founded: 2008
 stub: false
-excerpt: "A UK cross-party coalition of political groups, pressure groups, and charities formed in 2008 to promote a land value tax, with a documented record of House of Commons seminars, London Assembly and Scottish Land Commission engagement, and a specific policy submission on redeveloping London's Old Oak and Park Royal district."
+excerpt: "A UK cross-party coalition of political groups, pressure groups, and charities formed in 2008 to promote a land value tax, with a documented record of Commons seminars, London Assembly and Scottish Land Commission engagement, and a policy submission on London's Old Oak and Park Royal."
 last_reviewed: 2026-09-03
 ---
 

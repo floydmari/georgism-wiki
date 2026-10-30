@@ -5,7 +5,7 @@ authors:
 - Simon Pinnegar
 bears_on_objections: []
 category: research
-excerpt: "A Sydney rezoning site sold for A$290M one month after approval — most of it acquired decades earlier for a fraction of that. 'Value switching' identifies four regimes land value can occupy (rent, commodity, financial asset, fictitious capital) and argues the planning decision, not construction, is what triggers the biggest value jumps — a complication of, not a refutation of, rent theory."
+excerpt: "A Sydney rezoning site sold for A$290M a month after approval, acquired decades earlier for a fraction. 'Value switching' identifies four regimes land value can occupy (rent, commodity, financial asset, fictitious capital) and argues planning decisions, not construction, trigger big jumps."
 last_reviewed: 2026-08-31
 source_url: https://journals.sagepub.com/doi/abs/10.1177/26349825241269224
 stub: false

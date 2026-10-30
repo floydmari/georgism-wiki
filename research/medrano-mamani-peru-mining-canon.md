@@ -5,7 +5,7 @@ authors:
 bears_on_objections:
 - rent-revenue-breeds-corruption
 category: research
-excerpt: "A 13-year panel study of Peru's mining canon (royalty-revenue transfer to regions) finds no statistically significant overall poverty reduction, with benefits concentrating roughly eightfold more strongly where mining is already intensive — rewarding extraction location rather than need — and formal mining employment paradoxically correlating with higher local poverty."
+excerpt: "A 13-year panel study of Peru's mining canon (royalty transfers to regions) finds no statistically significant overall poverty reduction, with benefits roughly eightfold more concentrated where mining is already intensive, and formal mining employment correlating with higher local poverty."
 last_reviewed: 2026-08-26
 source_url: https://doi.org/10.3389/fpos.2026.1863029
 stub: false
@@ -113,7 +113,7 @@ failure means the policy still under-delivers on its own poverty-reduction goal.
    and subnational SDG progress: a systemic analysis of mining canon redistribution in
    Peru, 2012-2024," *Frontiers in Political Science* 8, published 2 July 2026, DOI
    10.3389/fpos.2026.1863029. [doi.org](https://doi.org/10.3389/fpos.2026.1863029) —
-   fetched and read (abstract/results level) 2026-08-26; used for the 23-region/299-
+   fetched and read (abstract/results level) 2026-08-26 — used for the 23-region/299-
    observation panel design, the β=-0.074 (p=0.530) overall null result, the ~8x
    concentration-in-high-intensity-regions finding, the 2017-2019 price-cycle-dependent
    significant effect, and the β=+0.930 (p=0.070) mining-employment/poverty correlation

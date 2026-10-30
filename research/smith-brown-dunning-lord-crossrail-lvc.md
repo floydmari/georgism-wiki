@@ -109,13 +109,13 @@ than a solved problem.
    for transport investment: How Land Value Capture supported London's Crossrail," *Cities*,
    November 2026 issue, DOI 10.1016/j.cities.2026.107329.
    [doi.org](https://doi.org/10.1016/j.cities.2026.107329) — full text not accessible at
-   last review (2026-08-27); used for the paper's existence, venue, and general subject.
+   last review (2026-08-27) — used for the paper's existence, venue, and general subject.
 2. Mark Smith, Dominic Brown, Richard Dunning & Alex Lord, "Just the Ticket for a Global
    City? Evaluating the Role of the Mayoral Community Infrastructure Levy in Developing
    London's Crossrail," SSRN working paper.
    [papers.ssrn.com/sol3/papers.cfm?abstract_id=5244763](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5244763) —
    full text not accessible at last review (2026-08-27); summary drawn from search-indexed
-   abstract description, used for the MCIL £1 billion+ figure, the Marsh & McConnell (2010)
+   abstract description — used for the MCIL £1 billion+ figure, the Marsh & McConnell (2010)
    policy-success framework, and the developer-impact/borough-diversion design tension
    (C-claim; not independently verified against the paper's own text, no verbatim
    quotation offered).

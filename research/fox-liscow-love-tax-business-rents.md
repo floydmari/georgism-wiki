@@ -5,7 +5,7 @@ authors:
 - Michael Love
 bears_on_objections: []
 category: research
-excerpt: "As business taxation converges toward taxing only economic rent, complex multi-tiered partnerships (some with 530,000+ ultimate owners, audited at 0.27% vs. 87% for large corporations) have become largely 'illegible' to enforcement. The paper argues entity taxation should apply, as a 'circuit breaker,' above a complexity threshold."
+excerpt: "As business taxation converges on taxing economic rent, complex multi-tiered partnerships (some with 530,000+ ultimate owners, audited at 0.27% vs. 87% for large corporations) are largely 'illegible' to enforcement. The paper argues for entity taxation above a complexity threshold."
 last_reviewed: 2026-08-28
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206239
 stub: false

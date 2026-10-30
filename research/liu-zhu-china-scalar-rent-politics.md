@@ -4,7 +4,7 @@ authors:
 - Jin Zhu
 bears_on_objections: []
 category: research
-excerpt: "A Zhongshan case study finds that implicit land rent distribution prompted rent-seeking by discretionary lower-level Chinese governments, resulting in a developmental crisis and rent dissipation — an intergovernmental-tier story distinct from the wiki's existing China coverage, which mostly treats land finance as a state-versus-private-developer question."
+excerpt: "A Zhongshan case study finds that implicit land rent distribution prompted rent-seeking by discretionary lower-level Chinese governments, resulting in a developmental crisis and rent dissipation — an intergovernmental-tier story, not state versus private developer."
 last_reviewed: 2026-08-31
 source_url: https://www.sciencedirect.com/science/article/pii/S0264837725002261
 stub: false

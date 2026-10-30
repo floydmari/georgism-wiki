@@ -3,7 +3,7 @@ authors:
 - Preeti Sampat
 bears_on_objections: []
 category: research
-excerpt: "Traces a three-phase pattern in India's post-liberalization 'growth infrastructure' projects — announcement, capital land allotments, then development/lease/sale — through Gujarat's Dholera smart city and national special economic zones: land value appropriation intensifies while the promised manufacturing and productive accumulation never materializes."
+excerpt: "Traces a three-phase pattern in India's 'growth infrastructure' projects (announcement, capital land allotments, then development/lease/sale) through Gujarat's Dholera smart city and national SEZs: land value appropriation intensifies while the promised manufacturing never materializes."
 last_reviewed: 2026-08-31
 source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.70061
 stub: false

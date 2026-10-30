@@ -3,7 +3,7 @@ authors:
 - Pedro Aldighieri
 bears_on_objections: []
 category: research
-excerpt: "Arnott & Stiglitz (1979) showed a 100% land value tax finances public goods without distortion — but that result depends on spillovers being fully local to a parcel. When assessed land value capitalizes neighbors' spillovers, LVT becomes an 'inverse Pigouvian subsidy': it rewards merging parcels under positive spillovers and splitting them under negative ones. Cook County parcel-split/merger data (2001–2023) confirms the predicted pattern."
+excerpt: "Arnott & Stiglitz (1979) showed a 100% land value tax finances public goods without distortion, but only if spillovers are local to a parcel. When land value capitalizes neighbors' spillovers, LVT becomes an 'inverse Pigouvian subsidy'. Cook County split/merger data (2001–2023) fits."
 last_reviewed: 2026-08-29
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7107758
 stub: false

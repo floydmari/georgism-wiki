@@ -5,7 +5,7 @@ authors:
 bears_on_objections:
 - demographics-explain-house-prices
 category: research
-excerpt: "A shift-share IV study finds Australian neighborhoods with a 1% rise in net overseas migration see unit rents rise ~5.0% and house rents ~3.6% — with effects concentrated where dwelling-approval rates are low, showing migration-driven demand shocks are amplified by supply constraints rather than land scarcity per se."
+excerpt: "A shift-share IV study finds Australian areas with a 1% rise in net overseas migration see unit rents rise ~5.0% and house rents ~3.6%, concentrated where dwelling-approval rates are low, suggesting supply constraints amplify migration demand shocks rather than land scarcity per se."
 last_reviewed: 2026-08-27
 source_url: https://doi.org/10.1016/j.jebo.2026.107724
 stub: false
@@ -92,7 +92,7 @@ demand, per Mankiw & Weil) rather than international migration specifically.
    Evidence from Australian neighborhoods," *Journal of Economic Behavior & Organization*,
    October 2026 issue, DOI 10.1016/j.jebo.2026.107724.
    [doi.org](https://doi.org/10.1016/j.jebo.2026.107724) — fetched and read (abstract/
-   results level) 2026-08-27; used for the shift-share IV methodology, the ~5.0%/1.3%/3.6%
+   results level) 2026-08-27 — used for the shift-share IV methodology, the ~5.0%/1.3%/3.6%
    unit-rent/unit-price/house-rent elasticity estimates, the concentration in low-approval-rate
    neighborhoods, and the displacement-consistent price-fall finding in some older
    neighborhoods (B-claim).

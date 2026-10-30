@@ -7,7 +7,7 @@ authors:
 bears_on_objections:
 - rent-revenue-breeds-corruption
 category: research
-excerpt: "A mixed-methods study of Nigeria's Nasarawa State finds federal control over mineral licensing, combined with dependence on federation-account oil transfers, leaves the state acting only as a 'corporate actor and revenue collector' rather than a mineral-governance regulator — the paradox of mineral abundance alongside underdevelopment."
+excerpt: "A mixed-methods study of Nigeria's Nasarawa State finds federal control of mineral licensing and dependence on federation-account oil transfers leave the state acting only as a 'corporate actor and revenue collector' rather than a mineral regulator — abundance beside underdevelopment."
 last_reviewed: 2026-08-26
 source_url: https://doi.org/10.51583/ijltemas.2026.150600171
 stub: false

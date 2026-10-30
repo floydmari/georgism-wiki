@@ -70,6 +70,7 @@ Assessment difficulty raises the **cost and care** of implementing LVT well; it 
 - [Mass Appraisal Methods (CAMA, Hedonic Regression, Land/Building Separation)](/wiki/mass-appraisal-methods/)
 - [Narrative: The Tax You Can't Dodge](/wiki/the-tax-you-cant-dodge/) — where under-assessment (not evasion) is the real leak
 - [King: Tax Authority and Land Authority in Ghana (2026)](/wiki/king-tax-authority-land-authority-ghana/) — a case where the prior problem is missing price evidence and unclear interests under customary tenure, not the land-building split
+- [Yılmaz, Alkan & Teke: Causal GeoAI for the Unearned Increment (2026)](/wiki/yilmaz-alkan-teke-geoai-unearned-increment/) — a proposed causal-ML method for a hard version of the problem: estimating infrastructure-driven uplift before it materializes
 
 ## Sources
 

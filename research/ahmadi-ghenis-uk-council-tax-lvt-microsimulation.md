@@ -4,7 +4,7 @@ authors:
 - Max Ghenis
 bears_on_objections: []
 category: research
-excerpt: "A PolicyEngine microsimulation replacing UK council tax — still assessed on 1991 valuations — with a flat land value tax finds roughly two-thirds of households gain, with losses concentrated in the top wealth deciles; the burden tracks wealth (Gini 0.70) far more than income (Gini 0.37), and absolute poverty falls."
+excerpt: "A PolicyEngine microsimulation replacing UK council tax (still assessed on 1991 valuations) with a flat land value tax finds roughly two-thirds of households gain, with losses concentrated in the top wealth deciles; the burden tracks wealth (Gini 0.70) far more than income (Gini 0.37)."
 last_reviewed: 2026-09-30
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7242479
 stub: false

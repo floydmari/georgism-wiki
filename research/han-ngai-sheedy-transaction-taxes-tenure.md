@@ -5,7 +5,7 @@ authors:
 - Kevin D. Sheedy
 bears_on_objections: []
 category: research
-excerpt: "A natural-experiment study of Toronto's 2008 Land Transfer Tax finds transaction taxes push households from owning toward renting, since owner-occupiers re-transact far more often than landlords. Deadweight loss: 111% of revenue raised — and the paper cites this as a reason to favor LVT over transaction taxes."
+excerpt: "A natural-experiment study of Toronto's 2008 Land Transfer Tax finds transaction taxes push households from owning toward renting, since owner-occupiers re-transact far more often than landlords. Deadweight loss: 111% of revenue raised; the paper cites this as a reason to favor LVT."
 last_reviewed: 2026-08-28
 source_url: https://doi.org/10.1093/restud/rdaf092
 stub: false

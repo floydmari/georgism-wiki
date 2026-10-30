@@ -3,7 +3,7 @@ authors:
 - Shai Karp
 bears_on_objections: []
 category: research
-excerpt: "Applies Elizabeth Anderson's 'private government' concept to landlord-tenant relations: rental housing subjects people to unaccountable power at both structural and interpersonal levels — access to intimate domestic space, chronically unenforced maintenance duties manufacturing dependence. The proposed remedy is not rent control but legally protected tenant unions, modeled on the National Labor Relations Act."
+excerpt: "Applies Elizabeth Anderson's 'private government' concept to landlord-tenant relations: rental housing subjects people to unaccountable power through access to intimate domestic space and chronically unenforced maintenance duties. The proposed remedy is legally protected tenant unions."
 last_reviewed: 2026-08-31
 source_url: https://journals.sagepub.com/doi/abs/10.1177/00323292241285289
 stub: false

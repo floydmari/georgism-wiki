@@ -6,7 +6,7 @@ authors:
 - Tony Newton
 bears_on_objections: []
 category: research
-excerpt: "Landlord associations opposing Oregon's 2019 statewide rent control law deployed 'class monopoly rent' arguments as political leverage against tenant advocates — turning a Marxian rent-theory concept normally used to critique landlords into a rhetorical weapon landlords themselves use to defend their position."
+excerpt: "Landlord associations opposing Oregon's 2019 statewide rent control law deployed 'class monopoly rent' arguments as political leverage against tenant advocates, turning a Marxian rent-theory concept normally used to critique landlords into a rhetorical weapon to defend their position."
 last_reviewed: 2026-08-30
 source_url: https://journals.sagepub.com/doi/abs/10.1177/19427786241234546
 stub: false

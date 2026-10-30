@@ -5,7 +5,7 @@ authors:
 bears_on_objections:
 - land-is-just-capital
 category: research
-excerpt: "Argues John Bates Clark's marginal-productivity theory, which collapsed land into capital and erased the classical land/labor/capital distinction, was a deliberate response to Progress and Poverty rather than neutral science — citing contemporary testimony that Clark's own framework was in places derived from George's, then turned against him."
+excerpt: "Argues J. B. Clark's marginal-productivity theory, which collapsed land into capital and erased the classical land/labor/capital distinction, was a deliberate response to Progress and Poverty rather than neutral science, citing testimony that Clark's framework partly derived from George's."
 last_reviewed: 2026-08-30
 source_url: https://hal.science/hal-05267875/
 stub: false

@@ -5,7 +5,7 @@ tags: [organizations, uk, education, land-value-tax, georgism, controversy]
 url: https://schoolofphilosophy.org/
 founded: 1937
 stub: false
-excerpt: "A London institution founded in 1937 by MP Andrew MacLaren as the Henry George School of Economics, later broadened by his son Leon MacLaren into a Plato/Ouspensky/Advaita-Vedanta philosophy school. Its members remain active in UK land-value-tax advocacy today; the organization also carries a documented history of child-abuse findings at affiliated schools and decades of 'cult' characterization by journalists and former members."
+excerpt: "A London school founded in 1937 by MP Andrew MacLaren as the Henry George School, later broadened by his son Leon into a philosophy school. Members remain active in UK LVT advocacy; it also has documented child-abuse findings at affiliated schools and 'cult' characterization."
 last_reviewed: 2026-09-03
 ---
 

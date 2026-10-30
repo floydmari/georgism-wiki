@@ -4,7 +4,7 @@ authors:
 - Ilkin Mustafayev
 bears_on_objections: []
 category: research
-excerpt: "A working paper on Azerbaijan's 'paradox of plenty' finds that its oil-wealth sovereign fund (SOFAZ) provides ample fiscal capacity, but public-goods delivery is constrained more by institutional quality — public investment management, fiscal-rule credibility, project-selection discipline — than by available funding."
+excerpt: "A working paper on Azerbaijan's 'paradox of plenty' finds its oil-wealth sovereign fund (SOFAZ) provides ample fiscal capacity, but public-goods delivery is constrained more by institutional quality (investment management, fiscal-rule credibility, project selection) than by funding."
 last_reviewed: 2026-09-03
 source_url: https://www.cambridge.org/engage/coe/article-details/6a858048d1922e37d57f58e1
 stub: false

@@ -6,7 +6,7 @@ authors:
 - Bakary Johnson Rouamba
 bears_on_objections: []
 category: research
-excerpt: "A spatial-econometric study of 20 African and 75 global countries (2000-2020) finds economic sanctions push targeted governments to raise their formal (de jure) tax rate on natural resource rents, while actual (de facto) collection barely moves — and that both resource taxation and sanctions themselves spread across neighboring countries. Financial sanctions bite harder than trade sanctions; UN and US sanctions more than EU ones."
+excerpt: "A study of 20 African and 75 global countries (2000-2020) finds sanctions push targeted governments to raise formal (de jure) resource-rent tax rates while actual (de facto) collection barely moves; both spread across neighbors. Financial sanctions bite harder than trade ones."
 last_reviewed: 2026-08-29
 source_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.70118
 stub: false

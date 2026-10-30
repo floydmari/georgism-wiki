@@ -1,11 +1,9 @@
 ---
 authors:
 - Nannan Xu
-bears_on_objections:
-- lvt-hurts-farmers
 category: research
-excerpt: "Argues China is a rare real-world case of 'active' Georgist land-value capture — the central government dismantled the private-developer-driven 'passive' land-development model most developing countries follow, letting public authorities organize development and capture land-value increases directly — and recommends extending the model to resale gains and social spending."
-last_reviewed: 2026-08-26
+excerpt: "Argues China is a rare case of 'active' Georgist land-value capture: the state dismantled the developer-driven 'passive' model most developing countries follow, letting public authorities organize development and capture land-value increases; recommends extending it to resale gains."
+last_reviewed: 2026-10-30
 source_url: https://doi.org/10.1111/1468-2427.70024
 stub: false
 subcategory: wiki-research-georgism
@@ -103,7 +101,7 @@ value-capture theory, by name, that the wiki's China cluster currently has.
    Infrastructure Delivery: Reality, History and Prospects," *International Journal of
    Urban and Regional Research* 50: 191–220, published online 5 October 2025, DOI
    10.1111/1468-2427.70024. [doi.org](https://doi.org/10.1111/1468-2427.70024) —
-   read at abstract level (2026-08-26); used for the
+   read at abstract level (2026-08-26) — used for the
    active/passive land-development typology, the central-government-policy-design
    attribution, the land-leasing revenue mechanism, and the recommendation to extend
    value capture to resale/redevelopment gains and social spending (B-claim).

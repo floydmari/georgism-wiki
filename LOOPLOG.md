@@ -5961,3 +5961,20 @@ process phrases on that page were removed, and the UK page gains a pointer sente
 
 Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 488 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-10-30 (b) — daily verification wave: King and Budget 2026 audited, lint warnings 65 → 0
+
+Yesterday's King (Ghana) page was checked quote by quote against the Cambridge Core open-access text: every
+quotation is verbatim, and the interview count, fieldwork dates, Table 2 range (2.9–4.2 per cent) and licence
+all match. One unsupported characterisation ("early-career academic") was replaced by the article's own
+statement of affiliation (Sheffield Hallam) and doctoral basis (Reading). The Burnham page's Budget 2026
+paragraph was checked against the gov.uk HVCTS collection, the HMRC policy paper of 28 October 2026 and the
+summary of consultation responses. The bands, threshold, start date, premium and £400 million all match. The
+deferral criteria now include the disability ground the page had left out. The Budget 2025 announcement date
+is corrected to 26 November 2025. The 150,000-owners figure is now cited to the HMRC policy paper, which is
+where it appears. All 65 lint warnings were cleared: 47 excerpts were condensed under Ghost's 300-character
+cap with no new claims, 8 Sources sections were re-punctuated to the "— used for" form, 6 objection
+back-links were added, and one Tier-2 name in the lead of the 18.6-year-cycle page now has its status
+stated. Xu (2025) had been tagged as bearing on "LVT hurts farmers", although its body (urban land finance)
+never discusses farmers or rural land. The tag was removed rather than an off-topic back-link added.
+Verification queue: 0 live markers before and after.

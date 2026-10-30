@@ -3,7 +3,7 @@ authors:
 - Haejun Moon
 bears_on_objections: []
 category: research
-excerpt: "A normative argument for land value taxation from an angle the wiki hasn't covered: national defense costs are borne universally through general taxation, while its principal benefit — protection of territory — accrues disproportionately to those who own land. Only a one-paragraph abstract is verifiable; treat this page as a pointer to a novel argument, not a developed one."
+excerpt: "A normative argument for land value taxation from an angle the wiki hasn't covered: defense costs are borne universally through general taxation, while its principal benefit, protection of territory, accrues disproportionately to landowners. Only an abstract is verifiable; treat as a pointer."
 last_reviewed: 2026-08-29
 source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6367198
 stub: false
