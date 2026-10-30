@@ -189,7 +189,7 @@
         "financialisation"
       ],
       "action": "updated",
-      "published_at": "2026-10-16T03:33:00.000Z",
+      "published_at": "2026-10-30T11:39:02.000Z",
       "notified": false
     },
     {
@@ -402,7 +402,7 @@
         "mayor-of-greater-manchester"
       ],
       "action": "updated",
-      "published_at": "2026-10-09T11:28:03.000Z",
+      "published_at": "2026-10-30T11:39:00.000Z",
       "notified": false
     },
     {
@@ -725,7 +725,7 @@
         "critique"
       ],
       "action": "updated",
-      "published_at": "2026-10-13T11:30:30.000Z",
+      "published_at": "2026-10-30T11:38:48.000Z",
       "notified": false
     },
     {
@@ -952,7 +952,7 @@
         "enabling-law"
       ],
       "action": "updated",
-      "published_at": "2026-10-16T03:32:46.000Z",
+      "published_at": "2026-10-30T11:38:58.000Z",
       "notified": false
     },
     {
@@ -1216,7 +1216,7 @@
         "developing-countries"
       ],
       "action": "updated",
-      "published_at": "2026-10-16T11:32:01.000Z",
+      "published_at": "2026-10-30T11:38:52.000Z",
       "notified": false
     },
     {
@@ -1554,8 +1554,8 @@
         "cadastre",
         "world-bank"
       ],
-      "action": "published",
-      "published_at": "2026-10-21T11:29:11.000Z",
+      "action": "updated",
+      "published_at": "2026-10-30T11:38:50.000Z",
       "notified": false
     },
     {
@@ -1815,6 +1815,60 @@
       ],
       "action": "updated",
       "published_at": "2026-10-29T11:25:21.000Z",
+      "notified": false
+    },
+    {
+      "slug": "king-tax-authority-land-authority-ghana",
+      "title": "When Tax Authority and Land Authority Diverge: Property Tax Reform in Ghana (King, 2026)",
+      "url": "https://www.progress.org/wiki/king-tax-authority-land-authority-ghana/",
+      "category": "research",
+      "tags": [
+        "research",
+        "ghana",
+        "property-tax",
+        "customary-land-tenure",
+        "institutional-economics",
+        "local-government",
+        "land-value-tax",
+        "africa"
+      ],
+      "action": "published",
+      "published_at": "2026-10-30T11:38:45.000Z",
+      "notified": false
+    },
+    {
+      "slug": "kakumu-lvc-georgist-political-economy",
+      "title": "The Principles of Land Value Capture in the Perspective of Georgist Political Economy (K'Akumu, 2024)",
+      "url": "https://www.progress.org/wiki/kakumu-lvc-georgist-political-economy/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-value-capture",
+        "taxonomy",
+        "betterment",
+        "site-value-taxation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-30T11:38:54.000Z",
+      "notified": false
+    },
+    {
+      "slug": "obeng-odoom-rodney-legacy",
+      "title": "Obeng-Odoom (2026): Progress and Poverty — Walter Rodney's Legacy",
+      "url": "https://www.progress.org/wiki/obeng-odoom-rodney-legacy/",
+      "category": "research",
+      "tags": [
+        "research",
+        "henry-george",
+        "walter-rodney",
+        "race",
+        "reparations",
+        "colonialism",
+        "land-dispossession",
+        "ajes"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-30T11:38:56.000Z",
       "notified": false
     }
   ]
