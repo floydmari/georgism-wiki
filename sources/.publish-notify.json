@@ -244,7 +244,7 @@
         "ecological-tax-reform"
       ],
       "action": "updated",
-      "published_at": "2026-10-08T19:26:20.000Z",
+      "published_at": "2026-10-31T03:14:28.000Z",
       "notified": false
     },
     {
@@ -402,7 +402,7 @@
         "mayor-of-greater-manchester"
       ],
       "action": "updated",
-      "published_at": "2026-10-30T11:39:00.000Z",
+      "published_at": "2026-10-31T03:13:35.000Z",
       "notified": false
     },
     {
@@ -420,7 +420,7 @@
         "working-paper"
       ],
       "action": "updated",
-      "published_at": "2026-10-12T11:28:00.000Z",
+      "published_at": "2026-10-31T03:14:21.000Z",
       "notified": false
     },
     {
@@ -725,7 +725,7 @@
         "critique"
       ],
       "action": "updated",
-      "published_at": "2026-10-30T11:38:48.000Z",
+      "published_at": "2026-10-31T03:13:26.000Z",
       "notified": false
     },
     {
@@ -879,7 +879,7 @@
         "tax-design"
       ],
       "action": "updated",
-      "published_at": "2026-10-14T11:32:15.000Z",
+      "published_at": "2026-10-31T03:14:24.000Z",
       "notified": false
     },
     {
@@ -1059,7 +1059,7 @@
         "infrastructure-finance"
       ],
       "action": "updated",
-      "published_at": "2026-10-16T03:33:04.000Z",
+      "published_at": "2026-10-31T03:14:39.000Z",
       "notified": false
     },
     {
@@ -1832,8 +1832,8 @@
         "land-value-tax",
         "africa"
       ],
-      "action": "published",
-      "published_at": "2026-10-30T11:38:45.000Z",
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:06.000Z",
       "notified": false
     },
     {
@@ -1869,6 +1869,846 @@
       ],
       "action": "updated",
       "published_at": "2026-10-30T11:38:56.000Z",
+      "notified": false
+    },
+    {
+      "slug": "condon-broken-city",
+      "title": "Broken City: Land Speculation, Inequality, and Urban Crisis",
+      "url": "https://www.progress.org/wiki/condon-broken-city/",
+      "category": "books",
+      "tags": [
+        "books",
+        "land-speculation",
+        "housing-crisis",
+        "henry-george",
+        "urban-planning",
+        "vienna",
+        "land-value-capture"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:23.000Z",
+      "notified": false
+    },
+    {
+      "slug": "genovese-earth-for-all",
+      "title": "The Earth for All: Henry George, Utopian Communities and Market Socialism",
+      "url": "https://www.progress.org/wiki/genovese-earth-for-all/",
+      "category": "books",
+      "tags": [
+        "books",
+        "henry-george",
+        "utopian-communities",
+        "single-tax",
+        "fairhope",
+        "arden",
+        "marie-howland"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:24.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-not-enough-revenue",
+      "title": "Objection: LVT can't raise enough revenue",
+      "url": "https://www.progress.org/wiki/lvt-not-enough-revenue/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "revenue",
+        "single-tax",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:28.000Z",
+      "notified": false
+    },
+    {
+      "slug": "rent-revenue-breeds-corruption",
+      "title": "\"Public Rent Collection Breeds Government Corruption\"",
+      "url": "https://www.progress.org/wiki/rent-revenue-breeds-corruption/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "corruption",
+        "governance",
+        "political-economy",
+        "resource-rents"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:30.000Z",
+      "notified": false
+    },
+    {
+      "slug": "coalition-for-economic-justice",
+      "title": "Coalition for Economic Justice (C4EJ)",
+      "url": "https://www.progress.org/wiki/coalition-for-economic-justice/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "uk",
+        "advocacy",
+        "land-value-tax",
+        "london",
+        "georgism"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:31.000Z",
+      "notified": false
+    },
+    {
+      "slug": "school-of-economic-science",
+      "title": "School of Economic Science / School of Philosophy and Economic Science (SES/SPES)",
+      "url": "https://www.progress.org/wiki/school-of-economic-science/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "uk",
+        "education",
+        "land-value-tax",
+        "georgism",
+        "controversy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:33.000Z",
+      "notified": false
+    },
+    {
+      "slug": "ahmadi-ghenis-uk-council-tax-lvt-microsimulation",
+      "title": "Replacing Council Tax With a Land Value Tax: A Household-Level Microsimulation for the UK (Ahmadi & Ghenis, 2026)",
+      "url": "https://www.progress.org/wiki/ahmadi-ghenis-uk-council-tax-lvt-microsimulation/",
+      "category": "research",
+      "tags": [
+        "research",
+        "united-kingdom",
+        "council-tax",
+        "land-value-tax",
+        "microsimulation",
+        "policyengine"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:37.000Z",
+      "notified": false
+    },
+    {
+      "slug": "aldighieri-spatial-nonneutrality-lvt",
+      "title": "Drawing the Line: The Spatial Non-Neutrality of Land Value Taxation (Aldighieri, 2026)",
+      "url": "https://www.progress.org/wiki/aldighieri-spatial-nonneutrality-lvt/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-value-tax",
+        "spatial-economics",
+        "externalities",
+        "henry-george-theorem",
+        "assessment"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:38.000Z",
+      "notified": false
+    },
+    {
+      "slug": "amedanou-laporte-sanctions-resource-rent-tax",
+      "title": "Economic Sanctions and Taxation of Natural Resource Rent: Evidence from Spatial Analysis (Amedanou, Laporte, Ouédraogo & Rouamba, 2026)",
+      "url": "https://www.progress.org/wiki/amedanou-laporte-sanctions-resource-rent-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "resource-rents",
+        "sanctions",
+        "taxation",
+        "spatial-econometrics",
+        "africa"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:39.000Z",
+      "notified": false
+    },
+    {
+      "slug": "anderson-dascher-copenhagen-land-rent",
+      "title": "The Land Rent Dynamics of Public Land Development in Copenhagen (Anderson & Dascher, 2026)",
+      "url": "https://www.progress.org/wiki/anderson-dascher-copenhagen-land-rent/",
+      "category": "research",
+      "tags": [
+        "research",
+        "denmark",
+        "copenhagen",
+        "public-land-leasing",
+        "land-value-capture",
+        "state-monopoly-rent"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:41.000Z",
+      "notified": false
+    },
+    {
+      "slug": "anderson-kyoto-cultural-monopoly-rent",
+      "title": "The Commodification Gap and the Contradictory Dynamics of Cultural Monopoly Rent: Insights from Kyoto (Anderson, 2025)",
+      "url": "https://www.progress.org/wiki/anderson-kyoto-cultural-monopoly-rent/",
+      "category": "research",
+      "tags": [
+        "research",
+        "japan",
+        "kyoto",
+        "tourism",
+        "ground-rent",
+        "commodification",
+        "heritage"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:42.000Z",
+      "notified": false
+    },
+    {
+      "slug": "anderson-landlord-rent-control-class-monopoly",
+      "title": "Landlord Opposition to Rent Control and the Politics of Class Monopoly Rent (Anderson, Zickefoose, Andrie & Newton, 2024)",
+      "url": "https://www.progress.org/wiki/anderson-landlord-rent-control-class-monopoly/",
+      "category": "research",
+      "tags": [
+        "research",
+        "rent-control",
+        "oregon",
+        "class-monopoly-rent",
+        "landlord-politics",
+        "housing-policy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:44.000Z",
+      "notified": false
+    },
+    {
+      "slug": "bengtsson-land-regulation-rent-seeking",
+      "title": "Land Development Regulation and Housing Affordability: How Rent-Seeking Reallocates Resources, and the Challenges to Deregulation (Bengtsson, 2026)",
+      "url": "https://www.progress.org/wiki/bengtsson-land-regulation-rent-seeking/",
+      "category": "research",
+      "tags": [
+        "research",
+        "zoning",
+        "rent-seeking",
+        "public-choice",
+        "housing-affordability",
+        "land-use-regulation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:46.000Z",
+      "notified": false
+    },
+    {
+      "slug": "charlier-tideman-clarks-paradigm",
+      "title": "Henry George and Clark's Paradigm: The Erasure of Land in Economic Theory (Charlier & Tideman, 2025)",
+      "url": "https://www.progress.org/wiki/charlier-tideman-clarks-paradigm/",
+      "category": "research",
+      "tags": [
+        "research",
+        "henry-george",
+        "john-bates-clark",
+        "marginal-productivity",
+        "history-of-economic-thought",
+        "tideman"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:47.000Z",
+      "notified": false
+    },
+    {
+      "slug": "coppack-competition-paradox-sovereign-corporations",
+      "title": "The Competition Paradox: Markets, Rent, and Sovereign Corporations Through the Lens of Smith, Ricardo, and Rawls (Coppack, 2026)",
+      "url": "https://www.progress.org/wiki/coppack-competition-paradox-sovereign-corporations/",
+      "category": "research",
+      "tags": [
+        "research",
+        "monopoly",
+        "economic-rent",
+        "big-tech",
+        "classical-political-economy",
+        "rawls"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:49.000Z",
+      "notified": false
+    },
+    {
+      "slug": "desrochers-smith-meatpacking-rent-seeking",
+      "title": "Does Rent-Seeking Entrepreneurship Hurt the Environment? Historical Insights from the US Meatpacking Industry (Desrochers & Smith, 2026)",
+      "url": "https://www.progress.org/wiki/desrochers-smith-meatpacking-rent-seeking/",
+      "category": "research",
+      "tags": [
+        "research",
+        "rent-seeking",
+        "economic-history",
+        "environment",
+        "antitrust",
+        "entrepreneurship"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:50.000Z",
+      "notified": false
+    },
+    {
+      "slug": "duflo-hanna-olken-tandon-chennai-outsourcing",
+      "title": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India (Duflo, Hanna, Olken & Tandon, 2026)",
+      "url": "https://www.progress.org/wiki/duflo-hanna-olken-tandon-chennai-outsourcing/",
+      "category": "research",
+      "tags": [
+        "research",
+        "assessment",
+        "property-tax",
+        "india",
+        "chennai",
+        "outsourcing",
+        "rct"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:52.000Z",
+      "notified": false
+    },
+    {
+      "slug": "fox-liscow-love-tax-business-rents",
+      "title": "How to Tax Business? Economic Rents, Legibility, and the Corporate-Pass-Through Divide (Fox, Liscow & Love, 2026)",
+      "url": "https://www.progress.org/wiki/fox-liscow-love-tax-business-rents/",
+      "category": "research",
+      "tags": [
+        "research",
+        "corporate-tax",
+        "pass-through-taxation",
+        "economic-rent",
+        "cash-flow-tax",
+        "tax-administration"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:54.000Z",
+      "notified": false
+    },
+    {
+      "slug": "gala-gabriel-latin-america-resource-trap",
+      "title": "Natural Resources Trap and Regressive Specialisation: Latin America's Divergence During the Commodity Supercycle (Gala & Gabriel, 2026)",
+      "url": "https://www.progress.org/wiki/gala-gabriel-latin-america-resource-trap/",
+      "category": "research",
+      "tags": [
+        "research",
+        "latin-america",
+        "resource-curse",
+        "dutch-disease",
+        "industrial-policy",
+        "structuralism"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:55.000Z",
+      "notified": false
+    },
+    {
+      "slug": "giesen-fdr-self-financing-highways",
+      "title": "Self-Financing Highways: Franklin Roosevelt's Land Tax Proposal (Giesen, 2026)",
+      "url": "https://www.progress.org/wiki/giesen-fdr-self-financing-highways/",
+      "category": "research",
+      "tags": [
+        "research",
+        "fdr",
+        "new-deal",
+        "highways",
+        "land-value-capture",
+        "excess-condemnation",
+        "history"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:57.000Z",
+      "notified": false
+    },
+    {
+      "slug": "han-ngai-sheedy-transaction-taxes-tenure",
+      "title": "To Own or to Rent? The Effects of Transaction Taxes on Housing Markets (Han, Ngai & Sheedy, 2026)",
+      "url": "https://www.progress.org/wiki/han-ngai-sheedy-transaction-taxes-tenure/",
+      "category": "research",
+      "tags": [
+        "research",
+        "transaction-taxes",
+        "stamp-duty",
+        "homeownership",
+        "tax-incidence",
+        "toronto",
+        "natural-experiment"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:13:58.000Z",
+      "notified": false
+    },
+    {
+      "slug": "holz-perez-truglia-simon-zentner-ai-tax-appeals",
+      "title": "Taxpayer Behavior in the Age of AI: A Field Experiment on Property Tax Appeals (Holz, Perez-Truglia, Simon & Zentner, 2026)",
+      "url": "https://www.progress.org/wiki/holz-perez-truglia-simon-zentner-ai-tax-appeals/",
+      "category": "research",
+      "tags": [
+        "research",
+        "assessment",
+        "property-tax",
+        "artificial-intelligence",
+        "inequality",
+        "dallas",
+        "rct"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:00.000Z",
+      "notified": false
+    },
+    {
+      "slug": "hou-kumhof-shao-china-lvt-simulation",
+      "title": "The Potential and Utility of Land Value Taxation: A Theoretical Framework and Simulation for China (Hou, Kumhof & Shao, 2026)",
+      "url": "https://www.progress.org/wiki/hou-kumhof-shao-china-lvt-simulation/",
+      "category": "research",
+      "tags": [
+        "research",
+        "china",
+        "land-value-tax",
+        "dsge",
+        "simulation",
+        "tax-shifting"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:02.000Z",
+      "notified": false
+    },
+    {
+      "slug": "isgandarov-mustafayev-azerbaijan-public-goods",
+      "title": "Assessing the Economic Potential of Public Goods in Azerbaijan (Isgandarov & Mustafayev, 2026)",
+      "url": "https://www.progress.org/wiki/isgandarov-mustafayev-azerbaijan-public-goods/",
+      "category": "research",
+      "tags": [
+        "research",
+        "resource-rents",
+        "azerbaijan",
+        "sovereign-wealth-fund",
+        "paradox-of-plenty",
+        "working-paper"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:03.000Z",
+      "notified": false
+    },
+    {
+      "slug": "karp-landlord-private-government",
+      "title": "Private Government at Home: Landlord Power and Rental Residential Domination in the United States (Karp, 2024)",
+      "url": "https://www.progress.org/wiki/karp-landlord-private-government/",
+      "category": "research",
+      "tags": [
+        "research",
+        "political-theory",
+        "landlord-tenant",
+        "domination",
+        "private-government",
+        "tenant-organizing"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:05.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lincoln-detroit-land-value-increments",
+      "title": "Measuring Land Value Increments from Public Action: The Case of the Detroit Auction Program (Ortiz Beleño, Alvayay Torrejón & Paredes, 2026)",
+      "url": "https://www.progress.org/wiki/lincoln-detroit-land-value-increments/",
+      "category": "research",
+      "tags": [
+        "research",
+        "detroit",
+        "land-banking",
+        "vacant-land",
+        "public-investment",
+        "synthetic-control"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:08.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lincoln-sao-paulo-market-power-housing",
+      "title": "Market Power in Housing Markets: Evidence from a Tax on Construction Density (Alvarez & Biderman, 2026)",
+      "url": "https://www.progress.org/wiki/lincoln-sao-paulo-market-power-housing/",
+      "category": "research",
+      "tags": [
+        "research",
+        "brazil",
+        "sao-paulo",
+        "market-power",
+        "land-value-capture",
+        "construction"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:10.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lincoln-synchronous-tdr-credits",
+      "title": "Synchronous TDR Credits (Turkienicz, 2026)",
+      "url": "https://www.progress.org/wiki/lincoln-synchronous-tdr-credits/",
+      "category": "research",
+      "tags": [
+        "research",
+        "brazil",
+        "transferable-development-rights",
+        "ecosystem-services",
+        "land-value-capture",
+        "zoning"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:11.000Z",
+      "notified": false
+    },
+    {
+      "slug": "liu-zhu-china-scalar-rent-politics",
+      "title": "Contested Rent-Based Urban Governance: Land Rent Dissipation and Redistribution Under Scalar Politics in China (Liu & Zhu, 2025)",
+      "url": "https://www.progress.org/wiki/liu-zhu-china-scalar-rent-politics/",
+      "category": "research",
+      "tags": [
+        "research",
+        "china",
+        "land-value-capture",
+        "governance",
+        "rent-seeking"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:13.000Z",
+      "notified": false
+    },
+    {
+      "slug": "loehr-tax-or-socialize-land",
+      "title": "Private Land Ownership: Tax or Socialize? (Loehr, 2026)",
+      "url": "https://www.progress.org/wiki/loehr-tax-or-socialize-land/",
+      "category": "research",
+      "tags": [
+        "research",
+        "henry-george",
+        "silvio-gesell",
+        "land-value-tax",
+        "land-nationalization",
+        "ajes"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:14.000Z",
+      "notified": false
+    },
+    {
+      "slug": "mccanless-property-tax-appeals-rentier",
+      "title": "Constructing Public Rent: Property Tax Appeals and the Fiscal Strategies of Rentier Capitalism (McCanless, 2025)",
+      "url": "https://www.progress.org/wiki/mccanless-property-tax-appeals-rentier/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "assessment",
+        "rentier-capitalism",
+        "single-family-rental",
+        "memphis"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:16.000Z",
+      "notified": false
+    },
+    {
+      "slug": "medrano-mamani-peru-mining-canon",
+      "title": "Extractive Fiscal Governance and Subnational SDG Progress: Mining Canon Redistribution in Peru, 2012–2024 (Medrano-Sanchez & Mamani-Salinas, 2026)",
+      "url": "https://www.progress.org/wiki/medrano-mamani-peru-mining-canon/",
+      "category": "research",
+      "tags": [
+        "research",
+        "peru",
+        "resource-rents",
+        "mining-canon",
+        "resource-curse",
+        "subnational-fiscal-transfers",
+        "sdg"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:18.000Z",
+      "notified": false
+    },
+    {
+      "slug": "moon-national-defense-lvt-normative-case",
+      "title": "Whose Land Do They Die For? The Cost-Benefit Asymmetry of National Defense and the Normative Case for Land Value Taxation (Moon, 2026)",
+      "url": "https://www.progress.org/wiki/moon-national-defense-lvt-normative-case/",
+      "category": "research",
+      "tags": [
+        "research",
+        "normative-theory",
+        "national-defense",
+        "land-value-tax",
+        "public-goods"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:19.000Z",
+      "notified": false
+    },
+    {
+      "slug": "namo-nasarawa-solid-minerals-rentier-state",
+      "title": "Political Economy of Solid Minerals Governance in Nasarawa State, Nigeria: A Rentier State Analysis, 1999–2020 (Namo et al., 2026)",
+      "url": "https://www.progress.org/wiki/namo-nasarawa-solid-minerals-rentier-state/",
+      "category": "research",
+      "tags": [
+        "research",
+        "nigeria",
+        "rentier-state",
+        "resource-curse",
+        "solid-minerals",
+        "subnational-governance"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:23.000Z",
+      "notified": false
+    },
+    {
+      "slug": "nielsen-buitelaar-spatial-planning-anticipatory-rules",
+      "title": "Spatial Planning as Eliminating Land Rents: From Symptom Treatment to Prevention (Nielsen, Buitelaar & van den Hurk, 2026)",
+      "url": "https://www.progress.org/wiki/nielsen-buitelaar-spatial-planning-anticipatory-rules/",
+      "category": "research",
+      "tags": [
+        "research",
+        "planning-theory",
+        "henry-george",
+        "land-value-tax",
+        "hayek",
+        "urban-planning"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:26.000Z",
+      "notified": false
+    },
+    {
+      "slug": "peruffo-check-australia-migration-housing",
+      "title": "Annual Overseas Migration and Housing Markets: Evidence from Australian Neighborhoods (Peruffo & Check, 2026)",
+      "url": "https://www.progress.org/wiki/peruffo-check-australia-migration-housing/",
+      "category": "research",
+      "tags": [
+        "research",
+        "australia",
+        "migration",
+        "housing-supply",
+        "rent",
+        "instrumental-variables"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:29.000Z",
+      "notified": false
+    },
+    {
+      "slug": "progress-18-6-year-cycle",
+      "title": "The 18-Year Pattern Predicting 2027's Market Crash",
+      "url": "https://www.progress.org/wiki/progress-18-6-year-cycle/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-cycle",
+        "real-estate-cycle",
+        "forecasting",
+        "harrison",
+        "foldvary",
+        "anderson",
+        "patel",
+        "hoyt"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:31.000Z",
+      "notified": false
+    },
+    {
+      "slug": "rahmawati-indonesia-land-banking-housing",
+      "title": "From Policy to Practice: How Public Land Policies Shape Private-Sector Housing Development — An Indonesian Case (Rahmawati, Samsura & van der Krabben, 2025)",
+      "url": "https://www.progress.org/wiki/rahmawati-indonesia-land-banking-housing/",
+      "category": "research",
+      "tags": [
+        "research",
+        "indonesia",
+        "surabaya",
+        "land-banking",
+        "housing-policy",
+        "governance"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:32.000Z",
+      "notified": false
+    },
+    {
+      "slug": "reisman-fairbairn-kish-agrarian-platform-capitalism",
+      "title": "Agrarian Platform Capitalism: Digital Rentiership Comes to Farming (Reisman, Fairbairn & Kish, 2025)",
+      "url": "https://www.progress.org/wiki/reisman-fairbairn-kish-agrarian-platform-capitalism/",
+      "category": "research",
+      "tags": [
+        "research",
+        "agriculture",
+        "data-rents",
+        "platform-capitalism",
+        "farmland",
+        "financialization"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:34.000Z",
+      "notified": false
+    },
+    {
+      "slug": "sampat-india-rentier-growth-infrastructure",
+      "title": "The Rentier Economy of Growth Infrastructures: Value Appropriation without Adequate Accumulation in India (Sampat, 2025)",
+      "url": "https://www.progress.org/wiki/sampat-india-rentier-growth-infrastructure/",
+      "category": "research",
+      "tags": [
+        "research",
+        "india",
+        "special-economic-zones",
+        "rentier-capitalism",
+        "land-appropriation"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:36.000Z",
+      "notified": false
+    },
+    {
+      "slug": "shepherd-ideological-morphology-lvc",
+      "title": "Public Policy and Contested Political Concepts: The Ideological Morphology of Land Value Capture (Shepherd, 2025)",
+      "url": "https://www.progress.org/wiki/shepherd-ideological-morphology-lvc/",
+      "category": "research",
+      "tags": [
+        "research",
+        "united-kingdom",
+        "land-value-capture",
+        "political-theory",
+        "history",
+        "ideology"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:37.000Z",
+      "notified": false
+    },
+    {
+      "slug": "tarras-wahlberg-uggla-bolivia-gold-rent",
+      "title": "A Golden Limit to Neo-Extractivism: Policies and Patterns of Resource Rent Capture in Bolivia (Tarras-Wahlberg & Uggla, 2026)",
+      "url": "https://www.progress.org/wiki/tarras-wahlberg-uggla-bolivia-gold-rent/",
+      "category": "research",
+      "tags": [
+        "research",
+        "bolivia",
+        "gold-mining",
+        "resource-rent",
+        "neo-extractivism",
+        "political-economy"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:41.000Z",
+      "notified": false
+    },
+    {
+      "slug": "tornberg-anti-growth-machine",
+      "title": "The City as an Anti-Growth Machine (Törnberg, 2026)",
+      "url": "https://www.progress.org/wiki/tornberg-anti-growth-machine/",
+      "category": "research",
+      "tags": [
+        "research",
+        "nimbyism",
+        "rentier-capitalism",
+        "urban-political-economy",
+        "growth-machine",
+        "housing-supply"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:42.000Z",
+      "notified": false
+    },
+    {
+      "slug": "troy-randolph-pinnegar-value-switching",
+      "title": "Value Switching: Extracting Profit from the City (Troy, Randolph & Pinnegar, 2025)",
+      "url": "https://www.progress.org/wiki/troy-randolph-pinnegar-value-switching/",
+      "category": "research",
+      "tags": [
+        "research",
+        "australia",
+        "sydney",
+        "rezoning",
+        "land-value-capture",
+        "speculation",
+        "rent-theory"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:44.000Z",
+      "notified": false
+    },
+    {
+      "slug": "tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization",
+      "title": "Do Land Value Taxes Curb Land Prices? Capitalization, Speculation, and Spatial Inequality in Loja, Ecuador (Tubío-Sánchez & Reyes-Bueno, 2026)",
+      "url": "https://www.progress.org/wiki/tubio-sanchez-reyes-bueno-ecuador-lvt-capitalization/",
+      "category": "research",
+      "tags": [
+        "research",
+        "ecuador",
+        "latin-america",
+        "tax-capitalization",
+        "land-value-tax",
+        "mass-appraisal",
+        "spatial-inequality"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:45.000Z",
+      "notified": false
+    },
+    {
+      "slug": "webster-city-size-tax-henry-george",
+      "title": "City-Size Tax, Henry George and Urban Scaling (Webster, Chen, Zhang, Chau & Ren, 2025)",
+      "url": "https://www.progress.org/wiki/webster-city-size-tax-henry-george/",
+      "category": "research",
+      "tags": [
+        "research",
+        "urban-scaling",
+        "henry-george-theorem",
+        "optimal-city-size",
+        "agglomeration",
+        "land-value-tax"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:47.000Z",
+      "notified": false
+    },
+    {
+      "slug": "williams-georgist-political-ecology",
+      "title": "Nature, Rent and the Persistence of Inequality: A Georgist Political Ecology (Williams, 2026)",
+      "url": "https://www.progress.org/wiki/williams-georgist-political-ecology/",
+      "category": "research",
+      "tags": [
+        "research",
+        "political-ecology",
+        "environmental-justice",
+        "economic-rent",
+        "decolonization",
+        "geoism"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:48.000Z",
+      "notified": false
+    },
+    {
+      "slug": "xu-china-land-finance-active-mode",
+      "title": "China's Land Finance as Active Mode of Land Development and Infrastructure Delivery (Xu, 2025)",
+      "url": "https://www.progress.org/wiki/xu-china-land-finance-active-mode/",
+      "category": "research",
+      "tags": [
+        "research",
+        "china",
+        "land-finance",
+        "land-value-capture",
+        "urban-development",
+        "infrastructure"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:50.000Z",
+      "notified": false
+    },
+    {
+      "slug": "zimmerman-anderson-realpage-algorithmic-rent",
+      "title": "Nefarious Algorithms: Rent-Fixing via Algorithmic Collusion and the Role of Intentionality in the Pursuit of Class Monopoly Rent (Zimmerman & Anderson, 2025)",
+      "url": "https://www.progress.org/wiki/zimmerman-anderson-realpage-algorithmic-rent/",
+      "category": "research",
+      "tags": [
+        "research",
+        "algorithmic-pricing",
+        "rent-fixing",
+        "class-monopoly-rent",
+        "antitrust",
+        "realpage"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T03:14:51.000Z",
       "notified": false
     }
   ]
