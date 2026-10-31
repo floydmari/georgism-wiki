@@ -1641,7 +1641,7 @@
         "lock-in"
       ],
       "action": "updated",
-      "published_at": "2026-10-28T11:26:02.000Z",
+      "published_at": "2026-10-31T11:33:53.000Z",
       "notified": false
     },
     {
@@ -1690,7 +1690,7 @@
         "united-states"
       ],
       "action": "updated",
-      "published_at": "2026-10-22T11:22:38.000Z",
+      "published_at": "2026-10-31T11:33:59.000Z",
       "notified": false
     },
     {
@@ -2709,6 +2709,40 @@
       ],
       "action": "updated",
       "published_at": "2026-10-31T03:14:51.000Z",
+      "notified": false
+    },
+    {
+      "slug": "technofeudalism",
+      "title": "Technofeudalism and Siren Servers",
+      "url": "https://www.progress.org/wiki/technofeudalism/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "technofeudalism",
+        "platform-economy",
+        "data-rents",
+        "rentier"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T11:33:55.000Z",
+      "notified": false
+    },
+    {
+      "slug": "data-rents",
+      "title": "Platform and Data Rents",
+      "url": "https://www.progress.org/wiki/data-rents/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "data-rents",
+        "platform-economy",
+        "network-effects",
+        "superstar-firms",
+        "geoism",
+        "quasi-rent"
+      ],
+      "action": "updated",
+      "published_at": "2026-10-31T11:33:58.000Z",
       "notified": false
     }
   ]
