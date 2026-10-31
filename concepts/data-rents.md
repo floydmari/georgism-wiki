@@ -4,7 +4,7 @@ excerpt: 'The returns a handful of digital firms earn from network-effect moats,
   data, and gatekeeping — the ''land-like positions'' of the digital economy. The
   most contested rent in the file, alongside IP: is big-tech profit unearned rent,
   or the quasi-rent that rewards genuine innovation?'
-last_reviewed: 2026-07-18
+last_reviewed: 2026-10-31
 stub: false
 supports_outcomes: []
 tags:
@@ -99,6 +99,19 @@ instruments are largely **untested**:
 - **Interoperability and data portability** dissolve the moat directly: if users can
   leave with their data and still reach their network, the location loses its lock-in.
   This is the logic of the EU's Digital Markets Act "gatekeeper" rules.
+  Cloud computing shows the same moat in a narrower form. Providers let customers upload
+  data free but charge "egress fees" to move it out, and the fees charged by the largest
+  providers are estimated at five to ten times those of smaller rivals; Amazon, Microsoft
+  and Google together hold more than 60 per cent of the global market. A 2026 Toulouse
+  School of Economics working paper by Biglaiser, Crémer, de Cornière and Mantovani models
+  this as a two-period duopoly and finds that "cloud providers have strong incentives to
+  implement egress fees, yet these fees harm users"; capping the fees raises user surplus,
+  but an outright ban can lower total welfare where transfer costs are real, and providers
+  may respond to a cap by deepening reliance on proprietary tools. The authors read the
+  EU Data Act's ban on egress fees after a three-year transition (Article 29) and its
+  interoperability mandate (Article 23) as complements for that reason: without
+  portability, a fee ban invites the moat to be rebuilt in a form that is harder to
+  regulate. The paper acknowledges a Microsoft grant to the authors' institute.[5]
 - **Antitrust** aimed at the structural sources of the moat, and the
   **rent-targeting corporate taxes** covered at
   ([ACE](/wiki/allowance-for-corporate-equity/) / [cash-flow tax](/wiki/cash-flow-tax/))
@@ -163,3 +176,4 @@ land's defining fixed-supply scarcity.
    natural-advantage/locational-rent framing of digital rent (C-claim; not independently
    verified, no verbatim quotation offered).
 4. Tim Wu (2025), *The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity*, Knopf. [Publisher page](https://www.penguinrandomhouse.com/books/691177/the-age-of-extraction-by-tim-wu/); Wu's definition of extraction as monopoly rent is from the *Lawfare Daily* interview of 12 November 2025, [transcript](https://www.lawfaremedia.org/article/lawfare-daily--tim-wu-on--the-age-of-extraction) — used for the enablement-to-extraction framing and the placement-fee example (D-claim for the thesis; Tier 1 scholar writing as an advocate; book text not consulted).
+5. Gary Biglaiser, Jacques Crémer, Alexandre de Cornière & Andrea Mantovani (2026), "Dynamic Competition in the Cloud: The Regulation of Egress Fees," Toulouse School of Economics Working Paper 26-1756, June 2026. [tse-fr.eu](https://www.tse-fr.eu/) — used for the model's findings, the fee and market-share figures it reports (citing Ofcom 2023 and the UK Competition and Markets Authority 2025) and the reading of Data Act Articles 23 and 29 (B-claim; unrefereed academic working paper; Tier 1 academics; the paper discloses Microsoft's support of the institute's partnership programme).

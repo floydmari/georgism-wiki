@@ -1,0 +1,661 @@
+[
+ {
+  "url": "https://doi.org/10.3390/urbansci10110612",
+  "title": "Elisha, Arbel, Aiche & Portnov (2026), Investigating the Links Between Air Pollution, Arnona Property Taxation and Housing Prices: A Hedonic Analysis of the Haifa Housing Market, Urban Science 10(11): 612",
+  "what_was_fetched": "Full text PDF from MDPI's open-access file host (mdpi-res.com), pdftotext -layout: item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt (19 pp.; footer 'Urban Sci. 2026, 10, 612  N of 19' marks pages). Crossref metadata and abstract: item1-crossref-metadata.json (CC BY 4.0, published 2026-10-22). The www.mdpi.com HTML and /pdf routes returned an access-denied page to ordinary requests; nothing paywalled was involved (the paper is open access).",
+  "verdict": "ENRICH concepts/tax-capitalization.md (short passage). Not a NEW page: the paper is about an area-based tax on floor area, not land value; its tax-on-price coefficient is small and cross-sectional; and the main text has internal inconsistencies (see uncertainties). Insertion point: section '## Limits and Caveats', as a new bullet placed after the paragraph that ends '...see [Falkenbach et al. (2026)](/wiki/falkenbach-helsinki-land-lease-information-capitalization/).' and before the bullet beginning '- **Timing neutrality is contested at the margin:**'. Suggested content (impersonal, no process narration): an area-based tax shows cost-view capitalization without tracking value. Israel's Arnona is charged per square metre at a zone tariff on the occupant, with tariff ranges approved by the Interior Ministry and zone boundaries set by the municipality, so it does not adjust automatically when prices move. In a 2026 hedonic study of 5,108 Haifa sales (2020-2025) a higher per-square-metre tariff is associated with lower prices, and tariffs are lower where SO2 is higher, which the authors read as a partial compensation that does not offset the pollution price penalty. State that this is evidence on a floor-area tax, not on land or site-value taxation, and that the study is one city and cross-sectional. Add a Sources entry annotated 'used for ...' with grade B (MDPI venue noted in Sources only). ENRICH, so no inbound-link requirement. Cross-link to a future research page only once the BACKLOG [SOURCE-BLOCKED] Dai & Felsenstein lead is built.",
+  "claim_grade": "B (empirical, peer-reviewed). Source tier per EDITORIAL 4c: Tier 1 by rubric (Boris Portnov, University of Haifa School of Environmental Studies, established urban-economics scholar with a peer-reviewed record on Israeli housing and property taxation; co-authors are academic economists at Western Galilee College); not listed in sources/audit/people-tiers.json. Cap at B and restrict the wiki to what the tables report: the abstract's '2SLS' framing is not matched by any reported 2SLS table and the paper's own Durbin-Wu-Hausman test supports OLS/SEM (see uncertainties).",
+  "content_summary": [
+   {
+    "point": "Arnona is an area-based tax: liability = floor area x tariff of the neighbourhood tax zone, not assessed market value.",
+    "locator": "Sec. 2.2, p.3",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "area-based regime in which tax liability is determined primarily by"
+   },
+   {
+    "point": "Legal basis: Municipalities Ordinance (5724-1964).",
+    "locator": "Sec. 2.2, p.3",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Municipalities Ordinance (5724-1964)"
+   },
+   {
+    "point": "Tariffs are set within ranges approved annually by the Interior Ministry; municipalities choose the rate within the range and define zone boundaries.",
+    "locator": "Sec. 2.2, p.3",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "annually by the Israeli Ministry of Interior"
+   },
+   {
+    "point": "Arnona is generally levied on the occupant, not the owner.",
+    "locator": "Sec. 2.2, p.3",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Arnona is generally levied on the occu"
+   },
+   {
+    "point": "Because it does not adjust to price, any reduction in polluted areas needs active municipal intervention (reclassification or redrawn zones).",
+    "locator": "Sec. 2.2, p.3",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "requires active municipal intervention"
+   },
+   {
+    "point": "Data: 5108 transactions in Haifa, 2020-2025.",
+    "locator": "Sec. 4, p.7",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "5108 housing transactions within the municipal jurisdiction of Haifa"
+   },
+   {
+    "point": "Sale prices from the Israel Tax Authority database; pollution from the Ministry of Environmental Protection network; Arnona from the Haifa Municipality.",
+    "locator": "Sec. 4, pp.7-8",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Authority (ITA) official database"
+   },
+   {
+    "point": "Monitoring stations used: 15 for SO2, 23 for NOX, 11 for PM10.",
+    "locator": "Table 1, p.6",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Active AQMSs integrated in the study: 15 for SO2"
+   },
+   {
+    "point": "Each sale is assigned the annual average at its single nearest station.",
+    "locator": "Sec. 4, p.8",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "closest active monitoring station"
+   },
+   {
+    "point": "Descriptives: Arnona ranges 43.12-119.57 NIS/m2 (mean 80.54).",
+    "locator": "Table 2, p.10",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "43.12"
+   },
+   {
+    "point": "Arnona correlates r = 0.96 with apartment size (stepwise rate by size).",
+    "locator": "Sec. 5, p.9",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "(r = 0.96)"
+   },
+   {
+    "point": "Instrument: log distance to nearest train station, justified by tax zones drawn along railway corridors.",
+    "locator": "Sec. 5, p.10",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "The identification strategy relies on the logarithmic distance to the nearest train"
+   },
+   {
+    "point": "Endogeneity test cannot reject exogeneity, so OLS/SEM estimates are treated as consistent.",
+    "locator": "Sec. 6.5, p.14",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "cannot reject the null hypothesis"
+   },
+   {
+    "point": "Price equation (OLS, ln price, n=5108, R2 0.581): Arnona coefficient -3.98e-5, Z = -8.041.",
+    "locator": "Table 3 and Sec. 6.2, p.11",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Z = −8.041"
+   },
+   {
+    "point": "NOX coefficient -0.0133 in the price equation, Z = -16.119.",
+    "locator": "Sec. 6.2, p.12",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Z = −16.119"
+   },
+   {
+    "point": "Spatial error model: NOX coefficient falls to -0.00382 (p<0.05).",
+    "locator": "Sec. 6.4, p.13",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "−0.00382"
+   },
+   {
+    "point": "Tax equation: SO2 coefficient -9.78 NIS/m2 per unit, Z = -17.346 (the only pollutant retained in Table 4).",
+    "locator": "Sec. 6.3, p.12",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "Z = −17.346"
+   },
+   {
+    "point": "'Partial compensation' is the authors' qualitative reading of relative magnitudes; no net-welfare estimate.",
+    "locator": "Sec. 7, p.15",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "this compensation is only partial"
+   },
+   {
+    "point": "Their claim: it would take several decades of tax savings to offset the price discount.",
+    "locator": "Sec. 7, p.15",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "it would likely require several decades of tax"
+   },
+   {
+    "point": "PM10 excluded from the price equation for multicollinearity (VIF about 10), read as a centrality proxy.",
+    "locator": "Sec. 6.2, p.12",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "particulate matter primarily functions as a proxy for dense commercial hubs"
+   },
+   {
+    "point": "PM10 interpretation is provisional.",
+    "locator": "Sec. 7, p.16",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "should be treated as provisional"
+   },
+   {
+    "point": "Capitalization framing: 'cost view' (Oates 1969) versus 'benefit view' (Tiebout).",
+    "locator": "Sec. 1, p.2",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "the “cost view” (Oates, 1969"
+   },
+   {
+    "point": "Limitations: one city, cross-sectional; 'robust empirical evidence rather than definitive causal proofs'.",
+    "locator": "Sec. 8.2, p.16",
+    "file": "item1-urbansci-10-612-elisha-arbel-aiche-portnov.txt",
+    "grep": "than definitive causal proofs"
+   },
+   {
+    "point": "Publication date 22 Oct 2026.",
+    "locator": "Crossref",
+    "file": "item1-crossref-metadata.json",
+    "grep": "2026,10,22"
+   }
+  ],
+  "existing_wiki_coverage": "No Israel page and no arnona content anywhere: grep -ril arnona over the repo hits only BACKLOG.md (line 100, the [SOURCE-BLOCKED] Dai & Felsenstein lead). Digest greps for arnona/area-based/Haifa return nothing relevant. concepts/tax-capitalization.md (read in full) carries Oates, Palmon-Smith, Hoj-Jorgensen-Schou, the Doucet survey and Falkenbach, but nothing on non-ad-valorem or floor-area taxes. research/hamilton-benefit-tax.md and research/oates-1969-capitalization.md exist (benefit/cost-view homes). Israel appears only on objections/nationalization-solves-the-land-problem and a few concept pages.",
+  "uncertainties": [
+   "The abstract says '2SLS' and 'PM10 displays a positive association with tax rates', but the main text reports no 2SLS second-stage table; Sec. 6.5 says the Durbin-Wu-Hausman test fails to reject exogeneity and the OLS and SEM estimates are the ones reported. Table 4 (tax equation) retains only SO2; NOX and PM10 tax-equation coefficients are not tabulated. T1 should not repeat the abstract's NOX-negative / PM10-positive tax-rate claims as tabulated results.",
+   "The conclusion says 'municipal taxation is positively capitalized into housing values' (Sec. 8) while Table 3 gives a negative Arnona coefficient and Sec. 6.2 says higher tax goes with lower values; read as 'capitalized as a cost'. The wording is the paper's own and is unreliable.",
+   "Arnona is 96 per cent correlated with apartment size and rises stepwise with size, so the tax coefficient may largely proxy size; the effect is small (T0 arithmetic, not in the paper: 25.58 SD x 3.98e-5 is about 0.1 per cent of price per SD of Arnona).",
+   "The unit of the tariff (NIS per m2 per year or per month) is not stated; do not restate it as an annual burden.",
+   "Table 2 has implausible entries (apartment-area mean equals median 82.35; D_carmel median 24,773 exceeds the max 8,967); the text names 'Price per square meter' as a tax predictor not shown in Table 4; the DWH paragraph tests 'NOX exogenous' though the test concerns the tax variable. Treat quantitative detail beyond the headline coefficients with care.",
+   "Generative-AI editing is disclosed in the Acknowledgments (ChatGPT, GPT-5.5).",
+   "Nothing in the paper concerns land value or site-value taxation; do not use it as LVT evidence. Its references to the Israeli arnona literature (Mintz & Portnov 2023, Land Use Policy 133:106811; Mintz & Portnov 2025, J. Tax Reform 11:903-917; Razin & Luzon-Beranen 2025) were not fetched and are possible BACKLOG leads for a future arnona page together with Dai & Felsenstein.",
+   "www.mdpi.com HTML was not obtained (access denied); the PDF came from MDPI's own open file host."
+  ]
+ },
+ {
+  "url": "https://taxfoundation.org/blog/property-tax-ballot-measures-2026/",
+  "title": "Nicole Fox, Property Tax Relief on the Ballot: Three Approaches, One Clear Winner (Tax Foundation blog, 30 Oct 2026; page title '2026 Property Tax Ballot Measures: FL, OK, WY & NC Compared')",
+  "what_was_fetched": "Tax Foundation page, text extracted: item2-taxfoundation-fox-property-tax-ballot-2026.txt (openly served; byline box 'Nicole Fox, Policy Analyst, Center for State Tax Policy'; page schema lists author as 'Kevin Kaufman', see uncertainties). Primaries: Oklahoma Secretary of State PDF https://www.sos.ok.gov/documents/questions/847.pdf = enrolled SJR 39 text, ballot title as passed, Attorney General letters of 8 May and 3 June 2026 and the Attorney General's Final Ballot Title (saved item2-sos-ok-sq847-ballot-title.txt); Oklahoma Legislature engrossed SJR 39 PDF (item2-oklegislature-sjr39-engrossed.txt); Ballotpedia SQ 847 page (item2-ballotpedia-ok-sq847.txt); Iowa SF 2472 enrolled text from legis.iowa.gov (item2-iowa-sf2472-enrolled.txt) and the Governor's approval letter (image-only PDF; page-1 transcription in item2-iowa-sf2472-govletter-page1-transcription.txt, original PDF in dl2/sf2472_govletter.pdf); Ballotpedia topic roster 'Property taxes on the ballot' (item2-ballotpedia-property-taxes-on-the-ballot.txt) and one page per measure (item2-ballotpedia-fl-amend2/3, ga-amend1, la-amend1/2/4-may/6/9/10, nc-levy-limit, ok-sq847, tn-amend2, wy-initiative1). Not obtained: an Oklahoma State Election Board page (not located); the OSCN copy of the Attorney General letters (Cloudflare Turnstile, not circumvented); Iowa bill history (loaded dynamically); Wyoming and North Carolina primary texts (Ballotpedia only; the wiki already has primaries on places/wyoming.md and concepts/split-rate-taxation.md).",
+  "verdict": "ENRICH events/proposition-13.md with one short new paragraph (two or three sentences) on Oklahoma SQ 847 and the Iowa SF 2472 levy-limit precedent, from the primaries. Insertion point: section '## The 2026 Revolt Wave', as a new paragraph after the paragraph that ends '...and the latter is published with the support of housing and apartment associations.[19]' and before '## See Also'. Suggested content: Oklahoma's SQ 847 (legislatively referred by SJR 39, on the 3 November 2026 ballot) would cut the annual cap on growth in fair cash value from 3 to 1.75 per cent for homesteads and agricultural land and from 5 to 4 per cent for other real property from tax year 2027, and would replace the senior freeze with an income-tiered scale (no increase at or below the HUD median income for the county or metro area; 0.35, 0.7, 1.05 and 1.4 per cent for each further 20 per cent of median up to 180 per cent; 1.75 per cent above). The existing Oklahoma cap has the same acquisition-reset structure as Proposition 13 (reset on sale or improvement; SQ 676 of 1996 set 5 per cent, SQ 758 of 2012 set 3 per cent for homesteads and farmland). Contrast: Iowa SF 2472, approved by the Governor 18 May 2026, limits county general, rural-services and city general levies to 102 per cent of the prior year's certified dollars (excluding new construction, improvements and boundary changes) from fiscal 2027-28, with the old fixed rate caps resuming as a ceiling from 1 July 2030, and applies the same 102 per cent rule to other rate-limited levies (new Iowa Code 444.25). Attribute the judgement that a levy limit is the 'neutral' option to the Tax Foundation as Tier 2 origin only (one clause). Do NOT write an outcome: the vote is 3 Nov 2026; phrase with 'would' and revisit after the count; the post-vote events/2026-property-tax-revolt-wave.md page (BACKLOG lines 99 and 114) should carry results and the roster. If T1 prefers not to publish a pending-vote sentence, DEFER to that page: all primaries are saved for it. Also correct: the queue note says 12 November; the vote date is 3 November 2026.",
+  "claim_grade": "A for the measure texts (official: Oklahoma Secretary of State enrolled SJR 39 and Attorney General final ballot title; Iowa enrolled Act and Governor's approval). Ballotpedia is a Tier 2 reference compiler: use the roster for names and one-line provisions, cite the state primaries for provisions. D for the Tax Foundation's 'levy limit is the most effective and economically neutral approach' judgement: Tier 2 think-tank (Nicole Fox is Center for State Tax Policy staff), origin of the argument only, never support; its paraphrases are not to be cited where the primary exists.",
+  "content_summary": [
+   {
+    "point": "Tax Foundation: 12 property tax measures on the ballot across 7 states.",
+    "locator": "para 2",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "12 property tax measures are on the ballot across 7 states"
+   },
+   {
+    "point": "Tax Foundation on SQ 847: cap from 3 to 1.75 per cent (homestead, agricultural land); 5 to 4 per cent other property.",
+    "locator": "'Tightening Assessment Limits'",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "from 3 percent to 1.75 percent"
+   },
+   {
+    "point": "Tax Foundation's senior-freeze paraphrase: tiered up to 180 per cent of median (simplifies the primary, which keeps a zero-increase freeze at or below median).",
+    "locator": "same section",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "up to 180 percent of the median"
+   },
+   {
+    "point": "Tax Foundation's levy-limit judgement (Tier 2 origin only).",
+    "locator": "'Why Levy Limits Work'; closing para",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "most effective and economically neutral approach"
+   },
+   {
+    "point": "Tax Foundation describes Iowa SF 2472 as a 'well-structured 2 percent property tax levy limit'.",
+    "locator": "'An Opportunity for North Carolina in 2027'",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "well-structured 2 percent property tax levy limit"
+   },
+   {
+    "point": "Tax Foundation says locals may exceed the Iowa limit by voter approval at a special election; NOT found in the enrolled text (see uncertainties).",
+    "locator": "same",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "voter approval at a special election"
+   },
+   {
+    "point": "Author box: Nicole Fox, Policy Analyst, Center for State Tax Policy.",
+    "locator": "page end",
+    "file": "item2-taxfoundation-fox-property-tax-ballot-2026.txt",
+    "grep": "Nicole Fox is a Policy Analyst with the Center for State Tax Policy"
+   },
+   {
+    "point": "SQ 847 designation: State Question Number 847, Legislative Referendum 381; SJR 39 received by the Secretary of State 28 April 2026.",
+    "locator": "SOS PDF p.1",
+    "file": "item2-sos-ok-sq847-ballot-title.txt",
+    "grep": "STATE QUESTION NUMBER 847"
+   },
+   {
+    "point": "Section 8B text: 1.75 per cent from tax year 2027 for homesteads and agricultural land; 4 per cent for other real property.",
+    "locator": "enrolled SJR 39, Sec. 1",
+    "file": "item2-sos-ok-sq847-ballot-title.txt",
+    "grep": "one and seventy-five-hundredths percent (1.75%) for tax year 2027"
+   },
+   {
+    "point": "Senior schedule (8C(E)): 100 per cent or less of median: no increase; over 100 to 120 per cent: 0.35%; ...; over 180 per cent: 1.75%.",
+    "locator": "enrolled SJR 39, pp.3-4",
+    "file": "item2-sos-ok-sq847-ballot-title.txt",
+    "grep": "thirty-five-hundredths percent (0.35%);"
+   },
+   {
+    "point": "Attorney General's rewritten Final Ballot Title (3 June 2026), certified by the Secretary of State 4 June.",
+    "locator": "SOS PDF, AG letter",
+    "file": "item2-sos-ok-sq847-ballot-title.txt",
+    "grep": "SQ 847, LR 381 Final Ballot Title"
+   },
+   {
+    "point": "Final ballot title: at or below median, 'a homeowner's homestead fair cash value cannot be increased'.",
+    "locator": "Final Ballot Title",
+    "file": "item2-sos-ok-sq847-ballot-title.txt",
+    "grep": "metropolitan statistical area), a homeowner’s homestead fair cash value cannot be increased"
+   },
+   {
+    "point": "Final ballot title fiscal sentence: 'a fiscal impact on the state, but the exact impact is unknown'.",
+    "locator": "Final Ballot Title",
+    "file": "item2-sos-ok-sq847-ballot-title.txt",
+    "grep": "impact on the state, but the exact impact is unknown"
+   },
+   {
+    "point": "Ballotpedia: legislatively referred amendment on the 3 November 2026 ballot.",
+    "locator": "Overview",
+    "file": "item2-ballotpedia-ok-sq847.txt",
+    "grep": "is on the ballot in Oklahoma as a legislatively referred constitutional amendment on November 3, 2026"
+   },
+   {
+    "point": "History: SQ 676/677 (1996); SQ 758 (2012) cut the homestead and agricultural cap from 5 to 3 per cent.",
+    "locator": "'Have Oklahomans voted ... before?'",
+    "file": "item2-ballotpedia-ok-sq847.txt",
+    "grep": "In 2012, voters approved State Question 758"
+   },
+   {
+    "point": "Legislative votes: final Senate concurrence 40-8 (House 80-14; Senate first 38-8).",
+    "locator": "'Senate Joint Resolution 39 (2026)'",
+    "file": "item2-ballotpedia-ok-sq847.txt",
+    "grep": "approved the amended version of SJR 39 in a vote of 40-8"
+   },
+   {
+    "point": "Opposition view (Oklahoma Policy Institute): 'SQ 847 does not lower current property tax bills for homeowners'.",
+    "locator": "'Opposition'",
+    "file": "item2-ballotpedia-ok-sq847.txt",
+    "grep": "SQ 847 does not lower current property tax bills for homeowners"
+   },
+   {
+    "point": "Iowa SF 2472: new Iowa Code 444.25, 'Maximum property tax levy rates -- adjustments'.",
+    "locator": "Div. III, Sec. 20",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "NEW SECTION. 444.25 Maximum property tax levy"
+   },
+   {
+    "point": "Levy-limit formula: 102 per cent of the current fiscal year's certified dollars over the budget-year assessed value.",
+    "locator": "Sec. 20(2); also Secs 2, 12",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "two percent of the current fiscal year’s actual property tax"
+   },
+   {
+    "point": "County general levy: formula fiscal 2027-30, then from 1 July 2030 the lesser of the formula and $3.50 per thousand ($3.95 rural).",
+    "locator": "Div. I, Sec. 3",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "after July 1, 2030, the lesser of:"
+   },
+   {
+    "point": "City general ceiling $8.10 per thousand.",
+    "locator": "Div. II, Sec. 13",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "Eight dollars and ten cents per thousand dollars of"
+   },
+   {
+    "point": "'New valuation' (new construction, improvements, boundary changes) excluded from the base.",
+    "locator": "Div. I, Sec. 7",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "NEW PARAGRAPH. c. “New valuation” means the increase"
+   },
+   {
+    "point": "Budget-suspension authority under Iowa Code 24.48 does not apply to the new limit.",
+    "locator": "Div. III, Sec. 18",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "limitations of section 444.25."
+   },
+   {
+    "point": "Division I effective 1 January 2027.",
+    "locator": "Div. I, Sec. 9",
+    "file": "item2-iowa-sf2472-enrolled.txt",
+    "grep": "Sec. 9. EFFECTIVE DATE. This division of this Act takes"
+   },
+   {
+    "point": "Governor's approval letter dated 18 May 2026: 'hereby approved on this date' (T0 transcription of an image page).",
+    "locator": "Gov. letter p.1",
+    "file": "item2-iowa-sf2472-govletter-page1-transcription.txt",
+    "grep": "The above Senate File is hereby approved on this date."
+   },
+   {
+    "point": "Ballotpedia roster lists Louisiana Amendment 4 (May 2026) among the 13 entries for 2026; it was voted 16 May 2026 and defeated, so 12 measures remain for 3 November.",
+    "locator": "roster page",
+    "file": "item2-ballotpedia-property-taxes-on-the-ballot.txt",
+    "grep": "Louisiana Amendment 4, Allow Parishes to Exempt Business Inventory from Property Taxation Amendment (May 2026)"
+   },
+   {
+    "point": "Louisiana Amendment 4 date.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-la-amend4-may.txt",
+    "grep": "on May 16, 2026"
+   },
+   {
+    "point": "Roster (3 Nov 2026), FL Amend 2: exempts farm tangible personal property.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-fl-amend2.txt",
+    "grep": "exempt tangible personal property, such as farm equipment or tools"
+   },
+   {
+    "point": "FL Amend 3: non-school homestead exemption to $150,000 in 2027, $250,000 in 2028.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-fl-amend3.txt",
+    "grep": "increase the homestead tax exemption for non-school district property taxes to $150,000 in 2027 and $250,000 in 2028"
+   },
+   {
+    "point": "GA Amend 1: conservation-use acre limit 2,000 to 4,000.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-ga-amend1.txt",
+    "grep": "from 2,000 to 4,000 acres"
+   },
+   {
+    "point": "LA Amend 1: surviving spouse of disabled veteran may transfer homestead exemption once.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-la-amend1.txt",
+    "grep": "transfer the homestead property tax exemption one time to a new homestead"
+   },
+   {
+    "point": "LA Amend 2: allow millage above the prior-year-assessment rate but below the constitutional maximum.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-la-amend2.txt",
+    "grep": "levy a millage at a rate above the rate set by the previous year's assessment"
+   },
+   {
+    "point": "LA Amend 6: exemption up to $30,000 of assessed value for 65+ owners in the assessment freeze.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-la-amend6.txt",
+    "grep": "up to $30,000 of assessed property value"
+   },
+   {
+    "point": "LA Amend 9: special-assessment income limit $100,000 to $150,000.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-la-amend9.txt",
+    "grep": "from $100,000 to $150,000"
+   },
+   {
+    "point": "LA Amend 10: exemption for rehabilitated derelict or blighted property.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-la-amend10.txt",
+    "grep": "tax exemption for derelict or blighted property"
+   },
+   {
+    "point": "NC: constitutional amendment requiring the legislature to pass laws limiting local property-tax increases.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-nc-levy-limit.txt",
+    "grep": "require the state legislature to pass laws limiting the amount that local governments may increase property taxes"
+   },
+   {
+    "point": "TN Amend 2: prohibit the legislature from enacting taxes on property.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-tn-amend2.txt",
+    "grep": "prohibit the legislature from enacting taxes on property"
+   },
+   {
+    "point": "WY Initiative 1 (initiated statute): exempts 50% of a primary residence's assessed value.",
+    "locator": "measure page",
+    "file": "item2-ballotpedia-wy-initiative1.txt",
+    "grep": "exempts 50% of a primary residence's assessed value from property taxation"
+   },
+   {
+    "point": "WY ballot summary: 50 per cent of the assessed value 'of the dwelling' (Tax Foundation says land is excluded).",
+    "locator": "Text of measure",
+    "file": "item2-ballotpedia-wy-initiative1.txt",
+    "grep": "Establishing a property tax exemption for qualified homeowners’ primary residence in the amount of fifty percent (50%) of the assessed value of the dwelling"
+   }
+  ],
+  "existing_wiki_coverage": "events/proposition-13.md (98 lines, read in full), 'The 2026 Revolt Wave', carries the Lincoln Institute explainer (source 15), Florida Amendment 3 (sources 16-19, including an earlier Nicole Fox Tax Foundation piece cited origin-only), and names North Carolina and Wyoming Initiative 1 from the Lincoln explainer. Nothing on Oklahoma SQ 847 or Iowa SF 2472 anywhere (grep 'state question 847', 'SQ 847', 'SF 2472', 'Senate File 2472' over the repo: zero hits). places/wyoming.md has Initiative 1 from the Secretary of State ballot language (including 'applies to the residential structure') and calls it one of 'thirteen' measures in seven states; concepts/split-rate-taxation.md source 9 has NC HB 1089 / S.L. 2026-5. BACKLOG lines 99 and 114 hold the post-vote events/2026-property-tax-revolt-wave.md lead. Note: the November ballot has twelve measures (Ballotpedia counts thirteen 2026 entries because Louisiana Amendment 4 was voted and defeated on 16 May 2026); wyoming.md's 'thirteen ... placed before voters in 2026' is defensible only with the May measure counted. proposition-13.md says Wyoming's initiative 'would exempt half of every homestead's assessed value', looser than the ballot summary ('dwelling', structure).",
+  "uncertainties": [
+   "The vote is on 3 November 2026, three days after the fetch: any sentence is provisional and should be rewritten with results after the count, or deferred to the post-vote page. The queue text's '12 November 2026' is wrong (Ballotpedia and the Oklahoma record say 3 November).",
+   "Tax Foundation says Iowa locals may exceed the limit with 'voter approval at a special election'; no such override was found in the enrolled text (grep 'special election' returns nothing; Sec. 18 removes the Iowa Code 24.48 budget-suspension route; Sec. 20(3)(b) exempts levies whose rate increase was itself voter-approved). Do not repeat the override claim without a code section. The Iowa formula limits the levy rate so that certified dollars on existing property grow 2 per cent, excluding new valuation; the fixed-rate ceiling resumes from 1 July 2030.",
+   "Tax Foundation's senior-freeze description ('replace this with a tiered, income-based structure') omits that owners at or below median income keep a zero-increase freeze under SJR 39; cite the primary.",
+   "The page's JSON-LD names the author 'Kevin Kaufman' while the visible byline and bio say Nicole Fox; cite the visible byline.",
+   "The Oklahoma Secretary of State PDF holds both the legislature's own ballot title (SJR 39 Sec. 2) and the Attorney General's rewritten Final Ballot Title of 3 June 2026 (which differs: it adds the HUD-median and fiscal-impact sentences); Ballotpedia reproduces the final one. The State Election Board page was not located.",
+   "The Iowa Governor's letter is an image-only PDF; the 18 May 2026 date is T0's reading of page 1; T1 should view page 1 once. SF 2472 is an omnibus (26 divisions: levy limits, FirstHome Iowa accounts, school taxes, assessment limitations, urban renewal, etc.); name only the levy-limit provisions (Divisions I-III).",
+   "Not fetched: Florida primaries (already on the page), NC session law (already on split-rate-taxation.md), Wyoming SOS text (already on places/wyoming.md), Georgia, Louisiana and Tennessee primary texts (Ballotpedia one-liners only).",
+   "Georgist relevance is indirect: assessment limits and exemptions are the wiki's standing example of burden-shifting and lock-in. That the Wyoming exemption leaves land in the base is a reading from the ballot summary ('dwelling') and the Tax Foundation text, not a source claim."
+  ]
+ },
+ {
+  "url": "https://marginalthinking.org/reports/2026/10/2026-10-25-technofeudalism-platform-rents-digital-sovereignty",
+  "title": "Christian Rafael de Souza Silva, Technofeudalism: platforms, economic rents and digital sovereignty (Marginal Thinking / LOGV Research, 25 Oct 2026)",
+  "what_was_fetched": "Report text (27 sections, matrix, 10 references; openly served): item3-marginalthinking-desouzasilva-technofeudalism.txt; outlet pages item3-marginalthinking-about.txt, item3-marginalthinking-methodology.txt, item3-marginalthinking-authors_christian-rafael-de-souza-silva_.txt. Primaries from its reference list: [10] Joel Z. Garrod, Finance and Society 12 (2026) 304-321, open access CC BY-NC-ND: PDF text item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt and Cambridge Core HTML item3-garrod-cambridge-core-html-fulltext.txt; [5] Biglaiser, Cremer, de Corniere & Mantovani, TSE Working Paper 1756, June 2026: item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt (PDF from the TSE site, URL found via search; the TSE publication page showed a bot-verification challenge and was not circumvented; metadata page item3-ideas-repec-biglaiser-tse-wp.txt); [4] CMA cloud market investigation case page item3-cma-cloud-services-market-investigation.txt (final decision 31 July 2025; the final report PDF not fetched); [9] Gane: Crossref abstract only, item3-crossref-gane-jcs-2024.json (SAGE returns 403); [3] Durand, Scouting Capital's Frontiers, NLR 136 (2022): only the openly visible preview paragraphs, item3-nlr-durand-scouting-capitals-frontiers-openly-visible-preview-only.txt (rest paywalled: unreachable); [8] UNCTAD page saved (item3-unctad-facts-figures-digital-economy.txt, not used); [7] OECD report page returned 403, so the report's 61 per cent venture-capital figure is unverified; leads from Garrod's references: Gilbert 2024 (Eur. J. Social Theory) and Yan 2024 (Critical Sociology), plus a 2026 Critical Sociology paper found by Crossref (Chuan): Crossref abstracts only, item3-crossref-gilbert-yan-leads.json.",
+  "verdict": "REJECT the report itself as a source (Tier 2/3 synthesis; no verifiable claim not already on the wiki, no original data; its one figure, the OECD 61 per cent, is unverified). ENRICH from two Tier 1 primaries it surfaced. (a) concepts/technofeudalism.md, section '## A 2026 Special-Issue Exchange: \"Rentier Capitalism\" as a Rival to \"Technofeudalism\"': insert a new paragraph after the paragraph ending '...undermining the coherence of the technofeudalism framework's own prescriptive half, not just its diagnostic half.[12]' and before 'A related, independently-published piece reaches a similar diagnosis from outside the special issue: **Erik Swyngedouw**...'. Content: Joel Z. Garrod (sociologist, St. Francis Xavier University), Finance and Society 12 (2026) 304-321, treats the dispute as a false choice between rupture and continuity: he agrees tech firms remain capitalist and that rent has not overtaken profit, but criticises Morozov's world-systems framing for treating capitalism as unchanged since the 16th century, and argues that 'technofeudalism obscures' the enforcement of global corporate private property; blockchain is his case. Describe it as a sociological/political-economy critique with no measurement of rent. Add Sources entry 13 annotated 'used for ...' with grade B. In the same pass, Sources 12 is right that Gane is in the Journal of Classical Sociology 25(4): 353-368; the queue's pairing of Gane with Finance and Society is an error. The Crossref record shows the Gane paper is CC BY 4.0, but SAGE returns 403 to ordinary requests, so the full text is still unread. (b) concepts/data-rents.md, section '## Capturing or Dissolving the Rent -- the Design Menu': after the bullet '**Interoperability and data portability** dissolve the moat directly ... This is the logic of the EU's Digital Markets Act \"gatekeeper\" rules.' add one sentence: a 2026 Toulouse School of Economics working paper (Biglaiser, Cremer, de Corniere and Mantovani) models cloud egress fees as a lock-in device: providers compete hard on first-period price and raise second-period prices once users face the cost of leaving; a cap raises user surplus, but a full ban can reduce total welfare, and without portability mandates (EU Data Act, Article 23) providers may shift to non-contractual switching costs. Label it a theoretical two-period duopoly model and an unreviewed working paper; Microsoft grant support to TSE-Partnership is disclosed. A NEW research page is an alternative home for the egress-fee evidence (inbound candidates: concepts/data-rents.md, research/dma-interoperability-dissolution.md, research/tech-rent-dissolution-vs-capture.md). BACKLOG leads: Durand NLR 136 (paywalled beyond preview); Gilbert 2024; Yan 2024; Chuan 2026, 'Digital despotism or platform capitalism?', Critical Sociology, DOI 10.1177/08969205261426490 (abstracts only; abstract grep 'Digital despotism or platform capitalism' in item3-crossref-gilbert-yan-leads.json); CMA final report (1 Aug 2025) and egress appendices L-O; OECD venture-capital-in-AI report (403); Gane full text.",
+  "claim_grade": "Report: D (Tier 3 for the author: independent research outlet; the author profile gives no academic affiliation or credentials; no peer review; cite nothing from it as support). Garrod: B, Tier 1 by rubric (peer-reviewed article in a Cambridge University Press journal; academic author with a sociology-department affiliation); interpretive claims (EDITORIAL 2 type D), so cite as 'argues'. Biglaiser et al.: B for a theoretical result (type C); Tier 1 by rubric (recognised industrial-organisation economists at UNC, Toulouse School of Economics and TBS), but an unreviewed working paper with industry funding disclosed. CMA case page: A (official body). Gane Crossref abstract: A for what the abstract says; full text unread.",
+  "content_summary": [
+   {
+    "point": "The report frames the dispute: Varoufakis (cloud capital), Morozov (not a new mode of production), Durand (rentier dependence): 'Neither position can be verified by metaphor alone'.",
+    "locator": "Opening, para 2",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "Neither position can be verified by metaphor alone."
+   },
+   {
+    "point": "Its one substantive distinction: rent and ordinary profit can coexist; 'Treating rent as the entirety of platform revenue exaggerates the critique'.",
+    "locator": "Sec. 3",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "Treating rent as the entirety of platform revenue exaggerates the critique"
+   },
+   {
+    "point": "Only figure: OECD says AI absorbed 61% of tracked venture capital in 2025, up from 30% in 2022 (OECD page returned 403; unverified).",
+    "locator": "Sec. 14",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "AI absorbed 61% of tracked worldwide venture capital in 2025, up from 30% in 2022"
+   },
+   {
+    "point": "CMA published its final decision on cloud services in July 2025.",
+    "locator": "Sec. 11",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "published its final decision in July 2025"
+   },
+   {
+    "point": "CMA case page: final decision published 31 July 2025.",
+    "locator": "CMA case page",
+    "file": "item3-cma-cloud-services-market-investigation.txt",
+    "grep": "Final decision published"
+   },
+   {
+    "point": "Reference [9]: Gane, 'Capitalism is capitalism, not technofeudalism' (not cited in the body text).",
+    "locator": "References",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "[9] Nicholas Gane, Capitalism is capitalism, not technofeudalism, 2025"
+   },
+   {
+    "point": "Reference [10]: the Finance and Society article (no author given in the report; it is Garrod's).",
+    "locator": "References",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "[10] Technofeudalism, or capitalism same as it ever was? Placing the blockchain in global capitalism, Finance and Society"
+   },
+   {
+    "point": "Reference [5]: the TSE cloud egress paper.",
+    "locator": "References",
+    "file": "item3-marginalthinking-desouzasilva-technofeudalism.txt",
+    "grep": "[5] Biglaiser, Crémer, de Cornière and Mantovani"
+   },
+   {
+    "point": "Author page: 'Author · Researcher · Marginal Thinking · LOGV Research' (no affiliation or degree).",
+    "locator": "Authors page",
+    "file": "item3-marginalthinking-authors_christian-rafael-de-souza-silva_.txt",
+    "grep": "Author · Researcher · Marginal Thinking · LOGV Research"
+   },
+   {
+    "point": "Outlet audience: investors, business leaders, researchers, policy professionals (a market-research outlet, not a journal).",
+    "locator": "About page",
+    "file": "item3-marginalthinking-about.txt",
+    "grep": "Marginal Thinking is written for readers who need to understand"
+   },
+   {
+    "point": "Outlet verification statement.",
+    "locator": "Methodology",
+    "file": "item3-marginalthinking-methodology.txt",
+    "grep": "Several publications repeating the same statement do not constitute several independent confirmations"
+   },
+   {
+    "point": "GARROD: Finance and Society 12 (2026) pp. 304-321, DOI 10.1017/fas.2025.10029.",
+    "locator": "p.304",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "Finance and Society (2026), 12, 304–321"
+   },
+   {
+    "point": "Garrod: affiliation.",
+    "locator": "p.304",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "Department of Sociology, St. Francis Xavier University"
+   },
+   {
+    "point": "Garrod: open-access licence.",
+    "locator": "Cambridge Core page",
+    "file": "item3-garrod-cambridge-core-html-fulltext.txt",
+    "grep": "This is an Open Access article"
+   },
+   {
+    "point": "Garrod abstract: 'technofeudalism obscures the links between today's techno-authoritarian shift and the enforcement of global corporate private property relations'.",
+    "locator": "Abstract, p.304",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "technofeudalism obscures the links between today’s techno-authoritarian shift and the"
+   },
+   {
+    "point": "Garrod on prior critiques: tech firms remain capitalist; rent has not overtaken profit as dominant form of accumulation (cites Gane, Gilbert, Morozov, Yan).",
+    "locator": "Intro, p.305",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "There are already good critiques of the technofeudal thesis"
+   },
+   {
+    "point": "Garrod: continuation of that sentence.",
+    "locator": "Intro, p.305",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "rent has not overtaken"
+   },
+   {
+    "point": "Garrod on Morozov: world-systems framing 'dissolves the difference between feudalism and capitalism' (via Dean).",
+    "locator": "p.306",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "Morozov’s approach"
+   },
+   {
+    "point": "Garrod's position: neither historical capitalism nor technofeudalism, but a global private-property regime.",
+    "locator": "p.307",
+    "file": "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+    "grep": "are no longer experiencing capitalism as it has historically existed, nor are we moving"
+   },
+   {
+    "point": "BIGLAISER ET AL.: model is a two-period horizontal differentiated duopoly.",
+    "locator": "Abstract",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "Using a two-period horizontal"
+   },
+   {
+    "point": "Finding: providers have strong incentives to use egress fees, yet the fees harm users.",
+    "locator": "Abstract",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "cloud providers have strong incentives to implement egress fees, yet these fees"
+   },
+   {
+    "point": "Finding: excessive regulation such as a ban may harm total welfare.",
+    "locator": "Abstract",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "may harm total welfare"
+   },
+   {
+    "point": "Market context: AWS, Azure and GCP together over 60 per cent of the global market.",
+    "locator": "Intro, p.1",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "together account for over 60% of the global market"
+   },
+   {
+    "point": "Hyperscaler egress fees estimated five to ten times those of smaller rivals (Ofcom 2023).",
+    "locator": "Intro, p.1",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "major hyperscalers are estimated to be five to ten times higher than those of smaller"
+   },
+   {
+    "point": "EU Data Act bans egress fees after a three-year transition (Article 29).",
+    "locator": "Intro, p.1",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "egress fees after a three-year transition period (Article 29)"
+   },
+   {
+    "point": "Complement result: without interoperability requirements a ban could push providers to non-contractual switching costs.",
+    "locator": "Intro, p.2",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "egress fees could induce providers to substitute toward non-contractual switching costs"
+   },
+   {
+    "point": "Funding disclosure: Microsoft grant to TSE-Partnership.",
+    "locator": "Title-page footnote",
+    "file": "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt",
+    "grep": "support of Microsoft through a grant to TSE-Partnership"
+   },
+   {
+    "point": "GANE (Crossref abstract, CC BY 4.0): capitalism 'has not been displaced by a resurgence of feudalism'.",
+    "locator": "Crossref",
+    "file": "item3-crossref-gane-jcs-2024.json",
+    "grep": "capitalism has not been displaced by a resurgence of feudalism"
+   },
+   {
+    "point": "LEAD, Gilbert 2024 (Eur. J. Social Theory 27(4): 561-78): Regulation School 'platform capitalism' as a regime of accumulation.",
+    "locator": "Crossref abstract",
+    "file": "item3-crossref-gilbert-yan-leads.json",
+    "grep": "Regulation School assertion"
+   },
+   {
+    "point": "LEAD, Yan 2024 (Critical Sociology): techno-feudalism as 'primitive accumulation in digital space'.",
+    "locator": "Crossref abstract",
+    "file": "item3-crossref-gilbert-yan-leads.json",
+    "grep": "primitive accumulation in digital space"
+   },
+   {
+    "point": "LEAD, Durand NLR 136: paywalled; only a preview was served.",
+    "locator": "NLR page",
+    "file": "item3-nlr-durand-scouting-capitals-frontiers-openly-visible-preview-only.txt",
+    "grep": "Subscribe for instant access to all articles since 1960"
+   }
+  ],
+  "primaries_briefed": [
+   {
+    "title": "Technofeudalism, or capitalism same as it ever was? Placing the blockchain in global capitalism",
+    "authors": "Joel Z. Garrod",
+    "venue": "Finance and Society 12 (Special Issue 2, 'When finance becomes tech, Part I'), pp. 304-321; online 26 Dec 2025; DOI 10.1017/fas.2025.10029; open access CC BY-NC-ND",
+    "finds": "Interpretive: both the 'rupture' (technofeudalism) and 'continuity' (Morozov) readings are inadequate; the blockchain illustrates a global private-property regime; technofeudalism obscures techno-authoritarianism's link to corporate property enforcement. No rent measurement.",
+    "files": [
+     "item3-garrod-finance-and-society-2026-technofeudalism-blockchain.txt",
+     "item3-garrod-cambridge-core-html-fulltext.txt"
+    ],
+    "grep": "technofeudalism obscures the links between today’s techno-authoritarian shift and the",
+    "enrich": "concepts/technofeudalism.md, after the Gane paragraph [12]; new Sources entry 13"
+   },
+   {
+    "title": "Dynamic Competition in the Cloud: The Regulation of Egress Fees",
+    "authors": "Gary Biglaiser, Jacques Cremer, Alexandre de Corniere, Andrea Mantovani",
+    "venue": "Toulouse School of Economics Working Paper 26-1756, June 2026 (unreviewed; Microsoft grant to TSE-Partnership acknowledged)",
+    "finds": "Two-period duopoly model: egress fees lock users in and harm them; caps raise user surplus; a full ban can lower total welfare if transfer or switching costs are high; regulation may push providers toward other switching costs; relevant to the EU Data Act (Articles 23 and 29).",
+    "files": [
+     "item3-biglaiser-cremer-decorniere-mantovani-tse-wp-1756-egress-fees.txt"
+    ],
+    "grep": "cloud providers have strong incentives to implement egress fees, yet these fees",
+    "enrich": "concepts/data-rents.md, 'Capturing or Dissolving the Rent', after the interoperability and data portability bullet (or a NEW research page)"
+   },
+   {
+    "title": "Capitalism is capitalism, not technofeudalism",
+    "authors": "Nicholas Gane",
+    "venue": "Journal of Classical Sociology 25(4): 353-368 (NOT Finance and Society); online 9 Aug 2024; DOI 10.1177/1468795X241269293; CC BY 4.0 per Crossref",
+    "finds": "Already on concepts/technofeudalism.md (source 12, abstract-level). SAGE returns 403 so the full text is unread; nothing further to add from this pass.",
+    "files": [
+     "item3-crossref-gane-jcs-2024.json"
+    ],
+    "grep": "capitalism has not been displaced by a resurgence of feudalism",
+    "enrich": "none; keep BACKLOG lead for full text"
+   }
+  ],
+  "existing_wiki_coverage": "Read in full: concepts/technofeudalism.md (Lanier, Varoufakis incl. Project Syndicate 2021, Durand via Verso blog, Morozov NLR 133-134, Fadavi Ardekani review, Norris & Espinosa link, Saito & Sasaki / Sheppard / Wainwright in Area Development and Policy, Gane JCS [source 12], Swyngedouw), concepts/data-rents.md (DMA as the dissolve logic; no egress-fee or cloud switching-cost content) and research/norris-espinosa-refutation-technofeudalism-rent.md (abstract-level; RRPE paywalled). Repo greps: 'egress' (no relevant hit), 'Biglaiser', 'Finance and Society', 'Garrod', 'Marginal Thinking', 'Scouting Capital', 'cloud services market' (no hits); CMA appears only on research/furman-review-digital-competition.md; DMA on research/dma-interoperability-dissolution.md, tech-rent-dissolution-vs-capture.md and data-rents.md. Nothing from the Marginal Thinking report is already on the wiki, and the report adds no claim beyond restating Varoufakis, Morozov and Durand as the wiki already does.",
+  "uncertainties": [
+   "Queue error: the queue pairs 'Gane 2025' with 'Finance and Society'. Gane is in the Journal of Classical Sociology and already on concepts/technofeudalism.md; the Finance and Society article in the report's reference [10] is by Joel Z. Garrod (the report gives no authors) and is new to the wiki. The report lists Gane and Garrod in references [9] and [10] but cites neither in the body (body cites [1]-[8]).",
+   "Author/outlet tiering: Marginal Thinking / LOGV Research is an independent market-research outlet; the author page gives a publications count and an outlet e-mail but no academic post, degree or affiliation. Judged Tier 3 for any claim; not citable as support; not in sources/audit/people-tiers.json.",
+   "The report's OECD figure (AI 61 per cent of venture capital in 2025, 30 per cent in 2022) could not be checked: the OECD page returned 403 to ordinary requests. Not recommended for the wiki.",
+   "Biglaiser et al.: the TSE publication page returned a bot-verification page; the PDF was reached at the URL the search tool reported (https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2026/wp_tse_1756.pdf), served openly. A working paper, so results may change; its introduction's market-share and fee-multiple statements come from Statista and Ofcom (2023) footnotes, not the authors' estimates. Microsoft funding is disclosed.",
+   "Garrod is a theoretical sociology piece on blockchain; its bearing on rent is thin (rent appears only in a few passing sentences). It merits a short paragraph on the technofeudalism page only, not data-rents.md or the Georgist rent-frontier portal.",
+   "Not fetched or unreachable: Durand NLR 136 beyond the preview (paywall); Gane full text (SAGE 403); OECD AI venture capital report (403); CMA final report PDF and egress appendices (not requested); Gilbert, Yan and Chuan beyond Crossref abstracts; Varoufakis Q&A page (reference [1]) saved only as raw HTML in dl3, not used.",
+   "Wiki numbering: Garrod would be the next entry (13) in technofeudalism.md Sources and a fifth critique in the academic literature next to Morozov, Norris & Espinosa, Wainwright and Gane."
+  ]
+ }
+]

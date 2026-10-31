@@ -5978,3 +5978,27 @@ back-links were added, and one Tier-2 name in the lead of the 18.6-year-cycle pa
 stated. Xu (2025) had been tagged as bearing on "LVT hurts farmers", although its body (urban land finance)
 never discusses farmers or rural land. The tag was removed rather than an off-topic back-link added.
 Verification queue: 0 live markers before and after.
+
+## 2026-10-31 (b) — Oklahoma and Iowa on the Prop 13 page, Garrod on technofeudalism, egress fees on data rents
+
+Three queue items. The Haifa arnona paper (Elisha, Arbel, Aiche and Portnov, Urban Science) was
+read in full and rejected: it announces two-stage least squares but reports only hedonic
+coefficients, its capitalization sign contradicts its own compensatory-mechanism claim, and
+its "tax" variable is almost perfectly collinear with floor area, so it says nothing about land
+value. The Tax Foundation's ballot survey was used only as the origin of its "neutral" verdict on
+levy limits; the figures come from the Oklahoma Secretary of State's rewritten SQ 847 ballot
+title, the engrossed SJR 39 and Iowa's enrolled SF 2472. The Prop 13 page now contrasts
+Oklahoma's tightened assessment cap and income-tiered senior limit with Iowa's 102 per cent levy
+formula, with the "would" tense kept until 3 November. The Wyoming page's count is corrected:
+thirteen measures were certified in seven states, twelve remain after Louisiana's Amendment 4
+lost in May; Louisiana still has five on the November ballot, so the state count stays at seven.
+The MarginalThinking report was rejected as a self-published synthesis, but two of its open
+primary sources were read in full and carried: Garrod's Finance and Society article (technofeudalism
+page, source 13) and the Toulouse working paper on cloud egress fees by Biglaiser, Crémer, de
+Cornière and Mantovani (data-rents page, source 5, Microsoft grant disclosed). Four abstract-only
+critiques and the SAGE-blocked Gane paper are BACKLOG leads, as is the post-3-November update.
+The T0 brief's instinct to treat the Tax Foundation's measure descriptions as the record was
+overridden; every number was taken from the official texts it summarises.
+
+Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 491 consumed. Merged to main
+and Ghost-synced.

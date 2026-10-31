@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, technofeudalism, platform-economy, data-rents, rentier]
 stub: false
 excerpt: "The framing of dominant digital platforms as feudal rent-lords rather than capitalist firms — from Jaron Lanier's 'siren servers' (2013) to Yanis Varoufakis's 'technofeudalism' and 'cloud capital' (2023) — a contested extension of the rent concept to the platform economy."
-last_reviewed: 2026-07-17
+last_reviewed: 2026-10-31
 ---
 
 ## Overview
@@ -83,6 +83,21 @@ consumer-driven market disruption as a corrective, while simultaneously arguing 
 no longer central to how technofeudalism actually operates — a tension Gane reads as
 undermining the coherence of the technofeudalism framework's own prescriptive half, not just
 its diagnostic half.[12]
+
+A 2026 article by **Joel Z. Garrod** in *Finance and Society* takes the same side on the
+central question while objecting to how both camps frame it. Garrod accepts that tech
+firms "are still capitalist firms" and that "rent has not overtaken profit as the dominant
+form of accumulation", but warns against concluding that nothing has changed. Reading the
+blockchain through the literature on zones, where the ordinary rules of a state do not
+apply, he argues that crypto practices, their national legitimation and a revived liberal
+discourse tying human rights to the global exchange of private property together extend
+capitalist property relations to a global scale, and he faults Morozov's reliance on
+world-systems theory for reading the present through fixed historical categories. His
+conclusion is that technofeudalism "obscures the links between today's techno-authoritarian
+shift and the enforcement of global corporate private property relations", which is a
+different objection from the rent-versus-profit accounting dispute above: the diagnosis
+misdirects attention from the legal machinery that secures the rents in the first
+place.[13]
 
 A related, independently-published piece reaches a similar diagnosis from outside the
 special issue: **Erik Swyngedouw**'s 2025 chapter "Capitalism Is Over, but the New Is Worse:
@@ -169,3 +184,9 @@ itself, not just between rent-skeptics and rent-proponents.
     abstract was obtained from Crossref metadata — used for the mutated-beyond-the-nation-state
     argument and the internal-contradiction critique of Varoufakis's proposed remedy (§"A
     2026 Special-Issue Exchange" above) (B-claim; abstract-level, full text not read).
+
+13. Joel Z. Garrod (2026), "Technofeudalism, or capitalism same as it ever was? Placing the
+    blockchain in global capitalism," *Finance and Society* 12: 304–321,
+    [doi:10.1017/fas.2025.10029](https://doi.org/10.1017/fas.2025.10029) (open access) — used for
+    the quoted positions on firms, rent and profit, the zones argument and the critique of
+    Morozov's world-systems framing (B-claim; peer-reviewed article; Tier 1 scholar; read in full).
