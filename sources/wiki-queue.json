@@ -8,7 +8,9 @@
       "context": "Investigating the Links Between Air Pollution, Arnona Property Taxation and Housing Prices: A Hedonic Analysis of the Haifa Housing Market \u2014 Yaron Elisha, Yuval Arbel, Avishay Aiche and Boris A. Portnov. Urban Science 10(11):612, MDPI, published 22 October 2026. doi 10.3390/urbansci10110612 (Crossref-verified: authors, date, volume, issue, page; 0 citations). Peer-reviewed, Tier-2 open-access (MDPI), honestly labeled. Air pollution imposes measurable economic costs on housing markets, and Haifa operates a distinctive area-based (non-ad-valorem) property tax, the Arnona: unlike ad valorem systems where liabilities adjust automatically, Arnona requires administrative intervention to modify tax zones, providing a unique setting to observe deliberate municipal fiscal responses. Dataset of 5,108 housing transactions (2020-2025), two-stage least squares instrumental-variable approach. Findings: air pollution is a robust predictor of municipal tax rates; a compensatory fiscal mechanism \u2014 neighborhoods with higher industrial pollutants (SO2 and NOX) face significantly lower tax rates, while PM10 shows a positive association likely reflecting a centrality premium linked to urban density. Municipal tax adjustments partially compensate residents for environmental burdens but do not fully offset the market penalty of pollution exposure. Serves the benefit-view / tax-capitalization research cluster (hamilton-benefit-tax, capitalization of taxes into values) and non-ad-valorem taxation coverage; complements the Dai-Felsenstein BACKLOG lead on Israel (whose references point to the area-based Arnona). Surfaced by the 2026-10-31 LVT/rent scan as a doi.org URL; queued canonical. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content (elisha/arbel/aiche/portnov/haifa and title fragments: zero hits), #progressdotorg history (428 msgs; zero on the authors or the DOI; the only arnona hits are the Dai-Felsenstein items, a different paper).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-31T11:08:12.999516+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1793444920.486369",
+      "reported_at": "2026-10-31T11:08:53.818358+00:00"
     },
     {
       "url": "https://taxfoundation.org/blog/property-tax-ballot-measures-2026/",
@@ -18,7 +20,9 @@
       "context": "Property Tax Relief on the Ballot: Three Approaches, One Clear Winner \u2014 Nicole Fox, Tax Foundation, 30 October 2026, 7-minute read (page fetched and verified; EXA had surfaced it under the listing title 2026 Property Tax Ballot Measures: FL, OK, WY & NC Compared). This November, 12 property tax measures are on the ballot across 7 states; the most consequential would substantially raise homestead exemptions or tighten assessment limits \u2014 mechanisms that largely shift property tax burdens onto other, less-favored properties (commercial, industrial, rental, second homes). Details: Oklahoma SQ 847 would tighten the assessment limit from 3 to 1.75 percent for homestead and agricultural land (5 to 4 percent for other property) and replace the senior fair-cash-value freeze with a tiered income-based structure; assessment limits create a lock-in effect that reduces housing mobility and shift burdens onto newer owners; two states propose massively expanded homestead exemptions; North Carolina voters will consider a levy limit \u2014 the levy limit preserves the property tax base, provides stable local revenue and avoids distortionary burden-shifting, making it the most effective and economically neutral approach on the ballot (Iowa Senate File 2472, enacted 2026, as the well-structured precedent). Same author and outlet as the Amendment 3 analysis kept 10-28 and used by the loop agent; the Lincoln Institute property-tax-revolts explainer was used 10-22 \u2014 this piece is the substantive think-tank version of the same ballot-measure cluster. Serves property-tax-revolt/reform and assessment-limit/homestead-exemption coverage (concepts already discussed on the wiki: assessment limits as burden-shifters), plus places/wyoming.md and places/north-carolina-type state coverage if the loop agent chooses. Verified absent: registry, inventory, consumed (the nicole fox hits are the Amendment 3 item, a different piece), live queue, buckets, wiki content, #progressdotorg history.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-31T11:08:12.999516+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1793444920.486369",
+      "reported_at": "2026-10-31T11:08:53.818381+00:00"
     },
     {
       "url": "https://marginalthinking.org/reports/2026/10/2026-10-25-technofeudalism-platform-rents-digital-sovereignty",
@@ -28,7 +32,9 @@
       "context": "Technofeudalism: platforms, economic rents and digital sovereignty \u2014 Christian Rafael de Souza Silva, Marginal Thinking / LOGV Research, 25 October 2026 (report fetched and verified: 42.6k chars, substantive, structured with sections on feudalism as a historical social arrangement, the persistence of capitalist property and competition, and competing explanatory models, with a references list). A research synthesis of the three-way dispute: Yanis Varoufakis argues large platforms created a new form of ownership and command through cloud capital that appropriates rents from businesses and unpaid user activity; Evgeny Morozov challenges that this amounts to a new mode of production, arguing monopoly, state protection and rent extraction have long belonged to capitalism; Cedric Durand offers a related but distinct reading of a movement toward rentier dependence through proprietary infrastructures. The report frames the empirical consequences (competition law and regulation suffice vs a deeper account of private jurisdictions) and cautions that neither position can be verified by metaphor alone. Tier-3 independent research report, honestly labeled \u2014 supplementary secondary for research/norris-espinosa-refutation-technofeudalism-rent.md (which already engages Varoufakis, Morozov and Durand). Notably, its references surface primaries the wiki has NOT cited: Gane 2025, Capitalism is capitalism, not technofeudalism (doi 10.1177/1468795X241269293); the Finance and Society article Technofeudalism, or capitalism same as it ever was? Placing the blockchain in global capitalism; Biglaiser, Cremer, de Corniere and Mantovani, Dynamic Competition in the Cloud: The Regulation of Egress Fees, Toulouse School of Economics June 2026; plus EU Digital Markets Act, OECD and UNCTAD digital-economy material. Serves the rent-frontier cluster (objections/taxing-quasi-rents-kills-innovation, guides/portal-rent-frontier). Verified absent: registry, inventory, consumed, live queue, buckets, wiki content (marginalthinking / souza silva / gane / finance and society: zero hits), #progressdotorg history (zero on the URL or author).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-10-31T11:08:12.999516+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1793444920.486369",
+      "reported_at": "2026-10-31T11:08:53.818384+00:00"
     }
   ],
   "consumed": [
@@ -6071,7 +6077,7 @@
       "notes": "One sentence on places/pennsylvania.md recording the AIA Philadelphia Housing Committee's 8 Sep 2026 LVT session (Faass, Richie, Vincent; 60 members) and its primer's 'scalpel' framing and open-questions list, attributed as the chapter's own event (Tier 2). Not carried: 'more than two dozen' PA municipalities (the primer's own linked PPI review says 20; the wiki's Hughes count is 21 ever implemented), the venue (not stated on the page), and the speakers' Q&A figures."
     }
   ],
-  "last_updated": "2026-10-31T11:08:12.999516+00:00",
+  "last_updated": "2026-10-31T11:08:53.818386+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 3
 }
