@@ -6002,3 +6002,26 @@ overridden; every number was taken from the official texts it summarises.
 
 Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 491 consumed. Merged to main
 and Ghost-synced.
+
+## 2026-11-01 — NACo's count of the 2020–2026 reform wave on the Prop 13 page
+
+One queue item, the National Association of Counties' report of 30 October. It was read in full
+from the open HTML (there is no PDF; its charts are embeds and were not extracted). The report
+is a county lobby's own compilation, so it enters the Prop 13 page's revolt-wave section as
+origin only, with every figure attributed as the association's count or calculation: 168 state
+actions in 40 states and DC since 2020, 72 per cent of them relief, four states and DC with
+tighter rate or levy limits, ten assessment changes, and a two-year revenue loss of $29.8 billion
+that excludes everything without a fiscal note. Its real-terms finding, that the median bill rose
+57 per cent nominally but 9 per cent in 2010 dollars while the effective rate fell 18 per cent,
+is placed beside the Lincoln explainer's "silent tax increase" point. The abolition-campaign
+status is carried from Ballotpedia and the certified North Dakota result rather than from NACo,
+and the state share of property-tax collections was re-derived from the Census 2022 Table 1
+workbook. The T0 brief's grading was accepted; its optional Wyoming addition was deferred to a
+BACKLOG lead pending the enrolled statutes, and its Lincoln leads (Paquin 2024; Langley and
+Youngman 2021) were recorded for the Legacy and Spread section. Four scanner premises were
+corrected in the ledger, including a "Tier-3" label that is not the wiki's scale. NACo's own
+tables do not reconcile with its text (163 against 168 actions; $28.4 billion against $29.8
+billion), so only the headline figures are carried and the Sources entry says so.
+
+Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 492 consumed. Merged to
+main and Ghost-synced.
