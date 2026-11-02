@@ -5,7 +5,7 @@ tags: [objections, political-economy, homevoter, fischel, feasibility, transitio
 stub: false
 status: "Substantially valid as politics — the serious responses are design responses"
 excerpt: "The political-economy objection, steelmanned via Fischel's Homevoter Hypothesis: homeowners' dominant, undiversifiable asset makes them the decisive local voting bloc, and they rationally oppose any tax that capitalizes into lower home values — which a land value tax does by design."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-11-02
 ---
 
 ## The Objection
@@ -39,7 +39,12 @@ trap](/wiki/tullock-transitional-gains-trap/) sharpens the diagnosis: once a
 privilege (here, untaxed land value) is capitalized into asset prices, current
 owners earn only a normal return on their purchase yet face a real loss if it
 is removed — so they rationally organize to block reform even when the original
-windfall accrued to someone else entirely.
+windfall accrued to someone else entirely. German evidence shows owner-majority
+politics setting rates with an eye to who bears them: after the 2025 property-tax
+reform left tenants with a higher tax base per square metre in the states that kept
+the federal valuation model, councils run by homeowner-friendly parties in those
+states raised their multipliers about 15 percentage points more than comparable
+councils elsewhere.[3]
 
 ## The Response
 
@@ -129,3 +134,8 @@ afterthought.
    incidence studies. [Plummer](/wiki/plummer-lvt-distribution/) ·
    [Bowman & Bell](/wiki/bowman-bell-lvt-distribution/) — used for the
    land-share incidence point (B-claims).
+3. Ramona Müller & Matthias Wrede (2026), "Political Incentives in Local Tax
+   Setting: Evidence from the German Property Tax Reform," CESifo Working Paper
+   No. 13067, [doi:10.65864/4vgkrlimtj](https://doi.org/10.65864/4vgkrlimtj) —
+   used for the triple-difference estimate on municipal multipliers (B-claim;
+   unrefereed academic working paper; fuller treatment on [Germany](/wiki/germany/)).

@@ -6025,3 +6025,24 @@ billion), so only the headline figures are carried and the Sources entry says so
 
 Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 492 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-02 — German multipliers after the reform; two rejections
+
+Three queue items. The CESifo working paper by Müller and Wrede was read in full and carried
+on the Germany page and, as one sentence, on the homevoters objection: in the West German
+states that kept the federal valuation model, where apartments carry a higher base per square
+metre than houses, councils run by homeowner-friendly parties raised their multipliers about
+15 points more than comparable councils in the own-model states, a triple-difference estimate
+with state-by-year fixed effects. It is unrefereed, so B-claim, and the incidence on tenants is
+assumed from Löffler and Siegloch rather than estimated; the Sources entry says both. The
+scanner had the authors' affiliations wrong and treated the incidence assumption as a finding.
+The Journal of Social Policy "elite welfare" article is open access and was read in full with
+its supplement, but its "rent" is a loose political-economy usage and its effect is confined to
+one subgroup in one year, so it was rejected. The Georgist Party of Britain history page was
+rejected as a source after the Electoral Commission register, searched directly, returned no
+party under that name; the site's officers and address are placeholders and its narrative
+contradicts the wiki on at least a dozen points. A BACKLOG lead records the nearest registered
+entity so the question can be revisited. The T0 briefs were accepted on all three verdicts.
+
+Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 495 consumed. Merged to
+main and Ghost-synced.
