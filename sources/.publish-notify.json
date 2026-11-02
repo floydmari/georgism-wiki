@@ -226,7 +226,7 @@
         "stub"
       ],
       "action": "updated",
-      "published_at": "2026-10-08T19:26:17.000Z",
+      "published_at": "2026-11-02T19:29:29.000Z",
       "notified": false
     },
     {
@@ -2743,6 +2743,23 @@
       ],
       "action": "updated",
       "published_at": "2026-10-31T11:33:58.000Z",
+      "notified": false
+    },
+    {
+      "slug": "homevoters-will-block-lvt",
+      "title": "Objection: Homevoters will never allow it",
+      "url": "https://www.progress.org/wiki/homevoters-will-block-lvt/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "political-economy",
+        "homevoter",
+        "fischel",
+        "feasibility",
+        "transition"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-02T19:29:32.000Z",
       "notified": false
     }
   ]
