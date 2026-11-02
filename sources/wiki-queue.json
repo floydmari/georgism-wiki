@@ -8,7 +8,9 @@
       "context": "Political Incentives in Local Tax Setting: Evidence from the German Property Tax Reform \u2014 Ramona M\u00fcller (ifo) and Matthias Wrede (TU Darmstadt). CESifo Working Paper No. 13067, CESifo Munich, 16 October 2026. DOI 10.65864/4vgkrlimtj (Crossref-verified: container CESifo Working Papers, publisher CESifo, published 2026-10-16, authors confirmed). DOI resolves to the ifo.de landing page (fetched; abstract extracted). Abstract: local tax-rate discretion is used strategically when politicians perceive tax burdens fall differently across voter groups. Germany\u2019s property tax reform created exogenous variation across voter groups and municipalities by letting states adopt different valuation models; some states implicitly set a higher tax for rental properties than comparable owner-occupied units. Over an average post-announcement period of 3.6 years, municipal tax multipliers increased by 15 percentage points more when BOTH: municipality governed by homeowner-friendly parties AND located in a state where tenants face a higher tax base per square meter. Causal evidence that higher-level governments tax-base choices change the electoral incentives governing local tax rates. Keywords: property tax reform, local tax setting, voter favoritism, political economy of taxation. JEL H20 H27 H30 H71 H73 R51. Working paper, honestly labeled (CESifo WP series, 0 citations in OpenAlex so far). Serves the German property-tax-reform / Grundsteuer cluster (cf. research/kolbe-berlin-land-value-appraisal) and renter-vs-owner burden-shifting / assessment-design coverage. Surfaced by the 2026-11-02 LVT/rent scan (EXA, source tagged web). Verified absent: registry, inventory, consumed (wrede / political incentives needles: zero; grundsteuer-adjacent hit is only the Tax Foundation Europe tracker, a different piece), live queue, buckets, wiki content (wrede: zero; german property tax hits are kolbe-berlin and carroll-yinger research pages, different papers), #progressdotorg history (434 msgs; cesifo mentions are the Doucet transfer-tax estimate and Coven/Golder/Gupta NBER w35587).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-02T12:05:21.726156+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1793621191.470329",
+      "reported_at": "2026-11-02T12:06:41.004718+00:00"
     },
     {
       "url": "https://doi.org/10.1017/s004727942610169x",
@@ -18,7 +20,9 @@
       "context": "Elite welfare and the good fortune of just being there \u2014 Gary Jonas Fooks (Univ. of Bristol), Killian Mullan, Tom Mills (both Aston), David Yates (Sheffield) and Jennifer Willmott (Aston). Journal of Social Policy, Cambridge University Press, published online 12 October 2026. DOI https://doi.org/10.1017/s004727942610169x (Crossref-verified: container Journal of Social Policy, published 2026-10-12). Cambridge Core landing page fetched and read (~72k chars). Abstract: examines how senior executives at the UK largest listed companies financially benefited from the Coronavirus Job Retention Scheme (CJRS). Difference-in-differences on FTSE 350 firms (n=246), 2019-2023: receipt of furlough support in 2020 was associated with significant increases in CEO performance pay and total remuneration in the immediate post-pandemic year. Interprets elite income derived from rent extraction facilitated by public policy or expenditure as elite welfare \u2014 a parallel welfare system accruing to a privileged minority, largely insulated from competitive constraint and market discipline. Cites Stratford, Rival definitions of economic rent (New Political Economy 2023). Peer-reviewed (Tier 1-2). Serves rentier-capitalism / economic-rent / unearned-income content: narratives/the-rentier-economy, concepts, and inequality/social-policy coverage. Surfaced by the 2026-11-02 LVT/rent scan (EXA, source tagged cambridge). Verified absent: registry, inventory, consumed (fooks / mullan / tom mills / willmott / elite welfare / job retention needles: zero), live queue, buckets, wiki content (elite welfare / fooks / killian mullan / tom mills: zero), #progressdotorg history (434 msgs, zero hits).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-02T12:05:21.726156+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1793621191.470329",
+      "reported_at": "2026-11-02T12:06:41.004747+00:00"
     },
     {
       "url": "https://georgistparty.uk/history",
@@ -28,7 +32,9 @@
       "context": "The History of Georgism, The Georgist Party of Britain \u2014 official history page at georgistparty.uk/history (fetched and read, 12.6k chars; page title element: The History of Georgism, The Georgist Party of Britain; H1: Six centuries of the same argument). Substantive narrative history of the Georgist argument: 1381 rising and anti-enclosure revolts; Levellers and Gerrard Winstanley Diggers (St George Hill 1649, common treasury); Physiocrats (Quesnay, Turgot, Mirabeau, produit net, Turgot impot unique); Paine Agrarian Justice 1797; Thomas Spence parish land ownership; Smith (ground rents least harmful), Ricardo (rent as residual), Mill (unearned increment, Land Tenure Reform Association); Henry George (Progress and Poverty 1879, 1882/1884 UK lecture tours, Scottish and English Land Restoration Leagues); 1909 People\u2019s Budget and Churchill; Snowden 1931; overseas application; sympathizer gallery (Marshall, Sun Yun-suan, Friedman least-bad-tax, Stiglitz, Vickrey, Tobin, Simon, Magie/Monopoly). Primary source for a potential organizations/ page on the party (cf. organizations/commonwealth-land-party) and for modern-Georgist-movement / UK-land-reform coverage; the narrative itself can support history-section citations where an advocacy primary is acceptable. CAVEATS for the agent: the site shows a donations test-mode banner (payments taken here are practice only) and the registered-details line contains a literal Placeholder address; no independent news coverage found via web search \u2014 the party is promoted on r/GeorgismUK as the UK only Georgist Party; verify Electoral Commission registration before citing the party legal status. Advocacy material \u2014 cite as the party own account. Surfaced by the 2026-11-02 LVT/rent scan (EXA). Verified absent: registry, inventory, consumed, buckets, live queue, wiki content (georgistparty / georgist party of britain: zero), #progressdotorg history (434 msgs, zero hits).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-02T12:05:21.726156+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1793621191.470329",
+      "reported_at": "2026-11-02T12:06:41.004750+00:00"
     }
   ],
   "consumed": [
@@ -6133,7 +6139,7 @@
       "notes": "Read in full (open HTML; no PDF). One paragraph in 'The 2026 Revolt Wave' carrying NACo's headline tally (168 actions, 40 states + DC, 72% relief, four states + DC tightened rate/levy limits, ten changed assessments), its $15.3bn/$14.5bn two-year cost with the exclusions stated, and its ACS/CPI real-terms finding (+57% nominal, +9% real, effective rate -18%), all attributed as the association's own (Tier 2, origin only). Scanner premises corrected: 'four states' is four plus DC; '10 assessment-limit changes' includes ratio changes; '15 states within two years' is 'since 2024'; 'Tier-3' is not the wiki scale. Abolition-campaign status carried from Ballotpedia and the certified ND result, not from NACo; state share of property tax (3.3%) re-derived from Census 2022 Table 1. Sources 23-25. NACo's table/text inconsistencies (163 vs 168 actions; $28.4bn vs $29.8bn) noted; only headline figures carried."
     }
   ],
-  "last_updated": "2026-11-02T12:05:21.726156+00:00",
+  "last_updated": "2026-11-02T12:06:41.004751+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 3
 }
