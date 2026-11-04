@@ -1,5 +1,16 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7590398",
+      "title": "Why New York's Pied-a-Terre Tax Is Unconstitutional",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: SSRN working paper (Edward A. Zelinsky, Cardozo School of Law, 8 pp, posted 9 Oct 2026). Argues NYC pied-a-terre property tax surcharge fails constitutionality requirements and stigmatizes expensive second-home ownership. Serves the existing events/nyc-pied-a-terre-tax page (currently cites only official sources and law-firm memos). Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history.",
+      "context": "Why New York's Pied-a-Terre Tax Is Unconstitutional \u2014 Edward A. Zelinsky, Yeshiva University, Benjamin N. Cardozo School of Law. SSRN working paper, 8 pages, posted 9 October 2026, date written 5 October 2026. SSRN URL papers.ssrn.com/sol3/papers.cfm with abstract_id 7590398 (direct fetch bot-walled 403 from the scanner env; EXA had fetched the page \u2014 details below). Crossref-verified: DOI 10.2139/ssrn.7590398 (Elsevier BV / SSRN deposit, created 2026-10-09, author Zelinsky Edward A.). Abstract: Zelinsky argues that New York pied-a-terre property tax surcharge on second homes fails to meet constitutionality requirements and unfairly stigmatizes ownership of expensive second homes. Context: the 2026 NYC non-primary residence surcharge (Mamdani/Hochul, Tax Law Article 30-C, effective 28 May 2026, first bills 1 Jan 2027) is covered on the wiki at events/nyc-pied-a-terre-tax; that page already covers the early legal challenges \u2014 10 August 2026 restraining order, reversed 13 August \u2014 but its legal analysis rests on law-firm client alerts (Mondaq, Sullivan and Cromwell). A named tax-law professor at Cardozo making the constitutional case is an academic Tier-2 source for the same narrative and can anchor the page legality section. Note for the agent: Zelinsky has argued against earlier NYC pied-a-terre proposals on similar grounds in prior scholarship; this paper targets the 2026 surcharge specifically \u2014 check his cited prior work for lineage if the page grows a scholarship section. Working paper, honestly labeled (SSRN preprint, 0 citations in Crossref so far). Serves events/nyc-pied-a-terre-tax and places/new-york-city land-tax coverage. Surfaced by the 2026-11-04 LVT/rent scan (EXA, source tagged ssrn). Verified absent: registry, inventory, consumed (zelinsky / 7590398 needles: zero), live queue, buckets, repo-wide wiki content grep (zero Zelinsky anywhere), #progressdotorg history (437 msgs, no oldest filter; pied-a-terre hits are 3 September posts around the page creation, all predate the paper 9 Oct posting).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-04T12:04:56.079716+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6148,7 +6159,7 @@
       "notes": "Rejected as a source. The Electoral Commission register has no party under 'Georgist', 'Georgism' or 'single tax' (API searched 2026-11-02); the only entity the site's own narrative points to is PP1912 'Shared Ground', formerly Young People's Party, whose registered officers and Newbury address do not appear on the site. The site shows a test-mode donations banner, a literal 'Placeholder' address and placeholder officers. Its history narrative contains at least twelve claims that conflict with the wiki or are unsupported (Henry George Foundation 'from 1907' vs 1929; Snowden tax 'died with the government' vs repeal 1934; Churchill quote placed in Parliament vs Edinburgh; Taiwan 'up to 50 per cent'; Singapore 'a third'). BACKLOG lead to revisit if a registration appears. The scanner's analogue commonwealth-land-party is the US Single Tax Party; UK analogues are labour-land-campaign and henry-george-foundation-uk."
     }
   ],
-  "last_updated": "2026-11-02T12:06:41.004751+00:00",
+  "last_updated": "2026-11-04T12:04:56.079716+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 1
 }
