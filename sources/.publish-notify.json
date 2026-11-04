@@ -2761,6 +2761,24 @@
       "action": "updated",
       "published_at": "2026-11-02T19:29:32.000Z",
       "notified": false
+    },
+    {
+      "slug": "nyc-pied-a-terre-tax",
+      "title": "New York City's Pied-à-Terre Tax (2026)",
+      "url": "https://www.progress.org/wiki/nyc-pied-a-terre-tax/",
+      "category": "events",
+      "tags": [
+        "events",
+        "new-york-city",
+        "pied-a-terre",
+        "second-homes",
+        "property-tax",
+        "vacancy",
+        "united-states"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-04T19:17:41.000Z",
+      "notified": false
     }
   ]
 }
