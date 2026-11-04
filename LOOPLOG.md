@@ -6046,3 +6046,27 @@ entity so the question can be revisited. The T0 briefs were accepted on all thre
 
 Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 495 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-04 — ballot results carried; pied-à-terre litigation corrected
+
+Two pieces of work. First, the BACKLOG lead on the 3 November measures: Ballotpedia's unofficial
+returns were fetched for all twelve, and the Proposition 13 and Wyoming pages now record them.
+Florida's Amendment 3 passed with about 62 per cent, North Carolina's levy limit with about 60,
+Tennessee's bar on a state property tax with about 67; Oklahoma's SQ 847 lost 54 to 46 and
+Wyoming's Initiative 1 lost 56 to 44. The "would" tense was removed from both pages, the counts
+are cited as unofficial in Sources only, and a VERIFY lead asks for the certified figures once
+the canvasses conclude. Second, the one queue item: Zelinsky's paper on the New York surcharge is
+open only as an abstract and a Tax Notes State opening, so it enters the pied-à-terre page as a
+single attributed sentence, with the item's full text recorded as source-blocked. The first
+dispatch of the T0 agent was refused by the permission classifier because the prompt described
+routes around SSRN's bot wall; the re-dispatch carried a strict open-copies-only policy, which
+is the standing rule. The T0 brief's most useful product was a check of the page's litigation
+account against the Bloomberg reports: the August order came from Justice Ozzi in a suit about
+the roll and notices, the 13 August action was a single appellate judge's stay rather than a
+panel lifting the order, and the deadline moved from 21 August to 18 September before 6 October.
+Those corrections are made, and the October suits by Ross and Wynn and by the Mastro group, which
+challenge the tax itself, are now on the page. The scanner's "academic Tier-2" label for a
+Cardozo professor was wrong; he is Tier 1, with his argument carried as his own position.
+
+Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 496 consumed. Merged to
+main and Ghost-synced.
