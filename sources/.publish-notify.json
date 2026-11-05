@@ -2779,6 +2779,22 @@
       "action": "updated",
       "published_at": "2026-11-04T19:17:41.000Z",
       "notified": false
+    },
+    {
+      "slug": "land-speculation",
+      "title": "Land Speculation",
+      "url": "https://www.progress.org/wiki/land-speculation/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "land-speculation",
+        "option-value",
+        "carrying-cost",
+        "appreciation"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-05T19:17:29.000Z",
+      "notified": false
     }
   ]
 }
