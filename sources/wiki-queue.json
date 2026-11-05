@@ -1,5 +1,26 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7647038",
+      "title": "Beyond Property Values: Vacant Lot Greening and Property Tax Delinquency",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: SSRN working paper (Desen Lin, California State University Fullerton, 73 pp, posted 22 Oct 2026, written 16 Oct 2026, DOI 10.2139/ssrn.7647038, Crossref-verified Elsevier BV deposit). Examines whether Philadelphia vacant-lot greening (2013-2018 installations) resolves unpaid property taxes, using linked tax balances and assessment records. Serves vacant-land / property-tax outcomes coverage (GEORGIST_STRONG: vacant land, property tax). Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history (438 msgs).",
+      "context": "Beyond Property Values: Vacant Lot Greening and Property Tax Delinquency \u2014 Desen Lin, California State University, Fullerton. SSRN working paper, 73 pages, posted 22 October 2026, date written 16 October 2026. SSRN URL papers.ssrn.com/sol3/papers.cfm with abstract_id 7647038 (EXA fetched the page; abstract captured in scan lvt-scan-2026-11-05.json). Crossref-verified: DOI 10.2139/ssrn.7647038 (Elsevier BV / SSRN deposit, created 2026-10-22, type posted-content, sole author Lin Desen). Abstract: does vacant lot greening help resolve unpaid property taxes? Examines changes in property tax outcomes around Philadelphia 2013-2018 greening installations using linked tax balances, assessment records. Note for the agent: working paper, honestly labeled (SSRN preprint). Serves vacant-land, property-tax, and Philadelphia land-policy coverage; complements the wiki vacant-land speculation cluster (Doucet vacant-land piece) with empirical tax-outcomes evidence. Surfaced by the 2026-11-05 LVT/rent scan (EXA, source tagged ssrn).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-05T12:03:46.599286+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://blogs.tuni.fi/urbanresearch/research/landvalue/",
+      "title": "The Nordic Growth Machine: How Land Value Shapes Urban Futures",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: Tampere Universities research-blog conference report (14 Oct 2026) on the (De)Valuing Land: Speculation, Housing and Residents session, 11th Nordic Geographers Meeting, Reykjavik June 2026. Land value differentiation, growth coalitions, housing assetization, speculation, shrinking-region housing crises, municipal market-shaping. Institutional research-blog tier (Lincoln Land Lines class). Serves land-speculation / housing-affordability narratives. Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history (438 msgs).",
+      "context": "The Nordic Growth Machine: How Land Value Shapes Urban Futures \u2014 Tampere Urban Research Perspectives blog (Tampere Universities), published 14 October 2026. Report on the \"(De)Valuing Land: Speculation, Housing and Residents\" session at the 11th Nordic Geographers Meeting, Reykjavik, Iceland, June 2026. Covers land value differentiation and growth coalitions (Logan & Molotch), housing assetization and transnational financial capital, speculation in rising and declining markets, left-behind shrinking regions (Kemi/Keminmaa, Meril\u00e4inen & Heldt Cassel) and municipal market-shaping via demolition and property transactions (Kiviaho). Note for the agent: institutional university research blog (not peer-reviewed), useful as narrative/context source for land-speculation and housing-affordability pages, especially Nordic and shrinking-city angles not yet covered. Surfaced by the 2026-11-05 LVT/rent scan (EXA, source tagged web).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-05T12:03:46.599286+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6177,7 +6198,7 @@
       "notes": "Rejected at triage (Hugh, 2026-11-05): Bluesky social-media post from Commonwealth Canada own account, pure-text advocacy statement on land value capture around transit, no external link or primary content (verified via Bluesky AppView API). Social-wrapper URLs are never wiki sources (structural class, linkedin.com precedent); content is a generic LVC talking point the wiki already covers. bsky.app added to slack-wiki-scanner.py EXCLUDE_DOMAINS."
     }
   ],
-  "last_updated": "2026-11-05T11:02:45Z",
+  "last_updated": "2026-11-05T12:03:46.599286+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 2
 }
