@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://bsky.app/profile/commonwealthcanada.bsky.social/post/3mzjd3t62g42w",
-      "title": "If a new train station raises nearby land values, some of that windfall should help pay for the station. Public investment deserves a public return.",
-      "source": "social-media-production",
-      "reason": "unknown domain with keyword (land value)",
-      "context": "If a new train station raises nearby land values, some of that windfall should help pay for the station. Public investment deserves a public return.\n<https://bsky.app/profile/commonwealthcanada.bsky.social/post/3mzjd3t62g42w|bsky.app/profile/commonwealthcanada.bsky.social/post/\u2026> *Sent using* <@U0C59UE2UE7>",
-      "author": "UNYCKRMC6",
-      "queued_at": "2026-11-05T11:00:52.315621+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6172,9 +6161,23 @@
       "wiki_page": "events/nyc-pied-a-terre-tax.md",
       "triage_date": "2026-11-04",
       "notes": "Abstract and Tax Notes State opening only (SSRN 403 to one ordinary request, not retried; no open repository copy). One attributed sentence on the equal-protection position (source 8, D-claim, origin only). The T0 check of the page's litigation account against Bloomberg reports led to corrections: the 10 Aug order was Justice Ozzi's in a suit about the roll and notices, not the tax; the 13 Aug action was a single appellate judge's stay, not a panel lifting the order; deadlines 21 Aug \u2192 18 Sep \u2192 6 Oct. Added the 5 Oct 2026 Ross/Wynn and Mastro suits challenging the tax itself (source 7). Scanner premise 'academic Tier-2' corrected to Tier 1 scholar, B/D-claim. BACKLOG SOURCE-BLOCKED lead for the full text and a nycourts.gov check."
+    },
+    {
+      "url": "https://bsky.app/profile/commonwealthcanada.bsky.social/post/3mzjd3t62g42w",
+      "title": "If a new train station raises nearby land values, some of that windfall should help pay for the station. Public investment deserves a public return.",
+      "source": "social-media-production",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "If a new train station raises nearby land values, some of that windfall should help pay for the station. Public investment deserves a public return.\n<https://bsky.app/profile/commonwealthcanada.bsky.social/post/3mzjd3t62g42w|bsky.app/profile/commonwealthcanada.bsky.social/post/\u2026> *Sent using* <@U0C59UE2UE7>",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-11-05T11:00:52.315621+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "wiki_page": null,
+      "triage_date": "2026-11-05",
+      "notes": "Rejected at triage (Hugh, 2026-11-05): Bluesky social-media post from Commonwealth Canada own account, pure-text advocacy statement on land value capture around transit, no external link or primary content (verified via Bluesky AppView API). Social-wrapper URLs are never wiki sources (structural class, linkedin.com precedent); content is a generic LVC talking point the wiki already covers. bsky.app added to slack-wiki-scanner.py EXCLUDE_DOMAINS."
     }
   ],
-  "last_updated": "2026-11-05T11:01:43Z",
+  "last_updated": "2026-11-05T11:02:45Z",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 1
+  "total": 0
 }
