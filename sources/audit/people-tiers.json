@@ -81,7 +81,8 @@
     "AIA Philadelphia Housing Committee / Aaron Bell (professional body primer) — A-claim for its own event, origin only for policy claims",
     "Godswill Dormenyo King (Sheffield Hallam; 2026 JOIE Ghana article) — cite the peer-reviewed article (Tier 1 venue), not the person as an authority",
     "National Association of Counties (NACo) research reports / Jonathan Harris — membership and lobbying association of US counties; its tallies and calculations are origin only, attributed as its own; cite the Census or NCSL primary where one exists",
-    "TaxProf Blog (Paul Caron) — academic blog; cite the Bloomberg or journal item it excerpts, never the blog as support"
+    "TaxProf Blog (Paul Caron) — academic blog; cite the Bloomberg or journal item it excerpts, never the blog as support",
+    "Tampere Urban Research Perspectives blog (Tampere Universities) — departmental blog reporting unpublished conference talks; not a source of claims; cite presenters' published work instead"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -178,7 +179,8 @@
     "Gary Biglaiser, Jacques Crémer, Alexandre de Cornière & Andrea Mantovani (TSE) — academic working paper on cloud egress fees; B-claim as unrefereed; Microsoft grant to the institute disclosed",
     "Ramona Müller & Matthias Wrede (FAU Erlangen-Nürnberg) — CESifo WP 13067 on German property-tax reform and local multipliers; B-claim as unrefereed working paper",
     "Gary Fooks, Killian Mullan, Tom Mills, David Yates & Jennifer Willmott — Journal of Social Policy 2026 'elite welfare' article; peer-reviewed but its 'rent' is a loose political-economy usage, not cited",
-    "Edward A. Zelinsky (Cardozo School of Law) — tax-law scholar; his constitutional arguments are his own position (D-claim) and his unrefereed papers B-claim at best"
+    "Edward A. Zelinsky (Cardozo School of Law) — tax-law scholar; his constitutional arguments are his own position (D-claim) and his unrefereed papers B-claim at best",
+    "Desen Lin (California State University, Fullerton) — finance academic on Philadelphia vacant-lot greening; Lincoln WP26DL1 B-claim as unrefereed; his SSRN delinquency paper unread"
   ],
   "tier3": [
     "Mark Carney (as politician)",

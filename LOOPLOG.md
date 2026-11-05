@@ -6070,3 +6070,22 @@ Cardozo professor was wrong; he is Tier 1, with his argument carried as his own 
 
 Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 496 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-05 — Philadelphia vacant-lot delinquency on the land-speculation page; two rejections
+
+Two queue items. Lin's SSRN paper on greening and tax delinquency could not be read at all: SSRN
+refused the single ordinary request, no open copy exists, and the scanner's claim to have
+captured the abstract could not be verified, so the item is source-blocked. The T0 agent found
+and read in full the same author's open Lincoln Institute working paper of April 2026, and that
+is what the land-speculation page now carries, in the carrying-costs section: Philadelphia's
+2010 count of about 40,000 vacant lots with 89 per cent of private ones more than eleven years
+delinquent, the paper's assumption-based comparison of uncollected tax against maintenance
+spending, and its 4.6 per cent sale-price effect of greening within 1,000 feet. The point it
+makes for the page is that where the tax goes unpaid the carrying cost of holding land is lower
+still. A BACKLOG lead proposes a research page on the working paper. The Tampere blog on the
+Nordic growth machine was rejected: a departmental blog reporting unpublished conference talks,
+with no figures and nothing on taxing land; the scanner's "Land Lines class" tiering was wrong.
+A lead records Kiviaho's open European Planning Studies article for the land-banking page.
+
+Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 499 consumed. Merged to
+main and Ghost-synced.
