@@ -82,7 +82,9 @@
     "Godswill Dormenyo King (Sheffield Hallam; 2026 JOIE Ghana article) — cite the peer-reviewed article (Tier 1 venue), not the person as an authority",
     "National Association of Counties (NACo) research reports / Jonathan Harris — membership and lobbying association of US counties; its tallies and calculations are origin only, attributed as its own; cite the Census or NCSL primary where one exists",
     "TaxProf Blog (Paul Caron) — academic blog; cite the Bloomberg or journal item it excerpts, never the blog as support",
-    "Tampere Urban Research Perspectives blog (Tampere Universities) — departmental blog reporting unpublished conference talks; not a source of claims; cite presenters' published work instead"
+    "Tampere Urban Research Perspectives blog (Tampere Universities) — departmental blog reporting unpublished conference talks; not a source of claims; cite presenters' published work instead",
+    "Tony Vickers (ALTER co-founder, retired chartered surveyor) — UK land-tax campaigner; op-eds are origin only; cite the official document he summarises",
+    "Liberal Democrat Voice — party blog; never support"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -180,7 +182,9 @@
     "Ramona Müller & Matthias Wrede (FAU Erlangen-Nürnberg) — CESifo WP 13067 on German property-tax reform and local multipliers; B-claim as unrefereed working paper",
     "Gary Fooks, Killian Mullan, Tom Mills, David Yates & Jennifer Willmott — Journal of Social Policy 2026 'elite welfare' article; peer-reviewed but its 'rent' is a loose political-economy usage, not cited",
     "Edward A. Zelinsky (Cardozo School of Law) — tax-law scholar; his constitutional arguments are his own position (D-claim) and his unrefereed papers B-claim at best",
-    "Desen Lin (California State University, Fullerton) — finance academic on Philadelphia vacant-lot greening; Lincoln WP26DL1 B-claim as unrefereed; his SSRN delinquency paper unread"
+    "Desen Lin (California State University, Fullerton) — finance academic on Philadelphia vacant-lot greening; Lincoln WP26DL1 B-claim as unrefereed; his SSRN delinquency paper unread",
+    "Lei Ding, Yilin Hou & Sisi Zhang (Federal Reserve Bank of Philadelphia) — WP 26-51 on short-run property-tax incidence in Philadelphia apartments; B-claim as unrefereed working paper",
+    "Hannah J. Dawson (Development and Change 2026) — anthropologist; peer-reviewed ethnography of Zandspruit rentierism; B-claim, abstract-level until the article body is read"
   ],
   "tier3": [
     "Mark Carney (as politician)",

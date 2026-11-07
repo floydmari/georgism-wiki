@@ -5,7 +5,7 @@ tags: [concepts, rentier, rentier-capitalism, economic-rent, keynes, hudson, maz
 stub: false
 excerpt: "A rentier is an economic actor whose income derives from ownership of scarce assets — historically land, extended by modern critics to finance, IP, and digital platforms — rather than from productive labor or enterprise."
 pd_quotes: true
-last_reviewed: 2026-07-18
+last_reviewed: 2026-11-07
 ---
 
 ## Definition
@@ -125,6 +125,14 @@ the emergence of **asset-class conflict** among home occupiers themselves, or a
 **confrontation between housing activism and rentier capitalism**. They treat these as two
 live possibilities rather than a settled prediction.[19]
 
+The same logic has been traced inside an informal settlement. In Zandspruit, on the edge of
+Johannesburg, **Hannah Dawson**'s decade of fieldwork finds the landlord–tenant line running
+through the community itself: long-standing residents lease backyard rooms and subdivided plots
+to newer arrivals and migrants dependent on insecure wage work, so that land and housing work
+as income-generating assets and "class differentiation is reproduced through rent extraction
+within local distributional circuits, rather than solely through employment". The claim to the
+rent rests on popular notions of ownership and legitimacy rather than formal title.[27]
+
 ### Palma: A Ricardian Reading of the Neoliberal Era
 
 **José Gabriel Palma**'s 2026 *Review of Political Economy* paper — "Ricardo was Right:
@@ -229,3 +237,9 @@ The Georgist position, as represented on this wiki, is that the land-specific ve
 24. Stacy Mitchell (2021), *Amazon's Toll Road: How the Tech Giant Funds Its Monopoly Empire by Exploiting Small Businesses*, Institute for Local Self-Reliance, December 2021. [PDF](https://ilsr.org/wp-content/uploads/2021/11/ILSR-AmazonTollRoad-Final.pdf) — used for the 19% (2014) and 34% (2021) seller-fee shares, which include seller advertising; ILSR is an advocacy body (Tier 2), so the figures are carried as its estimates, not as support.
 25. Kainoa Lowman, "Monopoly Men," review of *The Age of Extraction*, *Washington Monthly*, 2 November 2025. [washingtonmonthly.com](https://washingtonmonthly.com/2025/11/02/age-of-extraction-tim-wu/) — used for the book's structure, its remedy list and the reviewer's criticism of its evidence (B-claim for the description of the book; journalism).
 26. "The Internet's Tollbooth Operators," review of *The Age of Extraction*, *The American Prospect*, 10 December 2025. [prospect.org](https://prospect.org/2025/12/10/internets-tollbooth-operators-wu-review/) — used for the Charles River Bridge analogy, the placement-fee passage and the non-tech chapters (B-claim; journalism).
+27. Hannah J. Dawson (2026), "Rentierism and Class Differentiation in an Informal Johannesburg
+    Settlement," *Development and Change* 57(4): 680–705, online 13 March 2026,
+    [doi:10.1111/dech.70055](https://doi.org/10.1111/dech.70055) (CC BY-NC-ND) — used for the
+    Zandspruit landlord–tenant structure and the quoted conclusion (B-claim; peer-reviewed
+    ethnography by a Tier 1 scholar; carried from the published abstract, the article body not
+    consulted).
