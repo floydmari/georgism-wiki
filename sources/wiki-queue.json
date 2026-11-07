@@ -1,5 +1,46 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://www.fedinprint.org/item/fedpwp/104025/original",
+      "title": "Short-Term Incidence of Property Tax Hikes on Professionally Managed Apartments: Evidence from Philadelphia",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: Federal Reserve Bank of Philadelphia working paper 26-51, published 5 Nov 2026 (Lei Ding, Yilin Hou, Sisi Zhang). 73% of property-tax increases passed through to tenants in professionally managed large-scale apartments, effects emerging ~3 quarters after Philadelphia's delayed comprehensive reassessment; no significant market-level rent increase. Property-tax incidence is the live edge of LVT debates. Serves the wiki tax-incidence cluster (hilber-capitalization-synthesis, loffler-siegloch-german-pass-through, han-ngai-sheedy-transaction-taxes-tenure). Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history (440 msgs).",
+      "context": "Short-Term Incidence of Property Tax Hikes on Professionally Managed Apartments - Evidence from Philadelphia - Lei Ding, Yilin Hou, Sisi Zhang. Federal Reserve Bank of Philadelphia Working Paper 26-51, published 5 November 2026 (Fed in Print record). Abstract: property tax incidence in markets with imperfect competition may vary with market structure; exploiting a delayed comprehensive reassessment in Philadelphia and a property-level longitudinal rent dataset, about 73% of tax increases were passed through to tenants in professionally managed large-scale apartments, with no significant market-level rent increase. JEL H22, H31, H71, R51. PDF at philadelphiafed.org working papers. Note for the agent: Fed working paper (not yet peer-reviewed), honestly labeled. Directly relevant to who-bears-the-burden arguments in LVT debates. Surfaced by the 2026-11-07 LVT/rent scan (EXA).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-07T12:07:23.060224+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.hgsss.org/podcast-episode/episode-197-capturing-land-values-via-auctions-gesells-idea-of-socializing-rent/",
+      "title": "Capturing Land Values via Auctions: Gesell's Idea of Socializing Rent (Henry George School Podcast, Episode 197)",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: institutional podcast of a Georgist organisation the wiki covers (accepted class - episode 196 kept 10-25; registry lists the hgsss.org root as Scanned; organizations/henry-george-school.md exists). Episode 197, published 6 Nov 2026, guest Cameron Sajedi on auctions to determine land values and return socially created rent: Vickrey-Clarke-Groves auction logic vs conventional assessment, publicly owned leaseholds, Detroit-to-Anguilla examples, policy simulations. Serves people/william-vickrey.md and research/vickrey-counterspeculation-auctions.md (VCG is Vickrey mechanism design) and people/silvio-gesell.md. Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history (440 msgs).",
+      "context": "Capturing Land Values via Auctions: Gesell's Idea of Socializing Rent - The Henry George School Podcast, Episode 197, Henry George School of Social Science (hgsss.org), published 6 November 2026. Cameron Sajedi (scientist and systems architect; same guest as episode 196, kept 10-25) considers how auctions might help communities determine land values and return socially created rent to the public, drawing on Silvio Gesell, Henry George and William Vickrey: Vickrey-Clarke-Groves auctions vs conventional land assessment, land taxation, publicly owned leaseholds, examples from Detroit to Anguilla, and simulations to test policies. Note for the agent: institutional podcast (episodes are an accepted type - prior episode consumed 10-17 class; ep 196 kept 10-25). Surfaced by the 2026-11-07 LVT/rent scan (EXA).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-07T12:07:23.060224+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://doi.org/10.1111/dech.70055",
+      "title": "Rentierism and Class Differentiation in an Informal Johannesburg Settlement",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: peer-reviewed journal article - Hannah J. Dawson, Development and Change 57(4):680-705, published July 2026. Over a decade of ethnographic research in Zandspruit, an informal settlement on Johannesburg periphery: landlord-tenant hierarchy, land and housing as income-generating assets, grassroots rentierism grounded in popular notions of ownership rather than formal title, class differentiation reproduced through rent extraction. Global South informal-settlement angle for the rentier-capitalism cluster. EXA surfaced the University of Johannesburg research portal URL; the canonical DOI form is queued per the resolver rule and the portal URL is bucketed as a variant. Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history (440 msgs).",
+      "context": "Rentierism and Class Differentiation in an Informal Johannesburg Settlement - Hannah J. Dawson. Development and Change, Volume 57, Issue 4, pages 680-705, published July 2026, Wiley (DOI 10.1111/dech.70055). Abstract: examines how the landlord-tenant hierarchy structures inequality in Zandspruit, an informal settlement on the periphery of Johannesburg; land and housing operate as income-generating assets dividing long-standing resident landlords from newer-arrival tenants; brings theories of rentier capitalism into dialogue with anthropological work on distribution; grassroots rentierism grounded in popular notions of ownership and legitimacy rather than formal title intensifies inequalities within marginalised urban communities. Note for the agent: peer-reviewed; university portal variant (pure.uj.ac.za) bucketed for dedup. Surfaced by the 2026-11-07 LVT/rent scan (EXA, portal URL resolved to canonical DOI).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-07T12:07:23.060224+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.libdemvoice.org/just-growth-by-lowering-deadweight-losses-through-tax-80764.html",
+      "title": "Just growth by lowering deadweight losses through tax",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: advocacy op-ed, honestly labeled, by Dr Tony Vickers (retired chartered surveyor; co-founder of ALTER - Action for Land Taxation and Economic Reform; UK land-tax authority already cited in the wiki via the Purves/Stretton/Vickers Land Value Tax cover story). Liberal Democrat Voice, 6 November 2026. Reports the HM Treasury Marginal Cost of Public Funds review (30p in every pound lost to tax inefficiencies per Treasury framing), SDLT 12% deadweight loss, LVT as the welfare-neutral tax, and UK policy status: Commercial Landowner Levy, Proportional Property Tax, Land Compensation Act 1961 reform via secondary legislation under LURA 2023. Serves UK land-tax policy-status coverage. Verified absent: registry, consumed, live queue, buckets, wiki content, #progressdotorg history (440 msgs).",
+      "context": "Just growth by lowering deadweight losses through tax - Dr Tony Vickers, Liberal Democrat Voice, 6 November 2026. Op-ed arguing that deadweight loss from dysfunctional taxes suppresses growth and that shifting onto land values is the remedy: HM Treasury Marginal Cost of Public Funds review (30p per pound of capital allocation lost through tax inefficiencies; SDLT 12% admitted deadweight), LVT as welfare-neutral, each pound shifted generating 16 pounds of growth by one estimate, ALTER policy summary, Proportional Property Tax (Andrew Dixon), Commercial Landowner Levy, Land Compensation Act 1961 reform (300% agricultural land value CPOs), use-it-or-lose-it planning permissions. Note for the agent: party-blog advocacy op-ed by a named UK land-tax authority; use for UK policy-status context, not as a research primary. Surfaced by the 2026-11-07 LVT/rent scan (EXA).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-07T12:07:23.060224+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6204,7 +6245,7 @@
       "notes": "Tier 2 departmental blog by the session organisers reporting unpublished conference talks; no figures, nothing on taxing land, claims belong to the presenters. The scanner's 'Lincoln Land Lines class' tiering is wrong. BACKLOG lead for Kiviaho (2026, European Planning Studies, CC BY) on municipal real-estate management in shrinking Finnish municipalities; the Helsinki portal PDF refused the ordinary request. Growth-machine framing already covered on research/tornberg-anti-growth-machine."
     }
   ],
-  "last_updated": "2026-11-06T12:04:17.503084+00:00",
+  "last_updated": "2026-11-07T12:07:23.060224+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 4
 }
