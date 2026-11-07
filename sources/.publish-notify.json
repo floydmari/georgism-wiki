@@ -366,7 +366,7 @@
         "public-finance"
       ],
       "action": "updated",
-      "published_at": "2026-10-09T11:27:59.000Z",
+      "published_at": "2026-11-07T19:27:18.000Z",
       "notified": false
     },
     {
@@ -437,7 +437,7 @@
         "capitalization"
       ],
       "action": "updated",
-      "published_at": "2026-10-10T11:26:02.000Z",
+      "published_at": "2026-11-07T19:27:12.000Z",
       "notified": false
     },
     {
@@ -489,7 +489,7 @@
         "counter-evidence"
       ],
       "action": "updated",
-      "published_at": "2026-10-10T11:26:11.000Z",
+      "published_at": "2026-11-07T19:27:16.000Z",
       "notified": false
     },
     {
@@ -1427,7 +1427,7 @@
         "atcor"
       ],
       "action": "updated",
-      "published_at": "2026-10-19T11:29:18.000Z",
+      "published_at": "2026-11-07T19:27:20.000Z",
       "notified": false
     },
     {
@@ -2794,6 +2794,57 @@
       ],
       "action": "updated",
       "published_at": "2026-11-05T19:17:29.000Z",
+      "notified": false
+    },
+    {
+      "slug": "ding-hou-zhang-philadelphia-property-tax-incidence",
+      "title": "Ding, Hou & Zhang, \"Short-Term Incidence of Property Tax Hikes on Professionally Managed Apartments\" — Philadelphia Rent Pass-Through Evidence",
+      "url": "https://www.progress.org/wiki/ding-hou-zhang-philadelphia-property-tax-incidence/",
+      "category": "research",
+      "tags": [
+        "research",
+        "tax-incidence",
+        "property-tax",
+        "philadelphia",
+        "rental-housing",
+        "rent-pass-through",
+        "reassessment",
+        "counter-evidence"
+      ],
+      "action": "published",
+      "published_at": "2026-11-07T19:27:10.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-is-just-a-property-tax",
+      "title": "Objection: LVT is just a property tax with extra steps",
+      "url": "https://www.progress.org/wiki/lvt-is-just-a-property-tax/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "property-tax",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-07T19:27:14.000Z",
+      "notified": false
+    },
+    {
+      "slug": "rentier",
+      "title": "Rentier",
+      "url": "https://www.progress.org/wiki/rentier/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "rentier",
+        "rentier-capitalism",
+        "economic-rent",
+        "keynes",
+        "hudson",
+        "mazzucato"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-07T19:27:22.000Z",
       "notified": false
     }
   ]
