@@ -8,7 +8,8 @@
       "context": "Short-Term Incidence of Property Tax Hikes on Professionally Managed Apartments - Evidence from Philadelphia - Lei Ding, Yilin Hou, Sisi Zhang. Federal Reserve Bank of Philadelphia Working Paper 26-51, published 5 November 2026 (Fed in Print record). Abstract: property tax incidence in markets with imperfect competition may vary with market structure; exploiting a delayed comprehensive reassessment in Philadelphia and a property-level longitudinal rent dataset, about 73% of tax increases were passed through to tenants in professionally managed large-scale apartments, with no significant market-level rent increase. JEL H22, H31, H71, R51. PDF at philadelphiafed.org working papers. Note for the agent: Fed working paper (not yet peer-reviewed), honestly labeled. Directly relevant to who-bears-the-burden arguments in LVT debates. Surfaced by the 2026-11-07 LVT/rent scan (EXA).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-07T12:07:23.060224+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1794053262.500719"
     },
     {
       "url": "https://www.hgsss.org/podcast-episode/episode-197-capturing-land-values-via-auctions-gesells-idea-of-socializing-rent/",
@@ -18,7 +19,8 @@
       "context": "Capturing Land Values via Auctions: Gesell's Idea of Socializing Rent - The Henry George School Podcast, Episode 197, Henry George School of Social Science (hgsss.org), published 6 November 2026. Cameron Sajedi (scientist and systems architect; same guest as episode 196, kept 10-25) considers how auctions might help communities determine land values and return socially created rent to the public, drawing on Silvio Gesell, Henry George and William Vickrey: Vickrey-Clarke-Groves auctions vs conventional land assessment, land taxation, publicly owned leaseholds, examples from Detroit to Anguilla, and simulations to test policies. Note for the agent: institutional podcast (episodes are an accepted type - prior episode consumed 10-17 class; ep 196 kept 10-25). Surfaced by the 2026-11-07 LVT/rent scan (EXA).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-07T12:07:23.060224+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1794053262.500719"
     },
     {
       "url": "https://doi.org/10.1111/dech.70055",
@@ -28,7 +30,8 @@
       "context": "Rentierism and Class Differentiation in an Informal Johannesburg Settlement - Hannah J. Dawson. Development and Change, Volume 57, Issue 4, pages 680-705, published July 2026, Wiley (DOI 10.1111/dech.70055). Abstract: examines how the landlord-tenant hierarchy structures inequality in Zandspruit, an informal settlement on the periphery of Johannesburg; land and housing operate as income-generating assets dividing long-standing resident landlords from newer-arrival tenants; brings theories of rentier capitalism into dialogue with anthropological work on distribution; grassroots rentierism grounded in popular notions of ownership and legitimacy rather than formal title intensifies inequalities within marginalised urban communities. Note for the agent: peer-reviewed; university portal variant (pure.uj.ac.za) bucketed for dedup. Surfaced by the 2026-11-07 LVT/rent scan (EXA, portal URL resolved to canonical DOI).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-07T12:07:23.060224+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1794053262.500719"
     },
     {
       "url": "https://www.libdemvoice.org/just-growth-by-lowering-deadweight-losses-through-tax-80764.html",
@@ -38,7 +41,8 @@
       "context": "Just growth by lowering deadweight losses through tax - Dr Tony Vickers, Liberal Democrat Voice, 6 November 2026. Op-ed arguing that deadweight loss from dysfunctional taxes suppresses growth and that shifting onto land values is the remedy: HM Treasury Marginal Cost of Public Funds review (30p per pound of capital allocation lost through tax inefficiencies; SDLT 12% admitted deadweight), LVT as welfare-neutral, each pound shifted generating 16 pounds of growth by one estimate, ALTER policy summary, Proportional Property Tax (Andrew Dixon), Commercial Landowner Levy, Land Compensation Act 1961 reform (300% agricultural land value CPOs), use-it-or-lose-it planning permissions. Note for the agent: party-blog advocacy op-ed by a named UK land-tax authority; use for UK policy-status context, not as a research primary. Surfaced by the 2026-11-07 LVT/rent scan (EXA).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-07T12:07:23.060224+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1794053262.500719"
     }
   ],
   "consumed": [
