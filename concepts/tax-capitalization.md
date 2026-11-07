@@ -86,6 +86,7 @@ The wiki carries the capitalization literature directly:
 
 ## See Also
 
+- [Ding, Hou & Zhang (2026)](/wiki/ding-hou-zhang-philadelphia-property-tax-incidence/) — Philadelphia reassessment evidence on how much of a property-tax rise reaches rents rather than prices in the short run
 - [Capitalization Rate](/wiki/capitalization-rate/) — the stock-to-flow (price ÷ rent) conversion factor used to turn land selling-value estimates into annual rent estimates, central to LVT revenue debates
 - [McCanless: Constructing Public Rent — Property Tax Appeals and Rentier Capitalism](/wiki/mccanless-property-tax-appeals-rentier/) — a channel by which sophisticated owners lower their effective assessed value through unequal appeals access
 - [Aldighieri: The Spatial Non-Neutrality of Land Value Taxation](/wiki/aldighieri-spatial-nonneutrality-lvt/) — a technical qualification: when spillovers capitalize across parcel boundaries, LVT stops being neutral

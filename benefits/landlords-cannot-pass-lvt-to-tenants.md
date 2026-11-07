@@ -6,9 +6,9 @@ tags: [outcomes, incidence, landlords, tenants, lvt, capitalization]
 stub: false
 evidence_strength: "Strong (theory near-unanimous on the land component; direct rental-market measurement supportive but thinner)"
 supported_by: [dors-land-taxes-housing-prices, palmon-smith-capitalization, borge-rattso-norway-capitalization, schwegman-yinger-homestead, carroll-yinger-benefit-tax-rental, capozza-green-hendershott-residential-land, mieszkowski-property-tax-incidence, zodrow-three-views, hilber-capitalization-synthesis, doucet-does-georgism-work, buettner-german-land-tax-capitalization, oates-1969-capitalization]
-challenged_by: [loffler-siegloch-german-pass-through, tsoodle-turner-rents, feldstein-incidence-pure-rent, nielsson-wroblewski-yding-danish-lvt]
+challenged_by: [loffler-siegloch-german-pass-through, ding-hou-zhang-philadelphia-property-tax-incidence, tsoodle-turner-rents, feldstein-incidence-pure-rent, nielsson-wroblewski-yding-danish-lvt]
 excerpt: "Because land supply is fixed, the economic incidence of a land value tax falls on the landowner — capitalized into lower land prices, not shifted to tenants through higher rents. The theory, the capitalization evidence, and the rental-market measurements, with the honest caveats."
-last_reviewed: 2026-07-18
+last_reviewed: 2026-11-07
 ---
 
 > **At a glance** — Standard incidence theory is near-unanimous that the land portion of a land value tax falls on the landowner rather than tenants, and the capitalization evidence supports it — but direct rental-market measurement is thinner and the Danish quasi-experiments disagree on magnitude, so the empirical case is supportive rather than settled.
@@ -94,8 +94,12 @@ shifting** onto renters. Against these,
 [Tsoodle & Turner (2008)](/wiki/tsoodle-turner-rents/) find US property taxes *do*
 raise rents (~$400–450 per year per standard deviation of rate), and
 [Löffler & Siegloch](/wiki/loffler-siegloch-german-pass-through/), exploiting ~5,200
-German municipal reforms, find **full pass-through to rents within three years**.
-All four measure the *building-inclusive* property tax; notably, Löffler &
+German municipal reforms, find **full pass-through to rents within three years**; and
+[Ding, Hou & Zhang (2026)](/wiki/ding-hou-zhang-philadelphia-property-tax-incidence/), a Philadelphia
+Fed working paper using the city's delayed 2023 reassessment, find that large professionally
+managed apartment buildings passed about **73 per cent** of their tax increase to tenants within
+two years, with no detectable rent effect at the level of the whole city.
+All five measure the *building-inclusive* property tax; notably, Löffler &
 Siegloch's own heterogeneity result — pass-through falls as housing supply becomes
 inelastic — points exactly where the theory says a pure land tax (perfectly
 inelastic base) sits. [Hilber's (2017)](/wiki/hilber-capitalization-synthesis/)
@@ -205,6 +209,7 @@ taxes capitalize.
 - [Economic Rent](/wiki/economic-rent/) · [Deadweight Loss](/wiki/deadweight-loss/) · [Tax Capitalization](/wiki/tax-capitalization/)
 - [Mieszkowski (1972)](/wiki/mieszkowski-property-tax-incidence/) · [Zodrow (2001)](/wiki/zodrow-three-views/) — the theory
 - [Palmon & Smith (1998)](/wiki/palmon-smith-capitalization/) · [Carroll & Yinger (1994)](/wiki/carroll-yinger-benefit-tax-rental/) — the measurement
+- [Ding, Hou & Zhang (2026)](/wiki/ding-hou-zhang-philadelphia-property-tax-incidence/) — Philadelphia reassessment evidence of short-run pass-through on large apartment buildings; counter-evidence on the building-inclusive tax
 - [Narrative: Tax Land, Not Labor](/wiki/tax-land-not-labor/) — deploys this outcome
 - [Gaffney (1971): The Property Tax Is A Progressive Tax](/wiki/gaffney-property-tax-progressive/) — an independent, ownership-concentration-based argument against forward shifting, published essentially simultaneously with Mieszkowski's "new view"; historical context, not wired into the evidence tables above (a Gaffney policy-conference argument, not a peer-reviewed incidence result)
 

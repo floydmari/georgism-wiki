@@ -8,7 +8,7 @@ category: research
 excerpt: German study of 5,200+ municipal Grundsteuer reforms finds property-tax increases
   are fully passed through to rents within about three years — the strongest empirical
   counter-evidence to the claim landlords cannot pass a land tax to tenants.
-last_reviewed: 2026-07-05
+last_reviewed: 2026-11-07
 source_url: https://docs.iza.org/dp14195.pdf
 stub: false
 subcategory: wiki-research-housing
@@ -81,6 +81,7 @@ Read this way, the paper is best summarized as: **strong empirical evidence that
 
 - [Landlords Cannot Pass LVT to Tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/) — where this paper's lease-turnover dynamics meet the 2026 Hammer–Doucet exchange on short-run frictions
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
+- [Ding, Hou & Zhang (2026), Philadelphia rent pass-through](/wiki/ding-hou-zhang-philadelphia-property-tax-incidence/) — a US reassessment natural experiment with a similar building-inclusive finding over a shorter horizon
 - [Carroll & Yinger (1994), rental-housing property-tax incidence](/wiki/carroll-yinger-benefit-tax-rental/)
 - [Mieszkowski (1972), the "new view" of property tax incidence](/wiki/mieszkowski-property-tax-incidence/)
 - [Zodrow (2001), "A Room with Three Views"](/wiki/zodrow-three-views/)

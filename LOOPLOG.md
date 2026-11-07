@@ -6089,3 +6089,28 @@ A lead records Kiviaho's open European Planning Studies article for the land-ban
 
 Lint 0 errors; inventory 1038 pages, 0 orphans. Ledger: 0 pending, 499 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-07 — Philadelphia Fed incidence paper as a new research page; Zandspruit rentierism; two rejections
+
+Four queue items. The Philadelphia Fed working paper by Ding, Hou and Zhang was read in full and
+becomes a research page written by a Sonnet writer and reviewed here: the city's delayed 2023
+reassessment, a RealPage panel of large professionally managed buildings, and a within-city
+difference-in-differences giving an 8.7 per cent effective-rent response, which the authors turn
+into "about 73 per cent" pass-through by assuming $280,000 of assessed value per unit. The page
+says plainly that the figure is calibrated rather than estimated, that the paper has no
+land-versus-structure split and a two-year horizon, and that it is counter-evidence on the
+building-inclusive property tax, not on a land value tax. Two phrases of process narration and
+the writer's own per-unit arithmetic were removed in review; the page keeps only the paper's
+numbers. It is linked from the landlords-cannot-pass benefit page (body sentence, challenged_by
+and See Also), the lvt-is-just-a-property-tax objection, the Löffler and Siegloch and Carroll
+and Yinger research pages and the tax-capitalization concept. Dawson's Development and Change
+ethnography of Zandspruit is open-access on paper but Wiley refused the ordinary request, so one
+paragraph on the rentier page carries the abstract's argument with the basis stated in Sources.
+The Henry George School podcast episode was transcribed and rejected on the same grounds as its
+predecessor, and the scanner's claim that episode 196 had been kept was corrected. The Vickers
+op-ed was rejected unread after Liberal Democrat Voice refused the request; the Treasury review
+it cites could not be found on gov.uk, and the Green Book, the Discount Rate Review and the
+Budget 2026 documents that were read support none of its figures, so nothing from it is carried.
+
+Lint 0 errors; inventory 1039 pages, 0 orphans. Ledger: 0 pending, 503 consumed. Merged to
+main and Ghost-synced.

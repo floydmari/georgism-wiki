@@ -52,6 +52,7 @@ Two scope qualifications matter for how strongly this paper should be read as ev
 
 - [Bulloch, Gaertner & Hoopes: Commercial Property Taxes and Business Microlocation](/wiki/bulloch-gaertner-hoopes-commercial-property-tax-microlocation/) — for-profit establishments cluster on the low-tax side of US county borders; a combined land-and-building rate, not a test of a land-only base
 - [Löffler & Siegloch — German property-tax pass-through](/wiki/loffler-siegloch-german-pass-through/)
+- [Ding, Hou & Zhang (2026) — Philadelphia rent pass-through](/wiki/ding-hou-zhang-philadelphia-property-tax-incidence/) — a far higher short-run pass-through on large professionally managed buildings
 
 - [Landlords cannot pass a land value tax on to tenants](/wiki/landlords-cannot-pass-lvt-to-tenants/)
 - [Mieszkowski (1972), the "new view" of property tax incidence](/wiki/mieszkowski-property-tax-incidence/)
