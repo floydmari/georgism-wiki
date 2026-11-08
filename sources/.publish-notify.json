@@ -688,7 +688,7 @@
         "lvt"
       ],
       "action": "updated",
-      "published_at": "2026-10-21T11:29:14.000Z",
+      "published_at": "2026-11-08T19:22:08.000Z",
       "notified": false
     },
     {
@@ -725,7 +725,7 @@
         "critique"
       ],
       "action": "updated",
-      "published_at": "2026-10-31T03:13:26.000Z",
+      "published_at": "2026-11-08T19:22:10.000Z",
       "notified": false
     },
     {
@@ -2845,6 +2845,40 @@
       ],
       "action": "updated",
       "published_at": "2026-11-07T19:27:22.000Z",
+      "notified": false
+    },
+    {
+      "slug": "world-bank-korea-land-property-valuation",
+      "title": "Unlocking Value: Lessons from Korea's Land and Property Valuation and Taxation System",
+      "url": "https://www.progress.org/wiki/world-bank-korea-land-property-valuation/",
+      "category": "research",
+      "tags": [
+        "research",
+        "world-bank",
+        "south-korea",
+        "property-tax",
+        "valuation",
+        "mass-appraisal",
+        "implementation"
+      ],
+      "action": "published",
+      "published_at": "2026-11-08T19:22:04.000Z",
+      "notified": false
+    },
+    {
+      "slug": "south-korea",
+      "title": "South Korea",
+      "url": "https://www.progress.org/wiki/south-korea/",
+      "category": "places",
+      "tags": [
+        "places",
+        "south-korea",
+        "korea-land-corporation",
+        "public-land-development",
+        "land-value-capture"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-08T19:22:06.000Z",
       "notified": false
     }
   ]
