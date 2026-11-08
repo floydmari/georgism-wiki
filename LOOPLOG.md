@@ -6114,3 +6114,26 @@ Budget 2026 documents that were read support none of its figures, so nothing fro
 
 Lint 0 errors; inventory 1039 pages, 0 orphans. Ledger: 0 pending, 503 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-08 — Korea's national valuation system: new research page and three enrichments
+
+One queue item, the World Bank's October 2026 report on Korea's land and property valuation
+system, read in full across its eighty pages and annexes. A Sonnet writer produced the research
+page and it was reviewed here with one phrase of self-reference removed. The report is carried
+for what it is: a Tier 1 institution's description of how a country sets an official value for
+each of some 35 million parcels every year, with 600,000 representative parcels appraised
+professionally, a hedonic index table per neighbourhood and local application to every other
+parcel. The South Korea page gains a section on that system and loses a sentence of process
+narration that had survived since the page was a stub; the mass-appraisal concept gains Korea in
+its list of systems that assess land at scale, and the land-cannot-be-assessed objection gains
+point 3h. All three say the same thing the research page says: Korea shows that national
+parcel-level land valuation is administratively routine, not that a land-only tax base has been
+tried, because houses have been taxed as land plus building since 2005. The T0 brief caught five
+scanner premises that were wrong or overstated, including the "nearly 30 per cent of local tax
+revenue" figure, which is property plus acquisition tax, and the 2020 assessment ratios, which
+are the baseline of a plan reversed in 2023. A New Zealand link on the mass-appraisal page that
+pointed at the New South Wales slug was corrected in passing. The container was replaced during
+the pass and the Ghost sync virtual environment was rebuilt.
+
+Lint 0 errors; inventory 1040 pages, 0 orphans. Ledger: 0 pending, 504 consumed. Merged to
+main and Ghost-synced.
