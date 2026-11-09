@@ -10,7 +10,7 @@ category: research
 excerpt: A citywide field experiment in the DR Congo randomizing progressive vs. proportional
   property-tax schedules across neighborhoods — the progressive schedule raised revenue
   56% relative to the proportional one.
-last_reviewed: 2026-08-14
+last_reviewed: 2026-11-09
 source_url: https://www.nber.org/papers/w35536
 stub: false
 subcategory: wiki-research-lvt
@@ -62,6 +62,7 @@ The usual caveats also apply: this is a working paper, not yet peer-reviewed; th
 
 ## See Also
 
+- [Jensen, Kumar & Poensgen (2026): tax education in Accra](/wiki/jensen-kumar-poensgen-tax-education-ghana/) — a property-tax field experiment on the information side rather than the schedule: knowledge rose and spread, payments did not
 - [Bergeron, Tourek & Weigel: The State Capacity Ceiling on Tax Rates](/wiki/bergeron-tourek-weigel-drc-property-tax/)
 - [Brockmeyer et al., Taxing Property in Developing Countries](/wiki/brockmeyer-property-tax-developing/)
 - [Property Tax in Africa (Franzsen & McCluskey)](/wiki/franzsen-mccluskey-property-tax-africa/)

@@ -6137,3 +6137,29 @@ the pass and the Ghost sync virtual environment was rebuilt.
 
 Lint 0 errors; inventory 1040 pages, 0 orphans. Ledger: 0 pending, 504 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-09 — Ghana tax-education experiment as a new research page; Sindh programme on the Pakistan page
+
+Two queue items. The NBER working paper by Jensen, Kumar and Poensgen was read in full from the
+co-author's own open copy after NBER refused the single ordinary request, and a Sonnet writer
+produced the research page, reviewed here with two phrases of self-reference removed. The page
+carries the experiment as it is: a control group and three treatment groups across 48 collection
+units in Accra, knowledge indices that rose for educated owners and spread to their neighbours,
+and a payment rate that did not move from 12 per cent, with the null resting on self-reports and
+the authors' own caution about a light-touch intervention. It says plainly that the paper tests no
+land tax. It is linked from the King Ghana page and the two DRC experiments, so the cluster now
+holds the information side of compliance beside the enforcement and schedule sides. The scanner
+had described the design as two arms and the avoidance finding as something stronger than
+knowing three lawful requests; both are corrected in the ledger. The World Bank press release on
+the Sindh Property Revenues Enhancement Program was treated as an announcement, and the Bank's
+programme paper of 8 October, found through the open documents API, was read instead. The Pakistan
+page gains a paragraph on the operation, with the Karachi collection figure, the US$85 million
+target, the results framework's 12 per cent baseline proxy against the text's 20 per cent, the
+reinvestment rule and the CLICK survey that raised the recorded property base from 976,000 to 4.5
+million; the mass-appraisal page's clause on Karachi's 2001 survey is updated accordingly. The
+scanner's US$40 million "additional" component is inside the US$150 million, and its 3.58 million
+beneficiaries is an assumed share of a 17.9 million population. A lead records the devolution-date
+discrepancy between the 2026 diagnostic and the programme paper.
+
+Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 506 consumed. Merged to
+main and Ghost-synced.

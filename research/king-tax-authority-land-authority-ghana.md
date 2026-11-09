@@ -10,7 +10,7 @@ tier: Supplementary
 source_url: https://doi.org/10.1017/s1744137426100964
 stub: false
 excerpt: "A 2026 qualitative case study of Ghana argues that building-focused property rating persists because local governments hold the power to tax while customary authorities shape land information, valuation evidence, liability and legitimacy. It does not test a land value tax."
-last_reviewed: 2026-10-30
+last_reviewed: 2026-11-09
 bears_on_objections:
   - land-cannot-be-assessed
 ---
@@ -64,6 +64,7 @@ The study is a qualitative account of one country. It is not evidence that a lan
 
 ## See Also
 
+- [Jensen, Kumar & Poensgen (2026): tax education in Accra](/wiki/jensen-kumar-poensgen-tax-education-ghana/) — a field experiment in the same country: educating property owners raised their knowledge of the rate but not their payments, the behavioural counterpart to this article's institutional account
 - [Property Tax in Africa (Franzsen & McCluskey, 2017)](/wiki/franzsen-mccluskey-property-tax-africa/) — the 29-country survey that records customary tenure as a base constraint; this article adds a causal mechanism for one case
 - [The State Capacity Ceiling (Bergeron, Tourek & Weigel)](/wiki/bergeron-tourek-weigel-drc-property-tax/) — field-experimental evidence that enforcement capacity limits property taxation in a low-capacity setting
 - [Taxing Property in Developing Countries (Brockmeyer et al.)](/wiki/brockmeyer-property-tax-developing/) — welfare effects of property tax rates and enforcement in Mexico

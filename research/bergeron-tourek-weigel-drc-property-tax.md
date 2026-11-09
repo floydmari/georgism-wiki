@@ -6,7 +6,7 @@ authors:
 category: research
 excerpt: An Econometrica field experiment randomizing property-tax rates across 38,028
   owners in Kananga, DR Congo — the first to randomize tax rates.
-last_reviewed: 2026-07-12
+last_reviewed: 2026-11-09
 source_url: https://doi.org/10.3982/ecta19959
 stub: false
 subcategory: wiki-research-lvt
@@ -52,6 +52,7 @@ The paper is the strongest experimental complement to [Brockmeyer et al.'s Mexic
 
 ## See Also
 
+- [Jensen, Kumar & Poensgen (2026): tax education in Accra](/wiki/jensen-kumar-poensgen-tax-education-ghana/) — Ghanaian evidence that taxpayer education without enforcement leaves payment unchanged, consistent with the capacity ceiling described here
 - [Tourek et al. (2026): Does Progressivity Raise Tax Capacity?](/wiki/tourek-drc-progressive-property-tax/) — the same team's follow-on experiment randomizing the *shape* of the schedule (progressive vs. proportional) rather than the rate level
 - [Higher property-tax rates raise welfare in developing countries](/wiki/property-tax-raises-welfare-developing/)
 - [Brockmeyer et al., Taxing Property in Developing Countries](/wiki/brockmeyer-property-tax-developing/)
