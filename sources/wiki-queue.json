@@ -8,7 +8,9 @@
       "context": "Knowledge Without Taxation? Experimental Evidence from a Tax Education Program - Anders Jensen, Nikhil Kumar, Konstantin Poensgen. NBER Working Paper 36002, issued 5 Nov 2026. DOI 10.3386/w36002. Scope: RCT providing tax education to property owners and frontline officials in a Ghanaian municipality; knowledge diffuses through social networks but payments do not move; enforcement-belief and legal-avoidance channels documented. Registered at AEA RCT registry. Note for the agent: citable primary working paper; complements the existing Ghana institutional-persistence JIE article on the wiki. Surfaced by the 2026-11-09 LVT/rent scan (EXA site search on nber.org).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-09T12:04:51.970611+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-11-09T12:05:45.734740+00:00",
+      "report_ts": "1794225940.074969"
     },
     {
       "url": "https://www.worldbank.org/en/news/press-release/2026/10/30/pakistan-new-world-bank-program-to-strengthen-municipal-revenues-and-services-in-s",
@@ -18,7 +20,9 @@
       "context": "Pakistan: New World Bank Program to Strengthen Municipal Revenues and Services in Sindh - World Bank Group press release, 30 Oct 2026. Announces US150 million USD for the Sindh Property Revenues Enhancement Program (Sindh PREP): urban immovable property tax collection and municipal service delivery in Karachi and Sindh urban councils; compliance 20 to 50 percent; Karachi property tax 8.5 to 85 million USD a year; UIPT MIS for billing, payment, grievance redress; 70 percent of receipts reinvested locally; results-based funding via Independent Verification Agent performance assessments; 40 million USD IPF component for 20 more councils. Note for the agent: citable primary institutional announcement; the wiki Pakistan page cites the earlier 44905 report - this program launch is its concrete operationalization. URL ends in-s by CMS design (verified live). Surfaced by the 2026-11-09 LVT/rent scan (EXA site search on worldbank.org).",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-09T12:04:51.970611+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-11-09T12:05:45.734768+00:00",
+      "report_ts": "1794225940.074969"
     }
   ],
   "consumed": [
