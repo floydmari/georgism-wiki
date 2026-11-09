@@ -688,7 +688,7 @@
         "lvt"
       ],
       "action": "updated",
-      "published_at": "2026-11-08T19:22:08.000Z",
+      "published_at": "2026-11-09T19:20:03.000Z",
       "notified": false
     },
     {
@@ -1555,7 +1555,7 @@
         "world-bank"
       ],
       "action": "updated",
-      "published_at": "2026-10-30T11:38:50.000Z",
+      "published_at": "2026-11-09T19:20:01.000Z",
       "notified": false
     },
     {
@@ -1833,7 +1833,7 @@
         "africa"
       ],
       "action": "updated",
-      "published_at": "2026-10-31T03:14:06.000Z",
+      "published_at": "2026-11-09T19:20:05.000Z",
       "notified": false
     },
     {
@@ -2879,6 +2879,64 @@
       ],
       "action": "updated",
       "published_at": "2026-11-08T19:22:06.000Z",
+      "notified": false
+    },
+    {
+      "slug": "jensen-kumar-poensgen-tax-education-ghana",
+      "title": "Knowledge Without Taxation? Experimental Evidence from a Tax Education Program (Jensen, Kumar & Poensgen, 2026)",
+      "url": "https://www.progress.org/wiki/jensen-kumar-poensgen-tax-education-ghana/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "developing-countries",
+        "state-capacity",
+        "field-experiment",
+        "ghana",
+        "tax-compliance",
+        "empirical"
+      ],
+      "action": "published",
+      "published_at": "2026-11-09T19:19:59.000Z",
+      "notified": false
+    },
+    {
+      "slug": "tourek-drc-progressive-property-tax",
+      "title": "Does Progressivity Raise Tax Capacity? Experimental Evidence from the D.R. Congo (Tourek, Laroche, Bergeron, Naritomi, Weigel & Mavungu Ngoma, 2026)",
+      "url": "https://www.progress.org/wiki/tourek-drc-progressive-property-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "developing-countries",
+        "state-capacity",
+        "field-experiment",
+        "drc",
+        "progressivity",
+        "revenue",
+        "empirical"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-09T19:20:07.000Z",
+      "notified": false
+    },
+    {
+      "slug": "bergeron-tourek-weigel-drc-property-tax",
+      "title": "The State Capacity Ceiling on Tax Rates: Randomized Property-Tax Abatements in the DRC (Bergeron, Tourek & Weigel, 2024)",
+      "url": "https://www.progress.org/wiki/bergeron-tourek-weigel-drc-property-tax/",
+      "category": "research",
+      "tags": [
+        "research",
+        "property-tax",
+        "developing-countries",
+        "state-capacity",
+        "field-experiment",
+        "drc",
+        "revenue",
+        "empirical"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-09T19:20:09.000Z",
       "notified": false
     }
   ]
