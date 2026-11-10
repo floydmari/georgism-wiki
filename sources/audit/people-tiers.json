@@ -84,7 +84,9 @@
     "TaxProf Blog (Paul Caron) — academic blog; cite the Bloomberg or journal item it excerpts, never the blog as support",
     "Tampere Urban Research Perspectives blog (Tampere Universities) — departmental blog reporting unpublished conference talks; not a source of claims; cite presenters' published work instead",
     "Tony Vickers (ALTER co-founder, retired chartered surveyor) — UK land-tax campaigner; op-eds are origin only; cite the official document he summarises",
-    "Liberal Democrat Voice — party blog; never support"
+    "Liberal Democrat Voice — party blog; never support",
+    "Partnership for the Public Good / Buffalo Commons student briefs — local advocacy nonprofit hosting unattributed student policy briefs; origin only, never support",
+    "Streets.mn (Twin Cities volunteer urbanist blog) — advocacy explainers with unsourced local figures; origin only"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -187,7 +189,8 @@
     "Hannah J. Dawson (Development and Change 2026) — anthropologist; peer-reviewed ethnography of Zandspruit rentierism; B-claim, abstract-level until the article body is read",
     "World Bank Urban, Resilience and Land Korea Team (2026 'Unlocking Value' report) — Tier 1 institution; its descriptions of Korean law and administration A/B-claim, its 'lessons' C-claim",
     "Anders Jensen, Nikhil Kumar & Konstantin Poensgen — academic economists; NBER WP 36002 Ghana tax-education RCT, B-claim as unrefereed working paper",
-    "World Bank Sindh PREP Program Paper (Report 198080, 2026) — A-claim for the operation's own terms; B-claim for the Karachi revenue figures it compiles; C-claim for projections"
+    "World Bank Sindh PREP Program Paper (Report 198080, 2026) — A-claim for the operation's own terms; B-claim for the Karachi revenue figures it compiles; C-claim for projections",
+    "John Emmeus Davis (International Center for Community Land Trusts; editor of The Community Land Trust Reader) — leading CLT historian; his narrative histories B-claim, his edited scholarship A-claim"
   ],
   "tier3": [
     "Mark Carney (as politician)",

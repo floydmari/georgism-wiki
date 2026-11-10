@@ -6163,3 +6163,22 @@ discrepancy between the 2026 diagnostic and the programme paper.
 
 Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 506 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-10 — Davis's Georgist lineage of the community land trust; two local explainers rejected
+
+Three queue items. John Emmeus Davis's "Seeds from Henry George", the International Center for
+Community Land Trusts' own account of the model's roots, was read in full and the Origins
+paragraph of the community-land-trust page now carries his descriptions of the single-tax
+colonies, Arden's 99-year leases and the Lincoln Institute's support of the CLT movement in 2005
+and 2006, with the observation that what the colonies handed on was the ground lease rather than
+the tax. His 1946 date for the Lincoln Institute is not carried, and a VERIFY lead asks for the
+wiki's own Lincoln Institute page, which repeats it, to be checked against the Institute's
+history. The Buffalo law-student brief and the Saint Paul Midway video were both rejected as
+sources: the first cites this wiki and a blog for its Pennsylvania figures and contradicts itself
+on Harrisburg, the second rests on unsourced "preliminary data" and a parcel figure that could
+not be anchored to the county record. Each leaves a lead for a state page that does not yet
+exist, since neither New York State nor Minnesota has one. The scanner's framing of the Buffalo
+figures as ones "the wiki already covers with caveats" was wrong for three of the five.
+
+Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 509 consumed. Merged to
+main and Ghost-synced.

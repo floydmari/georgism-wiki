@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, community-land-trust, clt, land-commons, housing, land-value-capture]
 stub: false
 excerpt: "A nonprofit that holds land in common and leases it to residents, capturing rising land value for the community — a Georgist principle applied at neighbourhood scale, though by removing land from the market rather than taxing its rent."
-last_reviewed: 2026-07-07
+last_reviewed: 2026-11-10
 ---
 
 ## Definition
@@ -50,7 +50,15 @@ America*, which set out the ground-lease, resale-restriction, and tripartite-boa
 that define the "classic" CLT.[1][2] The deeper lineage reaches back through [Ebenezer
 Howard's](/wiki/ebenezer-howard/) garden cities and the [single-tax
 colonies](/wiki/single-tax-colonies/) like [Fairhope](/wiki/fairhope-single-tax-corporation/),
-which pioneered community land ownership funded by ground rents.
+which pioneered community land ownership funded by ground rents. **John Emmeus Davis**, the
+movement's principal historian, makes the Georgist descent explicit in the International Center
+for Community Land Trusts' own account of the model's roots: the colonies "combined community
+ownership of the land and individual ownership of the structural improvements"; at Arden,
+founded in 1900, residents "were granted 99-year ground leases" and "could sell their houses but
+not the land", the lease passing to the buyer; and the Lincoln Institute of Land Policy, which
+grew from John C. Lincoln's interest in George, rescued the National CLT Conference in 2005 and
+funded the National CLT Academy from 2006. The device the colonies handed on was the ground
+lease rather than the tax.[7]
 
 ## Relation to Georgism
 
@@ -162,3 +170,4 @@ available, so its specific findings remain unverified here.[5]
    buildings, founded 1972), and its explicit Henry George framing per the title (§"ACME"
    above) (D-claim; title/metadata only, no verified findings).
 6. Ada Pistola, Elena Todella & Isabella M. Lami (2026), "Evaluating the Dissociation of Land Value from Homeownership in a Community Land Trust," *Sustainability* 18(19): 9738. [doi.org](https://doi.org/10.3390/su18199738) · [archived](https://archive.progress.org/files/evaluating-the-dissociation-of-land-value-from-homeownership-in-a-community-land-trust.pdf) (CC BY 4.0) — used for the Giulio34 acquisition date and cost, the solidarity-loan financing, the surface-right device and its draft term, the draft resale rules, the roughly 25% initial discount and the authors' caveats on its attribution (B-claim for the case facts, C-claim for the affordability effect: an exploratory single-case study with the discount estimated by the promoting foundation itself, in a high-volume open-access journal; the price table and one figure are images not consulted).
+7. John Emmeus Davis, "Seeds from Henry George," *The Gardener's Guide*, Part 2, Chapter 1, International Center for Community Land Trusts, 2014. [cltweb.org](https://www.cltweb.org/resources/roots-of-the-clt-movement/domestic-pioneers/seeds-from-henry-george/) — used for the quoted descriptions of the single-tax colonies and Arden's leases and for the Lincoln Institute's 2005–06 support of the CLT movement (B-claim; a Tier 1 historian's narrative on an institutional site; Davis's "1946" founding date for the Lincoln Institute is not carried, as the Institute's own history dates the Lincoln Foundation to 1947 and the Institute to 1974).
