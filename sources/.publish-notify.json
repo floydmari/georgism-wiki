@@ -2938,6 +2938,23 @@
       "action": "updated",
       "published_at": "2026-11-09T19:20:09.000Z",
       "notified": false
+    },
+    {
+      "slug": "community-land-trust",
+      "title": "Community Land Trust",
+      "url": "https://www.progress.org/wiki/community-land-trust/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "community-land-trust",
+        "clt",
+        "land-commons",
+        "housing",
+        "land-value-capture"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-10T19:20:13.000Z",
+      "notified": false
     }
   ]
 }
