@@ -6182,3 +6182,22 @@ figures as ones "the wiki already covers with caveats" was wrong for three of th
 
 Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 509 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-11 — rollback rates defined on the Prop 13 page; a Springer paper deferred; a stray verification note removed
+
+Two queue items. Beyer's open-access article on digital monopolies could not be read: Springer
+answered both ordinary requests with a client-challenge page, so the item is source-blocked and
+only its abstract is on record, which names no rent vocabulary and three firms rather than the
+scanner's four. The property-tax-rate explainer turned out to be an anonymous single-person
+site two months old; its arithmetic was recomputed and is right, but nothing is cited to it.
+Instead the Proposition 13 page's Lincoln paragraph, which already named truth-in-taxation laws
+as the explainer's preferred remedy, now says what such laws do, with the no-new-revenue rate
+quoted from the Texas Comptroller and the rollback rate from Georgia's regulation. Separately,
+a bracketed "verification note" dated July was found sitting in the transitional-gains-trap
+page's Sources section and the page's body described England as applying Tullock's logic when
+his article uses Olson's and never cites Tullock; the note is folded into the source annotation
+impersonally and the body now presents the Tullock reading as an interpretation. A grep found
+no other such markers in reader-facing pages.
+
+Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 511 consumed. Merged to
+main and Ghost-synced.
