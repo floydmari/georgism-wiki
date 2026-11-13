@@ -1708,8 +1708,8 @@
         "split-rate",
         "modern"
       ],
-      "action": "published",
-      "published_at": "2026-10-23T11:35:22.000Z",
+      "action": "updated",
+      "published_at": "2026-11-13T19:20:15.000Z",
       "notified": false
     },
     {
@@ -2971,6 +2971,24 @@
       ],
       "action": "updated",
       "published_at": "2026-11-11T19:16:16.000Z",
+      "notified": false
+    },
+    {
+      "slug": "hoyt-chicago-land-values",
+      "title": "One Hundred Years of Land Values in Chicago",
+      "url": "https://www.progress.org/wiki/hoyt-chicago-land-values/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-cycle",
+        "real-estate-cycle",
+        "chicago",
+        "hoyt",
+        "speculation",
+        "historical"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-13T19:20:13.000Z",
       "notified": false
     }
   ]
