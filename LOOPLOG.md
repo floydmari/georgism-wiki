@@ -6201,3 +6201,16 @@ no other such markers in reader-facing pages.
 
 Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 511 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-13 — AFR op-ed rejected behind the paywall; a self-reference trimmed on the Australia page
+
+One queue item, a Prosper Australia economist's op-ed in the Australian Financial Review. The
+page serves an ordinary reader the headline, standfirst and two opening paragraphs and nothing
+else, and Prosper has not republished it, so under the open-sources rule it was not read and is
+rejected with a lead to revisit if an open copy appears. The scanner's "verified Georgist"
+label rested on the word "land tax" in a metadata headline. In passing, the Australia page's
+Significance paragraph lost a parenthetical clause that said rates and thresholds "are not
+detailed here", the kind of self-reference §4b excludes.
+
+Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 512 consumed. Merged to
+main and Ghost-synced.
