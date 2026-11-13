@@ -4,7 +4,7 @@ category: events
 tags: [events, new-zealand, wellington, local-government, rating-valuation, land-value-rating, split-rate, modern]
 year: 2026
 stub: false
-last_reviewed: 2026-10-23
+last_reviewed: 2026-11-13
 excerpt: "Wellington City Council is consulting from 19 October to 15 November 2026 on moving its general rates from capital value to land value, alongside a cut in the commercial differential and a wider vacant-land differential. No decision has been made."
 ---
 
@@ -49,7 +49,7 @@ The direction is as the Council describes: dense buildings on valuable land pay 
 
 The consultation document reports that **65 per cent** of New Zealand councils (51 of 78) rate on capital value in 2026, against 58 per cent ten years earlier and 50 per cent twenty years earlier; Porirua, Hutt City and Upper Hutt use capital value.[1][4] A briefing slide lists Hutt City, Palmerston North and Thames-Coromandel among recent moves towards capital value.[4]
 
-That fits the longer record on the [New Zealand page](/wiki/new-zealand/#decline-to-capital-value-rating). Its figures (29 per cent of councils on land value in 2019) come from a different analysis and are not combined with the Council's series here. The best-known test of the base, Auckland's 2010 amalgamation, found little effect on new building when councils moved the other way; see [Gemmell, Grimes and Skidmore](/wiki/gemmell-grimes-skidmore-nz/).
+That fits the longer record on the [New Zealand page](/wiki/new-zealand/#decline-to-capital-value-rating). Its figures (29 per cent of councils on land value in 2019) come from a different analysis and are not combined with the Council's series here. The best-known test of the base, Auckland's 2010 amalgamation, found little effect on new building when councils moved the other way; see [Gemmell, Grimes and Skidmore](/wiki/gemmell-grimes-skidmore-nz/). On who would pay, the nearest New Zealand evidence is a 2009 Motu study by **Andrew Coleman** and **Arthur Grimes**, which modelled a national land tax rather than council rating and found that because land values rise more steeply with household income than capital values do, "a land tax is more progressive (for households) than is a property tax", with the caveat that the overall distributional result depends on which taxes are reduced in exchange.[12]
 
 ## Timeline
 
@@ -97,3 +97,4 @@ This is a change of **rating base for the general rate**, not a new tax. Total r
 9. Wellington City Council, news release, "Wellington's rating policy – have your say", 1 October 2026. [wellington.govt.nz](https://wellington.govt.nz/) — used for the December vote on whether all, some or none of the five proposals proceed, and the April 2027 Long-term Plan consultation (A-claim).
 10. Wellington City Council, Te Taurapa | Council Planning and Finance Committee, agenda, 1 October 2026, item 2.2 report. — used for the statement that key modelling will be subject to peer review (A-claim).
 11. Wellington City Council, Te Taurapa | Council Planning and Finance Committee, agenda, 25 June 2026, Revenue and Financing Policy extract. — used for the statement that general rates are set under section 13 of the Local Government (Rating) Act 2002; the statutory text itself is not cited (A-claim as to the Council's own statement).
+12. Andrew Coleman & Arthur Grimes (2009), *Fiscal, Distributional and Efficiency Impacts of Land and Property Taxes*, Motu Working Paper 09-14, Motu Economic and Public Policy Research, September 2009. [motu.nz](https://www.motu.nz/) — used for the household-progressivity finding (printed p. 36) and the life-cycle and offsetting-tax caveat (p. 45) (B-claim; unrefereed working paper by Tier 1 economists, partly Treasury-funded; its scenario is a national land tax, not a change of rating base).

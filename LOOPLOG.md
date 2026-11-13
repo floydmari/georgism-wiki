@@ -6214,3 +6214,23 @@ detailed here", the kind of self-reference §4b excludes.
 
 Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 512 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-13 (b) — McMillen's Chicago surfaces on the Hoyt page; Coleman and Grimes on the Wellington page; a preprint deferred
+
+Three queue items from the afternoon scan. McMillen's 1996 Journal of Urban Economics paper is
+paywalled, so the Hoyt page gains one bullet from its abstract: locally weighted regressions on
+Chicago land values from 1836 to 1990, a monocentric fit that survives to 1928 only in highly
+nonlinear form, and a polycentric city by 1960 with O'Hare as a second centre. The scanner had
+read into the abstract a cycle study that is not there. The Post's op-ed by Lees and Donovan on
+Wellington's rating review could not be read at all, the site serving nothing but a script
+shell, so nothing is attributed to it; the open primary it reportedly leans on, Coleman and
+Grimes's 2009 Motu working paper, was read in full and the Wellington page's national-context
+section now carries its finding that a land tax is more progressive for households than a
+property tax, with its national-land-tax scope and its offsetting-tax caveat stated. The
+Bage–Wilson preprint on wages and rents was read from the authors' own repository and deferred:
+unknown authors, no review, an AI-writing disclosure, and a closing implication the authors
+themselves call a conjecture; its one checkable number reproduces from BLS series and is noted
+in a lead. Four leads were added, including the Wellington council's December decision.
+
+Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 515 consumed. Merged to
+main and Ghost-synced.

@@ -7,7 +7,7 @@ category: research
 excerpt: Homer Hoyt's 1933 University of Chicago dissertation traces Chicago land
   values from 1830 to 1933, documenting a recurring boom-bust rhythm in land prices
   — the founding empirical study behind the Georgist 18-year land cycle.
-last_reviewed: 2026-07-18
+last_reviewed: 2026-11-13
 source_url: https://archive.org/details/onehundredyearso00hoytrich
 stub: false
 subcategory: wiki-research-housing
@@ -242,6 +242,7 @@ outcome claim.**
   cross-city or cross-country panel that could isolate land speculation from other
   drivers of Chicago's growth (railroads, immigration, the Fire, two world fairs, national
   business cycles).
+- **The quantitative sequel.** Daniel McMillen later fitted locally weighted regressions to Chicago land values from 1836 to 1990, extending Hoyt's series by six decades. The monocentric model fits the 1836–1928 surfaces only with a highly nonlinear functional form, and by 1960–1990 Chicago is no longer monocentric: O'Hare Airport is a separate employment centre and the south and west sides carry lower land values than the model predicts. The study is about the city's spatial structure, not its cycles, and does not revisit Hoyt's cycle dating.[11]
 - **No LVT variation to test.** Chicago in this period did not have a land value tax
   regime distinct from ordinary property taxation, so the book cannot and does not
   speak to how a taxed-land counterfactual would have altered the cycle's amplitude or
@@ -415,3 +416,4 @@ period structure and boundary dates (Part I, pp. 3–232); the 103-figure/103-ta
 definite period of years between one boom and the next" (p. 417) — so this page and the
 [18-Year Land Cycle](/wiki/18-year-land-cycle/) framing must treat the "~18-year" periodicity
 as a later interpretive gloss, not Hoyt's own claim.*
+11. Daniel P. McMillen (1996), "One Hundred Fifty Years of Land Values in Chicago: A Nonparametric Approach," *Journal of Urban Economics* 40(1): 100–124, [doi:10.1006/juec.1996.0025](https://doi.org/10.1006/juec.1996.0025) — used for the data span, the method and the monocentric-fit findings as stated in the published abstract (B-claim; peer-reviewed, Tier 1 scholar; the article body is paywalled and not consulted).

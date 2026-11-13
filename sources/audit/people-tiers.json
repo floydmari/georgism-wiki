@@ -87,7 +87,8 @@
     "Liberal Democrat Voice — party blog; never support",
     "Partnership for the Public Good / Buffalo Commons student briefs — local advocacy nonprofit hosting unattributed student policy briefs; origin only, never support",
     "Streets.mn (Twin Cities volunteer urbanist blog) — advocacy explainers with unsourced local figures; origin only",
-    "Economy in Context (economyincontext.org) — anonymous single-person explainer site launched October 2026; arithmetic checked and correct, but origin only; cite the statutes it summarises"
+    "Economy in Context (economyincontext.org) — anonymous single-person explainer site launched October 2026; arithmetic checked and correct, but origin only; cite the statutes it summarises",
+    "Kirdan Lees (Lees Economic Consulting; research fellow, Canterbury) — consultant economist; op-eds origin only"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -191,7 +192,10 @@
     "World Bank Urban, Resilience and Land Korea Team (2026 'Unlocking Value' report) — Tier 1 institution; its descriptions of Korean law and administration A/B-claim, its 'lessons' C-claim",
     "Anders Jensen, Nikhil Kumar & Konstantin Poensgen — academic economists; NBER WP 36002 Ghana tax-education RCT, B-claim as unrefereed working paper",
     "World Bank Sindh PREP Program Paper (Report 198080, 2026) — A-claim for the operation's own terms; B-claim for the Karachi revenue figures it compiles; C-claim for projections",
-    "John Emmeus Davis (International Center for Community Land Trusts; editor of The Community Land Trust Reader) — leading CLT historian; his narrative histories B-claim, his edited scholarship A-claim"
+    "John Emmeus Davis (International Center for Community Land Trusts; editor of The Community Land Trust Reader) — leading CLT historian; his narrative histories B-claim, his edited scholarship A-claim",
+    "Daniel P. McMillen (urban economist, Illinois) — peer-reviewed JUE 1996 Chicago land-value study; abstract-level B-claim until the body is read",
+    "Andrew Coleman & Arthur Grimes (Motu) — Motu WP 09-14 on land and property tax incidence in New Zealand; B-claim as working paper",
+    "Stuart Donovan (Motu Research) — Tier 1 for his research; his op-eds are origin only"
   ],
   "tier3": [
     "Mark Carney (as politician)",
@@ -209,6 +213,7 @@
     "Christian Rafael de Souza Silva / MarginalThinking (2026 technofeudalism report) — self-published secondary synthesis; rejected, not cited",
     "Elisha, Arbel, Aiche & Portnov (2026 Urban Science, Haifa arnona) — peer-reviewed but internally inconsistent and not land-value evidence; rejected, not cited",
     "Georgist Party of Britain (georgistparty.uk) — advocacy site with placeholder officers and address; no Electoral Commission registration under that name found 2026-11-02; not cited",
-    "Jürgen Beyer (Digital Society 2026, 'The Rise of Digital Monopolies') — affiliation unconfirmed by Crossref; deferred unread behind Springer's client challenge; no rent content verifiable"
+    "Jürgen Beyer (Digital Society 2026, 'The Rise of Digital Monopolies') — affiliation unconfirmed by Crossref; deferred unread behind Springer's client challenge; no rent content verifiable",
+    "Johan Bage & Stella Wilson (SSRN 7226858, 'Pinning the Wage to Scarcity and Technology') — unknown authors, unrefereed preprint with AI-writing disclosure; not cited"
   ]
 }
