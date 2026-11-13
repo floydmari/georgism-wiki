@@ -8,7 +8,8 @@
       "context": "Cathal Leslie (Prosper Australia) op-ed in the AFR proposing a land tax alongside CGT/death-tax reform: revive Keating's 1980s plan to stop assets passing to children tax-free. Real page title differs from URL slug. URL verified live (HTTP 200, curl) 2026-11-13 \u2014 do not 'repair' it. datePublished 2026-11-09, byline Cathal Leslie. Surfaced via the Nov 5-12 #influencer-influencing roundup ('AFR land levy op-ed').",
       "author": "UNYCKRMC6",
       "queued_at": "2026-11-13T11:01:09.826797+00:00",
-      "reported": false
+      "reported": true,
+      "reported_at": "2026-11-13T11:05:07.247320+00:00"
     }
   ],
   "consumed": [
@@ -6386,7 +6387,7 @@
       "notes": "Read in full with its About and funding pages: an anonymous, self-funded single-person site launched October 2026 (Tier 2 at best), not the 'professional project' the scanner described. Its worked example and rollback arithmetic were recomputed and are correct, but nothing is carried from it. In its place one sentence on events/proposition-13.md (source 27) defines the no-new-revenue and rollback rates from the Texas Comptroller's truth-in-taxation guidance and Georgia Rule 560-11-2-.58, the primaries the explainer summarises. Florida, Ohio and Cook County claims unchecked."
     }
   ],
-  "last_updated": "2026-11-13T11:04:45.904852+00:00",
+  "last_updated": "2026-11-13T11:05:07.247335+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
   "total": 1
 }
