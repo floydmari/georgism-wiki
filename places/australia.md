@@ -51,7 +51,7 @@ The exercise has become a live argument on the Australian right as well as the G
 
 ## Significance
 
-Australia's century-plus experience — a working federal land tax, its political abolition, and continuing state-level land taxes and rating on unimproved value — provides one of the most-cited real-world demonstrations of the administrability of land value taxation at scale, and its data underpins later Georgist "taxable capacity" and revenue-adequacy arguments.[4][5] (Present-day land tax rates and thresholds vary by state and change frequently, and are not detailed here.)
+Australia's century-plus experience — a working federal land tax, its political abolition, and continuing state-level land taxes and rating on unimproved value — provides one of the most-cited real-world demonstrations of the administrability of land value taxation at scale, and its data underpins later Georgist "taxable capacity" and revenue-adequacy arguments.[4][5] (Present-day land tax rates and thresholds vary by state and change frequently.)
 
 ## See Also
 
