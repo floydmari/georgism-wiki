@@ -6234,3 +6234,24 @@ in a lead. Four leads were added, including the Wellington council's December de
 
 Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 515 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-14 — New Zealand's election result on the TOP paragraph; Jarsulic's rent tax on the data-rents menu
+
+Two queue items. The Progress and Poverty Institute's account of New Zealand's 7 November
+election was read in full and treated as Tier 2 commentary; what it prompted was an overdue
+update of the New Zealand page, whose paragraph on The Opportunity Party still had the party
+campaigning. The paragraph is now in the past tense and carries the preliminary result from
+RNZ's relay of the Electoral Commission's count, since the Commission's own site refuses
+ordinary requests: 144,298 party votes, 6.0 per cent, seven list seats in a 131-seat Parliament,
+and a governing bloc of 67 that does not need them. A VERIFY lead asks for the official figures
+after 27 November. The institute's history claims are left as a lead because they trace to a
+blocked encyclopaedia page and an advocate site, and its "29 per cent today" turned out to be the
+wiki's own 2019 figure. A self-reference in the same paragraph was removed. Jarsulic's PERI
+working paper was read in full and adds one sentence to the data-rents page's design menu: a
+minimum-Q estimate that about $137 billion of the hyperscalers' 2024 profits is rent, the
+$700 billion data-centre capex it finances, and the proposal that a tax on rents join the
+competition-policy agenda, with the paper's lack of any tax design stated. The scanner had
+promised a precise proposal and Flow-of-Funds evidence; neither is in the paper.
+
+Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 517 consumed. Merged to
+main and Ghost-synced.

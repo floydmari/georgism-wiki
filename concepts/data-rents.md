@@ -4,7 +4,7 @@ excerpt: 'The returns a handful of digital firms earn from network-effect moats,
   data, and gatekeeping — the ''land-like positions'' of the digital economy. The
   most contested rent in the file, alongside IP: is big-tech profit unearned rent,
   or the quasi-rent that rewards genuine innovation?'
-last_reviewed: 2026-10-31
+last_reviewed: 2026-11-14
 stub: false
 supports_outcomes: []
 tags:
@@ -115,7 +115,14 @@ instruments are largely **untested**:
 - **Antitrust** aimed at the structural sources of the moat, and the
   **rent-targeting corporate taxes** covered at
   ([ACE](/wiki/allowance-for-corporate-equity/) / [cash-flow tax](/wiki/cash-flow-tax/))
-  for the profit that survives.
+  for the profit that survives. A 2026 working paper by **Marc Jarsulic** of the Political
+  Economy Research Institute joins the two: using each firm's lowest Tobin's Q over the period
+  as the no-rent benchmark, he estimates that the hyperscalers' 2024 after-tax profits of
+  $322 billion included about $137 billion of rent, that those flows are financing capital
+  spending of more than $700 billion in 2026 on the AI data-centre race, and that because
+  rent-financed incumbents can outspend any entrant, "a tax on rents ought to be added to the
+  competition policy agenda" alongside merger review and conduct cases. The paper proposes no
+  base or rate.[6]
 
 These instruments are compared and graded head-to-head — on whether each actually reaches
 platform rent and whether the burden stays on the platform — at
@@ -177,3 +184,4 @@ land's defining fixed-supply scarcity.
    verified, no verbatim quotation offered).
 4. Tim Wu (2025), *The Age of Extraction: How Tech Platforms Conquered the Economy and Threaten Our Future Prosperity*, Knopf. [Publisher page](https://www.penguinrandomhouse.com/books/691177/the-age-of-extraction-by-tim-wu/); Wu's definition of extraction as monopoly rent is from the *Lawfare Daily* interview of 12 November 2025, [transcript](https://www.lawfaremedia.org/article/lawfare-daily--tim-wu-on--the-age-of-extraction) — used for the enablement-to-extraction framing and the placement-fee example (D-claim for the thesis; Tier 1 scholar writing as an advocate; book text not consulted).
 5. Gary Biglaiser, Jacques Crémer, Alexandre de Cornière & Andrea Mantovani (2026), "Dynamic Competition in the Cloud: The Regulation of Egress Fees," Toulouse School of Economics Working Paper 26-1756, June 2026. [tse-fr.eu](https://www.tse-fr.eu/) — used for the model's findings, the fee and market-share figures it reports (citing Ofcom 2023 and the UK Competition and Markets Authority 2025) and the reading of Data Act Articles 23 and 29 (B-claim; unrefereed academic working paper; Tier 1 academics; the paper discloses Microsoft's support of the institute's partnership programme).
+6. Marc Jarsulic (2026), "Market Power and the Race for AI Infrastructure Dominance," Political Economy Research Institute Working Paper 642, University of Massachusetts Amherst, November 2026. [peri.umass.edu](https://peri.umass.edu/publication/market-power-and-the-race-for-ai-infrastructure-dominance/) — used for the minimum-Q rent estimate (p. 4), the 2026 capital-spending figure (p. 5, citing Bloomberg) and the quoted policy conclusion (p. 7) (B-claim; unrefereed working paper by a Tier 1 economist; the Q-based rent share rests on Compustat data and the author's benchmark choice, and the paper's figure shows some firms' Q well below the text's "well above 2.8").
