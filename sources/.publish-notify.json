@@ -1641,7 +1641,7 @@
         "lock-in"
       ],
       "action": "updated",
-      "published_at": "2026-11-11T19:16:14.000Z",
+      "published_at": "2026-11-15T19:19:13.000Z",
       "notified": false
     },
     {
@@ -2989,6 +2989,75 @@
       ],
       "action": "updated",
       "published_at": "2026-11-13T19:20:13.000Z",
+      "notified": false
+    },
+    {
+      "slug": "property-tax-circuit-breaker",
+      "title": "Property Tax Circuit Breaker",
+      "url": "https://www.progress.org/wiki/property-tax-circuit-breaker/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "circuit-breaker",
+        "property-tax",
+        "relief",
+        "asset-rich-cash-poor",
+        "homestead"
+      ],
+      "action": "published",
+      "published_at": "2026-11-15T19:19:09.000Z",
+      "notified": false
+    },
+    {
+      "slug": "lvt-hurts-asset-rich-cash-poor",
+      "title": "Objection: LVT hurts the 'asset-rich, cash-poor'",
+      "url": "https://www.progress.org/wiki/lvt-hurts-asset-rich-cash-poor/",
+      "category": "objections",
+      "tags": [
+        "objections",
+        "fairness",
+        "retirees",
+        "transition",
+        "critique"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-15T19:19:11.000Z",
+      "notified": false
+    },
+    {
+      "slug": "kentucky",
+      "title": "Kentucky",
+      "url": "https://www.progress.org/wiki/kentucky/",
+      "category": "places",
+      "tags": [
+        "places",
+        "kentucky",
+        "property-tax",
+        "uniformity-clause",
+        "split-rate-taxation",
+        "assessment",
+        "united-states"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-15T19:19:15.000Z",
+      "notified": false
+    },
+    {
+      "slug": "cwc-distributional-impacts-lvt",
+      "title": "Assessing the Distributional Impacts of a Land Value Tax",
+      "url": "https://www.progress.org/wiki/cwc-distributional-impacts-lvt/",
+      "category": "research",
+      "tags": [
+        "research",
+        "canada",
+        "lvt",
+        "tax-incidence",
+        "distributional-impacts",
+        "income-tax-reform",
+        "think-tank"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-15T19:19:17.000Z",
       "notified": false
     }
   ]
