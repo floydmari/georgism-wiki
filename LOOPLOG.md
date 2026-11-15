@@ -6255,3 +6255,25 @@ promised a precise proposal and Flow-of-Funds evidence; neither is in the paper.
 
 Lint 0 errors; inventory 1041 pages, 0 orphans. Ledger: 0 pending, 517 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-15 — a circuit-breaker concept page, anchored on Lincoln rather than ITEP
+
+One queue item, ITEP's report calling circuit breakers the best tools for property-tax
+affordability. The report was read in full and treated as a Tier 2 think-tank's view, which is
+what it is; its sub-tallies of senior-only and renter-inclusive programmes disagree between its
+key findings, its body and its appendix, so only its headline count is carried, and only as its
+own. What the item exposed was that the wiki used the term "circuit breaker" on four pages
+without defining it, and that the asset-rich objection called the device a "cap" and rested on a
+generic unsourced entry. A Sonnet writer produced a short concept page from the Tier 1 sources
+the ITEP report leads back to: the Lincoln Institute's 2009 policy report and 2010 Land Lines
+article, its 2018 state table and Minnesota Revenue's programme pages. The page gives the
+definition and the 1960s origin of the term, the threshold and sliding-scale designs, the state
+counts over time, renter inclusion through a deemed share of rent, the Minnesota example, the
+Lincoln verdict on assessment caps quoted through Haveman and Sexton, and the take-up and ceiling
+weaknesses; it says plainly that applying all this to a land value tax is an extension by
+analogy. One phrase was reworded in review. The objection page's bullet now describes a refund
+rather than a cap and cites Lincoln; the Proposition 13, Kentucky and CWC pages link to the new
+page, Kentucky with the fact that it has no programme of its own.
+
+Lint 0 errors; inventory 1042 pages, 0 orphans. Ledger: 0 pending, 518 consumed. Merged to
+main and Ghost-synced.

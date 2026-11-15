@@ -5,7 +5,7 @@ tags: [objections, fairness, retirees, transition, critique]
 stub: false
 status: "Addressed as a cash-flow-timing problem — the short-run burden on land-rich, income-poor retirees is genuinely large (CWC models ~43% income declines before offsets), but deferral and phase-in resolve it without exempting land value"
 excerpt: "The 'little old lady in a valuable house' objection — that LVT could force out land-rich but cash-poor owners — and the well-established mechanisms that resolve it."
-last_reviewed: 2026-07-13
+last_reviewed: 2026-11-15
 ---
 
 ## The Objection
@@ -17,7 +17,7 @@ A widow living in a long-held home on now-valuable land might face a land tax la
 This is a real concern, but a **well-understood and solvable** one, addressed by standard fiscal mechanisms:
 
 1. **Tax deferral.** The tax can be **accrued against the property** (as a lien) and collected when the home is sold or inherited — so no one is forced out for lack of current income. Many jurisdictions already offer this for property taxes.
-2. **Circuit breakers.** Caps tying the tax to a share of income protect low-income owners.
+2. **[Circuit breakers](/wiki/property-tax-circuit-breaker/).** A credit or refund of the part of the tax that exceeds a set share of household income, so that the land is still taxed in full but no household pays more than it can bear; thirty-odd US states and the District of Columbia run such programmes for the ordinary property tax, most of them small and many claimed by only a fraction of eligible households.[2]
 3. **Phase-in.** Introducing LVT gradually lets prices and owners adjust, avoiding sudden shocks.
 4. **It targets land, not people.** The case highlights that the owner is sitting on a **valuable, underused location** the community created — exactly the situation LVT is meant to address. Deferral resolves the hardship *without* exempting the land value from eventual capture.
 
@@ -38,4 +38,4 @@ The asset-rich/cash-poor case is a **design consideration** — with a genuinely
 ## Sources
 
 1. Lars Doucet, *Does Georgism Work?* series — discussion of transition and fairness mechanisms. [wiki summary](/wiki/doucet-does-georgism-work/) — used for the fairness framing of the objection and the deferral/exemption responses to it.
-2. Standard property-tax deferral and circuit-breaker programs (e.g., US state "senior tax deferral" schemes) — used as the existing-policy precedent showing the cash-flow problem is routinely solved with deferral until sale or death.
+2. John H. Bowman, Daphne A. Kenyon, Adam Langley & Bethany P. Paquin (2009), *Property Tax Circuit Breakers: Fair and Cost-Effective Relief for Taxpayers*, Lincoln Institute of Land Policy Policy Focus Report, and the Institute's "Circuit Breakers, 2018" state table — used for the definition, the existing-policy precedent (33 states and DC in 2008; 30 and DC in 2018) and the take-up and ceiling weaknesses (B-claim; Tier 1 institution; the wiki's [circuit-breaker page](/wiki/property-tax-circuit-breaker/) carries the detail). US state senior deferral schemes are the precedent for the deferral point.

@@ -7,7 +7,7 @@ category: research
 excerpt: 'A Common Wealth Canada modelling exercise on a national land value tax coupled
   with income-tax reform: LVT alone looks regressive by income decile, but a large
   flat refundable credit reverses this for most households.'
-last_reviewed: 2026-07-09
+last_reviewed: 2026-11-15
 source_url: https://commonwealth.ca/research/distributional-impacts
 stub: false
 subcategory: wiki-research-housing
@@ -72,6 +72,7 @@ This note **complicates, rather than simply confirms**, the wiki's existing prog
 
 ## See Also
 
+- [Property tax circuit breaker](/wiki/property-tax-circuit-breaker/) — the income-tested refund design that the study's "large flat credit" result points towards
 - [CWC price-reaction model](/wiki/cwc-lvt-price-reaction-model/) — the companion modeling study
 
 - [Land value tax can be progressive](/wiki/land-value-tax-can-be-progressive/)
