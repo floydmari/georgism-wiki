@@ -17,7 +17,7 @@ A widow living in a long-held home on now-valuable land might face a land tax la
 This is a real concern, but a **well-understood and solvable** one, addressed by standard fiscal mechanisms:
 
 1. **Tax deferral.** The tax can be **accrued against the property** (as a lien) and collected when the home is sold or inherited — so no one is forced out for lack of current income. Many jurisdictions already offer this for property taxes.
-2. **[Circuit breakers](/wiki/property-tax-circuit-breaker/).** A credit or refund of the part of the tax that exceeds a set share of household income, so that the land is still taxed in full but no household pays more than it can bear; thirty-odd US states and the District of Columbia run such programmes for the ordinary property tax, most of them small and many claimed by only a fraction of eligible households.[2]
+2. **[Circuit breakers](/wiki/property-tax-circuit-breaker/).** A credit or refund of the part of the tax that exceeds a set share of household income, so that the land is still taxed in full while the household's bill is limited in relation to its income; thirty-odd US states and the District of Columbia run such programmes for the ordinary property tax, though many give little help because of low income ceilings or benefit caps, and take-up tends to be low.[2]
 3. **Phase-in.** Introducing LVT gradually lets prices and owners adjust, avoiding sudden shocks.
 4. **It targets land, not people.** The case highlights that the owner is sitting on a **valuable, underused location** the community created — exactly the situation LVT is meant to address. Deferral resolves the hardship *without* exempting the land value from eventual capture.
 

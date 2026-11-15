@@ -30,7 +30,7 @@ heading is hand-curated and is never rewritten. Rows here are markers no human
 has routed yet; route one by moving it into a curated bucket above.*
 
 <!-- AUTOGEN:START -->
-*Regenerated 2026-10-30: 0 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
+*Regenerated 2026-11-15: 0 unrouted field item(s), cap 60. 5 page(s) already routed by hand above.*
 
 *Nothing unrouted — every live marker is accounted for above.*
 <!-- AUTOGEN:END -->
