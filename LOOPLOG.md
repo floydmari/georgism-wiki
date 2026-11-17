@@ -6277,3 +6277,20 @@ page, Kentucky with the fact that it has no programme of its own.
 
 Lint 0 errors; inventory 1042 pages, 0 orphans. Ledger: 0 pending, 518 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-17 — New Jersey's transit value-capture study bill on the enablement-wave page
+
+One queue item, a Hudson County News report on a New Jersey Assembly bill. The article was read,
+but the page was written from the bill itself, A5386 as introduced on 10 September, which the
+Legislature's document server serves openly. It is a study bill: the Economic Development
+Authority would examine transit financing mechanisms with the Division of Taxation, NJ Transit
+and PATH, hold a hearing and report, and Community Affairs would then issue guidance or model
+ordinances; value capture is defined to include tax increment financing, special assessments,
+joint development and impact fees, and no land value tax is named. The enablement-wave page
+carries it in the section on earlier-stage cases beside Maryland and Washington, with the caveat
+that it is introduced, not enacted, and that its committee status could not be read from the
+script-rendered status pages. The scanner had the introduction date, the co-sponsor's district
+and the sponsor's title wrong, and attributed the station examples to the bill.
+
+Lint 0 errors; inventory 1042 pages, 0 orphans. Ledger: 0 pending, 519 consumed. Merged to
+main and Ghost-synced.

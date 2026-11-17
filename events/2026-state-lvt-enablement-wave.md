@@ -5,7 +5,7 @@ tags: [events, land-value-tax, split-rate-taxation, state-legislation, transit-v
 year: 2026
 stub: false
 excerpt: "In spring 2026, New York, Virginia, and Kentucky each passed or renewed state legislation letting specific local governments move toward land value taxation — a wave of enablement, not an enacted land value tax anywhere."
-last_reviewed: 2026-08-10
+last_reviewed: 2026-11-17
 ---
 
 ## Overview
@@ -40,6 +40,8 @@ Maryland's bill shows what stalling looked like. House Bill 78 of 2026, with Sen
 
 Washington State's parallel 2026 push — a legal-feasibility analysis, a Spokane council-commissioned parcel study, and Seattle's mayor stating an intent to pursue a land value tax — did not produce even enabling legislation in 2026; see [Washington State](/wiki/washington-state/) for that earlier-stage case.
 
+New Jersey entered at the study stage. Assembly Bill A5386, introduced on 10 September 2026 by Assemblywoman Katie Brennan of Hudson County with Clinton Calabrese of Bergen and Passaic as co-sponsor, would direct the state Economic Development Authority, with the Division of Taxation and the transit operators NJ Transit and the Port Authority Trans-Hudson Corporation, to study financing mechanisms for public transit, hold at least one public hearing and report to the Governor and Legislature, after which the Department of Community Affairs would publish guidance or model ordinances for municipalities. The bill defines value capture as strategies that recover part of the value created by transit-related development and says it "may include, but is not limited to, tax increment financing, special assessments, joint development by public and private entities, and development impact fees"; it names no land value tax, sets no deadline and carries no appropriation, and as introduced it had not been heard in committee.[14]
+
 ## See Also
 
 - [Land Value Tax](/wiki/land-value-tax/) — the underlying policy concept
@@ -65,3 +67,4 @@ Washington State's parallel 2026 push — a legal-feasibility analysis, a Spokan
 11. New York State Senate, "Bill S1131B" status page (accessed 2026-08-10), confirming no action beyond the January 27, 2026 amendment/recommittal to Local Government Committee and print 1131B. [nysenate.gov/legislation/bills/2025/S1131/amendment/B](https://www.nysenate.gov/legislation/bills/2025/S1131/amendment/B) — corroborated by BillTrack50's independent legislative tracker, which marks the bill "Dead" as of 06/05/2026. [billtrack50.com](https://www.billtrack50.com/billdetail/1768593) — used for S1131's final 2026 disposition.
 12. Greg Miller, "Property tax reform takes center stage," *Progress and Poverty* / Center for Land Economics blog (LVT Landscape #10), 26 August 2026. [blog.landeconomics.org](https://blog.landeconomics.org/p/property-tax-reform-takes-center) — read in full, 2026-08-27; used for Louisville Metro Ordinance 8062725, its sponsors, Mayor Greenberg's signature, the land/improvement definitions adopted, and the pending Sheriff's-office software dependency before implementation (B-claim; advocacy-blog reporting).
 13. Maryland General Assembly, HB 78 and SB 457 (2026) legislation pages and the Department of Legislative Services fiscal and policy note on HB 78; Baltimore City Council Resolution 26-0062R. [mgaleg.maryland.gov](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0078?ys=2026RS) · [fiscal note](https://mgaleg.maryland.gov/2026RS/fnotes/bil_0008/hb0078.pdf) · [baltimore.legistar.com](https://baltimore.legistar.com/LegislationDetail.aspx?ID=10605&GUID=7C9D4F11-068A-4601-ADFC-5B74B932B4B5) — used for the Maryland paragraph (A-claims; legislative records).
+14. New Jersey Legislature, Assembly Bill No. 5386, 222nd Legislature, introduced 10 September 2026 (as-introduced text and sponsor statement). [pub.njleg.gov](https://pub.njleg.gov/Bills/2026/A5500/5386_I1.HTM) — used for the sponsors and districts, the study directive, the operators and departments named, the hearing and reporting steps, the value-capture definition and the absence of a deadline or appropriation (A-claim for the text as introduced; the Legislature's status pages are script-rendered, so committee referral and later action are not recorded). The bill was reported by John Heinis, *Hudson County View*, 16 November 2026, when the sponsor released an explainer; the article's station examples are the sponsor's, not the bill's (Tier 2 local journalism; not relied on).
