@@ -1,5 +1,16 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://hudsoncountyview.com/brennan-introduces-bill-to-fund-new-transit-projects-with-land-value-capture/",
+      "title": "Brennan introduces bill to fund new transit projects with land value capture",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: John Heinis, Hudson County View (Jersey City NJ), 16 Nov 2026. NJ Assembly Bill A-5386 (Brennan D-32, co-sponsor Calabrese) directs the state EDA to study land value capture for financing new transit lines; EDA consults NJ Transit, PATH and the Division of Taxation and holds a public hearing; Dept of Community Affairs then publishes guidance and model ordinances for local governments. Current US LVC policy development serving the land-value-capture cluster. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content, #progressdotorg history.",
+      "context": "Brennan introduces bill to fund new transit projects with land value capture \u2014 John Heinis, Hudson County View, 16 Nov 2026. Bill A-5386 requires the NJ Economic Development Authority to study how land value capture would work in New Jersey: consult the Division of Taxation, NJ Transit and PATH, hold a public hearing, then the Department of Community Affairs would publish guidance and model ordinances for local governments. Brennan: land around new stations gains value created by transit; LVC would let properties near new stations fund the projects that made that land valuable (examples: Hudson-Bergen Light Rail expansion, Glassboro-Camden line). Journalism (not a paper) \u2014 current-developments material for the wiki land-value-capture cluster (land value capture page; mohammad-rail-meta-analysis transit capitalization evidence; the Doucet LVC-in-practice syndicated piece). URL verified live 2026-11-17 via full-text reader fetch; plain curl gets a Cloudflare 403 \u2014 the URL is correct, do NOT repair it. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content (hudsoncountyview / A-5386 / Brennan needles: zero), #progressdotorg history (brennan / a-5386 / calabrese: zero).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-17T12:04:20.400062+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6472,7 +6483,7 @@
       "notes": "Read in full (25-page PDF). ITEP is Tier 2 (origin only); the Tier 1 anchors it led to \u2014 Bowman, Kenyon, Langley & Paquin (Lincoln 2009), Kenyon\u2013Langley\u2013Paquin (Land Lines 2010), Lincoln's 2018 state table and Minnesota Revenue's programme pages \u2014 were read and now anchor a new concepts/property-tax-circuit-breaker.md (Sonnet writer, reviewed), with inbound links from objections/lvt-hurts-asset-rich-cash-poor.md (whose circuit-breaker bullet wrongly called the device a 'cap' and rested on a generic unsourced entry, both fixed), events/proposition-13.md, places/kentucky.md (Kentucky has no programme) and research/cwc-distributional-impacts-lvt.md. Scanner premises corrected: the seniors/renters sub-tallies are inconsistent within the report (Key Findings vs body vs Appendix A) and are not carried; ITEP's comparison covers exemptions and assessment caps, not rate caps; no renter share percentage is given (Lincoln: 20% most common); the 'one in three households' and landlord pass-through claims are unsourced; ITEP's 29+DC list follows Lincoln's 2018 lineage rather than being independent; 'circuit breaker' appeared on four wiki pages, not six."
     }
   ],
-  "last_updated": "2026-11-16T12:04:15.580215+00:00",
+  "last_updated": "2026-11-17T12:04:20.400062+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 1
 }
