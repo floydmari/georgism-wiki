@@ -6294,3 +6294,29 @@ and the sponsor's title wrong, and attributed the station examples to the bill.
 
 Lint 0 errors; inventory 1042 pages, 0 orphans. Ledger: 0 pending, 519 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-18 — Oslo land values, cross-country land reform, NYC's four-class levy
+
+Seven scanner items. Two became research pages. Norges Bank staff's residual land-value series
+for Oslo apartments (Staff Memo 7/2026) is the wiki's first European Davis–Heathcote-style series:
+real land-related values about three and a half times their 2003 level, the land share of
+new-build cost from 32 to 53 per cent, land twice as volatile as used-home prices. The page and a
+new Norway section carry the authors' own caveat that the residual is "developable land" with
+developer margin inside it, and do not claim a share of house-price growth, which the memo never
+gives. Madsen, Tong and Ulubasoglu's open-access Journal of Economic Growth panel of 388 land
+reforms (1820–2010) is land-redistribution evidence, not tax evidence, and the page says so in
+its first and fourth sections; its implied 27% income effect was left out because the text's own
+enrollment figures for that step disagree (41% against 29.6%).
+
+The NYC class-rate item was written from the Council's resolutions and Finance Division reports,
+openly served by Legistar, with the scanner's "effective rate" and "commercial" labels corrected.
+Adoption of the amended resolution could not be confirmed, so the page says the resolution
+"would" set the 0.3 percent limit; VERIFY lead after 1 December. The Yokohama automatic-debit
+experiment (subscriber-only) is carried at abstract level on the Ghana tax-education page. The
+Youngman IBFD chapter is metadata-only (deferred; the scanner's Tier 2 label was wrong, she is
+Tier 1). The YIMBY Action podcast and the IHRB commentary were rejected as proponent material
+without data. T1 followed the T0 briefs on all seven; the one override was carrying Nishihata
+at abstract level rather than deferring it outright.
+
+Lint 0 errors; inventory 1044 pages, 0 orphans. Ledger: 0 pending, 526 consumed. Merged to
+main and Ghost-synced.

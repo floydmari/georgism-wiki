@@ -1,0 +1,228 @@
+[
+ {
+  "url": "https://doi.org/10.1007/s10887-026-09274-w",
+  "title": "Pro-poor land reforms, education and fertility: international evidence, 1820-2010",
+  "what_was_fetched": "One request: https://doi.org/10.1007/s10887-026-09274-w -> HTTP 200, redirected to link.springer.com/article/10.1007/s10887-026-09274-w (served with a cookies_not_supported query parameter but full article HTML, no client challenge). Page shows the 'Open access' / 'You have full access to this open access article' banner and a Download PDF link (PDF not downloaded). Full article body text obtained (sections 1-5, footnotes, reference list; tables and figures are images/'Full size table' placeholders, so table coefficients are NOT in the text; the Online Appendix/Data Appendix not fetched). Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/madsen.txt (text) and /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/madsen.html. No second request.",
+  "verdict": "NEW research/madsen-tong-ulubasoglu-pro-poor-land-reform.md",
+  "verdict_reason": "Open-access, peer-reviewed cross-country evidence on land redistribution/tenure reform and human capital; the wiki has no cross-country land-reform evidence page (only Taiwan 1950s and single-country pieces). Relevance is to the land-monopoly / landed-elite political-power argument, NOT to land taxation: the paper studies redistribution and tenure-security reforms, not LVT, and the page must say so. Also ENRICH links from concepts/land-monopoly.md and events/taiwan-land-reform-1950s.md (see-also / one sentence each).",
+  "claim_grade": "B (empirical, type-B claim; observational panel with event-study, semi-parametric DiD, TWFE, IV and placebo designs, authors argue not driven by endogeneity). Tier 1: peer-reviewed article in Journal of Economic Growth by established growth/development economists (Madsen, Monash; Tong; Ulubasoglu), none on the Tier 2/3 lists.",
+  "content_summary": [
+   "Dataset (Sect. 2): extends Bhattacharya et al. (2019) land-reform dataset (165 countries, 1900-2010) back to 1820; 388 major land reforms across 165 countries over 1820-2010 (16 in 1820-1899, 372 in 1900-2010); 141 classified pro-poor. A major land reform is defined (quoting Bhattacharya et al., p. 54) as 'significant amendments to key laws and directives that govern the fundamental rights of land ownership, land tenure and land use'; pro-poor = stated beneficiaries are the poor, landless, landless labour, bonded labour, marginal farmers, peasants, subsistence farmers. 123 of the 141 pro-poor reforms redistribute/transfer title from wealthy landowners or public holdings to the poor; the rest improve tenure security. 65% of enacted reforms in the sample are implemented.",
+   "Samples: gross enrollment rates (Lee & Lee 2016, five-yearly) overlap with land-reform data for 104 countries (4,056 obs.); crude fertility rate for 155 countries (13,471 obs.). Of the 155 countries, 87 had no pro-poor reform, 30 had one, 38 had more than one (Sect. 2, Table 1).",
+   "Event study (Sect. 3.1, Sun-Abraham estimator): pre-reform coefficients insignificant at 10%; post-reform enrollment increases in the ranges 26-34% (primary), 14-27% (secondary), 16-51% (tertiary); primary peaks within about 15 years, secondary/tertiary reach long-run levels after about 25 years. Fertility: crude fertility falls by 4.6 per 1,000 population, an 11.8% decline against a pre-reform mean of 38.9, reaching its long-run level about 35 years after the first reform (Sect. 3.1.2). Semi-parametric DiD (Abadie 2005) gives smaller primary-enrollment effects, similar secondary/tertiary, smaller fertility effect.",
+   "TWFE (Sect. 3.2, Table 2): LR coefficient positive and significant at 1% for all three enrollment levels and negative at 1% for fertility under both TWFE and Sun-Abraham; cumulative effect of three or more reforms 0.469 (primary), 0.325 (secondary), 0.620 (tertiary). First reform has the strongest effect on primary enrollment; later reforms matter for secondary/tertiary and fertility. Delayed effects (Table 3): fertility effect grows with lag, reaching 16.7% (6.5 per 1,000) after 30-35 years.",
+   "IV (Sect. 3.3): CIA-supported US interventions 1947-1989 as instrument (details in Online Appendix B2, not fetched); estimates 'broadly consistent' with TWFE over the shorter 1947-1989 span.",
+   "Implied income effect (Sect. 3.4): weighted-average implied enrollment gain 41% (20.5 percentage points) and fertility 10% (3.9 per 1,000) lower; using Mankiw-Romer-Weil (1992, Table 2) elasticity the authors infer a 27% steady-state per-capita-income gain. NOTE internal inconsistency in the text: '41%' enrollment gain is paired with 'a 29.6% increase in gross enrollment rates' for the Solow step; T1 should check the table before quoting any income figure. These are back-of-envelope inferences, not estimated effects on income.",
+   "Placebo (Sect. 3.5, Table 4): expropriation, redistribution and distribution motives (correlated with pro-poor) show effects like the baseline; non-pro-poor motives (tenure-security, administrative, collectivization, nationalization) show irregular signs; pooled non-pro-poor reforms are negative for two of three enrollment levels and positive for fertility. Nationalization (state takeover without household title) lowers enrollment and raises fertility - the authors read this as property-rights distribution, not state ownership, being the mechanism.",
+   "Channels (Sect. 4, Sobel mediation; Tables 5-7): (i) demand side, private credit/GDP (land gives collateral, relaxes credit constraints) - significant for primary and secondary enrollment; (ii) supply side, compulsory schooling years (landed elites' resistance to public schooling weakens) - positive for primary, weaker/insignificant for secondary and tertiary (t about 1.0-1.5); (iii) family-farm share of agricultural land (dual channel) - significant for secondary/tertiary enrollment and the only mediator significant for fertility: about 0.22 per 1,000 via family farms, 3.5% of the total land-reform fertility effect (Sect. 4). Conceptual framing: Unified Growth Theory, quantity-quality trade-off (education -> lower fertility).",
+   "Abstract (verbatim, short): pro-poor land reforms 'promote economic development by increasing school enrollment and reducing fertility, whereas non-pro-poor land reforms do not.' Published 16 Nov 2026, open access."
+  ],
+  "existing_wiki_coverage": [
+   "events/taiwan-land-reform-1950s: Taiwan 1949-53 land-to-the-tiller reforms (one of the cases the dataset would code).",
+   "research/gemmell-grimes-skidmore-nz and research/fairlie-short-history-enclosure exist (single-country NZ evidence; enclosure history) - cross-links only.",
+   "concepts/land-monopoly (the monopoly/concentration concept; no cross-country evidence page).",
+   "research/kerspien-madsen-strulik-buildings-labor-share: same co-author (Madsen) but different paper (EER 2026) - no overlap.",
+   "No page in the digest mentions Bhattacharya et al. (2019), Galor-Moav-Vollrath, Besley-Burgess, 'landed elites' + schooling, or fertility. People/places with land-reform tags are mostly biographical (li-dazhao, david-redfearn)."
+  ],
+  "scanner_premise_errors": [
+   "None on the abstract content; premise matches the Springer abstract. Premises to qualify: (1) 'free PDF' - the open-access banner and Download PDF link are present, PDF itself not fetched; (2) the scanner groups it with the 'land-reform history/inequality cluster' - accurate, but it is not tax evidence (no LVT/property-tax content; grep of the page text for 'tax' and 'George' returned nothing relevant); (3) 'taiwan/land-bank narratives' - no land-bank page exists; the Taiwan page is events/taiwan-land-reform-1950s; (4) 'mechanisms are relaxation of credit constraints and weakening of elites' is stated by the authors as 'consistent with', supported by mediation tests where compulsory-schooling is statistically weaker than credit and family farms."
+  ],
+  "uncertainties": [
+   "Table coefficients, standard errors and the Online/Data Appendix are not in the fetched text; figures quoted come from running text only.",
+   "Effect sizes are log-point/percent changes in gross enrollment ratios across a heterogeneous 190-year panel; identification rests on parallel-trends and IV with a Cold-War instrument (1947-89 only).",
+   "Whether Georgist-adjacent reforms (tax-based land reforms, e.g. Taiwan's 1954 equalization statute) are coded pro-poor is not stated in the text read.",
+   "Inconsistency noted in Sect. 3.4 (41% vs 29.6%)."
+  ],
+  "suggested_text": "A global panel of 388 major land reforms across 165 countries, 1820-2010, finds that reforms whose stated beneficiaries were the poor or landless were followed by higher school enrollment and lower fertility, while reforms with other motives showed no such pattern (Madsen, Tong and Ulubasoglu, Journal of Economic Growth, 2026). The authors link the result to easier credit for poor households and weaker political resistance from landed elites. The study covers land redistribution and tenure reforms, not land taxation."
+ },
+ {
+  "url": "https://www.norges-bank.no/en/news-events/publications/Staff-Memo/2026/staff-memo-7-2026/",
+  "title": "Inferring Land Values in Oslo",
+  "what_was_fetched": "1) https://www.norges-bank.no/en/news-events/publications/Staff-Memo/2026/staff-memo-7-2026/ -> HTTP 200 (abstract, authors, series, ISSN, publication date 11 Nov 2026 08:30; link to PDF). 2) PDF linked from that page: https://www.norges-bank.no/contentassets/998376ef416f44e8a414c1f1d90e2550/inferring-land-values-in-oslo.pdf?v=10112026160047 -> HTTP 200, application/pdf, 540 KB; extracted with pdftotext -layout (1,008 lines; figure axis text garbled, figure values NOT readable, but section 4.1-4.2 prose gives the levels). Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/norges.txt, norges.html, norges.pdf, norges-pdf.txt.",
+  "verdict": "NEW research/iden-nenov-plaku-oslo-land-values.md",
+  "verdict_reason": "Central-bank staff research on a residual (Davis-Heathcote) land-price series for a European capital: a non-US instance of the land-share evidence the wiki holds only for the US (research/davis-heathcote-us-land, aei-land-price-indicators, kuminoff-pope-land-values). Add see-also links from research/davis-heathcote-us-land.md and concepts/residual-land-valuation.md, and one sentence on places/norway.md (which currently covers only the oil fund). The memo contains no tax or LVT analysis; the policy section says affordability measures aimed at construction costs may be partly capitalised into land values.",
+  "claim_grade": "B (empirical estimate from an imputation, not an observed land-transaction series; authors state the residual folds developer margin and land-development costs into 'land'). Tier 1: Norges Bank is a central bank; staff memos are analytical publications whose views are not official Bank policy (cover note) - cite as 'Norges Bank staff memo', not as the Bank's position.",
+  "content_summary": [
+   "Method (Sect. 3, pp. 7-8; Appendix): Davis-Heathcote (2007) residual, applied following Davis-Palumbo (2008) at the level of a representative Oslo apartment rather than aggregate stock. Land price P_L = used-home price P_H minus depreciated replacement cost of the structure P_S. P_H: Eiendomsverdi average price per sq m for Oslo apartments in 2025 as the 2025 Q4 level, rolled back with Eiendomsverdi's quality-adjusted (SPAR) real used-home index. Replacement cost: Norsk Prisbok 2025 construction cost per sq m of apartment building (gross-to-internal floor-area factor 1.30), rolled back with Statistics Norway's construction cost index and a value-added-per-hour productivity adjustment, plus imputed financing cost (assumed two-year build), scaled by a depreciation factor from a hedonic regression on Norwegian Land Register transactions (age-price gradient flattens after about age 40; land assumed 30% of initial dwelling value; evaluated at median age 29 years for Oslo apartments transacted in 2021).",
+   "Sample: Oslo apartments, quarterly, 2003 Q4 to 2025 Q4 (series indexed 2003 Q4 = 100); new-home list-price residual (Sect. 4.3) ends 2024 Q4 and is normalised separately (dynamics, not levels, comparable).",
+   "Land price (Sect. 4.1, p. 9): real land prices at end-2025 about three and a half times their end-2003 level; land prices rose substantially more than house prices over 2003-2017 and have been broadly flat since 2017 (authors cite the early-2017 debt-to-income restrictions and higher construction costs as possible factors). Replacement costs rose about 50% over the period, mostly after Covid.",
+   "Volatility (Sect. 4.1): standard deviation of the HP-filtered cyclical component of real land prices 9.1%, versus 4.5% for real used-home prices and 1.6% for replacement cost.",
+   "Land share (Sect. 4.2, pp. 10-11, Fig. 4): land-related share of the cost of new housing (land residual / (residual + construction cost)) rose from 32% in 2003 to 53% at end of sample; fell to about 32% around the financial crisis and peaked near 59% in 2017 Q1; strongly procyclical. Worked example (p. 11): at a just-over-half land share a 30% fall in land prices cuts property value roughly 16%; at the 2003 one-third share, about 10%. Footnote 15: land's share of a USED home's value is somewhat higher because the structure has depreciated.",
+   "House-price attribution: the memo says land-related values 'account for much of the cyclical variation in house prices' (abstract, Sect. 5) - a cyclical-variance statement. It does NOT give a decomposition of the trend growth of house prices into land vs structure (no 'X% of house-price growth is land' figure); the nearest statement is that land rose substantially faster than house prices in 2003-2017 while replacement cost rose about 50%.",
+   "Caveats (Sect. 3.1, pp. 8-9): the residual includes developer margin, planning/financing/clearance costs ('developable land' = raw land value plus costs of bringing it to developable stage); Statistics Norway: average time from initial planning meeting to final approval of private detailed zoning plans in Oslo up about 35%, from about 1,400 days (2016) to 1,900 days (2025), so part of the residual may be regulatory cost rather than scarcity value. Authors call what drove land prices 'an open question' and cite real-options delay (Titman 1985; Cunningham 2006; Bulan-Mayer-Somerville 2009) alongside demand growth and zoning limits (Sect. 5, p. 13).",
+   "Policy statements (Sect. 5): if cost pressure comes mainly from land, measures aimed at lowering building costs 'may only have a minor impact on affordability, since part of the reduced building cost would go into higher land values'; and a rising land share raises financial-stability exposure (collateral increasingly the volatile component)."
+  ],
+  "existing_wiki_coverage": [
+   "research/davis-heathcote-us-land: US residual method, quarterly series; methodological origin.",
+   "research/aei-land-price-indicators and research/davis-larson-oliner-shui-fhfa-land: US county/tract land shares (e.g. SF County about 70.9%).",
+   "research/kuminoff-pope-land-values: hedonic US decomposition.",
+   "concepts/residual-land-valuation: developer's residual method (conceptually the same decomposition).",
+   "research/knoll-schularick-steger-house-prices: long-run house-price/land evidence.",
+   "places/norway: oil fund only; no housing/land-price content. research/borge-rattso-norway-capitalization: Norwegian property-tax capitalisation (different topic).",
+   "No page cites Norges Bank or Oslo land values; no concepts/land-share page exists (closest: aei-land-price-indicators)."
+  ],
+  "scanner_premise_errors": [
+   "'a residual land price series for Oslo' - it is for a representative Oslo APARTMENT, and the memo calls the residual 'land-related values' / 'developable land' (includes development costs and developer margin), not pure raw-land value.",
+   "'real land prices rose to about 3.5 times their 2003 level' - correct but the base is end-2003 (2003 Q4 = 100) and the end point is end-2025; the rise is concentrated in 2003-2017, flat afterward.",
+   "'land share of new housing costs rose from about a third to just over half' - correct (32% to 53%); the share is of NEW-build cost (residual over residual plus construction cost), not of house prices generally.",
+   "The task prompt asks for 'land's share of house-price growth': the memo gives no such statistic (cyclical variation only).",
+   "'direct land-price-index evidence' - it is an imputed index, which the authors say should be checked against an independent transaction-based index (not available)."
+  ],
+  "uncertainties": [
+   "Figure data (Fig. 3-5) not machine-readable in the extracted text; any year-by-year figure beyond those in prose would need the PDF images.",
+   "Level of the land residual depends on assumed 30% initial land share, 1.30 area factor and a single-year Norsk Prisbok benchmark; the Appendix sensitivity section (pp. 15-19) was not read in detail.",
+   "Appendix model and robustness not summarised here."
+  ],
+  "suggested_text": "Norges Bank staff constructed a quarterly land-value series for Oslo apartments, 2003-2025, by subtracting the depreciated replacement cost of the structure from the price of a used home. Real land-related values rose to about three and a half times their 2003 level, and the implied land share of new-housing cost rose from about 32% to 53%; land values were about twice as volatile as used-home prices over the cycle. The series is an imputation and includes developer margin and the cost of bringing land to a buildable state."
+ },
+ {
+  "url": "https://doi.org/10.59403/1rk51ve002",
+  "title": "Chapter 2: Property Taxation as a Revenue Source and a Land Policy Instrument",
+  "what_was_fetched": "One request: https://doi.org/10.59403/1rk51ve002 -> HTTP 200, redirected to https://www.ibfd.org/doi/1rk51ve002. Page shows only metadata: title, publisher IBFD, 9 November 2026, 'Book, EATLP International Tax Series', ISBNs (print 978-94-6529-033-1; electronic 978-94-6529-034-8 and 978-94-6529-035-5), author Joan Youngman, parent book 'Taxing Real Estate (Ownership)' (doi 10.59403/1rk51ve), 'Buy Book' button and sign-in boxes. No abstract, no table of contents, no page count, no text. Nothing further attempted. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/youngman.txt, youngman.html.",
+  "verdict": "DEFER",
+  "verdict_reason": "Only bibliographic metadata is openly visible; there is no abstract or content to summarise, so no page or enrichment can be written without paywalled text. Queue a BACKLOG lead: Youngman's open-access Lincoln Institute work (e.g. A Good Tax; Langley & Youngman, Property Tax Relief for Homeowners, 2021, already a BACKLOG lead) is the Tier 1 route to the same themes. Re-check if IBFD later posts an abstract or the chapter is deposited openly.",
+  "claim_grade": "Not gradable (no content reached). Source tier: Tier 1 on the rubric - Joan Youngman is a recognised property-tax legal scholar (Lincoln Institute of Land Policy, a Tier 1 body on the tiers list); the volume is an academic series of the European Association of Tax Law Professors published by IBFD. She is not named in sources/audit/people-tiers.json, so the rubric applies; nothing in it supports Tier 2.",
+  "content_summary": [
+   "Chapter title: 'Chapter 2: Property Taxation as a Revenue Source and a Land Policy Instrument'; Joan Youngman; in 'Taxing Real Estate (Ownership)', EATLP International Tax Series, IBFD, 9 Nov 2026. That is all that is visible. The scanner's description of the chapter's argument ('frames the property tax as both a revenue source and an explicit land policy instrument') is an inference from the title only."
+  ],
+  "existing_wiki_coverage": [
+   "research/walters-property-taxes-value-capture-instruments: quotes Youngman (2011, p. 323) on growth effects and cites her summary of the literature (lines about 97 and 167).",
+   "research/iaao-standards: property-tax design principles (no Youngman).",
+   "BACKLOG.md line 105: open lead to cite Langley & Youngman (Lincoln, 2021) 'Property Tax Relief for Homeowners' on the Prop 13 page.",
+   "organizations/lincoln-institute exists; no people/youngman page; no dedicated page for A Good Tax (grep of digest: no title match)."
+  ],
+  "scanner_premise_errors": [
+   "'Core wiki theme, Tier 2' - wrong: Youngman is not on the Tier 2 list and, as a recognised scholar and Lincoln Institute fellow, is Tier 1 on the rubric; a Tier 2 label would wrongly restrict citation.",
+   "'Biblio verified via the IBFD landing page ... serves the property-tax legal/policy cluster' - the landing page carries no abstract, so content claims about the chapter are unsupported.",
+   "'Lincoln Institute senior fellow' - not stated on the landing page; unverified from this fetch."
+  ],
+  "uncertainties": [
+   "Chapter's content, length and argument unknown.",
+   "Whether a preprint or Lincoln Institute version of the chapter exists openly - not searched (no search attempted against paywalled copies)."
+  ],
+  "suggested_text": ""
+ },
+ {
+  "url": "https://doi.org/10.1007/s10797-026-10015-3",
+  "title": "Nudging automatic debit for property tax: evidence from two natural field experiments",
+  "what_was_fetched": "One request: https://doi.org/10.1007/s10797-026-10015-3 -> HTTP 200, redirected to link.springer.com/article/10.1007/s10797-026-10015-3 (cookies_not_supported parameter; no client challenge). Page is NOT open access: it shows the abstract, 'This is a preview of subscription content', Buy article PDF USD 39.95. Visible: abstract, the article's footnote/notes block and the reference list (the notes carry some design details). No body text, tables or sample sizes. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/nishihata.txt, nishihata.html. No second request.",
+  "verdict": "DEFER",
+  "verdict_reason": "Only the abstract and footnotes are openly visible; designs, sample sizes and per-arm effects on on-time payment are in paywalled text. The abstract-level findings are solid and Tier 1, but relevance to the wiki is indirect (property-tax payment mechanics in Japan, tests no land tax - same position as research/jensen-kumar-poensgen-tax-education-ghana). If writers want it, an abstract-based research page is possible (grade B, abstract-only) after T1 looks for an author-deposited open copy; the footnotes name a RIETI Discussion Paper seminar, URL not looked up here. Otherwise leave on backlog.",
+  "claim_grade": "B (randomised natural field experiments; abstract-level only). Tier 1: peer-reviewed article in International Tax and Public Finance by academic authors (Keio University, RIETI-affiliated project); no Tier 2/3 concerns.",
+  "content_summary": [
+   "Abstract (verbatim figures): two natural field experiments in Yokohama City, Japan, on automatic-debit (direct debit) registration for property tax. Experiment 1: a combined nudge flyer plus the owner code needed for the application raised the probability of applying by 8.8 percentage points. Experiment 2 varied the components separately: the flyer raised application probability by 2.7 pp and including the owner code by 2.8 pp. 'Despite the increase in automatic debit adoption, we find no evidence that these interventions improve on-time payment within the time frame observed.' Authors' explanations: limited scope given the baseline on-time rate, or effects concentrated on taxpayers who would have paid on time anyway. Published 17 Nov 2026.",
+   "Design details visible in the notes: a natural field experiment = participants unaware, done as part of routine municipal operations (Harrison & List 2004); Groups 1 and 2 in the second experiment were mailed only additional information, because in 2020 and 2021 the city mailed no auto-debit flyers to new taxpayers (so no one was disadvantaged); group sizes set by a power calculation to detect a 3-pp effect between Groups 1 and 2; mailing population excluded taxpayers already registered; a note refers to an '8.4%' new-application rate in the observation window, not comparable to citywide shares of payments by existing auto-debit users; the city bars disclosure of exact instalment-specific on-time rates (rounded figures only).",
+   "Institutional context in notes: Japanese fixed-asset (property) tax applies to land and buildings, plus a city planning tax at 0.3% in designated urbanisation areas; exemption thresholds 300,000 JPY (land) and 200,000 JPY (buildings); provisional FY2020 statistics put payments at financial-institution counters and similar at 23.1% of transactions.",
+   "NOT obtained: sample sizes, which year(s) each experiment ran, baseline on-time payment rate, standard errors, effect on on-time payment (point estimate)."
+  ],
+  "existing_wiki_coverage": [
+   "research/jensen-kumar-poensgen-tax-education-ghana: Accra property-tax education RCT; page states it tests no land tax - the template for framing.",
+   "research/baldomero-quintana-singh-nyc-tax-reform: same journal (ITAX) but unrelated topic.",
+   "places/japan: bubble-era property tax statutory rate and assessment ratio; nothing on administration or compliance.",
+   "Digest grep for Yokohama, automatic debit, nudge: no pages."
+  ],
+  "scanner_premise_errors": [
+   "No error in the figures (8.8 / 2.7 / 2.8 pp match the abstract).",
+   "Not open access: the scanner's 'URL live' is true but the full text is behind a paywall, so the sample/design capture requested is impossible from this fetch.",
+   "'Property-tax administration cluster ... serves the compliance side of the wiki property tax pages' - the wiki has no Japan administration/compliance page to attach to; connection to Georgism is only via the generic cost-of-collection argument."
+  ],
+  "uncertainties": [
+   "Whether the 'no effect on on-time payment' result is a null with tight or wide confidence intervals is unknown.",
+   "The 8.4% figure's referent (control group vs pooled) is unclear from the footnote alone."
+  ],
+  "suggested_text": ""
+ },
+ {
+  "url": "https://yimbyaction.org/podcast/can-land-value-taxes-help-build-more-homes",
+  "title": "Can Land Value Taxes Help Build More Homes? (Infill: A YIMBY Podcast)",
+  "what_was_fetched": "One request: https://yimbyaction.org/podcast/can-land-value-taxes-help-build-more-homes -> HTTP 200 (server-rendered). Show notes, host and guests, episode metadata, and the three resource links read; audio not accessed or transcribed. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/yimby.txt, yimby.html.",
+  "verdict": "REJECT",
+  "verdict_reason": "Advocacy-organisation podcast; the show notes contain no data, no citations and no claim not already made on the wiki (building-penalising property tax, shifting tax to land, revenue-neutral, homeowner concerns). Under the attribution rule both the host organisation (YIMBY Action, advocacy body) and the guests (Lars Doucet and Greg Miller are both on the Tier 2 list) are Tier 2: they can be cited as proponents with status stated, never as support, and the page would be a pure origin/appearance record. The legislative-progress claims named in the notes (Kentucky, Virginia, 'lessons from Pennsylvania') should be sourced to primary legislative records; places/kentucky and places/pennsylvania already exist, and no Virginia page exists. Optional one-line ENRICH-light: a link in organizations/center-for-land-economics.md media/appearances list if that page keeps one - not worth a research page.",
+  "claim_grade": "D for support purposes (promotional audio, show notes only); usable only as an A-claim that the episode exists and who spoke. Tier 2: advocacy organisation plus two Tier 2 proponents; a podcast is Tier 2 by the rubric, never support.",
+  "content_summary": [
+   "Season 6, Episode 32, released 16 November 2026, 39 min (player 38:55), 'Infill: A YIMBY Podcast'. Host: Laura Foote, YIMBY Action Executive Director. Guests: Greg Miller and Lars Doucet of the Center for Land Economics.",
+   "Show notes (summary): traditional property taxes can penalise building, renovating and improving while vacant lots and surface parking stay underdeveloped; shifting burden from buildings to land could improve incentives without raising total revenue; discussion of homeowner effects, protecting vulnerable residents, why better assessments matter; 'recent legislative progress in Kentucky and Virginia' and 'lessons from Pennsylvania'.",
+   "Links listed: landeconomics.org/work/land-value-tax (CLE research) and yimbyaction.org/solutions/land-value-tax (YIMBY Action LVT policy primer) - the latter is an unexamined advocacy primer; the CLE research page may point to primaries worth a separate look."
+  ],
+  "existing_wiki_coverage": [
+   "people/lars-doucet and organizations/center-for-land-economics already cover the guests and organisation.",
+   "research/dwarkesh-doucet-podcast: a long-form Doucet podcast page (precedent, but that is a widely used single-sitting introduction, a different standard).",
+   "objections/lvt-needs-zoning-reform-first, objections/planning-restrictions-cause-high-prices, narratives/the-housing-crisis-is-a-land-crisis, benefits/split-rate-increases-construction cover the YIMBY-LVT relationship.",
+   "places/kentucky (2026 split-rate enablement for Louisville) exists; no Virginia page."
+  ],
+  "scanner_premise_errors": [
+   "'YIMBY-movement adoption of LVT' - the show notes show YIMBY Action hosting two LVT proponents, not adoption by the movement; no policy position by YIMBY Action is stated beyond a policy primer link.",
+   "'Doucet-podcast genre precedent' - the Dwarkesh page is a curated introduction resource, not a precedent for logging every appearance.",
+   "Guest/host names, date and length verified correct."
+  ],
+  "uncertainties": [
+   "Audio content (and any figures spoken) not reviewed by design.",
+   "Whether the Kentucky/Virginia legislative claims are accurate is untested; sources for them should be official bills."
+  ],
+  "suggested_text": ""
+ },
+ {
+  "url": "https://www.ihrb.org/latest/real-estate-in-the-spotlight-driving-growth-or-empty-promises",
+  "title": "Real estate in the spotlight: Driving growth or empty promises?",
+  "what_was_fetched": "One request: https://www.ihrb.org/latest/real-estate-in-the-spotlight-driving-growth-or-empty-promises -> HTTP 200; full 4-minute commentary read, with its outbound links extracted from the HTML. One further request to the cited Savills page for the $393.3 trillion figure: https://www.savills.co.uk/insight-and-opinion/savills-news/381209/world-s-real-estate-worth-$393.3-trillion-and-is-the-world-s-largest-store-of-wealth -> HTTP 403 (CloudFront block); no second attempt, content unreachable. Saved: /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/ihrb.txt, ihrb.html, savills.html (error page only).",
+  "verdict": "REJECT",
+  "verdict_reason": "NGO commentary with no Georgist content (no mention of land value, land tax or LVT; policy suggestions are mortgage-interest-deduction cuts, rent rules and capital-gains equalisation) and no original figures. Its headline numbers are secondhand: the $393 trillion comes from a Savills news release (Tier 2 industry data from a property agency) and 'two-thirds of global net worth' and '4.8-8 times GDP' come from McKinsey's 2021 balance-sheet report, which the wiki already holds at research/mckinsey-global-balance-sheet. If a global real-estate valuation is ever needed, cite McKinsey (already present) or Savills directly with its date and method; do not cite IHRB. BACKLOG lead only: Savills' own page, if reachable by an ordinary browser, for year and method of the $393.3tn estimate.",
+  "claim_grade": "D for support (commentary; claims secondhand). Tier 2: IHRB is an advocacy/think-tank body and the author is its staff head of a programme - Tier 2 by the rubric, origin/proponent only, never a lead citation. The scanner's 'Tier 3' undersells nothing practical but is the wrong class (Tier 3 is politicians, business, op-ed writers).",
+  "content_summary": [
+   "Ferrini (IHRB commentary, 3 Nov 2026): 'Global real estate is worth a staggering $393 trillion' - hyperlinked to the Savills news item titled 'World's real estate worth $393.3 trillion and is the world's largest store of wealth'. Year and method of the Savills estimate are not stated in the commentary and could not be fetched. (From general recollection, unverified here: Savills' $393.3tn estimate refers to end-2023 values - T1 should confirm before any use.)",
+   "'Approximately two-thirds of global net worth' and 'real assets account for 4.8-8 times national GDP' - both linked to McKinsey Global Institute, 'The Rise and Rise of the Global Balance Sheet' (2021) via a mckinsey.com.br PDF.",
+   "Other claims and their linked sources: rising home prices as collateral driving growth (Bank of England, 'Why house prices matter', Quarterly Bulletin 2001); abundance/supply-led affordability 'marginal at best' (a UK Parliament-era housing-price document on gov.uk); UK mortgage liberalisation and weak productivity (UCL IIPP, as reported in a Guardian piece of 15 Oct 2025); asset-rent extraction since the 2000s (a LinkedIn post); construction productivity decline since 2019 (European Commission document); reform examples (OECD housing taxation 2022; Advani, Lonsdale and Summers 2024 on CGT).",
+   "The 'speculation and rent-seeking hampered productivity' claim has no direct primary link in the commentary; the nearest links are the IIPP/Guardian item and the LinkedIn post."
+  ],
+  "existing_wiki_coverage": [
+   "research/mckinsey-global-balance-sheet: ten countries, real estate about two-thirds of net worth; already notes the figure bundles land with buildings and cites Doucet's use of it.",
+   "speculative-vacancy-wastes-cities (problems) and benefits/lvt-dampens-land-speculation cover speculation claims.",
+   "Savills appears in the wiki only incidentally (riley-taken-for-a-ride, a Jubilee Line study note); the $393 trillion figure appears nowhere."
+  ],
+  "scanner_premise_errors": [
+   "'mainstream institutional acknowledgment of the wiki speculation/vacancy claims' - the piece is one NGO staff commentary; it does not discuss vacancy or land speculation as the wiki defines them (asset speculation and rent-extraction in the property sector generally).",
+   "'Tier 3' - rubric makes it Tier 2 (advocacy body staff); either way not citable as support.",
+   "The $393tn figure is not IHRB's: it is Savills'; the two-thirds-of-net-worth figure is McKinsey's (2021 data), so the commentary cannot be the citation for either."
+  ],
+  "uncertainties": [
+   "Savills' reference year and method not read (403).",
+   "Whether the McKinsey figure and Savills figure are comparable (net worth vs gross asset value) - the commentary mixes them."
+  ],
+  "suggested_text": ""
+ },
+ {
+  "url": "https://www.nycpolitics.org/on-my-block/nyc-property-tax-amended-rates-class-1-19-972-percent-commercial-10-859-nov-12",
+  "title": "The amended property tax rates are posted: one- to three-family homes would drop to 19.972%, commercial would rise to 10.859%",
+  "what_was_fetched": "1) https://www.nycpolitics.org/on-my-block/nyc-property-tax-amended-rates-class-1-19-972-percent-commercial-10-859-nov-12 -> HTTP 200; the article text is served in the HTML (not a JS-only shell); full text read. 2) Primary documents linked from its Sources list, each fetched once from the City Council's official Legistar host nyc.legistar1.com (all HTTP 200, openly served): attachments 58f53f10-...pdf (Res. 726 text, amended and restated tax-fixing resolution), db8d5d7c-...pdf (Res. 546 text, June tax-fixing resolution), 1b95f8f2-...docx (Finance Division committee report on Res. 726), c74d9f2b-...docx (Finance Division report on the 0.3 percent base-proportion cap resolution, Res. 723), 1ea45a92-...xlsx (Exhibit C, tax-rate history FY2000-FY2027). council.nyc.gov and nyc.gov/finance were not requested because Legistar already served the documents. Text extracted with unzip/pdftotext; saved under /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/nyc_leg/ (a.txt report 726; c.txt Res. 726; d.txt report on 723; e.txt Res. 546; b.xlsx/b.txt Exhibit C) plus nycpol.txt/nycpol.html and combined /tmp/claude-0/-home-user-georgism-wiki/27113c0d-0e4a-5705-a87d-69e4d8108829/scratchpad/t0-2026-11-18/fetched/nyc-legistar-all.txt.",
+  "verdict": "ENRICH places/new-york-city.md",
+  "verdict_reason": "Rates, class shares and the 0.3 percent cap are all confirmed against official Council resolutions and Finance Division reports, so the wiki can cite the primaries (Tier 1) and drop nycpolitics.org. A short paragraph on how NYC's four property-tax classes share a fixed levy fits places/new-york-city.md, which currently has no class-share or rate content; the Georgist relevance is moderate (shows the fixed-levy, class-share mechanism and political cap on a Class 1 rate rise; land is not separately taxed). Not worth a new events page unless the wiki builds an NYC property-tax-structure page. Check the final Council vote before writing: the article was published before the 12 Nov vote and adoption was not verified.",
+  "claim_grade": "A for the rates, levy and class shares as official documents (type-A factual); the $266m/$283m shifts are B (arithmetic by the outlet, reproduced by T0 below). Tier 1 for Council resolutions and Finance Division reports (official body, statutory acts). nycpolitics.org is an independent civic-data outlet - not on the tiers list; by the rubric it is secondary journalism (Tier 2/3), usable only to locate the primaries.",
+  "content_summary": [
+   "Rates (Res. 726 text, rate table; same in Finance Division report on 726; Exhibit C row FY2027), per $1 of assessed value, i.e. per $100: Class 1 (one-, two-, three-family residential) 0.19972 = 19.972%; Class 2 (all other residential) 0.12423 = 12.423%; Class 3 (utility) 0.11119 = 11.119%; Class 4 (all other real property) 0.10859 = 10.859%. June 30 Res. 546: Class 1 0.20909, Class 2 0.12440, Class 3 0.11108, Class 4 0.10658. FY2026 (Exhibit C): 19.843, 12.439, 11.108, 10.848.",
+   "Levy: $39,885,078,591 in both Res. 546 and Res. 726 (total real property tax levy); net amount to be raised by tax on real property $37,190,000,000 (Finance report on 726); Fiscal 2027 budget amount $125,841,596,044.",
+   "Adjusted base proportions (class shares of the levy), Res. 726 vs Res. 546: Class 1 14.2025% (June 14.8692%); Class 2 39.0535% (39.1050%); Class 3 8.3606%; Class 4 38.3834% (37.6732%). T0 arithmetic: (14.8692-14.2025)% x $39.885bn = about $266m off Class 1; (38.3834-37.6732)% x $39.885bn = about $283m onto Class 4 - matches the outlet's figures, which are the outlet's derivations, not stated in the resolutions.",
+   "Mechanism (Finance Division report on Res. 723): State law (RPTL 1803-a) caps growth of any class's base proportion at 5 percent; Chapter 302 of the Laws of 2026 lets the Council set a lower limit for Fiscal 2027 only, by 1 December 2026. Without action, Class 1's rate would have risen 5.4% over FY2026 'coupled with assessment increases' ('significant increases in the tax bills for class one homeowners'). The 0.3 percent limit makes Class 1, 3, 4 rates 0.6, 0.1 and 0.1 percent higher than FY2026 and Class 2 0.1 percent lower.",
+   "Votes (outlet only, not in fetched documents): June rates passed 46-5; class-share certification 43-7. Outlet states the four resolutions were to be introduced and could be adopted at the 12 Nov 1:30 p.m. stated meeting, after the Finance Committee's 11 a.m. meeting."
+  ],
+  "existing_wiki_coverage": [
+   "places/new-york-city: $2.5tn land value (Albouy et al. 2017), Section 119-r value capture renewal 2026, 1886 election; no rate/class-share content.",
+   "events/nyc-pied-a-terre-tax: new 2026 surcharge on high-value second homes; mentions Class-based DOF valuation but no class-share rates.",
+   "research/baldomero-quintana-singh-nyc-tax-reform and research/nyc-1920s-tax-exemption: construction-response and historic exemption; not class shares.",
+   "No page in the digest uses 'class share', 'Class 4' or the 19.9xx/10.8xx rates."
+  ],
+  "scanner_premise_errors": [
+   "'Class 1 effective rate would drop to 19.972%' - these are statutory nominal tax rates per $100 of ASSESSED value, not effective rates on market value; NYC assessment ratios and caps mean effective rates on market value are far lower. The wiki must not describe 19.972% as an effective rate.",
+   "'Class 4 commercial 10.859%' - Class 4 is 'All Other Real Property', which is wider than commercial.",
+   "'0.3% class share cap moves about $266m' - the 0.3 percent is a ceiling on growth of each class's base proportion over last year's adjusted proportion, not a cap on the rate; the dollar shifts are the outlet's arithmetic from certified shares, though confirmed here by recomputation.",
+   "'Resolutions amending class shares' - four resolutions: amended tax-fixing (726), base-proportion cap (723) and the two base/adjusted-proportion restatements; only 726, 546 and 723 report text were reached here.",
+   "'JS-rendered app' - the article text was in the served HTML.",
+   "Scanner treats the amended rates as enacted ('would drop'); adoption after 12 Nov not checked."
+  ],
+  "uncertainties": [
+   "Final adoption/vote counts for 12 Nov not verified from the primaries; Legistar legislation pages were not requested.",
+   "The two base-proportion restatement resolutions (adjusted/current) were not among the fetched attachments; class shares were taken from Res. 726 and Res. 546 texts.",
+   "Exhibit C 'citywide' column appears as a constant 12.283 in the spreadsheet cells - likely a display artifact; avoid quoting it."
+  ],
+  "suggested_text": "New York City fixes a single property-tax levy each year and divides it among four classes of property. For the fiscal year beginning 1 July 2026 the City Council, using a one-year state authorisation, limited each class's share growth to 0.3 percent, which would lower the Class 1 (one- to three-family homes) rate from 20.909 to 19.972 per $100 of assessed value and raise the Class 4 (all other property) rate from 10.658 to 10.859, with the total levy unchanged at about $39.9 billion."
+ }
+]

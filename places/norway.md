@@ -4,7 +4,7 @@ category: places
 tags: [resource-rents, sovereign-wealth-fund, nordic, oil-fund]
 stub: false
 excerpt: "Norway's Government Pension Fund Global—the world's largest sovereign wealth fund—captures oil-resource rents through a save-and-budget model, contrasting with Alaska's direct per-capita dividend distribution."
-last_reviewed: 2026-10-18
+last_reviewed: 2026-11-18
 ---
 
 ## Overview
@@ -41,6 +41,10 @@ From a Georgist perspective, Norway's oil fund demonstrates several principles r
 
 - Norway's **fiscal rule** ("handlingsregelen") limits budget transfers from the fund to its expected real return over time — set at **3%** since 2017 (reduced from the original 4%) — so that the fund's real capital is preserved for future generations rather than spent down.[1]
 
+## Land Values in Oslo
+
+Norway's housing market also supplies one of the few residual land-value series for a European capital. Norges Bank staff built a quarterly series for a representative Oslo apartment from 2003 to 2025 by subtracting the depreciated replacement cost of the structure from the price of a used home. Real land-related values at the end of 2025 stood at about three and a half times their 2003 level, with the rise concentrated before 2017, and the implied land share of the cost of new housing rose from about a third to just over half; land values were about twice as volatile as used-home prices over the cycle. The residual includes developer margin and the cost of bringing land to a buildable state, and the authors present it as staff analysis rather than the Bank's position.[4] The [research page](/wiki/iden-nenov-plaku-oslo-land-values/) sets out the method and its limits.
+
 ## See Also
 
 - [Alaska](/wiki/alaska/)
@@ -50,11 +54,14 @@ From a Georgist perspective, Norway's oil fund demonstrates several principles r
 - [Hartwick Rule](/wiki/hartwick-rule/)
 - [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/)
 - [Goldsmith (2002)](/wiki/goldsmith-alaska-pfd-wealth-distribution/)
+- [Iden, Nenov & Plaku: Inferring Land Values in Oslo](/wiki/iden-nenov-plaku-oslo-land-values/)
 
 ## Sources
 
 1. Norges Bank Investment Management (NBIM), "About the fund" and "The fiscal rule," official pages for the Government Pension Fund Global. [nbim.no/en/the-fund/about-the-fund](https://www.nbim.no/en/the-fund/about-the-fund/) — fetched 2026-07-09 — used for the 1990 enabling legislation, the 1996 first deposit, the 2006 renaming, the fund's value (>15,000 billion kroner / ~US$1.7–1.8 trillion, 2024) and status as the world's largest SWF, the save-and-budget model, and the fiscal rule (spend only the expected real return, 3% since 2017).
 2. Norwegian Petroleum (Ministry of Energy / Norwegian Offshore Directorate), "The petroleum tax system." [norskpetroleum.no/en/economy/petroleum-tax](https://www.norskpetroleum.no/en/economy/petroleum-tax/) — fetched 2026-07-09 — used for the 78% combined marginal tax rate (22% ordinary company tax, and the 71.8% special tax applied after deducting the ordinary tax, raised from 56% in 2022 when the special tax moved to a cash-flow basis) under the Petroleum Taxation Act, and the State's Direct Financial Interest (Petoro).
 3. Scott Goldsmith (2002), "The Alaska Permanent Fund Dividend: An Experiment in Wealth Distribution," 9th International Congress of BIEN, Geneva. [BIEN PDF](https://basicincome.org/bien/pdf/2002Goldsmith.pdf) — used only for the Alaska dividend side of the contrast (poverty reduction and political durability), not for claims about Norway's fund.
+
+4. Anna Emilie Iden, Plamen Nenov & Sonja Plaku (2026), "Inferring Land Values in Oslo," Norges Bank Staff Memo 7/2026, 11 November 2026. [norges-bank.no](https://www.norges-bank.no/en/news-events/publications/Staff-Memo/2026/staff-memo-7-2026/) — used for the method, the roughly three-and-a-half-fold rise in real land-related values 2003–2025, the land share of new-housing cost (32 to 53 per cent), the relative volatility (9.1 against 4.5 per cent) and the developable-land caveat (B-claim, imputed series; staff views, not Bank policy; full PDF openly served).
 
 *(Navigation, not evidence: [Sovereign Wealth Fund](/wiki/sovereign-wealth-fund/), [Alaska](/wiki/alaska/), [Resource-rent dividends are workable and durable](/wiki/resource-rent-dividends-work/), [Hartwick Rule](/wiki/hartwick-rule/).)*

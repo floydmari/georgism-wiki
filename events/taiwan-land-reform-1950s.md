@@ -9,7 +9,7 @@ tags:
   - land-to-the-tiller
 stub: false
 excerpt: "Taiwan's 1949–1953 land-to-the-tiller reforms and 1954 equalization statute institutionalized Sun Yat-sen's Georgist-influenced land program, establishing the framework for Taiwan's modern land value capture system."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-11-18
 ---
 
 ## Overview
@@ -54,6 +54,7 @@ The 1954 statute's provisions were phased in gradually rather than implemented a
 - [Sun Yat-sen](/wiki/sun-yat-sen/) — the founding figure whose Georgist-influenced land principle shaped the reform
 - [Unearned Increment](/wiki/unearned-increment/) — the value the equalization statute is designed to capture
 - [Land Value Capture](/wiki/land-value-capture/) — the broader family of public-finance tools Taiwan's system exemplifies
+- [Madsen, Tong & Ulubasoglu: Pro-Poor Land Reforms, Education and Fertility](/wiki/madsen-tong-ulubasoglu-pro-poor-land-reform/) — cross-country evidence, from 388 reforms in 165 countries over 1820–2010, on the schooling and fertility changes that followed reforms aimed at the poor and landless, the class to which Taiwan's land-to-the-tiller programme belongs
 
 ## Sources
 

@@ -4,7 +4,7 @@ category: concepts
 tags: [concepts, residual-valuation, land-value, developers, house-prices]
 stub: false
 excerpt: "The standard method developers use to price land: expected sales revenue minus construction costs, finance costs, and required profit. It explains why land absorbs planning gain in full and why building costs do not set house prices."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-11-18
 ---
 
 ## Overview
@@ -24,6 +24,7 @@ The residual method also illustrates a valuation difficulty relevant to [mass-ap
 - [Betterment Levy](/wiki/betterment-levy/) — a land value capture instrument whose feasibility depends on residual-style valuation of planning-permission uplift
 - [Land Value Capture](/wiki/land-value-capture/) — the broader instrument family this valuation logic underpins
 - [Objection: Land value can't be assessed accurately](/wiki/land-cannot-be-assessed/) — the valuation-difficulty objection this method illustrates in miniature
+- [Iden, Nenov & Plaku: Inferring Land Values in Oslo](/wiki/iden-nenov-plaku-oslo-land-values/) — the residual applied as a time series: Norges Bank staff's land-value index for Oslo apartments, with its own account of what the residual sweeps in
 
 ## Sources
 

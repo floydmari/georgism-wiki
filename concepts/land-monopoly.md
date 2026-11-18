@@ -7,7 +7,7 @@ excerpt: "The structural condition in which private ownership of land — a gift
 sources: [george-1879]
 excerpt: "In Georgist analysis, land monopoly is the structural condition in which private landownership lets owners collect economic rent — value created by nature and community growth — without contributing to production, since land cannot be reproduced in response to price."
 pd_quotes: true
-last_reviewed: 2026-07-18
+last_reviewed: 2026-11-18
 ---
 
 ## The Argument
@@ -225,6 +225,7 @@ and Limits.)
 - [James Harrington](/wiki/james-harrington/) — 17th-century political theorist whose Oceana (1656) argued that political power follows the distribution of land, a structural pre-Georgist ancestor of the land-monopoly concept
 - [Henry Miller (Cattle King of California)](/wiki/henry-miller-cattle-king/) — a 19th-century case study of land monopoly built through manipulation of federal land-grant laws
 - [Pistor, The Code of Capital](/wiki/pistor-code-of-capital/) — how law itself manufactures rent-bearing assets, generalizing the land-monopoly mechanism to IP and finance
+- [Madsen, Tong & Ulubasoglu: Pro-Poor Land Reforms, Education and Fertility](/wiki/madsen-tong-ulubasoglu-pro-poor-land-reform/) — cross-country evidence that breaking up concentrated landholding in favour of the poor was followed by higher school enrollment and lower fertility, with reforms of other kinds showing no such pattern; evidence on the diagnosis of land monopoly, not on the Georgist remedy
 - [Heller & Eisenberg (1998)](/wiki/heller-eisenberg-anticommons-biomedical-research/) — the structural mirror image: rent extracted through fragmentation and blocking (the "anticommons," in biomedical patents) rather than through concentration and exclusion
 - [Pierre-Joseph Proudhon](/wiki/pierre-joseph-proudhon/) — the anarchist thinker whose 'property is theft' marks one pole of the property-rights debate Georgism's land-specific claim sits inside
 - [Johnson V Mcintosh](/wiki/johnson-v-mcintosh/) — the legal doctrine that vested Native land in the discovering sovereign

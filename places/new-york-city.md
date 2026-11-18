@@ -4,7 +4,7 @@ category: places
 tags: [places, new-york-city, land-value, henry-george, urban-land]
 stub: false
 excerpt: "The single largest concentration of measured urban land value in the United States — roughly $2.5 trillion citywide — and the site of Henry George's own 1886 run for mayor."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-11-18
 ---
 
 ## Overview
@@ -22,6 +22,10 @@ In 2026, as part of the FY2027 state budget, Governor Kathy Hochul renewed **Sec
 ## 2026: The Pied-à-Terre Surcharge
 
 From 1 July 2026 the city also levies New York's first recurring tax aimed at absentee ownership of high-value homes: an annual surcharge on one- to three-family houses valued above $5 million and on condominium and co-op units valued at $1 million or more that are nobody's primary residence, projected by the Mayor's Office at about $500 million a year. It is a tax on whole-property value rather than on land, but its exemption for every occupied primary residence makes non-occupancy of scarce locations the thing being taxed. Rates, exemptions, the two-phase valuation design forced by the city's condo and co-op assessment rules, and the August 2026 litigation are on the [dedicated page](/wiki/nyc-pied-a-terre-tax/).[7]
+
+## The Four-Class Property Tax and the 2026 Rate Amendment
+
+The city's recurring property tax works differently from the land-based levies above. Each year the city fixes a single levy and divides it among four classes of property: Class 1 (one- to three-family homes), Class 2 (all other residential property), Class 3 (utility property) and Class 4 (all other real property, mostly commercial). State law caps the growth of any class's share of the levy at five percent a year, and the rates set on 30 June 2026 for the fiscal year beginning 1 July used that cap: 20.909 per $100 of assessed value for Class 1 and 10.658 for Class 4, on a levy of about $39.9 billion.[8] Chapter 302 of the Laws of 2026 let the Council choose a lower limit for that one year, provided it acted by 1 December, and the amended tax-fixing resolution brought before the Council on 12 November would set the limit at 0.3 percent, lowering the Class 1 rate to 19.972 and raising the Class 4 rate to 10.859 while leaving the levy unchanged and cutting Class 1's share of it from 14.87 to 14.20 percent.[8] The rates apply to assessed rather than market value, so they do not describe the effective burden on any property, and none of the four classes taxes land separately from the buildings on it.
 
 ## Significance
 
@@ -47,3 +51,4 @@ New York illustrates, at extreme scale, the basic Georgist claim that a large sh
 5. Cody Cook, Aboudy Kreidieh, Shoshana Vasserman et al. (2025), "The Short-Run Effects of Congestion Pricing in New York City," NBER Working Paper 33584 — used for the 11% CBD speed increase, metro-wide spillovers, and the ≥$14.3M/week driver-welfare gain (B-claim; working paper, not yet peer-reviewed). [Wiki summary](/wiki/cook-nyc-congestion-pricing/)
 6. Niskanen Center (28 May 2026) and Greg Miller, *Progress and Poverty* (Substack), "New York Authorizes a Land Value Tax to Fund Transit and More" — used for the 2026 Section 119-r renewal and its enablement-only status (full sourcing on the [event page](/wiki/2026-state-lvt-enablement-wave/)).
 7. New York City Department of Finance, "Non-primary residence property surcharge" (official programme page), and Office of the Mayor, press release of 15 April 2026 — used for the thresholds, the July 2026 start and the $500 million projection (A-claim; full sourcing on the [event page](/wiki/nyc-pied-a-terre-tax/)).
+8. New York City Council, Res. 546 of 30 June 2026 (tax-fixing resolution for Fiscal 2027) and Res. 726 (amended and restated tax-fixing resolution, November 2026), with the Finance Division committee reports on Res. 726 and on the 0.3 percent base-proportion limit (Res. 723), served by the Council's Legistar site: [Res. 546](https://nyc.legistar1.com/nyc/attachments/db8d5d7c-17a1-4b8f-bc7f-4386f95fbd10.pdf), [Res. 726](https://nyc.legistar1.com/nyc/attachments/58f53f10-d1a5-4c39-9949-ccca7270ac85.pdf), [report on Res. 726](https://nyc.legistar1.com/nyc/attachments/1b95f8f2-f998-4cfd-a259-442308d12b1d.docx), [report on Res. 723](https://nyc.legistar1.com/nyc/attachments/c74d9f2b-d306-4596-9aef-5f3e703cb1ca.docx) — used for the four classes, the five percent statutory limit, Chapter 302 of the Laws of 2026 and its 1 December deadline, the 0.3 percent limit, the June and amended rates, the $39,885,078,591 levy and the Class 1 shares of 14.8692 and 14.2025 percent (A-claim, official texts; the Council's vote on the amended resolution is not recorded in these documents). The amendment was reported by nycpolitics.org, 12 November 2026, which located the documents (Tier 2; not relied on).

@@ -90,7 +90,10 @@
     "Economy in Context (economyincontext.org) — anonymous single-person explainer site launched October 2026; arithmetic checked and correct, but origin only; cite the statutes it summarises",
     "Kirdan Lees (Lees Economic Consulting; research fellow, Canterbury) — consultant economist; op-eds origin only",
     "Institute on Taxation and Economic Policy (ITEP) — research and advocacy think-tank; like the Tax Foundation, cite the Lincoln Institute or state primary it compiles; its own counts B-claim at best, characterisations origin only",
-    "Hudson County View (John Heinis) — Hudson County, NJ local news site; B/C-claim for reportage; cite the legislative record it reports on"
+    "Hudson County View (John Heinis) — Hudson County, NJ local news site; B/C-claim for reportage; cite the legislative record it reports on",
+    "YIMBY Action / Infill podcast (Laura Foote) — advocacy body; podcast episodes are proponent material, not support",
+    "Institute for Human Rights and Business (IHRB) / Giulio Ferrini — advocacy commentary; cite the primaries it relays",
+    "nycpolitics.org — independent civic-data outlet; locate the Council primaries and cite those"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -200,7 +203,11 @@
     "Stuart Donovan (Motu Research) — Tier 1 for his research; his op-eds are origin only",
     "Marc Jarsulic (PERI, University of Massachusetts Amherst; formerly Center for American Progress) — economist; PERI WP 642 B-claim as unrefereed working paper",
     "John H. Bowman, Daphne A. Kenyon, Adam Langley & Bethany P. Paquin (Lincoln Institute, 2009 Policy Focus Report on circuit breakers; Kenyon–Langley–Paquin 2010 Land Lines) — Tier 1 institution; B-claim as policy reports",
-    "Katie Brennan (New Jersey Assemblywoman, District 32) — A-claim for her bills' text as introduced; her rationale is her own position"
+    "Katie Brennan (New Jersey Assemblywoman, District 32) — A-claim for her bills' text as introduced; her rationale is her own position",
+    "Jakob B. Madsen, Lan A. Tong & Mehmet A. Ulubasoglu (Journal of Economic Growth 2026, pro-poor land reforms) — peer-reviewed, B-claim; land reform, not tax evidence",
+    "Anna Emilie Iden, Plamen Nenov & Sonja Plaku (Norges Bank Staff Memo 7/2026) — central-bank staff analysis, Tier 1 for its estimates; staff views, not Bank policy",
+    "Masaya Nishihata, Yohei Kobayashi & Takayuki Ishikawa (International Tax and Public Finance 2026) — peer-reviewed; cited at abstract level only",
+    "Joan Youngman (Lincoln Institute senior fellow; A Good Tax) — recognised property-tax legal scholar; the scanner's Tier 2 label was wrong; 2026 IBFD chapter not yet reachable"
   ],
   "tier3": [
     "Mark Carney (as politician)",
