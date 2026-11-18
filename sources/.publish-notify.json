@@ -1250,7 +1250,7 @@
         "oil-fund"
       ],
       "action": "updated",
-      "published_at": "2026-10-18T11:34:37.000Z",
+      "published_at": "2026-11-18T19:22:03.000Z",
       "notified": false
     },
     {
@@ -2896,8 +2896,8 @@
         "tax-compliance",
         "empirical"
       ],
-      "action": "published",
-      "published_at": "2026-11-09T19:19:59.000Z",
+      "action": "updated",
+      "published_at": "2026-11-18T19:22:05.000Z",
       "notified": false
     },
     {
@@ -3058,6 +3058,126 @@
       ],
       "action": "updated",
       "published_at": "2026-11-15T19:19:17.000Z",
+      "notified": false
+    },
+    {
+      "slug": "madsen-tong-ulubasoglu-pro-poor-land-reform",
+      "title": "Pro-Poor Land Reforms, Education and Fertility (Madsen, Tong & Ulubasoglu, 2026)",
+      "url": "https://www.progress.org/wiki/madsen-tong-ulubasoglu-pro-poor-land-reform/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-reform",
+        "land-monopoly",
+        "education",
+        "fertility",
+        "human-capital",
+        "economic-history",
+        "empirical"
+      ],
+      "action": "published",
+      "published_at": "2026-11-18T19:21:59.000Z",
+      "notified": false
+    },
+    {
+      "slug": "iden-nenov-plaku-oslo-land-values",
+      "title": "Inferring Land Values in Oslo",
+      "url": "https://www.progress.org/wiki/iden-nenov-plaku-oslo-land-values/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-value",
+        "norway",
+        "oslo",
+        "residential-land",
+        "residual-method",
+        "central-bank",
+        "housing-costs"
+      ],
+      "action": "published",
+      "published_at": "2026-11-18T19:22:00.000Z",
+      "notified": false
+    },
+    {
+      "slug": "new-york-city",
+      "title": "New York City",
+      "url": "https://www.progress.org/wiki/new-york-city/",
+      "category": "places",
+      "tags": [
+        "places",
+        "new-york-city",
+        "land-value",
+        "henry-george",
+        "urban-land"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-18T19:22:02.000Z",
+      "notified": false
+    },
+    {
+      "slug": "taiwan-land-reform-1950s",
+      "title": "Taiwan Land Reform (1950s)",
+      "url": "https://www.progress.org/wiki/taiwan-land-reform-1950s/",
+      "category": "events",
+      "tags": [
+        "land-reform",
+        "taiwan",
+        "sun-yat-sen",
+        "land-value-capture",
+        "land-to-the-tiller"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-18T19:22:06.000Z",
+      "notified": false
+    },
+    {
+      "slug": "land-monopoly",
+      "title": "Land Monopoly",
+      "url": "https://www.progress.org/wiki/land-monopoly/",
+      "category": "concepts",
+      "tags": [
+        "land-monopoly",
+        "georgism",
+        "land-value-tax",
+        "rent-seeking",
+        "political-economy"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-18T19:22:07.000Z",
+      "notified": false
+    },
+    {
+      "slug": "davis-heathcote-us-land",
+      "title": "The Price and Quantity of Residential Land in the United States",
+      "url": "https://www.progress.org/wiki/davis-heathcote-us-land/",
+      "category": "research",
+      "tags": [
+        "research",
+        "land-value",
+        "united-states",
+        "residential-land",
+        "price-index",
+        "residual-method",
+        "federal-reserve"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-18T19:22:09.000Z",
+      "notified": false
+    },
+    {
+      "slug": "residual-land-valuation",
+      "title": "Residual Land Valuation",
+      "url": "https://www.progress.org/wiki/residual-land-valuation/",
+      "category": "concepts",
+      "tags": [
+        "concepts",
+        "residual-valuation",
+        "land-value",
+        "developers",
+        "house-prices"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-18T19:22:10.000Z",
       "notified": false
     }
   ]
