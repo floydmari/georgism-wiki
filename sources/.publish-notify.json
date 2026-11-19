@@ -3143,7 +3143,7 @@
         "political-economy"
       ],
       "action": "updated",
-      "published_at": "2026-11-18T19:22:07.000Z",
+      "published_at": "2026-11-19T19:16:15.000Z",
       "notified": false
     },
     {
@@ -3178,6 +3178,42 @@
       ],
       "action": "updated",
       "published_at": "2026-11-18T19:22:10.000Z",
+      "notified": false
+    },
+    {
+      "slug": "piyajitmetta-puttanapong-thailand-land-rent-spa",
+      "title": "Structural Path Analysis of the Thai Economy Focusing on Land Rent (Piyajitmetta & Puttanapong, 2025)",
+      "url": "https://www.progress.org/wiki/piyajitmetta-puttanapong-thailand-land-rent-spa/",
+      "category": "research",
+      "tags": [
+        "research",
+        "thailand",
+        "land-rent",
+        "income-distribution",
+        "social-accounting-matrix",
+        "structural-path-analysis",
+        "empirical"
+      ],
+      "action": "published",
+      "published_at": "2026-11-19T19:16:12.000Z",
+      "notified": false
+    },
+    {
+      "slug": "asian-financial-crisis-1997",
+      "title": "Asian Financial Crisis (1997)",
+      "url": "https://www.progress.org/wiki/asian-financial-crisis-1997/",
+      "category": "events",
+      "tags": [
+        "events",
+        "asian-financial-crisis",
+        "thailand",
+        "land-speculation",
+        "boom-bust-cycle",
+        "18-year-land-cycle",
+        "imf"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-19T19:16:17.000Z",
       "notified": false
     }
   ]
