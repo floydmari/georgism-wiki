@@ -6320,3 +6320,23 @@ at abstract level rather than deferring it outright.
 
 Lint 0 errors; inventory 1044 pages, 0 orphans. Ledger: 0 pending, 526 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-19 — Who gets Thailand's land rent; two official and scholarly pages unreachable
+
+Three scanner items. The open-access Journal of Economic Structures paper by Piyajitmetta and
+Puttanapong became a research page: a 2015 Thai social accounting matrix that separates land
+rent from capital returns and traces, by structural path analysis, that land-rent income reaches
+almost only the top household groups, with the fewest indirect channels of any factor. The page
+keeps the reallocation scenarios in the authors' own modest numbers and says the exercise is
+accounting-based and models a transfer of rent, not a tax. Linked from land-monopoly and the
+Asian-crisis page.
+
+The other two were deferred on access, each after one ordinary request and no workaround: De
+Gruyter answered the Jacobson community-land-trust article with an empty script shell, and the
+Australian Taxation Office's PRRT tax-gap page returned 403. Both have SOURCE-BLOCKED leads with
+the page and sentence they would feed. Scanner labels corrected: the ATO is Tier 1, and its
+"design, not evasion" reading is an inference the ATO page would not itself make. T1 followed
+the T0 briefs on all three.
+
+Lint 0 errors; inventory 1045 pages, 0 orphans. Ledger: 0 pending, 529 consumed. Merged to
+main and Ghost-synced.

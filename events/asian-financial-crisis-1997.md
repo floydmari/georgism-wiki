@@ -4,7 +4,7 @@ category: events
 tags: [events, asian-financial-crisis, thailand, land-speculation, boom-bust-cycle, 18-year-land-cycle, imf]
 stub: false
 excerpt: "A property-led boom in Thailand collapsed into a regional currency and banking crisis in 1997, spreading across Southeast Asia — cited by Georgist writers as evidence that land speculation cycles are not a uniquely Anglo-American phenomenon."
-last_reviewed: 2026-07-12
+last_reviewed: 2026-11-19
 ---
 
 ## Overview
@@ -25,6 +25,7 @@ The investment writer Phillip J. Anderson's *[The Secret Life of Real Estate and
 - [Anderson, The Secret Life of Real Estate and Banking](/wiki/anderson-secret-life-real-estate/) — the discovery source for this page
 - [2008 Financial Crisis](/wiki/2008-financial-crisis/) — a later, better-documented instance of the same debated pattern
 - [Land Bubble](/wiki/land-bubble/) — the general phenomenon of speculative land-price inflation this crisis is cited as an example of
+- [Piyajitmetta & Puttanapong: Structural Path Analysis of the Thai Economy Focusing on Land Rent](/wiki/piyajitmetta-puttanapong-thailand-land-rent-spa/) — who receives Thailand's land rent today, traced through a 2015 social accounting matrix
 
 ## Sources
 
