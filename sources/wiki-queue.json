@@ -1,5 +1,36 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://doi.org/10.1515/bis-2026-0002",
+      "title": "Opening the Commons: Community Land Trusts as a Strategy for Geoist Land Reform",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: peer-reviewed Basic Income Studies (De Gruyter) journal article, 11 Nov 2026. Community land trusts framed as an alternative Geoist land-reform strategy where land value taxation is politically blocked \u2014 direct bridge between the wiki CLT pages and the Georgist rent-socialization thesis. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content (Opening the Commons and bis-2026-0002 needles: zero), #progressdotorg history. NOTE for dedup: Jacobson is already on the wiki via a DIFFERENT paper \u2014 Tideman and Jacobson (2026), Sharing the Burden: A Feasible Path to Land Value Taxation, cited at objections/lvt-transition-wealth-shock footnote 11 (SSRN abstract_id 7442118, queued Sep 2026). Different title, journal and DOI; do not dedup by author surname.",
+      "context": "Opening the Commons: Community Land Trusts as a Strategy for Geoist Land Reform \u2014 Martin Jacobson, Basic Income Studies (Walter de Gruyter), published 11 Nov 2026, journal article; DOI 10.1515/bis-2026-0002. Abstract: Geoists hold we have strong moral and economic reasons to equalize the rents of land, for example by taxing its economic value and allocating the proceeds as a universal basic income; land value taxes are efficient and equitable but politically intractable because they would diminish the capitalized value of land as an asset; the article explores community land trusts as an alternative strategy for socializing these land rents. Serves the community-land-trust cluster and any Georgism-to-UBI bridge content (UBI Works adjacency). Biblio verified via Crossref (api.crossref.org, journal-article, issued 2026-11-11) and the EXA-fetched De Gruyter page, fetched 2026-11-19; DOI resolves live.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-19T12:04:10.819960+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://doi.org/10.1186/s40008-025-00364-3",
+      "title": "Structural path analysis of the Thai economy focusing on land rent",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: peer-reviewed open-access Journal of Economic Structures article (Springer, vol 14, published 8 Dec 2025; CC-BY 4.0). Resurfaced 18 Nov 2026 via a Scienmag press release (aggregator URL rejected; primary canonical DOI queued). Core Georgist distributional evidence: land rent income in Thailand is the most unequally distributed factor income, concentrated among the richest households; redistribution counterfactuals (reallocating 10% and 25% of the richest households land rent) significantly reduce inequality. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content, #progressdotorg history (Piyajitmetta / Puttanapong / structural path needles: zero). NOTE for dedup: the same first author 2024 Thammasat University doctoral thesis (DOI 10.14457/tu.the.2024.1197, SAM+CGE land-rent case study of Thailand) covers overlapping ground \u2014 one citable item only, do not queue the thesis; the journal article is the peer-reviewed form.",
+      "context": "Structural path analysis of the Thai economy focusing on land rent \u2014 Pawarid Piyajitmetta and Nattapong Puttanapong, Journal of Economic Structures (Springer), vol 14, published 8 Dec 2025, open access (CC-BY 4.0); DOI 10.1186/s40008-025-00364-3. Constructs a Social Accounting Matrix for Thailand (2015 I/O base, 51 accounts) that disaggregates land rent from capital returns; applies Structural Path Analysis to trace how sectoral growth in the five highest-land-rent sectors (agriculture, real estate, manufacturing, accommodation and food services, mining) flows to household income by quintile. Findings: land rent income is heavily concentrated among the richest households (the paper cites the top ten landholders owning 61% of all titled land) and is the most unequally distributed factor income compared with labor and capital; two counterfactual multiplier scenarios reallocating 10% and 25% of the richest household land rent (35/35/25/5 shares to households 1-4) significantly reduce inequality \u2014 the poorest household real-estate sectoral multiplier rises about 30% under the 25% scenario while the richest household multipliers fall no more than about 1%. Serves the land-rent distribution and inequality cluster and any Thailand country content. Surfaced via a Scienmag press release 18 Nov 2026; primary resolved via web search and verified via Crossref (issued 2025-12-08, vol 14, CC-BY license), fetched 2026-11-19; DOI resolves live.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-19T12:04:10.819960+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.ato.gov.au/about-ato/research-and-statistics/in-detail/tax-gap/i-p-tax-gaps/petroleum-resource-rent-tax-gap",
+      "title": "Petroleum resource rent tax gap",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: official Australian Taxation Office tax-gap statistics page for the petroleum resource rent tax, updated 28 Oct 2026. Tier 3 institutional data directly serving the wiki PRRT pages (australia-mining-royalties-prrt, nassios-australia-lng-prrt-structural-limits, total-resource-rents-australia): the compliance gap is tiny (2.6% for 2023-24) \u2014 evidence that the PRRT weak-revenue pattern is a design feature of its uplift/carry-forward structure, not taxpayer evasion. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content, #progressdotorg history (ato.gov.au needle zero; PRRT hits are unrelated wiki-page-update posts).",
+      "context": "Petroleum resource rent tax gap \u2014 Australian Taxation Office (ato.gov.au), official statistics hub page, last updated 28 October 2026. Covers the 2023-24 PRRT net gap estimate: 2.6% of theoretical liability, about $40m uncollected against roughly $1.5bn expected collections; reliability rating \"Reliable\"; 3-step bottom-up model-based methodology with channel analysis and non-detection uplift; published series 2017-18 to 2023-24 (1.7% rising to 2.6-2.7%); no gross gap published due to the small taxpayer population. Directly complements research/australia-mining-royalties-prrt (which cites ATO transparency reports putting PRRT payable at $1,996.6m) and research/nassios-australia-lng-prrt-structural-limits: near-full compliance means the structural revenue weakness of the PRRT is built into its design (uplift rates, carried-forward deductible expenditure), not non-compliance. URL VERIFIED LIVE 2026-11-19: direct curl from the scan environment is Akamai-walled (Access Denied page), but web_extract fetched the page successfully \u2014 do not mark this URL dead; figures cross-checked against the ATO annual-report tax-gap tables on transparency.gov.au.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-19T12:04:10.819960+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6581,7 +6612,7 @@
       "wiki_page": "places/new-york-city.md"
     }
   ],
-  "last_updated": "2026-11-19T11:03:24.462955+00:00",
+  "last_updated": "2026-11-19T12:04:10.819960+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 3
 }
