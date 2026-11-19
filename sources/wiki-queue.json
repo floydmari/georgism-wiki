@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://blog.landeconomics.org/p/opportunity-for-land-value-tax-in",
-      "title": "Opportunity for Land Value Tax in New Zealand",
-      "source": "internet-scan",
-      "reason": "rss (progressandpoverty.substack.com, keyword: strong keyword)",
-      "context": "Opportunity for Land Value Tax in New Zealand",
-      "author": "research-scanner",
-      "queued_at": "2026-11-19T11:00:47.905346+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6592,7 +6581,7 @@
       "wiki_page": "places/new-york-city.md"
     }
   ],
-  "last_updated": "2026-11-19T11:01:10Z",
+  "last_updated": "2026-11-19T11:03:24.462955+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 1
+  "total": 0
 }
