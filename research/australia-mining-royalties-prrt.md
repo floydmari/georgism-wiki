@@ -5,7 +5,7 @@ subcategory: wiki-research-resources
 tags: [research, resource-rents, australia, mining, royalties, prrt, mrrt, taxation]
 authors: []
 year: 2026
-last_reviewed: 2026-09-03
+last_reviewed: 2026-11-20
 source_url: https://kurums.com/australia-mining-royalties-prrt-resource-rent/
 tier: supplementary
 stub: false
@@ -129,6 +129,7 @@ design](/wiki/mintz-chen-capturing-resource-rents/) would predict as a likely fa
 - [Nassios: Structural Limits to Resource Rent Taxation — Australia's LNG Industry](/wiki/nassios-australia-lng-prrt-structural-limits/) — a follow-up structural diagnosis of PRRT's LNG-sector shortfall and reform options
 - [Dwyer: The Taxable Capacity of Australian Land and Resources](/wiki/dwyer-taxable-capacity-australia/)
 - [Mintz & Chen: Capturing Economic Rents from Resources through Royalties and Taxes](/wiki/mintz-chen-capturing-resource-rents/)
+- [Wielga, *Australia's Resource Wealth Giveaway* (Prosper Australia, 2026)](/wiki/wielga-prosper-resource-wealth-giveaway/) — a Georgist think-tank's commissioned public-capture ratios (petroleum 14%, mining 26% of sector value added over 2014–15 to 2023–24) with its revenue-gap arithmetic; status stated on that page
 
 ## Sources
 

@@ -29,6 +29,7 @@ Prosper Australia is a model of evidence-driven Georgist advocacy, supplying ori
 - [Speculative Vacancies 11: Empty Homes in Melbourne](/wiki/prosper-speculative-vacancies/) — the 2023/2024 vacancy findings in depth
 - [Renegade Economists Podcast](/wiki/renegade-economists-podcast/) · [The Georgist Podcourse (Earthsharing)](/wiki/earthsharing-podcourse/) — Prosper's outreach programming
 - [Karl Fitzgerald](/wiki/karl-fitzgerald/) — Prosper's longtime researcher and Renegade Economists host
+- [Wielga, *Australia's Resource Wealth Giveaway* (Prosper Australia, 2026)](/wiki/wielga-prosper-resource-wealth-giveaway/) — the institute's 2026 commissioned estimate of how much resource rent Australian governments capture against Norway, Alaska and Queensland benchmarks
 - [New South Wales, Australia](/wiki/new-south-wales/) · [Land Monopoly](/wiki/land-monopoly/) · [Land Value Tax](/wiki/land-value-tax/)
 
 ## Sources

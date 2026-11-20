@@ -4,7 +4,7 @@ category: places
 tags: [places, australia, land-tax, henry-george, unimproved-value]
 stub: false
 excerpt: "Australia has one of the world's longest continuous histories of land taxation, running from 1890s state land taxes through a 1910–1952 federal land tax to today's state land taxes and the Henry Tax Review's land-tax recommendations."
-last_reviewed: 2026-08-21
+last_reviewed: 2026-11-20
 ---
 
 ## Overview
@@ -57,6 +57,7 @@ Australia's century-plus experience — a working federal land tax, its politica
 
 - [New South Wales, Australia](/wiki/new-south-wales/) — the state with the longest-running Australian land tax
 - [Prosper Australia](/wiki/prosper-australia/) — Australia's leading Georgist research and advocacy organisation
+- [Wielga, *Australia's Resource Wealth Giveaway* (Prosper Australia, 2026)](/wiki/wielga-prosper-resource-wealth-giveaway/) — its 2026 commissioned estimate of public capture of mineral and petroleum rents
 - [The Taxable Capacity of Australian Land and Resources (Dwyer)](/wiki/dwyer-taxable-capacity-australia/) — the key Australian revenue-capacity study
 - [Land Value Tax](/wiki/land-value-tax/) — the general policy concept
 - [Boom-Bust Cycle](/wiki/boom-bust-cycle/) — Harrison's account of Australia's post-1952 cycle

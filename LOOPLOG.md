@@ -6352,3 +6352,21 @@ the author's own ten-year swap arithmetic. No page touched. T1 followed the T0 b
 
 Lint 0 errors; inventory 1045 pages, 0 orphans. Ledger: 0 pending, 531 consumed. Merged to main;
 nothing to Ghost-sync.
+
+## 2026-11-20 (evening) — Prosper's resource-capture report, carried as what it is
+
+One scanner item: Richard Wielga's *Australia's Resource Wealth Giveaway*, commissioned by the
+Prosper Australia Research Institute (October 2026; full PDF open). It became a research page on
+the same footing as the 2013 Total Resource Rents report: a Tier 2 commissioned estimate whose
+status is stated in the first sentence and whose figures are the report's own. The page gives the
+public-capture ratio (all government take over sector value added, ten-year totals), the 14%
+petroleum and 25.7% mining results, the adjusted Norway and Alaska benchmarks with their
+alternative readings, the Queensland coal result with its three-year window and the report's own
+30% ten-year figure, and the static A$44–46bn gap arithmetic. The Nuances section says plainly
+that Wielga's 14% and Nassios's roughly 15% are on different bases and do not corroborate each
+other; the Nassios page's new See Also entry says the same. Five inbound links. The scanner's
+premises about uplift, the Queensland window and "no investment collapse" were corrected in the
+ledger. T1 followed the T0 brief.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 532 consumed. Merged to main
+and Ghost-synced.

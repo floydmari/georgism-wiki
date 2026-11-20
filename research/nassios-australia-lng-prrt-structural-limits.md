@@ -4,7 +4,7 @@ authors:
 bears_on_objections: []
 category: research
 excerpt: "Despite top-3 LNG exporter status, Australia's Petroleum Resource Rent Tax collections stay low: PRRT revenue rose from A$1.5bn to A$2.3bn (2014-2023) while a rent proxy rose from A$4.6bn to A$18.1bn. The paper attributes this to transfer pricing and deduction deferral, not the rate."
-last_reviewed: 2026-08-29
+last_reviewed: 2026-11-20
 source_url: https://www.copsmodels.com/ftp/workpapr/g-372.pdf
 stub: false
 subcategory: wiki-research-resources
@@ -93,6 +93,7 @@ rent-capture literature already documents.
 - [Resource Rents](/wiki/resource-rents/)
 - [Cash-Flow Tax](/wiki/cash-flow-tax/)
 - [Tarras-Wahlberg & Uggla: A Golden Limit to Neo-Extractivism in Bolivia](/wiki/tarras-wahlberg-uggla-bolivia-gold-rent/)
+- [Wielga, *Australia's Resource Wealth Giveaway* (Prosper Australia, 2026)](/wiki/wielga-prosper-resource-wealth-giveaway/) — an advocacy-commissioned ratio of all government take to sector value added; built on a different base from the rent-capture rate above, so the two figures are not mutually corroborating
 
 ## Sources
 

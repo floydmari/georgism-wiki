@@ -8,7 +8,7 @@ excerpt: Prosper Australia's 2013 report (by Karl Fitzgerald) tallying the econo
   rents of Australian land, natural resources, and licensed monopolies at 23.6% of
   GDP, and finding that rent taxation could raise 87% ($340.7B) of the $390.1B needed
   to run all three levels of government in 2011-12 — rising.
-last_reviewed: 2026-07-12
+last_reviewed: 2026-11-20
 source_url: https://www.prosper.org.au/wp-content/uploads/2013/12/TRRA_2013_final.pdf
 stub: false
 subcategory: wiki-research-lvt
@@ -104,6 +104,7 @@ Illustrative micro-level arithmetic, verbatim from the report: "In 2012, the med
 - [Land rent could fund a large share of government](/wiki/land-rent-could-fund-government/) — the outcome this bears on
 - [Objection: LVT can't raise enough revenue](/wiki/lvt-not-enough-revenue/) — the steelmanned opposing view
 - [Gaffney, "The Hidden Taxable Capacity of Land"](/wiki/gaffney-hidden-taxable-capacity/) — the US-side optimistic argument
+- [Wielga, *Australia's Resource Wealth Giveaway* (Prosper Australia, 2026)](/wiki/wielga-prosper-resource-wealth-giveaway/) — Prosper's 2026 successor study, narrowed to mineral and petroleum rents and benchmarked against other jurisdictions' capture ratios
 
 ## Sources
 
