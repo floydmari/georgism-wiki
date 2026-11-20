@@ -453,7 +453,7 @@
         "unimproved-value"
       ],
       "action": "updated",
-      "published_at": "2026-11-13T11:15:25.000Z",
+      "published_at": "2026-11-20T19:16:46.000Z",
       "notified": false
     },
     {
@@ -846,7 +846,7 @@
         "taxation"
       ],
       "action": "updated",
-      "published_at": "2026-10-14T11:32:08.000Z",
+      "published_at": "2026-11-20T19:16:40.000Z",
       "notified": false
     },
     {
@@ -879,7 +879,7 @@
         "tax-design"
       ],
       "action": "updated",
-      "published_at": "2026-10-31T03:14:24.000Z",
+      "published_at": "2026-11-20T19:16:42.000Z",
       "notified": false
     },
     {
@@ -3214,6 +3214,65 @@
       ],
       "action": "updated",
       "published_at": "2026-11-19T19:16:17.000Z",
+      "notified": false
+    },
+    {
+      "slug": "wielga-prosper-resource-wealth-giveaway",
+      "title": "Australia's Resource Wealth Giveaway (Wielga / Prosper Australia Research Institute)",
+      "url": "https://www.progress.org/wiki/wielga-prosper-resource-wealth-giveaway/",
+      "category": "research",
+      "tags": [
+        "research",
+        "resource-rents",
+        "australia",
+        "royalties",
+        "petroleum",
+        "mining",
+        "prrt",
+        "norway",
+        "alaska",
+        "queensland",
+        "advocacy",
+        "prosper-australia"
+      ],
+      "action": "published",
+      "published_at": "2026-11-20T19:16:36.000Z",
+      "notified": false
+    },
+    {
+      "slug": "prosper-australia",
+      "title": "Prosper Australia",
+      "url": "https://www.progress.org/wiki/prosper-australia/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "australia",
+        "advocacy",
+        "research",
+        "speculative-vacancies"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-20T19:16:38.000Z",
+      "notified": false
+    },
+    {
+      "slug": "total-resource-rents-australia",
+      "title": "Total Resource Rents of Australia (Fitzgerald / Prosper Australia)",
+      "url": "https://www.progress.org/wiki/total-resource-rents-australia/",
+      "category": "research",
+      "tags": [
+        "research",
+        "revenue-capacity",
+        "australia",
+        "land-rent",
+        "resource-rents",
+        "monopoly",
+        "natural-monopolies",
+        "advocacy",
+        "prosper-australia"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-20T19:16:44.000Z",
       "notified": false
     }
   ]
