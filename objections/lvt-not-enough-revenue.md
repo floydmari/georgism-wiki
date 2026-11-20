@@ -6,7 +6,7 @@ stub: false
 status: "Partly addressed — LVT is a major revenue source; full replacement is contested"
 excerpt: "The objection that land rent is too small to fund modern government — Krugman's and Blaug's versions steelmanned — and the responses around hidden rent, ATCOR, and realistic revenue targets."
 pd_quotes: true
-last_reviewed: 2026-07-18
+last_reviewed: 2026-11-20
 ---
 
 ## The Objection
@@ -84,7 +84,10 @@ advocates concede full replacement is uncertain:
    Prosper Australia's line-by-line
    [Total Resource Rents of Australia](/wiki/total-resource-rents-australia/) tallies
    land, resource and monopoly rents at 23.6% of GDP — enough, on its own
-   accounting, to cover 87% of all three levels of government. The wiki's
+   accounting, to cover 87% of all three levels of government, and its 2026
+   [resource-capture report](/wiki/wielga-prosper-resource-wealth-giveaway/)
+   puts the mineral and petroleum shortfall alone at A$44–46 billion a year
+   against Norwegian, Alaskan and Queensland benchmarks. The wiki's
    [full evidence page](/wiki/land-rent-could-fund-government/) carries the range
    of estimates with their assumptions.
 3. **[ATCOR](/wiki/atcor/) expands the base.** Because other taxes ultimately fall
