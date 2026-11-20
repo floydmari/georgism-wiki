@@ -6340,3 +6340,15 @@ the T0 briefs on all three.
 
 Lint 0 errors; inventory 1045 pages, 0 orphans. Ledger: 0 pending, 529 consumed. Merged to
 main and Ghost-synced.
+
+## 2026-11-20 — Two opinion pieces rejected
+
+Two items from the influencer scan, both fully readable and both rejected as Tier 2 restatement.
+Brandon McGinley's Post-Gazette column urges Pittsburgh to consider reviving its split-rate tax but
+names no proposal, official or document; its "seven times" vacant-lot example is an anonymised
+illustration and its "7-to-1" peak ratio is unsourced and at odds with the Pittsburgh page. David
+Belle's FINK explainer gathers quotations the wiki already carries with primary locators and adds
+the author's own ten-year swap arithmetic. No page touched. T1 followed the T0 briefs.
+
+Lint 0 errors; inventory 1045 pages, 0 orphans. Ledger: 0 pending, 531 consumed. Merged to main;
+nothing to Ghost-sync.

@@ -1,0 +1,60 @@
+[
+ {
+  "url": "https://www.post-gazette.com/pittsburgh/pittsburgh-finances-vacant-land-3KJIKFE22JHDXBVMWVBU45X2GI/",
+  "title": "Brandon McGinley: The solution to Pittsburgh's financial problems may be in its past (Pittsburgh Post-Gazette, 19 Nov 2026)",
+  "what_was_fetched": "One ordinary curl request returned HTTP 200 with the full article text (about 10.7k chars after stripping HTML); no paywall teaser. Saved to fetched/pg.txt (raw fetched/pg.html).",
+  "verdict": "REJECT",
+  "verdict_reason": "Signed opinion column. No new verifiable 2026 event: no mayoral or council proposal, no budget document, no named official, no legislation. It argues for reviving the split-rate tax and closes by saying a reassessment is 'on the horizon' and Pittsburgh should 'consider' it. The only concrete data points are the author's own unnamed-parcel illustration and an unsourced 7-to-1 historical ratio, which conflicts with the wiki's Tier 1-backed figures. Restates arguments the wiki already holds (§4c). Not a notable event like an editorial-board endorsement.",
+  "claim_grade": "D for the unnamed-parcel illustration (anecdote, not reproducible); C for the 7-to-1 ratio (unsourced, contradicts wiki). §4c: Tier 2/3 op-ed columnist, origin/proponent only, never support. McGinley is a named columnist and the Post-Gazette's assistant managing editor for opinion & community (formerly editorial page editor; 2024 Pulitzer finalist, Editorial Writing, per his byline). Not the editorial board; the piece is not an institutional endorsement.",
+  "content_summary": [
+   "Byline: Brandon McGinley, 19 Nov 2026 4:00 a.m. EST; column in a series (other McGinley columns 10, 12, 17 Nov 2026).",
+   "Opening illustration: two unnamed adjacent Uptown parcels. Restored townhome 'valued by Allegheny County at over $220,000' vs vacant developer-owned parcel 'around $30,000'; hence 'seven times more' tax. He declines to name the street or owners, so there is no assessment record to check. It is his own illustration, presented as 'representative'. Note 220/30 is about 7.3x on total assessed value; it is not a land-value comparison, and the vacant parcel's value is all land.",
+   "Pittsburgh used land value tax 'for nearly 90 years until 2001' (consistent with wiki 1913-2001).",
+   "'Pittsburgh's multiple topped out at 7-to-1 in the depths of the steel crisis' (no source). Wiki says about 5x in the 1980s, about 6:1 in force since 1989 and in the 2000 rate-setting (places/pittsburgh.md lines 20, 32). Discrepancy.",
+   "Hypothetical: $500,000 rental duplex raising parcel value $600,000 and tax by $16,000/yr; over 30 years taxes 'essentially double' construction cost. Author's own arithmetic, no source.",
+   "Repeal attributed to 'the acrimonious tax-and-assessment battle of 2000-2001' after a jump in land values; concerns about manipulability; winners/losers (renters, middle-class homeowners, Downtown commercial; losers vacant-land owners and homeowners in desirable neighborhoods).",
+   "Ends: with 'overlapping fiscal crises and a major reassessment on the horizon' this is 'a unique opportunity' to consider the policy. No named proponent or timeline."
+  ],
+  "existing_wiki_coverage": "places/pittsburgh.md already covers 1913 adoption, 2:1 hold to 1979, 1979-80 increase to about 5x, about 6:1 by 1989 and 2000, the 2000-01 reassessment backlash and repeal, post-repeal record, and a '2026 Assessment Crisis' section (county unreassessed since 2012, August 2026 court order, Pro-Housing Pittsburgh/OpenAVMKit report by Billings and Schwartz, Greg Miller / Progress and Poverty source, footnote 6). research/miller-hoskins-college-town-lvt.md exists. Hartzok 1997 is cited in pittsburgh.md fn 2 and is Tier 2 per the editor's note. Nothing in the column adds to this.",
+  "scanner_premise_errors": [
+   "'seven times the tax of an adjacent vacant lot' is framed as a fact; it is the author's own anonymised illustration (parcels unnamed, owners unnamed), not a cited assessment record. Also it is an assessed-value ratio (about $220k vs $30k), so the tax ratio follows only if the same millage applies to both.",
+   "Context omits that McGinley is a named columnist and a Post-Gazette opinion editor, not the editorial board.",
+   "'Op-ed for reviving' is accurate in spirit but the piece is more hedged: it lays out objections and ends by urging consideration, not a firm endorsement.",
+   "The 'used for about 90 years until 2001' premise is fine (article says 'nearly 90 years'; 1913-2001 is 88)."
+  ],
+  "uncertainties": [
+   "Whether the unnamed parcels exist as described; unverifiable by design.",
+   "Source of '7-to-1'; the wiki's own figures say about 6:1 peak. Could reflect a different measure (rate ratio in a specific year), unresolved.",
+   "The 'major reassessment on the horizon' refers presumably to Allegheny County's court-ordered reassessment, already on the wiki page; the column gives no new date or detail."
+  ],
+  "suggested_text": null
+ },
+ {
+  "url": "https://fink.money/post/georgism-land-value-tax",
+  "title": "David Belle: Land value tax in the UK and why Georgism is the way out (FINK, 15 Nov 2026)",
+  "what_was_fetched": "One ordinary curl request returned HTTP 200 with the full long-form text (about 88k chars after stripping HTML; '57 min read'), including a sources list. Saved to fetched/fink.txt (raw fetched/fink.html).",
+  "verdict": "REJECT",
+  "verdict_reason": "Fintech/investor-education content-marketing explainer by a site founder; Tier 2 under §4c. The quotes it assembles (Smith, Mill, Churchill 1909, Friedman 1978, Mirrlees Review, Martin Wolf 2023) are already on the wiki or sourceable directly to their Tier 1 originals, and its own modelling (10-year swap, Plans A/B/C, 'FINK's illustrative model, not an official forecast') is author-built, not peer reviewed or official. No new verifiable UK event (no bill, Treasury consultation or named MP motion) located; the only 2026 political content is already on places/united-kingdom.md (Burnham). Restatement of held arguments is a REJECT.",
+  "claim_grade": "D for the author's own model outputs and 'my sum' figures (unreviewed, assumption-driven); B-/C for sourced inputs it cites (ONS, OBR, CMA, gov.uk) which should be taken from those primaries instead. §4c: Tier 2. FINK is a personal-finance/markets education brand ('Markets Talk, We Translate', @Fink_Money, footer 'Education, not financial advice. Capital at risk'). Belle's bio: founded FINK in 2019, 'more than 15 years in broking, markets and fintech', runs his own macro book; media mentions FT Adviser, This is Money, Daily Express, GB News. Not on people-tiers.json; judged by rubric as practitioner-author/content marketing.",
+  "content_summary": [
+   "Framing: follow-up to the author's 'Fix the UK' report; 'Tax the plot, not the house on it'; ten-year phase-in; effect on reader's tax bill (lines 8, 18-40).",
+   "Quote gallery: Adam Smith (Wealth of Nations V.2), Mill, Tolstoy (A Great Iniquity, Times 1 Aug 1905), Churchill (King's Theatre, Edinburgh, 17 July 1909: 'He renders no service to the community...'), Friedman ('the least bad tax is the property tax on the unimproved value of land...', Human Events interview 18 Nov 1978, reprinted Times Herald, Norristown, 1 Dec 1978), Mirrlees Review ('There is a strong case for introducing a land value tax', Tax by Design ch.16), Martin Wolf (FT, 5 Feb 2023).",
+   "UK problem: council tax still on 1 April 1991 values; business rates tax buildings; 60% marginal rate on GBP100,000-125,140; UC taper about 68%; CMA Feb 2024: 11 biggest housebuilders held about 1.17m plots in 2022 (CMA itself blamed planning more than hoarding).",
+   "Politics: Lib Dem 2024 manifesto Commercial Landowner Levy; Greens 2024 long-term LVT aim; Mirrlees wanted business rates and stamp duty on business property replaced; towns allowed to tax land harder than buildings since 1913 and Harrisburg 'about six times' in 2026 (cites landeconomics.org).",
+   "Sizing (author's sums): ONS UK land GBP6.9tn; 1.5% of land value (GBP105.6bn) would cover council tax, business rates and stamp duty; 3% raises about GBP207bn, covering those plus CGT with about GBP76bn left; central view that it covers property taxes, CGT and about a tenth of income tax/NI by year 10.",
+   "Transition model: stamp duty scrapped year 1, home land tax cannot start until every plot valued; bridge debt about GBP56bn by year 3; land tax rate rises 3.0% (year 4) to 10.9% (year 10) as land values fall about 69%; Plans A (Flat 20), B (Flat 10), C (author's preferred, with NIT/health levy); extensive negative-income-tax and growth-channel modelling. Many of these are FINK's own illustrative outputs."
+  ],
+  "existing_wiki_coverage": "people/milton-friedman.md already carries the 1978 'least bad tax' quote with the Times Herald (Norristown, 1 Dec 1978) locator via School of Cooperative Individualism. people/winston-churchill.md covers the 1909-10 campaign and a 'Landlord Sits Still' section. places/united-kingdom.md (reviewed 2026-10-30) covers the 2026 Burnham LVT moment, Muellbauer's Tier 1 design, Henry George Foundation essays and the IFS Deaton Review. Mirrlees and Smith/Mill are covered on canonical pages (digest shows people/milton-friedman and the not-widely-adopted objection page). No wiki page cites fink.money or Belle. Harrisburg 'about six times' is already on places/harrisburg-pennsylvania.md.",
+  "scanner_premise_errors": [
+   "Context calls it 'long-form UK explainer' only; it is also a fintech/investor-education marketing piece with the author's own multi-plan fiscal model, which is the main non-restatement content and the least reliable part (Tier 2, author-built).",
+   "Context lists 'Smith, Churchill, Mill and Friedman' but the piece also quotes Tolstoy, the Mirrlees Review and Martin Wolf.",
+   "'Phase-in over ten years' is the author's own modelling horizon, not a proposed or official UK policy."
+  ],
+  "uncertainties": [
+   "Not checked: individual OBR/ONS figures against primaries; none is needed for a REJECT.",
+   "The Martin Wolf FT 5 Feb 2023 quote and Mirrlees ch.16 quote were not verified at source (only reported by FINK).",
+   "Any worthwhile fact (e.g. CMA land-bank count, ONS land value GBP6.9tn) could be pulled from the ONS/CMA primaries directly if a UK page wants it; FINK should not be cited as support."
+  ],
+  "suggested_text": null
+ }
+]

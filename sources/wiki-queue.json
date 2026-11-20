@@ -1,26 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://www.post-gazette.com/pittsburgh/pittsburgh-finances-vacant-land-3KJIKFE22JHDXBVMWVBU45X2GI/",
-      "title": "The solution to Pittsburgh's financial problems may be in its past",
-      "source": "influencer-influencing",
-      "reason": "unknown domain with keyword (land value)",
-      "context": "Brandon McGinley, Pittsburgh Post-Gazette, 19 Nov 2026. Op-ed for reviving Pittsburgh's split-rate land value tax, used for about 90 years until 2001: a restored townhome pays seven times the tax of an adjacent vacant lot. Live URL verified 2026-11-20 (HTTP 200, full text fetched).",
-      "author": "UNYCKRMC6",
-      "queued_at": "2026-11-20T11:00:34.962868+00:00",
-      "reported": false
-    },
-    {
-      "url": "https://fink.money/post/georgism-land-value-tax",
-      "title": "Land value tax in the UK and why Georgism is the way out",
-      "source": "influencer-influencing",
-      "reason": "unknown domain with keyword (georgism)",
-      "context": "David Belle, FINK, 15 Nov 2026. Long-form UK explainer on land value tax and Georgism: what Smith, Churchill, Mill and Friedman said about taxing land, what an LVT swap would fix in Britain, phase-in over ten years. Live URL verified 2026-11-20 (HTTP 200, full text fetched).",
-      "author": "UNYCKRMC6",
-      "queued_at": "2026-11-20T11:00:34.962960+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6640,6 +6619,32 @@
       "verdict": "rejected",
       "triage_date": "2026-11-19",
       "notes": "deferred 2026-11-19 — ato.gov.au returned HTTP 403 (Akamai) to the single ordinary request; no figure verified, no workaround attempted. Scanner premises: the ATO is Tier 1, not Tier 3; 'weak revenue is design, not evasion' is an inference, since a tax gap measures compliance with the law as written; the scanner's own series (1.7% rising to 2.6–2.7%) is a rising gap. The design point is already sourced on research/nassios-australia-lng-prrt-structural-limits.md. BACKLOG lead: confirm the 2023–24 net gap from a reachable official copy (ATO annual report on transparency.gov.au) and add one sentence to the 'What the PRRT Raises' section of research/australia-mining-royalties-prrt.md."
+    },
+    {
+      "url": "https://www.post-gazette.com/pittsburgh/pittsburgh-finances-vacant-land-3KJIKFE22JHDXBVMWVBU45X2GI/",
+      "title": "The solution to Pittsburgh's financial problems may be in its past",
+      "source": "influencer-influencing",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "Brandon McGinley, Pittsburgh Post-Gazette, 19 Nov 2026. Op-ed for reviving Pittsburgh's split-rate land value tax, used for about 90 years until 2001: a restored townhome pays seven times the tax of an adjacent vacant lot. Live URL verified 2026-11-20 (HTTP 200, full text fetched).",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-11-20T11:00:34.962868+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-11-20",
+      "notes": "Full text served to one ordinary request. Signed opinion column (McGinley is a columnist and opinion editor, not the editorial board) urging Pittsburgh to 'consider' reviving split-rate taxation as a reassessment nears; no mayor, council member, budget document or official proposal named. Restates what places/pittsburgh.md already carries, including the 2026 assessment crisis. The 'seven times' example is an anonymised illustration from county assessed values (about $220k vs $30k), not a cited record; the claim that the rate ratio 'topped out at 7-to-1' is unsourced and conflicts with the page's ~5x (1980s) and ~6:1 (1989, 2000–01). Tier 2; rejected."
+    },
+    {
+      "url": "https://fink.money/post/georgism-land-value-tax",
+      "title": "Land value tax in the UK and why Georgism is the way out",
+      "source": "influencer-influencing",
+      "reason": "unknown domain with keyword (georgism)",
+      "context": "David Belle, FINK, 15 Nov 2026. Long-form UK explainer on land value tax and Georgism: what Smith, Churchill, Mill and Friedman said about taxing land, what an LVT swap would fix in Britain, phase-in over ten years. Live URL verified 2026-11-20 (HTTP 200, full text fetched).",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-11-20T11:00:34.962960+00:00",
+      "reported": false,
+      "verdict": "rejected",
+      "triage_date": "2026-11-20",
+      "notes": "Full text served to one ordinary request. FINK is a markets and personal-finance education brand ('Education, not financial advice'); Belle is its founder. Explainer assembling quotes the wiki already holds with Tier 1 locators (Friedman 1978 on people/milton-friedman.md; Churchill 1909 on people/winston-churchill.md; Burnham 2026 on places/united-kingdom.md) plus the author's own fiscal arithmetic and a ten-year swap model; no UK bill, consultation or motion. Scanner premise: the ten-year phase-in is the author's modelling horizon, not a proposal. Tier 2; rejected."
     }
   ],
   "last_updated": "2026-11-20T11:01:52Z",
