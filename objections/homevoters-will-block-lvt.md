@@ -5,7 +5,7 @@ tags: [objections, political-economy, homevoter, fischel, feasibility, transitio
 stub: false
 status: "Substantially valid as politics — the serious responses are design responses"
 excerpt: "The political-economy objection, steelmanned via Fischel's Homevoter Hypothesis: homeowners' dominant, undiversifiable asset makes them the decisive local voting bloc, and they rationally oppose any tax that capitalizes into lower home values — which a land value tax does by design."
-last_reviewed: 2026-11-02
+last_reviewed: 2026-11-22
 ---
 
 ## The Objection
@@ -46,6 +46,8 @@ the federal valuation model, councils run by homeowner-friendly parties in those
 states raised their multipliers about 15 percentage points more than comparable
 councils elsewhere.[3]
 
+The 2026 wave of state property-tax relief in the United States shows the same mechanism working on the existing tax. David Schleicher of Yale Law School argues that homeowners whose houses appreciated after 2020 pressed legislatures to shift the burden onto commercial and rental property, because the property tax is a tax on wealth and state and local politics are homeowner-dominated; the measures themselves are on the [Proposition 13](/wiki/proposition-13/) page.[4]
+
 ## The Response
 
 Georgist and allied responses are **design responses**, conceding the political
@@ -57,9 +59,9 @@ diagnosis while disputing inevitability:
    *less*; the net losers are owners of high-land-share property — parking lots,
    vacant land, prime commercial sites. The
    [Detroit LVT proposal](/wiki/detroit-lvt-proposal/) was marketed exactly this
-   way (a tax cut for most homeowners), and the distributional studies the wiki
-   carries ([Plummer](/wiki/plummer-lvt-distribution/);
-   [Bowman & Bell](/wiki/bowman-bell-lvt-distribution/)) show incidence turning on
+   way (a tax cut for most homeowners), and the distributional studies by
+   [Plummer](/wiki/plummer-lvt-distribution/) and
+   [Bowman & Bell](/wiki/bowman-bell-lvt-distribution/) show incidence turning on
    land-share, not income, within cities.
 2. **Deferral and phase-in blunt the asset shock.** Liquidity-protecting designs
    (deferral to sale, long phase-ins, homestead land allowances) target the
@@ -94,8 +96,8 @@ diagnosis while disputing inevitability:
 ## Net Assessment
 
 As economics, the objection concedes everything Georgists claim (the tax is
-non-shiftable and capitalizes). As politics, it is the **strongest objection on
-the wiki**: the homevoter mechanism is well-documented, and the movement's serious
+non-shiftable and capitalizes). As politics, it is the **strongest of the
+objections**: the homevoter mechanism is well-documented, and the movement's serious
 answers are distributional design and coalition timing, not denial. Honest
 advocacy treats political feasibility as a first-order design constraint, not an
 afterthought.
@@ -139,3 +141,4 @@ afterthought.
    No. 13067, [doi:10.65864/4vgkrlimtj](https://doi.org/10.65864/4vgkrlimtj) —
    used for the triple-difference estimate on municipal multipliers (B-claim;
    unrefereed academic working paper; fuller treatment on [Germany](/wiki/germany/)).
+4. David Schleicher (2026), "The Great American Property Tax Freak Out," SSRN working paper 7377158, Yale Law School, posted 1 September 2026. [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7377158) — used for the homeowner-politics explanation of the 2026 relief wave (D-claim, the author's interpretation, attributed; Tier 1 academic standing; unrefereed essay; abstract as recorded in the Crossref metadata for the DOI; full text not consulted).

@@ -6370,3 +6370,20 @@ ledger. T1 followed the T0 brief.
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 532 consumed. Merged to main
 and Ghost-synced.
+
+## 2026-11-22 — Schleicher's reading of the revolt wave; a Chinese rent-dissipation paper deferred
+
+Two scanner items, both refused at the publisher on one ordinary request. For Schleicher's SSRN
+essay the abstract was available from Crossref's open metadata, which is enough to carry his
+interpretation as his: the Proposition 13 page's revolt-wave section now ends with an attributed
+paragraph on the wealth-tax reading of homeowner politics, the burden shift to commercial and
+rental property, and the predicted effects on state control, zoning and housing costs, and the
+homevoters objection page gains one sentence pointing there. Two "the wiki" self-references on
+the homevoters page were removed in passing. Jieming Zhu's Eurasian Geography and Economics
+article has no Crossref abstract, so nothing verifiable was in hand; T1 overrode the T0 brief's
+ENRICH verdict (which rested on the scanner's relayed abstract) and deferred it with a lead. The
+scanner's claim to have retrieved full text by an alternate fetch is outside the access policy
+and was not reproduced.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 534 consumed. Merged to main
+and Ghost-synced.
