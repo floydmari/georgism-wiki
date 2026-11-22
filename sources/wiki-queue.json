@@ -8,7 +8,8 @@
       "context": "Social justice in spatial change: mechanisms of land rent dissipation and collective spatial governance in common urban communities in China's high-density metropolises \u2014 Jieming Zhu, City University of Macau. Eurasian Geography and Economics (Taylor & Francis / Informa UK): received 13 Jan 2024, accepted 06 Nov 2026, published online 19 Nov 2026. Abstract: spatial justice debated via land rent as key notion; spatial change and land-rent variation interrelated, mediated by land-rights-based spatial governance; land rent dissipation exacerbates deterioration of spatial quality, leading to social segregation; empirical investigations + census data across three neighborhoods \u2014 Shipai village (Guangzhou) with inadequate spatial governance, an aging physically deteriorated Shanghai neighborhood cluster with deficient management, and another Shanghai old urban neighborhood cluster demonstrating tacit bottom-up collective coordination; bottom-up collective spatial governance is the defining factor maintaining inclusive communities and achieving spatial justice. EXA returned the tandfonline.com/doi/full URL with the site suffix 'Vol 0, No 0 - Get Access' appended to the title \u2014 the real title is the page H1 (2026-10-31 lesson). tandfonline.com returns 403 to curl from this environment (bot wall, NOT dead \u2014 full text retrieved via alternate fetch 2026-11-22; loop agent: do not repair the canonical doi.org URL). The tandfonline.com landing-page form is bucketed in rejected_dupe so the daily EXA resurface auto-dupes by URL.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-22T12:04:56.341790+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1795349138.113509"
     },
     {
       "url": "https://doi.org/10.2139/ssrn.7377158",
@@ -18,7 +19,8 @@
       "context": "The Great American Property Tax Freak Out \u2014 David Schleicher, Yale Law School. SSRN essay, 32 pages, posted 1 Sep 2026 (date written 30 Aug 2026). Abstract: while attention was elsewhere the property tax went through a revolution nearly as profound as the 1970s/80s revolt (Prop 13, Prop 2 1/2); many states reformed to give huge tax benefits to owner-occupied homes, shifting the burden for services to commercial property (incl. rental apartments), other local taxes, and state funding; Florida, Ohio, North Dakota and Texas considered abandoning property taxation for owner-occupied housing or entirely. The driving force was rising property values and homeowner-dominated politics \u2014 property taxes are wealth taxes, so rising wealth produced political anger rather than satisfaction. Reforms convert the property tax from a collective service-provision tool into standard redistributive taxation charging commercial owners to pay for homeowner services; implications: greater state authority over local governments, less stable local funding (but less tax foreclosure in recessions), stricter zoning (but more building where legal), higher housing costs = a substantial wealth transfer toward people who already own homes. Canonical form doi.org/10.2139/ssrn.7377158; the SSRN page form papers.ssrn.com/sol3/papers.cfm?abstract_id=7377158 is the same essay (title-pool matching covers resurfaces). The two podcast wrapper URLs (exa.ai proxy + lewis.ucla.edu episode page) are bucketed in rejected_dupe; the citable primary is this essay.",
       "author": "lvt-paper-scanner",
       "queued_at": "2026-11-22T12:04:56.341790+00:00",
-      "reported": false
+      "reported": true,
+      "report_ts": "1795349138.113509"
     }
   ],
   "consumed": [
