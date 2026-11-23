@@ -2246,7 +2246,7 @@
         "rct"
       ],
       "action": "updated",
-      "published_at": "2026-10-31T03:14:00.000Z",
+      "published_at": "2026-11-23T19:13:45.000Z",
       "notified": false
     },
     {
@@ -3273,6 +3273,23 @@
       ],
       "action": "updated",
       "published_at": "2026-11-20T19:16:44.000Z",
+      "notified": false
+    },
+    {
+      "slug": "opec",
+      "title": "OPEC",
+      "url": "https://www.progress.org/wiki/opec/",
+      "category": "organizations",
+      "tags": [
+        "organizations",
+        "resource-rents",
+        "oil",
+        "cartel",
+        "natural-resources",
+        "stub"
+      ],
+      "action": "updated",
+      "published_at": "2026-11-23T19:13:42.000Z",
       "notified": false
     }
   ]
