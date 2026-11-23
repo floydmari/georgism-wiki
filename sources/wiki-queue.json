@@ -1,5 +1,26 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://www.nber.org/papers/w36058",
+      "title": "Beyond the First Best: Welfare and OPEC Market Power",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: NBER working paper, published 19 Nov 2026. Empirical framework quantifying the welfare impact of market power through coordinated cartel production decisions while allowing for other distortions; applied to OPEC in the global crude oil market with micro data on cost and production: from 1970 onward the naive approach implies OPEC generated $2.2 trillion of welfare losses (two-thirds productive inefficiency, one-third deadweight loss); eliminating cost-minimization violations outside the cartel shrinks losses to ~$0.7 trillion, so other oil-market frictions are complementary to OPEC market power. Resource-rent and monopoly-rent scope (scanner topic list). Serves the wiki OPEC cluster (organizations/opec.md \u2014 currently a Wikipedia-referenced stub \u2014 and concepts/resource-rents.md). NOTE for dedup: De Loecker is on the wiki via DIFFERENT market-power papers (de-loecker-eeckhout-unger-markups, JOES aggregate market power, Minneapolis Fed staff report) \u2014 different title/DOI/co-authors, do not dedup by author; the 'opec' consumed-context hit (economic-voting-in-rentier-states paper) is a different paper. Verified absent: registry, inventory, consumed, live queue, buckets, wiki content (w36058 / Beyond the First Best / Collard-Wexler / Asker needles zero), #progressdotorg history (needles zero). Page fetched live 2026-11-23 (web_extract).",
+      "context": "Beyond the First Best: Welfare and OPEC Market Power \u2014 John Asker, Allan Collard-Wexler, Charlotte De Canni\u00e8re & Jan De Loecker. NBER Working Paper 36058, November 2026. DOI 10.3386/w36058. Abstract: empirical framework to quantify the welfare impact of market power through coordinated production decisions by a cartel while allowing for other distortions; contrasts the marginal and infra-marginal welfare loss with a naive approach that ignores other distortions; applied to OPEC in the global crude oil market using unique micro data on cost and production. From 1970 onward OPEC generated $2.2 trillion of welfare losses, two-thirds from productive inefficiency and one-third from deadweight loss; eliminating cost-minimization violations outside the cartel shrinks losses to around $0.7 trillion \u2014 other frictions in the oil market are complementary to OPEC market power. URL live (fetched 2026-11-23 via web_extract); nber.org form per wiki NBER precedent (w35632, w36002).",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-23T12:04:43.189025+00:00",
+      "reported": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w36055",
+      "title": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals",
+      "source": "lvt-paper-scanner",
+      "reason": "lvt-paper-scanner: NBER working paper, published 19 Nov 2026. Links Dallas County administrative property-tax records with voting records: Americans on average believe Republican homeowners are more likely to appeal their property taxes, but the partisan gap in appeals is small both absolutely (0.29 percentage points) and relative to demographic benchmarks; quasi-experimental and field-experimental evidence shows Democrats and Republicans appeal for broadly similar reasons. Property-tax administration/behavior genre with proven wiki precedent (w35632 accepted with a wiki page; w36002 accepted; Nishihata ITPF queued 11-18). NOTE for dedup: COMPANION, NOT DUPE of the wiki'd NBER w35632 (Holz, Perez-Truglia, Simon & Zentner, \"Taxpayer Behavior in the Age of AI\" \u2014 Dallas County AI-chatbot appeals RCT) \u2014 different first author (Nathan), different title, different WP number; shared Perez-Truglia/Zentner authorship and the shared Dallas County setting are NOT dedup evidence. Parts of this study were originally in NBER WP 27816 (posted Sept 2020), which is absent from the wiki. Serves the property-tax-appeals cluster (mccanless-property-tax-appeals-rentier, holz-perez-truglia-simon-zentner-ai-tax-appeals, mass-appraisal-methods). Verified absent: registry, inventory, consumed, live queue, buckets, wiki content (w36055 needle zero; perez-truglia/zentner file hits are the w35632 cluster), #progressdotorg history (needles zero \u2014 every hit was w35632-related). Page fetched live 2026-11-23 (web_extract).",
+      "context": "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals \u2014 Brad C. Nathan, Ricardo Perez-Truglia & Alejandro Zentner. NBER Working Paper 36055, November 2026. DOI 10.3386/w36055. Abstract: Democrats and Republicans express sharply different tax-policy views, but whether ideological divisions translate into partisan differences in taxpayer behavior is unclear; a survey finds Americans on average believe Republican homeowners are more likely to appeal their property taxes than Democratic homeowners with similarly valued homes, yet linking administrative property-tax records from Dallas County with voting records shows the stereotype is not borne out \u2014 the partisan gap in appeals is small (0.29 percentage points) relative to demographic benchmarks, and quasi-experimental + field-experimental evidence shows similar appeal motives. Parts of this study were originally in NBER WP 27816 (posted Sept 2020). COMPANION, NOT DUPE of the wiki'd NBER w35632 (Holz, Perez-Truglia, Simon & Zentner AI-chatbot appeals RCT \u2014 different first author, title, WP number); do not dedup by author. URL live (fetched 2026-11-23 via web_extract); nber.org form per wiki NBER precedent.",
+      "author": "lvt-paper-scanner",
+      "queued_at": "2026-11-23T12:04:43.189025+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6691,7 +6712,7 @@
       "wiki_page": "events/proposition-13.md"
     }
   ],
-  "last_updated": "2026-11-23T11:02:34.324018+00:00",
+  "last_updated": "2026-11-23T12:04:43.189025+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 2
 }
