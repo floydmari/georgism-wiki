@@ -6387,3 +6387,18 @@ and was not reproduced.
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 534 consumed. Merged to main
 and Ghost-synced.
+
+## 2026-11-23 — Two NBER abstracts: OPEC's welfare cost and partisan appeals
+
+Two NBER working papers, both at abstract level (NBER serves the abstract page but not the PDF
+to an ordinary request). The OPEC organization page, until now a Wikipedia-sourced stub, gains a
+section on Asker, Collard-Wexler, De Cannière and De Loecker's estimate of the cartel's cost
+since 1970, 2.2 trillion dollars on the standard approach and about 0.7 trillion once
+cost-minimisation violations outside the cartel are removed, with the authors' complementarity
+reading attributed and a sentence separating scarcity rent from cartel rent. The Holz et al.
+Dallas County appeals page gains a Nuances bullet on the companion partisan study (0.29-point
+gap, similar motives). Both source entries say the price basis and sample are not in the
+abstracts; both have leads for author-hosted copies. T1 followed the T0 briefs.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 536 consumed. Merged to main
+and Ghost-synced.

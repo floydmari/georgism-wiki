@@ -5,7 +5,7 @@ tags: [organizations, resource-rents, oil, cartel, natural-resources, stub]
 url: https://www.opec.org/
 stub: true
 excerpt: "The Organization of the Petroleum Exporting Countries, founded in 1960, coordinates member states' oil production and pricing policy — the largest and longest-running example of states collectively capturing a natural-resource rent."
-last_reviewed: 2026-07-11
+last_reviewed: 2026-11-23
 ---
 
 ## Overview
@@ -15,6 +15,10 @@ The **Organization of the Petroleum Exporting Countries (OPEC)** is an intergove
 ## Relevance to Resource Rents
 
 OPEC is widely cited as the largest and most consequential real-world example of states acting collectively to capture the [economic rent](/wiki/economic-rent/) embedded in a scarce natural resource — oil in the ground has value from its natural scarcity and geological location, not from any production cost, in the same way land does. Where the Georgist program advocates *public* capture of such rent through taxation and revenue-sharing, OPEC's member governments instead capture it by asserting sovereign control over extraction and setting production quotas collectively to influence world prices — a resource-cartel model rather than a broad-based fiscal one, and a considerably more contested case than land value taxation since it also functions as a producer cartel restricting supply.[2] The [1973 oil shocks](/wiki/oil-shocks-cause-recessions/) are the best-known instance of OPEC production decisions moving world prices and triggering broader macroeconomic effects.
+
+## The Cost of the Cartel's Market Power
+
+A 2026 study by John Asker, Allan Collard-Wexler, Charlotte De Cannière and Jan De Loecker puts a figure on what the cartel's coordinated production decisions have cost. Using field-level data on costs and production, the authors estimate that from 1970 onward OPEC's market power generated about 2.2 trillion dollars of welfare losses on the standard approach, two-thirds of it productive inefficiency, with output supplied by higher-cost producers while lower-cost capacity was held back, and one-third deadweight loss from restricted supply. Once violations of cost minimisation outside the cartel are removed from the calculation, the loss attributable to OPEC falls to around 0.7 trillion dollars, which the authors read as showing that other frictions in the oil market compound the cartel's market power rather than offset it.[3] The distinction bears on the rent argument above: the revenue OPEC's members collect mixes scarcity rent, which exists however the oil is produced, with cartel rent created by holding output back, and only the first is the kind of rent a Georgist would have the public collect.
 
 ## See Also
 
@@ -27,3 +31,4 @@ OPEC is widely cited as the largest and most consequential real-world example of
 
 1. "OPEC," Wikipedia, retrieved 2026-07-11 — used for the founding date, place, founding members, headquarters, and stated purpose. [en.wikipedia.org/wiki/OPEC](https://en.wikipedia.org/wiki/OPEC)
 2. Josh Ryan-Collins, Toby Lloyd & Laurie Macfarlane (2017), *Rethinking the Economics of Land and Housing*, Zed Books, Ch. 3, Box 3.1 — the discovery source; presents OPEC as an example of economic rent extraction from a natural resource. [Wiki book page](/wiki/rethinking-economics-land-housing/)
+3. John Asker, Allan Collard-Wexler, Charlotte De Cannière & Jan De Loecker (2026), "Beyond the First Best: Welfare and OPEC Market Power," NBER Working Paper 36058, November 2026. [nber.org/papers/w36058](https://www.nber.org/papers/w36058) — used for the 2.2 trillion and 0.7 trillion dollar welfare-loss estimates, their split between productive inefficiency and deadweight loss, and the authors' reading of other frictions as complementary (B-claim, unrefereed working paper, Tier 1 academic authors; abstract only, the NBER PDF not being served to ordinary requests, so the price basis and end year of the estimates are not stated).

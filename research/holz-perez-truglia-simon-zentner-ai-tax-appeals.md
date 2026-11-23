@@ -7,7 +7,7 @@ authors:
 bears_on_objections: []
 category: research
 excerpt: "A Dallas County field experiment finds an AI chatbot raised property-tax appeal filing rates from 41.4% to 50.5%, nearly double a prior mailed-guide effect, but the gain was smaller among less-educated, lower-value-home, and minority households, suggesting AI widens disparities."
-last_reviewed: 2026-09-02
+last_reviewed: 2026-11-23
 source_url: https://www.nber.org/papers/w35632
 stub: false
 subcategory: wiki-research-lvt
@@ -82,6 +82,7 @@ equalize who actually uses them.
 ## Nuances and Limits
 
 - **Small analysis sample (645 households) drawn from 45,200 invitations**, and the subgroup-disparity findings are, in the authors' own words, "large in magnitude but imprecisely estimated and therefore not always statistically significant" individually — the paper's claim rests on consistency across three separate dimensions (education, home value, race/ethnicity) rather than any single subgroup result being definitive on its own.
+- **Partisanship does not drive appeals.** A companion study from the same county and research group, by Brad Nathan, Ricardo Perez-Truglia and Alejandro Zentner, links Dallas County appeal records to voting records and finds the gap between Republican and Democratic homeowners to be 0.29 percentage points, small against the demographic gaps the authors use as benchmarks, and finds in quasi-experimental and field-experimental evidence that the two groups appeal for broadly similar reasons, even though Americans surveyed believed Republicans appeal more.[2]
 - **A single US county and tax system.** Texas property-tax appeals (protests) are a specific
   administrative process; the finding that AI assistance can widen access disparities may or
   may not generalize to other appeals systems or other AI-assisted government processes.
@@ -110,3 +111,4 @@ equalize who actually uses them.
    evidence (time-on-site, feature use, transcript analysis), and the subgroup-disparity
    finding (A-claim; full text read and cross-checked against a second independent extraction
    of the same PDF).
+2. Brad C. Nathan, Ricardo Perez-Truglia & Alejandro Zentner (2026), "Are Republicans and Democrats Different Taxpayers? Evidence From Property Tax Appeals," NBER Working Paper 36055, November 2026. [nber.org/papers/w36055](https://www.nber.org/papers/w36055) — used for the 0.29 percentage-point partisan gap, the benchmark comparison, the survey belief and the similar-motives finding (B-claim, unrefereed working paper, Tier 1 academic authors; abstract only, the NBER PDF not being served to ordinary requests; the direction of the gap and the sample are not stated in the abstract).
