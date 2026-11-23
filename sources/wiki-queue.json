@@ -1,16 +1,5 @@
 {
-  "queue": [
-    {
-      "url": "https://claude.ai/artifact/1vP1hd8F69dAA8vdnAz49m",
-      "title": "_Reply Desk daily_ - Sunday, Nov 22",
-      "source": "social-media-production",
-      "reason": "unknown domain with keyword (land value)",
-      "context": "_Reply Desk daily_ - Sunday, Nov 22\n14 new comments today (Bluesky 11 \u00b7 X 3) \u00b7 4 high priority \u00b7 0 filtered out \u00b7 97 waiting for review in total\nNew by reply account: UW 11 \u00b7 CW 3\n<https://claude.ai/artifact/1vP1hd8F69dAA8vdnAz49m|claude.ai/artifact/\u2026>\n_@techcafe.bsky.social (Bluesky) \u2192 CW_: I'm not convinced that a land value tax (LVT) alone will 'fix' hunger &amp; homeless\n_@KoolZeroHero (X) \u2192 UW_: Google's Waymo operates on digital rails. It is slow expensive and it hasn't tur\n_@useyourwords2",
-      "author": "UNYCKRMC6",
-      "queued_at": "2026-11-23T11:00:49.510968+00:00",
-      "reported": false
-    }
-  ],
+  "queue": [],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6702,7 +6691,7 @@
       "wiki_page": "events/proposition-13.md"
     }
   ],
-  "last_updated": "2026-11-23T11:01:42Z",
+  "last_updated": "2026-11-23T11:02:34.324018+00:00",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 1
+  "total": 0
 }
