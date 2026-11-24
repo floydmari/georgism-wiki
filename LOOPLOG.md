@@ -6402,3 +6402,16 @@ abstracts; both have leads for author-hosted copies. T1 followed the T0 briefs.
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 536 consumed. Merged to main
 and Ghost-synced.
+
+## 2026-11-24 — A webinar notice rejected; a lead to GLTN's valuation guides
+
+One scanner item, a UN-Habitat Global Land Tool Network announcement for a 3 December webinar on
+inclusive land valuation and taxation. Rejected as an event notice rather than a publication;
+gltn.net also answered the single ordinary request with a Cloudflare challenge, and the scanner's
+suggestion of a reader fetch was declined under the access policy. The useful residue is a lead:
+GLTN's policy guide and practice manual on valuing unregistered land, which would fill a real gap
+on the mass-appraisal page. UN-Habitat/GLTN added to the tiers list as an official body for its
+own publications. T1 followed the T0 brief.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 537 consumed. Merged to main;
+nothing to Ghost-sync.

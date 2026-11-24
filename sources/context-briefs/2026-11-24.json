@@ -1,0 +1,46 @@
+[
+ {
+  "url": "https://gltn.net/media-centre/news/expanding-public-revenue-through-inclusive-land-valuation-and-taxation",
+  "title": "Expanding Public Revenue through Inclusive Land Valuation and Taxation (GLTN / UN-Habitat webinar announcement)",
+  "what_was_fetched": "One plain curl -sSL request to the announcement URL returned HTTP 403 (Cloudflare 'Just a moment...' challenge page, no article text). Per policy, stopped with gltn.net entirely: no concept note, no other gltn.net pages, no reader proxy. No UN-Habitat request made (no exact URL known for the Valuation of Unregistered Lands policy guide). Challenge page saved at scratchpad fetched/gltn.html (untrusted, not executed). Everything below about the page's content is the scanner's unverified paraphrase.",
+  "verdict": "REJECT",
+  "verdict_reason": "The item is a webinar announcement, an event notice and not a finding; EDITORIAL 4c says the wiki cites publications, not upcoming events, unless the event is itself notable (a 3 Dec 2026 GLTN webinar is not). The page is also unreadable under the access policy, so nothing in it could be cited or checked. The underlying subject (property-tax-first coverage before titling, simplified mass valuation of unregistered land, value capture that protects unregistered rights-holders) is worth pursuing via the GLTN/UN-Habitat publications listed in `leads`, not via this notice. Revisit only if a post-event outcome document or report is published.",
+  "claim_grade": "D-claim (unfetched; scanner paraphrase only). Even if fetched, an announcement would be an event notice from a Tier 1 official body, usable at most for the fact that the event occurs, not as evidence for any claim.",
+  "content_summary": "Unverified, from scanner context only: GLTN (UN-Habitat-hosted network) webinar 3 Dec 2026, 14:00-16:00 EAT, published 20 Nov 2026; concept note and agenda downloadable. Themes: property-tax-first approaches to widen fiscal coverage before formal titling; simplified mass valuation and computer-assisted appraisal; value capture sharing public-investment gains without disadvantaging low-income or unregistered rights-holders. Said to build on the GLTN Valuation of Unregistered Lands policy guide, a practice manual (IVSC standards) and land-based financing work.",
+  "existing_wiki_coverage": "UN-Habitat: events/un-habitat-1976-recapture-resolution.md (stub; Habitat I Vancouver 1976, Recommendation D.3 'recapturing plus value'); linked from concepts/land-value-capture.md line 222 (See Also); research/walters-property-taxes-value-capture-instruments.md line 35 quotes the Vancouver Action Plan as 'the founding document of UN-HABITAT'. Zero mentions of GLTN / Global Land Tool Network anywhere in concepts/ or research/ (grep). Unregistered/informal land valuation: concepts/mass-appraisal-methods.md has no hits for unregistered, informal or titling. Closest coverage is research/franzsen-mccluskey-property-tax-africa.md: valuation is 'one of the weakest links' in African property tax; land tenure informality and dual/customary tenure narrow the effective base (e.g. Cameroon, Rwanda, formally registered land under 1 percent of parcels); weak or absent fiscal cadastres. people-tiers.json has no UN-Habitat/GLTN entry; EDITORIAL 4c rubric treats UN-Habitat/GLTN as official bodies for their own publications.",
+  "scanner_premise_errors": [
+   "'Direct curl is 403 bot-walled ... full text retrievable via reader fetch': the 403 is confirmed (Cloudflare challenge), but the suggested reader fetch is a circumvention outside the access policy and was not used.",
+   "'Wiki currently has zero GLTN coverage': correct for GLTN by name, but the wiki does have UN-Habitat coverage (1976 recapture stub, Walters quote) and adjacent informal-tenure/valuation coverage in the Franzsen-McCluskey Africa page, so the topic is not wholly absent.",
+   "'Core land-value-capture cluster' overstates fit: a webinar notice is an event, not a source; the substantive material is the underlying GLTN publications.",
+   "Page content (themes, publication lineage, IVSC link) is unverified because the page could not be read."
+  ],
+  "uncertainties": [
+   "Actual page text, agenda and concept note unseen.",
+   "Whether the 'practice manual' and 'land-based financing' items are GLTN titles with stable open URLs is unknown.",
+   "Exact publication years and hosts of leads are from memory/likely hosts, to be confirmed before any BACKLOG entry is relied on."
+  ],
+  "suggested_text": null,
+  "leads": [
+   {
+    "title": "Valuation of Unregistered Lands: A Policy Guide",
+    "year": "c.2021 (to confirm)",
+    "likely_host": "unhabitat.org / gltn.net publications (GLTN, UN-Habitat, with IVSC input); named in scanner context"
+   },
+   {
+    "title": "Valuation of Unregistered Lands: A Practice Manual",
+    "year": "c.2021-22 (to confirm)",
+    "likely_host": "unhabitat.org / gltn.net; companion to the policy guide, scanner context cites IVSC standards"
+   },
+   {
+    "title": "GLTN/UN-Habitat land-based financing work (e.g. the Land-Based Financing / Land Value Sharing material and 'Land-based financing for local governments' type guides)",
+    "year": "unknown",
+    "likely_host": "unhabitat.org / gltn.net; exact titles not identifiable from readable sources, treat as a search lead only"
+   },
+   {
+    "title": "Vancouver Action Plan, Recommendation D.3 (already cited in wiki)",
+    "year": "1976",
+    "likely_host": "UN-Habitat / UN archives; already covered, not a new lead"
+   }
+  ]
+ }
+]
