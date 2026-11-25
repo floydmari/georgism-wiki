@@ -6427,3 +6427,21 @@ wiki's scope. Rejected; no page touched. T1 followed the T0 brief.
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 538 consumed. Merged to main;
 nothing to Ghost-sync.
+
+## 2026-11-25 (evening) — ITEP's cautions, Kang's energy-rent pension, a preprint deferred
+
+Three scanner items. ITEP's first land-value-tax brief, readable in full, is carried as what it
+is: a progressive think-tank's cautious position, one attributed paragraph in the split-rate
+page's Practical Obstacles, with its design advice and its view that the tax "might not be as
+progressive a tax as it once was". Its historical claims were not carried, and one of them
+matters: it says Scranton ended its split rate in 2025 after the county reassessment, which
+would make three wiki pages out of date. That is a VERIFY lead, not an edit, until a Scranton
+primary confirms it. Nam Hoon Kang's Basic Income Studies article on Lee Jae-myung's "Sunlight
+and Wind Pension" was reachable only through Crossref's abstract; it joins the South Korea page
+as a source beside his 2024 BIEN presentation, with one sentence on carbon rent and
+renewable-energy rent as the funding base, and the paragraph lost two self-references and gained
+a corrected attribution. Joe Collins's Australian ground-rent preprint is abstract-only with no
+identifiable affiliation and was deferred. T1 followed the T0 briefs.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 541 consumed. Merged to main
+and Ghost-synced.

@@ -97,7 +97,8 @@
     "Brandon McGinley / Pittsburgh Post-Gazette opinion columns — signed columnist, not the editorial board; opinion, not support",
     "David Belle / FINK (fink.money) — fintech education brand's explainer; author-built fiscal model; proponent material",
     "Richard Wielga (independent economist, ex-Victorian DTF; Prosper Australia Research Institute commissioned report 2026) — Tier 2 as advocacy-commissioned; figures carried as the report's own",
-    "The Texas Tribune (Joshua Fechter) — nonprofit newsroom; B/C-claim for reportage of named officials' statements; cite the primaries it reports on"
+    "The Texas Tribune (Joshua Fechter) — nonprofit newsroom; B/C-claim for reportage of named officials' statements; cite the primaries it reports on",
+    "Rita Jefferson / ITEP (LVT brief, Nov 2026) — think-tank position, origin only; its historical claims traced to primaries"
   ],
   "tier1_confirmed": [
     "Gaffney & Harrison, The Corruption of Economics (the co-authorship only, on Gaffney's standing — Floyd 2026-09-21)",
@@ -219,7 +220,8 @@
     "Jieming Zhu (City University of Macau; Chinese urban land governance) — Tier 1 by rubric, solo author in a refereed venue; 2026 Eurasian Geography and Economics article unreachable (Cloudflare; no Crossref abstract), not yet cited",
     "John Asker, Allan Collard-Wexler, Charlotte De Cannière & Jan De Loecker (NBER WP 36058, OPEC welfare) — academic economists; cited at abstract level, B-claim",
     "Brad C. Nathan, Ricardo Perez-Truglia & Alejandro Zentner (NBER WP 36055, partisan property-tax appeals) — academic economists; cited at abstract level, B-claim",
-    "UN-Habitat / Global Land Tool Network (GLTN) — UN official body for its own publications (policy guides, practice manuals); event announcements and webinars are not citable"
+    "UN-Habitat / Global Land Tool Network (GLTN) — UN official body for its own publications (policy guides, practice manuals); event announcements and webinars are not citable",
+    "Nam Hoon Kang (emeritus professor of economics, Hanshin University; Basic Income Korean Network) — Tier 1 academic standing for his own theoretical argument, a proponent position stated as such (D-claim)"
   ],
   "tier3": [
     "Mark Carney (as politician)",
@@ -238,6 +240,7 @@
     "Elisha, Arbel, Aiche & Portnov (2026 Urban Science, Haifa arnona) — peer-reviewed but internally inconsistent and not land-value evidence; rejected, not cited",
     "Georgist Party of Britain (georgistparty.uk) — advocacy site with placeholder officers and address; no Electoral Commission registration under that name found 2026-11-02; not cited",
     "Jürgen Beyer (Digital Society 2026, 'The Rise of Digital Monopolies') — affiliation unconfirmed by Crossref; deferred unread behind Springer's client challenge; no rent content verifiable",
-    "Johan Bage & Stella Wilson (SSRN 7226858, 'Pinning the Wage to Scarcity and Technology') — unknown authors, unrefereed preprint with AI-writing disclosure; not cited"
+    "Johan Bage & Stella Wilson (SSRN 7226858, 'Pinning the Wage to Scarcity and Technology') — unknown authors, unrefereed preprint with AI-writing disclosure; not cited",
+    "Joe Collins (Preprints.org 2026, Australian ground rent) — unrefereed preprint; author and affiliation not established; deferred"
   ]
 }
