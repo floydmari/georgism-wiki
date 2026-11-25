@@ -6415,3 +6415,15 @@ own publications. T1 followed the T0 brief.
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 537 consumed. Merged to main;
 nothing to Ghost-sync.
+
+## 2026-11-25 — Texas Tribune relief survey rejected
+
+One item: Joshua Fechter's Texas Tribune survey of what Democrats might do on property taxes
+after the Republican cuts. Readable in full. Its land-value-tax content is a single passage in
+which Lars Doucet suggests letting localities experiment, with no Texas estimate; no Democrat,
+caucus or bill proposes one, and the Houston precedent sentence repeats what the Texas and
+Houston pages already carry. The named Democratic proposals are general relief outside the
+wiki's scope. Rejected; no page touched. T1 followed the T0 brief.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 538 consumed. Merged to main;
+nothing to Ghost-sync.
