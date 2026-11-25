@@ -2,10 +2,10 @@
   "queue": [
     {
       "url": "https://www.texastribune.org/2026/11/23/texas-democrats-property-taxes-relief/",
-      "title": "Texas Tribune - *Texas Republicans spent billions lowering property taxes. What can Democrats do differently? (LVT)*",
+      "title": "Texas Democrats consider tax relief for homeowners and renters (Texas Tribune)",
       "source": "social-media-production",
       "reason": "unknown domain with keyword (lvt)",
-      "context": "Texas Tribune - *Texas Republicans spent billions lowering property taxes. What can Democrats do differently? (LVT)*\n<https://www.texastribune.org/2026/11/23/texas-democrats-property-taxes-relief/|texastribune.org/2026/11/23/texas-democrats-property-taxes-relief>",
+      "context": "Texas Tribune news article on Democrats' property-tax relief options (published 2026-11-23). Substantive land value tax discussion: Center for Land Economics estimates (lower typical homeowner/renter bills, more for large lots), vacant-lot development incentives, Pennsylvania split-roll precedent, Houston's 1910s split assessment overturned on 'equal and uniform' grounds. Real headline verified live (HTTP 200) on 2026-11-25; the Slack share text quoted an alternate headline. Do not repair the URL.",
       "author": "UKTJP503G",
       "queued_at": "2026-11-25T11:00:35.358521+00:00",
       "reported": false
