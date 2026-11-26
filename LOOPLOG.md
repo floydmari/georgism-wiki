@@ -6445,3 +6445,19 @@ identifiable affiliation and was deferred. T1 followed the T0 briefs.
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 541 consumed. Merged to main
 and Ghost-synced.
+
+## 2026-11-26 — A roundup used as a map; two primaries, one correction
+
+One item, the Center for Land Economics' Landscape 11 year-in-review. As Tier 2 it is not cited;
+it served as a map of 2026 events to check against the wiki. Nearly everything it lists was
+already covered from primaries. The one gap with a reachable primary was Minnesota's House File
+161, whose Revisor status page gives the introduction, referral and dormancy; it joins the
+earlier-stage cases on the enablement-wave page. The statute text of New York's §119-r, fetched
+as a second primary, corrected the page's gloss of the law's land value taxation from a levy on
+land alone to the statutory land-at-a-higher-rate-than-improvements, and described the special
+assessment as the statute does. An "As of August 2026" clause was reworded. The Landscape's
+"one vote short" (Michigan) and "not enough signatures" (Ohio) wordings differ from the wiki's
+primary-sourced accounts and were not adopted. T1 followed the T0 brief; four small leads filed.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 542 consumed. Merged to main
+and Ghost-synced.

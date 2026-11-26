@@ -1,0 +1,197 @@
+[
+ {
+  "url": "https://blog.landeconomics.org/p/a-2026-full-of-land-value-taxes-landscape",
+  "title": "A 2026 full of land value taxes — Landscape 11",
+  "what_was_fetched": "One ordinary curl request to the Substack URL (HTTP 200, 267,689 bytes, openly served, saved at fetched/landscape11.html with extracted text in landscape11.txt). Byline Greg Miller (with Daniel Stein, Research Intern, credited at the foot); published 2026-11-25. Primaries fetched (one request per host): revisor.mn.gov HF 161 (200) and nysenate.gov GML 119-r (200). Other linked primaries (lims.dccouncil.gov, njleg.state.nj.us) are already cited by the wiki, so were not fetched. Landscape 11 does not link a Kentucky HB 607 or Virginia HB 282 text; it links CLE's own earlier posts.",
+  "verdict": "REJECT as a source; use as a map",
+  "verdict_reason": "Center for Land Economics roundup by its executive director: Tier 2 origin/proponent material under EDITORIAL 4c, never support and never in a lead. Almost every wiki-relevant item is already on a page (HB 282, HB 607/Louisville, NY 119-r, NJ A5386, DC B26-0777, Maryland, ballot measures, ITEP, Kelowna, NZ, Burnham). Only Minnesota HF 161/SF 1422 is a real gap with a fetched Tier 1 primary. The item is not a list of 2026 bills passed; it is largely an election, commentary and media roundup, and it reports no new enactment beyond the three already recorded.",
+  "claim_grade": "D (advocacy-body roundup; Tier 2). Its factual claims on bills and votes are corroborated only where the wiki already cites Tier 1 texts; the '13 states and DC' tracker figure is a self-description.",
+  "events": [
+   {
+    "event": "Minnesota HF 161 / SF 1422 (land-value taxation districts)",
+    "landscape_claim": "Rep. Steve Elkins promises to reintroduce LVT legislation on day one of the January 2027 session; Sen. Omar Fateh is lead author of SF 1422 and Elkins of companion HF 161 (2025 session); Minneapolis mayoral candidates Frey and Fateh both supported a pilot; St. Paul event; Streets.mn explainer.",
+    "wiki_coverage": "Only a passing mention in events/2026-state-lvt-enablement-wave.md (Minnesota listed among stalled 2026 proposals; Fateh named as sponsor, sourced to Landscape Nov 2025). No bill numbers, no Elkins, no dedicated page.",
+    "gap": true,
+    "primary_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/161/",
+    "primary_fetched": "yes, 2026-11-26 (HTTP 200); SF 1422 not fetched (same host, one request per host)",
+    "primary_confirms": "HF 161, 94th Legislature (2025-2026): description 'Cities authorized to create land-value taxation districts'; introduced and referred to Taxes 02/10/2025; eight authors (Elkins first; Gomez, Jones, Smith, Sencer-Mura, Moller, Kraft, Hussein); companion SF1422; the action list ends 04/03/2025 (author added), with no hearing, vote or engrossment recorded. Elkins' reintroduction pledge is not in any primary (source: MinnPost, news)."
+   },
+   {
+    "event": "Washington DC B26-0777 (land valuation standards)",
+    "landscape_claim": "Nadeau bill would require land valued as if vacant at highest and best use and separate testing of the land component; GGWash and ITEP testimony; CLE's Lars Doucet testified Oct 16.",
+    "wiki_coverage": "Covered in full: events/2026-dc-land-value-assessment-bill.md (introduced 14 July 2026, referral 22 Sept, hearing 16 Oct; cites GGWash, LIMS).",
+    "gap": "No gap. Doucet's Oct 16 testimony and the ITEP testimony appear to be the only uncovered detail; CLE-side testimony is Tier 2 origin material.",
+    "primary_url": "https://lims.dccouncil.gov/Hearings/hearings/2400",
+    "primary_fetched": "no (wiki already cites LIMS)",
+    "primary_confirms": null
+   },
+   {
+    "event": "Virginia HB 282 (four more cities)",
+    "landscape_claim": "Charlottesville, Falls Church, Fredericksburg, Newport News join Fairfax, Poquoson, Richmond, Roanoke: eight cities with authority.",
+    "wiki_coverage": "Covered: enablement-wave page 'Virginia' section (HB 282, House 91-8 on 27 Jan, signed 6 Apr by Spanberger, eight cities, effective July 2026). Consistent with Landscape.",
+    "gap": "No gap for HB 282 itself.",
+    "primary_url": null,
+    "primary_fetched": "not needed",
+    "primary_confirms": null
+   },
+   {
+    "event": "Virginia: Alexandria 2027 state agenda seeks land-taxing authority",
+    "landscape_claim": "Alexandria's draft 2027 state legislative agenda seeks power to tax land value locally; Alexandria is outside the eight cities.",
+    "wiki_coverage": "No Alexandria coverage anywhere in the wiki.",
+    "gap": "GAP (small). Tier 1 would be the City of Alexandria's adopted/draft 2027 legislative package (city council docket); the Landscape links only a news item (Alexandria Brief), a draft not a final act.",
+    "primary_url": "https://www.alexandriabrief.com/alexandrias-draft-2027-state-agenda-seeks-new-powers-on-housing-taxes-and-data-centers/ (news, Tier 2; not an official primary)",
+    "primary_fetched": "no; the official council document is not linked, and guessing URLs is barred",
+    "primary_confirms": null
+   },
+   {
+    "event": "Virginia: Roanoke council (Danny Clawson elected; Mayor Joe Cobb says council has discussed LVT)",
+    "landscape_claim": "Clawson elected to Roanoke City Council on a homelessness platform and plans to push LVT; mayor told WDBJ the council has discussed it.",
+    "wiki_coverage": "No Roanoke 2026 coverage (enablement-wave page says only that Roanoke has had authority since 2003 and has not adopted).",
+    "gap": "GAP (minor, local-news-level). No Tier 1 primary linked; the official result would be Roanoke city/Virginia elections certified results (not linked). Sources linked are WDBJ (news).",
+    "primary_url": null,
+    "primary_fetched": "not fetched; none linked",
+    "primary_confirms": null
+   },
+   {
+    "event": "Michigan: Duggan's LVT 'fell one vote short' in the State House",
+    "landscape_claim": "Duggan's LVT efforts stalled at the State House 'one vote short'; Michigan expected to revisit in a year or two; Steve Watson podcast.",
+    "wiki_coverage": "Covered: events/detroit-lvt-proposal.md (HB 4966-4970 of 2023, postponed 11 Oct 2023, never received a final floor vote, expired 2024). Watson podcast not covered.",
+    "gap": "No gap for the bill history; see contradictions for the 'one vote' wording.",
+    "primary_url": "https://www.legislature.mi.gov (not linked by the Landscape)",
+    "primary_fetched": "not fetched",
+    "primary_confirms": null
+   },
+   {
+    "event": "New Jersey A5386 (Brennan; transit value-capture study)",
+    "landscape_claim": "Brennan and Calabrese bill directs EDA to study supplemental transit financing incl. value capture, ground leases; Politico Pro coverage; video.",
+    "wiki_coverage": "Covered in detail: enablement-wave page final section (introduced 10 Sept 2026; cites the NJ Legislature bill text).",
+    "gap": "No gap; wiki is more precise (names no land value tax; not heard in committee).",
+    "primary_url": "https://pub.njleg.state.nj.us/Bills/2026/A5500/5386_I1.HTM",
+    "primary_fetched": "no (wiki already cites it)",
+    "primary_confirms": null
+   },
+   {
+    "event": "New York Section 119-r (transit value capture)",
+    "landscape_claim": "'New York extended its authority to fund transit through land value tax'; IBX; Niskanen piece; Landscape 9.",
+    "wiki_coverage": "Covered: enablement-wave page 'New York' section and places/new-york-city.md, plus events/2026-nyc-interborough-express-value-capture.md. Statute itself is not cited as a primary on those pages.",
+    "gap": "Partial gap: the statute text is not cited (BACKLOG only).",
+    "primary_url": "https://www.nysenate.gov/legislation/laws/GMU/119-R",
+    "primary_fetched": "yes, 2026-11-26 (HTTP 200)",
+    "primary_confirms": "GML section 119-r is served; the transit-district subdivision lists value-capture methods including (i) tax increment financing, (ii) a special transportation assessment 'which shall not constitute a tax', (iii) 'land value taxation' defined as allocating an increment of revenue from taxing land at a higher rate than improvements (RPTL s.102(12)), and (iv) combinations. The page carries the note 'Effective until April 1, 2027' for that text. It is the consolidated statute, so it does not show the 2026 budget bill or signing date."
+   },
+   {
+    "event": "Maryland / Baltimore (state enabling bill, fiscal note, MD Dept of Planning study)",
+    "landscape_claim": "Baltimore 2.2% base rate; enabling bill work continues; SDAT large fiscal note; Maryland Dept of Planning summer study awaited; MD Center on Economic Policy recommends split-rate.",
+    "wiki_coverage": "Covered: places/maryland.md and enablement-wave page (HB 78 / SB 457, fiscal note $39.1M, Baltimore Res. 26-0062R). The Dept of Planning study is not covered.",
+    "gap": "Gap only for the Dept of Planning report (not yet published per Landscape; no link).",
+    "primary_url": null,
+    "primary_fetched": "not fetched",
+    "primary_confirms": null
+   },
+   {
+    "event": "November 3 ballot measures (Florida Amendment 3, Oklahoma, Wyoming, Ohio)",
+    "landscape_claim": "Florida Amendment 3 cleared 60%; Oklahoma and Wyoming rejected major restrictions; Ohio abolition effort failed to gather signatures.",
+    "wiki_coverage": "Covered at greater depth: events/proposition-13.md 'The 2026 Revolt Wave' (Florida about 62%, Oklahoma SQ 847 54-46 rejected, Wyoming Initiative 1 56-44 lost, Ohio effort suspended 5 June 2026 and aimed at 2027).",
+    "gap": "No gap. Landscape's 'did not even get enough signatures' for Ohio is looser than the wiki's 'suspended its 2026 effort' (see contradictions).",
+    "primary_url": null,
+    "primary_fetched": "not needed",
+    "primary_confirms": null
+   },
+   {
+    "event": "Texas (Texas Tribune, 23 Nov: Doucet interviewed; governor-elect Gina Hinojosa)",
+    "landscape_claim": "Democrats weigh renter relief and bill limits; Doucet argues for local LVT experiments; Hinojosa is governor-elect.",
+    "wiki_coverage": "places/texas.md covers Austin tax rates and the 3.5% cap; no Hinojosa, no Texas Tribune item (LOOPLOG records the Tribune survey rejected 2026-11-25).",
+    "gap": "GAP for the election result (governor-elect) only. Tier 1 would be the Texas Secretary of State canvass; not linked. The Tribune piece is news with a Tier 2 quote.",
+    "primary_url": null,
+    "primary_fetched": "not fetched; none linked",
+    "primary_confirms": null
+   },
+   {
+    "event": "Pittsburgh (McGinley Post-Gazette column urging restoration of LVT)",
+    "landscape_claim": "Opinion column; 'Pennsylvania already has longstanding enabling authority.'",
+    "wiki_coverage": "places/pittsburgh.md 2026 section covers the August 2026 court order, Pro-Housing Pittsburgh report and the reassessment ordinance (cites Landscape #10). The column is logged in LOOPLOG only.",
+    "gap": "Opinion column; no primary. No gap that a primary would fill.",
+    "primary_url": null,
+    "primary_fetched": "not applicable",
+    "primary_confirms": null
+   },
+   {
+    "event": "Louisville split-rate (WDRB, Sept 30)",
+    "landscape_claim": "Louisville 'continues to move toward split-rate taxation'; advocates cite neglected storefronts.",
+    "wiki_coverage": "Covered: places/kentucky.md and enablement-wave page (HB 607; Ordinance 8062725 signed by Mayor Greenberg, August 2026).",
+    "gap": "No gap.",
+    "primary_url": null,
+    "primary_fetched": "not needed",
+    "primary_confirms": null
+   },
+   {
+    "event": "Legislation tracker: '13 states and DC'",
+    "landscape_claim": "'Our legislation tracker now covers 13 states and DC, spanning new laws, recent bills, emerging efforts, and older enabling authority.'",
+    "wiki_coverage": "Wiki cites the CLE tracker (enablement-wave source 1) only for a 2026 roster of nine states (NY, VA, KY, MD, CO, ME, MN, OH, NH). No page states the number 13.",
+    "gap": "Not a count of enacted laws: it counts everything the CLE tracks, including emerging efforts and old authority. Tier 2 self-description; may be reported only as the tracker's own scope, never as 'states with LVT'.",
+    "primary_url": null,
+    "primary_fetched": "not fetched (landeconomics.org tracker is a Tier 2 page, not a primary)",
+    "primary_confirms": null
+   },
+   {
+    "event": "ITEP report, 24 Nov 2026",
+    "landscape_claim": "ITEP released 'The Promise and Pitfalls of Land Value Taxes' on 24 Nov; says report cites CLE's tracker.",
+    "wiki_coverage": "Covered: concepts/split-rate-taxation.md source 10 (Rita Jefferson, 24 Nov 2026; Tier 2, origin only).",
+    "gap": "No gap.",
+    "primary_url": null,
+    "primary_fetched": "not needed",
+    "primary_confirms": null
+   },
+   {
+    "event": "International: Kelowna, New Zealand Opportunity Party, UK PM Burnham, NIESR",
+    "landscape_claim": "Davis Kyle elected in Kelowna; TOP won entry to Parliament in November; Burnham supports LVT.",
+    "wiki_coverage": "Covered: places/british-columbia.md (Kelowna, 17 Oct 2026, Kyle second of eight); places/new-zealand.md (TOP platform, 7 Nov 2026 election); people/andy-burnham.md (PM since 20 July 2026). The TOP election outcome is not stated in the wiki; the Landscape source is Tier 2 (Hoskins).",
+    "gap": "Partial gap: TOP's parliamentary result. Tier 1 would be the NZ Electoral Commission official results (not linked).",
+    "primary_url": null,
+    "primary_fetched": "not fetched; none linked",
+    "primary_confirms": null
+   },
+   {
+    "event": "Dec 9, 2026 'LVT Landscape Live' webinar",
+    "landscape_claim": "Wed Dec 9, 2026, 6:30 PM ET; third edition; hosted by CLE and the Progress and Poverty Institute; Luma registration.",
+    "wiki_coverage": "Not covered; an event notice.",
+    "gap": "Not citable and not a gap. Earlier edition (3 June 2026 webinar) is cited on the wave page.",
+    "primary_url": null,
+    "primary_fetched": "not applicable",
+    "primary_confirms": null
+   },
+   {
+    "event": "Other items (YIMBYtown, YIMBY Action primer, Yglesias, Providence PVD Eye, Marohn rerun, Forrester paper, CLE annual report)",
+    "landscape_claim": "Commentary, conferences, op-eds; CLE annual report says three states passed LVT legislation in 2026.",
+    "wiki_coverage": "Forrester covered at research/forrester-lvt-green-growth.md. Others uncovered but all advocacy or commentary (Tier 2/3).",
+    "gap": "No Tier 1 primary exists for these. The 'three states' statement matches the wiki's three-state framing (NY, VA, KY).",
+    "primary_url": null,
+    "primary_fetched": "not applicable",
+    "primary_confirms": null
+   }
+  ],
+  "contradictions": [
+   "Michigan: Landscape says Duggan's LVT 'fell one vote short' at the State House. events/detroit-lvt-proposal.md says HB 4966-4970 (2023) never got a final House floor vote (HB 4966 postponed 11 Oct 2023). A mismatch of characterisation, not of dates; the wiki's primary-sourced account should stand and the Landscape wording should not be used.",
+   "Ohio: Landscape says organisers 'did not even get enough signatures' for the property-tax abolition amendment; proposition-13.md says the petition committee suspended its 2026 effort on 5 June 2026 and is aiming at 2027. Not an outright conflict but not equivalent; wiki's wording is the safer one.",
+   "No contradiction on state counts: 'three states passed LVT legislation' and 'eight Virginia cities' match the wiki. The '13 states plus DC' figure has no wiki counterpart and counts tracker coverage, not enactments; it must not be paraphrased as thirteen states with LVT law.",
+   "No contradiction on the Florida 60% threshold, Oklahoma and Wyoming rejections, Louisville, DC bill, or NJ A5386."
+  ],
+  "scanner_premise_errors": [
+   "The scanner calls this a review of 'LVT legislative momentum' in which 'Kentucky and Virginia passed enabling legislation; New York extended LVT transit-funding authority'. The Landscape mentions those only as a one-sentence recap (the NY extension is described as covered in Landscape 9); the body is mostly Minnesota, DC, Virginia local politics, Michigan, NJ, Baltimore, ballot measures, Texas, ITEP, YIMBYtown, commentary and international items.",
+   "The scanner says 'prior editions Landscape 8/9 map to the wave page'; true (sources 3 and 5), but Landscape 10 is also cited (source 12, and pittsburgh.md source 6), and the 9 Nov / 17 Nov 2025 editions are cited as well. This is edition 11; no wiki page cites it yet.",
+   "The 13-states figure is the tracker's coverage (new laws, bills, emerging efforts, older authority), not a count of states passing LVT laws."
+  ],
+  "uncertainties": [
+   "The NYS Senate text of GML 119-r carries 'Effective until April 1, 2027' for the value-capture provision, consistent with the wave page's 'renewed through April 2027'; the 2026 budget bill and signing date were not checked against a primary.",
+   "HF 161's record was read on 2026-11-26 and may not show later House action; SF 1422's page was not fetched (same host). Elkins' reintroduction pledge is sourced only to MinnPost (news) and the Landscape.",
+   "Whether the NZ Electoral Commission's results confirm TOP's entry to Parliament was not checked; no official link was supplied.",
+   "Alexandria's agenda is a draft; wait for an adopted council document before writing it up."
+  ],
+  "suggested_text": [
+   {
+    "for_gap": "Minnesota HF 161 (add to the Minnesota mention on events/2026-state-lvt-enablement-wave.md; cite the revisor.mn.gov bill page as Tier 1 primary)",
+    "text": "Minnesota's House File 161 of the 2025-26 session, introduced on 10 February 2025 by Representative Steve Elkins and seven co-authors, would authorize cities to create land-value taxation districts. It was referred to the House Taxes Committee, and its legislative record shows no further action after an author was added on 3 April 2025. Its Senate companion is SF 1422."
+   }
+  ]
+ }
+]
