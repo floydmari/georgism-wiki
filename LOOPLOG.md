@@ -6461,3 +6461,17 @@ primary-sourced accounts and were not adopted. T1 followed the T0 brief; four sm
 
 Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 542 consumed. Merged to main
 and Ghost-synced.
+
+## 2026-11-27 — New Zealand's official results, as relayed
+
+No queue items. The time-bound lead for New Zealand's official election results came due: the
+Electoral Commission's site still refuses an ordinary request, but RNZ's report of the official
+count, released at 2pm on 27 November, was served. The New Zealand page now says that the
+Opportunity Party kept its seven seats while the arithmetic around it changed: National lost two
+electorates, the Greens gained a list seat, and the two blocs sit at 65 each in a 130-seat
+Parliament with ten overhang seats, one short of a majority apiece, which makes the party's
+votes pivotal. The party's final party-vote count and percentage were not in the report, so the
+preliminary figures stand with a residual lead. No scanner or community items.
+
+Lint 0 errors; inventory 1046 pages, 0 orphans. Ledger: 0 pending, 542 consumed. Merged to main
+and Ghost-synced.
