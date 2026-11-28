@@ -1,5 +1,16 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "url": "https://docs.google.com/document/d/12Z9AwOdZwuf0v_m0d3KtZc24gD1Z5yn9vkqqf2F_Ajc?usp=drive_fs",
+      "title": "New designed document workflow:",
+      "source": "marketing",
+      "reason": "unknown domain with keyword (land value)",
+      "context": "New designed document workflow:\ntext draft \u2192 GPT mockup \u2192 Claude PDF\n\n<https://docs.google.com/document/d/12Z9AwOdZwuf0v_m0d3KtZc24gD1Z5yn9vkqqf2F_Ajc?usp=drive_fs|Land Value Tax 2-Pager for Victoria BC | Common Wealth Canada>",
+      "author": "UNYCKRMC6",
+      "queued_at": "2026-11-28T11:00:23.492213+00:00",
+      "reported": false
+    }
+  ],
   "consumed": [
     {
       "url": "https://landeconomics.blob.core.windows.net/pdfs/reports/cincinnati-report.pdf",
@@ -6800,7 +6811,7 @@
       "notes": "Landscape 11 (Greg Miller, 25 Nov 2026) read in full; Tier 2 roundup, not cited. Used as a map: of the events it names, only Minnesota HF 161/SF 1422 was uncovered with a reachable Tier 1 primary (revisor.mn.gov status page), now one paragraph on the enablement-wave page (source 15). The GML \u00a7119-r statute text (nysenate.gov) was fetched as a second primary and added as source 16; it corrected the page's description of 119-r's land value taxation from 'a levy on land alone' to the statutory 'land taxed at a higher rate than improvements', and the special assessment to a benefit-proportional charge that 'shall not constitute a tax'. 'As of August 2026' reworded. Everything else the Landscape lists (DC, Virginia, NJ, Maryland, the 3 Nov measures, Louisville, Michigan, Pittsburgh, NZ TOP result) is already on the wiki; its Michigan 'one vote short' and Ohio 'not enough signatures' wordings conflict with the wiki's primary-sourced accounts and were not adopted. Dec 9 webinar is an event notice. Scanner premises corrected: the piece is mostly election and media commentary, and '13 states plus DC' is the CLE tracker's coverage, not a count of enactments. Leads: Alexandria 2027 agenda, Roanoke, Maryland Planning LVT study, NY 2026 budget bill signing date."
     }
   ],
-  "last_updated": "2026-11-26T11:01:31Z",
+  "last_updated": "2026-11-28T11:01:16Z",
   "_readme": "Wiki queue \u2014 URLs discovered by Hugh's scanners. Filtered to Georgism/LVT/economic rents relevance. Deduped against registry.csv + wiki-inventory.csv.",
-  "total": 0
+  "total": 1
 }
